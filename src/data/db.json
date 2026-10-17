@@ -1,0 +1,3777 @@
+{
+ "tools": [
+  {
+   "slug": "chatgpt",
+   "name": "ChatGPT",
+   "url": "https://chatgpt.com",
+   "category": "AI chat assistant",
+   "description": "OpenAI's general-purpose AI chat assistant for writing, research, coding and images.",
+   "whoFor": "Anyone who wants a capable all-round AI assistant",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; paid Go, Plus and Pro plans — see pricing for current prices",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://openai.com/chatgpt/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "claude",
+   "name": "Claude",
+   "url": "https://claude.ai",
+   "category": "AI chat assistant",
+   "description": "Anthropic's AI assistant, strong at long documents, writing and coding.",
+   "whoFor": "Writers, analysts and developers working with long context",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $20/mo ($17/mo billed annually)",
+    "fromUsdMonthly": 17,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://claude.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "gemini",
+   "name": "Google Gemini",
+   "url": "https://gemini.google.com",
+   "category": "AI chat assistant",
+   "description": "Google's AI assistant, integrated with Google Workspace and Search.",
+   "whoFor": "Google Workspace users",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free; Google AI paid plans from ₹399/mo (India pricing)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://gemini.google/subscriptions/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "perplexity",
+   "name": "Perplexity",
+   "url": "https://www.perplexity.ai",
+   "category": "AI search",
+   "description": "AI answer engine that searches the web and cites sources.",
+   "whoFor": "Researchers and anyone who wants cited answers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.perplexity.ai/pro",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "mistral-le-chat",
+   "name": "Mistral Le Chat",
+   "url": "https://chat.mistral.ai",
+   "category": "AI chat assistant",
+   "description": "Mistral AI's chat assistant, built on European open-weight models.",
+   "whoFor": "Users who prefer a European AI provider",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $14.99/mo (excl. taxes)",
+    "fromUsdMonthly": 14.99,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://mistral.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "grok",
+   "name": "Grok",
+   "url": "https://grok.com",
+   "category": "AI chat assistant",
+   "description": "xAI's AI assistant with real-time access to X posts.",
+   "whoFor": "X users who want real-time context",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://grok.com/plans",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "deepseek",
+   "name": "DeepSeek",
+   "url": "https://chat.deepseek.com",
+   "category": "AI chat assistant",
+   "description": "Free chat assistant built on DeepSeek's open-weight reasoning models.",
+   "whoFor": "Budget-conscious users and developers",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free chat app; API priced per 1M tokens",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://api-docs.deepseek.com/quick_start/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "open-webui",
+   "name": "Open WebUI",
+   "url": "https://openwebui.com",
+   "category": "Self-hosted AI chat",
+   "description": "Self-hosted ChatGPT-style interface for local and API-based models.",
+   "whoFor": "Teams that want a private, self-hosted chat UI",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://openwebui.com",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/open-webui/open-webui",
+    "stars": 155974,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-16",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "lm-studio",
+   "name": "LM Studio",
+   "url": "https://lmstudio.ai",
+   "category": "Local AI",
+   "description": "Desktop app to download and run open models locally.",
+   "whoFor": "Privacy-minded users with a decent laptop",
+   "tags": [
+    "free"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://lmstudio.ai",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "ollama",
+   "name": "Ollama",
+   "url": "https://ollama.com",
+   "category": "Local AI",
+   "description": "Run open-weight LLMs locally from the command line.",
+   "whoFor": "Developers running models on their own machine",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free locally; Pro Max $20/mo for cloud models",
+    "fromUsdMonthly": 20,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://ollama.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/ollama/ollama",
+    "stars": 183608,
+    "license": "MIT",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 2
+   }
+  },
+  {
+   "slug": "jan",
+   "name": "Jan",
+   "url": "https://jan.ai",
+   "category": "Local AI",
+   "description": "Open-source desktop ChatGPT alternative that runs 100% offline.",
+   "whoFor": "Users who want offline, private AI chat",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://jan.ai",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/janhq/jan",
+    "stars": 44979,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-16",
+    "setupDifficulty": 1
+   }
+  },
+  {
+   "slug": "librechat",
+   "name": "LibreChat",
+   "url": "https://www.librechat.ai",
+   "category": "Self-hosted AI chat",
+   "description": "Open-source multi-provider chat UI with agents and plugins.",
+   "whoFor": "Teams consolidating many AI providers in one UI",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.librechat.ai",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/LibreChat-AI/LibreChat",
+    "stars": 45874,
+    "license": "MIT",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "poe",
+   "name": "Poe",
+   "url": "https://poe.com",
+   "category": "AI chat assistant",
+   "description": "Quora's app to chat with many AI models and bots in one place.",
+   "whoFor": "Users who want to try many models in one subscription",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://poe.com/about",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "openrouter",
+   "name": "OpenRouter",
+   "url": "https://openrouter.ai",
+   "category": "AI model access",
+   "description": "One API and chat UI for hundreds of AI models, pay per use.",
+   "whoFor": "Developers and power users comparing models",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://openrouter.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "cursor",
+   "name": "Cursor",
+   "url": "https://cursor.com",
+   "category": "AI code editor",
+   "description": "AI-first code editor (a VS Code fork) with agentic coding.",
+   "whoFor": "Professional developers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Plus $8/mo; Premium $30/mo; Super $100/mo",
+    "fromUsdMonthly": 8,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://cursor.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "windsurf",
+   "name": "Windsurf",
+   "url": "https://windsurf.com",
+   "category": "AI code editor",
+   "description": "Agentic AI IDE with the Cascade coding agent.",
+   "whoFor": "Developers wanting an agentic IDE",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $20/mo; Max $200/mo",
+    "fromUsdMonthly": 20,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://windsurf.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "github-copilot",
+   "name": "GitHub Copilot",
+   "url": "https://github.com/features/copilot",
+   "category": "AI coding assistant",
+   "description": "GitHub's AI pair programmer for VS Code, JetBrains and more.",
+   "whoFor": "Developers already on GitHub",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $10/mo; Pro+ $39/mo; Max $100/mo",
+    "fromUsdMonthly": 10,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/features/copilot/plans",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "cline",
+   "name": "Cline",
+   "url": "https://cline.bot",
+   "category": "AI coding assistant",
+   "description": "Open-source autonomous coding agent for VS Code; bring your own API key.",
+   "whoFor": "Developers who want control over models and costs",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://cline.bot/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/cline/cline",
+    "stars": 70463,
+    "license": "Apache-2.0",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 2
+   }
+  },
+  {
+   "slug": "continue",
+   "name": "Continue",
+   "url": "https://www.continue.dev",
+   "category": "AI coding assistant",
+   "description": "Open-source AI code assistant for VS Code and JetBrains.",
+   "whoFor": "Teams wanting a customisable open-source assistant",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.continue.dev/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/continuedev/continue",
+    "stars": 36234,
+    "license": "Apache-2.0",
+    "archived": false,
+    "lastPush": "2026-10-14",
+    "setupDifficulty": 2
+   }
+  },
+  {
+   "slug": "zed",
+   "name": "Zed",
+   "url": "https://zed.dev",
+   "category": "AI code editor",
+   "description": "Fast, open-source code editor with built-in AI features.",
+   "whoFor": "Developers who value speed",
+   "tags": [
+    "freemium",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free personal plan; Pro $10/mo",
+    "fromUsdMonthly": 10,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://zed.dev/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/zed-industries/zed",
+    "stars": 91858,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 1
+   }
+  },
+  {
+   "slug": "tabnine",
+   "name": "Tabnine",
+   "url": "https://www.tabnine.com",
+   "category": "AI coding assistant",
+   "description": "Privacy-focused AI code assistant with on-prem options.",
+   "whoFor": "Enterprises with strict code-privacy needs",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.tabnine.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "aider",
+   "name": "Aider",
+   "url": "https://aider.chat",
+   "category": "AI coding assistant",
+   "description": "Open-source AI pair programming in your terminal.",
+   "whoFor": "Terminal-first developers",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://aider.chat",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/Aider-AI/aider",
+    "stars": 49595,
+    "license": "Apache-2.0",
+    "archived": false,
+    "lastPush": "2026-05-22",
+    "setupDifficulty": 2
+   }
+  },
+  {
+   "slug": "claude-code",
+   "name": "Claude Code",
+   "url": "https://www.anthropic.com/claude-code",
+   "category": "AI coding assistant",
+   "description": "Anthropic's agentic coding tool for the terminal.",
+   "whoFor": "Developers comfortable in the terminal",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Included with Claude Pro: $20/mo ($17/mo billed annually)",
+    "fromUsdMonthly": 17,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://claude.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "replit",
+   "name": "Replit",
+   "url": "https://replit.com",
+   "category": "AI app builder",
+   "description": "Browser IDE with an AI agent that builds and deploys apps.",
+   "whoFor": "Beginners and makers building full apps in the browser",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://replit.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "lovable",
+   "name": "Lovable",
+   "url": "https://lovable.dev",
+   "category": "AI app builder",
+   "description": "Build full-stack web apps by chatting with AI.",
+   "whoFor": "Non-technical founders and vibe coders",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://lovable.dev/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "bolt",
+   "name": "Bolt.new",
+   "url": "https://bolt.new",
+   "category": "AI app builder",
+   "description": "StackBlitz's in-browser AI app builder.",
+   "whoFor": "Makers who want quick prototypes in the browser",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $25/mo; Teams $30/member/mo",
+    "fromUsdMonthly": 25,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://bolt.new/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "v0",
+   "name": "v0",
+   "url": "https://v0.app",
+   "category": "AI app builder",
+   "description": "Vercel's AI tool for generating React/Next.js UIs and apps.",
+   "whoFor": "Front-end developers and designers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Plus $30/user/mo",
+    "fromUsdMonthly": 30,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://v0.app/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "bolt-diy",
+   "name": "bolt.diy",
+   "url": "https://github.com/stackblitz-labs/bolt.diy",
+   "category": "AI app builder",
+   "description": "Open-source, self-hosted version of Bolt that works with any LLM.",
+   "whoFor": "Developers who want Bolt with their own models",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/stackblitz-labs/bolt.diy",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/stackblitz-labs/bolt.diy",
+    "stars": 19953,
+    "license": "MIT",
+    "archived": false,
+    "lastPush": "2026-10-14",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "base44",
+   "name": "Base44",
+   "url": "https://base44.com",
+   "category": "AI app builder",
+   "description": "AI app builder with built-in database and auth.",
+   "whoFor": "Non-coders building internal tools",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; paid from $16/mo (billed annually)",
+    "fromUsdMonthly": 16,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://base44.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "dyad",
+   "name": "Dyad",
+   "url": "https://www.dyad.sh",
+   "category": "AI app builder",
+   "description": "Free, local, open-source AI app builder.",
+   "whoFor": "Vibe coders who want a local Lovable-style tool",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free & open-source app; Dyad Pro $20/mo",
+    "fromUsdMonthly": 20,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.dyad.sh",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/dyad-sh/dyad",
+    "stars": 21962,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-16",
+    "setupDifficulty": 2
+   }
+  },
+  {
+   "slug": "midjourney",
+   "name": "Midjourney",
+   "url": "https://www.midjourney.com",
+   "category": "AI image generation",
+   "description": "Leading AI image generator known for artistic quality.",
+   "whoFor": "Artists and designers",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "chatgpt-images",
+   "name": "ChatGPT Images",
+   "url": "https://chatgpt.com",
+   "category": "AI image generation",
+   "description": "Image generation built into ChatGPT.",
+   "whoFor": "ChatGPT users needing quick images",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Included in ChatGPT Free (limited) and paid plans — see pricing",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://openai.com/chatgpt/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "leonardo",
+   "name": "Leonardo.Ai",
+   "url": "https://leonardo.ai",
+   "category": "AI image generation",
+   "description": "AI image and video generation platform with fine-tuned models.",
+   "whoFor": "Game artists and creators",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://leonardo.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "ideogram",
+   "name": "Ideogram",
+   "url": "https://ideogram.ai",
+   "category": "AI image generation",
+   "description": "AI image generator that's strong at text in images.",
+   "whoFor": "Designers making posters and logos",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://ideogram.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "stable-diffusion-webui",
+   "name": "Stable Diffusion WebUI (AUTOMATIC1111)",
+   "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+   "category": "AI image generation",
+   "description": "Popular open-source web UI for running Stable Diffusion locally.",
+   "whoFor": "Hobbyists with a GPU",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "stars": 165071,
+    "license": "AGPL-3.0",
+    "archived": false,
+    "lastPush": "2026-03-02",
+    "setupDifficulty": 4
+   }
+  },
+  {
+   "slug": "comfyui",
+   "name": "ComfyUI",
+   "url": "https://www.comfy.org",
+   "category": "AI image generation",
+   "description": "Node-based open-source UI for image and video diffusion models.",
+   "whoFor": "Advanced users building custom image pipelines",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.comfy.org",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/Comfy-Org/ComfyUI",
+    "stars": 138046,
+    "license": "GPL-3.0",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 4
+   }
+  },
+  {
+   "slug": "adobe-firefly",
+   "name": "Adobe Firefly",
+   "url": "https://firefly.adobe.com",
+   "category": "AI image generation",
+   "description": "Adobe's generative AI, designed to be commercially safe.",
+   "whoFor": "Creative Cloud users and brands",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.adobe.com/products/firefly/plans.html",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "flux",
+   "name": "FLUX (Black Forest Labs)",
+   "url": "https://bfl.ai",
+   "category": "AI image generation",
+   "description": "State-of-the-art image models, with open-weight variants.",
+   "whoFor": "Developers integrating image generation",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "API from $0.048/image (pricing calculator)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://bfl.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "elevenlabs",
+   "name": "ElevenLabs",
+   "url": "https://elevenlabs.io",
+   "category": "AI voice",
+   "description": "Realistic AI text-to-speech, voice cloning and dubbing.",
+   "whoFor": "Creators, audiobook and video producers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Starter $6/mo; Creator $22/mo",
+    "fromUsdMonthly": 6,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://elevenlabs.io/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "playht",
+   "name": "Play.ht",
+   "url": "https://play.ht",
+   "category": "AI voice",
+   "description": "AI voice generator and text-to-speech API.",
+   "whoFor": "Developers building voice apps",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://play.ht/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "murf",
+   "name": "Murf AI",
+   "url": "https://murf.ai",
+   "category": "AI voice",
+   "description": "AI voiceover studio for presentations and videos.",
+   "whoFor": "Marketers and e-learning teams",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://murf.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "coqui-tts",
+   "name": "Coqui TTS",
+   "url": "https://github.com/coqui-ai/TTS",
+   "category": "AI voice",
+   "description": "Open-source deep-learning text-to-speech toolkit.",
+   "whoFor": "Developers self-hosting TTS",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/coqui-ai/TTS",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/coqui-ai/TTS",
+    "stars": 46128,
+    "license": "MPL-2.0",
+    "archived": false,
+    "lastPush": "2024-08-16",
+    "setupDifficulty": 4
+   }
+  },
+  {
+   "slug": "piper",
+   "name": "Piper",
+   "url": "https://github.com/rhasspy/piper",
+   "category": "AI voice",
+   "description": "Fast, local open-source neural text-to-speech.",
+   "whoFor": "Home-automation and offline voice projects",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/rhasspy/piper",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/rhasspy/piper",
+    "stars": 11302,
+    "license": "MIT",
+    "archived": true,
+    "lastPush": "2025-08-26",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "resemble",
+   "name": "Resemble AI",
+   "url": "https://www.resemble.ai",
+   "category": "AI voice",
+   "description": "Voice cloning and speech-to-speech with deepfake detection.",
+   "whoFor": "Enterprises and media companies",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Pay-as-you-go credits; Team $350/mo ($280 billed annually)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.resemble.ai/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "speechify",
+   "name": "Speechify",
+   "url": "https://speechify.com",
+   "category": "AI voice",
+   "description": "Text-to-speech reader app for documents and web pages.",
+   "whoFor": "Students and people who prefer listening",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free text-to-speech; Premium $29/mo",
+    "fromUsdMonthly": 29,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://speechify.com/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "notion-ai",
+   "name": "Notion AI",
+   "url": "https://www.notion.com/product/ai",
+   "category": "AI workspace",
+   "description": "AI built into Notion for writing, search and Q&A across your workspace.",
+   "whoFor": "Teams already using Notion",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Plus $10/member/mo; Business (with Notion AI) $20/member/mo",
+    "fromUsdMonthly": 10,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.notion.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md",
+   "category": "Notes",
+   "description": "Local-first Markdown notes app with AI plugins.",
+   "whoFor": "Personal knowledge-management fans",
+   "tags": [
+    "free"
+   ],
+   "pricing": {
+    "summary": "Free app; Sync $4/user/mo (annual); Publish $8/site/mo",
+    "fromUsdMonthly": 4,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://obsidian.md/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "appflowy",
+   "name": "AppFlowy",
+   "url": "https://appflowy.com",
+   "category": "AI workspace",
+   "description": "Open-source Notion alternative with AI features.",
+   "whoFor": "Teams that want a self-hostable Notion",
+   "tags": [
+    "freemium",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free Personal plan; Pro $12/member/mo (billed annually)",
+    "fromUsdMonthly": 12,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://appflowy.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/AppFlowy-IO/AppFlowy",
+    "stars": 77511,
+    "license": "AGPL-3.0",
+    "archived": false,
+    "lastPush": "2026-10-08",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "affine",
+   "name": "AFFiNE",
+   "url": "https://affine.pro",
+   "category": "AI workspace",
+   "description": "Open-source docs, whiteboard and database workspace with AI.",
+   "whoFor": "Users wanting Notion plus Miro in one",
+   "tags": [
+    "freemium",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro from $6.75/mo; Team $10/seat/mo",
+    "fromUsdMonthly": 6.75,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://affine.pro/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/toeverything/AFFiNE",
+    "stars": 73596,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-12",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "mem",
+   "name": "Mem",
+   "url": "https://get.mem.ai",
+   "category": "Notes",
+   "description": "AI-powered notes app that organises itself.",
+   "whoFor": "Busy professionals capturing lots of notes",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Mem Plus $9/mo; Pro $29/mo",
+    "fromUsdMonthly": 9,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://get.mem.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "clickup-brain",
+   "name": "ClickUp Brain",
+   "url": "https://clickup.com/ai",
+   "category": "AI workspace",
+   "description": "AI assistant across ClickUp tasks, docs and chat.",
+   "whoFor": "Project teams on ClickUp",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "ClickUp Unlimited $7/user/mo (annual), Business $12/user/mo (annual); AI pricing on page",
+    "fromUsdMonthly": 7,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://clickup.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "coda",
+   "name": "Coda AI",
+   "url": "https://coda.io",
+   "category": "AI workspace",
+   "description": "Docs-meet-spreadsheets workspace with built-in AI.",
+   "whoFor": "Teams building doc-based workflows",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://coda.io/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "jasper",
+   "name": "Jasper",
+   "url": "https://www.jasper.ai",
+   "category": "AI writing",
+   "description": "AI marketing content platform with brand voice controls.",
+   "whoFor": "Marketing teams",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Pro $69/seat/mo ($59 billed annually)",
+    "fromUsdMonthly": 59,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://www.jasper.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "copy-ai",
+   "name": "Copy.ai",
+   "url": "https://www.copy.ai",
+   "category": "AI writing",
+   "description": "AI platform for go-to-market content and workflows.",
+   "whoFor": "Sales and marketing teams",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Paid from $24/mo billed annually ($29 monthly)",
+    "fromUsdMonthly": 24,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://www.copy.ai/prices",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "writesonic",
+   "name": "Writesonic",
+   "url": "https://writesonic.com",
+   "category": "AI writing",
+   "description": "AI writer focused on SEO and AI-search visibility.",
+   "whoFor": "SEO content teams",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Starter $79/mo billed annually",
+    "fromUsdMonthly": 79,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://writesonic.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "rytr",
+   "name": "Rytr",
+   "url": "https://rytr.me",
+   "category": "AI writing",
+   "description": "Budget-friendly AI writing assistant.",
+   "whoFor": "Freelancers and small businesses",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Lite $9/mo; Personal $19/mo",
+    "fromUsdMonthly": 9,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://rytr.me/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "writer",
+   "name": "Writer",
+   "url": "https://writer.com",
+   "category": "AI writing",
+   "description": "Enterprise generative AI platform for content and agents.",
+   "whoFor": "Large enterprises",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://writer.com/plans/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "grammarly",
+   "name": "Grammarly",
+   "url": "https://www.grammarly.com",
+   "category": "AI writing assistant",
+   "description": "AI writing assistant for grammar, tone and clarity.",
+   "whoFor": "Anyone writing emails and documents in English",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Plus ₹392/member/mo billed annually (India pricing)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.grammarly.com/plans",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "languagetool",
+   "name": "LanguageTool",
+   "url": "https://languagetool.org",
+   "category": "AI writing assistant",
+   "description": "Multilingual grammar and style checker, with an open-source core.",
+   "whoFor": "Multilingual writers",
+   "tags": [
+    "freemium",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://languagetool.org/premium",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/languagetool-org/languagetool",
+    "stars": 15154,
+    "license": "LGPL-2.1",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "quillbot",
+   "name": "QuillBot",
+   "url": "https://quillbot.com",
+   "category": "AI writing assistant",
+   "description": "Paraphraser, grammar checker and summariser.",
+   "whoFor": "Students and non-native writers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://quillbot.com/upgrade",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "prowritingaid",
+   "name": "ProWritingAid",
+   "url": "https://prowritingaid.com",
+   "category": "AI writing assistant",
+   "description": "Grammar checker and style editor for long-form writers.",
+   "whoFor": "Novelists and long-form writers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://prowritingaid.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "hemingway",
+   "name": "Hemingway Editor",
+   "url": "https://hemingwayapp.com",
+   "category": "AI writing assistant",
+   "description": "Readability editor that makes writing bold and clear.",
+   "whoFor": "Writers who want plainer prose",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://hemingwayapp.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "wordtune",
+   "name": "Wordtune",
+   "url": "https://www.wordtune.com",
+   "category": "AI writing assistant",
+   "description": "AI rewriting and summarising assistant.",
+   "whoFor": "Professionals polishing emails",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; paid from $4.89/mo billed annually",
+    "fromUsdMonthly": 4.89,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.wordtune.com/plans",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "zapier",
+   "name": "Zapier",
+   "url": "https://zapier.com",
+   "category": "Automation",
+   "description": "No-code automation connecting thousands of apps, with AI steps.",
+   "whoFor": "Non-technical teams automating workflows",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Professional from $19.99/mo; Team from $69/mo",
+    "fromUsdMonthly": 19.99,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://zapier.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "n8n",
+   "name": "n8n",
+   "url": "https://n8n.io",
+   "category": "Automation",
+   "description": "Fair-code workflow automation with AI agents; self-host or cloud.",
+   "whoFor": "Technical teams wanting control and self-hosting",
+   "tags": [
+    "paid",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Self-hosted Community Edition free; Cloud Starter €20/mo, Pro €50/mo (billed annually)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://n8n.io/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/n8n-io/n8n",
+    "stars": 207803,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "make",
+   "name": "Make",
+   "url": "https://www.make.com",
+   "category": "Automation",
+   "description": "Visual automation platform (formerly Integromat).",
+   "whoFor": "Ops teams building complex visual workflows",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.make.com/en/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "activepieces",
+   "name": "Activepieces",
+   "url": "https://www.activepieces.com",
+   "category": "Automation",
+   "description": "Open-source Zapier alternative with AI agents.",
+   "whoFor": "Teams wanting a self-hosted Zapier",
+   "tags": [
+    "freemium",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free plan; Plus $20/mo flat; Team $200/mo flat",
+    "fromUsdMonthly": 20,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.activepieces.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/activepieces/activepieces",
+    "stars": 25084,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "pipedream",
+   "name": "Pipedream",
+   "url": "https://pipedream.com",
+   "category": "Automation",
+   "description": "Developer-first integration platform with code steps.",
+   "whoFor": "Developers automating APIs",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; paid plans on pricing page",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://pipedream.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "windmill",
+   "name": "Windmill",
+   "url": "https://www.windmill.dev",
+   "category": "Automation",
+   "description": "Open-source developer platform for scripts, workflows and UIs.",
+   "whoFor": "Engineering teams building internal automations",
+   "tags": [
+    "freemium",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free & open-source (self-host); Enterprise from $120/mo",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.windmill.dev/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/windmill-labs/windmill",
+    "stars": 18212,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 4
+   }
+  },
+  {
+   "slug": "huginn",
+   "name": "Huginn",
+   "url": "https://github.com/huginn/huginn",
+   "category": "Automation",
+   "description": "Open-source agents that monitor and act on your behalf.",
+   "whoFor": "Tinkerers self-hosting automation",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/huginn/huginn",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/huginn/huginn",
+    "stars": 50069,
+    "license": "MIT",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 4
+   }
+  },
+  {
+   "slug": "dify",
+   "name": "Dify",
+   "url": "https://dify.ai",
+   "category": "AI agents",
+   "description": "Open-source platform for building LLM apps and agent workflows.",
+   "whoFor": "Teams building AI apps and agents",
+   "tags": [
+    "freemium",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free sandbox; Professional $590/workspace/yr",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://dify.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/langgenius/dify",
+    "stars": 158717,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "flowise",
+   "name": "Flowise",
+   "url": "https://flowiseai.com",
+   "category": "AI agents",
+   "description": "Open-source drag-and-drop builder for LLM agents.",
+   "whoFor": "Builders prototyping AI agents visually",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free cloud plan; Starter $35/mo; Pro $65/mo",
+    "fromUsdMonthly": 35,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://flowiseai.com",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/FlowiseAI/Flowise",
+    "stars": 55512,
+    "license": "Custom / see repo",
+    "archived": true,
+    "lastPush": "2026-08-13",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "canva",
+   "name": "Canva",
+   "url": "https://www.canva.com",
+   "category": "Design",
+   "description": "Online design tool with Magic Studio AI features.",
+   "whoFor": "Non-designers making social posts and presentations",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.canva.com/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "adobe-express",
+   "name": "Adobe Express",
+   "url": "https://www.adobe.com/express/",
+   "category": "Design",
+   "description": "Adobe's quick design app with Firefly AI.",
+   "whoFor": "Creators and small businesses",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.adobe.com/express/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "figma",
+   "name": "Figma",
+   "url": "https://www.figma.com",
+   "category": "Design",
+   "description": "Collaborative interface design tool with AI features.",
+   "whoFor": "Product designers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Professional full seat $16/mo",
+    "fromUsdMonthly": 16,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.figma.com/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "penpot",
+   "name": "Penpot",
+   "url": "https://penpot.app",
+   "category": "Design",
+   "description": "Open-source design and prototyping platform.",
+   "whoFor": "Teams wanting a self-hostable Figma alternative",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free (cloud or self-host); Unlimited $7/editor/mo, capped at $175/mo",
+    "fromUsdMonthly": 7,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://penpot.app/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/penpot/penpot",
+    "stars": 61281,
+    "license": "MPL-2.0",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "microsoft-designer",
+   "name": "Microsoft Designer",
+   "url": "https://designer.microsoft.com",
+   "category": "Design",
+   "description": "Microsoft's AI graphic design app.",
+   "whoFor": "Microsoft 365 users",
+   "tags": [
+    "freemium"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://designer.microsoft.com",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "kittl",
+   "name": "Kittl",
+   "url": "https://www.kittl.com",
+   "category": "Design",
+   "description": "AI-powered design platform for print and branding.",
+   "whoFor": "Merch and brand designers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.kittl.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "visme",
+   "name": "Visme",
+   "url": "https://www.visme.co",
+   "category": "Design",
+   "description": "Presentations, infographics and documents with AI.",
+   "whoFor": "Marketers and educators",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free Basic plan; Starter $12.25/mo (billed $147/yr)",
+    "fromUsdMonthly": 12.25,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.visme.co/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "synthesia",
+   "name": "Synthesia",
+   "url": "https://www.synthesia.io",
+   "category": "AI video",
+   "description": "AI avatar videos from text, in 140+ languages.",
+   "whoFor": "Training and L&D teams",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free Basic plan; Starter $29/mo; Pro $89/mo",
+    "fromUsdMonthly": 29,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.synthesia.io/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "heygen",
+   "name": "HeyGen",
+   "url": "https://www.heygen.com",
+   "category": "AI video",
+   "description": "AI avatar and video translation platform.",
+   "whoFor": "Marketers and creators localising video",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Creator $29/mo; Pro $49/mo",
+    "fromUsdMonthly": 29,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.heygen.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "colossyan",
+   "name": "Colossyan",
+   "url": "https://www.colossyan.com",
+   "category": "AI video",
+   "description": "AI video generator for workplace learning.",
+   "whoFor": "Corporate trainers",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free Starter plan; Professional $59/mo",
+    "fromUsdMonthly": 59,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.colossyan.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "d-id",
+   "name": "D-ID",
+   "url": "https://www.d-id.com",
+   "category": "AI video",
+   "description": "Talking-head avatars and interactive AI agents.",
+   "whoFor": "Marketers and developers",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.d-id.com/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "elai",
+   "name": "Elai.io",
+   "url": "https://elai.io",
+   "category": "AI video",
+   "description": "AI video creation from text with avatars.",
+   "whoFor": "E-learning creators",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Creator $29/mo ($23/mo billed annually)",
+    "fromUsdMonthly": 23,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://elai.io/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "runway",
+   "name": "Runway",
+   "url": "https://runwayml.com",
+   "category": "AI video",
+   "description": "AI video generation and editing (Gen-4 models).",
+   "whoFor": "Filmmakers and video creators",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan (125 one-time credits); Standard $15/mo ($12 billed annually)",
+    "fromUsdMonthly": 12,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://runwayml.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "pika",
+   "name": "Pika",
+   "url": "https://pika.art",
+   "category": "AI video",
+   "description": "Playful AI video generator and effects.",
+   "whoFor": "Social media creators",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Starter $10/mo; Creator $35/mo",
+    "fromUsdMonthly": 10,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://pika.art/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "luma",
+   "name": "Luma Dream Machine",
+   "url": "https://lumalabs.ai",
+   "category": "AI video",
+   "description": "AI video generation with realistic motion.",
+   "whoFor": "Creators and filmmakers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Plus $30/mo ($300/yr); Pro $90/mo",
+    "fromUsdMonthly": 30,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://lumalabs.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "kling",
+   "name": "Kling AI",
+   "url": "https://klingai.com",
+   "category": "AI video",
+   "description": "AI video generator from Kuaishou.",
+   "whoFor": "Creators wanting cinematic clips",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://klingai.com",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "invideo",
+   "name": "InVideo AI",
+   "url": "https://invideo.io",
+   "category": "AI video",
+   "description": "Turn prompts into finished videos with stock and voiceover.",
+   "whoFor": "YouTubers and marketers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Basic from $4/seat/mo billed annually ($9 monthly)",
+    "fromUsdMonthly": 4,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://invideo.io/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "otter",
+   "name": "Otter.ai",
+   "url": "https://otter.ai",
+   "category": "AI meeting notes",
+   "description": "AI meeting transcription and notes.",
+   "whoFor": "Professionals in lots of meetings",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $16.99/user/mo ($8.49 billed annually)",
+    "fromUsdMonthly": 8.49,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://otter.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "fireflies",
+   "name": "Fireflies.ai",
+   "url": "https://fireflies.ai",
+   "category": "AI meeting notes",
+   "description": "AI notetaker that records, transcribes and summarises meetings.",
+   "whoFor": "Sales and customer teams",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $10/seat/mo billed annually ($18 monthly)",
+    "fromUsdMonthly": 10,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://fireflies.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "fathom",
+   "name": "Fathom",
+   "url": "https://www.fathom.ai",
+   "category": "AI meeting notes",
+   "description": "AI notetaker with a generous free plan.",
+   "whoFor": "Individuals wanting free meeting notes",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free forever plan; Team $15–19/user/mo (2-user min)",
+    "fromUsdMonthly": 15,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.fathom.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "tldv",
+   "name": "tl;dv",
+   "url": "https://tldv.io",
+   "category": "AI meeting notes",
+   "description": "AI meeting recorder for Zoom, Meet and Teams.",
+   "whoFor": "Remote teams",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://tldv.io/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "granola",
+   "name": "Granola",
+   "url": "https://www.granola.ai",
+   "category": "AI meeting notes",
+   "description": "AI notepad that enhances your own meeting notes, no bot joins.",
+   "whoFor": "People who dislike meeting bots",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free Basic plan; Business $14/user/mo; Enterprise $35/user/mo",
+    "fromUsdMonthly": 14,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.granola.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "read-ai",
+   "name": "Read AI",
+   "url": "https://www.read.ai",
+   "category": "AI meeting notes",
+   "description": "Meeting summaries plus email and message copilot.",
+   "whoFor": "Managers across many meeting platforms",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $15/user/mo billed annually ($19.75 monthly)",
+    "fromUsdMonthly": 15,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.read.ai/plans-pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "whisper",
+   "name": "Whisper (OpenAI)",
+   "url": "https://github.com/openai/whisper",
+   "category": "Transcription",
+   "description": "Open-source speech recognition model.",
+   "whoFor": "Developers self-hosting transcription",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/openai/whisper",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/openai/whisper",
+    "stars": 110753,
+    "license": "MIT",
+    "archived": false,
+    "lastPush": "2026-08-31",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "descript",
+   "name": "Descript",
+   "url": "https://www.descript.com",
+   "category": "AI video editing",
+   "description": "Edit audio and video by editing the transcript.",
+   "whoFor": "Podcasters and video creators",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Hobbyist $16–24/person/mo; Creator $24–35/person/mo",
+    "fromUsdMonthly": 16,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.descript.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "riverside",
+   "name": "Riverside",
+   "url": "https://riverside.com",
+   "category": "AI video editing",
+   "description": "Studio-quality remote recording with AI editing.",
+   "whoFor": "Podcasters",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro billed $288/yr; Grow billed $408/yr",
+    "fromUsdMonthly": 24,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://riverside.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "capcut",
+   "name": "CapCut",
+   "url": "https://www.capcut.com",
+   "category": "AI video editing",
+   "description": "Free video editor with AI features from ByteDance.",
+   "whoFor": "Short-form creators",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.capcut.com",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "opus-clip",
+   "name": "OpusClip",
+   "url": "https://www.opus.pro",
+   "category": "AI video editing",
+   "description": "Turns long videos into viral short clips with AI.",
+   "whoFor": "Creators repurposing long video",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Starter $15/mo",
+    "fromUsdMonthly": 15,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.opus.pro/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "veed",
+   "name": "VEED",
+   "url": "https://www.veed.io",
+   "category": "AI video editing",
+   "description": "Online video editor with AI subtitles and avatars.",
+   "whoFor": "Marketers making social video",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.veed.io/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "kdenlive",
+   "name": "Kdenlive",
+   "url": "https://kdenlive.org",
+   "category": "Video editing",
+   "description": "Free, open-source desktop video editor.",
+   "whoFor": "Budget editors on Linux/Windows/Mac",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://kdenlive.org",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/KDE/kdenlive",
+    "stars": 5886,
+    "license": "GPL-3.0",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 2
+   }
+  },
+  {
+   "slug": "gamma",
+   "name": "Gamma",
+   "url": "https://gamma.app",
+   "category": "AI presentations",
+   "description": "Create presentations, docs and sites with AI.",
+   "whoFor": "Anyone who needs a deck fast",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://gamma.app/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "beautiful-ai",
+   "name": "Beautiful.ai",
+   "url": "https://www.beautiful.ai",
+   "category": "AI presentations",
+   "description": "Smart slide templates that auto-format.",
+   "whoFor": "Business teams",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Pro $14.50/mo (billed annually); Team $40/user/mo (annual) or $50 monthly",
+    "fromUsdMonthly": 14.5,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://www.beautiful.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "pitch",
+   "name": "Pitch",
+   "url": "https://pitch.com",
+   "category": "AI presentations",
+   "description": "Collaborative presentation software with AI.",
+   "whoFor": "Startups and teams",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Plus €10/mo, Team €15/mo (paid yearly)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://pitch.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "plus-ai",
+   "name": "Plus AI",
+   "url": "https://plusai.com",
+   "category": "AI presentations",
+   "description": "AI presentations inside Google Slides and PowerPoint.",
+   "whoFor": "Google Slides users",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Basic $10/user/mo billed annually ($15 monthly); Pro $20",
+    "fromUsdMonthly": 10,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://plusai.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "presenton",
+   "name": "Presenton",
+   "url": "https://presenton.ai",
+   "category": "AI presentations",
+   "description": "Open-source, self-hostable AI presentation generator.",
+   "whoFor": "Developers wanting a self-hosted Gamma",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/presenton/presenton",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/presenton/presenton",
+    "stars": 11172,
+    "license": "Apache-2.0",
+    "archived": false,
+    "lastPush": "2026-10-16",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "suno",
+   "name": "Suno",
+   "url": "https://suno.com",
+   "category": "AI music",
+   "description": "Generate full songs with vocals from a prompt.",
+   "whoFor": "Creators and hobby musicians",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $8/mo (billed yearly); Premier $24/mo (billed yearly)",
+    "fromUsdMonthly": 8,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://suno.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "udio",
+   "name": "Udio",
+   "url": "https://www.udio.com",
+   "category": "AI music",
+   "description": "AI music generator with high-fidelity vocals.",
+   "whoFor": "Musicians experimenting with AI",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.udio.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "soundraw",
+   "name": "Soundraw",
+   "url": "https://soundraw.io",
+   "category": "AI music",
+   "description": "Royalty-free AI music for videos.",
+   "whoFor": "Video creators needing background music",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Paid from $5.99/mo",
+    "fromUsdMonthly": 5.99,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://soundraw.io/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "aiva",
+   "name": "AIVA",
+   "url": "https://www.aiva.ai",
+   "category": "AI music",
+   "description": "AI composer for soundtracks and instrumental music.",
+   "whoFor": "Game and film composers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Standard €11/mo, Pro €33/mo (+VAT, billed annually)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.aiva.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "mubert",
+   "name": "Mubert",
+   "url": "https://mubert.com",
+   "category": "AI music",
+   "description": "Generative royalty-free music for content.",
+   "whoFor": "Streamers and app developers",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Creator $14/mo ($11.69/mo billed annually); Pro $39/mo",
+    "fromUsdMonthly": 11.69,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://mubert.com/render/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "audiocraft",
+   "name": "AudioCraft (Meta)",
+   "url": "https://github.com/facebookresearch/audiocraft",
+   "category": "AI music",
+   "description": "Meta's open-source MusicGen and AudioGen models.",
+   "whoFor": "Researchers and developers",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/facebookresearch/audiocraft",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/facebookresearch/audiocraft",
+    "stars": 23740,
+    "license": "MIT",
+    "archived": false,
+    "lastPush": "2026-03-03",
+    "setupDifficulty": 4
+   }
+  },
+  {
+   "slug": "character-ai",
+   "name": "Character.ai",
+   "url": "https://character.ai",
+   "category": "AI companions",
+   "description": "Chat with AI characters or create your own.",
+   "whoFor": "Entertainment and role-play fans",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://character.ai/subscription",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "sillytavern",
+   "name": "SillyTavern",
+   "url": "https://sillytavern.app",
+   "category": "AI companions",
+   "description": "Open-source, self-hosted front end for AI role-play chat.",
+   "whoFor": "Power users who want full control of characters",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/SillyTavern/SillyTavern",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/SillyTavern/SillyTavern",
+    "stars": 34589,
+    "license": "AGPL-3.0",
+    "archived": false,
+    "lastPush": "2026-10-02",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "replika",
+   "name": "Replika",
+   "url": "https://replika.com",
+   "category": "AI companions",
+   "description": "AI companion app focused on friendship and conversation.",
+   "whoFor": "People wanting a conversational companion",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://replika.com",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "kindroid",
+   "name": "Kindroid",
+   "url": "https://kindroid.ai",
+   "category": "AI companions",
+   "description": "Customisable AI companion with memory and voice.",
+   "whoFor": "Users wanting a highly customisable companion",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://kindroid.ai",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "nomi",
+   "name": "Nomi",
+   "url": "https://nomi.ai",
+   "category": "AI companions",
+   "description": "AI companion with long-term memory.",
+   "whoFor": "Companion-app users",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://nomi.ai",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "talkie",
+   "name": "Talkie",
+   "url": "https://www.talkie-ai.com",
+   "category": "AI companions",
+   "description": "AI character chat app.",
+   "whoFor": "Casual character-chat users",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.talkie-ai.com",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "microsoft-excel",
+   "name": "Microsoft Excel",
+   "url": "https://www.microsoft.com/microsoft-365/excel",
+   "category": "Spreadsheets",
+   "description": "Microsoft's spreadsheet app with Copilot.",
+   "whoFor": "Everyone",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/excel",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "google-sheets",
+   "name": "Google Sheets",
+   "url": "https://workspace.google.com/products/sheets/",
+   "category": "Spreadsheets",
+   "description": "Free online spreadsheets with Gemini in Workspace plans.",
+   "whoFor": "Collaborative teams",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free with a Google account; Workspace from ₹99/user/mo (India pricing)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://workspace.google.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "rows",
+   "name": "Rows",
+   "url": "https://rows.com",
+   "category": "Spreadsheets",
+   "description": "Spreadsheet with built-in AI analyst and integrations.",
+   "whoFor": "Analysts wanting AI-native spreadsheets",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Plus $8/user/mo; Pro $79/mo + $8/user",
+    "fromUsdMonthly": 8,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://rows.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "airtable",
+   "name": "Airtable",
+   "url": "https://www.airtable.com",
+   "category": "Spreadsheets",
+   "description": "Spreadsheet-database hybrid with AI fields.",
+   "whoFor": "Ops teams managing structured data",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Team $20/user/mo, Business $45/user/mo (billed annually)",
+    "fromUsdMonthly": 20,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.airtable.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "julius",
+   "name": "Julius AI",
+   "url": "https://julius.ai",
+   "category": "Data analysis",
+   "description": "AI data analyst: chat with your spreadsheets.",
+   "whoFor": "Non-technical people analysing data",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Plus $20/mo ($16 annually); Pro $45/mo",
+    "fromUsdMonthly": 16,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://julius.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "nocodb",
+   "name": "NocoDB",
+   "url": "https://nocodb.com",
+   "category": "Spreadsheets",
+   "description": "Open-source Airtable alternative on top of your database.",
+   "whoFor": "Teams wanting a self-hosted Airtable",
+   "tags": [
+    "freemium",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free up to 3 users; Plus $12/seat/mo (billed annually)",
+    "fromUsdMonthly": 12,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://nocodb.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/nocodb/nocodb",
+    "stars": 65291,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "adobe-photoshop",
+   "name": "Adobe Photoshop",
+   "url": "https://www.adobe.com/products/photoshop.html",
+   "category": "Image editing",
+   "description": "Industry-standard image editor with Generative Fill.",
+   "whoFor": "Professional designers and photographers",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.adobe.com/products/photoshop/plans.html",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "photopea",
+   "name": "Photopea",
+   "url": "https://www.photopea.com",
+   "category": "Image editing",
+   "description": "Free browser-based Photoshop-like editor.",
+   "whoFor": "Users wanting Photoshop features for free",
+   "tags": [
+    "freemium"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.photopea.com",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "gimp",
+   "name": "GIMP",
+   "url": "https://www.gimp.org",
+   "category": "Image editing",
+   "description": "Free, open-source image editor.",
+   "whoFor": "Budget users comfortable with a learning curve",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.gimp.org",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "pixlr",
+   "name": "Pixlr",
+   "url": "https://pixlr.com",
+   "category": "Image editing",
+   "description": "Online photo editor with AI tools.",
+   "whoFor": "Casual editors",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free; Plus $2.49/mo ($1.99 billed yearly)",
+    "fromUsdMonthly": 1.99,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://pixlr.com/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "krita",
+   "name": "Krita",
+   "url": "https://krita.org",
+   "category": "Image editing",
+   "description": "Free, open-source painting program.",
+   "whoFor": "Digital painters",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://krita.org",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "zendesk",
+   "name": "Zendesk",
+   "url": "https://www.zendesk.com",
+   "category": "Customer support",
+   "description": "Customer service platform with AI agents.",
+   "whoFor": "Mid-size and large support teams",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Support Team US$19/agent/mo; Suite from US$55/agent/mo (paid yearly)",
+    "fromUsdMonthly": 19,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://www.zendesk.com/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "intercom-fin",
+   "name": "Intercom Fin",
+   "url": "https://fin.ai",
+   "category": "Customer support",
+   "description": "AI customer service agent from Intercom, priced per resolution.",
+   "whoFor": "Support teams automating replies",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Helpdesk from $19/seat/mo + Fin AI Agent $0.99 per outcome",
+    "fromUsdMonthly": 19,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://www.intercom.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "freshdesk",
+   "name": "Freshdesk",
+   "url": "https://www.freshworks.com/freshdesk/",
+   "category": "Customer support",
+   "description": "Helpdesk with Freddy AI.",
+   "whoFor": "SMB support teams",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Growth $19/agent/mo (billed annually)",
+    "fromUsdMonthly": 19,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.freshworks.com/freshdesk/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "chatwoot",
+   "name": "Chatwoot",
+   "url": "https://www.chatwoot.com",
+   "category": "Customer support",
+   "description": "Open-source customer engagement suite with AI.",
+   "whoFor": "Teams wanting a self-hosted Intercom/Zendesk",
+   "tags": [
+    "freemium",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free Hacker plan (2 agents); Startups $19/agent/mo; Business $39/agent/mo",
+    "fromUsdMonthly": 19,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.chatwoot.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": {
+    "repo": "https://github.com/chatwoot/chatwoot",
+    "stars": 37893,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "gorgias",
+   "name": "Gorgias",
+   "url": "https://www.gorgias.com",
+   "category": "Customer support",
+   "description": "Helpdesk built for ecommerce, with AI agent.",
+   "whoFor": "Shopify stores",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Starter $40/mo (billed monthly)",
+    "fromUsdMonthly": 40,
+    "hasFreePlan": false,
+    "verified": true,
+    "sourceUrl": "https://www.gorgias.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "tidio",
+   "name": "Tidio",
+   "url": "https://www.tidio.com",
+   "category": "Customer support",
+   "description": "Live chat and Lyro AI chatbot for small businesses.",
+   "whoFor": "Small online stores",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; paid from $24.17/mo",
+    "fromUsdMonthly": 24.17,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.tidio.com/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "shopify-magic",
+   "name": "Shopify Magic",
+   "url": "https://www.shopify.com/magic",
+   "category": "Ecommerce",
+   "description": "Free AI features built into Shopify.",
+   "whoFor": "Shopify merchants",
+   "tags": [
+    "free"
+   ],
+   "pricing": {
+    "summary": "Included free with Shopify plans; Shopify Basic ₹1,499/mo (India pricing)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.shopify.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "klaviyo",
+   "name": "Klaviyo",
+   "url": "https://www.klaviyo.com",
+   "category": "Ecommerce marketing",
+   "description": "Email/SMS marketing with AI for ecommerce.",
+   "whoFor": "Growing online stores",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan (250 profiles, 500 emails/mo); paid plans scale by contacts",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.klaviyo.com/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "khanmigo",
+   "name": "Khanmigo",
+   "url": "https://www.khanmigo.ai",
+   "category": "Education",
+   "description": "Khan Academy's AI tutor and teacher assistant.",
+   "whoFor": "Teachers and students",
+   "tags": [
+    "freemium"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.khanmigo.ai",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "magicschool",
+   "name": "MagicSchool",
+   "url": "https://www.magicschool.ai",
+   "category": "Education",
+   "description": "AI tools for teachers: lesson plans, worksheets, rubrics.",
+   "whoFor": "Teachers and tutors",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free for teachers; Plus $8.33/mo billed annually ($12.99 monthly)",
+    "fromUsdMonthly": 8.33,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.magicschool.ai/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "quizlet",
+   "name": "Quizlet",
+   "url": "https://quizlet.com",
+   "category": "Education",
+   "description": "Flashcards and AI study tools.",
+   "whoFor": "Students",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://quizlet.com/upgrade",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "wolfram-alpha",
+   "name": "Wolfram|Alpha",
+   "url": "https://www.wolframalpha.com",
+   "category": "Education",
+   "description": "Computational knowledge engine for maths and chemistry.",
+   "whoFor": "STEM students and tutors",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free; Pro $5/mo billed annually ($9.99 monthly)",
+    "fromUsdMonthly": 5,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.wolframalpha.com/pro/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "linear",
+   "name": "Linear",
+   "url": "https://linear.app",
+   "category": "Product management",
+   "description": "Issue tracking with AI triage for product teams.",
+   "whoFor": "Product and engineering teams",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Basic $10/user/mo",
+    "fromUsdMonthly": 10,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://linear.app/pricing",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "productboard",
+   "name": "Productboard",
+   "url": "https://www.productboard.com",
+   "category": "Product management",
+   "description": "Product management platform with AI feedback insights.",
+   "whoFor": "PMs managing feedback and roadmaps",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
+    "sourceUrl": "https://www.productboard.com/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "dovetail",
+   "name": "Dovetail",
+   "url": "https://dovetail.com",
+   "category": "Product management",
+   "description": "AI customer-insights and research repository.",
+   "whoFor": "Product researchers and PMs",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; paid plans on pricing page",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://dovetail.com/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "miro",
+   "name": "Miro",
+   "url": "https://miro.com",
+   "category": "Collaboration",
+   "description": "Online whiteboard with AI.",
+   "whoFor": "Workshops and product teams",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Starter $8/member/mo (billed yearly); Business $20",
+    "fromUsdMonthly": 8,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://miro.com/pricing/",
+    "lastChecked": "2026-10-17"
+   },
+   "openSource": null
+  }
+ ],
+ "anchors": [
+  {
+   "slug": "chatgpt",
+   "alternatives": [
+    "claude",
+    "gemini",
+    "perplexity",
+    "grok",
+    "mistral-le-chat",
+    "deepseek",
+    "open-webui",
+    "lm-studio",
+    "librechat",
+    "poe"
+   ]
+  },
+  {
+   "slug": "claude",
+   "alternatives": [
+    "chatgpt",
+    "gemini",
+    "perplexity",
+    "mistral-le-chat",
+    "deepseek",
+    "grok",
+    "librechat",
+    "open-webui"
+   ]
+  },
+  {
+   "slug": "cursor",
+   "alternatives": [
+    "windsurf",
+    "github-copilot",
+    "cline",
+    "continue",
+    "zed",
+    "claude-code",
+    "aider",
+    "tabnine"
+   ]
+  },
+  {
+   "slug": "github-copilot",
+   "alternatives": [
+    "cursor",
+    "windsurf",
+    "tabnine",
+    "continue",
+    "cline",
+    "aider",
+    "claude-code"
+   ]
+  },
+  {
+   "slug": "windsurf",
+   "alternatives": [
+    "cursor",
+    "github-copilot",
+    "cline",
+    "zed",
+    "continue",
+    "aider"
+   ]
+  },
+  {
+   "slug": "lovable",
+   "alternatives": [
+    "bolt",
+    "v0",
+    "replit",
+    "base44",
+    "dyad",
+    "bolt-diy"
+   ]
+  },
+  {
+   "slug": "bolt",
+   "alternatives": [
+    "lovable",
+    "v0",
+    "replit",
+    "base44",
+    "bolt-diy",
+    "dyad"
+   ]
+  },
+  {
+   "slug": "v0",
+   "alternatives": [
+    "lovable",
+    "bolt",
+    "replit",
+    "base44",
+    "dyad"
+   ]
+  },
+  {
+   "slug": "replit",
+   "alternatives": [
+    "lovable",
+    "bolt",
+    "v0",
+    "cursor",
+    "base44",
+    "bolt-diy"
+   ]
+  },
+  {
+   "slug": "midjourney",
+   "alternatives": [
+    "chatgpt-images",
+    "leonardo",
+    "ideogram",
+    "adobe-firefly",
+    "flux",
+    "stable-diffusion-webui",
+    "comfyui"
+   ]
+  },
+  {
+   "slug": "elevenlabs",
+   "alternatives": [
+    "playht",
+    "murf",
+    "resemble",
+    "speechify",
+    "coqui-tts",
+    "piper"
+   ]
+  },
+  {
+   "slug": "perplexity",
+   "alternatives": [
+    "chatgpt",
+    "claude",
+    "gemini",
+    "grok",
+    "deepseek",
+    "poe"
+   ]
+  },
+  {
+   "slug": "notion-ai",
+   "alternatives": [
+    "obsidian",
+    "appflowy",
+    "affine",
+    "coda",
+    "clickup-brain",
+    "mem"
+   ]
+  },
+  {
+   "slug": "jasper",
+   "alternatives": [
+    "copy-ai",
+    "writesonic",
+    "rytr",
+    "writer",
+    "chatgpt",
+    "claude"
+   ]
+  },
+  {
+   "slug": "copy-ai",
+   "alternatives": [
+    "jasper",
+    "writesonic",
+    "rytr",
+    "writer",
+    "chatgpt"
+   ]
+  },
+  {
+   "slug": "grammarly",
+   "alternatives": [
+    "languagetool",
+    "quillbot",
+    "prowritingaid",
+    "hemingway",
+    "wordtune"
+   ]
+  },
+  {
+   "slug": "zapier",
+   "alternatives": [
+    "make",
+    "n8n",
+    "activepieces",
+    "pipedream",
+    "windmill",
+    "huginn"
+   ]
+  },
+  {
+   "slug": "n8n",
+   "alternatives": [
+    "zapier",
+    "make",
+    "activepieces",
+    "pipedream",
+    "windmill",
+    "dify",
+    "flowise"
+   ]
+  },
+  {
+   "slug": "make",
+   "alternatives": [
+    "zapier",
+    "n8n",
+    "activepieces",
+    "pipedream",
+    "windmill"
+   ]
+  },
+  {
+   "slug": "canva",
+   "alternatives": [
+    "adobe-express",
+    "figma",
+    "penpot",
+    "microsoft-designer",
+    "kittl",
+    "visme"
+   ]
+  },
+  {
+   "slug": "synthesia",
+   "alternatives": [
+    "heygen",
+    "colossyan",
+    "d-id",
+    "elai",
+    "invideo"
+   ]
+  },
+  {
+   "slug": "heygen",
+   "alternatives": [
+    "synthesia",
+    "colossyan",
+    "d-id",
+    "elai",
+    "invideo"
+   ]
+  },
+  {
+   "slug": "runway",
+   "alternatives": [
+    "pika",
+    "luma",
+    "kling",
+    "invideo",
+    "comfyui"
+   ]
+  },
+  {
+   "slug": "otter",
+   "alternatives": [
+    "fireflies",
+    "fathom",
+    "tldv",
+    "granola",
+    "read-ai",
+    "whisper"
+   ]
+  },
+  {
+   "slug": "fireflies",
+   "alternatives": [
+    "otter",
+    "fathom",
+    "tldv",
+    "granola",
+    "read-ai"
+   ]
+  },
+  {
+   "slug": "descript",
+   "alternatives": [
+    "riverside",
+    "capcut",
+    "opus-clip",
+    "veed",
+    "kdenlive"
+   ]
+  },
+  {
+   "slug": "gamma",
+   "alternatives": [
+    "beautiful-ai",
+    "pitch",
+    "plus-ai",
+    "canva",
+    "presenton"
+   ]
+  },
+  {
+   "slug": "suno",
+   "alternatives": [
+    "udio",
+    "soundraw",
+    "aiva",
+    "mubert",
+    "audiocraft"
+   ]
+  },
+  {
+   "slug": "poe",
+   "alternatives": [
+    "openrouter",
+    "chatgpt",
+    "perplexity",
+    "librechat",
+    "open-webui"
+   ]
+  },
+  {
+   "slug": "character-ai",
+   "alternatives": [
+    "sillytavern",
+    "replika",
+    "kindroid",
+    "nomi",
+    "talkie"
+   ]
+  }
+ ],
+ "saas": [
+  {
+   "slug": "excel",
+   "name": "Microsoft Excel",
+   "toolSlug": "microsoft-excel",
+   "alternatives": [
+    "google-sheets",
+    "rows",
+    "airtable",
+    "julius",
+    "nocodb"
+   ]
+  },
+  {
+   "slug": "canva",
+   "name": "Canva",
+   "toolSlug": "canva",
+   "alternatives": [
+    "adobe-express",
+    "microsoft-designer",
+    "kittl",
+    "visme",
+    "ideogram",
+    "gamma"
+   ]
+  },
+  {
+   "slug": "photoshop",
+   "name": "Adobe Photoshop",
+   "toolSlug": "adobe-photoshop",
+   "alternatives": [
+    "photopea",
+    "gimp",
+    "pixlr",
+    "krita",
+    "adobe-firefly",
+    "comfyui"
+   ]
+  },
+  {
+   "slug": "grammarly",
+   "name": "Grammarly",
+   "toolSlug": "grammarly",
+   "alternatives": [
+    "languagetool",
+    "quillbot",
+    "prowritingaid",
+    "wordtune",
+    "hemingway"
+   ]
+  },
+  {
+   "slug": "zendesk",
+   "name": "Zendesk",
+   "toolSlug": "zendesk",
+   "alternatives": [
+    "intercom-fin",
+    "freshdesk",
+    "chatwoot",
+    "gorgias",
+    "tidio"
+   ]
+  }
+ ],
+ "stacks": [
+  {
+   "slug": "shopify-store",
+   "title": "AI stack for a Shopify store",
+   "intro": "Tools to write listings, support customers, market and automate a small Shopify store.",
+   "items": [
+    {
+     "tool": "shopify-magic",
+     "role": "Product descriptions and store copy"
+    },
+    {
+     "tool": "gorgias",
+     "role": "Ecommerce helpdesk"
+    },
+    {
+     "tool": "tidio",
+     "role": "Live chat + AI bot"
+    },
+    {
+     "tool": "klaviyo",
+     "role": "Email/SMS marketing"
+    },
+    {
+     "tool": "canva",
+     "role": "Product and social graphics"
+    },
+    {
+     "tool": "zapier",
+     "role": "Glue between apps"
+    }
+   ]
+  },
+  {
+   "slug": "chemistry-tutor",
+   "title": "AI stack for a chemistry tutor",
+   "intro": "Tools a chemistry tutor can use to plan lessons, make practice material and report to parents.",
+   "items": [
+    {
+     "tool": "magicschool",
+     "role": "Worksheets and lesson plans"
+    },
+    {
+     "tool": "wolfram-alpha",
+     "role": "Check calculations and structures"
+    },
+    {
+     "tool": "chatgpt",
+     "role": "Explain concepts, draft questions"
+    },
+    {
+     "tool": "quizlet",
+     "role": "Flashcards for revision"
+    },
+    {
+     "tool": "gamma",
+     "role": "Lesson slides"
+    },
+    {
+     "tool": "otter",
+     "role": "Transcribe sessions for notes"
+    }
+   ]
+  },
+  {
+   "slug": "product-manager",
+   "title": "AI stack for a product manager",
+   "intro": "Tools a PM can use for research, specs, meetings and roadmaps.",
+   "items": [
+    {
+     "tool": "claude",
+     "role": "Specs, PRDs and analysis"
+    },
+    {
+     "tool": "dovetail",
+     "role": "Customer research insights"
+    },
+    {
+     "tool": "granola",
+     "role": "Meeting notes without a bot"
+    },
+    {
+     "tool": "linear",
+     "role": "Issue tracking"
+    },
+    {
+     "tool": "productboard",
+     "role": "Feedback and roadmap"
+    },
+    {
+     "tool": "miro",
+     "role": "Workshops and journey maps"
+    },
+    {
+     "tool": "v0",
+     "role": "Clickable prototypes"
+    }
+   ]
+  }
+ ]
+}
