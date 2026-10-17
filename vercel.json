@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/:path*", "has": [{ "type": "host", "value": "www.findbetteralt.com" }], "destination": "https://findbetteralt.com/:path*", "permanent": true }
+  ]
+}
