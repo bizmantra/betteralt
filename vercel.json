@@ -1,5 +1,6 @@
 {
   "redirects": [
-    { "source": "/:path*", "has": [{ "type": "host", "value": "www.findbetteralt.com" }], "destination": "https://findbetteralt.com/:path*", "permanent": true }
+    { "source": "/", "has": [{ "type": "host", "value": "www.findbetteralt.com" }], "destination": "https://findbetteralt.com/", "permanent": true },
+    { "source": "/:path(.*)", "has": [{ "type": "host", "value": "www.findbetteralt.com" }], "destination": "https://findbetteralt.com/:path", "permanent": true }
   ]
 }
