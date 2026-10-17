@@ -16,7 +16,7 @@ export default async function Page({ params }: { params: Promise<{ tool: string;
   const { tool, filter } = await params; const t = getTool(tool); if (!t || !FILTERS[filter]) notFound();
   const items = filtered(tool, filter);
   return <div className="space-y-6"><JsonLd data={itemList(`${FILTERS[filter].title} to ${t.name}`, items)} />
-    <Crumbs items={[{ name: "Alternatives" }, { name: `${t.name} alternatives`, href: `/alternatives/${tool}` }, { name: FILTERS[filter].title }]} />
+    <Crumbs items={[{ name: `${t.name} alternatives`, href: `/alternatives/${tool}` }, { name: FILTERS[filter].title }]} />
     <h1 className="text-3xl font-bold">{FILTERS[filter].title} to {t.name}</h1>
     {filter === "cheaper" && <p className="text-sm text-slate-600">Compared on the lowest verified paid price per month. {t.name}: {t.pricing.summary}</p>}
     <Grid items={items} /></div>;

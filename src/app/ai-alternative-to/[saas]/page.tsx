@@ -14,7 +14,7 @@ export default async function Page({ params }: { params: Promise<{ saas: string 
   const { saas: k } = await params; const s = saas.find((x) => x.slug === k); if (!s) notFound();
   const items = s.alternatives.map((x) => getTool(x)!); const base = getTool(s.toolSlug)!;
   return <div className="space-y-6"><JsonLd data={itemList(`AI alternatives to ${s.name}`, items)} />
-    <Crumbs items={[{ name: "AI alternatives" }, { name: `AI alternatives to ${s.name}` }]} />
+    <Crumbs items={[{ name: `AI alternatives to ${s.name}` }]} />
     <h1 className="text-3xl font-bold">AI alternatives to {s.name}</h1>
     <div className="rounded-xl border bg-white p-4"><p className="text-xs uppercase text-slate-500">{s.name} pricing</p><Price t={base} /></div>
     <Grid items={items} /></div>;

@@ -20,7 +20,7 @@ export default async function Page({ params }: { params: Promise<{ tool: string 
   const ld: Record<string, unknown> = { "@context": "https://schema.org", "@type": "SoftwareApplication", name: t.name, url: t.url, applicationCategory: /cod|IDE|developer|agent/i.test(t.category) ? "DeveloperApplication" : /image|design|video|audio|voice|music|photo/i.test(t.category) ? "MultimediaApplication" : "BusinessApplication", keywords: t.category, description: t.description, ...(t.formerNames ? { alternateName: t.formerNames } : {}) };
   if (t.pricing.fromUsdMonthly != null && (t.pricing.currency ?? "USD") === "USD") ld.offers = [{ "@type": "Offer", price: t.pricing.fromUsdMonthly, priceCurrency: "USD", url: t.pricing.sourceUrl, validFrom: t.pricing.lastChecked, priceSpecification: { "@type": "UnitPriceSpecification", price: t.pricing.fromUsdMonthly, priceCurrency: "USD", billingDuration: "P1M" } }];
   return <div className="max-w-3xl space-y-6"><JsonLd data={ld} />
-    <Crumbs items={[{ name: "Tools" }, { name: t.name }]} />
+    <Crumbs items={[{ name: t.name }]} />
     {t.statusNote && <div role="note" className="rounded-xl border border-amber-300 bg-amber-50 p-4 text-sm text-amber-900"><strong>{t.status === "renamed" ? "Renamed" : t.status === "acquired" ? "Acquired · no longer maintained" : "Shut down"}:</strong> {t.statusNote} Sources: {t.statusSources?.map((u, i) => <a key={u} href={u} className="underline" target="_blank" rel="nofollow noopener">{i ? ", " : ""}{new URL(u).hostname}</a>)}</div>}
     <div><h1 className="text-3xl font-bold">{t.name}</h1><p className="text-sm uppercase text-slate-500">{t.category}</p>
       <p className="text-xs text-slate-500">Updated {fmtDate(lastmodTool(t.slug))}</p>

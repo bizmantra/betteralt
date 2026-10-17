@@ -30,7 +30,7 @@ export default async function Page({ params }: { params: Promise<{ tool: string 
   return <div className="space-y-8">
     <JsonLd data={itemList(`Alternatives to ${t.name}`, alts)} />
     <JsonLd data={{ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }} />
-    <div><Crumbs items={[{ name: "Alternatives" }, { name: `${t.name} alternatives` }]} />
+    <div><Crumbs items={[{ name: `${t.name} alternatives` }]} />
       <h1 className="mt-1 text-3xl font-bold">{alts.length} best {t.name} alternatives</h1>
       <p className="mt-1 text-xs text-slate-500">Updated {fmtDate(lastmodAnchor(tool))}</p>
       <p className="mt-2 max-w-3xl text-slate-600">{t.name}: {t.description}</p>
