@@ -6435,6 +6435,40 @@
    "firstPublished": "2026-10-18",
    "contentUpdatedAt": "2026-10-18",
    "reviewedBy": "rosh-k"
+  },
+  {
+   "slug": "indie-builder",
+   "title": "AI stack for an indie builder (vibe coding)",
+   "intro": "Tools to go from an idea to a working app by describing it, then keep building in real code.",
+   "items": [
+    {
+     "tool": "lovable",
+     "role": "Chat-to-app builder for full-stack web apps"
+    },
+    {
+     "tool": "bolt",
+     "role": "In-browser AI app builder (StackBlitz)"
+    },
+    {
+     "tool": "v0",
+     "role": "Generate React/Next.js UIs and apps (Vercel)"
+    },
+    {
+     "tool": "replit",
+     "role": "Browser IDE with an AI agent that builds and deploys"
+    },
+    {
+     "tool": "cursor",
+     "role": "AI code editor for when you take over the code"
+    },
+    {
+     "tool": "claude-code",
+     "role": "Agentic coding in the terminal"
+    }
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   }
  ],
  "changes": [

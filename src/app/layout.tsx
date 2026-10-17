@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return <html lang="en" style={{ colorScheme: "light" }}><body className="min-h-screen bg-paper text-ink antialiased"><JsonLd data={orgGraph} /><TrackClicks />
     <header className="border-b-2 border-ink bg-paper"><nav className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-5 gap-y-2 px-4 py-3 text-sm">
-      <Link href="/" className="mr-auto text-xl font-bold tracking-tight">Better<span className="text-indigo-600">Alt</span></Link>
+      <Link href="/" className="mr-auto text-xl font-bold tracking-tight">Better<span className="bg-hl px-1">Alt</span></Link>
       <Link href="/open-source">Open source</Link><Link href="/stacks">Stacks</Link><Link href="/changes">Price changes</Link>
       <Link href="/submit" data-track="submit_cta_click" data-placement="header">Submit</Link><Link href="/sponsor" data-track="sponsor_cta_click" data-placement="header">Sponsor</Link>
     </nav></header>
