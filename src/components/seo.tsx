@@ -5,11 +5,11 @@ import { JsonLd } from "@/components/ui";
 
 const cut = (s: string, n = 155) => { if (s.length <= n) return s; const c = s.slice(0, n - 1); return c.slice(0, c.lastIndexOf(" ")).replace(/[\s,.;:(·-]+$/, "") + "…"; };
 // Next replaces nested openGraph objects instead of merging, so always pass the full object.
-export function buildMetadata({ title, description, path, type = "website", robots }: { title: string; description: string; path: string; type?: "website" | "article"; robots?: Metadata["robots"] }): Metadata {
+export function buildMetadata({ title, description, path, type = "website", robots, ogImage = "/opengraph-image" }: { title: string; description: string; path: string; type?: "website" | "article"; robots?: Metadata["robots"]; ogImage?: string }): Metadata {
   const d = cut(description);
   return { title, description: d, alternates: { canonical: path }, robots,
-    openGraph: { siteName: "BetterAlt", locale: "en_US", type, url: path, title, description: d, images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "BetterAlt" }] },
-    twitter: { card: "summary_large_image", title, description: d } };
+    openGraph: { siteName: "BetterAlt", locale: "en_US", type, url: path, title, description: d, images: [{ url: ogImage, width: 1200, height: 630, alt: title }] },
+    twitter: { card: "summary_large_image", title, description: d, images: [ogImage] } };
 }
 
 export const orgGraph = { "@context": "https://schema.org", "@graph": [

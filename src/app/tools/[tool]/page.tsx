@@ -11,7 +11,7 @@ export const generateStaticParams = () => tools.map((t) => ({ tool: t.slug }));
 export async function generateMetadata({ params }: { params: Promise<{ tool: string }> }): Promise<Metadata> {
   const { tool } = await params; const t = getTool(tool)!;
   const title = `${t.name} pricing, features and alternatives`;
-  return buildMetadata({ title, description: `${t.description} ${t.pricing.summary ? "Pricing: " + t.pricing.summary + "." : ""}`, path: `/tools/${tool}` });
+  return buildMetadata({ title, description: `${t.description} ${t.pricing.summary ? "Pricing: " + t.pricing.summary + "." : ""}`, path: `/tools/${tool}`, ogImage: `/tools/${tool}/opengraph-image` });
 }
 export default async function Page({ params }: { params: Promise<{ tool: string }> }) {
   const { tool } = await params; const t = getTool(tool); if (!t) notFound();

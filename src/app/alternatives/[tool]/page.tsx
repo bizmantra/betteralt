@@ -13,7 +13,7 @@ export async function generateMetadata({ params }: { params: Promise<{ tool: str
   const { tool } = await params; const t = getTool(tool)!; const n = altsOf(tool).length;
   const title = `${n} best ${t.name} alternatives (${monthYear(lastmodAnchor(tool))}), with prices`;
   const description = `Compare ${n} alternatives to ${t.name}: free, open-source, self-hosted and cheaper options, with prices taken from vendor pricing pages and dated.`;
-  return buildMetadata({ title, description, path: `/alternatives/${tool}` });
+  return buildMetadata({ title, description, path: `/alternatives/${tool}`, ogImage: `/alternatives/${tool}/opengraph-image` });
 }
 export default async function Page({ params }: { params: Promise<{ tool: string }> }) {
   const { tool } = await params; const t = getTool(tool); if (!t) notFound();
