@@ -1,11 +1,12 @@
+import { buildMetadata, Crumbs } from "@/components/seo";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { tools, changes, getTool, fmtDate } from "@/lib/data";
-export const metadata: Metadata = { title: "AI tool price changes", description: "A running log of AI tool price changes, with old price, new price, date and vendor source. Tracking began 17 Oct 2026.", alternates: { canonical: "/changes" } };
+export const metadata: Metadata = buildMetadata({ title: "AI tool price changes", description: "A running log of AI tool price changes, with old price, new price, date and vendor source. Tracking began 17 Oct 2026.", path: "/changes" });
 export default function Page() {
   const tracked = tools.filter((t) => t.pricing.verified && t.pricing.summary);
   const log = [...changes].sort((a, b) => b.date.localeCompare(a.date));
-  return <div className="max-w-3xl space-y-6"><h1 className="text-3xl font-bold">Price changes</h1>
+  return <div className="max-w-3xl space-y-6"><Crumbs items={[{ name: "Price changes" }]} /><h1 className="text-3xl font-bold">Price changes</h1>
     <p className="text-slate-600">We re-check vendor pricing pages and log every change here, with the old price, the new price and the source. Tracking began on 17 Oct 2026.</p>
     <h2 className="text-xl font-semibold">Changes found</h2>
     {log.length === 0 ? <p className="text-sm text-slate-600">No changes yet.</p> :

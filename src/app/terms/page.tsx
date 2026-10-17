@@ -1,8 +1,9 @@
+import { buildMetadata, Crumbs } from "@/components/seo";
 import type { Metadata } from "next";
-export const metadata: Metadata = { title: "Terms of use", description: "The terms for using BetterAlt, including how we show prices and affiliate links.", alternates: { canonical: "/terms" } };
+export const metadata: Metadata = buildMetadata({ title: "Terms of use", description: "The terms for using BetterAlt, including how we show prices and affiliate links.", path: "/terms" });
 const H = ({ children }: { children: React.ReactNode }) => <h2 className="mt-6 text-xl font-semibold">{children}</h2>;
 export default function Page() {
-  return <div className="max-w-3xl space-y-3 text-slate-700"><h1 className="text-3xl font-bold text-slate-900">Terms of use</h1>
+  return <div className="max-w-3xl space-y-3 text-slate-700"><Crumbs items={[{ name: "Terms" }]} /><h1 className="text-3xl font-bold text-slate-900">Terms of use</h1>
     <p className="text-sm text-slate-500">Last updated 18 Oct 2026</p>
     <p>These terms apply to your use of BetterAlt (findbetteralt.com), a directory of AI tools and their alternatives run from India. By using the site you agree to them.</p>
     <H>Information only</H>

@@ -2,24 +2,28 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { Tags, Price, JsonLd } from "@/components/ui";
-import { tools, getTool, getAnchor, anchors, fmtStars } from "@/lib/data";
+import { tools, getTool, getAnchor, anchors, fmtStars, fmtDate } from "@/lib/data";
+import { lastmodTool } from "@/lib/seo";
+import { buildMetadata, Crumbs } from "@/components/seo";
 
 export const dynamicParams = false;
 export const generateStaticParams = () => tools.map((t) => ({ tool: t.slug }));
 export async function generateMetadata({ params }: { params: Promise<{ tool: string }> }): Promise<Metadata> {
   const { tool } = await params; const t = getTool(tool)!;
   const title = `${t.name} pricing, features and alternatives`;
-  return { title, description: `${t.description} ${t.pricing.summary ? "Pricing: " + t.pricing.summary + "." : ""}`.slice(0, 160), alternates: { canonical: `/tools/${tool}` }, openGraph: { title, url: `/tools/${tool}` } };
+  return buildMetadata({ title, description: `${t.description} ${t.pricing.summary ? "Pricing: " + t.pricing.summary + "." : ""}`, path: `/tools/${tool}` });
 }
 export default async function Page({ params }: { params: Promise<{ tool: string }> }) {
   const { tool } = await params; const t = getTool(tool); if (!t) notFound();
   const altOf = anchors.filter((a) => a.alternatives.includes(t.slug)).map((a) => getTool(a.slug)!);
   const o = t.openSource;
-  const ld: Record<string, unknown> = { "@context": "https://schema.org", "@type": "SoftwareApplication", name: t.name, url: t.url, applicationCategory: t.category, description: t.description };
-  if (t.pricing.fromUsdMonthly != null && (t.pricing.currency ?? "USD") === "USD") ld.offers = { "@type": "Offer", price: t.pricing.fromUsdMonthly, priceCurrency: "USD" };
+  const ld: Record<string, unknown> = { "@context": "https://schema.org", "@type": "SoftwareApplication", name: t.name, url: t.url, applicationCategory: /cod|IDE|developer|agent/i.test(t.category) ? "DeveloperApplication" : /image|design|video|audio|voice|music|photo/i.test(t.category) ? "MultimediaApplication" : "BusinessApplication", keywords: t.category, description: t.description, ...(t.formerNames ? { alternateName: t.formerNames } : {}) };
+  if (t.pricing.fromUsdMonthly != null && (t.pricing.currency ?? "USD") === "USD") ld.offers = [{ "@type": "Offer", price: t.pricing.fromUsdMonthly, priceCurrency: "USD", url: t.pricing.sourceUrl, validFrom: t.pricing.lastChecked, priceSpecification: { "@type": "UnitPriceSpecification", price: t.pricing.fromUsdMonthly, priceCurrency: "USD", billingDuration: "P1M" } }];
   return <div className="max-w-3xl space-y-6"><JsonLd data={ld} />
-    <p className="text-sm text-slate-500"><Link href="/">Home</Link> / Tools / {t.name}</p>
+    <Crumbs items={[{ name: "Tools" }, { name: t.name }]} />
+    {t.statusNote && <div role="note" className="rounded-xl border border-amber-300 bg-amber-50 p-4 text-sm text-amber-900"><strong>{t.status === "renamed" ? "Renamed" : t.status === "acquired" ? "Acquired · no longer maintained" : "Shut down"}:</strong> {t.statusNote} Sources: {t.statusSources?.map((u, i) => <a key={u} href={u} className="underline" target="_blank" rel="nofollow noopener">{i ? ", " : ""}{new URL(u).hostname}</a>)}</div>}
     <div><h1 className="text-3xl font-bold">{t.name}</h1><p className="text-sm uppercase text-slate-500">{t.category}</p>
+      <p className="text-xs text-slate-500">Updated {fmtDate(lastmodTool(t.slug))}</p>
       <p className="mt-3 text-lg text-slate-700">{t.description}</p><div className="mt-3"><Tags tags={t.tags} /></div>
       <a href={t.url} target="_blank" rel="nofollow noopener" className="mt-4 inline-block rounded-lg bg-indigo-600 px-4 py-2 font-medium text-white">Visit {t.name} ↗</a></div>
     <section className="rounded-xl border bg-white p-5"><h2 className="mb-2 text-xl font-semibold">Pricing</h2><Price t={t} />

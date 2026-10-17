@@ -1,8 +1,9 @@
+import { buildMetadata, Crumbs } from "@/components/seo";
 import type { Metadata } from "next";
-export const metadata: Metadata = { title: "Privacy policy", description: "How BetterAlt handles analytics, cookies, newsletter emails and your data.", alternates: { canonical: "/privacy" } };
+export const metadata: Metadata = buildMetadata({ title: "Privacy policy", description: "How BetterAlt handles analytics, cookies, newsletter emails and your data.", path: "/privacy" });
 const H = ({ children }: { children: React.ReactNode }) => <h2 className="mt-6 text-xl font-semibold">{children}</h2>;
 export default function Page() {
-  return <div className="max-w-3xl space-y-3 text-slate-700"><h1 className="text-3xl font-bold text-slate-900">Privacy policy</h1>
+  return <div className="max-w-3xl space-y-3 text-slate-700"><Crumbs items={[{ name: "Privacy" }]} /><h1 className="text-3xl font-bold text-slate-900">Privacy policy</h1>
     <p className="text-sm text-slate-500">Last updated 18 Oct 2026 (newsletter provider added)</p>
     <p>BetterAlt (findbetteralt.com) is a directory of AI tools and their alternatives, run from India. This page explains, in plain language, what data we collect and why. We try to collect as little as possible.</p>
     <H>What we collect</H>

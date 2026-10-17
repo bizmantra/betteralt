@@ -2,17 +2,18 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import "./globals.css";
 import { SITE } from "@/lib/data";
+import { JsonLd } from "@/components/ui";
+import { orgGraph } from "@/components/seo";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE),
   title: { default: "BetterAlt: find a better or cheaper alternative to any AI tool", template: "%s | BetterAlt" },
   description: "Find a better or cheaper alternative to any AI tool, with today's prices. Free, open-source and self-hosted options, with sources and last-checked dates.",
-  openGraph: { siteName: "BetterAlt", type: "website", locale: "en_IN" },
+  openGraph: { siteName: "BetterAlt", type: "website", locale: "en_US" },
   twitter: { card: "summary_large_image" },
-  alternates: { canonical: "/" },
 };
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return <html lang="en"><body className="min-h-screen bg-slate-50 text-slate-900 antialiased">
+  return <html lang="en"><body className="min-h-screen bg-slate-50 text-slate-900 antialiased"><JsonLd data={orgGraph} />
     <header className="border-b bg-white"><nav className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-5 gap-y-2 px-4 py-3 text-sm">
       <Link href="/" className="mr-auto text-xl font-bold tracking-tight">Better<span className="text-indigo-600">Alt</span></Link>
       <Link href="/open-source">Open source</Link><Link href="/stacks">Stacks</Link><Link href="/changes">Price changes</Link>

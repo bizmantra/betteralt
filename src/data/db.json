@@ -23,9 +23,13 @@
      "sourceUrl": "https://openai.com/chatgpt/pricing/",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "claude",
@@ -45,9 +49,13 @@
     "verified": true,
     "sourceUrl": "https://claude.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "gemini",
@@ -72,9 +80,13 @@
      "sourceUrl": "https://gemini.google/subscriptions/",
      "lastChecked": "2026-10-17"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "perplexity",
@@ -94,9 +106,13 @@
     "verified": true,
     "sourceUrl": "https://www.perplexity.ai/pro",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "mistral-le-chat",
@@ -116,9 +132,13 @@
     "verified": true,
     "sourceUrl": "https://mistral.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "grok",
@@ -143,9 +163,13 @@
      "sourceUrl": "https://grok.com/plans",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "deepseek",
@@ -165,9 +189,13 @@
     "verified": true,
     "sourceUrl": "https://api-docs.deepseek.com/quick_start/pricing",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "open-webui",
@@ -188,7 +216,8 @@
     "verified": true,
     "sourceUrl": "https://openwebui.com",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/open-webui/open-webui",
@@ -197,7 +226,10 @@
     "archived": false,
     "lastPush": "2026-10-16",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "lm-studio",
@@ -216,9 +248,13 @@
     "verified": true,
     "sourceUrl": "https://lmstudio.ai/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "ollama",
@@ -239,7 +275,8 @@
     "verified": true,
     "sourceUrl": "https://ollama.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/ollama/ollama",
@@ -248,7 +285,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 2
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "jan",
@@ -269,7 +309,8 @@
     "verified": true,
     "sourceUrl": "https://jan.ai",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/janhq/jan",
@@ -278,7 +319,10 @@
     "archived": false,
     "lastPush": "2026-10-16",
     "setupDifficulty": 1
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "librechat",
@@ -299,7 +343,8 @@
     "verified": true,
     "sourceUrl": "https://www.librechat.ai",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/LibreChat-AI/LibreChat",
@@ -308,7 +353,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "poe",
@@ -333,9 +381,13 @@
      "sourceUrl": "https://poe.com/subscription_plans",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "openrouter",
@@ -354,9 +406,13 @@
     "verified": true,
     "sourceUrl": "https://openrouter.ai/pricing",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "cursor",
@@ -376,16 +432,20 @@
     "verified": true,
     "sourceUrl": "https://cursor.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "windsurf",
-   "name": "Windsurf",
-   "url": "https://windsurf.com",
+   "name": "Devin Desktop (formerly Windsurf)",
+   "url": "https://devin.ai",
    "category": "AI code editor",
-   "description": "Agentic AI IDE with the Cascade coding agent.",
+   "description": "Cognition's agentic AI IDE, formerly Windsurf, with the Devin Local agent and an Agent Command Center for local and cloud agents.",
    "whoFor": "Developers wanting an agentic IDE",
    "tags": [
     "freemium",
@@ -396,11 +456,23 @@
     "fromUsdMonthly": 20,
     "hasFreePlan": true,
     "verified": true,
-    "sourceUrl": "https://windsurf.com/pricing",
+    "sourceUrl": "https://devin.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "renamed",
+   "formerNames": [
+    "Windsurf"
+   ],
+   "statusNote": "Windsurf was renamed Devin Desktop on 2 June 2026. Cognition says plans, pricing, extensions and settings stayed the same.",
+   "statusSources": [
+    "https://devin.ai/blog/windsurf-is-now-devin-desktop",
+    "https://docs.devin.ai/desktop/devin-desktop-faq"
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "github-copilot",
@@ -420,9 +492,13 @@
     "verified": true,
     "sourceUrl": "https://github.com/features/copilot/plans",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "cline",
@@ -442,7 +518,8 @@
     "verified": true,
     "sourceUrl": "https://cline.bot/pricing",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/cline/cline",
@@ -451,7 +528,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 2
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "continue",
@@ -462,16 +542,18 @@
    "whoFor": "Teams wanting a customisable open-source assistant",
    "tags": [
     "free",
-    "open source"
+    "open source",
+    "discontinued"
    ],
    "pricing": {
-    "summary": "Free and open source",
+    "summary": "Free and open source (no longer maintained)",
     "fromUsdMonthly": null,
     "hasFreePlan": true,
     "verified": true,
-    "sourceUrl": "https://www.continue.dev/pricing",
-    "lastChecked": "2026-10-17",
-    "currency": null
+    "sourceUrl": "https://continue.dev/",
+    "lastChecked": "2026-10-18",
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
    "openSource": {
     "repo": "https://github.com/continuedev/continue",
@@ -480,7 +562,15 @@
     "archived": false,
     "lastPush": "2026-10-14",
     "setupDifficulty": 2
-   }
+   },
+   "status": "acquired",
+   "statusNote": "Continue was acquired by Cursor (June 2026). Its final release was 2.0.0 and the continuedev/continue repository is marked as no longer actively maintained and read-only. The Apache-2.0 code is still available to fork.",
+   "statusSources": [
+    "https://continue.dev/",
+    "https://github.com/continuedev/continue"
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "zed",
@@ -500,7 +590,8 @@
     "verified": true,
     "sourceUrl": "https://zed.dev/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/zed-industries/zed",
@@ -509,7 +600,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 1
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "tabnine",
@@ -528,9 +622,13 @@
     "verified": false,
     "sourceUrl": "https://www.tabnine.com/pricing",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "aider",
@@ -550,7 +648,8 @@
     "verified": true,
     "sourceUrl": "https://aider.chat",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/Aider-AI/aider",
@@ -559,7 +658,10 @@
     "archived": false,
     "lastPush": "2026-05-22",
     "setupDifficulty": 2
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "claude-code",
@@ -578,9 +680,13 @@
     "verified": true,
     "sourceUrl": "https://claude.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "replit",
@@ -600,9 +706,13 @@
     "verified": true,
     "sourceUrl": "https://replit.com/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "lovable",
@@ -622,9 +732,13 @@
     "verified": true,
     "sourceUrl": "https://lovable.dev/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "bolt",
@@ -644,9 +758,13 @@
     "verified": true,
     "sourceUrl": "https://bolt.new/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "v0",
@@ -666,9 +784,13 @@
     "verified": true,
     "sourceUrl": "https://v0.app/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "bolt-diy",
@@ -689,7 +811,8 @@
     "verified": true,
     "sourceUrl": "https://github.com/stackblitz-labs/bolt.diy",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/stackblitz-labs/bolt.diy",
@@ -698,7 +821,10 @@
     "archived": false,
     "lastPush": "2026-10-14",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "base44",
@@ -718,9 +844,13 @@
     "verified": true,
     "sourceUrl": "https://base44.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "dyad",
@@ -740,7 +870,8 @@
     "verified": true,
     "sourceUrl": "https://www.dyad.sh",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/dyad-sh/dyad",
@@ -749,7 +880,10 @@
     "archived": false,
     "lastPush": "2026-10-16",
     "setupDifficulty": 2
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "midjourney",
@@ -768,9 +902,13 @@
     "verified": true,
     "sourceUrl": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "chatgpt-images",
@@ -790,9 +928,13 @@
     "verified": true,
     "sourceUrl": "https://openai.com/chatgpt/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "leonardo",
@@ -812,9 +954,13 @@
     "verified": true,
     "sourceUrl": "https://leonardo.ai/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "ideogram",
@@ -834,9 +980,13 @@
     "verified": true,
     "sourceUrl": "https://ideogram.ai/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "stable-diffusion-webui",
@@ -857,7 +1007,8 @@
     "verified": true,
     "sourceUrl": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
@@ -866,7 +1017,10 @@
     "archived": false,
     "lastPush": "2026-03-02",
     "setupDifficulty": 4
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "comfyui",
@@ -887,7 +1041,8 @@
     "verified": true,
     "sourceUrl": "https://www.comfy.org",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/Comfy-Org/ComfyUI",
@@ -896,7 +1051,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 4
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "adobe-firefly",
@@ -921,9 +1079,13 @@
      "sourceUrl": "https://www.adobe.com/products/firefly/plans.html",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "flux",
@@ -942,9 +1104,13 @@
     "verified": true,
     "sourceUrl": "https://bfl.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "elevenlabs",
@@ -964,9 +1130,13 @@
     "verified": true,
     "sourceUrl": "https://elevenlabs.io/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "murf",
@@ -986,9 +1156,13 @@
     "verified": true,
     "sourceUrl": "https://murf.ai/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "coqui-tts",
@@ -1009,7 +1183,8 @@
     "verified": true,
     "sourceUrl": "https://github.com/coqui-ai/TTS",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/coqui-ai/TTS",
@@ -1018,7 +1193,10 @@
     "archived": false,
     "lastPush": "2024-08-16",
     "setupDifficulty": 4
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "piper",
@@ -1039,7 +1217,8 @@
     "verified": true,
     "sourceUrl": "https://github.com/rhasspy/piper",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/rhasspy/piper",
@@ -1048,7 +1227,10 @@
     "archived": true,
     "lastPush": "2025-08-26",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "resemble",
@@ -1067,9 +1249,13 @@
     "verified": true,
     "sourceUrl": "https://www.resemble.ai/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "speechify",
@@ -1089,9 +1275,13 @@
     "verified": true,
     "sourceUrl": "https://speechify.com/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "notion-ai",
@@ -1110,9 +1300,13 @@
     "verified": true,
     "sourceUrl": "https://www.notion.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "obsidian",
@@ -1131,9 +1325,13 @@
     "verified": true,
     "sourceUrl": "https://obsidian.md/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "appflowy",
@@ -1154,7 +1352,8 @@
     "verified": true,
     "sourceUrl": "https://appflowy.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/AppFlowy-IO/AppFlowy",
@@ -1163,7 +1362,10 @@
     "archived": false,
     "lastPush": "2026-10-08",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "affine",
@@ -1184,7 +1386,8 @@
     "verified": true,
     "sourceUrl": "https://affine.pro/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/toeverything/AFFiNE",
@@ -1193,7 +1396,10 @@
     "archived": false,
     "lastPush": "2026-10-12",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "mem",
@@ -1213,9 +1419,13 @@
     "verified": true,
     "sourceUrl": "https://get.mem.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "clickup-brain",
@@ -1234,9 +1444,13 @@
     "verified": true,
     "sourceUrl": "https://clickup.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "coda",
@@ -1261,9 +1475,13 @@
      "sourceUrl": "https://coda.io/pricing",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "jasper",
@@ -1282,9 +1500,13 @@
     "verified": true,
     "sourceUrl": "https://www.jasper.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "copy-ai",
@@ -1304,9 +1526,13 @@
     "verified": true,
     "sourceUrl": "https://www.copy.ai/prices",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "writesonic",
@@ -1325,9 +1551,13 @@
     "verified": true,
     "sourceUrl": "https://writesonic.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "rytr",
@@ -1347,9 +1577,13 @@
     "verified": true,
     "sourceUrl": "https://rytr.me/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "writer",
@@ -1368,9 +1602,13 @@
     "verified": true,
     "sourceUrl": "https://writer.com/plans/",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "grammarly",
@@ -1395,9 +1633,13 @@
      "sourceUrl": "https://www.grammarly.com/plans",
      "lastChecked": "2026-10-17"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "languagetool",
@@ -1418,7 +1660,8 @@
     "verified": true,
     "sourceUrl": "https://languagetool.org/premium",
     "lastChecked": "2026-10-18",
-    "currency": "INR"
+    "currency": "INR",
+    "lastChangedAt": "2026-10-18"
    },
    "openSource": {
     "repo": "https://github.com/languagetool-org/languagetool",
@@ -1427,7 +1670,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "quillbot",
@@ -1447,9 +1693,13 @@
     "verified": true,
     "sourceUrl": "https://quillbot.com/premium",
     "lastChecked": "2026-10-18",
-    "currency": "INR"
+    "currency": "INR",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "prowritingaid",
@@ -1474,9 +1724,13 @@
      "sourceUrl": "https://prowritingaid.com/pricing",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "hemingway",
@@ -1496,9 +1750,13 @@
     "verified": true,
     "sourceUrl": "https://hemingwayapp.com/hemingway-editor-plus",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "wordtune",
@@ -1518,9 +1776,13 @@
     "verified": true,
     "sourceUrl": "https://www.wordtune.com/plans",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "zapier",
@@ -1540,9 +1802,13 @@
     "verified": true,
     "sourceUrl": "https://zapier.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "n8n",
@@ -1563,7 +1829,8 @@
     "verified": true,
     "sourceUrl": "https://n8n.io/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": "EUR"
+    "currency": "EUR",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/n8n-io/n8n",
@@ -1572,7 +1839,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "make",
@@ -1592,9 +1862,13 @@
     "verified": false,
     "sourceUrl": "https://www.make.com/en/pricing",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "activepieces",
@@ -1615,7 +1889,8 @@
     "verified": true,
     "sourceUrl": "https://www.activepieces.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/activepieces/activepieces",
@@ -1624,7 +1899,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "pipedream",
@@ -1644,9 +1922,13 @@
     "verified": true,
     "sourceUrl": "https://pipedream.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "windmill",
@@ -1667,7 +1949,8 @@
     "verified": true,
     "sourceUrl": "https://www.windmill.dev/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/windmill-labs/windmill",
@@ -1676,7 +1959,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 4
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "huginn",
@@ -1697,7 +1983,8 @@
     "verified": true,
     "sourceUrl": "https://github.com/huginn/huginn",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/huginn/huginn",
@@ -1706,7 +1993,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 4
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "dify",
@@ -1727,7 +2017,8 @@
     "verified": true,
     "sourceUrl": "https://dify.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/langgenius/dify",
@@ -1736,7 +2027,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "flowise",
@@ -1757,7 +2051,8 @@
     "verified": true,
     "sourceUrl": "https://flowiseai.com",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/FlowiseAI/Flowise",
@@ -1766,7 +2061,10 @@
     "archived": true,
     "lastPush": "2026-08-13",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "canva",
@@ -1791,9 +2089,13 @@
      "sourceUrl": "https://www.canva.com/pricing/",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "adobe-express",
@@ -1818,9 +2120,13 @@
      "sourceUrl": "https://www.adobe.com/express/pricing",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "figma",
@@ -1840,9 +2146,13 @@
     "verified": true,
     "sourceUrl": "https://www.figma.com/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "penpot",
@@ -1863,7 +2173,8 @@
     "verified": true,
     "sourceUrl": "https://penpot.app/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/penpot/penpot",
@@ -1872,7 +2183,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "microsoft-designer",
@@ -1891,9 +2205,13 @@
     "verified": true,
     "sourceUrl": "https://support.microsoft.com/en-us/designer/frequently-asked-questions-about-microsoft-designer",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "kittl",
@@ -1913,9 +2231,13 @@
     "verified": true,
     "sourceUrl": "https://www.kittl.com/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "INR"
+    "currency": "INR",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "visme",
@@ -1935,9 +2257,13 @@
     "verified": true,
     "sourceUrl": "https://www.visme.co/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "synthesia",
@@ -1957,9 +2283,13 @@
     "verified": true,
     "sourceUrl": "https://www.synthesia.io/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "heygen",
@@ -1979,9 +2309,13 @@
     "verified": true,
     "sourceUrl": "https://www.heygen.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "colossyan",
@@ -2000,9 +2334,13 @@
     "verified": true,
     "sourceUrl": "https://www.colossyan.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "d-id",
@@ -2021,9 +2359,13 @@
     "verified": true,
     "sourceUrl": "https://www.d-id.com/pricing/",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "elai",
@@ -2043,9 +2385,13 @@
     "verified": true,
     "sourceUrl": "https://elai.io/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "runway",
@@ -2065,9 +2411,13 @@
     "verified": true,
     "sourceUrl": "https://runwayml.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "pika",
@@ -2087,9 +2437,13 @@
     "verified": true,
     "sourceUrl": "https://pika.art/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "luma",
@@ -2109,9 +2463,13 @@
     "verified": true,
     "sourceUrl": "https://lumalabs.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "kling",
@@ -2131,9 +2489,13 @@
     "verified": true,
     "sourceUrl": "https://app.klingai.com/global/membership/membership-plan",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "invideo",
@@ -2153,9 +2515,13 @@
     "verified": true,
     "sourceUrl": "https://invideo.io/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "otter",
@@ -2175,9 +2541,13 @@
     "verified": true,
     "sourceUrl": "https://otter.ai/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "fireflies",
@@ -2197,9 +2567,13 @@
     "verified": true,
     "sourceUrl": "https://fireflies.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "fathom",
@@ -2219,9 +2593,13 @@
     "verified": true,
     "sourceUrl": "https://www.fathom.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "tldv",
@@ -2246,9 +2624,13 @@
      "sourceUrl": "https://tldv.io/app/pricing/",
      "lastChecked": "2026-10-18"
     },
-    "currency": "EUR"
+    "currency": "EUR",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "granola",
@@ -2268,9 +2650,13 @@
     "verified": true,
     "sourceUrl": "https://www.granola.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "read-ai",
@@ -2290,9 +2676,13 @@
     "verified": true,
     "sourceUrl": "https://www.read.ai/plans-pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "whisper",
@@ -2313,7 +2703,8 @@
     "verified": true,
     "sourceUrl": "https://github.com/openai/whisper",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/openai/whisper",
@@ -2322,7 +2713,10 @@
     "archived": false,
     "lastPush": "2026-08-31",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "descript",
@@ -2342,9 +2736,13 @@
     "verified": true,
     "sourceUrl": "https://www.descript.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "riverside",
@@ -2364,9 +2762,13 @@
     "verified": true,
     "sourceUrl": "https://riverside.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "capcut",
@@ -2386,9 +2788,13 @@
     "verified": false,
     "sourceUrl": "https://www.capcut.com",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "opus-clip",
@@ -2408,9 +2814,13 @@
     "verified": true,
     "sourceUrl": "https://www.opus.pro/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "veed",
@@ -2430,9 +2840,13 @@
     "verified": true,
     "sourceUrl": "https://www.veed.io/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "INR"
+    "currency": "INR",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "kdenlive",
@@ -2452,7 +2866,8 @@
     "verified": true,
     "sourceUrl": "https://kdenlive.org",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/KDE/kdenlive",
@@ -2461,7 +2876,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 2
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "gamma",
@@ -2481,9 +2899,13 @@
     "verified": true,
     "sourceUrl": "https://gamma.app/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "INR"
+    "currency": "INR",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "beautiful-ai",
@@ -2502,9 +2924,13 @@
     "verified": true,
     "sourceUrl": "https://www.beautiful.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "pitch",
@@ -2524,9 +2950,13 @@
     "verified": true,
     "sourceUrl": "https://pitch.com/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "plus-ai",
@@ -2545,9 +2975,13 @@
     "verified": true,
     "sourceUrl": "https://plusai.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "presenton",
@@ -2568,7 +3002,8 @@
     "verified": true,
     "sourceUrl": "https://github.com/presenton/presenton",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/presenton/presenton",
@@ -2577,7 +3012,10 @@
     "archived": false,
     "lastPush": "2026-10-16",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "suno",
@@ -2597,9 +3035,13 @@
     "verified": true,
     "sourceUrl": "https://suno.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "udio",
@@ -2619,9 +3061,13 @@
     "verified": true,
     "sourceUrl": "https://www.udio.com/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "soundraw",
@@ -2640,9 +3086,13 @@
     "verified": true,
     "sourceUrl": "https://soundraw.io/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "aiva",
@@ -2662,9 +3112,13 @@
     "verified": true,
     "sourceUrl": "https://www.aiva.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "EUR"
+    "currency": "EUR",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "mubert",
@@ -2684,9 +3138,13 @@
     "verified": true,
     "sourceUrl": "https://mubert.com/render/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "audiocraft",
@@ -2707,7 +3165,8 @@
     "verified": true,
     "sourceUrl": "https://github.com/facebookresearch/audiocraft",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/facebookresearch/audiocraft",
@@ -2716,7 +3175,10 @@
     "archived": false,
     "lastPush": "2026-03-03",
     "setupDifficulty": 4
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "character-ai",
@@ -2736,9 +3198,13 @@
     "verified": true,
     "sourceUrl": "https://character.ai/subscribe",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "sillytavern",
@@ -2759,7 +3225,8 @@
     "verified": true,
     "sourceUrl": "https://github.com/SillyTavern/SillyTavern",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/SillyTavern/SillyTavern",
@@ -2768,7 +3235,10 @@
     "archived": false,
     "lastPush": "2026-10-02",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "replika",
@@ -2788,9 +3258,13 @@
     "verified": false,
     "sourceUrl": "https://replika.com",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "kindroid",
@@ -2810,9 +3284,13 @@
     "verified": false,
     "sourceUrl": "https://kindroid.ai",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "nomi",
@@ -2832,9 +3310,13 @@
     "verified": true,
     "sourceUrl": "https://nomi.ai/ai-today/replika-vs-nomi-2026-finding-enduring-ai-companionship/",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "talkie",
@@ -2854,9 +3336,13 @@
     "verified": false,
     "sourceUrl": "https://www.talkie-ai.com",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "microsoft-excel",
@@ -2880,9 +3366,13 @@
      "sourceUrl": "https://www.microsoft.com/en-in/microsoft-365/excel",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "google-sheets",
@@ -2907,9 +3397,13 @@
      "sourceUrl": "https://workspace.google.com/pricing",
      "lastChecked": "2026-10-17"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "rows",
@@ -2929,9 +3423,13 @@
     "verified": true,
     "sourceUrl": "https://rows.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "airtable",
@@ -2951,9 +3449,13 @@
     "verified": true,
     "sourceUrl": "https://www.airtable.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "julius",
@@ -2973,9 +3475,13 @@
     "verified": true,
     "sourceUrl": "https://julius.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "nocodb",
@@ -2996,7 +3502,8 @@
     "verified": true,
     "sourceUrl": "https://nocodb.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/nocodb/nocodb",
@@ -3005,7 +3512,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "adobe-photoshop",
@@ -3029,9 +3539,13 @@
      "sourceUrl": "https://www.adobe.com/products/photoshop/plans.html",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "photopea",
@@ -3050,9 +3564,13 @@
     "verified": true,
     "sourceUrl": "https://www.photopea.com/api/accounts",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "gimp",
@@ -3072,9 +3590,13 @@
     "verified": true,
     "sourceUrl": "https://www.gimp.org",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "pixlr",
@@ -3094,9 +3616,13 @@
     "verified": true,
     "sourceUrl": "https://pixlr.com/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "krita",
@@ -3116,9 +3642,13 @@
     "verified": true,
     "sourceUrl": "https://krita.org",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "zendesk",
@@ -3137,9 +3667,13 @@
     "verified": true,
     "sourceUrl": "https://www.zendesk.com/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "intercom-fin",
@@ -3158,9 +3692,13 @@
     "verified": true,
     "sourceUrl": "https://www.intercom.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "freshdesk",
@@ -3180,9 +3718,13 @@
     "verified": true,
     "sourceUrl": "https://www.freshworks.com/freshdesk/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "chatwoot",
@@ -3203,7 +3745,8 @@
     "verified": true,
     "sourceUrl": "https://www.chatwoot.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
    "openSource": {
     "repo": "https://github.com/chatwoot/chatwoot",
@@ -3212,7 +3755,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "gorgias",
@@ -3231,9 +3777,13 @@
     "verified": true,
     "sourceUrl": "https://www.gorgias.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "tidio",
@@ -3253,9 +3803,13 @@
     "verified": true,
     "sourceUrl": "https://www.tidio.com/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "shopify-magic",
@@ -3279,9 +3833,13 @@
      "sourceUrl": "https://www.shopify.com/pricing",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "klaviyo",
@@ -3301,9 +3859,13 @@
     "verified": true,
     "sourceUrl": "https://www.klaviyo.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "khanmigo",
@@ -3322,9 +3884,13 @@
     "verified": true,
     "sourceUrl": "https://www.khanmigo.ai/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "magicschool",
@@ -3344,9 +3910,13 @@
     "verified": true,
     "sourceUrl": "https://www.magicschool.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "quizlet",
@@ -3366,9 +3936,13 @@
     "verified": false,
     "sourceUrl": "https://quizlet.com/upgrade",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "wolfram-alpha",
@@ -3388,9 +3962,13 @@
     "verified": true,
     "sourceUrl": "https://www.wolframalpha.com/pro/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "linear",
@@ -3410,9 +3988,13 @@
     "verified": true,
     "sourceUrl": "https://linear.app/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "productboard",
@@ -3432,9 +4014,13 @@
     "verified": true,
     "sourceUrl": "https://www.productboard.com/pricing/",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "dovetail",
@@ -3454,9 +4040,13 @@
     "verified": true,
     "sourceUrl": "https://dovetail.com/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "miro",
@@ -3476,9 +4066,13 @@
     "verified": true,
     "sourceUrl": "https://miro.com/pricing/",
     "lastChecked": "2026-10-17",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "codex",
@@ -3498,9 +4092,13 @@
     "verified": true,
     "sourceUrl": "https://developers.openai.com/codex/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "gemini-cli",
@@ -3520,7 +4118,8 @@
     "verified": true,
     "sourceUrl": "https://github.com/google-gemini/gemini-cli",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
    "openSource": {
     "repo": "https://github.com/google-gemini/gemini-cli",
@@ -3529,7 +4128,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 2
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "opencode",
@@ -3549,7 +4151,8 @@
     "verified": true,
     "sourceUrl": "https://opencode.ai",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
    "openSource": {
     "repo": "https://github.com/anomalyco/opencode",
@@ -3558,7 +4161,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 2
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "openhands",
@@ -3579,7 +4185,8 @@
     "verified": true,
     "sourceUrl": "https://www.all-hands.dev/pricing",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
    "openSource": {
     "repo": "https://github.com/OpenHands/OpenHands",
@@ -3588,7 +4195,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "devin",
@@ -3608,9 +4218,13 @@
     "verified": true,
     "sourceUrl": "https://devin.ai/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "manus",
@@ -3629,9 +4243,13 @@
     "verified": true,
     "sourceUrl": "https://manus.im/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "loom",
@@ -3651,9 +4269,13 @@
     "verified": true,
     "sourceUrl": "https://www.loom.com/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "cap",
@@ -3673,7 +4295,8 @@
     "verified": true,
     "sourceUrl": "https://cap.so/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
    "openSource": {
     "repo": "https://github.com/CapSoftware/Cap",
@@ -3682,7 +4305,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 1
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "tella",
@@ -3701,9 +4327,13 @@
     "verified": true,
     "sourceUrl": "https://www.tella.tv/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "krea",
@@ -3723,9 +4353,13 @@
     "verified": true,
     "sourceUrl": "https://www.krea.ai/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "logseq",
@@ -3745,7 +4379,8 @@
     "verified": true,
     "sourceUrl": "https://logseq.com",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
    "openSource": {
     "repo": "https://github.com/logseq/logseq",
@@ -3754,7 +4389,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 1
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "framer",
@@ -3779,9 +4417,13 @@
      "sourceUrl": "https://www.framer.com/pricing",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "webflow",
@@ -3801,9 +4443,13 @@
     "verified": true,
     "sourceUrl": "https://webflow.com/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "microsoft-word",
@@ -3828,9 +4474,13 @@
      "sourceUrl": "https://www.microsoft.com/en-in/microsoft-365/word",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "microsoft-powerpoint",
@@ -3855,9 +4505,13 @@
      "sourceUrl": "https://www.microsoft.com/en-in/microsoft-365/powerpoint",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "google-docs",
@@ -3882,9 +4536,13 @@
      "sourceUrl": "https://workspace.google.com/intl/en_in/pricing",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "mailchimp",
@@ -3909,9 +4567,13 @@
      "sourceUrl": "https://mailchimp.com/pricing/marketing/",
      "lastChecked": "2026-10-18"
     },
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "trello",
@@ -3931,9 +4593,13 @@
     "verified": true,
     "sourceUrl": "https://trello.com/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "brevo",
@@ -3953,9 +4619,13 @@
     "verified": true,
     "sourceUrl": "https://www.brevo.com/pricing/",
     "lastChecked": "2026-10-18",
-    "currency": "INR"
+    "currency": "INR",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "beehiiv",
@@ -3975,9 +4645,13 @@
     "verified": true,
     "sourceUrl": "https://www.beehiiv.com/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
-   "openSource": null
+   "openSource": null,
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "listmonk",
@@ -3998,7 +4672,8 @@
     "verified": true,
     "sourceUrl": "https://listmonk.app",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
    "openSource": {
     "repo": "https://github.com/knadh/listmonk",
@@ -4007,7 +4682,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "mautic",
@@ -4028,7 +4706,8 @@
     "verified": true,
     "sourceUrl": "https://mautic.org",
     "lastChecked": "2026-10-18",
-    "currency": null
+    "currency": null,
+    "lastChangedAt": "2026-10-18"
    },
    "openSource": {
     "repo": "https://github.com/mautic/mautic",
@@ -4037,7 +4716,10 @@
     "archived": false,
     "lastPush": "2026-10-16",
     "setupDifficulty": 4
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "plane",
@@ -4058,7 +4740,8 @@
     "verified": true,
     "sourceUrl": "https://plane.so/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-18"
    },
    "openSource": {
     "repo": "https://github.com/makeplane/plane",
@@ -4067,7 +4750,10 @@
     "archived": false,
     "lastPush": "2026-10-17",
     "setupDifficulty": 3
-   }
+   },
+   "status": "active",
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   }
  ],
  "anchors": [
@@ -4084,7 +4770,9 @@
     "lm-studio",
     "librechat",
     "poe"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "claude",
@@ -4097,7 +4785,9 @@
     "grok",
     "librechat",
     "open-webui"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "cursor",
@@ -4105,14 +4795,15 @@
     "windsurf",
     "github-copilot",
     "cline",
-    "continue",
     "zed",
     "claude-code",
     "aider",
     "tabnine",
     "codex",
     "opencode"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "github-copilot",
@@ -4120,12 +4811,13 @@
     "cursor",
     "windsurf",
     "tabnine",
-    "continue",
     "cline",
     "aider",
     "claude-code",
     "codex"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "windsurf",
@@ -4134,9 +4826,10 @@
     "github-copilot",
     "cline",
     "zed",
-    "continue",
     "aider"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "lovable",
@@ -4147,7 +4840,9 @@
     "base44",
     "dyad",
     "bolt-diy"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "bolt",
@@ -4158,7 +4853,9 @@
     "base44",
     "bolt-diy",
     "dyad"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "v0",
@@ -4168,7 +4865,9 @@
     "replit",
     "base44",
     "dyad"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "replit",
@@ -4179,7 +4878,9 @@
     "cursor",
     "base44",
     "bolt-diy"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "midjourney",
@@ -4191,7 +4892,9 @@
     "flux",
     "stable-diffusion-webui",
     "comfyui"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "elevenlabs",
@@ -4201,7 +4904,9 @@
     "speechify",
     "coqui-tts",
     "piper"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "perplexity",
@@ -4212,7 +4917,9 @@
     "grok",
     "deepseek",
     "poe"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "notion-ai",
@@ -4224,7 +4931,9 @@
     "clickup-brain",
     "mem",
     "logseq"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "jasper",
@@ -4235,7 +4944,9 @@
     "writer",
     "chatgpt",
     "claude"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "copy-ai",
@@ -4245,7 +4956,9 @@
     "rytr",
     "writer",
     "chatgpt"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "grammarly",
@@ -4255,7 +4968,9 @@
     "prowritingaid",
     "hemingway",
     "wordtune"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "zapier",
@@ -4266,7 +4981,9 @@
     "pipedream",
     "windmill",
     "huginn"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "n8n",
@@ -4278,7 +4995,9 @@
     "windmill",
     "dify",
     "flowise"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "make",
@@ -4288,7 +5007,9 @@
     "activepieces",
     "pipedream",
     "windmill"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "canva",
@@ -4298,8 +5019,12 @@
     "penpot",
     "microsoft-designer",
     "kittl",
-    "visme"
-   ]
+    "visme",
+    "ideogram",
+    "gamma"
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "synthesia",
@@ -4309,7 +5034,9 @@
     "d-id",
     "elai",
     "invideo"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "heygen",
@@ -4319,7 +5046,9 @@
     "d-id",
     "elai",
     "invideo"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "runway",
@@ -4329,7 +5058,9 @@
     "kling",
     "invideo",
     "comfyui"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "otter",
@@ -4340,7 +5071,9 @@
     "granola",
     "read-ai",
     "whisper"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "fireflies",
@@ -4350,7 +5083,9 @@
     "tldv",
     "granola",
     "read-ai"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "descript",
@@ -4360,7 +5095,9 @@
     "opus-clip",
     "veed",
     "kdenlive"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "gamma",
@@ -4370,7 +5107,9 @@
     "plus-ai",
     "canva",
     "presenton"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "suno",
@@ -4380,7 +5119,9 @@
     "aiva",
     "mubert",
     "audiocraft"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "poe",
@@ -4390,7 +5131,9 @@
     "perplexity",
     "librechat",
     "open-webui"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "character-ai",
@@ -4400,7 +5143,9 @@
     "kindroid",
     "nomi",
     "talkie"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "claude-code",
@@ -4412,9 +5157,10 @@
     "cline",
     "openhands",
     "cursor",
-    "github-copilot",
-    "continue"
-   ]
+    "github-copilot"
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "devin",
@@ -4423,11 +5169,12 @@
     "claude-code",
     "codex",
     "cursor",
-    "windsurf",
     "github-copilot",
     "replit",
     "cline"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "manus",
@@ -4438,7 +5185,9 @@
     "gemini",
     "grok",
     "deepseek"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "writesonic",
@@ -4449,7 +5198,9 @@
     "writer",
     "chatgpt",
     "claude"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "fathom",
@@ -4459,7 +5210,9 @@
     "tldv",
     "granola",
     "read-ai"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "tldv",
@@ -4469,7 +5222,9 @@
     "fireflies",
     "granola",
     "read-ai"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "loom",
@@ -4479,7 +5234,9 @@
     "descript",
     "veed",
     "riverside"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "krea",
@@ -4490,7 +5247,9 @@
     "adobe-firefly",
     "flux",
     "comfyui"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "pika",
@@ -4500,7 +5259,9 @@
     "kling",
     "invideo",
     "comfyui"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "luma",
@@ -4510,7 +5271,9 @@
     "kling",
     "invideo",
     "comfyui"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "kling",
@@ -4520,7 +5283,9 @@
     "luma",
     "invideo",
     "comfyui"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "murf",
@@ -4530,7 +5295,9 @@
     "resemble",
     "coqui-tts",
     "piper"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "speechify",
@@ -4540,7 +5307,9 @@
     "resemble",
     "coqui-tts",
     "piper"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "obsidian",
@@ -4551,7 +5320,9 @@
     "affine",
     "mem",
     "coda"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "figma",
@@ -4561,7 +5332,9 @@
     "canva",
     "v0",
     "adobe-express"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "framer",
@@ -4572,7 +5345,9 @@
     "bolt",
     "base44",
     "figma"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "gemini",
@@ -4584,7 +5359,9 @@
     "deepseek",
     "mistral-le-chat",
     "poe"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "deepseek",
@@ -4596,7 +5373,9 @@
     "ollama",
     "lm-studio",
     "jan"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "leonardo",
@@ -4607,7 +5386,9 @@
     "adobe-firefly",
     "flux",
     "comfyui"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "quillbot",
@@ -4617,7 +5398,9 @@
     "wordtune",
     "prowritingaid",
     "hemingway"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "airtable",
@@ -4627,7 +5410,9 @@
     "google-sheets",
     "notion-ai",
     "coda"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   }
  ],
  "saas": [
@@ -4641,7 +5426,9 @@
     "airtable",
     "julius",
     "nocodb"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "canva",
@@ -4654,7 +5441,10 @@
     "visme",
     "ideogram",
     "gamma"
-   ]
+   ],
+   "redirectTo": "/alternatives/canva",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "photoshop",
@@ -4667,7 +5457,9 @@
     "krita",
     "adobe-firefly",
     "comfyui"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "grammarly",
@@ -4679,7 +5471,10 @@
     "prowritingaid",
     "wordtune",
     "hemingway"
-   ]
+   ],
+   "redirectTo": "/alternatives/grammarly",
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "zendesk",
@@ -4691,7 +5486,9 @@
     "chatwoot",
     "gorgias",
     "tidio"
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "word",
@@ -4704,7 +5501,9 @@
     "quillbot",
     "jasper",
     "writer"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "powerpoint",
@@ -4717,7 +5516,9 @@
     "plus-ai",
     "canva",
     "presenton"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "google-docs",
@@ -4729,7 +5530,9 @@
     "microsoft-word",
     "affine",
     "appflowy"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "mailchimp",
@@ -4741,7 +5544,9 @@
     "beehiiv",
     "listmonk",
     "mautic"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "trello",
@@ -4753,7 +5558,9 @@
     "notion-ai",
     "clickup-brain",
     "airtable"
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   }
  ],
  "stacks": [
@@ -4786,7 +5593,9 @@
      "tool": "zapier",
      "role": "Glue between apps"
     }
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "chemistry-tutor",
@@ -4817,7 +5626,9 @@
      "tool": "otter",
      "role": "Transcribe sessions for notes"
     }
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "product-manager",
@@ -4852,7 +5663,9 @@
      "tool": "v0",
      "role": "Clickable prototypes"
     }
-   ]
+   ],
+   "firstPublished": "2026-10-17",
+   "contentUpdatedAt": "2026-10-17"
   },
   {
    "slug": "content-creator",
@@ -4887,7 +5700,9 @@
      "tool": "beehiiv",
      "role": "Newsletter to own your audience"
     }
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   },
   {
    "slug": "small-agency",
@@ -4922,7 +5737,9 @@
      "tool": "n8n",
      "role": "Automate onboarding and reporting"
     }
-   ]
+   ],
+   "firstPublished": "2026-10-18",
+   "contentUpdatedAt": "2026-10-18"
   }
  ],
  "changes": [

@@ -1,7 +1,8 @@
+import { buildMetadata, Crumbs } from "@/components/seo";
 import type { Metadata } from "next";
-export const metadata: Metadata = { title: "About BetterAlt", description: "How BetterAlt collects and checks AI tool prices and alternatives.", alternates: { canonical: "/about" } };
+export const metadata: Metadata = buildMetadata({ title: "About BetterAlt", description: "How BetterAlt collects and checks AI tool prices and alternatives.", path: "/about" });
 export default function Page() {
-  return <div className="prose max-w-3xl space-y-4"><h1 className="text-3xl font-bold">About BetterAlt</h1>
+  return <div className="prose max-w-3xl space-y-4"><Crumbs items={[{ name: "About" }]} /><h1 className="text-3xl font-bold">About BetterAlt</h1>
     <p>BetterAlt helps people everywhere find a better or cheaper alternative to any AI tool, with today&apos;s prices in US dollars (plus India pricing where vendors publish it).</p>
     <h2 className="text-xl font-semibold">How we check prices</h2>
     <ul className="list-disc pl-5"><li>Every price comes from the vendor&apos;s official pricing page, linked as the source, with the date we last checked it.</li>

@@ -1,8 +1,10 @@
-import db from "@/data/db.json";
+import db from "../data/db.json";
 
 export type Tool = {
   slug: string; name: string; url: string; category: string; description: string; whoFor: string; tags: string[];
-  pricing: { summary: string | null; fromUsdMonthly: number | null; hasFreePlan: boolean | null; verified: boolean; sourceUrl: string; lastChecked: string; currency?: string | null; india?: { summary: string; sourceUrl: string; lastChecked: string } };
+  pricing: { summary: string | null; fromUsdMonthly: number | null; hasFreePlan: boolean | null; verified: boolean; sourceUrl: string; lastChecked: string; lastChangedAt?: string; currency?: string | null; india?: { summary: string; sourceUrl: string; lastChecked: string } };
+  status?: "active" | "renamed" | "acquired" | "shut-down"; formerNames?: string[]; statusNote?: string; statusSources?: string[];
+  firstPublished?: string; contentUpdatedAt?: string;
   openSource: { repo: string; stars: number; license: string; archived: boolean; lastPush: string; setupDifficulty: number | null } | null;
 };
 export const SITE = "https://findbetteralt.com";
@@ -10,10 +12,11 @@ export const CHECKED = "18 Oct 2026";
 const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 export const fmtDate = (iso: string) => { const [y, m, d] = iso.split("-").map(Number); return `${d} ${MON[m - 1]} ${y}`; };
 export const tools = db.tools as Tool[];
-export const anchors = db.anchors as { slug: string; alternatives: string[] }[];
-export const saas = db.saas as { slug: string; name: string; toolSlug: string; alternatives: string[] }[];
+type Dated = { firstPublished?: string; contentUpdatedAt?: string };
+export const anchors = db.anchors as ({ slug: string; alternatives: string[] } & Dated)[];
+export const saas = db.saas as ({ slug: string; name: string; toolSlug: string; alternatives: string[]; redirectTo?: string } & Dated)[];
 export const changes = (db as { changes?: { date: string; slug: string; kind: string; old: string; new: string; sourceUrl: string }[] }).changes ?? [];
-export const stacks = db.stacks as { slug: string; title: string; intro: string; items: { tool: string; role: string }[] }[];
+export const stacks = db.stacks as ({ slug: string; title: string; intro: string; items: { tool: string; role: string }[] } & Dated)[];
 const bySlug = new Map(tools.map((t) => [t.slug, t]));
 export const getTool = (s: string) => bySlug.get(s);
 export const getAnchor = (s: string) => anchors.find((a) => a.slug === s);
