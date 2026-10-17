@@ -5,7 +5,7 @@ import { track } from "@/lib/track";
 export default function ShareIsland({ url, text, pageType, slug, children }: { url: string; text: string; pageType: string; slug: string; children: ReactNode }) {
   const [copied, setCopied] = useState(false); const [native, setNative] = useState(false);
   useEffect(() => { setNative(typeof navigator !== "undefined" && "share" in navigator && matchMedia("(max-width: 640px)").matches); }, []);
-  const copy = async () => { try { await navigator.clipboard.writeText(url); setCopied(true); setTimeout(() => setCopied(false), 2000); } catch {} track("share", { method: "copy", page_type: pageType, slug }); };
+  const copy = async () => { track("share", { method: "copy", page_type: pageType, slug }); try { await navigator.clipboard.writeText(url); setCopied(true); setTimeout(() => setCopied(false), 2000); } catch {} };
   const share = async () => { track("share", { method: "native", page_type: pageType, slug }); try { await navigator.share({ url, text }); } catch {} };
   if (native) return <button type="button" onClick={share} className="min-h-11 underline">Share</button>;
   return <>
