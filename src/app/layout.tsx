@@ -4,6 +4,7 @@ import "./globals.css";
 import { SITE } from "@/lib/data";
 import { JsonLd } from "@/components/ui";
 import { orgGraph } from "@/components/seo";
+import TrackClicks from "@/components/TrackClicks";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE),
@@ -13,17 +14,17 @@ export const metadata: Metadata = {
   twitter: { card: "summary_large_image" },
 };
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return <html lang="en" style={{ colorScheme: "light" }}><body className="min-h-screen bg-paper text-ink antialiased"><JsonLd data={orgGraph} />
-    <header className="border-b bg-white"><nav className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-5 gap-y-2 px-4 py-3 text-sm">
+  return <html lang="en" style={{ colorScheme: "light" }}><body className="min-h-screen bg-paper text-ink antialiased"><JsonLd data={orgGraph} /><TrackClicks />
+    <header className="border-b-2 border-ink bg-paper"><nav className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-5 gap-y-2 px-4 py-3 text-sm">
       <Link href="/" className="mr-auto text-xl font-bold tracking-tight">Better<span className="text-indigo-600">Alt</span></Link>
       <Link href="/open-source">Open source</Link><Link href="/stacks">Stacks</Link><Link href="/changes">Price changes</Link>
-      <Link href="/submit">Submit</Link><Link href="/sponsor">Sponsor</Link>
+      <Link href="/submit" data-track="submit_cta_click" data-placement="header">Submit</Link><Link href="/sponsor" data-track="sponsor_cta_click" data-placement="header">Sponsor</Link>
     </nav></header>
     <main className="mx-auto max-w-6xl px-4 py-8">{children}</main>
-    <footer className="border-t bg-white"><div className="mx-auto flex max-w-6xl flex-wrap gap-4 px-4 py-6 text-sm text-slate-600">
+    <footer className="border-t-2 border-ink bg-paper"><div className="mx-auto flex max-w-6xl flex-wrap gap-4 px-4 py-6 text-sm text-ink-2">
       <span>© 2026 BetterAlt · Prices are checked against vendors&apos; official pricing pages; always confirm before buying.</span>
       <span className="w-full text-xs">Affiliate disclosure: some links on BetterAlt may be affiliate links, which means we may earn a commission if you buy, at no extra cost to you. It never changes our listings or prices.</span>
-      <Link href="/about">About</Link><Link href="/sponsor">Sponsor</Link><Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link><Link href="/llms.txt">llms.txt</Link><a href="mailto:hello@findbetteralt.com">hello@findbetteralt.com</a>
+      <Link href="/about">About</Link><Link href="/sponsor" data-track="sponsor_cta_click" data-placement="footer">Sponsor</Link><Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link><Link href="/llms.txt">llms.txt</Link><a href="mailto:hello@findbetteralt.com">hello@findbetteralt.com</a>
     </div></footer>
   </body></html>;
 }

@@ -12,11 +12,11 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Go $8/mo, Plus $20/mo, Pro from $100/mo",
+    "summary": "Free plan; Go $8/mo, Plus $20/mo, Pro $100, $200 or $500/mo (all billed monthly)",
     "fromUsdMonthly": 8,
     "hasFreePlan": true,
     "verified": true,
-    "sourceUrl": "https://developers.openai.com/codex/pricing",
+    "sourceUrl": "https://openai.com/index/introducing-chatgpt-go/",
     "lastChecked": "2026-10-18",
     "india": {
      "summary": "Free plan; Go ₹399/mo, Plus ₹1,999/mo, Pro from ₹10,699/mo (India pricing)",
@@ -24,12 +24,19 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly",
+    "extraSources": [
+     "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers"
+    ]
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "claude",
@@ -43,19 +50,23 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Pro $20/mo ($17/mo billed annually)",
-    "fromUsdMonthly": 17,
+    "summary": "Free plan; Pro $20/mo billed monthly ($17/mo billed annually, $200 up front); Max from $100/mo",
+    "fromUsdMonthly": 20,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://claude.com/pricing",
-    "lastChecked": "2026-10-17",
+    "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "gemini",
@@ -81,12 +92,16 @@
      "lastChecked": "2026-10-17"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "perplexity",
@@ -107,12 +122,16 @@
     "sourceUrl": "https://www.perplexity.ai/pro",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "mistral-le-chat",
@@ -133,12 +152,16 @@
     "sourceUrl": "https://mistral.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "grok",
@@ -164,12 +187,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "deepseek",
@@ -195,7 +222,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "open-webui",
@@ -229,7 +259,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "lm-studio",
@@ -239,22 +272,27 @@
    "description": "Desktop app to download and run open models locally.",
    "whoFor": "Privacy-minded users with a decent laptop",
    "tags": [
-    "free"
+    "freemium",
+    "paid"
    ],
    "pricing": {
-    "summary": "Free for local models; Bionic+ $20/mo; Pro $100/mo",
+    "summary": "Free plan ($0, run local models); Bionic+ $20/mo; Pro $100/mo",
     "fromUsdMonthly": 20,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://lmstudio.ai/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "ollama",
@@ -276,7 +314,8 @@
     "sourceUrl": "https://ollama.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": {
     "repo": "https://github.com/ollama/ollama",
@@ -288,7 +327,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "jan",
@@ -322,7 +364,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "librechat",
@@ -356,7 +401,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "poe",
@@ -382,12 +430,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "openrouter",
@@ -412,7 +464,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "cursor",
@@ -426,19 +481,23 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Plus $8/mo; Premium $30/mo; Super $100/mo",
+    "summary": "Free plan; Plus $8/mo (Grok models only); Premium $30/mo; Super $100/mo; Ultra $200/mo; Teams from $30/user/mo",
     "fromUsdMonthly": 8,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://cursor.com/pricing",
-    "lastChecked": "2026-10-17",
+    "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "windsurf",
@@ -459,7 +518,8 @@
     "sourceUrl": "https://devin.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "renamed",
@@ -472,7 +532,10 @@
     "https://docs.devin.ai/desktop/devin-desktop-faq"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "github-copilot",
@@ -493,12 +556,16 @@
     "sourceUrl": "https://github.com/features/copilot/plans",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "cline",
@@ -531,7 +598,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "continue",
@@ -570,7 +640,10 @@
     "https://github.com/continuedev/continue"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "zed",
@@ -591,7 +664,8 @@
     "sourceUrl": "https://zed.dev/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": {
     "repo": "https://github.com/zed-industries/zed",
@@ -603,7 +677,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "tabnine",
@@ -628,7 +705,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "aider",
@@ -661,7 +741,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "claude-code",
@@ -674,19 +757,23 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Included with Claude Pro: $20/mo ($17/mo billed annually)",
-    "fromUsdMonthly": 17,
+    "summary": "Included with Claude Pro: $20/mo billed monthly ($17/mo billed annually); Max from $100/mo",
+    "fromUsdMonthly": 20,
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://claude.com/pricing",
-    "lastChecked": "2026-10-17",
+    "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "replit",
@@ -707,12 +794,16 @@
     "sourceUrl": "https://replit.com/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "lovable",
@@ -733,12 +824,16 @@
     "sourceUrl": "https://lovable.dev/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "bolt",
@@ -759,12 +854,16 @@
     "sourceUrl": "https://bolt.new/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "v0",
@@ -785,12 +884,16 @@
     "sourceUrl": "https://v0.app/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "bolt-diy",
@@ -824,7 +927,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "base44",
@@ -845,12 +951,16 @@
     "sourceUrl": "https://base44.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "dyad",
@@ -871,7 +981,8 @@
     "sourceUrl": "https://www.dyad.sh",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": {
     "repo": "https://github.com/dyad-sh/dyad",
@@ -883,7 +994,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "midjourney",
@@ -903,12 +1017,16 @@
     "sourceUrl": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "chatgpt-images",
@@ -934,7 +1052,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "leonardo",
@@ -955,12 +1076,16 @@
     "sourceUrl": "https://leonardo.ai/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "ideogram",
@@ -981,12 +1106,16 @@
     "sourceUrl": "https://ideogram.ai/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "stable-diffusion-webui",
@@ -1020,7 +1149,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "comfyui",
@@ -1054,7 +1186,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "adobe-firefly",
@@ -1080,12 +1215,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "flux",
@@ -1110,7 +1249,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "elevenlabs",
@@ -1131,12 +1273,16 @@
     "sourceUrl": "https://elevenlabs.io/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "murf",
@@ -1157,12 +1303,16 @@
     "sourceUrl": "https://murf.ai/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "coqui-tts",
@@ -1196,7 +1346,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "piper",
@@ -1230,7 +1383,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "resemble",
@@ -1255,7 +1411,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "speechify",
@@ -1276,12 +1435,16 @@
     "sourceUrl": "https://speechify.com/pricing/",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "notion-ai",
@@ -1301,12 +1464,16 @@
     "sourceUrl": "https://www.notion.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "obsidian",
@@ -1326,12 +1493,16 @@
     "sourceUrl": "https://obsidian.md/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "appflowy",
@@ -1353,7 +1524,8 @@
     "sourceUrl": "https://appflowy.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": {
     "repo": "https://github.com/AppFlowy-IO/AppFlowy",
@@ -1365,7 +1537,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "affine",
@@ -1387,7 +1562,8 @@
     "sourceUrl": "https://affine.pro/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": {
     "repo": "https://github.com/toeverything/AFFiNE",
@@ -1399,7 +1575,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "mem",
@@ -1420,12 +1599,16 @@
     "sourceUrl": "https://get.mem.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "clickup-brain",
@@ -1445,12 +1628,16 @@
     "sourceUrl": "https://clickup.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "coda",
@@ -1476,12 +1663,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "jasper",
@@ -1501,12 +1692,16 @@
     "sourceUrl": "https://www.jasper.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "copy-ai",
@@ -1527,12 +1722,16 @@
     "sourceUrl": "https://www.copy.ai/prices",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "writesonic",
@@ -1552,12 +1751,16 @@
     "sourceUrl": "https://writesonic.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "rytr",
@@ -1578,12 +1781,16 @@
     "sourceUrl": "https://rytr.me/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "writer",
@@ -1608,7 +1815,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "grammarly",
@@ -1634,12 +1844,16 @@
      "lastChecked": "2026-10-17"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "languagetool",
@@ -1673,7 +1887,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "quillbot",
@@ -1699,7 +1916,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "prowritingaid",
@@ -1725,12 +1945,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "hemingway",
@@ -1751,12 +1975,16 @@
     "sourceUrl": "https://hemingwayapp.com/hemingway-editor-plus",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "wordtune",
@@ -1777,12 +2005,16 @@
     "sourceUrl": "https://www.wordtune.com/plans",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "zapier",
@@ -1803,12 +2035,16 @@
     "sourceUrl": "https://zapier.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "n8n",
@@ -1842,7 +2078,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "make",
@@ -1868,7 +2107,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "activepieces",
@@ -1890,7 +2132,8 @@
     "sourceUrl": "https://www.activepieces.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": {
     "repo": "https://github.com/activepieces/activepieces",
@@ -1902,7 +2145,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "pipedream",
@@ -1928,7 +2174,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "windmill",
@@ -1962,7 +2211,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "huginn",
@@ -1996,7 +2248,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "dify",
@@ -2030,7 +2285,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "flowise",
@@ -2052,7 +2310,8 @@
     "sourceUrl": "https://flowiseai.com",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": {
     "repo": "https://github.com/FlowiseAI/Flowise",
@@ -2064,7 +2323,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "canva",
@@ -2090,12 +2352,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "adobe-express",
@@ -2121,12 +2387,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "figma",
@@ -2147,12 +2417,16 @@
     "sourceUrl": "https://www.figma.com/pricing/",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "penpot",
@@ -2174,7 +2448,8 @@
     "sourceUrl": "https://penpot.app/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": {
     "repo": "https://github.com/penpot/penpot",
@@ -2186,7 +2461,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "microsoft-designer",
@@ -2211,7 +2489,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "kittl",
@@ -2237,7 +2518,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "visme",
@@ -2258,12 +2542,16 @@
     "sourceUrl": "https://www.visme.co/pricing/",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "synthesia",
@@ -2284,12 +2572,16 @@
     "sourceUrl": "https://www.synthesia.io/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "heygen",
@@ -2310,12 +2602,16 @@
     "sourceUrl": "https://www.heygen.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "colossyan",
@@ -2335,12 +2631,16 @@
     "sourceUrl": "https://www.colossyan.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "d-id",
@@ -2360,12 +2660,16 @@
     "sourceUrl": "https://www.d-id.com/pricing/",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "elai",
@@ -2386,12 +2690,16 @@
     "sourceUrl": "https://elai.io/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "runway",
@@ -2412,12 +2720,16 @@
     "sourceUrl": "https://runwayml.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "pika",
@@ -2438,12 +2750,16 @@
     "sourceUrl": "https://pika.art/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "luma",
@@ -2469,7 +2785,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "kling",
@@ -2490,12 +2809,16 @@
     "sourceUrl": "https://app.klingai.com/global/membership/membership-plan",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "invideo",
@@ -2516,12 +2839,16 @@
     "sourceUrl": "https://invideo.io/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "otter",
@@ -2542,12 +2869,16 @@
     "sourceUrl": "https://otter.ai/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "fireflies",
@@ -2568,12 +2899,16 @@
     "sourceUrl": "https://fireflies.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "fathom",
@@ -2594,12 +2929,16 @@
     "sourceUrl": "https://www.fathom.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "tldv",
@@ -2630,7 +2969,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "granola",
@@ -2651,12 +2993,16 @@
     "sourceUrl": "https://www.granola.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "read-ai",
@@ -2677,12 +3023,16 @@
     "sourceUrl": "https://www.read.ai/plans-pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "whisper",
@@ -2716,7 +3066,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "descript",
@@ -2737,12 +3090,16 @@
     "sourceUrl": "https://www.descript.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "riverside",
@@ -2763,12 +3120,16 @@
     "sourceUrl": "https://riverside.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "capcut",
@@ -2794,7 +3155,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "opus-clip",
@@ -2815,12 +3179,16 @@
     "sourceUrl": "https://www.opus.pro/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "veed",
@@ -2846,7 +3214,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "kdenlive",
@@ -2879,7 +3250,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "gamma",
@@ -2905,7 +3279,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "beautiful-ai",
@@ -2925,12 +3302,16 @@
     "sourceUrl": "https://www.beautiful.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "pitch",
@@ -2951,12 +3332,16 @@
     "sourceUrl": "https://pitch.com/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "plus-ai",
@@ -2976,12 +3361,16 @@
     "sourceUrl": "https://plusai.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "presenton",
@@ -3015,7 +3404,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "suno",
@@ -3036,12 +3428,16 @@
     "sourceUrl": "https://suno.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "udio",
@@ -3062,12 +3458,16 @@
     "sourceUrl": "https://www.udio.com/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "soundraw",
@@ -3087,12 +3487,16 @@
     "sourceUrl": "https://soundraw.io/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "aiva",
@@ -3118,7 +3522,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "mubert",
@@ -3139,12 +3546,16 @@
     "sourceUrl": "https://mubert.com/render/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "audiocraft",
@@ -3178,7 +3589,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "character-ai",
@@ -3204,7 +3618,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "sillytavern",
@@ -3238,7 +3655,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "replika",
@@ -3264,7 +3684,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "kindroid",
@@ -3290,7 +3713,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "nomi",
@@ -3311,12 +3737,16 @@
     "sourceUrl": "https://nomi.ai/ai-today/replika-vs-nomi-2026-finding-enduring-ai-companionship/",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "talkie",
@@ -3342,7 +3772,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "microsoft-excel",
@@ -3372,7 +3805,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "google-sheets",
@@ -3398,12 +3834,16 @@
      "lastChecked": "2026-10-17"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "rows",
@@ -3424,12 +3864,16 @@
     "sourceUrl": "https://rows.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "airtable",
@@ -3450,12 +3894,16 @@
     "sourceUrl": "https://www.airtable.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "julius",
@@ -3476,12 +3924,16 @@
     "sourceUrl": "https://julius.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "nocodb",
@@ -3503,7 +3955,8 @@
     "sourceUrl": "https://nocodb.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": {
     "repo": "https://github.com/nocodb/nocodb",
@@ -3515,7 +3968,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "adobe-photoshop",
@@ -3540,12 +3996,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "photopea",
@@ -3570,7 +4030,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "gimp",
@@ -3596,7 +4059,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "pixlr",
@@ -3617,12 +4083,16 @@
     "sourceUrl": "https://pixlr.com/pricing/",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "krita",
@@ -3648,7 +4118,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "zendesk",
@@ -3673,7 +4146,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "intercom-fin",
@@ -3693,12 +4169,16 @@
     "sourceUrl": "https://www.intercom.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "freshdesk",
@@ -3719,12 +4199,16 @@
     "sourceUrl": "https://www.freshworks.com/freshdesk/pricing/",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "chatwoot",
@@ -3746,7 +4230,8 @@
     "sourceUrl": "https://www.chatwoot.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": {
     "repo": "https://github.com/chatwoot/chatwoot",
@@ -3758,7 +4243,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "gorgias",
@@ -3778,12 +4266,16 @@
     "sourceUrl": "https://www.gorgias.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "tidio",
@@ -3804,12 +4296,16 @@
     "sourceUrl": "https://www.tidio.com/pricing/",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "shopify-magic",
@@ -3834,12 +4330,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "klaviyo",
@@ -3865,7 +4365,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "khanmigo",
@@ -3885,12 +4388,19 @@
     "sourceUrl": "https://www.khanmigo.ai/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k",
+    "authors": [
+     "kavi-r"
+    ]
+   }
   },
   {
    "slug": "magicschool",
@@ -3911,12 +4421,19 @@
     "sourceUrl": "https://www.magicschool.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k",
+    "authors": [
+     "kavi-r"
+    ]
+   }
   },
   {
    "slug": "quizlet",
@@ -3942,7 +4459,13 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k",
+    "authors": [
+     "kavi-r"
+    ]
+   }
   },
   {
    "slug": "wolfram-alpha",
@@ -3963,12 +4486,19 @@
     "sourceUrl": "https://www.wolframalpha.com/pro/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k",
+    "authors": [
+     "kavi-r"
+    ]
+   }
   },
   {
    "slug": "linear",
@@ -3989,12 +4519,16 @@
     "sourceUrl": "https://linear.app/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "productboard",
@@ -4020,7 +4554,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "dovetail",
@@ -4046,7 +4583,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "miro",
@@ -4067,12 +4607,16 @@
     "sourceUrl": "https://miro.com/pricing/",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "codex",
@@ -4093,12 +4637,16 @@
     "sourceUrl": "https://developers.openai.com/codex/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "gemini-cli",
@@ -4131,7 +4679,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "opencode",
@@ -4164,7 +4715,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "openhands",
@@ -4198,7 +4752,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "devin",
@@ -4219,12 +4776,16 @@
     "sourceUrl": "https://devin.ai/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "manus",
@@ -4244,12 +4805,16 @@
     "sourceUrl": "https://manus.im/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "loom",
@@ -4270,12 +4835,16 @@
     "sourceUrl": "https://www.loom.com/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "cap",
@@ -4296,7 +4865,8 @@
     "sourceUrl": "https://cap.so/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": {
     "repo": "https://github.com/CapSoftware/Cap",
@@ -4308,7 +4878,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "tella",
@@ -4328,12 +4901,16 @@
     "sourceUrl": "https://www.tella.tv/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "krea",
@@ -4354,12 +4931,16 @@
     "sourceUrl": "https://www.krea.ai/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "logseq",
@@ -4392,7 +4973,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "framer",
@@ -4418,12 +5002,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "webflow",
@@ -4444,12 +5032,16 @@
     "sourceUrl": "https://webflow.com/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "microsoft-word",
@@ -4480,7 +5072,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "microsoft-powerpoint",
@@ -4511,7 +5106,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "google-docs",
@@ -4537,12 +5135,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "mailchimp",
@@ -4568,12 +5170,16 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "trello",
@@ -4594,12 +5200,16 @@
     "sourceUrl": "https://trello.com/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "brevo",
@@ -4625,7 +5235,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "beehiiv",
@@ -4651,7 +5264,10 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "listmonk",
@@ -4685,7 +5301,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "mautic",
@@ -4719,7 +5338,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   },
   {
    "slug": "plane",
@@ -4741,7 +5363,8 @@
     "sourceUrl": "https://plane.so/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": {
     "repo": "https://github.com/makeplane/plane",
@@ -4753,7 +5376,10 @@
    },
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "notes": {
+    "reviewedBy": "rosh-k"
+   }
   }
  ],
  "anchors": [
@@ -4772,7 +5398,8 @@
     "poe"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "claude",
@@ -4787,7 +5414,8 @@
     "open-webui"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "cursor",
@@ -4803,7 +5431,8 @@
     "opencode"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "github-copilot",
@@ -4817,7 +5446,8 @@
     "codex"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "windsurf",
@@ -4829,7 +5459,8 @@
     "aider"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "lovable",
@@ -4842,7 +5473,8 @@
     "bolt-diy"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "bolt",
@@ -4855,7 +5487,8 @@
     "dyad"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "v0",
@@ -4867,7 +5500,8 @@
     "dyad"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "replit",
@@ -4880,7 +5514,8 @@
     "bolt-diy"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "midjourney",
@@ -4894,7 +5529,8 @@
     "comfyui"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "elevenlabs",
@@ -4906,7 +5542,8 @@
     "piper"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "perplexity",
@@ -4919,7 +5556,8 @@
     "poe"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "notion-ai",
@@ -4933,7 +5571,8 @@
     "logseq"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "jasper",
@@ -4946,7 +5585,8 @@
     "claude"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "copy-ai",
@@ -4958,7 +5598,8 @@
     "chatgpt"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "grammarly",
@@ -4970,7 +5611,8 @@
     "wordtune"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "zapier",
@@ -4983,7 +5625,8 @@
     "huginn"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "n8n",
@@ -4997,7 +5640,8 @@
     "flowise"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "make",
@@ -5009,7 +5653,8 @@
     "windmill"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "canva",
@@ -5024,7 +5669,8 @@
     "gamma"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "synthesia",
@@ -5036,7 +5682,8 @@
     "invideo"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "heygen",
@@ -5048,7 +5695,8 @@
     "invideo"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "runway",
@@ -5060,7 +5708,8 @@
     "comfyui"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "otter",
@@ -5073,7 +5722,8 @@
     "whisper"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "fireflies",
@@ -5085,7 +5735,8 @@
     "read-ai"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "descript",
@@ -5097,7 +5748,8 @@
     "kdenlive"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "gamma",
@@ -5109,7 +5761,8 @@
     "presenton"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "suno",
@@ -5121,7 +5774,8 @@
     "audiocraft"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "poe",
@@ -5133,7 +5787,8 @@
     "open-webui"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "character-ai",
@@ -5145,7 +5800,8 @@
     "talkie"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "claude-code",
@@ -5160,7 +5816,8 @@
     "github-copilot"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "devin",
@@ -5174,7 +5831,8 @@
     "cline"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "manus",
@@ -5187,7 +5845,8 @@
     "deepseek"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "writesonic",
@@ -5200,7 +5859,8 @@
     "claude"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "fathom",
@@ -5212,7 +5872,8 @@
     "read-ai"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "tldv",
@@ -5224,7 +5885,8 @@
     "read-ai"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "loom",
@@ -5236,7 +5898,8 @@
     "riverside"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "krea",
@@ -5249,7 +5912,8 @@
     "comfyui"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "pika",
@@ -5261,7 +5925,8 @@
     "comfyui"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "luma",
@@ -5273,7 +5938,8 @@
     "comfyui"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "kling",
@@ -5285,7 +5951,8 @@
     "comfyui"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "murf",
@@ -5297,7 +5964,8 @@
     "piper"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "speechify",
@@ -5309,7 +5977,8 @@
     "piper"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "obsidian",
@@ -5322,7 +5991,8 @@
     "coda"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "figma",
@@ -5334,7 +6004,8 @@
     "adobe-express"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "framer",
@@ -5347,7 +6018,8 @@
     "figma"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "gemini",
@@ -5361,7 +6033,8 @@
     "poe"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "deepseek",
@@ -5375,7 +6048,8 @@
     "jan"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "leonardo",
@@ -5388,7 +6062,8 @@
     "comfyui"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "quillbot",
@@ -5400,7 +6075,8 @@
     "hemingway"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "airtable",
@@ -5412,7 +6088,8 @@
     "coda"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   }
  ],
  "saas": [
@@ -5428,7 +6105,8 @@
     "nocodb"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "canva",
@@ -5444,7 +6122,8 @@
    ],
    "redirectTo": "/alternatives/canva",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "photoshop",
@@ -5459,7 +6138,8 @@
     "comfyui"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "grammarly",
@@ -5474,7 +6154,8 @@
    ],
    "redirectTo": "/alternatives/grammarly",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "zendesk",
@@ -5488,7 +6169,8 @@
     "tidio"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "word",
@@ -5503,7 +6185,8 @@
     "writer"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "powerpoint",
@@ -5518,7 +6201,8 @@
     "presenton"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "google-docs",
@@ -5532,7 +6216,8 @@
     "appflowy"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "mailchimp",
@@ -5546,7 +6231,8 @@
     "mautic"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "trello",
@@ -5560,7 +6246,8 @@
     "airtable"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   }
  ],
  "stacks": [
@@ -5595,7 +6282,8 @@
     }
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "chemistry-tutor",
@@ -5628,7 +6316,11 @@
     }
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k",
+   "authors": [
+    "kavi-r"
+   ]
   },
   {
    "slug": "product-manager",
@@ -5665,7 +6357,8 @@
     }
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17"
+   "contentUpdatedAt": "2026-10-17",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "content-creator",
@@ -5702,7 +6395,8 @@
     }
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   },
   {
    "slug": "small-agency",
@@ -5739,7 +6433,8 @@
     }
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18"
+   "contentUpdatedAt": "2026-10-18",
+   "reviewedBy": "rosh-k"
   }
  ],
  "changes": [
@@ -5750,6 +6445,19 @@
    "old": "Shopify Basic ₹1,499/mo billed yearly",
    "new": "Shopify Basic ₹1,800/mo billed yearly (monthly still ₹1,994)",
    "sourceUrl": "https://www.shopify.com/pricing"
+  }
+ ],
+ "people": [
+  {
+   "slug": "rosh-k",
+   "name": "Rosh K",
+   "role": "product manager, AI enthusiast"
+  },
+  {
+   "slug": "kavi-r",
+   "name": "Kavi R",
+   "role": "educator",
+   "firstNameOnly": false
   }
  ]
 }

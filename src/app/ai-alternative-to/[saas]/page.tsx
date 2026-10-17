@@ -1,21 +1,21 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { Grid, JsonLd, itemList, Price } from "@/components/ui";
-import { saas, getTool } from "@/lib/data";
+import { saas, getTool, type Tool } from "@/lib/data";
 import { indexableSaas, lastmodSaas, monthYear } from "@/lib/seo";
-import { buildMetadata, Crumbs } from "@/components/seo";
+import { buildMetadata } from "@/components/seo";
+import AltTemplate from "@/components/AltTemplate";
 export const dynamicParams = false;
 export const generateStaticParams = () => indexableSaas().filter((s) => s.alternatives.length >= 3).map((s) => ({ saas: s.slug }));
 export async function generateMetadata({ params }: { params: Promise<{ saas: string }> }): Promise<Metadata> {
   const { saas: k } = await params; const s = saas.find((x) => x.slug === k)!;
-  return buildMetadata({ title: `AI alternatives to ${s.name} (${monthYear(lastmodSaas(k))})`, description: `${s.alternatives.length} AI-powered alternatives to ${s.name}, with today's prices and free options.`, path: `/ai-alternative-to/${k}` });
+  const title = `AI alternatives to ${s.name} (${monthYear(lastmodSaas(k))})`;
+  return { ...buildMetadata({ title, description: `${s.alternatives.length} AI-powered alternatives to ${s.name}, with USD prices from vendor pricing pages, free options, sources and checked dates.`, path: `/ai-alternative-to/${k}` }), title: { absolute: title } };
 }
 export default async function Page({ params }: { params: Promise<{ saas: string }> }) {
   const { saas: k } = await params; const s = saas.find((x) => x.slug === k); if (!s) notFound();
-  const items = s.alternatives.map((x) => getTool(x)!); const base = getTool(s.toolSlug)!;
-  return <div className="space-y-6"><JsonLd data={itemList(`AI alternatives to ${s.name}`, items)} />
-    <Crumbs items={[{ name: `AI alternatives to ${s.name}` }]} />
-    <h1 className="text-3xl font-bold">AI alternatives to {s.name}</h1>
-    <div className="rounded-xl border bg-white p-4"><p className="text-xs uppercase text-slate-500">{s.name} pricing</p><Price t={base} /></div>
-    <Grid items={items} /></div>;
+  const items = s.alternatives.map((x) => getTool(x)).filter(Boolean) as Tool[];
+  return <AltTemplate pageType="saas" path={`/ai-alternative-to/${k}`} slug={k} anchorTool={getTool(s.toolSlug)} subjectName={s.name}
+    h1={`AI alternatives to ${s.name}, honestly compared, with prices`} crumbs={[{ name: `AI alternatives to ${s.name}` }]}
+    items={items} summary={s.summary} verdict={s.verdict} faq={s.faq} reviewedBy={s.reviewedBy} authors={s.authors} updated={lastmodSaas(k)} published={s.firstPublished}
+    filterKeys={[]} extra={s.replaces} keepVsSwitch={s.keepVsSwitch} />;
 }

@@ -1,0 +1,22 @@
+{
+ "brand": "BetterAlt",
+ "url": "https://findbetteralt.com",
+ "email": "hello@findbetteralt.com",
+ "priceTrackingStartedAt": "2026-10-17",
+ "githubStatsFetchedAt": "2026-10-17",
+ "staleAfterDays": 30,
+ "recheckSchedule": "on a rolling basis, at least once every 30 days",
+ "disclosure": {
+  "affiliate": "Some links may be affiliate links. We may earn a commission at no extra cost to you. It never changes our listings, order or prices.",
+  "pricePolicy": "Prices are in US dollars from each vendor's own pricing page and are never converted. India prices appear only where the vendor publishes them."
+ },
+ "disclosures": {
+  "sponsored": "Sponsored placements are paid, always labelled, and never change our order or prices.",
+  "aiAssisted": "Research is AI-assisted and reviewed by the team."
+ },
+ "statusLabels": {
+  "renamed": "Renamed",
+  "acquired": "Acquired · no longer maintained",
+  "shut-down": "Shut down"
+ }
+}

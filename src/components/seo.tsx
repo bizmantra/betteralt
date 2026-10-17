@@ -24,3 +24,12 @@ export function Crumbs({ items }: { items: { name: string; href?: string }[] }) 
   return <nav aria-label="Breadcrumb" className="text-sm text-slate-500"><JsonLd data={ld} />
     {all.map((c, i) => <span key={i}>{i > 0 && " / "}{c.href && i < all.length - 1 ? <Link href={c.href} className="hover:underline">{c.name}</Link> : <span>{c.name}</span>}</span>)}</nav>;
 }
+
+// WebPage wrapper for editorial pages. dateModified is always emitted (Ron's sign-off).
+export function webPageLd({ path, name, published, modified, reviewer, type = "WebPage" }: { path: string; name: string; published?: string; modified: string; reviewer?: { name?: string; role?: string }; type?: "WebPage" | "Article" }) {
+  return { "@context": "https://schema.org", "@type": type, "@id": `${SITE}${path}#webpage`, url: SITE + path, name,
+    isPartOf: { "@id": `${SITE}/#website` }, publisher: { "@id": `${SITE}/#org` }, author: { "@id": `${SITE}/#org` },
+    ...(type === "Article" ? { headline: name } : {}),
+    ...(reviewer?.name ? { reviewedBy: { "@type": "Person", name: reviewer.name, ...(reviewer.role ? { jobTitle: reviewer.role } : {}) } } : {}),
+    ...(published ? { datePublished: published } : {}), dateModified: modified };
+}

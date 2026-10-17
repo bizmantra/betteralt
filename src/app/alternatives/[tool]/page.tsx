@@ -1,45 +1,24 @@
 import { notFound } from "next/navigation";
-import Link from "next/link";
 import type { Metadata } from "next";
-import AltFilter from "@/components/AltFilter";
-import { ToolCard, JsonLd, itemList, Price, Newsletter } from "@/components/ui";
-import { getTool, altsOf, FILTERS, fmtDate, type FilterKey } from "@/lib/data";
-import { indexableAnchors, isIndexableVariant, lastmodAnchor, monthYear } from "@/lib/seo";
-import { buildMetadata, Crumbs } from "@/components/seo";
+import { getTool, altsOf, getAnchor } from "@/lib/data";
+import { indexableAnchors, variants, lastmodAnchor, monthYear } from "@/lib/seo";
+import { buildMetadata } from "@/components/seo";
+import { altTitle } from "@/lib/titles";
+import AltTemplate from "@/components/AltTemplate";
 
 export const dynamicParams = false;
 export const generateStaticParams = () => indexableAnchors().map((a) => ({ tool: a.slug }));
 export async function generateMetadata({ params }: { params: Promise<{ tool: string }> }): Promise<Metadata> {
   const { tool } = await params; const t = getTool(tool)!; const n = altsOf(tool).length;
-  const title = `${n} best ${t.name} alternatives (${monthYear(lastmodAnchor(tool))}), with prices`;
-  const description = `Compare ${n} alternatives to ${t.name}: free, open-source, self-hosted and cheaper options, with prices taken from vendor pricing pages and dated.`;
-  return buildMetadata({ title, description, path: `/alternatives/${tool}`, ogImage: `/alternatives/${tool}/opengraph-image` });
+  const title = altTitle(t.name, monthYear(lastmodAnchor(tool)));
+  const description = `Compare ${n} alternatives to ${t.name}: free, open-source, self-hosted and paid options, with USD prices from vendor pricing pages, sources and checked dates.`;
+  return { ...buildMetadata({ title, description, path: `/alternatives/${tool}`, ogImage: `/alternatives/${tool}/opengraph-image` }), title: { absolute: title } };
 }
 export default async function Page({ params }: { params: Promise<{ tool: string }> }) {
-  const { tool } = await params; const t = getTool(tool); if (!t) notFound();
-  const alts = altsOf(tool);
-  const keys = alts.map((a) => ({ slug: a.slug, usd: (a.pricing.currency ?? "USD") === "USD" ? a.pricing.fromUsdMonthly : null, flags: (Object.keys(FILTERS) as FilterKey[]).filter((f) => FILTERS[f].test(a, t)) }));
-  const subs = (Object.keys(FILTERS) as FilterKey[]).filter((f) => isIndexableVariant(tool, f));
-  const free = alts.filter((a) => FILTERS.free.test(a)).map((a) => a.name);
-  const oss = alts.filter((a) => FILTERS["open-source"].test(a)).map((a) => a.name);
-  const faq = [
-    { q: `What are the best alternatives to ${t.name}?`, a: `Popular alternatives to ${t.name} include ${alts.slice(0, 5).map((a) => a.name).join(", ")}.` },
-    ...(free.length ? [{ q: `Is there a free alternative to ${t.name}?`, a: `Yes. ${free.join(", ")} ${free.length > 1 ? "offer" : "offers"} a free plan or free version.` }] : []),
-    ...(oss.length ? [{ q: `Is there an open-source alternative to ${t.name}?`, a: `Yes: ${oss.join(", ")}.` }] : []),
-  ];
-  return <div className="space-y-8">
-    <JsonLd data={itemList(`Alternatives to ${t.name}`, alts)} />
-    <JsonLd data={{ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }} />
-    <div><Crumbs items={[{ name: `${t.name} alternatives` }]} />
-      <h1 className="mt-1 text-3xl font-bold">{alts.length} best {t.name} alternatives</h1>
-      <p className="mt-1 text-xs text-slate-500">Updated {fmtDate(lastmodAnchor(tool))}</p>
-      <p className="mt-2 max-w-3xl text-slate-600">{t.name}: {t.description}</p>
-      <div className="mt-3 rounded-xl border bg-white p-4"><p className="text-xs uppercase text-slate-500">{t.name} pricing</p><Price t={t} /></div>
-      {subs.length > 0 && <p className="mt-3 text-sm">Shortcuts: {subs.map((f) => <Link key={f} className="mr-3 text-indigo-600 underline" href={`/alternatives/${tool}/${f}`}>{FILTERS[f].title}</Link>)}</p>}
-    </div>
-    <AltFilter keys={keys}>{alts.map((a) => <ToolCard key={a.slug} t={a} />)}</AltFilter>
-    <section className="rounded-xl border bg-white p-5"><h2 className="text-xl font-semibold">FAQ</h2>
-      {faq.map((f) => <div key={f.q} className="mt-3"><h3 className="font-medium">{f.q}</h3><p className="text-sm text-slate-600">{f.a}</p></div>)}</section>
-    <Newsletter source={`alternatives/${tool}`} />
-  </div>;
+  const { tool } = await params; const t = getTool(tool); const a = getAnchor(tool); if (!t || !a) notFound();
+  return <AltTemplate pageType="alternatives" path={`/alternatives/${tool}`} slug={tool} anchorTool={t} subjectName={t.name}
+    h1={`${t.name} alternatives, honestly compared, with prices`} crumbs={[{ name: `${t.name} alternatives` }]}
+    items={altsOf(tool)} meta={a.meta} summary={a.summary} verdict={a.verdict} redditSummary={a.redditSummary} howToChoose={a.howToChoose} faq={a.faq}
+    reviewedBy={a.reviewedBy} authors={a.authors} updated={lastmodAnchor(tool)} published={a.firstPublished}
+    filterKeys={variants().ok.filter((v) => v.tool === tool).map((v) => v.filter)} />;
 }

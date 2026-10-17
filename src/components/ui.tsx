@@ -1,7 +1,8 @@
 import Link from "next/link";
 import NewsletterForm from "@/components/NewsletterForm";
+import AltCard from "@/components/slots/AltCard";
 import type { Tool } from "@/lib/data";
-import { fmtStars, fmtDate } from "@/lib/data";
+import { fmtStars, fmtDate, site } from "@/lib/data";
 
 const TAG: Record<string, string> = {
   free: "bg-emerald-100 text-emerald-800", freemium: "bg-sky-100 text-sky-800", paid: "bg-slate-100 text-slate-700",
@@ -10,44 +11,40 @@ const TAG: Record<string, string> = {
 export function Tags({ tags }: { tags: string[] }) {
   return <div className="flex flex-wrap gap-1.5">{tags.map((t) => <span key={t} className={`rounded-full px-2 py-0.5 text-xs font-medium ${TAG[t] ?? "bg-slate-100"}`}>{t}</span>)}</div>;
 }
+const BUILD = new Date();
+export const isStale = (iso: string, days = site.staleAfterDays ?? 30) => (BUILD.getTime() - new Date(iso + "T00:00:00Z").getTime()) / 86400000 > days;
+export function RecheckBadge({ t }: { t: Tool }) {
+  if (!isStale(t.pricing.lastChecked)) return null;
+  return <p className="text-[13px]"><span className="rounded bg-amber-tint px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-amber">Re-checking price</span> <span className="text-ink-2">Last checked {fmtDate(t.pricing.lastChecked)}; we&apos;re re-verifying.</span></p>;
+}
+export function SourceLink({ t, href, region, label }: { t: Tool; href: string; region: "us" | "in"; label?: string }) {
+  return <a className="underline" href={href} target="_blank" rel="nofollow noopener" data-track="source_click" data-tool={t.slug} data-region={region}>{label ?? "source"}<span className="sr-only"> ({t.name} {region === "in" ? "India " : ""}pricing source, opens in a new tab)</span></a>;
+}
 export function Price({ t, compact }: { t: Tool; compact?: boolean }) {
   const p = t.pricing;
-  if (!p.summary) return <p className="text-sm"><a href={p.sourceUrl} target="_blank" rel="nofollow noopener" className="font-medium text-indigo-600 underline">See pricing ↗</a> <span className="text-xs text-slate-500">(not yet verified · tried {fmtDate(p.lastChecked)})</span></p>;
+  if (!p.summary) return <p className="text-sm"><a href={p.sourceUrl} target="_blank" rel="nofollow noopener" data-track="source_click" data-tool={t.slug} data-region="us" className="font-medium text-green underline">See pricing ↗</a> <span className="text-[13px] text-ink-2">(not yet verified · tried {fmtDate(p.lastChecked)})</span></p>;
   const local = p.currency && p.currency !== "USD";
   const label = p.currency === "INR" ? "India price (INR)" : p.currency === "EUR" ? "Price in EUR" : p.currency;
-  return <div className="text-sm">
-    {local && <p className="text-xs font-medium uppercase tracking-wide text-amber-700">{label} · USD price not available</p>}
-    <p className="font-medium text-slate-800">{p.summary}</p>
-    {!compact && <p className="mt-0.5 text-xs text-slate-500">Last checked {fmtDate(p.lastChecked)} · <a className="underline" href={p.sourceUrl} target="_blank" rel="nofollow noopener">source</a></p>}
-    {p.india && <p className="mt-1 text-xs text-slate-600"><span className="font-medium">India price:</span> {p.india.summary}{!compact && <> · {fmtDate(p.india.lastChecked)} · <a className="underline" href={p.india.sourceUrl} target="_blank" rel="nofollow noopener">source</a></>}</p>}
-  </div>;
-}
-export function ToolCard({ t }: { t: Tool }) {
-  const o = t.openSource;
-  return <div className="flex flex-col gap-3 rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
-    <div className="flex items-start justify-between gap-3">
-      <div><h3 className="text-lg font-semibold"><Link href={`/tools/${t.slug}`} className="hover:text-indigo-600">{t.name}</Link></h3>
-        <p className="text-xs uppercase tracking-wide text-slate-500">{t.category}</p></div>
-      <a href={t.url} target="_blank" rel="nofollow noopener" className="shrink-0 rounded-lg border px-3 py-1 text-sm hover:bg-slate-50">Visit ↗</a>
-    </div>
-    <p className="text-sm text-slate-700">{t.description}</p>
-    <Tags tags={t.tags} />
-    <Price t={t} />
-    <p className="text-sm text-slate-600"><span className="font-medium">Who it&apos;s for:</span> {t.whoFor}</p>
-    {o && <p className="text-xs text-slate-600">⭐ {fmtStars(o.stars)} GitHub stars · {o.license}{o.setupDifficulty ? ` · setup difficulty ${o.setupDifficulty}/5` : ""}{o.archived ? " · ⚠️ repo archived" : ""} · <a href={o.repo} className="underline" target="_blank" rel="nofollow noopener">repo</a></p>}
+  return <div className="space-y-0.5 font-mono text-[13px] leading-relaxed text-ink-2">
+    {local && <p className="font-sans text-[12px] font-semibold uppercase tracking-wide text-amber">{label} · USD price not available</p>}
+    <p className="text-[14px] font-semibold text-ink">{p.summary}</p>
+    {p.fromBilling === "annual" && p.fromUsdMonthly != null && <p>Starting price ${p.fromUsdMonthly}/mo is billed annually</p>}
+    {p.india && <p>India: {p.india.summary.replace(/\s*\(India pricing[^)]*\)/, "")} · checked {fmtDate(p.india.lastChecked)}{!compact && <> · <SourceLink t={t} href={p.india.sourceUrl} region="in" /></>}</p>}
+    {!compact && <p>Checked {fmtDate(p.lastChecked)} · <SourceLink t={t} href={p.sourceUrl} region="us" />{p.extraSources?.map((u, i) => <span key={u}> · <SourceLink t={t} href={u} region="us" label={`source ${i + 2}`} /></span>)}</p>}
+    <RecheckBadge t={t} />
   </div>;
 }
 export function Grid({ items }: { items: Tool[] }) {
-  return <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{items.map((t) => <ToolCard key={t.slug} t={t} />)}</div>;
+  return <ol className="flex flex-col gap-4">{items.map((t, i) => <li key={t.slug}><AltCard t={t} position={i + 1} /></li>)}</ol>;
 }
 export function JsonLd({ data }: { data: object }) {
   return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }} />;
 }
-export function Newsletter({ source }: { source?: string }) {
-  return <div className="rounded-2xl bg-indigo-50 p-6">
+export function Newsletter({ source, placement = "end" }: { source?: string; placement?: string }) {
+  return <div className="rounded-xl border-[1.5px] border-ink bg-white p-6">
     <h2 className="text-xl font-semibold">Get the weekly AI price changes email</h2>
     <p className="mt-1 text-sm text-slate-600">One email a week: AI tool price changes and new alternatives, with sources. Free, no spam, unsubscribe any time. See our <Link href="/privacy" className="underline">privacy policy</Link>.</p>
-    <NewsletterForm source={source} />
+    <NewsletterForm source={source} placement={placement} />
   </div>;
 }
 export const itemList = (name: string, items: Tool[]) => ({
