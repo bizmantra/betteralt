@@ -2,7 +2,7 @@ import Link from "next/link";
 import NewsletterForm from "@/components/NewsletterForm";
 import AltCard from "@/components/slots/AltCard";
 import type { Tool } from "@/lib/data";
-import { fmtStars, fmtDate, site } from "@/lib/data";
+import { fmtDate, site } from "@/lib/data";
 
 const TAG: Record<string, string> = {
   free: "bg-emerald-100 text-emerald-800", freemium: "bg-sky-100 text-sky-800", paid: "bg-slate-100 text-slate-700",

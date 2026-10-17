@@ -64,3 +64,10 @@ for t in db["tools"]:
     if t["slug"] == "cursor":
         t["pricing"].update(summary="Free plan; Plus $8/mo (Grok models only); Premium $30/mo; Super $100/mo; Ultra $200/mo; Teams from $30/user/mo", fromUsdMonthly=8, fromBilling="monthly", lastChecked=D, lastChangedAt=D)
 json.dump(db, open("src/data/db.json", "w"), ensure_ascii=False, indent=1)
+
+# Change log: stable ids for /changes#id permalinks + RSS guids; region/currency for the one India change
+db = json.load(open("src/data/db.json"))
+for c in db["changes"]:
+    c.setdefault("id", f"{c['date']}-{c['slug']}")
+    if c["slug"] == "shopify-magic": c.update(region="IN", currency="INR", plan="Basic")
+json.dump(db, open("src/data/db.json", "w"), ensure_ascii=False, indent=1)

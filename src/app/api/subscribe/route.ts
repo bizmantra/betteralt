@@ -17,6 +17,14 @@ function limited(ip: string) {
   return arr.length > 5;
 }
 
+const PROPS = ["signup_source", "utm_source", "utm_medium", "utm_campaign", "referrer_host", "landing_path"];
+let propsReady = false;
+async function ensureProps(key: string) { // create the custom contact properties once; "already exists" is fine
+  if (propsReady) return;
+  await Promise.all(PROPS.map((k) => resend(key, "/contact-properties", { key: k, type: "string", fallback_value: "" }).then((r) => { if (!r.ok && !/exist|already|taken/i.test(JSON.stringify(r.j))) console.warn("subscribe: property", k, r.status, JSON.stringify(r.j)); })));
+  propsReady = true;
+}
+
 let domainCache: { ok: boolean; at: number } | null = null;
 async function domainVerified(key: string) {
   if (domainCache && Date.now() - domainCache.at < 10 * 60 * 1000) return domainCache.ok;
@@ -57,19 +65,27 @@ export async function POST(req: Request) {
   const ip = (req.headers.get("x-forwarded-for") ?? "").split(",")[0].trim() || "unknown";
   if (limited(ip)) return NextResponse.json({ ok: false, error: "Too many attempts. Please try again in a few minutes." }, { status: 429 });
 
-  let body: { email?: unknown; company?: unknown; source?: unknown };
+  let body: { email?: unknown; company?: unknown; source?: unknown; attribution?: unknown };
   try { body = await req.json(); } catch { return NextResponse.json({ ok: false, error: "Invalid request." }, { status: 400 }); }
   // Honeypot: pretend success so bots learn nothing
   if (typeof body.company === "string" && body.company.trim() !== "") return NextResponse.json({ ok: true, message: "You're subscribed. Check your inbox." });
   const email = typeof body.email === "string" ? body.email.trim().toLowerCase() : "";
   if (!EMAIL_RE.test(email) || email.length > 254) return NextResponse.json({ ok: false, error: "Please enter a valid email address." }, { status: 400 });
   const source = typeof body.source === "string" ? body.source.slice(0, 100) : "unknown";
+  // Attribution (stored as Resend contact properties on first signup only). Plain strings, length-capped, no PII.
+  const attrIn = (body.attribution && typeof body.attribution === "object" ? body.attribution : {}) as Record<string, unknown>;
+  const properties: Record<string, string> = { signup_source: source };
+  for (const k of ["utm_source", "utm_medium", "utm_campaign", "referrer_host", "landing_path"]) {
+    const v = attrIn[k]; if (typeof v === "string" && v.trim()) properties[k] = v.trim().replace(/[^\w.\-/:@ +]/g, "").slice(0, 100);
+  }
 
   // 1. Existing contact? (Resend's create call upserts, so check first to avoid duplicate welcome emails)
   const g = await resend(key, `/contacts/${encodeURIComponent(email)}`, undefined, "GET");
   let isNew = !g.ok;
   if (isNew) {
-    const c = await resend(key, "/contacts", { email, unsubscribed: false, segments: [{ id: segment }] });
+    await ensureProps(key);
+    let c = await resend(key, "/contacts", { email, unsubscribed: false, segments: [{ id: segment }], properties });
+    if (!c.ok) { console.warn("subscribe: create with properties failed, retrying without", c.status, JSON.stringify(c.j)); c = await resend(key, "/contacts", { email, unsubscribed: false, segments: [{ id: segment }] }); }
     if (!c.ok) { console.error("subscribe: create contact failed", c.status, JSON.stringify(c.j)); return NextResponse.json({ ok: false, error: "We couldn't add you right now. Please try again later." }, { status: 502 }); }
   } else {
     const a = await resend(key, `/contacts/${encodeURIComponent(email)}/segments/${segment}`);
@@ -80,7 +96,7 @@ export async function POST(req: Request) {
     }
     isNew = false;
   }
-  console.log("subscribe: contact ok", { new: isNew, source });
+  console.log("subscribe: contact ok", { new: isNew, source, utm_source: properties.utm_source ?? null, referrer_host: properties.referrer_host ?? null });
 
   // 2. Welcome email, only once and only from a verified domain
   if (isNew) {

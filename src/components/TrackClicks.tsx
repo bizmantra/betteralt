@@ -5,6 +5,16 @@ const snake = (k: string) => k.replace(/[A-Z]/g, (m) => "_" + m.toLowerCase());
 // One delegated listener: any element with data-track fires track(event, data-*). Plus scroll depth and engaged time.
 export default function TrackClicks() {
   useEffect(() => {
+    // First-touch attribution for newsletter signups: UTM tags + referring host, kept for this browser session only.
+    try {
+      if (!sessionStorage.getItem("ba_attr")) {
+        const q = new URLSearchParams(location.search); const a: Record<string, string> = {};
+        for (const k of ["utm_source", "utm_medium", "utm_campaign"]) { const v = q.get(k); if (v) a[k] = v.slice(0, 100); }
+        try { const h = document.referrer ? new URL(document.referrer).hostname : ""; if (h && h !== location.hostname) a.referrer_host = h; } catch {}
+        a.landing_path = location.pathname.slice(0, 200);
+        sessionStorage.setItem("ba_attr", JSON.stringify(a));
+      }
+    } catch {}
     const pageType = () => (document.querySelector("[data-page-type]") as HTMLElement | null)?.dataset.pageType ?? "other";
     const onClick = (e: MouseEvent) => {
       const el = (e.target as HTMLElement | null)?.closest<HTMLElement>("[data-track]");

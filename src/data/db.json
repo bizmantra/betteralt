@@ -6444,7 +6444,11 @@
    "kind": "price change",
    "old": "Shopify Basic ₹1,499/mo billed yearly",
    "new": "Shopify Basic ₹1,800/mo billed yearly (monthly still ₹1,994)",
-   "sourceUrl": "https://www.shopify.com/pricing"
+   "sourceUrl": "https://www.shopify.com/pricing",
+   "id": "2026-10-18-shopify-magic",
+   "region": "IN",
+   "currency": "INR",
+   "plan": "Basic"
   }
  ],
  "people": [

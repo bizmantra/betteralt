@@ -1,20 +1,30 @@
 import { buildMetadata, Crumbs } from "@/components/seo";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { tools, changes, getTool, fmtDate } from "@/lib/data";
-export const metadata: Metadata = buildMetadata({ title: "AI tool price changes", description: "A running log of AI tool price changes, with old price, new price, date and vendor source. Tracking began 17 Oct 2026.", path: "/changes" });
+import { tools, changes, getTool, fmtDate, site } from "@/lib/data";
+import { lastmodChanges } from "@/lib/seo";
+import ShareRow from "@/components/ShareRow";
+import { Newsletter } from "@/components/ui";
+const changeId = (c: { id?: string; date: string; slug: string }) => c.id ?? `${c.date}-${c.slug}`;
+export const metadata: Metadata = { ...buildMetadata({ title: "AI tool price changes", description: `A running log of AI tool price changes, with old price, new price, date and vendor source. Tracking began ${fmtDate(site.priceTrackingStartedAt ?? "2026-10-17")}.`, path: "/changes", ogImage: "/changes/opengraph-image" }),
+  alternates: { canonical: "/changes", types: { "application/rss+xml": "/changes/rss.xml" } } };
+const MONTH = (iso: string) => new Date(iso + "T00:00:00Z").toLocaleString("en-US", { month: "long", year: "numeric", timeZone: "UTC" });
 export default function Page() {
   const tracked = tools.filter((t) => t.pricing.verified && t.pricing.summary);
   const log = [...changes].sort((a, b) => b.date.localeCompare(a.date));
-  return <div className="max-w-3xl space-y-6"><Crumbs items={[{ name: "Price changes" }]} /><h1 className="text-3xl font-bold">Price changes</h1>
-    <p className="text-slate-600">We re-check vendor pricing pages and log every change here, with the old price, the new price and the source. Tracking began on 17 Oct 2026.</p>
-    <h2 className="text-xl font-semibold">Changes found</h2>
-    {log.length === 0 ? <p className="text-sm text-slate-600">No changes yet.</p> :
-    <ul className="divide-y rounded-xl border bg-white">{log.map((c) => { const t = getTool(c.slug); return <li key={c.date + c.slug} className="space-y-1 p-3 text-sm">
-      <p><span className="text-slate-500">{fmtDate(c.date)} · </span>{t ? <Link className="font-medium hover:text-indigo-600" href={`/tools/${t.slug}`}>{t.name}</Link> : c.slug}: {c.kind}</p>
-      <p className="text-slate-600"><span className="line-through">{c.old}</span> → <span className="font-medium text-slate-800">{c.new}</span> · <a className="underline" href={c.sourceUrl} target="_blank" rel="nofollow noopener">source</a></p></li>; })}</ul>}
-    <h2 className="text-xl font-semibold">Prices we track ({tracked.length})</h2>
+  const months = [...new Set(log.map((c) => c.date.slice(0, 7)))];
+  return <div className="max-w-3xl space-y-6" data-page-type="changes"><Crumbs items={[{ name: "Price changes" }]} /><h1 className="font-serif text-3xl font-semibold">Price changes</h1>
+    <p className="text-ink-2">We re-check vendor pricing pages and log every change here, with the old price, the new price and the source. Tracking began on {fmtDate(site.priceTrackingStartedAt ?? "2026-10-17")}. Last change logged {fmtDate(lastmodChanges())}. <a href="/changes/rss.xml" className="underline">RSS feed</a></p>
+    {log.length === 0 && <p className="text-sm text-ink-2">No changes yet.</p>}
+    {months.map((m) => <section key={m}><h2 className="font-serif text-xl font-semibold">{MONTH(m + "-01")}</h2>
+      <ul className="mt-2 divide-y rounded-xl border-[1.5px] border-ink bg-white">{log.filter((c) => c.date.startsWith(m)).map((c) => { const t = getTool(c.slug), id = changeId(c); return <li key={id} id={id} className="scroll-mt-4 space-y-1 p-3 text-sm">
+        <p className="font-semibold">{t ? <Link className="underline" href={`/tools/${t.slug}`}>{t.name}</Link> : c.slug}{c.plan ? ` · ${c.plan}` : ""}{c.region === "IN" ? " (India)" : c.region === "US" ? " (US)" : ""}: {c.kind}</p>
+        <p className="font-mono text-[13px]">{c.old} → <span className="font-semibold">{c.new}</span></p>
+        <div className="flex flex-wrap items-center justify-between gap-2 text-[13px] text-ink-2"><span>{fmtDate(c.date)} · <a className="underline" href={c.sourceUrl} target="_blank" rel="nofollow noopener">source</a> · <a className="underline" href={`#${id}`}>permalink</a></span>
+          <ShareRow path={`/changes#${id}`} text={`${t?.name ?? c.slug} price change: ${c.old} → ${c.new}`} pageType="changes" slug={id} /></div></li>; })}</ul></section>)}
+    <h2 className="font-serif text-xl font-semibold">Prices we track ({tracked.length})</h2>
     <ul className="divide-y rounded-xl border bg-white">{tracked.map((t) => <li key={t.slug} className="flex flex-wrap justify-between gap-2 p-3 text-sm">
-      <span><span className="text-slate-500">{fmtDate(t.pricing.lastChecked)} · </span><Link className="font-medium hover:text-indigo-600" href={`/tools/${t.slug}`}>{t.name}</Link></span>
-      <span className="text-slate-600">{t.pricing.summary}</span></li>)}</ul></div>;
+      <span><span className="text-ink-2">{fmtDate(t.pricing.lastChecked)} · </span><Link className="font-medium underline" href={`/tools/${t.slug}`}>{t.name}</Link></span>
+      <span className="text-ink-2">{t.pricing.summary}</span></li>)}</ul>
+    <Newsletter source="changes" placement="end" /></div>;
 }

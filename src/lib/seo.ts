@@ -53,7 +53,7 @@ export const lastmodVariant = (slug: string, f: FilterKey) => maxDate(anchors.fi
 export const lastmodSaas = (slug: string) => { const s = saas.find((x) => x.slug === slug)!; return maxDate(s.contentUpdatedAt, ...s.alternatives.map((x) => toolChanged(getTool(x)))); };
 export const lastmodStack = (slug: string) => { const s = stacks.find((x) => x.slug === slug)!; return maxDate(s.contentUpdatedAt, ...s.items.map((i) => toolChanged(getTool(i.tool)))); };
 // Static pages: date of the last content edit of that page (from git history of the page file)
-export const STATIC_LASTMOD: Record<string, string> = { "/about": "2026-10-18", "/submit": "2026-10-18", "/sponsor": "2026-10-18", "/privacy": "2026-10-18", "/terms": "2026-10-18" };
+export const STATIC_LASTMOD: Record<string, string> = { "/about": "2026-10-18", "/submit": "2026-10-18", "/sponsor": "2026-10-18", "/privacy": "2026-10-18", "/terms": "2026-10-18", "/newsletter": "2026-10-18" };
 export const lastmodOpenSource = () => maxDate(...tools.filter((t) => t.tags.includes("open source")).map(toolChanged));
 export const lastmodChanges = () => maxDate(...changes.map((c) => c.date));
 export const lastmodStacks = () => maxDate(...stacks.map((s) => lastmodStack(s.slug)));

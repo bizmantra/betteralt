@@ -24,7 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <footer className="border-t-2 border-ink bg-paper"><div className="mx-auto flex max-w-6xl flex-wrap gap-4 px-4 py-6 text-sm text-ink-2">
       <span>© 2026 BetterAlt · Prices are checked against vendors&apos; official pricing pages; always confirm before buying.</span>
       <span className="w-full text-xs">Affiliate disclosure: some links on BetterAlt may be affiliate links, which means we may earn a commission if you buy, at no extra cost to you. It never changes our listings or prices.</span>
-      <Link href="/about">About</Link><Link href="/sponsor" data-track="sponsor_cta_click" data-placement="footer">Sponsor</Link><Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link><Link href="/llms.txt">llms.txt</Link><a href="mailto:hello@findbetteralt.com">hello@findbetteralt.com</a>
+      <Link href="/about">About</Link><Link href="/sponsor" data-track="sponsor_cta_click" data-placement="footer">Sponsor</Link><Link href="/newsletter">Newsletter archive</Link><Link href="/changes/rss.xml">RSS</Link><Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link><Link href="/llms.txt">llms.txt</Link><a href="mailto:hello@findbetteralt.com">hello@findbetteralt.com</a>
     </div></footer>
   </body></html>;
 }

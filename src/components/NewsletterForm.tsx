@@ -12,7 +12,7 @@ export default function NewsletterForm({ source, placement = "end" }: { source?:
     setState("loading"); setMsg(""); track("newsletter_submit", tp);
     try {
       const r = await fetch("/api/subscribe", { method: "POST", headers: { "content-type": "application/json" },
-        body: JSON.stringify({ email: f.get("email"), company: f.get("company"), source }) });
+        body: JSON.stringify({ email: f.get("email"), company: f.get("company"), source, attribution: (() => { try { return JSON.parse(sessionStorage.getItem("ba_attr") ?? "{}"); } catch { return {}; } })() }) });
       const j = await r.json().catch(() => ({}));
       if (r.ok && j.ok) { track("newsletter_success", tp); setState("ok"); setMsg(j.message ?? "You're subscribed. Check your inbox."); }
       else { track("newsletter_error", { ...tp, error: String(r.status) }); setState("error"); setMsg(j.error ?? "Something went wrong. Please try again."); }
