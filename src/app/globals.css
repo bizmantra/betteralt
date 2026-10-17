@@ -1,26 +1,29 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* BetterAlt "Price Ledger" tokens (visual direction v2.1). Light only. */
+@theme {
+  --color-paper: #FBF8F1;
+  --color-card: #FFFFFF;
+  --color-ink: #1B1A17;
+  --color-ink-2: #5C574C;
+  --color-rule: #D8D2C4;
+  --color-green: #0F6B4F;
+  --color-green-dark: #0B5740;
+  --color-green-tint: #E3F1EA;
+  --color-rust: #9A3412;
+  --color-rust-tint: #FBE9DF;
+  --color-amber: #7A5A00;
+  --color-amber-tint: #FFF4CC;
+  --color-blue: #2F4B8A;
+  --color-blue-tint: #E6ECF7;
+  --color-hl: #F5D547;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer base {
+  :root { color-scheme: light; }
+  *, ::before, ::after { border-color: var(--color-rule); }
+  html, body { background: var(--color-paper); color: var(--color-ink); }
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  :focus-visible { outline: 3px solid var(--color-green); outline-offset: 2px; }
 }

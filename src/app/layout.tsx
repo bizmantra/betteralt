@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   twitter: { card: "summary_large_image" },
 };
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return <html lang="en"><body className="min-h-screen bg-slate-50 text-slate-900 antialiased"><JsonLd data={orgGraph} />
+  return <html lang="en" style={{ colorScheme: "light" }}><body className="min-h-screen bg-paper text-ink antialiased"><JsonLd data={orgGraph} />
     <header className="border-b bg-white"><nav className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-5 gap-y-2 px-4 py-3 text-sm">
       <Link href="/" className="mr-auto text-xl font-bold tracking-tight">Better<span className="text-indigo-600">Alt</span></Link>
       <Link href="/open-source">Open source</Link><Link href="/stacks">Stacks</Link><Link href="/changes">Price changes</Link>
