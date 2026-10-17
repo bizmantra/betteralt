@@ -65,17 +65,19 @@ export async function POST(req: Request) {
   if (!EMAIL_RE.test(email) || email.length > 254) return NextResponse.json({ ok: false, error: "Please enter a valid email address." }, { status: 400 });
   const source = typeof body.source === "string" ? body.source.slice(0, 100) : "unknown";
 
-  // 1. Create the contact in the segment
-  const c = await resend(key, "/contacts", { email, unsubscribed: false, segments: [{ id: segment }] });
-  let isNew = c.ok;
-  if (!c.ok) {
-    const existing = c.status === 409 || /exist/i.test(JSON.stringify(c.j));
-    if (!existing) { console.error("subscribe: create contact failed", c.status, JSON.stringify(c.j)); return NextResponse.json({ ok: false, error: "We couldn't add you right now. Please try again later." }, { status: 502 }); }
-    // Already a contact: make sure they're in the newsletter segment and resubscribed
+  // 1. Existing contact? (Resend's create call upserts, so check first to avoid duplicate welcome emails)
+  const g = await resend(key, `/contacts/${encodeURIComponent(email)}`, undefined, "GET");
+  let isNew = !g.ok;
+  if (isNew) {
+    const c = await resend(key, "/contacts", { email, unsubscribed: false, segments: [{ id: segment }] });
+    if (!c.ok) { console.error("subscribe: create contact failed", c.status, JSON.stringify(c.j)); return NextResponse.json({ ok: false, error: "We couldn't add you right now. Please try again later." }, { status: 502 }); }
+  } else {
     const a = await resend(key, `/contacts/${encodeURIComponent(email)}/segments/${segment}`);
     if (!a.ok && !/exist|already/i.test(JSON.stringify(a.j))) console.error("subscribe: add to segment failed", a.status, JSON.stringify(a.j));
-    const u = await resend(key, `/contacts/${encodeURIComponent(email)}`, { unsubscribed: false }, "PATCH");
-    if (!u.ok) console.error("subscribe: resubscribe failed", u.status, JSON.stringify(u.j));
+    if (g.j?.unsubscribed) {
+      const u = await resend(key, `/contacts/${encodeURIComponent(email)}`, { unsubscribed: false }, "PATCH");
+      if (!u.ok) console.error("subscribe: resubscribe failed", u.status, JSON.stringify(u.j));
+    }
     isNew = false;
   }
   console.log("subscribe: contact ok", { new: isNew, source });

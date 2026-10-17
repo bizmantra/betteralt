@@ -13,8 +13,14 @@ export function Tags({ tags }: { tags: string[] }) {
 export function Price({ t, compact }: { t: Tool; compact?: boolean }) {
   const p = t.pricing;
   if (!p.summary) return <p className="text-sm"><a href={p.sourceUrl} target="_blank" rel="nofollow noopener" className="font-medium text-indigo-600 underline">See pricing ↗</a> <span className="text-xs text-slate-500">(not yet verified · tried {fmtDate(p.lastChecked)})</span></p>;
-  return <div className="text-sm"><p className="font-medium text-slate-800">{p.summary}</p>
-    {!compact && <p className="mt-0.5 text-xs text-slate-500">Last checked {fmtDate(p.lastChecked)} · <a className="underline" href={p.sourceUrl} target="_blank" rel="nofollow noopener">source</a></p>}</div>;
+  const local = p.currency && p.currency !== "USD";
+  const label = p.currency === "INR" ? "India price (INR)" : p.currency === "EUR" ? "Price in EUR" : p.currency;
+  return <div className="text-sm">
+    {local && <p className="text-xs font-medium uppercase tracking-wide text-amber-700">{label} · USD price not available</p>}
+    <p className="font-medium text-slate-800">{p.summary}</p>
+    {!compact && <p className="mt-0.5 text-xs text-slate-500">Last checked {fmtDate(p.lastChecked)} · <a className="underline" href={p.sourceUrl} target="_blank" rel="nofollow noopener">source</a></p>}
+    {p.india && <p className="mt-1 text-xs text-slate-600"><span className="font-medium">India price:</span> {p.india.summary}{!compact && <> · {fmtDate(p.india.lastChecked)} · <a className="underline" href={p.india.sourceUrl} target="_blank" rel="nofollow noopener">source</a></>}</p>}
+  </div>;
 }
 export function ToolCard({ t }: { t: Tool }) {
   const o = t.openSource;

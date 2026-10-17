@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: Promise<{ tool: str
 export default async function Page({ params }: { params: Promise<{ tool: string }> }) {
   const { tool } = await params; const t = getTool(tool); if (!t) notFound();
   const alts = altsOf(tool);
-  const keys = alts.map((a) => ({ slug: a.slug, flags: (Object.keys(FILTERS) as FilterKey[]).filter((f) => FILTERS[f].test(a, t)) }));
+  const keys = alts.map((a) => ({ slug: a.slug, usd: (a.pricing.currency ?? "USD") === "USD" ? a.pricing.fromUsdMonthly : null, flags: (Object.keys(FILTERS) as FilterKey[]).filter((f) => FILTERS[f].test(a, t)) }));
   const subs = (Object.keys(FILTERS) as FilterKey[]).filter((f) => filtered(tool, f).length >= MIN);
   const free = alts.filter((a) => FILTERS.free.test(a)).map((a) => a.name);
   const oss = alts.filter((a) => FILTERS["open-source"].test(a)).map((a) => a.name);

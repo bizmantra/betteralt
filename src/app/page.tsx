@@ -11,7 +11,7 @@ export default function Home() {
     <JsonLd data={{ "@context": "https://schema.org", "@type": "WebSite", name: "BetterAlt", url: SITE }} />
     <section className="py-10 text-center">
       <h1 className="mx-auto max-w-3xl text-4xl font-bold tracking-tight sm:text-5xl">Find a better or cheaper alternative to any AI tool, <span className="text-indigo-600">with today&apos;s prices.</span></h1>
-      <p className="mx-auto mt-4 max-w-2xl text-slate-600">{tools.length} tools, {totalAlts} alternative listings. Every price links to its source with a last-checked date. Free, open-source and self-hosted options included.</p>
+      <p className="mx-auto mt-4 max-w-2xl text-slate-600">{tools.length} tools, {totalAlts} alternative listings. Prices in USD from each vendor&apos;s own pricing page, with a source and last-checked date (India prices too, where published). Free, open-source and self-hosted options included.</p>
       <div className="mt-8"><Search items={items} /></div>
     </section>
     <section><h2 className="mb-4 text-2xl font-semibold">Popular: find alternatives to…</h2>

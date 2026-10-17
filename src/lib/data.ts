@@ -2,7 +2,7 @@ import db from "@/data/db.json";
 
 export type Tool = {
   slug: string; name: string; url: string; category: string; description: string; whoFor: string; tags: string[];
-  pricing: { summary: string | null; fromUsdMonthly: number | null; hasFreePlan: boolean | null; verified: boolean; sourceUrl: string; lastChecked: string };
+  pricing: { summary: string | null; fromUsdMonthly: number | null; hasFreePlan: boolean | null; verified: boolean; sourceUrl: string; lastChecked: string; currency?: string | null; india?: { summary: string; sourceUrl: string; lastChecked: string } };
   openSource: { repo: string; stars: number; license: string; archived: boolean; lastPush: string; setupDifficulty: number | null } | null;
 };
 export const SITE = "https://findbetteralt.com";
@@ -28,7 +28,7 @@ export const FILTERS = {
   "open-source": { label: "Open source", title: "Open-source alternatives", test: (t: Tool) => isOss(t) },
   "self-hosted": { label: "Self-hosted", title: "Self-hosted alternatives", test: (t: Tool) => isSelf(t) },
   cheaper: { label: "Cheaper", title: "Cheaper alternatives", test: (t: Tool, a?: Tool) =>
-      a?.pricing.fromUsdMonthly != null && t.pricing.fromUsdMonthly != null && t.pricing.fromUsdMonthly < a.pricing.fromUsdMonthly },
+      (t.pricing.currency ?? "USD") === "USD" && (a?.pricing.currency ?? "USD") === "USD" && a?.pricing.fromUsdMonthly != null && t.pricing.fromUsdMonthly != null && t.pricing.fromUsdMonthly < a.pricing.fromUsdMonthly },
 } as const;
 export type FilterKey = keyof typeof FILTERS;
 export const filtered = (anchor: string, f: FilterKey) => {

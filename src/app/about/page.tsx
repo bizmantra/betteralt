@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 export const metadata: Metadata = { title: "About BetterAlt", description: "How BetterAlt collects and checks AI tool prices and alternatives.", alternates: { canonical: "/about" } };
 export default function Page() {
   return <div className="prose max-w-3xl space-y-4"><h1 className="text-3xl font-bold">About BetterAlt</h1>
-    <p>BetterAlt helps you find a better or cheaper alternative to any AI tool, with today&apos;s prices.</p>
+    <p>BetterAlt helps people everywhere find a better or cheaper alternative to any AI tool, with today&apos;s prices in US dollars (plus India pricing where vendors publish it).</p>
     <h2 className="text-xl font-semibold">How we check prices</h2>
     <ul className="list-disc pl-5"><li>Every price comes from the vendor&apos;s official pricing page, linked as the source, with the date we last checked it.</li>
       <li>If we couldn&apos;t verify a price (for example the page blocks automated checks), we show &quot;See pricing&quot; with a link instead of guessing.</li>
-      <li>Prices are shown in the currency the vendor publishes. INR is shown where the vendor publishes INR; we don&apos;t invent conversions.</li>
+      <li>Prices are shown in US dollars, taken from the vendor&apos;s own US pricing. We never convert currencies. Where a vendor also publishes an India (INR) price, it appears as a secondary &quot;India price&quot; line with its own source and date. If we could only find a non-USD price, it&apos;s clearly labelled as such.</li>
       <li>Open-source details (stars, licence, last commit) come from the GitHub API.</li>
       <li>We only publish a page when it has at least three real data points.</li></ul>
     <h2 className="text-xl font-semibold">How BetterAlt makes money</h2>
