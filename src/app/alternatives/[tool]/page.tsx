@@ -37,6 +37,6 @@ export default async function Page({ params }: { params: Promise<{ tool: string 
     <AltFilter keys={keys}>{alts.map((a) => <ToolCard key={a.slug} t={a} />)}</AltFilter>
     <section className="rounded-xl border bg-white p-5"><h2 className="text-xl font-semibold">FAQ</h2>
       {faq.map((f) => <div key={f.q} className="mt-3"><h3 className="font-medium">{f.q}</h3><p className="text-sm text-slate-600">{f.a}</p></div>)}</section>
-    <Newsletter />
+    <Newsletter source={`alternatives/${tool}`} />
   </div>;
 }

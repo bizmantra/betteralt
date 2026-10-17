@@ -23,6 +23,6 @@ export default function Home() {
       <div className="grid gap-3 sm:grid-cols-3">{stacks.map((s) => <Link key={s.slug} href={`/stacks/${s.slug}`} className="rounded-xl border bg-white p-4 hover:border-indigo-400"><p className="font-semibold">{s.title}</p><p className="text-sm text-slate-600">{s.intro}</p></Link>)}</div></section>
     <section><h2 className="mb-4 text-2xl font-semibold">Categories</h2>
       <div className="flex flex-wrap gap-2 text-sm">{categories().map(([c, n]) => <span key={c} className="rounded-full bg-white px-3 py-1 border">{c} <span className="text-slate-500">({n})</span></span>)}</div></section>
-    <Newsletter />
+    <Newsletter source="home" />
   </div>;
 }

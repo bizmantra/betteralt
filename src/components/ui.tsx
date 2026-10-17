@@ -1,4 +1,5 @@
 import Link from "next/link";
+import NewsletterForm from "@/components/NewsletterForm";
 import type { Tool } from "@/lib/data";
 import { fmtStars, fmtDate } from "@/lib/data";
 
@@ -36,14 +37,11 @@ export function Grid({ items }: { items: Tool[] }) {
 export function JsonLd({ data }: { data: object }) {
   return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }} />;
 }
-export function Newsletter() {
+export function Newsletter({ source }: { source?: string }) {
   return <div className="rounded-2xl bg-indigo-50 p-6">
-    <h2 className="text-xl font-semibold">Get weekly AI price changes</h2>
-    <p className="mt-1 text-sm text-slate-600">New alternatives and price changes, once a week. <em>Coming soon: signups are not live yet.</em></p>
-    <form className="mt-3 flex flex-col gap-2 sm:flex-row" action="#" aria-disabled>
-      <input disabled type="email" placeholder="you@example.com" className="flex-1 rounded-lg border bg-white px-3 py-2" />
-      <button disabled className="rounded-lg bg-indigo-400 px-4 py-2 font-medium text-white">Coming soon</button>
-    </form>
+    <h2 className="text-xl font-semibold">Get the weekly AI price changes email</h2>
+    <p className="mt-1 text-sm text-slate-600">One email a week: AI tool price changes and new alternatives, with sources. Free, no spam, unsubscribe any time. See our <Link href="/privacy" className="underline">privacy policy</Link>.</p>
+    <NewsletterForm source={source} />
   </div>;
 }
 export const itemList = (name: string, items: Tool[]) => ({
