@@ -1,8 +1,9 @@
+import { BRAND } from "@/lib/data";
 import { ogCard, ogSize } from "@/lib/og";
 import { getTool, altsOf, fmtDate, isFree } from "@/lib/data";
 import { indexableAnchors } from "@/lib/seo";
 import { picks } from "@/lib/picks";
-export const size = ogSize; export const contentType = "image/png"; export const alt = "Alternatives on BetterAlt";
+export const size = ogSize; export const contentType = "image/png"; export const alt = `Alternatives on ${BRAND}`;
 export const generateStaticParams = () => indexableAnchors().map((a) => ({ tool: a.slug }));
 const short = (s: string | null) => (s ?? "").split(";")[0].replace(/\s*\(.*?\)/g, "");
 export default async function Image({ params }: { params: Promise<{ tool: string }> }) {

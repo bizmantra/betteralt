@@ -1,3 +1,4 @@
+import { BRAND } from "@/lib/data";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { SITE } from "@/lib/data";
@@ -8,13 +9,13 @@ const cut = (s: string, n = 155) => { if (s.length <= n) return s; const c = s.s
 export function buildMetadata({ title, description, path, type = "website", robots, ogImage = "/opengraph-image" }: { title: string; description: string; path: string; type?: "website" | "article"; robots?: Metadata["robots"]; ogImage?: string }): Metadata {
   const d = cut(description);
   return { title, description: d, alternates: { canonical: path }, robots,
-    openGraph: { siteName: "BetterAlt", locale: "en_US", type, url: path, title, description: d, images: [{ url: ogImage, width: 1200, height: 630, alt: title }] },
+    openGraph: { siteName: `${BRAND}`, locale: "en_US", type, url: path, title, description: d, images: [{ url: ogImage, width: 1200, height: 630, alt: title }] },
     twitter: { card: "summary_large_image", title, description: d, images: [ogImage] } };
 }
 
 export const orgGraph = { "@context": "https://schema.org", "@graph": [
-  { "@type": "Organization", "@id": `${SITE}/#org`, name: "BetterAlt", url: SITE, logo: `${SITE}/logo.png`, email: "hello@findbetteralt.com" },
-  { "@type": "WebSite", "@id": `${SITE}/#website`, url: SITE, name: "BetterAlt", publisher: { "@id": `${SITE}/#org` } },
+  { "@type": "Organization", "@id": `${SITE}/#org`, name: `${BRAND}`, url: SITE, logo: `${SITE}/logo.png`, email: "hello@findbetteralt.com" },
+  { "@type": "WebSite", "@id": `${SITE}/#website`, url: SITE, name: `${BRAND}`, publisher: { "@id": `${SITE}/#org` } },
 ] };
 
 // Visible breadcrumb + matching BreadcrumbList JSON-LD. Last item is the current page (no href).
@@ -26,10 +27,9 @@ export function Crumbs({ items }: { items: { name: string; href?: string }[] }) 
 }
 
 // WebPage wrapper for editorial pages. dateModified is always emitted (Ron's sign-off).
-export function webPageLd({ path, name, published, modified, reviewer, type = "WebPage" }: { path: string; name: string; published?: string; modified: string; reviewer?: { name?: string; role?: string }; type?: "WebPage" | "Article" }) {
+export function webPageLd({ path, name, published, modified, type = "WebPage" }: { path: string; name: string; published?: string; modified: string; reviewer?: { name?: string; role?: string }; type?: "WebPage" | "Article" }) {
   return { "@context": "https://schema.org", "@type": type, "@id": `${SITE}${path}#webpage`, url: SITE + path, name,
-    isPartOf: { "@id": `${SITE}/#website` }, publisher: { "@id": `${SITE}/#org` }, author: { "@id": `${SITE}/#org` },
-    ...(type === "Article" ? { headline: name } : {}),
-    ...(reviewer?.name ? { reviewedBy: { "@type": "Person", name: reviewer.name, ...(reviewer.role ? { jobTitle: reviewer.role } : {}) } } : {}),
+    isPartOf: { "@id": `${SITE}/#website` }, publisher: { "@id": `${SITE}/#org` }, 
+    ...(type === "Article" ? { headline: name, author: { "@id": `${SITE}/#org` } } : {}),
     ...(published ? { datePublished: published } : {}), dateModified: modified };
 }

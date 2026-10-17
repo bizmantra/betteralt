@@ -1,0 +1,241 @@
+#SNAPSHOT {"url":"https://www.microsoft.com/en-us/microsoft-365/excel","finalUrl":"https://www.microsoft.com/en-us/microsoft-365/excel","fetchedAt":"2026-10-17T21:01:05.963Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"7fbf270bae276ae9592e19227f8cac042e0f7fed846b6c96d43075aff49e4f41"}
+Skip to main content
+Microsoft 365
+Excel
+Plans and pricing
+Resources
+More Microsoft 365
+Try for free
+ME
+Discover what's coming to Microsoft Ignite, Nov 17-20, 2026.
+Register now
+Microsoft Excel
+Make data more insightful with free, online, collaborative spreadsheets.
+Open Excel
+See plans and pricing
+Overview
+Key features
+What’s new
+Plans and pricing
+Download the app
+Mobile download
+Resources
+FAQ
+Next steps
+See plans and pricing
+Try for free
+OVERVIEW
+Analyze, understand, and visualize your data with ease
+Microsoft 365 Copilot in Excel unlocks the latest AI capabilities to help you achieve your goals—from creating a simple spreadsheet to conducting advanced data analysis.
+Edit with Microsoft Copilot
+Tell Copilot what to change and it can help edit—formulas, tables, and formatting. Review the changes and stay in control.
+Try Copilot in Excel
+Formulas with Copilot
+Format with Copilot
+KEY FEATURES
+Do more with your data
+Copilot in Excel
+Stay in the flow of work with insightful assistance and smart tips on your spreadsheets from Copilot.
+Learn more
+Simplify your data
+Go from a simple prompt to deep insights with Copilot building directly in your spreadsheet - no advanced Excel skills required.
+Learn more
+Share and collaborate
+Share worksheets with peers and team members for easy collaboration and to offer data, insights, and reports.3
+Learn more
+WHAT’S NEW 
+Edit with Copilot in Excel
+Copilot in Excel handles complex analysis from start to finish, so you don’t have to piece it together step by step.​
+Learn more 
+PLANS AND PRICING
+Excel is better with Microsoft 365
+For individuals
+For business
+Yearly
+Monthly
+Microsoft Excel
+Free
+Sign up for free
+Sign in
+For 1 person
+Sharing and real-time collaboration
+Excel for the web
+5 GB of cloud storage
+Ad-supported Outlook email and calendar
+Works on web, iOS, and Android™
+Microsoft 365 Personal
+$99.99
+/year
+Subscription automatically renews unless canceled in Microsoft account. See terms.
+Buy now
+Try for free
+Microsoft 365 Personal includes:
+For 1 person​
+Sign into 5 devices at once
+Use on PCs, Macs, phones, and  tablet 
+1 TB of secure cloud storage
+Word, Excel 
+ , PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot 
+Advanced Copilot 
+ chat with higher usage than free
+Use Copilot in select apps with work files in a secure way 
+Higher usage than free for AI image creation in Copilot 
+Identity, 
+ data and device security
+All-day video calling and Copilot 
+ in Teams
+Microsoft 365 Family
+$129.99
+/year
+Subscription automatically renews unless canceled in Microsoft account. See terms.
+Buy now
+Try for free
+Everything in Microsoft 365 Personal, plus:
+For 1 to 6 people (AI for subscription owner only)
+Each person can use on up to 5 devices simultaneously 
+2 TB of shared, secure cloud storage
+Best for AI & productivity
+Microsoft 365 Premium
+$199.99
+/year
+Subscription automatically renews unless canceled in Microsoft account. See terms.
+Buy now
+Try for free
+Everything in Microsoft 365 Family, plus:​
+Advanced Copilot 
+  chat with extensive usage​
+Agentic AI features that get things done for you, including advanced research and analytics 
+Extensive usage for AI image creation in Copilot 
+Popular apps and services included:
+Back to tabs
+Back to tabs
+DOWNLOAD THE APP
+Turn data into insights.
+Organize, analyze, and visualize your data—Excel updates calculations and charts with one simple click, making sharing and collaboration easy.
+Windows
+Boost your productivity with advanced data analysis and visualization tools built for your PC.
+Download Excel for Windows
+Android
+Access, edit, and analyze spreadsheets anytime with smart data tools at your fingertips.
+Download Excel for Android
+iOS
+Review and update spreadsheets on the go, complete with charts and formulas that stay perfectly aligned.
+Download Excel for iOS
+MacOS
+Harness powerful data insights and formatting features optimized for your Mac experience.
+Download Excel for MacOS
+Web Portal
+Work online with secure cloud access, real-time collaboration, and always up-to-date spreadsheets.
+Open Excel
+Get the Excel mobile app
+Click here 
+ if you’re having trouble with QR code
+RESOURCES
+Explore ways to become a pro with Excel
+Showing 1-2 of 4 slides
+Previous Slide
+Next Slide
+Copilot learning center
+Explore quick, easy-to-follow videos to help you get started and do more with Copilot in Excel, Word, Outlook, and beyond.
+Learn more
+Jump-start your spreadsheets
+Show your professionalism and save time with Excel templates for over 40 categories.
+Explore free templates
+Get budgeting tips
+Take control and manage your expenses with these helpful articles and tips with Excel.
+Learn more
+Get the latest Excel news
+Check out the Excel blog to learn from experts and hear the latest product updates.
+Learn more
+Back to Resources section
+Frequently asked questions
+Expand all
+Collapse all
+01/
+Where can I use Microsoft Excel?
+02/
+Is there a free version of Microsoft Excel?
+03/
+Can I collaborate with other people in Microsoft Excel?
+04/
+In what languages is Microsoft Excel available?
+Do more with Microsoft 365
+Maximize your potential with a personal plan and apps to optimize the everyday.
+Learn more
+See plans for your business
+Get the most out of Copilot in Excel with a plan for your business.
+Learn more
+App availability varies by device/language. Features vary by platform. Minimum age limits may apply to use of AI features. Details. 
+[1]
+Some AI experiences require usage-based billing and may result in charges based on usage, beyond your license fees. Learn more about usage-based billing. Once your paid subscription begins, you have a 7-day cancellation window to receive a prorated refund, only paying for what you use. You may cancel your subscription at any time in the Microsoft 365 admin center. Learn how to cancel your Microsoft 365 subscription. When a subscription is canceled, all associated data will be deleted. Learn more about data retention, deletion, and destruction in Microsoft 365.
+[2]
+After your one-month free trial ends, your subscription will automatically convert to a paid subscription and you’ll be charged the applicable subscription fee based on the subscription term and billing plan you select. Cancel anytime during your free trial to stop future charges. A credit card is required to sign up. Storage for trials will be limited. Microsoft reserves the right to suspend access to its products and services if payment is not received after your one-month free trial ends. Learn more.
+[3]
+You must have a Microsoft 365 subscription to share and coauthor in Excel.
+This page is designed for users in the United States.
+Follow Microsoft Copilot 
+What's new
+Surface Laptop Ultra
+Surface Pro
+Surface Laptop
+Surface RTX Spark Dev Box
+Explore Copilot
+Explore Microsoft products
+Windows 11 apps
+Microsoft Store
+Account profile
+Download Center
+Microsoft Store support
+Returns
+Order tracking
+Certified Refurbished
+Why buy from Microsoft Store
+Flexible Payments
+Education
+Microsoft in education
+Devices for education
+Microsoft Teams for Education
+Microsoft 365 Education
+How to buy for your school
+Educator training and development
+Deals for students and parents
+AI for education
+Business
+Microsoft AI
+Microsoft Security
+Dynamics 365
+Microsoft 365
+Microsoft Power Platform
+Microsoft Teams
+Microsoft Copilot
+Small Business
+Developer & IT
+Azure
+Microsoft Developer
+Microsoft Learn
+Support for AI marketplace apps
+Microsoft Tech Community
+Microsoft Marketplace
+Software companies
+Visual Studio
+Company
+Careers
+About Microsoft
+Company news
+Privacy at Microsoft
+Investors
+Diversity and inclusion
+Accessibility
+Sustainability
+English (United States)
+Your Privacy Choices
+Consumer Health Privacy
+Sitemap
+Contact Microsoft
+Privacy
+Terms of use
+Trademarks
+Safety & eco
+Recycling
+About our ads
+© Microsoft 2026

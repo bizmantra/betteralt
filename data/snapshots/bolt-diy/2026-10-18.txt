@@ -1,0 +1,441 @@
+#SNAPSHOT {"url":"https://github.com/stackblitz-labs/bolt.diy","finalUrl":"https://github.com/stackblitz-labs/bolt.diy","fetchedAt":"2026-10-17T20:51:08.917Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"b5ef04d2f3ffe9597c467f8da641acc4a1f4581ee2dc6b8332b756fa28b4a8cd"}
+GitHub - stackblitz-labs/bolt.diy: Prompt, run, edit, and deploy full-stack web applications using any LLM you want! · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Appearance settings
+ Platform 
+ AI CODE CREATION
+ GitHub Copilot
+ Write better code with AI
+ GitHub Copilot app
+ Direct agents from issue to merge
+ MCP Registry
+ Integrate external tools
+ DEVELOPER WORKFLOWS
+ Actions
+ Automate any workflow
+ Codespaces
+ Instant dev environments
+ Issues
+ Plan and track work
+ Code Review
+ Manage code changes
+ Code Quality
+ Enforce quality at merge
+ APPLICATION SECURITY
+ GitHub Advanced Security
+ Find and fix vulnerabilities
+ Code security
+ Secure your code as you build
+ Secret protection
+ Stop leaks before they start
+ EXPLORE
+ Why GitHub
+ Documentation
+ Blog
+ Changelog
+ Marketplace
+ View all features
+ Solutions 
+ BY COMPANY SIZE
+ Enterprises
+ Small and medium teams
+ Startups
+ Nonprofits
+ BY USE CASE
+ App Modernization
+ DevSecOps
+ DevOps
+ CI/CD
+ View all use cases
+ BY INDUSTRY
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ View all industries
+ View all solutions
+ Resources 
+ EXPLORE BY TOPIC
+ AI
+ Software Development
+ DevOps
+ Security
+ View all topics
+ EXPLORE BY TYPE
+ Customer stories
+ Events & webinars
+ Ebooks & reports
+ Business insights
+ GitHub Skills
+ SUPPORT & SERVICES
+ Documentation
+ Customer support
+ Community forum
+ Trust center
+ Partners
+ View all resources
+ Open Source 
+ COMMUNITY
+ GitHub Sponsors
+ Fund open source developers
+ PROGRAMS
+ Security Lab
+ Maintainer Community
+ GitHub Stars
+ Archive Program
+ REPOSITORIES
+ Topics
+ Trending
+ Collections
+ Enterprise 
+ ENTERPRISE SOLUTIONS
+ Enterprise platform
+ AI-powered developer platform
+ AVAILABLE ADD-ONS
+ GitHub Advanced Security
+ Enterprise-grade security features
+ Copilot for Business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ stackblitz-labs
+ bolt.diy
+ Repository navigation
+ Code
+ Issues
+ 8
+  ( 8 )
+ Pull requests
+ 11
+  ( 11 )
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ bolt.diy
+ Public template
+ forked from 
+ stackblitz / bolt.new
+ Notifications
+ You must be signed in to change notification settings
+ Fork 10.6k
+  ( 10.6k
+)
+ Star 20k
+  ( 20k
+)
+ You must be signed in to star a repository
+ About
+ Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
+ stackblitz-labs.github.io/bolt.diy/
+ Resources
+ Readme
+ MIT license
+ Contributing
+ Contributing
+ Activity
+ Custom properties
+ Stars
+ 20.0k stars
+ Watchers
+ 294 watching
+ Forks
+ 10.6k 
+ forks
+ Report repository
+ main
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 1,897 Commits
+ 1,897 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .github
+ .github
+ .husky
+ .husky
+ app
+ app
+ assets
+ assets
+ benchmarks
+ benchmarks
+ docs
+ docs
+ e2e-tests
+ e2e-tests
+ electron
+ electron
+ icons
+ icons
+ public
+ public
+ scripts
+ scripts
+ tests
+ tests
+ types
+ types
+ workers
+ workers
+ .depcheckrc.json
+ .depcheckrc.json
+ .dockerignore
+ .dockerignore
+ .editorconfig
+ .editorconfig
+ .env.example
+ .env.example
+ .env.production
+ .env.production
+ .gitattributes
+ .gitattributes
+ .gitignore
+ .gitignore
+ .lighthouserc.json
+ .lighthouserc.json
+ .performance-budgets.json
+ .performance-budgets.json
+ .prettierignore
+ .prettierignore
+ .prettierrc
+ .prettierrc
+ CHANGES.md
+ CHANGES.md
+ CONTRIBUTING.md
+ CONTRIBUTING.md
+ Dockerfile
+ Dockerfile
+ FAQ.md
+ FAQ.md
+ LICENSE
+ LICENSE
+ PROJECT.md
+ PROJECT.md
+ README.md
+ README.md
+ changelog.md
+ changelog.md
+ docker-compose.yaml
+ docker-compose.yaml
+ electron-builder.yml
+ electron-builder.yml
+ electron-update.yml
+ electron-update.yml
+ eslint.config.mjs
+ eslint.config.mjs
+ load-context.ts
+ load-context.ts
+ notarize.cjs
+ notarize.cjs
+ package.json
+ package.json
+ playwright.config.e2e.ts
+ playwright.config.e2e.ts
+ playwright.config.preview.ts
+ playwright.config.preview.ts
+ pnpm-lock.yaml
+ pnpm-lock.yaml
+ pre-start.cjs
+ pre-start.cjs
+ react-router.config.ts
+ react-router.config.ts
+ run-e2e-tests.ps1
+ run-e2e-tests.ps1
+ run-e2e-tests.sh
+ run-e2e-tests.sh
+ test-workflows.sh
+ test-workflows.sh
+ tsconfig.json
+ tsconfig.json
+ uno.config.ts
+ uno.config.ts
+ vite-electron.config.ts
+ vite-electron.config.ts
+ vite.config.ts
+ vite.config.ts
+ vitest.config.ts
+ vitest.config.ts
+ worker-configuration.d.ts
+ worker-configuration.d.ts
+ wrangler.jsonc
+ wrangler.jsonc
+ View all files
+ Repository files navigation
+ README
+ Contributing
+ MIT license
+ More items
+ bolt.diy
+ Welcome to bolt.diy , the open-source AI developer workspace that lets you select your preferred LLM for every prompt. Build full-stack web applications in the browser with support for 22+ model providers (OpenAI, Anthropic, Gemini, Groq, xAI, DeepSeek, Ollama, LM Studio, and more), or extend it with any provider supported by the Vercel AI SDK. OpenRouter, Anthropic, OpenAI, and Google are enabled by default; enable and configure other providers in Settings.
+ Documentation
+ | Community Forum
+ | FAQ & Troubleshooting
+ Also this pinned post in our community
+ has a bunch of incredible resources for running and deploying bolt.diy yourself!
+ bolt.diy was originally started by Cole Medin
+ but has quickly grown into a massive community effort to build the BEST open source AI coding assistant!
+ Table of Contents
+ Quick Start
+ Running with Docker
+ Desktop App (Electron)
+ Configuring API Keys and Providers
+ Features
+ Recent Highlights
+ Available Scripts
+ Contributing & Community
+ Licensing
+ Quick Start
+ Prerequisites
+ Node.js >= 22.12.0
+ pnpm >= 9.15.9 ( npm install -g pnpm )
+ 1. Clone & Install
+ git clone https://github.com/stackblitz-labs/bolt.diy.git
+ cd
+ bolt.diy
+pnpm install 
+ 2. Run the Development Server
+ pnpm run dev 
+ Open http://localhost:5173
+ in your browser.
+ Pre-built Desktop Binaries : Prefer a standalone app? Download binaries for Windows, macOS, and Linux from our Latest Releases
+.
+ Running with Docker
+ Configure Environment Variables :
+ cp .env.example .env.local 
+ Build and Run :
+ #
+ Development mode with hot-reload:
+docker compose --profile development up
+ #
+ Production build:
+pnpm run dockerbuild:prod
+docker compose --profile production up 
+ Desktop App (Electron)
+ bolt.diy is also available as a cross-platform desktop application:
+ Download : Grab pre-built installers from Latest Releases
+.
+ Build from Source :
+ pnpm electron:build:dist 
+ Configuring API Keys and Providers
+ You can configure model providers either directly in the UI or via environment variables:
+ Option A: In the UI (Recommended)
+ Click the Settings icon (⚙️) in the sidebar → Providers . Enter your API keys or configure local endpoints (Ollama, LM Studio, OpenAI-compatible). Keys are validated in real time and stored securely in your browser cookies.
+ Option B: Environment Variables
+ Copy .env.example to .env.local and add your keys or local endpoints:
+ #
+ Cloud Providers
+ANTHROPIC_API_KEY=your_key_here
+OPENAI_API_KEY=your_key_here
+GEMINI_API_KEY=your_key_here
+ #
+ Local Providers
+OLLAMA_BASE_URL=http://127.0.0.1:11434
+LMSTUDIO_BASE_URL=http://127.0.0.1:1234 
+ Features
+ In-Browser Web Development : Full-stack Node.js development environment powered by WebContainers.
+ 22+ AI Providers : Cloud (Anthropic, OpenAI, Google, DeepSeek, Groq, xAI, Mistral, etc.) and Local (Ollama, LM Studio). OpenRouter, Anthropic, OpenAI, and Google are enabled by default.
+ Interactive Workbench : Integrated code editor, terminal, visual diff viewer, and real-time live preview. Opens by default for a started chat and can be reopened after closing.
+ Starter Setup : Explicit framework requests select a matching starter in code. Starter files include detected install and development server commands before the first customization request.
+ Prompt Library : Choose a system prompt under Settings → Workspace → Features, including Simple Sal for concise guidance and Tiny Tim for smaller models.
+ Project Workflows : Git cloning/pushing, snapshot restoration, file conflict locking, and ZIP export.
+ Deployments : One-click deployment to Netlify, Vercel, and GitHub Pages.
+ Database & Visuals : Supabase integration, data visualization charts, and Model Context Protocol (MCP) tooling.
+ Recent Highlights
+ Expanded AI & Tooling Ecosystem : 22+ cloud and local LLM providers, Model Context Protocol (MCP) integration, and voice prompting.
+ Enhanced Code & Project Workflows : Visual diff inspection, file conflict locking, codebase search, Git integration, and snapshot restoration.
+ Cross-Platform & Deployments : Native Electron desktop app, Expo (React Native) support, and direct deployment to Netlify, Vercel, and GitHub Pages.
+ Data & Backend Integrations : Built-in Supabase management, interactive charts, and bulk chat operations.
+ Prompt and Connector Controls : Select MCP tools from the prompt attachment menu; manage GitHub, GitLab, Netlify, and other service connections under Settings → Integrations → Connectors.
+ Looking Ahead : Ongoing work includes bug Fixes, dependance updates and fixes for reliability issues no new features are planed.
+ Available Scripts
+ Command
+ Description
+ pnpm run dev 
+ Start development server with hot module reloading
+ pnpm run build 
+ Build the application for production ( react-router build )
+ pnpm run preview 
+ Preview production build locally
+ pnpm test 
+ Run unit and integration tests with Vitest
+ pnpm run typecheck 
+ Run TypeScript type checks ( tsc )
+ pnpm run lint 
+ Run ESLint across the codebase
+ pnpm run dockerbuild 
+ Build Docker container for development
+ pnpm run electron:dev 
+ Start Electron desktop application in dev mode
+ pnpm electron:build:dist 
+ Package Electron desktop app for current OS
+ Contributing & Community
+ Contributing : Contributions are welcome! Read our Contributing Guide
+ and Project Management Guide
+ to get started.
+ Troubleshooting & FAQ : Common errors and setup fixes are documented in our FAQ
+ and Official Docs
+.
+ Licensing
+ bolt.diy is open-source under the MIT License. It utilizes the WebContainers API
+, which has specific commercial licensing terms for enterprise deployment.
+ About
+ Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
+ stackblitz-labs.github.io/bolt.diy/
+ Resources
+ Readme
+ MIT license
+ Contributing
+ Contributing
+ Activity
+ Custom properties
+ Stars
+ 20.0k stars
+ Watchers
+ 294 watching
+ Forks
+ 10.6k 
+ forks
+ Report repository
+ Releases
+ Packages
+ Used by
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

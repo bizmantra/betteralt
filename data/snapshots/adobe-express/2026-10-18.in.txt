@@ -1,0 +1,352 @@
+#SNAPSHOT {"url":"https://www.adobe.com/express/pricing","finalUrl":"https://www.adobe.com/express/pricing","fetchedAt":"2026-10-17T20:52:47.085Z","method":"playwright","region":"in","currency":"INR","http":200,"sha256":"59fe6f22d2529bec2a3dba423802339a13781ac907c553f0af93b2a86586d00d"}
+Creativity & Design
+Adobe Express
+Create
+Edit
+Print
+Business
+Education
+Plans
+Go to Adobe Express
+Sign in
+Stand out with Adobe Express. Pick your plan.
+Individuals
+Businesses
+Students
+Educators
+Adobe Express Free
+₹0.00incl. GST
+Key features:
+Includes basic editing tools and limited assets
+Templates: Access to 100,000+ static and video templates
+Assets: 1m+ royalty-free Adobe Stock photos, videos, music tracks and design elements2
+Fonts: Access to 4,000+ fonts from the Adobe Fonts collection.
+Editing tools: Standard photo, video and document editing tools
+Content scheduling: Plan and schedule posts to 1 account per social network
+Version history: 10 days
+Storage: 5GB
+Devices: Works on desktop browsers and mobile phones
+Compare all features
+For individuals who want essential content creation tools, limited generative AI credits and assets.
+Free to use. No payment card required.
+Get free plan
+Adobe Express Premium
+₹797.68/moincl. GST
+Key features:
+Includes all Free plan features, plus more
+Generative AI: 250 generative credits per month per user with generative AI features designed to be commercially safe.
+Templates: Access to all premium static and video templates
+Assets: 200m+ royalty-free Adobe Stock photos, videos, music tracks and design elements2
+Fonts: Access to the complete Adobe Fonts collection with over 30,000 fonts.
+Editing tools: Additional tools like Remove Video Background, advanced animation and more
+Content scheduling: Plan and schedule posts to 3 accounts per social network
+Version history: 30 days
+Storage: 100GB
+Devices: Works on desktop browsers and mobile phones
+One-click Resize: Automatically resize assets for multiple channels
+Brand management: Brand kits to maintain consistency across your content
+Compare all features
+For individuals who want millions of premium templates and assets, more generative AI credits and time-saving features.
+No annual commitment, billed monthly.1
+Start 30-day free trial
+Adobe Firefly Pro
+Outstanding value
+₹1,596.54/moincl. GST
+Key features:
+Includes all Premium plan features, plus more (except the 250 credits)
+Generative AI for video and audio: 4,000 monthly generative credits for premium AI video and audio features like Text to Video.
+Generative AI for images: Unlimited access to standard image features like Generative Fill in Photoshop
+Text to video: Generate up to 40 five-second videos with Firefly creative AI
+Third-party models: Access partner benerative AI models in Firefly such as Google, OpenAI, Flux and more
+Translation: Translate up to 13 minutes of video and audio
+Sound effects: Generate up to 400 sound effects
+Firefly Boards: Explore ideas and create mood boards with unlimited access
+Adobe Photoshop on web and mobile (complete access): Robust image editing
+Compare all features
+For individuals who want Adobe Express Premium plus 4,000 credits for creative AI and Adobe Photoshop on web and mobile for advanced image editing.
+No annual commitment, billed monthly.1
+Start 7-day free trial
+1If you have signed up for a free trial, billing begins when free trial ends. Cancel before free trial ends and you won't be charged. Subscription automatically renews until you cancel.
+2Adobe Express membership required. The Adobe Stock photo collection does not include Premium or editorial content. Limited Adobe Stock functionality available in webpage and video features.
+Compare Features
+Adobe Express Free
+Get Adobe Express Free
+Adobe Express Premium
+Start 30-day free trial
+Adobe Firefly Pro
+Start 7-day free trial
+Adobe apps
+Adobe apps Adobe Express Free Adobe Express Premium Adobe Firefly Pro
+Seamless integration across Adobe apps like Photoshop, Illustrator, InDesign, Firefly, Acrobat and Lightroom
+Boost your creativity with Photoshop:
+In addition to the Adobe Express Premium plan, get full access to Adobe Photoshop on web and mobile.
+Adobe Firefly Pro
+Create images, video, audio, and vector graphics. Ideate, create, and collaborate with Firefly Boards. And work with the latest commercially safe Firefly generative AI models.
+Integration with Adobe Experience Manager, Workfront, and GenStudio for performance marketing
+Templates and design assets
+Templates and design assets Adobe Express Free Adobe Express Premium Adobe Firefly Pro
+Professionally designed templates
+Static, motion, and video templates.
+268,000+
+519,000+
+519,000+
+Template recommendations
+Preview your photo in fully editable templates that complement the context of your photo.
+Adobe Stock photos
+500,000+
+350M+
+350M+
+Adobe Stock videos
+90,000+
+100,000+
+100,000+
+Adobe Stock audio/music
+2,000+
+2,000+
+2,000+
+Adobe Stock sound effects
+11,000+
+15,000+
+15,000
+Adobe Stock backgrounds
+40,000+
+73,000+
+73,000+
+Adobe Stock design assets
+Illustrations, brushes, textures, frames, and more.
+153,000+
+319,000+
+319,000+
+Adobe Stock icons
+305,000+
+305,000+
+305,000+
+Basic Shapes
+133
+133
+133
+Generative AI
+Generative AI Adobe Express Free Adobe Express Premium Adobe Firefly Pro
+AI Assistant (Beta)
+Prompt-anything, edit-everything
+In development
+Generate Presentations
+Turn your documents into presentations in minutes.
+5 free lifetime uses
+Generative credits
+250 per month
+4,000 per month
+Generate images, text effects, templates & more
+Free daily generations
+Insert & Remove Objects
+Free daily generations
+Commercial Use
+Create content with features designed to be commercially safe, powered by Adobe Firefly generative AI.
+Partner generative AI models
+Access to partner generative AI models in Firefly such as Google, OpenAI, Flux, and more.
+Generate 5-second videos
+2 free lifetime uses
+Adobe Firefly Boards
+Photo and design
+Photo and design Adobe Express Free Adobe Express Premium Adobe Firefly Pro
+Erase
+Photo Adjustments and Effects
+Adjust contrast, shadows, saturation and more, or add effects and blend modes, powered by Photoshop.
+Start from photos
+Start from a JPG, PNG, PSD, and more to bring your photo into the all-in-one editor.
+Adobe Fonts
+4,000+ fonts
+30,000+ fonts
+30,000+ fonts
+Font recommendations
+See recommendations for fonts that match the style of your design.
+Add and sync your .psd and .ai files3
+Add .psd or .ai files to your design. Edits made in Photoshop or Illustrator will sync so you don't need to reimport your assets.
+Export in JPEG, PNG, PDF, GIF, PPT
+Export as PNG with transparent background
+Draw and paint with 85+ brushes and coloring pages
+Video and motion
+Video and motion Adobe Express Free Adobe Express Premium Adobe Firefly Pro
+Drag-and-drop video creation
+Remove video background
+Animate All
+Automatically apply motion to your entire design
+Dynamic Animations
+Add physics-based animation to your photos, videos, text, shapes, and icons.
+Record voiceover and video directly in-app
+Video transitions
+Video length
+Up to 30 min long
+Up to 2 hours long
+Up to 2 hours long
+Export in 4K
+Enhance Speech
+TikTok Symphony Assistant Add-on
+1M+ songs and sounds from TikTok's Commercial Music Library.
+Quick Actions
+Quick Actions Adobe Express Free Adobe Express Premium Adobe Firefly Pro
+Remove Image Background
+Resize Image
+Crop Image
+Generate QR Code
+PDF Quick Actions: Edit, Combine, Organize, Import/Enhance PDF
+Import PDF free; 10 PDF Quick Actions per month
+Unlimited Quick Actions
+Unlimited Quick Actions
+Convert to GIF
+Convert to JPG/PNG/SVG/MP4
+Caption Video
+Resize Video
+Clip Maker
+Turn video podcasts, educational videos, and product reviews into social clips with captions
+Merge, Crop, and Trim Video
+Animate Characters
+Brand management and collaboration
+Brand management and collaboration Adobe Express Free Adobe Express Premium Adobe Firefly Pro
+Brand Kits
+Keep all your colors, fonts, logos and graphics in one brand kit.
+Extract brand colors, fonts, logos from image in one-click
+Libraries
+Store all your Adobe Express and Creative Cloud assets in one place.
+Branded templates
+Create brand-specific templates for use across all your teams.
+Use only
+Create and use
+Create and use
+Brand controls
+Specify which brand colors and fonts can be used in a shared template.
+Custom Home
+Featured branded banner and instant access to approved on-brand templates.
+Adobe Experience Manager integration
+Access and edit assets from Experience Manager and save back to your Experience Manager repository.
+Custom Models
+Generate on-brand content with Firefly Custom Models.
+Protect your brand
+IP indemnification for Adobe Firefly generated content.
+Real-time co-editing and commenting
+Share templates across teams
+Campaigns and publishing
+Campaigns and publishing Adobe Express Free Adobe Express Premium Adobe Firefly Pro
+Resize
+Resize for multiple formats - at one time, in the same file.
+Translate
+Automatically translate text into 45+ languages.
+Safe Zones
+Format-aware guides to keep important text, visuals, and logos visible
+Caption Writer
+AI-generated social captions tailored to your design
+Social Mentions
+Add mentions directly in captions when scheduling posts.
+Content Scheduler
+Plan, publish, and schedule direct to social channels.
+1 account per social network
+3 accounts per social network
+3 accounts per social network
+Shared social calendars
+1 shared calendar
+3 shared calendars
+3 shared calendars
+Publish paid ads directly
+Publish to multiple channels simultaneously
+Metricool Add-On
+Track key social metrics, competitive insights, and download custom reports.
+Support and Storage
+Support and Storage Adobe Express Free Adobe Express Premium Adobe Firefly Pro
+Cloud storage
+5GB
+10GB
+100GB
+Version history
+10 days
+30 days
+30 days
+Admin Console
+License/user management.
+Flexible license management
+Reassign licenses when there are changes to your team.
+Admin roles
+Assign total access to select staff.
+Asset reclamation
+Control of corporate assets and retrieve assets when users leave the org.
+Asset sharing restrictions
+Limit who can see specific assets.
+Consolidated billing
+24x7 technical support
+Available in multiple languages from customer care team, dedicated line for admins.
+1:1 sessions with product experts
+Accessible from Admin Console.
+Single sign-on
+Encryption key support
+Assets can be encrypted for additional layer of security.
+User directory sync
+Automate Adobe user management process when synched with Microsoft Azure or Google Admin Console.
+Firefly output indemnification
+Select plans eligible for IP indemnification for Firefly generated images.
+Flexible purchasing options
+For purchasing, deploying, and managing Adobe licenses according to an organization's business needs.
+Feature comparisons based on publicly available information as of May 2026. Features are subject to change; please visit adobe.com/express for the most up to date information on Adobe Express.
+Questions? We have answers.
+Where can I check out all the templates available?
+Explore thousands of professionally designed templates and refine your search by curated use cases. You can also browse for templates when starting a new project, or right from the Adobe Express editor while working on a current design.
+What is Creative Cloud Libraries?
+Creative Cloud Libraries let you gather design elements for specific projects, clients, or teams for use within any of your Creative Cloud apps. Edit an image in Adobe Photoshop or Illustrator, and then incorporate it into a stunning design using Adobe Express. Collect and organize your content in your libraries, and share your libraries with team members so everyone can access approved assets in one place.
+Can I set up more than one brand?
+You can set up multiple brands or looks in Adobe Express for any type of project, theme, or occasion. Note that we currently offer full brand setup on our web platform only. Once set up, you can access your branded assets while creating on any of your devices. Easily switch from one brand to another while creating in the editor.
+How does Adobe Express work with other Adobe Creative Cloud products?
+Adobe Express is designed to complement our Creative Cloud applications such as Adobe Photoshop and Adobe Illustrator.
+With Adobe Express for teams, assets created in Photoshop and Illustrator by designers in your organization can now be shared with your team and stay synced across apps.
+Can customers make commercial use of the images generated with AI tools powered by Firefly?
+In general, you may use outputs from generative AI features commercially. However, if Adobe designates in the product or elsewhere that a beta version of a generative AI feature cannot be used commercially, then the generated outputs from that beta feature are for personal use only and cannot be used commercially. Learn more.
+What does “designed to be commercially safe” mean for Adobe Firefly in Adobe Express?
+It means that Adobe is taking a thoughtful approach to how the Firefly family of models is being developed, including the sources of content used for training in accordance with Adobe’s AI Ethics Principles.
+For example, the current Firefly generative AI models were trained on a dataset of licensed content, such as Adobe Stock, and public domain content where copyright has expired.
+Can businesses train their own Firefly models in Adobe Express?
+Yes. You can generate content just for your brand with custom models, trained on your branded assets, to create extraordinary campaigns with images and backgrounds that match your style. Available only for all Enterprise plan users.
+Where can I check out all the templates available? opened
+1Billing begins when free trial ends. Cancel anytime. Cancel before free trial ends and you won’t be charged. Subscription automatically renews until you cancel.
+2Adobe Express membership required. The Adobe Stock photo collection does not include Premium or editorial content. Limited Adobe Stock functionality available in web page and video features.
+3Photoshop or Illustrator membership required for linked assets.
+For individuals & small business
+Creative AI
+Photography
+Design and illustration
+Video and animation
+PDF
+3D
+Elements Family
+Stock images and video
+View all products
+For medium & large business
+Personalization at scale
+Content supply chain
+Unified customer experience
+Creativity and production
+B2B GTM orchestration
+View all products
+For organizations
+Education
+Nonprofits
+Government
+Support
+Help Center
+Download and install
+Adobe Community
+Adobe Learn
+Medium and large business support
+Contact
+Chat with sales
+Request information
+Featured products
+Acrobat Reader
+Firefly
+Adobe Express
+Photoshop
+English (US)
+India - INR ₹
+Copyright © 2026 Adobe. All rights reserved./
+Privacy/
+Terms of Use/
+Cookie preferences/
+Do not sell or share my personal information/
+Site Map/
+AdChoices

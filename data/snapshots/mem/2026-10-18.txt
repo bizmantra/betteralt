@@ -1,0 +1,415 @@
+#SNAPSHOT {"url":"https://get.mem.ai/pricing","finalUrl":"https://get.mem.ai/pricing","fetchedAt":"2026-10-17T20:51:39.259Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"fb381678131278bf43d7f248b7c81fbcaf1bece1e82d8d36bfafc56b364ae25f"}
+Mem Pricing Skip to content
+ Product
+ Mem product
+ Workspace Keeps your notes, meetings, and ideas organized, connected, and easy to use.
+ →
+ Mem product
+ Agent Learns what matters from what you save and checks in when something needs you.
+ →
+ FEATURES
+ Push-to-Remember
+ Voice Mode
+ Calendar
+ Web Clipper
+ Chat
+ Heads Up
+ USE CASES
+ Agent use cases
+ Meetings
+ Research
+ Content Development
+ Project Management
+ FOR
+ Founders & Solopreneurs
+ Consultants & Advisors
+ Executives & Managers
+ Content Creators
+ Explore all guides
+ →
+ Pricing
+ Log in
+ Product
+ Workspace
+ →
+ Agent
+ →
+ FEATURES
+ Push-to-Remember
+ Voice Mode
+ Calendar
+ Web Clipper
+ Chat
+ Heads Up
+ USE CASES
+ Agent use cases
+ Meetings
+ Research
+ Content Development
+ Project Management
+ FOR
+ Founders & Solopreneurs
+ Consultants & Advisors
+ Executives & Managers
+ Content creators
+ Explore all guides →
+ Pricing
+ Log in
+ Sign up
+ Get app
+ Start for free
+ Use proactive task tracking right out of the gate. Add custom routines, connections, and more capacity as your work grows.
+ Mem
+ Free 
+ A useful place to start building your memory with Mem Agent.
+ ✓
+ 25 Messages to Mem
+ ?
+ Any push-to-talk request, message in the floating chat, message through an external channel such as WhatsApp, or email sent to Mem.
+ ✓
+ 25 New Notes per month
+ ?
+ Any note created during the month.
+ ✓
+ Task and Project Tracking for up to 25 notes
+ ?
+ Mem reviews the notes you create or edit during the month to detect tasks and projects automatically.
+ ✓
+ 15 Open Tasks and Projects
+ ?
+ Open tasks and active projects Mem tracks at once across the notes it reviews.
+ ✓
+ 3 hours of Voice Mode
+ ?
+ Turn on Voice Mode inside any note to capture a meeting or think out loud. Mem creates a structured transcript and organizes it into notes. This allowance is the total captured time.
+ Sign up
+ Mem Plus
+ $9 / month
+ More room for everyday notes, conversations, and Voice Mode.
+ ✓
+ 50 Messages to Mem
+ ?
+ Any push-to-talk request, message in the floating chat, message through an external channel such as WhatsApp, or email sent to Mem.
+ ✓
+ 50 New Notes per month
+ ?
+ Any note created during the month.
+ ✓
+ Task and Project Tracking for up to 50 notes
+ ?
+ Mem reviews the notes you create or edit during the month to detect tasks and projects automatically.
+ ✓
+ 25 Open Tasks and Projects
+ ?
+ Open tasks and active projects Mem tracks at once across the notes it reviews.
+ ✓
+ 10 hours of Voice Mode
+ ?
+ Turn on Voice Mode inside any note to capture a meeting or think out loud. Mem creates a structured transcript and organizes it into notes. This allowance is the total captured time.
+ Sign up
+ Mem Pro
+ Recommended
+ $29 / month
+ Proactive follow-through across your notes, routines, and connected work.
+ ✓
+ 100 Messages to Mem
+ ?
+ Any push-to-talk request, message in the floating chat, message through an external channel such as WhatsApp, or email sent to Mem.
+ ✓
+ 100 New Notes per month
+ ?
+ Any note created during the month.
+ ✓
+ Task and Project Tracking for up to 100 notes
+ ?
+ Mem reviews the notes you create or edit during the month to detect tasks and projects automatically.
+ ✓
+ 50 Open Tasks and Projects
+ ?
+ Open tasks and active projects Mem tracks at once across the notes it reviews.
+ ✓
+ One Custom Routine
+ ?
+ A Custom Routine lets Mem prepare a briefing, do research, create or organize notes, and send reminders for you on a schedule. For example: “Send me a weekly meal plan note every Sunday.”
+ ✓
+ One Connection
+ ?
+ A Connection links Mem to an external source such as Gmail, Slack, or Todoist. Mem can use it as context, detect tasks and projects, and understand when work has already been completed.
+ ✓
+ 25 hours of Voice Mode
+ ?
+ Turn on Voice Mode inside any note to capture a meeting or think out loud. Mem creates a structured transcript and organizes it into notes. This allowance is the total captured time.
+ Sign up
+ Mem Pro 2×
+ $49 / month
+ Twice the Pro capacity for a busier personal workflow.
+ ✓
+ 200 Messages to Mem
+ ?
+ Any push-to-talk request, message in the floating chat, message through an external channel such as WhatsApp, or email sent to Mem.
+ ✓
+ 200 New Notes per month
+ ?
+ Any note created during the month.
+ ✓
+ Task and Project Tracking for up to 200 notes
+ ?
+ Mem reviews the notes you create or edit during the month to detect tasks and projects automatically.
+ ✓
+ 100 Open Tasks and Projects
+ ?
+ Open tasks and active projects Mem tracks at once across the notes it reviews.
+ ✓
+ 2 Custom Routines
+ ?
+ A Custom Routine lets Mem prepare a briefing, do research, create or organize notes, and send reminders for you on a schedule. For example: “Send me a weekly meal plan note every Sunday.”
+ ✓
+ 2 Connections
+ ?
+ A Connection links Mem to an external source such as Gmail, Slack, or Todoist. Mem can use it as context, detect tasks and projects, and understand when work has already been completed.
+ ✓
+ 50 hours of Voice Mode
+ ?
+ Turn on Voice Mode inside any note to capture a meeting or think out loud. Mem creates a structured transcript and organizes it into notes. This allowance is the total captured time.
+ Sign up
+ Mem Pro 5×
+ $99 / month
+ More working memory for a full personal and professional workload.
+ ✓
+ 500 Messages to Mem
+ ?
+ Any push-to-talk request, message in the floating chat, message through an external channel such as WhatsApp, or email sent to Mem.
+ ✓
+ 500 New Notes per month
+ ?
+ Any note created during the month.
+ ✓
+ Task and Project Tracking for up to 500 notes
+ ?
+ Mem reviews the notes you create or edit during the month to detect tasks and projects automatically.
+ ✓
+ 250 Open Tasks and Projects
+ ?
+ Open tasks and active projects Mem tracks at once across the notes it reviews.
+ ✓
+ 5 Custom Routines
+ ?
+ A Custom Routine lets Mem prepare a briefing, do research, create or organize notes, and send reminders for you on a schedule. For example: “Send me a weekly meal plan note every Sunday.”
+ ✓
+ 5 Connections
+ ?
+ A Connection links Mem to an external source such as Gmail, Slack, or Todoist. Mem can use it as context, detect tasks and projects, and understand when work has already been completed.
+ ✓
+ 125 hours of Voice Mode
+ ?
+ Turn on Voice Mode inside any note to capture a meeting or think out loud. Mem creates a structured transcript and organizes it into notes. This allowance is the total captured time.
+ Sign up
+ Mem Pro 10×
+ $149 / month
+ High-capacity support for many projects, sources, and automations.
+ ✓
+ 1,000 Messages to Mem
+ ?
+ Any push-to-talk request, message in the floating chat, message through an external channel such as WhatsApp, or email sent to Mem.
+ ✓
+ 1,000 New Notes per month
+ ?
+ Any note created during the month.
+ ✓
+ Task and Project Tracking for up to 1,000 notes
+ ?
+ Mem reviews the notes you create or edit during the month to detect tasks and projects automatically.
+ ✓
+ 500 Open Tasks and Projects
+ ?
+ Open tasks and active projects Mem tracks at once across the notes it reviews.
+ ✓
+ 10 Custom Routines
+ ?
+ A Custom Routine lets Mem prepare a briefing, do research, create or organize notes, and send reminders for you on a schedule. For example: “Send me a weekly meal plan note every Sunday.”
+ ✓
+ 10 Connections
+ ?
+ A Connection links Mem to an external source such as Gmail, Slack, or Todoist. Mem can use it as context, detect tasks and projects, and understand when work has already been completed.
+ ✓
+ 250 hours of Voice Mode
+ ?
+ Turn on Voice Mode inside any note to capture a meeting or think out loud. Mem creates a structured transcript and organizes it into notes. This allowance is the total captured time.
+ Sign up
+ Mem Pro 20×
+ $199 / month
+ Our largest packaged plan for people putting Mem Agent to work all day.
+ ✓
+ 2,000 Messages to Mem
+ ?
+ Any push-to-talk request, message in the floating chat, message through an external channel such as WhatsApp, or email sent to Mem.
+ ✓
+ 2,000 New Notes per month
+ ?
+ Any note created during the month.
+ ✓
+ Task and Project Tracking for up to 2,000 notes
+ ?
+ Mem reviews the notes you create or edit during the month to detect tasks and projects automatically.
+ ✓
+ 1,000 Open Tasks and Projects
+ ?
+ Open tasks and active projects Mem tracks at once across the notes it reviews.
+ ✓
+ 20 Custom Routines
+ ?
+ A Custom Routine lets Mem prepare a briefing, do research, create or organize notes, and send reminders for you on a schedule. For example: “Send me a weekly meal plan note every Sunday.”
+ ✓
+ 20 Connections
+ ?
+ A Connection links Mem to an external source such as Gmail, Slack, or Todoist. Mem can use it as context, detect tasks and projects, and understand when work has already been completed.
+ ✓
+ 500 hours of Voice Mode
+ ?
+ Turn on Voice Mode inside any note to capture a meeting or think out loud. Mem creates a structured transcript and organizes it into notes. This allowance is the total captured time.
+ Sign up
+ See all plans
+ Show featured plans
+ Compare every plan and limit
+ Full comparison
+ See every plan and allowance Monthly activity resets each billing period. Open work, routines, and connections measure what is active at the same time. 
+ +
+ Monthly limits for every Mem plan and one Extra Usage unit Monthly allowance
+ Mem
+ Free 
+ Mem Plus
+ $9 
+ Mem Pro
+ $29 
+ Mem Pro 2×
+ $49 
+ Mem Pro 5×
+ $99 
+ Mem Pro 10×
+ $149 
+ Mem Pro 20×
+ $199 
+ Extra Usage
+ +$50 
+ Messages to Mem
+ Any push-to-talk request, message in the floating chat, message through an external channel such as WhatsApp, or email sent to Mem. 
+ 25
+ 50
+ 100
+ 200
+ 500
+ 1,000
+ 2,000
+ +500
+ New Notes per month
+ Any note created during the month. 
+ 25
+ 50
+ 100
+ 200
+ 500
+ 1,000
+ 2,000
+ +500
+ Task and Project Tracking
+ Mem reviews the notes you create or edit during the month to detect tasks and projects automatically. 
+ 25
+ 50
+ 100
+ 200
+ 500
+ 1,000
+ 2,000
+ +500
+ Open Tasks and Projects
+ Open tasks and active projects Mem tracks at once across the notes it reviews. 
+ 15
+ 25
+ 50
+ 100
+ 250
+ 500
+ 1,000
+ +250
+ Custom Routines
+ A Custom Routine lets Mem prepare a briefing, do research, create or organize notes, and send reminders for you on a schedule. For example: “Send me a weekly meal plan note every Sunday.” 
+ —
+ —
+ 1
+ 2
+ 5
+ 10
+ 20
+ +5
+ Routine Executions
+ Each time a Custom Routine does its scheduled background work, it counts as one Routine Execution. 
+ —
+ —
+ 50
+ 100
+ 250
+ 500
+ 1,000
+ +250
+ Connections
+ A Connection links Mem to an external source such as Gmail, Slack, or Todoist. Mem can use it as context, detect tasks and projects, and understand when work has already been completed. 
+ —
+ —
+ 1
+ 2
+ 5
+ 10
+ 20
+ +5
+ Voice Mode
+ Turn on Voice Mode inside any note to capture a meeting or think out loud. Mem creates a structured transcript and organizes it into notes. This allowance is the total captured time. 
+ 3
+ 10
+ 25
+ 50
+ 125
+ 250
+ 500
+ +125
+ Extra Usage
+ Keep the plan. Add another block.
+ On Mem Pro 20×, each $50 monthly unit adds the capacity shown in the final column. Add more than one unit when you need it.
+ +$50 / month
+ Frequently asked questions
+ Have more questions? Check out our Help and Support
+center.
+ What happens if I reach a plan limit? Mem will show you when you're approaching a limit so you can choose a larger plan before work is interrupted. Mem Pro 20× customers can add Extra Usage in $50 monthly increments without changing plans.
+ What does Extra Usage include? Each $50 monthly Extra Usage unit adds 500 Messages to Mem, 500 new notes, tracking across 500 active notes, 250 open tasks and active projects, 5 active custom routines, 250 routine executions, 5 active connections, and 125 Voice Mode hours.
+ How does Task and Project Tracking work? Mem reviews the notes you create or edit during the month to detect tasks and projects automatically. Your plan sets how many notes Mem reviews and how many open tasks and active projects it tracks at once.
+ Are Deep Search and templates included? Yes. Deep Search and templates are available on every plan. Plan limits apply to how much you create, ask Mem to do, and keep actively tracked.
+ How does email capture count? An email sent to Mem counts as a Message to Mem. If it creates a note, that note also counts toward the new-note allowance.
+ How is my data stored? How private is my data? We take your privacy seriously. Your data is encrypted at rest with AES-256 and in transit with TLS, but it is not end-to-end encrypted because Mem needs to process your knowledge to provide intelligence on top of it. We do not sell your data or mine it to serve ads.
+ Can I export my Mem data? Yes. Mem supports one-click exports of your notes and collections as Markdown files.
+ A match for great minds
+ Sign up
+ I no longer worry about how I organize or segment notes into different apps—I toss it in Mem and know it will be there when I need it. So much weight off my shoulders. 
+ Zach Price Founder at Impulse to Impact
+ Quick Links
+ Home
+ Download
+ Agent use cases
+ Guides
+ Blog
+ Pricing
+ Community
+ Slack
+ X
+ YouTube
+ LinkedIn
+ Compare
+ Notion
+ Obsidian
+ Evernote
+ Apple Notes
+ OneNote
+ Support
+ Help & Support
+ Privacy Policy
+ Terms of Service
+ Security
+ Trust Center

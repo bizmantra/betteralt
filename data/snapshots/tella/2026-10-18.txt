@@ -1,0 +1,246 @@
+#SNAPSHOT {"url":"https://www.tella.tv/pricing","finalUrl":"https://www.tella.com/pricing","fetchedAt":"2026-10-17T20:54:14.331Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"4dd0aa2e6db08820b38423f921c469ef6ea1ea86d5fa39cc665c4d7398f2ecb2"}
+Pricing | Tella 
+ Features
+ Teams
+ Pricing
+ Log in
+ Sign up
+ Pricing
+ Monthly
+ Annual 50% off
+ Users 
+ 1
+ Pro
+ $ 13
+ per user/month
+ Everything you need to create and share professional videos.
+Unlimited videos
+3,000 Tella Agent credits / month
+106 languages
+Export in 4K
+Team collaboration
+Track analytics
+ Buy now
+ Premium
+ $ 19
+ per user/month
+ Advanced features for teams who need more control.
+Everything in Pro
+6,000 Tella Agent credits / month
+Add a custom domain
+Domain restriction
+Remove Tella branding
+Share in 4K
+Export at 60 FPS
+Advanced analytics
+ Buy now
+ Enterprise
+ Custom
+ Custom solutions for teams with specific requirements.
+Everything in Premium
+SSO & SCIM
+Shared Slack channel
+Personalized onboarding
+Volume discounts
+SOC 2 Type II report
+ Contact sales
+ Compare plans
+ Pro
+ $ 13 / month, billed annually
+ Buy now
+ Premium
+ $ 19 / month, billed annually
+ Buy now
+ Enterprise
+ Custom pricing
+ Contact sales
+ Pro
+ Recording
+ Screen recording
+ Webcam recording
+ Microphone recording
+ System audio recording
+ Teleprompter
+ Recording resolution
+ Up to 4K
+ Up to 4K
+ Up to 4K
+ Up to 4K
+ Recording length Limit for one clip. Combine multiple clips for longer.
+ 6 hours
+ 6 hours
+ 6 hours
+ 6 hours
+ Transcription
+ 106 languages
+ 106 languages
+ 106 languages
+ 106 languages
+ Editing
+ Tella Agent Beta
+ AI editor in the sidebar that makes edits from a chat. Runs on credits.
+ Timeline editing
+ Transcript editing
+ AI mistakes finder
+ Buffer removal
+ Silence removal
+ Filler word removal
+ Layout editing
+ Auto Layouts
+ Zoom effects
+ Auto Zoom
+ Blur
+ Highlight
+ Backgrounds
+ Borders
+ Subtitle editing
+ Subtitle styling
+ Screen cropping
+ Camera reframing
+ Audio level editing
+ AI audio enhancement
+ Background music
+ Adjust canvas size
+ Logo overlay
+ Credits
+ Included credits Credits pay for the Tella Agent. The allowance is per user each month, pooled across the workspace, and unused credits expire at the end of the month.
+ 3,000 / user / mo
+ 6,000 / user / mo
+ Custom
+ 3,000 / user / mo
+ Credit top-ups Workspace owners can buy 10,000 credits for $10, 50,000 for $45 or 100,000 for $80. Purchased credits never expire.
+ Sharing & storage
+ Video expiry
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Video hosting
+ Embedded player
+ 4K playback Viewers can watch your videos in 4K on video pages and embeds.
+ Custom branding
+ Custom domain
+ Password protection
+ Domain restriction Restricts which domains embedded videos can be accessed on.
+ White-label Remove Tella branding from video pages.
+ Title & description AI generated, manually editable
+ Video chapters AI generated, manually editable
+ Comments
+ Reactions
+ Call-to-action buttons
+ Playback speed control
+ AI document generation Create docs from your videos.
+ Download
+ Video export
+ Audio export
+ Separate clips export
+ Raw recordings export
+ Thumbnail export
+ Subtitles export
+ Playback speed & timelapse
+ 4K
+ 60 FPS
+ Up to 5 mins
+ Up to 5 mins
+ Analytics
+ Total views
+ Unique viewers
+ Watch time
+ Engagement
+ Conversion funnels
+ Individual viewers
+ Last 5
+ Last 5
+ Traffic sources
+ Top 5
+ Top 5
+ Viewer locations
+ Top 5
+ Top 5
+ History
+ Up to 30 days
+ All time
+ All time
+ Up to 30 days
+ Organization & collaboration
+ User management
+ Personal playlists
+ Shared playlists
+ Team playlists
+ Public playlists
+ Apps & integrations
+ Native macOS recorder
+ Native Windows recorder
+ Chrome extension
+ Slack integration
+ Notion integration
+ Linear integration
+ Support & security
+ Email support
+ Priority support
+ Shared Slack channel
+ SSO / SAML
+ SCIM
+ SOC 2 Type II report
+ Loom migration tool
+ Batch import tool
+ Frequently asked questions
+ Should I upgrade to Pro or Premium?
+ If you share lots of videos with users, customers, or followers, Premium is the better fit. Otherwise, Pro should be enough. You can change plans at any time.
+ How do Tella Agent credits work?
+ Credits pay for the Tella Agent, the AI editor that edits your video from a chat in the editor. Each message uses some credits, depending on how much work the agent does and which model it uses. Pro includes 3,000 credits per user each month and Premium 6,000, pooled across the workspace. Included credits reset monthly and don&#x27;t roll over. Enterprise credits depend on your contract. Free trials don&#x27;t include credits. How credits work
+.
+ Can I buy more credits?
+ Yes. Workspace owners can buy one-time top-ups: 10,000 credits for $10, 50,000 for $45 or 100,000 for $80. Purchased credits never expire and are only used once the month&#x27;s included credits run out.
+ Do you offer SSO and/or SCIM?
+ Yes. SSO and SCIM are available as add-ons on any paid plan and are included with Enterprise. Learn more on our Enterprise page
+.
+ Is Tella SOC 2 compliant?
+ Yes. Tella is SOC 2 Type II compliant on every plan. The SOC 2 Type II report is available to Enterprise customers under NDA. Learn more in the Tella Trust Center
+.
+ Do you offer any education discounts?
+ Yes. See our Tella for Education
+ program.
+ Do you offer any nonprofit discounts?
+ Yes. See our Tella for Good
+ program.
+ Can I cancel at any time?
+ Yes. Your subscription stops at the end of the current billing period, and you will not be charged for the next one.
+ Make more videos with Tella
+ Get started
+ Features
+ Recorder
+ Editor
+ Sharing
+ Analytics
+ MCP
+ See all
+ Apps
+ macOS app
+ Windows app
+ Chrome extension
+ Tella for
+ Teams
+ Enterprise
+ Education
+ Nonprofit
+ See all
+ Resources
+ Help Center
+ Developers
+ Changelog
+ Blog
+ Community
+ Claude Code skills
+ Switch from Loom
+ See all
+ Company
+ Jobs
+ Affiliates
+ Contact
+ Status
+ © Tella HQ Inc. 2026
+ Terms
+ Privacy
+ DPA
+ Trust Center

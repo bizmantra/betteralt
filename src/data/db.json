@@ -12,7 +12,7 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Go $8/mo, Plus $20/mo, Pro $100, $200 or $500/mo (all billed monthly)",
+    "summary": "Free plan; Go $8/mo, Plus $20/mo; Pro 100 $100/mo, Pro 200 $200/mo, Pro 500 $500/mo (all billed monthly)",
     "fromUsdMonthly": 8,
     "hasFreePlan": true,
     "verified": true,
@@ -145,7 +145,7 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Pro $14.99/mo (excl. taxes)",
+    "summary": "Free plan; Pro $14.99/mo excl. taxes (includes Vibe for coding); Team $24.99/user/mo excl. taxes",
     "fromUsdMonthly": 14.99,
     "hasFreePlan": true,
     "verified": true,
@@ -206,8 +206,7 @@
    "description": "Free chat assistant built on DeepSeek's open-weight reasoning models.",
    "whoFor": "Budget-conscious users and developers",
    "tags": [
-    "free",
-    "open source"
+    "free"
    ],
    "pricing": {
     "summary": "Free chat app; API priced per 1M tokens",
@@ -224,7 +223,8 @@
    "firstPublished": "2026-10-17",
    "contentUpdatedAt": "2026-10-17",
    "notes": {
-    "reviewedBy": "rosh-k"
+    "reviewedBy": "rosh-k",
+    "summary": "This listing covers DeepSeek's hosted chat app and API. DeepSeek also publishes open-weight models, which are a separate thing you run yourself."
    }
   },
   {
@@ -236,8 +236,8 @@
    "whoFor": "Teams that want a private, self-hosted chat UI",
    "tags": [
     "free",
-    "open source",
-    "self-hostable"
+    "self-hostable",
+    "source-available"
    ],
    "pricing": {
     "summary": "Free and open source (self-host)",
@@ -252,10 +252,12 @@
    "openSource": {
     "repo": "https://github.com/open-webui/open-webui",
     "stars": 155974,
-    "license": "Custom / see repo",
+    "license": "Open WebUI License",
     "archived": false,
     "lastPush": "2026-10-16",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "source-available",
+    "licenseNote": "BSD-3-Clause terms plus a clause that forbids removing Open WebUI branding. Not OSI-approved."
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -302,12 +304,12 @@
    "description": "Run open-weight LLMs locally from the command line.",
    "whoFor": "Developers running models on their own machine",
    "tags": [
-    "free",
     "open source",
-    "self-hostable"
+    "self-hostable",
+    "freemium"
    ],
    "pricing": {
-    "summary": "Free locally; Pro Max $20/mo for cloud models",
+    "summary": "Free (run models locally); Pro $20/mo or $200/yr ($16.67/mo billed annually); Max $100/mo; Team $500/mo (early access)",
     "fromUsdMonthly": 20,
     "hasFreePlan": true,
     "verified": true,
@@ -323,7 +325,8 @@
     "license": "MIT",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 2
+    "setupDifficulty": 2,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -357,10 +360,12 @@
    "openSource": {
     "repo": "https://github.com/janhq/jan",
     "stars": 44979,
-    "license": "Custom / see repo",
+    "license": "Apache-2.0",
     "archived": false,
     "lastPush": "2026-10-16",
-    "setupDifficulty": 1
+    "setupDifficulty": 1,
+    "licenseType": "open-source",
+    "licenseNote": "Apache-2.0; attribution is requested, not required"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -397,7 +402,8 @@
     "license": "MIT",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -449,7 +455,8 @@
    "description": "One API and chat UI for hundreds of AI models, pay per use.",
    "whoFor": "Developers and power users comparing models",
    "tags": [
-    "paid"
+    "paid",
+    "freemium"
    ],
    "pricing": {
     "summary": "Free plan with 25+ free models; pay-as-you-go model prices + 5.5% platform fee (Standard)",
@@ -496,7 +503,8 @@
    "firstPublished": "2026-10-17",
    "contentUpdatedAt": "2026-10-17",
    "notes": {
-    "reviewedBy": "rosh-k"
+    "reviewedBy": "rosh-k",
+    "summary": "Cursor's pricing page says subscriptions are sold only through X Subscription Corp (the site footer reads Anysphere, Inc.). Plus includes Grok models only; Premium and above include Grok usage, and third-party models are billed at API list price."
    }
   },
   {
@@ -511,7 +519,7 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Pro $20/mo; Max $200/mo",
+    "summary": "Free plan; Pro $20/mo; Max $200/mo; Teams $80/mo plus $40/mo per full user",
     "fromUsdMonthly": 20,
     "hasFreePlan": true,
     "verified": true,
@@ -594,7 +602,8 @@
     "license": "Apache-2.0",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 2
+    "setupDifficulty": 2,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -631,7 +640,8 @@
     "license": "Apache-2.0",
     "archived": false,
     "lastPush": "2026-10-14",
-    "setupDifficulty": 2
+    "setupDifficulty": 2,
+    "licenseType": "open-source"
    },
    "status": "acquired",
    "statusNote": "Continue was acquired by Cursor (June 2026). Its final release was 2.0.0 and the continuedev/continue repository is marked as no longer actively maintained and read-only. The Apache-2.0 code is still available to fork.",
@@ -670,10 +680,12 @@
    "openSource": {
     "repo": "https://github.com/zed-industries/zed",
     "stars": 91858,
-    "license": "Custom / see repo",
+    "license": "GPL-3.0-or-later",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 1
+    "setupDifficulty": 1,
+    "licenseType": "open-source",
+    "licenseNote": "Editor GPL-3.0-or-later; collaboration server AGPL-3.0; GPUI framework Apache-2.0"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -700,7 +712,8 @@
     "sourceUrl": "https://www.tabnine.com/pricing",
     "lastChecked": "2026-10-18",
     "currency": null,
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "unverifiedNote": "tabnine.com/pricing now redirects to a Tricentis contact form; no public price list"
    },
    "openSource": null,
    "status": "active",
@@ -737,7 +750,8 @@
     "license": "Apache-2.0",
     "archived": false,
     "lastPush": "2026-05-22",
-    "setupDifficulty": 2
+    "setupDifficulty": 2,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -787,15 +801,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Core $20/mo ($18/mo billed annually); Pro $100/mo ($90/mo billed annually)",
-    "fromUsdMonthly": 18,
+    "summary": null,
+    "fromUsdMonthly": null,
     "hasFreePlan": null,
-    "verified": true,
+    "verified": false,
     "sourceUrl": "https://replit.com/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD",
+    "currency": null,
     "lastChangedAt": "2026-10-18",
-    "fromBilling": "annual"
+    "unverifiedNote": "replit.com/pricing returns HTTP 403 to our checker, so the price and the free-plan question can't be confirmed"
    },
    "openSource": null,
    "status": "active",
@@ -877,7 +891,7 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Plus $30/user/mo",
+    "summary": "Free plan; Plus $30 or $90/user/mo; Business $100/user/mo",
     "fromUsdMonthly": 30,
     "hasFreePlan": true,
     "verified": true,
@@ -923,7 +937,8 @@
     "license": "MIT",
     "archived": false,
     "lastPush": "2026-10-14",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -944,7 +959,7 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; paid from $16/mo (billed annually)",
+    "summary": "Free plan; Starter $16/mo, Builder $40/mo, Pro $80/mo, Elite $160/mo (billed annually)",
     "fromUsdMonthly": 16,
     "hasFreePlan": true,
     "verified": true,
@@ -970,8 +985,8 @@
    "description": "Free, local, open-source AI app builder.",
    "whoFor": "Vibe coders who want a local Lovable-style tool",
    "tags": [
-    "free",
-    "open source"
+    "open source",
+    "freemium"
    ],
    "pricing": {
     "summary": "Free & open-source app; Dyad Pro $20/mo",
@@ -987,10 +1002,12 @@
    "openSource": {
     "repo": "https://github.com/dyad-sh/dyad",
     "stars": 21962,
-    "license": "Custom / see repo",
+    "license": "Apache-2.0",
     "archived": false,
     "lastPush": "2026-10-16",
-    "setupDifficulty": 2
+    "setupDifficulty": 2,
+    "licenseType": "open-source",
+    "licenseNote": "Apache-2.0 except src/pro/, which has its own licence"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -1095,7 +1112,6 @@
    "description": "AI image generator that's strong at text in images.",
    "whoFor": "Designers making posters and logos",
    "tags": [
-    "freemium",
     "paid"
    ],
    "pricing": {
@@ -1145,7 +1161,8 @@
     "license": "AGPL-3.0",
     "archived": false,
     "lastPush": "2026-03-02",
-    "setupDifficulty": 4
+    "setupDifficulty": 4,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -1182,7 +1199,8 @@
     "license": "GPL-3.0",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 4
+    "setupDifficulty": 4,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -1244,7 +1262,8 @@
     "sourceUrl": "https://bfl.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "unknown"
    },
    "openSource": null,
    "status": "active",
@@ -1292,19 +1311,18 @@
    "description": "AI voiceover studio for presentations and videos.",
    "whoFor": "Marketers and e-learning teams",
    "tags": [
-    "freemium",
     "paid"
    ],
    "pricing": {
-    "summary": "Studio Creator from $19/mo, Business from $66/mo; API pay-as-you-go from $0.01 per 1,000 characters",
-    "fromUsdMonthly": 19,
-    "hasFreePlan": null,
+    "summary": "Falcon API $0.01 per 1,000 characters; $10 free credit for API calls",
+    "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://murf.ai/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
-    "fromBilling": "monthly"
+    "fromBilling": "unknown",
+    "fromUsdMonthly": null
    },
    "openSource": null,
    "status": "active",
@@ -1342,7 +1360,8 @@
     "license": "MPL-2.0",
     "archived": false,
     "lastPush": "2024-08-16",
-    "setupDifficulty": 4
+    "setupDifficulty": 4,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -1379,7 +1398,8 @@
     "license": "MIT",
     "archived": true,
     "lastPush": "2025-08-26",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -1396,7 +1416,8 @@
    "description": "Voice cloning and speech-to-speech with deepfake detection.",
    "whoFor": "Enterprises and media companies",
    "tags": [
-    "paid"
+    "paid",
+    "freemium"
    ],
    "pricing": {
     "summary": "Pay-as-you-go credits; Team $350/mo ($280 billed annually)",
@@ -1406,7 +1427,8 @@
     "sourceUrl": "https://www.resemble.ai/pricing/",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
@@ -1454,7 +1476,8 @@
    "description": "AI built into Notion for writing, search and Q&A across your workspace.",
    "whoFor": "Teams already using Notion",
    "tags": [
-    "paid"
+    "paid",
+    "freemium"
    ],
    "pricing": {
     "summary": "Free plan; Plus $10/member/mo; Business (with Notion AI) $20/member/mo",
@@ -1483,7 +1506,7 @@
    "description": "Local-first Markdown notes app with AI plugins.",
    "whoFor": "Personal knowledge-management fans",
    "tags": [
-    "free"
+    "freemium"
    ],
    "pricing": {
     "summary": "Free app; Sync $4/user/mo (annual); Publish $8/site/mo",
@@ -1533,7 +1556,8 @@
     "license": "AGPL-3.0",
     "archived": false,
     "lastPush": "2026-10-08",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -1551,8 +1575,8 @@
    "whoFor": "Users wanting Notion plus Miro in one",
    "tags": [
     "freemium",
-    "open source",
-    "self-hostable"
+    "self-hostable",
+    "source-available"
    ],
    "pricing": {
     "summary": "Free plan; Pro from $6.75/mo; Team $10/seat/mo",
@@ -1568,10 +1592,12 @@
    "openSource": {
     "repo": "https://github.com/toeverything/AFFiNE",
     "stars": 73596,
-    "license": "Custom / see repo",
+    "license": "MIT (client) + AFFiNE EE License (server)",
     "archived": false,
     "lastPush": "2026-10-12",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "source-available",
+    "licenseNote": "Client code is MIT, but packages/backend (the server you self-host) is under the AFFiNE Enterprise Edition licence."
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -1618,7 +1644,8 @@
    "description": "AI assistant across ClickUp tasks, docs and chat.",
    "whoFor": "Project teams on ClickUp",
    "tags": [
-    "paid"
+    "paid",
+    "freemium"
    ],
    "pricing": {
     "summary": "ClickUp Unlimited $7/user/mo (annual), Business $12/user/mo (annual); AI pricing on page",
@@ -1651,20 +1678,14 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Pro $12/mo, Business $33/mo per Doc Maker",
-    "fromUsdMonthly": 12,
+    "summary": "Free plan; Pro ₹983/Doc Maker/mo billed annually (₹1,250 billed monthly); Business ₹2,700/Doc Maker/mo billed annually (₹3,299 billed monthly)",
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://coda.io/pricing",
     "lastChecked": "2026-10-18",
-    "india": {
-     "summary": "Free plan; Pro ₹983/Doc Maker/mo billed annually (₹1,250 monthly); Team ₹2,700/mo billed annually (India pricing)",
-     "sourceUrl": "https://coda.io/pricing",
-     "lastChecked": "2026-10-18"
-    },
-    "currency": "USD",
+    "currency": "INR",
     "lastChangedAt": "2026-10-18",
-    "fromBilling": "monthly"
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -1711,7 +1732,6 @@
    "description": "AI platform for go-to-market content and workflows.",
    "whoFor": "Sales and marketing teams",
    "tags": [
-    "freemium",
     "paid"
    ],
    "pricing": {
@@ -1875,7 +1895,8 @@
     "sourceUrl": "https://languagetool.org/premium",
     "lastChecked": "2026-10-18",
     "currency": "INR",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": {
     "repo": "https://github.com/languagetool-org/languagetool",
@@ -1883,7 +1904,8 @@
     "license": "LGPL-2.1",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -1911,7 +1933,8 @@
     "sourceUrl": "https://quillbot.com/premium",
     "lastChecked": "2026-10-18",
     "currency": "INR",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -1929,22 +1952,15 @@
    "description": "Grammar checker and style editor for long-form writers.",
    "whoFor": "Novelists and long-form writers",
    "tags": [
-    "freemium",
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Premium $30/mo monthly or $120/yr billed yearly",
-    "fromUsdMonthly": 10,
-    "hasFreePlan": true,
+    "summary": "Premium ₹550/mo billed yearly (₹6,600/yr) or ₹1,650/mo billed monthly; Premium Pro ₹660/mo billed yearly (₹7,920/yr) or ₹1,980/mo billed monthly",
+    "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://prowritingaid.com/pricing",
     "lastChecked": "2026-10-18",
-    "india": {
-     "summary": "Free plan; Premium ₹1,650/mo monthly or ₹550/mo billed yearly (₹6,600/yr, India pricing)",
-     "sourceUrl": "https://prowritingaid.com/pricing",
-     "lastChecked": "2026-10-18"
-    },
-    "currency": "USD",
+    "currency": "INR",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
    },
@@ -1964,7 +1980,6 @@
    "description": "Readability editor that makes writing bold and clear.",
    "whoFor": "Writers who want plainer prose",
    "tags": [
-    "freemium",
     "paid"
    ],
    "pricing": {
@@ -2036,7 +2051,7 @@
     "lastChecked": "2026-10-17",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
-    "fromBilling": "monthly"
+    "fromBilling": "unknown"
    },
    "openSource": null,
    "status": "active",
@@ -2054,9 +2069,9 @@
    "description": "Fair-code workflow automation with AI agents; self-host or cloud.",
    "whoFor": "Technical teams wanting control and self-hosting",
    "tags": [
-    "paid",
-    "open source",
-    "self-hostable"
+    "self-hostable",
+    "fair-code",
+    "freemium"
    ],
    "pricing": {
     "summary": "Self-hosted Community Edition free; Cloud Starter €20/mo, Pro €50/mo (billed annually)",
@@ -2066,15 +2081,18 @@
     "sourceUrl": "https://n8n.io/pricing/",
     "lastChecked": "2026-10-17",
     "currency": "EUR",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": {
     "repo": "https://github.com/n8n-io/n8n",
     "stars": 207803,
-    "license": "Custom / see repo",
+    "license": "Sustainable Use License",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "fair-code",
+    "licenseNote": "Fair-code: free to self-host for internal use; .ee files need an n8n Enterprise License. Not OSI-approved."
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -2102,7 +2120,8 @@
     "sourceUrl": "https://www.make.com/en/pricing",
     "lastChecked": "2026-10-18",
     "currency": null,
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "unverifiedNote": "make.com/en/pricing shows a Cloudflare bot check instead of prices"
    },
    "openSource": null,
    "status": "active",
@@ -2138,10 +2157,12 @@
    "openSource": {
     "repo": "https://github.com/activepieces/activepieces",
     "stars": 25084,
-    "license": "Custom / see repo",
+    "license": "MIT",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source",
+    "licenseNote": "MIT core; packages/ee and the server's ee folder are under a commercial licence"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -2155,21 +2176,22 @@
    "name": "Pipedream",
    "url": "https://pipedream.com",
    "category": "Automation",
-   "description": "Developer-first integration platform with code steps.",
+   "description": "Platform for building integrations into your product: free while you build, paid when integrations run in production.",
    "whoFor": "Developers automating APIs",
    "tags": [
     "freemium",
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; paid plans on pricing page",
-    "fromUsdMonthly": null,
+    "summary": "Free plan (development only); Startup $99/mo billed annually or $150/mo billed monthly",
+    "fromUsdMonthly": 99,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://pipedream.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": null,
-    "lastChangedAt": "2026-10-17"
+    "currency": "USD",
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -2199,15 +2221,18 @@
     "sourceUrl": "https://www.windmill.dev/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "unknown"
    },
    "openSource": {
     "repo": "https://github.com/windmill-labs/windmill",
     "stars": 18212,
-    "license": "Custom / see repo",
+    "license": "AGPL-3.0",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 4
+    "setupDifficulty": 4,
+    "licenseType": "open-source",
+    "licenseNote": "AGPLv3 core, Apache-2.0 clients; some enterprise features are proprietary"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -2244,7 +2269,8 @@
     "license": "MIT",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 4
+    "setupDifficulty": 4,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -2262,26 +2288,29 @@
    "whoFor": "Teams building AI apps and agents",
    "tags": [
     "freemium",
-    "open source",
-    "self-hostable"
+    "self-hostable",
+    "source-available"
    ],
    "pricing": {
-    "summary": "Free sandbox; Professional $590/workspace/yr",
+    "summary": null,
     "fromUsdMonthly": null,
-    "hasFreePlan": true,
-    "verified": true,
+    "hasFreePlan": null,
+    "verified": false,
     "sourceUrl": "https://dify.ai/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "currency": null,
+    "lastChangedAt": "2026-10-17",
+    "unverifiedNote": "dify.ai/pricing renders prices as animated digits our checker can't read"
    },
    "openSource": {
     "repo": "https://github.com/langgenius/dify",
     "stars": 158717,
-    "license": "Custom / see repo",
+    "license": "Dify Open Source License (modified Apache-2.0)",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "source-available",
+    "licenseNote": "Apache-2.0 plus limits on multi-tenant use and on removing the logo. Not OSI-approved."
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -2298,9 +2327,9 @@
    "description": "Open-source drag-and-drop builder for LLM agents.",
    "whoFor": "Builders prototyping AI agents visually",
    "tags": [
-    "free",
     "open source",
-    "self-hostable"
+    "self-hostable",
+    "freemium"
    ],
    "pricing": {
     "summary": "Free cloud plan; Starter $35/mo; Pro $65/mo",
@@ -2316,10 +2345,12 @@
    "openSource": {
     "repo": "https://github.com/FlowiseAI/Flowise",
     "stars": 55512,
-    "license": "Custom / see repo",
+    "license": "Apache-2.0",
     "archived": true,
     "lastPush": "2026-08-13",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source",
+    "licenseNote": "Apache-2.0 except packages/server/src/enterprise"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -2436,12 +2467,12 @@
    "description": "Open-source design and prototyping platform.",
    "whoFor": "Teams wanting a self-hostable Figma alternative",
    "tags": [
-    "free",
     "open source",
-    "self-hostable"
+    "self-hostable",
+    "freemium"
    ],
    "pricing": {
-    "summary": "Free (cloud or self-host); Unlimited $7/editor/mo, capped at $175/mo",
+    "summary": "Free (cloud or self-host); Unlimited $7/editor/mo (capped at $175/mo); Enterprise $25/member/mo",
     "fromUsdMonthly": 7,
     "hasFreePlan": true,
     "verified": true,
@@ -2457,7 +2488,8 @@
     "license": "MPL-2.0",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -2513,7 +2545,8 @@
     "sourceUrl": "https://www.kittl.com/pricing",
     "lastChecked": "2026-10-18",
     "currency": "INR",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -2621,7 +2654,8 @@
    "description": "AI video generator for workplace learning.",
    "whoFor": "Corporate trainers",
    "tags": [
-    "paid"
+    "paid",
+    "freemium"
    ],
    "pricing": {
     "summary": "Free Starter plan; Professional $59/mo",
@@ -2653,7 +2687,7 @@
     "paid"
    ],
    "pricing": {
-    "summary": "14-day free trial; Lite $5.90/mo ($4.70/mo billed annually); Pro $29/mo ($16/mo billed annually)",
+    "summary": "Free trial; Lite $4.70/mo billed annually ($56/yr); Pro $16/mo billed annually ($191/yr); Advanced $108/mo billed annually",
     "fromUsdMonthly": 4.7,
     "hasFreePlan": null,
     "verified": true,
@@ -2769,7 +2803,6 @@
    "description": "AI video generation with realistic motion.",
    "whoFor": "Creators and filmmakers",
    "tags": [
-    "freemium",
     "paid"
    ],
    "pricing": {
@@ -2780,7 +2813,8 @@
     "sourceUrl": "https://lumalabs.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
@@ -2802,15 +2836,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Daily free uses; Standard $8.80/mo (monthly, after first-month offer) or $79.20/yr",
-    "fromUsdMonthly": 6.6,
+    "summary": "Daily free credits; Standard $6.99 first month, then $8.80/mo; Pro $25.99 first month, then $32.56/mo",
+    "fromUsdMonthly": 8.8,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://app.klingai.com/global/membership/membership-plan",
     "lastChecked": "2026-10-18",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
-    "fromBilling": "annual"
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
@@ -2862,7 +2896,7 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free Basic plan; Pro $8.33/user/mo (currently promoted at $4.17); Business $19.99/user/mo",
+    "summary": "Free Basic plan; Pro $16.99/user/mo billed monthly or $8.33/user/mo billed annually; Business $30/user/mo monthly or $19.99/user/mo annually",
     "fromUsdMonthly": 8.33,
     "hasFreePlan": true,
     "verified": true,
@@ -2870,7 +2904,7 @@
     "lastChecked": "2026-10-18",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
-    "fromBilling": "monthly"
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -2952,19 +2986,14 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Pro €18/seat/mo billed annually (€29 monthly); Business €29/seat/mo billed annually (€39 monthly)",
-    "fromUsdMonthly": null,
+    "summary": "Free plan; Pro ₹1,715/seat/mo, Business ₹2,499/seat/mo (billed annually)",
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://tldv.io/app/pricing/",
     "lastChecked": "2026-10-18",
-    "india": {
-     "summary": "Free plan; Pro ₹1,715/seat/mo, Business ₹2,499/seat/mo (billed annually, India pricing)",
-     "sourceUrl": "https://tldv.io/app/pricing/",
-     "lastChecked": "2026-10-18"
-    },
-    "currency": "EUR",
-    "lastChangedAt": "2026-10-18"
+    "currency": "INR",
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -3062,7 +3091,8 @@
     "license": "MIT",
     "archived": false,
     "lastPush": "2026-08-31",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -3113,7 +3143,7 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Pro billed $288/yr; Grow billed $408/yr",
+    "summary": "Free plan; Pro $24/mo billed annually ($288/yr) or $29 monthly; Grow $34/mo billed annually ($408/yr) or $39 monthly",
     "fromUsdMonthly": 24,
     "hasFreePlan": true,
     "verified": true,
@@ -3150,7 +3180,8 @@
     "sourceUrl": "https://www.capcut.com",
     "lastChecked": "2026-10-18",
     "currency": null,
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "unverifiedNote": "capcut.com is not reachable from our checker (HTTP 451)"
    },
    "openSource": null,
    "status": "active",
@@ -3202,14 +3233,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Creator ₹490/user/mo billed yearly (₹5,874/yr); Pro ₹1,068/user/mo billed yearly (India pricing)",
+    "summary": "Free plan; Creator ₹490/user/mo billed yearly (₹5,874/yr); Pro ₹1,068/user/mo billed yearly (₹12,818/yr)",
     "fromUsdMonthly": null,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.veed.io/pricing",
     "lastChecked": "2026-10-18",
     "currency": "INR",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -3246,7 +3278,8 @@
     "license": "GPL-3.0",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 2
+    "setupDifficulty": 2,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -3274,7 +3307,8 @@
     "sourceUrl": "https://gamma.app/pricing",
     "lastChecked": "2026-10-18",
     "currency": "INR",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -3400,7 +3434,8 @@
     "license": "Apache-2.0",
     "archived": false,
     "lastPush": "2026-10-16",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -3517,7 +3552,8 @@
     "sourceUrl": "https://www.aiva.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "EUR",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -3585,7 +3621,8 @@
     "license": "MIT",
     "archived": false,
     "lastPush": "2026-03-03",
-    "setupDifficulty": 4
+    "setupDifficulty": 4,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -3613,7 +3650,8 @@
     "sourceUrl": "https://character.ai/subscribe",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -3651,7 +3689,8 @@
     "license": "AGPL-3.0",
     "archived": false,
     "lastPush": "2026-10-02",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -3679,7 +3718,8 @@
     "sourceUrl": "https://replika.com",
     "lastChecked": "2026-10-18",
     "currency": null,
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "unverifiedNote": "the vendor site publishes no price list outside the app"
    },
    "openSource": null,
    "status": "active",
@@ -3708,7 +3748,8 @@
     "sourceUrl": "https://kindroid.ai",
     "lastChecked": "2026-10-18",
     "currency": null,
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "unverifiedNote": "the vendor site publishes no price list outside the app"
    },
    "openSource": null,
    "status": "active",
@@ -3767,7 +3808,8 @@
     "sourceUrl": "https://www.talkie-ai.com",
     "lastChecked": "2026-10-18",
     "currency": null,
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "unverifiedNote": "the vendor site publishes no price list outside the app"
    },
    "openSource": null,
    "status": "active",
@@ -3785,7 +3827,8 @@
    "description": "Microsoft's spreadsheet app with Copilot.",
    "whoFor": "Everyone",
    "tags": [
-    "paid"
+    "paid",
+    "freemium"
    ],
    "pricing": {
     "summary": "Free Excel on the web; Microsoft 365 Personal $99.99/yr, Family $129.99/yr",
@@ -3794,13 +3837,9 @@
     "verified": true,
     "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/excel",
     "lastChecked": "2026-10-18",
-    "india": {
-     "summary": "Free Excel on the web; Microsoft 365 Personal ₹6,899/yr, Family ₹8,199/yr (India pricing)",
-     "sourceUrl": "https://www.microsoft.com/en-in/microsoft-365/excel",
-     "lastChecked": "2026-10-18"
-    },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -3917,15 +3956,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Plus $20/mo ($16 annually); Pro $45/mo",
-    "fromUsdMonthly": 16,
+    "summary": "Free plan; Plus $20/mo; Pro $45/mo; Business $450/mo",
+    "fromUsdMonthly": 20,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://julius.ai/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
-    "fromBilling": "annual"
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
@@ -3944,8 +3983,8 @@
    "whoFor": "Teams wanting a self-hosted Airtable",
    "tags": [
     "freemium",
-    "open source",
-    "self-hostable"
+    "self-hostable",
+    "fair-code"
    ],
    "pricing": {
     "summary": "Free up to 3 users; Plus $12/seat/mo (billed annually)",
@@ -3961,10 +4000,12 @@
    "openSource": {
     "repo": "https://github.com/nocodb/nocodb",
     "stars": 65291,
-    "license": "Custom / see repo",
+    "license": "Sustainable Use License",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "fair-code",
+    "licenseNote": "Sustainable Use License (licence file dated 29 January 2026). Not OSI-approved."
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -4056,7 +4097,16 @@
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
-   "openSource": null,
+   "openSource": {
+    "repo": "https://github.com/GNOME/gimp",
+    "stars": 6521,
+    "license": "GPL-3.0-or-later",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": null,
+    "licenseNote": "GPLv3 or later (COPYING in the official GNOME mirror)"
+   },
    "status": "active",
    "firstPublished": "2026-10-17",
    "contentUpdatedAt": "2026-10-17",
@@ -4076,15 +4126,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free; Plus $2.49/mo ($1.99 billed yearly)",
-    "fromUsdMonthly": 1.99,
+    "summary": "Free; Plus $2.49/mo; Premium $9.99/mo; Team from $24.99/mo",
+    "fromUsdMonthly": 2.49,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://pixlr.com/pricing/",
     "lastChecked": "2026-10-17",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
-    "fromBilling": "annual"
+    "fromBilling": "unknown"
    },
    "openSource": null,
    "status": "active",
@@ -4115,7 +4165,15 @@
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
-   "openSource": null,
+   "openSource": {
+    "repo": "https://github.com/KDE/krita",
+    "stars": 10572,
+    "license": "GPL-3.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": null
+   },
    "status": "active",
    "firstPublished": "2026-10-17",
    "contentUpdatedAt": "2026-10-17",
@@ -4141,7 +4199,8 @@
     "sourceUrl": "https://www.zendesk.com/pricing/",
     "lastChecked": "2026-10-17",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -4162,15 +4221,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Helpdesk from $19/seat/mo + Fin AI Agent $0.99 per outcome",
-    "fromUsdMonthly": 19,
+    "summary": "Fin AI Agent $0.99 per outcome; helpdesk seats from $29/seat/mo",
+    "fromUsdMonthly": 29,
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://www.intercom.com/pricing",
     "lastChecked": "2026-10-17",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
-    "fromBilling": "monthly"
+    "fromBilling": "unknown"
    },
    "openSource": null,
    "status": "active",
@@ -4236,10 +4295,12 @@
    "openSource": {
     "repo": "https://github.com/chatwoot/chatwoot",
     "stars": 37893,
-    "license": "Custom / see repo",
+    "license": "MIT",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source",
+    "licenseNote": "MIT except the enterprise/ folder"
    },
    "status": "active",
    "firstPublished": "2026-10-17",
@@ -4259,15 +4320,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Starter $40/mo (billed monthly)",
-    "fromUsdMonthly": 40,
-    "hasFreePlan": false,
-    "verified": true,
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
     "sourceUrl": "https://www.gorgias.com/pricing",
     "lastChecked": "2026-10-17",
-    "currency": "USD",
+    "currency": null,
     "lastChangedAt": "2026-10-17",
-    "fromBilling": "monthly"
+    "unverifiedNote": "gorgias.com/pricing no longer shows prices in the page text"
    },
    "openSource": null,
    "status": "active",
@@ -4315,21 +4376,15 @@
    "description": "Free AI features built into Shopify.",
    "whoFor": "Shopify merchants",
    "tags": [
-    "free"
+    "paid"
    ],
    "pricing": {
-    "summary": "Included free with Shopify plans; Shopify Basic $29/mo billed yearly ($39 monthly)",
-    "fromUsdMonthly": 29,
-    "hasFreePlan": true,
+    "summary": "Included with Shopify plans; Shopify Basic ₹1,800/mo billed yearly (₹1,994/mo billed monthly)",
+    "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://www.shopify.com/pricing",
     "lastChecked": "2026-10-18",
-    "india": {
-     "summary": "Included free with Shopify plans; Shopify Basic ₹1,800/mo billed yearly (₹1,994 monthly), India pricing",
-     "sourceUrl": "https://www.shopify.com/pricing",
-     "lastChecked": "2026-10-18"
-    },
-    "currency": "USD",
+    "currency": "INR",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
    },
@@ -4454,7 +4509,8 @@
     "sourceUrl": "https://quizlet.com/upgrade",
     "lastChecked": "2026-10-18",
     "currency": null,
-    "lastChangedAt": "2026-10-17"
+    "lastChangedAt": "2026-10-17",
+    "unverifiedNote": "quizlet.com/upgrade returns HTTP 403 to our checker"
    },
    "openSource": null,
    "status": "active",
@@ -4479,7 +4535,7 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free; Pro $5/mo billed annually ($9.99 monthly)",
+    "summary": "Free; Pro $5/mo billed annually ($60/yr); Pro Premium $8.25/mo billed annually ($99/yr)",
     "fromUsdMonthly": 5,
     "hasFreePlan": true,
     "verified": true,
@@ -4538,7 +4594,6 @@
    "description": "Product management platform with AI feedback insights.",
    "whoFor": "PMs managing feedback and roadmaps",
    "tags": [
-    "freemium",
     "paid"
    ],
    "pricing": {
@@ -4675,7 +4730,8 @@
     "license": "Apache-2.0",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 2
+    "setupDifficulty": 2,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-18",
@@ -4711,7 +4767,8 @@
     "license": "MIT",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 2
+    "setupDifficulty": 2,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-18",
@@ -4748,7 +4805,8 @@
     "license": "MIT",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-18",
@@ -4798,15 +4856,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "$20/mo (4,000 credits), $40/mo (8,000 credits), $200/mo (40,000 credits), billed monthly",
-    "fromUsdMonthly": 20,
+    "summary": null,
+    "fromUsdMonthly": null,
     "hasFreePlan": null,
-    "verified": true,
+    "verified": false,
     "sourceUrl": "https://manus.im/pricing",
     "lastChecked": "2026-10-18",
-    "currency": "USD",
+    "currency": null,
     "lastChangedAt": "2026-10-18",
-    "fromBilling": "monthly"
+    "unverifiedNote": "manus.im/pricing renders prices as animated digits our checker can't read"
    },
    "openSource": null,
    "status": "active",
@@ -4871,10 +4929,12 @@
    "openSource": {
     "repo": "https://github.com/CapSoftware/Cap",
     "stars": 23383,
-    "license": "Custom / see repo",
+    "license": "AGPL-3.0",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 1
+    "setupDifficulty": 1,
+    "licenseType": "open-source",
+    "licenseNote": "AGPLv3; the cap-camera and scap crates are MIT"
    },
    "status": "active",
    "firstPublished": "2026-10-18",
@@ -4969,7 +5029,8 @@
     "license": "AGPL-3.0",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 1
+    "setupDifficulty": 1,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-18",
@@ -5067,7 +5128,8 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -5101,7 +5163,8 @@
      "lastChecked": "2026-10-18"
     },
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -5158,20 +5221,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free under 250 contacts; Essentials from $13.24/mo ($6.62/mo for the first 12 months)",
-    "fromUsdMonthly": 13.24,
-    "hasFreePlan": true,
-    "verified": true,
+    "summary": null,
+    "fromUsdMonthly": null,
+    "hasFreePlan": null,
+    "verified": false,
     "sourceUrl": "https://mailchimp.com/pricing/marketing/?currency=USD",
     "lastChecked": "2026-10-18",
-    "india": {
-     "summary": "Free under 250 contacts; Essentials from ₹1,265/mo (₹632.50/mo for the first 12 months), India pricing",
-     "sourceUrl": "https://mailchimp.com/pricing/marketing/",
-     "lastChecked": "2026-10-18"
-    },
-    "currency": "USD",
+    "currency": null,
     "lastChangedAt": "2026-10-18",
-    "fromBilling": "monthly"
+    "unverifiedNote": "mailchimp.com/pricing shows promotional amounts only, split across elements; the regular price isn't readable"
    },
    "openSource": null,
    "status": "active",
@@ -5230,7 +5288,8 @@
     "sourceUrl": "https://www.brevo.com/pricing/",
     "lastChecked": "2026-10-18",
     "currency": "INR",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "monthly"
    },
    "openSource": null,
    "status": "active",
@@ -5252,14 +5311,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan (unlimited email sends); paid plans listed from $49/mo",
-    "fromUsdMonthly": null,
+    "summary": "Free plan; Lite $49/mo",
+    "fromUsdMonthly": 49,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.beehiiv.com/pricing",
     "lastChecked": "2026-10-18",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18"
+    "lastChangedAt": "2026-10-18",
+    "fromBilling": "unknown"
    },
    "openSource": null,
    "status": "active",
@@ -5297,7 +5357,8 @@
     "license": "AGPL-3.0",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-18",
@@ -5331,10 +5392,11 @@
    "openSource": {
     "repo": "https://github.com/mautic/mautic",
     "stars": 10787,
-    "license": "Custom / see repo",
+    "license": "GPL-3.0",
     "archived": false,
     "lastPush": "2026-10-16",
-    "setupDifficulty": 4
+    "setupDifficulty": 4,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-18",
@@ -5372,7 +5434,8 @@
     "license": "AGPL-3.0",
     "archived": false,
     "lastPush": "2026-10-17",
-    "setupDifficulty": 3
+    "setupDifficulty": 3,
+    "licenseType": "open-source"
    },
    "status": "active",
    "firstPublished": "2026-10-18",
@@ -6475,14 +6538,20 @@
   {
    "date": "2026-10-18",
    "slug": "shopify-magic",
-   "kind": "price change",
-   "old": "Shopify Basic ₹1,499/mo billed yearly",
-   "new": "Shopify Basic ₹1,800/mo billed yearly (monthly still ₹1,994)",
+   "kind": "correction",
+   "old": "Shopify Basic ₹1,499/mo",
+   "new": "Shopify Basic ₹1,800/mo billed yearly",
    "sourceUrl": "https://www.shopify.com/pricing",
    "id": "2026-10-18-shopify-magic",
    "region": "IN",
    "currency": "INR",
-   "plan": "Basic"
+   "plan": "Basic",
+   "type": "correction",
+   "evidence": {
+    "before": null,
+    "after": "data/snapshots/shopify-magic/2026-10-18.txt",
+    "note": "Our first entry (commit 3af2b84, 18 Oct 2026) stored ₹1,499 with no snapshot. Today shopify.com/pricing still shows ₹1,499 in its static HTML (data/snapshots/shopify-magic/2026-10-18.static-html.txt) but ₹1,800 billed yearly on the rendered page people see (2026-10-18.txt). There's no evidence Shopify changed the price, so this is a correction to our data, not a vendor price change."
+   }
   }
  ],
  "people": [

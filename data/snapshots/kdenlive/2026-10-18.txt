@@ -1,0 +1,121 @@
+#SNAPSHOT {"url":"https://kdenlive.org","finalUrl":"https://kdenlive.org/","fetchedAt":"2026-10-17T20:53:05.053Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"68342db8ff36977395ac5180876cb176fa2c8a2a657e1bcc2f72b0112ad6c692"}
+Kdenlive - Free and Open Source Video Editor Skip to content
+ News
+ Downloads
+ About
+ The Story of Kdenlive
+ Roadmap
+ Support
+ Get Involved
+ ❤️ Donate
+ Select your language
+ Languages
+ English
+ Català
+ Český
+ Deutsch
+ Español
+ Français
+ Gaeilge
+ Italiano
+ Nederlands
+ Português brasileiro
+ Slovenčina
+ Slovenščina
+ Svenska
+ Türkçe
+ Русский
+ Українська
+ עברית
+ العربيّة
+ 正體中文
+ 简体中文
+ Made by KDE
+ Kdenlive
+ Free and Open Source Video Editor
+ Kdenlive is the acronym for KDE Non-Linear Video Editor. It works on Linux, Windows, macOS, and BSD.
+ Download
+ News
+ Friday, 16 October 2026
+ Help us test Kdenlive
+ Tuesday, 13 October 2026
+ Kdenlive 26.08.2 released
+ Friday, 9 October 2026
+ Akademy 2026
+ &#x1F4E2; View all news
+ Powerful Tools from Start to Finish
+ Whether you're doing simple edits or crafting a professional masterpiece, Kdenlive supports you from ingest to the final touch, with a customizable interface
+ that adapts to your workflow.
+ Asset Management
+ Ingest footage in almost any audio or video format
+, review its metadata
+ or use proxies
+ for smooth playback even on low-end systems.
+ Use powerful tags and filters
+ to organize your assets and create multiple bins
+, so everything is at hand when you need it.
+ Editing
+ Take control of your edit with a flexible non-linear workflow, multicam
+ and 3-point editing
+. Manage complex timelines with nested sequences
+ and markers
+ while automatic backups
+ keep your work protected.
+ Audio
+ Can you hear the difference? Shape your soundtrack with powerful mixers
+, built-in voiceover recording
+, and an audio spectrum
+ that lets you see exactly what you’re hearing.
+ Effects and Transitions
+ Choose from hundreds of audio
+ and video
+ effects, apply them at any level
+ of your workflow and create dynamic changes with keyframes
+.
+ Add smooth transitions
+ between clips and combine layers with flexible compositions
+ to create polished, dynamic sequences.
+ Color
+ Bring your footage to life! Apply LUTs
+, do basic color corrections or detailed creative grading
+.
+ Analyze your image with histogram
+, vectorscope
+, RGB parade and waveform
+ to make precise adjustments.
+ Subtitles and Text
+ Create professional subtitles
+ with automatic transcription
+, advanced layering and styling.
+ Add simple title clips
+ with ease or seamlessly connect your project to Glaxnimate
+ for complex motion graphics.
+ Wait, there is more!
+ Roadmap
+ User Manual
+ A Creative Community
+ Kdenlive is part of the KDE Community and developed by a small, mostly volunteer team from all over the world.
+ The Story of Kdenlive
+ Get Involved
+ Support
+ Community
+ User Manual
+ Forum
+ Trademark and Logo
+ Get involved
+ Bug Reports
+ Bug Triaging
+ Documentation
+ Wiki
+ Resources
+ Code of Conduct
+ Privacy Policy
+ Applications Privacy Policy
+ Legacy Video Editor Guide
+ Maintained by KDE Webmasters
+ (public mailing list).
+ KDE ® and the K Desktop Environment ® logo
+ are registered trademarks of KDE e.V.
+Kdenlive ™ , Kde’n’live ™ and the playhead logo
+ are trademarks of KDE e.V.
+ | Legal

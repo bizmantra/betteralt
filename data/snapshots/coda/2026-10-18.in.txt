@@ -1,0 +1,286 @@
+#SNAPSHOT {"url":"https://coda.io/pricing","finalUrl":"https://superhuman.com/plans/docs?source=coda.io","fetchedAt":"2026-10-17T20:51:56.069Z","method":"playwright","region":"in","currency":"INR","http":200,"sha256":"430b1e57258896d2e807f4c50de21b1e2a2dc20ebe71acf8fb8fb803dd7da89a"}
+Products
+Solutions
+AI
+Resources
+Pricing
+Love
+Contact sales
+Log in
+Sign up it’s free
+Every great team needs a plan
+Free
+₹ 0
+Get Superhuman Free
+Free includes:
+Collaborative docs
+Try Docs AI - an AI assistant that helps you write confidently, build docs, and automate tasks
+Try MCP
+Connected tables, views, and forms
+Formulas and automations
+Grammarly (trial)
+Go (trial)
+Integrate with:
++36 more
+Pro
+₹ 983 / month
+per 
+Doc Maker
+, billed annually
+₹ 1250 when billed monthly
+Get Superhuman Pro
+Everything in Free, plus:
+Unlimited doc size
+Write, edit, and ask with AI
+Beta
+Build AI trackers, pages, and views
+Beta
+Create with Claude and more via MCP
+30-day version history
+Hide specific pages
+Custom icons, branding, domains
+Grammarly
+Go
+Integrate with:
++46 more
+Best value
+Business
+₹ 2700 / month
+per 
+Doc Maker
+, billed annually
+₹ 3299 when billed monthly
+Get Superhuman Business
+Everything in Pro, plus:
+Databases
+Beta
+Unlimited automations
+Unlimited version history
+Private folders for teams
+Subfolders
+Doc and page locking
+Sync and take actions across docs
+Group trainings
+Grammarly
+Go
+Mail
+Integrate with:
++72 more
+Enterprise
+Custom
+Contact sales
+Everything in Business, plus:
+SAML SSO
+Provision users via SCIM
+AI admin controls
+Doc & folder governance
+Advanced access controls
+Audit events
+Advanced user management
+SOC 2 (Type 2) report
+HIPAA compliance
+Grammarly
+Go
+Mail
+Integrate with:
++85 more
+See all features and compare plans
+Beta
+Your go-to AI assistant
+Docs AI is your always-on collaborator, built into every page.
+Build by asking
+Create proposals, trackers, and dashboards in minutes
+Collaborate faster
+Refine, iterate, and polish docs without wrestling with menus
+Ask questions
+Surface insights and data points across your workspace
+Docs AI is available during Beta for Doc Makers.
+Trusted by 40M+ people and 50K+ organizations
+Plans and features
+Feature Free Pro Business Enterprise
+Docs
+Core 
+Pages and objects
+Limited for shared docs
+Unlimited
+Unlimited
+Unlimited
+Docs AI assistant
+Beta
+Limited trial
+Databases
+Beta
+AI views and pages
+Beta
+Limited trial
+Automations
+Low quota
+Medium quota
+Unlimited
+Unlimited
+Attachments
+1Gb per doc
+5Gb per doc
+Unlimited
+Unlimited
+Connectors
+Manual refresh
+Daily refresh
+Hourly refresh
+Hourly refresh
+Forms
+Unlimited
+Custom branding, conditional logic
+Custom branding, conditional logic
+Custom branding, conditional logic
+Cross-doc
+Limited cross-doc tables
+Cross-doc tables
+Cross-doc tables & actions
+Cross-doc tables & actions
+Version history
+7 days
+30 days
+Unlimited
+Unlimited
+Desktop and mobile app
+MCP
+Limited trial
+Collaboration & sharing 
+Real-time collaboration
+Doc & folder sharing
+Sync pages
+Hidden pages
+Custom domains
+Locking
+Advanced locking
+Enforced dependencies
+Workspace features 
+Unlimited folders
+Custom icons
+Manage folder access
+Subfolders
+Doc and Page analytics
+Domain capture
+Security, Compliance & Administration 
+SAML SSO
+User provisioning (SCIM)
+SOC 2 (Type 2)
+Audit logs
+AI admin controls
+Advanced user management
+Doc and folder governance
+HIPAA compliance
+Contact sales
+FERPA compliance
+Contact sales
+Legal hold
+Contact sales
+E-discovery
+Contact sales
+BYOK
+Coming soon
+Across the suite
+Included Products 
+Go
+Limited trial
+Grammarly
+Limited trial
+Included on annual. $15/mo per Maker on monthly
+Mail
+Support and Success 
+Help Center
+Webinar and trainings
+Private
+Resource library
+Customer success
+Priority support
+Live chat
+Guided onboarding
+Your Superhuman suite
+Explore the bundle
+Docs
+The best place for teams and AI to work together
+Go
+The only agent that works everywhere you work
+Grammarly
+The writing assistant trusted by millions
+Mail
+The most productive inbox ever made
+FAQs
+What is a Workspace?
++
+What is a 'Doc Maker'?
++
+Who do I pay for and why?
++
+What is Docs AI?
++
+Is Docs AI included in all plans?
++
+Can I use Superhuman Docs via an MCP server?
++
+Can I give access to people outside?
++
+What happens when I publish my doc?
++
+When will I get billed for my workspace?
++
+Do I get a refund if I remove members from my workspace or cancel my plan?
++
+How does Enterprise pricing work?
++
+Free
+₹ 0
+Get started
+Pro
+₹ 983
+/ month
+₹ 1250 when billed monthly
+Get Pro
+Business
+₹ 2700
+/ month
+₹ 3299 when billed monthly
+Get Business
+Enterprise
+Custom
+Contact sales
+Builders of Superhuman Platform apps
+Products
+Superhuman Go
+Agents
+Mail
+Calendar
+Docs
+Databases
+Superhuman Store
+Company
+Contact Us
+About
+We Stand with Ukraine
+Mission & Values
+Careers
+Blog
+Superhuman Academy
+Help Center
+Status
+Partners
+Community
+Superhuman Platform
+GPTZero
+Grammarly
+Legal
+Terms
+Privacy Policy
+Trust
+Customer Business Agreement
+Legal Notices
+Cookies Preferences Center
+Connect
+LinkedIn
+X
+TikTok
+Instagram
+Threads
+Facebook

@@ -1,0 +1,281 @@
+#SNAPSHOT {"url":"https://www.microsoft.com/en-in/microsoft-365/word","finalUrl":"https://www.microsoft.com/en-in/microsoft-365/word","fetchedAt":"2026-10-17T20:54:49.988Z","method":"playwright","region":"in","currency":"INR","http":200,"sha256":"e946b13c19ef5e78c95de6b1a47af2a0455d985995edfcfb732fdf3d5539da9d"}
+Skip to main content
+Microsoft 365
+Word
+Plans and pricing
+Resources
+More Microsoft 365
+ME
+Discover what's coming to Microsoft Ignite, Nov 17-20, 2026.
+Register now
+Microsoft Word
+Create content that you can be proud of with AI-suggestions3 and powerful collaboration and editing tools, wherever you are.
+Open Word
+See plans and pricing
+How it works
+Key features
+What’s new
+Plans & pricing
+Download the app
+Featured resources
+Microsoft 365 Apps
+FAQ
+See plans and pricing
+HOW IT WORKS
+Get the most out of your documents
+Create with confidence
+Refine with ease
+Sharpen your comprehension
+Share and collaborate
+Create and edit with Microsoft Copilot
+Create high-quality content faster, from first draft to polish with Copilot.
+Try Copilot in Word
+Start from a template
+Voice-to-text
+Enhance visually
+Back to HOW IT WORKS section
+KEY FEATURES
+Supercharge your reading and writing
+Copilot in Word
+Boost your creativity and productivity with Copilot.4
+Learn more
+Editor in Word
+Improve your grammar, spelling, and writing style with an intelligent editor.
+Learn more
+Get more with Microsoft 365
+Maximize your potential with Microsoft 365.
+Learn more
+WHAT’S NEW
+Turn your ideas into polished documents faster with Copilot in Word.
+Describe what you need, and Copilot creates, reads, and edits your document for you.
+Learn more about Copilot in Word
+Learn more
+PLANS & PRICING
+Word is better with Microsoft 365
+For individuals
+For business
+Yearly
+Monthly
+Microsoft Word
+Free
+Sign up for free
+Sign in
+For 1 person
+Sharing and real-time collaboration
+Word for the web
+Basic spelling and grammar
+Basic templates, fonts, icons, and stickers
+Dictation and voice commands
+5 GB of cloud storage
+Payment Methods
+Microsoft 365 Personal
+₹ 6,899.00
+/year
+Subscription automatically renews unless canceled in Microsoft account. See terms.
+Buy now
+Microsoft 365 Personal includes:
+For 1 person​
+Sign into 5 devices at once
+Use on PCs, Macs, phones, and tablet 
+1 TB of secure cloud storage
+Word, Excel 
+ , PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot 
+Advanced Copilot 
+ chat with higher usage than free
+Use Copilot in select apps with work files in a secure way 
+Higher usage than free for AI image creation in Copilot 
+Data and device security
+All-day video calling and Copilot 
+ in Teams
+Microsoft 365 Family
+₹ 8,199.00
+/year
+Subscription automatically renews unless canceled in Microsoft account. See terms.
+Buy now
+Everything in Microsoft 365 Personal, plus:
+For 1 to 6 people (AI for subscription owner only)
+Each person can use on up to 5 devices simultaneously
+2 TB of shared, secure cloud storage
+Best for AI & productivity
+Microsoft 365 Premium
+₹ 19,999.00
+/year
+Subscription automatically renews unless canceled in Microsoft account. See terms.
+Buy now
+Everything in Microsoft 365 Family, plus:​
+Advanced Copilot 
+ chat with extensive usage​
+Agentic AI features that get things done for you, including advanced research and analytics 
+Extensive usage for AI image creation in Copilot 
+Popular apps and services included:
+Back to tabs
+Back to tabs
+DOWNLOAD THE APP
+Write anywhere. Edit confidently. Collaborate with ease.
+Write and edit confidently from anywhere. Word keeps your document updated and makes collaboration easy.
+Windows
+Create polished documents with powerful creation, editing, and collaboration tools in the Windows app. Copilot coauthors and iterates with you directly in Word - no other tools required. The Windows app requires a Microsoft 365 subscription.
+Download Word for Windows
+Android
+Quickly review, edit, and create Word documents on the go. Advanced formatting, track and review changes, and Copilot in Word are available with a Microsoft 365 Subscription.
+Download Word for Android
+iOS
+Quickly review, edit, and create Word documents on the go. Advanced formatting, track and review changes, and Copilot in Word are available with a Microsoft 365 Subscription.
+Download Word for iOS
+MacOS
+Create polished documents with powerful creation, editing, and collaboration tools in the Mac app. Copilot coauthors and iterates with you directly in Word - no other tools required. The Mac app requires a Microsoft 365 subscription.
+Download Word for MacOS
+Word on Web
+Create, edit, and collaborate on Word documents from anywhere, with no downloads required. Word on the web is available without a subscription. Copilot requires a Microsoft 365 subscription.
+Open Word on Web
+Get the Word mobile app*
+* Availability of mobile apps varies by country/region.
+If you're having trouble with the QR code, using your mobile device, go to aka.ms/wordmobiledownload to get the Word mobile app.
+FEATURED RESOURCES
+Improve your writing with these helpful resources
+Recommended
+Slide {0} {1} indicator
+Previous Slide
+Next Slide
+Copilot learning center
+Explore quick, easy-to-follow videos to help you get started and do more with Copilot in Word, Excel, Outlook, and beyond.
+Learn more
+Grammar tips
+Grammar 101: Building a foundation for great writing with grammar basics
+Learn more
+Grammar tips
+How to use quotation marks: Rules with commas, periods, and more
+Learn more
+Spelling tips
+When to use ‘choose’ vs ‘chose’
+Learn more
+Spelling tips
+Is it ‘canceled’ or ‘cancelled’
+Learn more
+Writing tips
+What’s ‘etc,’ an abbreviation of—and what does it mean?
+Learn more
+Back to Featured resources section
+Back to tabs
+MORE MICROSOFT 365
+Learn more about Microsoft 365
+Explore all apps
+Previous Slide
+Next Slide
+Excel
+Turn data into insights and simplify complex data into easy-to-read spreadsheets.
+Learn more
+PowerPoint
+Tell your story with captivating presentations.
+Learn more
+OneNote
+All your ideas in one place
+Learn more
+Outlook
+Manage your email, calendar, tasks, and contacts in one location.
+Learn more
+Teams
+Collaborate more effectively with a faster, simpler, smarter, and more flexible Teams.
+Learn more
+OneDrive
+Keep your files and memories protected, up to date, and easily accessible across all your devices.
+Learn more
+Microsoft Editor
+Write more clearly and concisely, anywhere you write.
+Learn more
+Back to MORE MICROSOFT 365 section
+Frequently asked questions
+Expand all
+Collapse all
+01/
+Where can I use Microsoft Word?
+02/
+Is there a free version of Microsoft Word?
+03/
+Can I collaborate with other people in Microsoft Word?
+04/
+In what languages is Microsoft Word available?
+Explore further
+Copilot in Microsoft 365
+Achieve more than ever using AI-powered features3,4 integrated with Word, Excel,6 PowerPoint, Outlook,7 and other Microsoft 365 apps.
+Learn more
+Free templates
+Create designs that inspire with free templates.
+Explore now
+Microsoft 365
+Maximize your potential with apps to optimize the everyday.
+Learn more
+App availability varies by device/language. Features vary by platform. Minimum age limits may apply to use of AI features. Details.​
+[1]
+Once your paid subscription begins, you have a 7-day cancellation window to receive a prorated refund, only paying for what you use. You may cancel your subscription at any time in the Microsoft 365 admin center. Learn how to cancel your Microsoft 365 subscription. When a subscription is canceled, all associated data will be deleted. Learn more about data retention, deletion, and destruction in Microsoft 365.
+[2]
+After your one-month free trial ends, your subscription will automatically convert to a paid subscription and you’ll be charged the applicable subscription fee based on the subscription term and billing plan you select. Cancel anytime during your free trial to stop future charges. A credit card is required to sign up. Storage for trials will be limited. Microsoft reserves the right to suspend access to its products and services if payment is not received after your one-month free trial ends. Learn more.
+[3]
+Microsoft 365 Personal or Family subscription required; AI features only available to subscription owner and cannot be shared; usage limits apply.. Learn more.
+[4]
+Documents must be saved in and shared from OneDrive.
+[5]
+Availability of mobile apps varies by countries/region.
+[6]
+Copilot in Excel requires AutoSave to be enabled, meaning the file must be saved to OneDrive; it doesn't function with unsaved files.
+[7]
+Copilot features in Outlook apply to accounts with @outlook.com, @hotmail.com, @live.com, or @msn.com email addresses and are available in Outlook.com, Outlook built into Windows, Outlook on Mac, and iOS and Android apps.
+Follow Microsoft Copilot 
+What's new
+Surface Pro
+Surface Laptop
+Explore Copilot
+Microsoft 365
+Explore Microsoft products
+Windows 11 apps
+Microsoft Store
+Account profile
+Download Center
+Microsoft Store Support
+Returns
+Order tracking
+Education
+Microsoft in education
+Devices for education
+Microsoft Teams for Education
+Microsoft 365 Education
+Office Education
+Educator training and development
+Deals for students and parents
+Azure for students
+Business
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft Advertising
+Microsoft Copilot
+Microsoft Teams
+Developer & IT
+Microsoft Developer
+Microsoft Learn
+Support for AI marketplace apps
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+Software companies
+Visual Studio
+Company
+Careers
+About Microsoft
+Company news
+Privacy at Microsoft
+Investors
+Security
+Sustainability
+English (India)
+Your Privacy Choices
+Consumer Health Privacy
+Contact Microsoft
+Privacy
+Terms of use
+Trademarks
+About our ads
+© Microsoft 2026
+Feedback

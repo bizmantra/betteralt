@@ -1,0 +1,12 @@
+{
+  "_comment": "Extra domains owned by the same company as the tool's own site (tool.url). A price source must be on the tool's own registrable domain, on one of these, or be the tool's own GitHub repo (openSource.repo). Add only domains the vendor itself operates.",
+  "chatgpt": ["openai.com"],
+  "chatgpt-images": ["openai.com", "chatgpt.com"],
+  "codex": ["openai.com", "chatgpt.com"],
+  "claude": ["claude.com", "anthropic.com"],
+  "claude-code": ["claude.com", "claude.ai"],
+  "gemini": ["gemini.google", "google.com"],
+  "grok": ["x.ai", "x.com"],
+  "intercom-fin": ["intercom.com"],
+  "windsurf": ["devin.ai", "cognition.ai", "windsurf.com"]
+}

@@ -1,9 +1,10 @@
+import { BRAND } from "@/lib/data";
 import { NextResponse } from "next/server";
 
 export const runtime = "nodejs";
 const API = "https://api.resend.com";
 const DOMAIN_ID = "e88a54ac-edc6-4717-9908-83ca187bbb6a";
-const FROM = "BetterAlt <hello@findbetteralt.com>";
+const FROM = `${BRAND} <hello@findbetteralt.com>`;
 const REPLY_TO = "hello@findbetteralt.com";
 const EMAIL_RE = /^[^\s@]{1,64}@[^\s@]{1,255}\.[a-z]{2,}$/i;
 
@@ -42,7 +43,7 @@ async function resend(key: string, path: string, body?: object, method = "POST")
   return { ok: r.ok, status: r.status, j };
 }
 
-const text = `Thanks for subscribing to BetterAlt.
+const text = `Thanks for subscribing to ${BRAND}.
 
 Once a week we'll send you AI tool price changes and new alternatives, each with a link to the vendor's own pricing page.
 
@@ -52,12 +53,12 @@ While you wait for the first one:
 
 Didn't sign up, or changed your mind? Just reply "unsubscribe" and we'll remove you.
 
-BetterAlt · https://findbetteralt.com · Privacy: https://findbetteralt.com/privacy`;
+${BRAND} · https://findbetteralt.com · Privacy: https://findbetteralt.com/privacy`;
 const html = `<div style="font-family:system-ui,sans-serif;font-size:15px;line-height:1.5;color:#0f172a;max-width:560px">
 <p><strong>Thanks for subscribing to Better<span style="color:#4f46e5">Alt</span>.</strong></p>
 <p>Once a week we'll send you <strong>AI tool price changes and new alternatives</strong>, each with a link to the vendor's own pricing page.</p>
 <p>While you wait for the first one:<br>• <a href="https://findbetteralt.com/changes">Price changes log</a><br>• <a href="https://findbetteralt.com/open-source">Open-source AI tools</a></p>
-<p style="color:#64748b;font-size:13px">Didn't sign up, or changed your mind? Just reply "unsubscribe" and we'll remove you.<br>BetterAlt · <a href="https://findbetteralt.com">findbetteralt.com</a> · <a href="https://findbetteralt.com/privacy">Privacy</a></p></div>`;
+<p style="color:#64748b;font-size:13px">Didn't sign up, or changed your mind? Just reply "unsubscribe" and we'll remove you.<br>${BRAND} · <a href="https://findbetteralt.com">findbetteralt.com</a> · <a href="https://findbetteralt.com/privacy">Privacy</a></p></div>`;
 
 export async function POST(req: Request) {
   const key = process.env.RESEND_API_KEY, segment = process.env.RESEND_SEGMENT_ID;
@@ -101,7 +102,7 @@ export async function POST(req: Request) {
   // 2. Welcome email, only once and only from a verified domain
   if (isNew) {
     if (await domainVerified(key)) {
-      const s = await resend(key, "/emails", { from: FROM, to: [email], reply_to: REPLY_TO, subject: "You're subscribed to BetterAlt", text, html, tags: [{ name: "type", value: "welcome" }] });
+      const s = await resend(key, "/emails", { from: FROM, to: [email], reply_to: REPLY_TO, subject: `You're subscribed to ${BRAND}`, text, html, tags: [{ name: "type", value: "welcome" }] });
       if (!s.ok) console.error("subscribe: welcome email failed", s.status, JSON.stringify(s.j));
       else console.log("subscribe: welcome sent", s.j.id);
     } else console.warn("subscribe: domain not verified yet, welcome email skipped");

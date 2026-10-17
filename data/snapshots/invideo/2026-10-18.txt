@@ -1,0 +1,458 @@
+#SNAPSHOT {"url":"https://invideo.io/pricing","finalUrl":"https://invideo.io/pricing/","fetchedAt":"2026-10-17T20:52:49.377Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"c01e74db86b0723519bc2a6a3779a6656a6bef9633e3979f169b0205f19c4795"}
+Pricing | invideo AI 
+ Special offer
+ Nano Banana 2.1, Ideogram 4.5 & more image models
+ unlimited for 30 days
+ Unlimited images
+ for 30 days
+ Get Unlimited
+ Get an additional discount
+ on premium plans after signing up
+ Extra discount
+ after you sign up
+ Get discount
+ Product 
+ Models 
+ Enterprise
+ Pricing
+ Resources 
+ Community
+ Login
+ Sign up
+ Nano Banana 2.1, Ideogram 4.5
+ & many more image models
+ Unlimited for 30 days
+ Applicable on all annual plans.
+ Get 50% discount
+ Pricing
+ Monthly
+ Annual
+ 50% off
+ Not sure which plan?
+ Team plans
+ Business plans
+ Basic
+ 50% off
+ For first-time AI creators
+ 190 credits/mo.
+ =
+ 190 credits per seat/mo
+ =
+ 76 Nano Banana Pro generations
+ ~
+ 7 Seedance 2 fast videos
+ 190 credits per seat/mo
+ $9 
+ $4
+ per seat/mo, billed annually
+ Get Basic
+ Save $54 per seat compared to monthly
+ −
+ 1 seat
+ +
+ No guest seats on Basic
+ Invideo editor
+ ✓
+ Included: 
+ Multiplayer editing
+ Up to 5 seats
+ ✕
+ Limited access: 
+ Access to frontier agents
+ Lite only
+ ✓
+ Included: 
+ Timeline editor
+ Full access
+ ✓
+ Included: 
+ Professional tools
+ Color, Audio, 3D
+ No access to Seedance 2.5
+ Not included: 
+ Seedance 2.5
+ No access
+ Not included: 
+ Seedance 2.0
+ No access
+ ✓
+ Included: 
+ Access to Agent Two Lite only
+ ✓
+ Included: 
+ Access to selected models and features
+ Available models and features depend on the selected plan.
+ ✓
+ Included: 
+ Access to Seedance 2.0 Fast & 2.0 Mini
+ ✓
+ Included: 
+ 45 Premium stock footage
+ ✓
+ Included: 
+ 100 GB storage
+ ✕
+ Not included: 
+ Early access to advanced AI features
+ ✕
+ Not included: 
+ Lowest cost per credit
+ Pro
+ 50% off
+ For everyday AI creation
+ 1,000 credits/mo.
+ =
+ 1,000 credits per seat/mo
+ =
+ 400 Nano Banana Pro generations
+ ~
+ 26 Seedance 2 videos
+ 1,000
+ 2,000
+ $30 
+ $15
+ per seat/mo, billed annually
+ Get Pro
+ Save $180 per seat compared to monthly
+ −
+ 1 seat
+ +
+ + 10 guest seats , 190 credits each
+ FREE
+ Invideo editor
+ ✓
+ Included: 
+ Multiplayer editing
+ Up to 10 seats
+ ✓
+ Included: 
+ Access to frontier agents
+ Lite, Pro, Ultra
+ ✓
+ Included: 
+ Timeline editor
+ Full access
+ ✓
+ Included: 
+ Professional tools
+ Color, Audio, 3D
+ Access to Seedance models
+ Included: 
+ Seedance 2.5
+ 1080p
+ Full access
+ Included: 
+ Seedance 2.0
+ 4K
+ Full access
+ ✓
+ Included: 
+ Access to Agent Two Lite, Pro & Ultra
+ ✓
+ Included: 
+ Access to all models and features
+ Available models and features depend on the selected plan.
+ ✓
+ Included: 
+ Access to all Seedance models
+ ✓
+ Included: 
+ 150 Premium stock footage
+ ✓
+ Included: 
+ 300 GB storage
+ ✓
+ Included: 
+ Early access to advanced AI features
+ ✕
+ Not included: 
+ Lowest cost per credit
+ Ultra
+ 50% off
+ Most popular
+ For ambitious AI projects
+ 3,000 credits/mo.
+ =
+ 3,000 credits per seat/mo
+ =
+ 1,200 Nano Banana Pro generations
+ ~
+ 78 Seedance 2 videos
+ 3,000
+ 6,000
+ 9,000
+ $80 
+ $40
+ per seat/mo, billed annually
+ Get Ultra
+ Save $472 per seat compared to monthly
+ −
+ 1 seat
+ +
+ + 20 guest seats , 190 credits each
+ FREE
+ Invideo editor
+ ✓
+ Included: 
+ Multiplayer editing
+ Up to 20 seats
+ ✓
+ Included: 
+ Access to frontier agents
+ Lite, Pro, Ultra
+ ✓
+ Included: 
+ Timeline editor
+ Full access
+ ✓
+ Included: 
+ Professional tools
+ Color, Audio, 3D
+ Access to Seedance models
+ Included: 
+ Seedance 2.5
+ 1080p
+ Full access
+ Included: 
+ Seedance 2.0
+ 4K
+ Full access
+ ✓
+ Included: 
+ Access to Agent Two Lite, Pro & Ultra
+ ✓
+ Included: 
+ Access to all models and features
+ Available models and features depend on the selected plan.
+ ✓
+ Included: 
+ Access to all Seedance models
+ ✓
+ Included: 
+ 180 Premium stock footage
+ ✓
+ Included: 
+ 800 GB storage
+ ✓
+ Included: 
+ Early access to advanced AI features
+ ✓
+ Included: 
+ Lowest cost per credit
+ 60% CHEAPER
+ See all pricing & credits FAQs 
+ Trusted by teams at
+ Frequently asked questions
+ Everything about credits, seats and billing
+ What is a credit, and how is it charged?
+ Credits work like currency on our platform and are used for video creation, generative models and across other features, not for downloading content. Generative models are priced differently. All models are available at their original API pricing. You can use your credits however you like across the platform. We reserve the right to update credit costs at any time, without prior notice.
+ Heads up: Unused credits don't roll over to the next month.
+ Am I charged for every generation?
+ What happens if I upgrade, downgrade, or cancel my subscription?
+ What should I do if I run out of credits? Do you offer add-ons?
+ When do my credits reset, and do unused credits roll over?
+ What is counted as a seat?
+ What payments do you support?
+ Do you offer Enterprise plans? / How can I contact the sales team?
+ invideo AI
+ Video Tools
+ AI Video Generator
+ AI Avatar Generator
+ Text to Video
+ Image to Video
+ UGC Ads
+ AI Animation Generator
+ AI Ad Generator
+ Video Models
+ Google Veo 3.1
+ Sora 2
+ Kling AI
+ Wan AI
+ Pixverse AI
+ Hailuo AI
+ Seedance
+ View all
+ Image Tools
+ AI Image Generator
+ AI Art Generator
+ Image to Image
+ AI Thumbnail Maker
+ AI Image Enhancer
+ Image Models
+ Nano Banana Pro
+ Ideogram
+ Seedream
+ Flux Kontext
+ Qwen
+ Imagen AI
+ Reve AI
+ View all
+ Audio & Music Tools
+ AI Voice Generator
+ AI Music Generator
+ Text to Speech
+ Voice Cloning
+ Audio Models
+ Eleven Labs
+ Minimax
+ View all
+ Quick AI Tools
+ Face Swap
+ Face Swap Video
+ invideo Studio
+ Online Video Editor
+ Picture Video Maker
+ Instagram Video Editor
+ Online Video Maker
+ Video Collage Maker
+ Video Trimmer
+ Video Compressor
+ MP4 Compressor
+ Help
+ Email Us
+ Tutorials
+ Blogs
+ Youtube Channel
+ Instagram Inspiration
+ Community
+ Affiliate program
+ invideo AI Pricing
+ Get the app
+ Privacy policy
+ ·
+ Terms & conditions
+ ·
+ Child safety
+ © 2026 invideo
+ Not sure? Work it out
+ Tell us about your month and we will point you at the plan that covers it
+ 1
+ What are you here to make?
+ Pick everything that applies
+Timeline editing 
+Filmmaking 
+Marketing 
+Personal use 
+ 2
+ How much a month?
+ ≈
+30 credits each · per Seedance 2.0 Fast video
+ =
+2.5 credits each · per Nano Banana Pro image
+ 8 Seedance 2.0 Fast videos · 240 credits
+340+
+ 60 Nano Banana Pro images · 150 credits
+2000+
+ 40 Hours of timeline editing
+160+
+ 3
+ How many seats do you need?
+ Everyone who will create or edit — credits are shared per seat
+ −
+ 3 seats
+ +
+ 4
+ Features and capabilities
+ Anything else you will need
+ +
+Add features 2
+ Timeline editing and multiplayer
+ from Basic
+ Your own footage, 4K export
+ from Basic
+ Seedance 2.5
+ from Pro
+ Seedance 2.0 at 4K
+ from Pro
+ Early access to new models
+ from Pro
+ Lowest cost per credit
+ from Ultra
+ SOC 2 and single sign-on
+ from Enterprise
+ Indemnification
+ from Enterprise
+ Basic Timeline editing and multiplayer ×
+ Basic Your own footage, 4K export ×
+ We recommend Basic 
+ Based on your volume of ~390 credits a month, Basic is the right fit. Calculated with regular quality and annual billing.
+ See why 
+ Basic
+ 50% off
+ For first-time AI creators
+ 570 credits/mo.
+ =
+ 190 credits per seat/mo
+ =
+ 228 Nano Banana Pro generations
+ ~
+ 21 Seedance 2 fast videos
+ 190 credits per seat/mo
+ $9 
+ $4
+ per seat/mo, billed annually
+ $162 up front for 3 seats
+ Get Basic
+ Save $162 compared to monthly
+ −
+ 3 seats
+ +
+ Covers your 390 credits a month.
+ The full timeline, multiplayer editing, colour, audio and 3D are on every plan, including Basic at $9 a seat. 40 hours of editing costs nothing. 
+ Regular quality uses Seedance 2.0 Fast
+Premium quality uses Seedance 2.5
+ Premium quality
+ Monthly
+ Annual
+ Compare features
+ See in detail what each plan gives you
+ Annual
+ Basic
+ $5
+ per seat/mo, billed annually
+ Get Basic
+ Pro
+ $15
+ per seat/mo, billed annually
+ Get Pro
+ Ultra Most popular
+ $40
+ per seat/mo, billed annually
+ Get Ultra
+ Video
+ Seedance 2.5 720p
+ ~56 credits/5s
+ ✕
+ 17 videos
+ 53 videos
+ Seedance 2.5 1080p
+ ~96 credits/5s
+ ✕
+ 10 videos
+ 31 videos
+ Seedance 2.5 Draft
+ ~24.5 credits/5s
+ ✕
+ 40 videos
+ 122 videos
+ View more
+ Image
+ Nano Banana Pro
+ ~2.5 credits/image
+ 76 images
+ 400 images
+ 1,200 images
+ Nano Banana Pro 4K
+ ~4 credits/image
+ 47 images
+ 250 images
+ 750 images
+ GPT Image 2.5 Sunburst
+ ~0.4 credits/image
+ 475 images
+ 2,500 images
+ 7,500 images
+ View more
+ Invideo editor
+ Agents & models
+ Compare features

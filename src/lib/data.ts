@@ -8,8 +8,23 @@ export const SITE = "https://findbetteralt.com";
 export const CHECKED = "18 Oct 2026";
 const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 export const fmtDate = (iso: string) => { const [y, m, d] = iso.split("-").map(Number); return `${d} ${MON[m - 1]} ${y}`; };
-export const tools = db.tools as unknown as Tool[];
+import gate from "../data/gate.json";
+// The publishing gate (scripts/validate-data.ts, run in prebuild) decides what counts as verified at build time:
+// checked date = date of the newest snapshot that matches; snapshot older than 14 days or a dead source link → not yet verified.
+type GateEntry = { verified: boolean; reason?: "stale" | "dead-link" | "never-verified"; checkedAt?: string; inCheckedAt?: string; snapshot?: string };
+export const gateInfo = gate as unknown as { generatedAt: string; maxAgeDays: number; tools: Record<string, GateEntry>; dead: { url: string; slug: string; kind: string }[] };
+export const deadUrls = new Set(gateInfo.dead.map((d) => d.url));
+export const tools = (db.tools as unknown as Tool[]).map((t) => {
+  const g = gateInfo.tools[t.slug]; if (!g) return { ...t, pricing: { ...t.pricing, verified: false, unverifiedReason: "never-verified" as const } };
+  const india = t.pricing.india && g.inCheckedAt && !deadUrls.has(t.pricing.india.sourceUrl) ? { ...t.pricing.india, lastChecked: g.inCheckedAt } : undefined;
+  return { ...t, pricing: { ...t.pricing, verified: g.verified, unverifiedReason: g.verified ? undefined : g.reason, lastChecked: g.checkedAt ?? t.pricing.lastChecked, india,
+    extraSources: t.pricing.extraSources?.filter((u) => !deadUrls.has(u)) } };
+});
 export const site = siteJson as SiteConfig;
+/** The brand is ONE setting (site.json "brand"): wordmark, titles, og images, schema, footer, llms.txt, /sponsor, /submit. */
+export const BRAND = site.brand ?? "FindBetterAlt";
+export const BRAND_HL = (site as SiteConfig & { brandHighlight?: string }).brandHighlight ?? "Alt";
+export const BRAND_LEAD = BRAND.endsWith(BRAND_HL) ? BRAND.slice(0, -BRAND_HL.length) : BRAND;
 export const people = ((db as unknown as { people?: Person[] }).people ?? []);
 export const getPerson = (slug?: string) => people.find((p) => p.slug === slug);
 // Alternatives may be plain slugs or { slug, why, bestFor } (Hermione's schema). Normalise once: `alternatives` = slugs, `meta` = per-slug info.
@@ -22,6 +37,9 @@ export const anchors: Anchor[] = (db.anchors as unknown as RawAnchor[]).map((a) 
 });
 export const saas = db.saas as unknown as SchemaSaas[];
 export const changes = ((db as unknown as { changes?: PriceChange[] }).changes ?? []);
+/** Vendor price moves only. Corrections to our own data are never presented as vendor price changes. */
+export const vendorChanges = changes.filter((c) => c.type === "vendor_change");
+export const corrections = changes.filter((c) => c.type === "correction");
 export const stacks = db.stacks as unknown as SchemaStack[];
 const bySlug = new Map(tools.map((t) => [t.slug, t]));
 export const getTool = (s: string) => bySlug.get(s);
@@ -29,7 +47,7 @@ export const getAnchor = (s: string) => anchors.find((a) => a.slug === s);
 export const altsOf = (s: string) => (getAnchor(s)?.alternatives ?? []).map((x) => bySlug.get(x)!).filter(Boolean);
 
 export const isFree = (t: Tool) => t.tags.includes("free") || t.tags.includes("freemium") || t.pricing.hasFreePlan === true;
-export const isOss = (t: Tool) => t.tags.includes("open source");
+export const isOss = (t: Tool) => t.tags.includes("open source") && t.openSource?.licenseType === "open-source";
 export const isSelf = (t: Tool) => t.tags.includes("self-hostable");
 
 export const FILTERS = {

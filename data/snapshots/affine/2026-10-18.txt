@@ -1,0 +1,410 @@
+#SNAPSHOT {"url":"https://affine.pro/pricing","finalUrl":"https://affine.pro/pricing","fetchedAt":"2026-10-17T20:51:38.260Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"b66c09dd4169ce001a72848d921c220fb97bbf72b6d8d1fc7bedb9da0ca6232a"}
+AFFiNE Pricing 2026: Free, Pro, Team Plans from $0 
+ əˈfʌɪn | a-fine
+ AFFiNE AI
+ Create Smarter with AI
+ Docs
+ Powerful, Simple for All
+ Edgeless
+ Collaborate Without Limits
+ Teamhub
+ Unified Team Document Space
+ Enterprise
+ Private cloud and self-hosted deployments
+ Book a Demo
+ Discuss deployment, security, licensing and pilots
+ Docs 
+ Templates 
+ About Us 
+ Blog 
+ Timers 
+ Community
+ Discord
+ Get tips and support from 7k+ users
+ Twitter
+ Stay tuned for the latest news
+ Community
+ Become an ambassador and track events
+ English
+ 日本語
+ ja-JP
+ 한국어
+ ko-KR
+ 繁體中文
+ zh-TW
+ Deutsch
+ de-DE
+ Español
+ es-ES
+ Français
+ fr-FR
+ Português (Brasil)
+ pt-BR
+ Italiano
+ it-IT
+ English
+ 日本語
+ ja-JP
+ 한국어
+ ko-KR
+ 繁體中文
+ zh-TW
+ Deutsch
+ de-DE
+ Español
+ es-ES
+ Français
+ fr-FR
+ Português (Brasil)
+ pt-BR
+ Italiano
+ it-IT
+ English
+ 日本語
+ ja-JP
+ 한국어
+ ko-KR
+ 繁體中文
+ zh-TW
+ Deutsch
+ de-DE
+ Español
+ es-ES
+ Français
+ fr-FR
+ Português (Brasil)
+ pt-BR
+ Italiano
+ it-IT
+ Product 
+ Team 
+ Download 
+ Resources 
+ Pricing 
+ English
+ Book a Demo 
+ Get Started 
+ Explore on Desktop
+ 70K+
+ 70K+
+ Product 
+ AFFiNE AI
+ Create Smarter with AI
+ Docs
+ Powerful, Simple for All
+ Edgeless
+ Collaborate Without Limits
+ Team 
+ Teamhub
+ Unified Team Document Space
+ Enterprise
+ Private cloud and self-hosted deployments
+ Book a Demo
+ Discuss deployment, security, licensing and pilots
+ Resource 
+ Docs 
+ Templates
+ About Us
+ Blog
+ Community
+ Discord
+ Get tips and support from 7k+ users
+ Twitter
+ Stay tuned for the latest news
+ Community
+ Become an ambassador and track events
+ Pricing
+ English
+ Book a Demo 
+ Get Started 
+ Pricing for the all-in-one workspace
+ Free for personal use, scale to teams, or self-host with a source-available backend. MIT editor, local-first by design.
+ See plans
+ Self-host AFFiNE
+ 200K+
+ Pro users
+ 70K+
+ GitHub stars
+ MIT
+ Open-source editor
+ Self Hosted
+ Full data control
+ AFFiNE AI add-ons
+ Add AI to your docs, whiteboards, and knowledge workflows without leaving AFFiNE.
+ Turn all your ideas into reality
+ AFFiNE AI
+ A true multimodal AI copilot.
+ $8.9 / month
+ billed annually
+ Learn about AFFiNE AI 
+Write with you
+ Create quality content from sentences to articles on topics you need
+ Rewrite like a professional
+ Adjust tone and fix spelling or grammar
+Draw with you
+ Visualize your mind, magically
+ Turn your outline into beautiful, engaging presentations (Beta)
+ Summarize your content into structured mind maps
+Plan with you
+ Remember and organize your knowledge
+ Auto-sort and auto-tag your notes (Coming soon)
+ Privacy is protected
+ To Shape, Not to Adapt
+ Edit with AI
+ Translate
+ Improve writing
+ Fix spelling and grammar
+ Continue with AI
+ Find action items
+ AFFiNE AI
+ Turn this outline into a mind map
+ Answer
+ AFFiNE AI turns scattered notes into a clear draft, visual board, and next steps.
+ Planning note
+ Turn the idea into tasks, references, and a concise presentation path.
+ Answer
+ Turn the idea into tasks, references, and a concise presentation path.
+ Insert
+ New block
+ AFFiNE.Pro
+ Self Hosted
+ We host, no technical setup required.
+ AFFiNE.Pro 
+ Billed Annually  Saving 15%
+ Local FOSS + Cloud Basic
+ Code available & Self hosted.
+ Free
+ Hosted by yourself:
+ Unlimited Local Workspaces
+ Unlimited use and Customization
+ Unlimited Doc and Edgeless editing
+ Included in Basic:
+ 100 GB of Cloud Storage
+ 100 MB of Maximum file size
+ Up to 10 members per Workspace
+ 30-days Cloud Time Machine file version history
+ Community Support
+ Real-time Syncing & Collaboration for more people
+ Learn more about self-hosting 
+ Team
+ Best for scalable teams.
+ $10
+ per seat/month
+ Both in Teams & Enterprise:
+ Everything in Self Hosted FOSS
+ 100 GB initial storage + 20 GB per seat
+ 500 MB of maximum file size
+ Add seats as your team grows (billed per seat)
+ Multiple admin roles
+ Priority customer support
+ Upgrade 
+ Local FOSS + Cloud Basic
+ Local editor with MIT license.
+ Free
+ Include in FOSS:
+ Unlimited Local Workspaces
+ Unlimited use and Customization
+ Unlimited Doc and Edgeless editing
+ Include in Basic:
+ 10 GB of Cloud Storage
+ 10 MB of Maximum file size
+ Up to 3 members per Workspace
+ 7-days Cloud Time Machine file version history
+ Up to 3 login devices
+ Get Started 
+ Pro
+ For family and small teams.
+ $6.75
+ per month
+ Include in Pro:
+ Everything in AFFiNE FOSS & Basic
+ 100 GB of Cloud Storage
+ 100 MB of Maximum file size
+ Up to 10 members per Workspace
+ 30-days Cloud Time Machine file version history
+ Community Support
+ Real-time Syncing & Collaboration for more people
+ Upgrade 
+ Team
+ Best for scalable teams.
+ $10
+ per seat/month
+ Include in Team Workspace:
+ Everything in AFFiNE Pro
+ 100 GB initial storage + 20 GB per seat
+ 500 MB of maximum file size
+ Add seats as your team grows (billed per seat)
+ Multiple admin roles
+ Priority customer support
+ Upgrade 
+ Believer Plan
+ $499.99
+ Purchase 
+ Everything in AFFiNE Pro
+ Life-time Personal usage
+ 1TB Cloud Storage
+ Enterprise and partnerships
+ Custom contracts for self-hosted deployments and commercial source-code licensing.
+ Enterprise
+ Custom pricing
+ Best for 100+ seats, regulated industries, custom deployment.
+ Everything in Team
+ Dedicated point of contact
+ Custom contract & procurement
+ Source code available for security review
+ Self-host + cloud hybrid options
+ SLA on request
+ Book a Demo 
+ Email sales
+ Learn more about AFFiNE Enterprise →
+ Code License
+ Custom pricing
+ Best for OEM, whitelabel, and embedding AFFiNE in your own product.
+ Commercial source-code license
+ Whitelabel and rebrand rights
+ OEM and SDK embedding support
+ Dedicated solutions engineer
+ License audit transparency
+ Co-development on roadmap
+ Book a Demo 
+ Email partnerships
+ Frequently asked questions
+ What is AFFiNE?
+ AFFiNE is the open-source, local-first knowledge workspace that combines documents, whiteboards, and AI in one canvas. AFFiNE Cloud is hosted by our team; the editor and most of the codebase are MIT-licensed, while the self-hosted backend is source-available under the AFFiNE Enterprise Edition license. (Not to be confused with affine geometry in mathematics.)
+ Is AFFiNE free?
+ Yes. AFFiNE Cloud Free includes unlimited local workspaces, 10 GB of Cloud Storage, real-time collaboration with up to 3 members per workspace, and 7 days of version history. There is no time limit on the Free plan. For self-hosting, the editor and most of the codebase are MIT-licensed, while the backend is source-available under the AFFiNE Enterprise Edition license: without a commercial agreement, you may review the backend source code only. Modifying, compiling, or redistributing the EE-licensed backend code requires commercial authorization from AFFiNE.
+ What is the difference between AFFiNE Cloud and Self-Hosted?
+ AFFiNE Cloud runs on our infrastructure with no setup. Storage, seats, and version-history limits depend on your plan (Free, Pro, or Team). Self-Hosted
+ runs the full stack on your own servers; the editor is MIT, the backend uses the AFFiNE Enterprise Edition license. You control all data, and limits are bound by your own infrastructure. The Self-Hosted Team tier ($10/seat/month) adds priority support, multi-admin roles, and scaling for 10+ seats.
+ Can I use AFFiNE as a free Notion alternative?
+ Yes. AFFiNE's editor and most of the codebase are open-source under MIT, local-first by design, and free for personal use. As an open-source Notion alternative
+, your workspace data lives on your device with optional cloud sync. The EE-licensed backend source is available for review only without a commercial agreement; modifying, compiling, or redistributing it requires commercial authorization from AFFiNE.
+ What is included in the AFFiNE Free plan?
+ Local side: unlimited local workspaces, unlimited customization, unlimited Doc and Edgeless editing. Cloud Basic side: 10 GB of Cloud Storage, 10 MB maximum file size, up to 3 members per Workspace, 7 days of Cloud Time Machine version history, and up to 3 login devices.
+ What is the AFFiNE Believer Plan?
+ The Believer Plan is a one-time purchase of $499.99 that gives you lifetime personal usage of AFFiNE Pro, including everything in Pro plus 1 TB of Cloud Storage. It is a single payment with no subscription, designed for early supporters who want to back the project long-term.
+ Can I self-host AFFiNE for free?
+ AFFiNE uses a dual-license model: the editor ( BlockSuite
+), desktop app, and most of the codebase are MIT-licensed, while the backend server ( packages/backend ) uses the AFFiNE Enterprise Edition (EE) license. Without a commercial agreement, you may review the backend source code only. Modifying, compiling, or redistributing the EE-licensed backend code requires commercial authorization from AFFiNE.
+ What license is AFFiNE on GitHub?
+ AFFiNE uses a dual-license model. The editor (BlockSuite), desktop app, and most of the codebase are MIT-licensed. The backend server ( packages/backend ) uses the AFFiNE Enterprise Edition (EE) license. Without a commercial agreement, you may review the backend source code only. Modifying, compiling, or redistributing the EE-licensed backend code requires commercial authorization from AFFiNE. Full source at github.com/toeverything/AFFiNE
+.
+ Can AFFiNE replace Confluence for self-hosted team knowledge bases?
+ Yes. For teams moving off Confluence's cloud per-seat cost, AFFiNE's Self-Hosted Team tier ($10/seat/month, 10+ seats) is built as a team knowledge base
+ that runs the full stack on your own infrastructure with priority support, multi-admin roles, unlimited team members, and full data residency. Unlike Confluence's wiki-only model, AFFiNE combines docs, whiteboards, and AI in one canvas. It works as a flexible corporate wiki
+ with local-first data ownership and an open-source editor under MIT.
+ Why upgrade to AFFiNE Cloud?
+ Cloud Cooperation
+ Real-time collaborative document and whiteboard editing.
+ Cloud Time Machine
+ Access and restore any document version, anywhere, on any device.
+ 8:30 AM
+ AFFiNE 
+ There are lots of apps out there, so why chose AFFiNE?
+ 9:00 AM
+ AFFiNE - The all-in-one knowledge OS for students, scholars, and creative professionals
+ There are lots of apps out there, so why chose AFFiNE?
+ AFFiNE is feature-rich
+ 9:30 AM
+ AFFiNE - The future of note-taking
+ There are lots of apps out there, so why chose AFFiNE?
+ AFFiNE is feature-rich - offering a wide-range of blocks that empower your docs
+ AFFiNE is privacy focused - with a local-first approach, keep control of your data
+ AFFiNE is open-source - you can check us out on
+ 10:00 AM
+ AFFiNE - Take your notes to the next level with our powerful note-taking, mind mapping, and knowledge base features.
+ There are lots of apps out there, so why chose AFFiNE?
+ AFFiNE is feature-rich - offering a wide-range of blocks that empower your docs
+ AFFiNE is privacy focused - with a local-first approach, keep control of your data
+ AFFiNE is open-source - you can check us out on
+ Cloud Drive
+ Your files, always with you.
+ Breath of the Wild: Redefining Game Design
+ Introduction
+ At GDC 2017, Hidemaro Fujibayashi, Satoru Takizawa, and Takuhiro Dohta from Nintendo shared their insights on The Legend of Zelda: Breath of the Wild's groundbreaking game mechanics.
+ One standout feature is the "multiplicative gameplay," which empowers players to interact with the game world in diverse ways, leading to surprising outcomes.
+ More Is Different
+ The reductionist hypothesis may still be a topic for controversy among philosophers, but among the great majority of active scientists I think it is accepted without questions.
+ The workings of our minds and bodies, and of all the animate or inanimate matter of which we have any detailed knowledge, are assumed to be controlled by the same set of fundamental laws, which except under certain extreme conditions we feel we know pretty well.
+ HOWTO: Be more productive
+ “With all the time you spend watching TV,” he tells me, “you could have written a novel by now.”
+ It’s hard to disagree with the sentiment — writing a novel is undoubtedly a better use of time than watching TV — but what about the hidden assumption?
+ Such comments imply that time is “fungible” — that time spent watching TV can just as easily be spent writing a novel. And sadly, that’s just not the case.
+ Learning with retrieval practice
+ Are there any specific techniques to make the process of learning more effective?
+ Students often re-read, underline, or highlight materials, thinking that it will help them learn better. But, the best method for really turning information into long-term memory is to use what is called ‘retrieval practice’.
+ It simply means trying to retrieve the information from your own brain, instead of looking at a sheet of paper.
+ This is Local-first software
+ You own your data, in spite of the cloud
+ Cloud apps like Google Docs and Trello are popular because they enable real-time collaboration with colleagues, and they make it easy for us to access our work from all of our devices.
+ However, by centralizing data storage on servers, cloud apps also take away ownership and agency from users. If a service shuts down, the software stops functioning, and data created with that software is lost.
+ Cloud Notification Center
+ Get notified, anywhere.
+ Hwang invite you join the doc.
+ Yesterday
+ Doc: Pals’ works - Fed 2024
+ QPomelo mentioned You.
+ Yesterday
+ Doc: AFFiNE - Take your notes to the next level with our powerful note-taking, mind mapping, and knowledge base features.
+ Tsi-heng Tien edited the doc.
+ Yesterday
+ Doc: Personal Home
+ Your Notes, Everywhere
+ One experience, any device.
+ To Shape, Not to Adapt.
+ Available natively on macOS, Windows, Linux, iOS, Android, plus the browser and self-hosted Docker.
+ See all download options →
+ Stay in the loop on open-source progress.
+ Monthly product updates and BlockSuite release notes. No spam. Unsubscribe anytime.
+ Email address Subscribe
+ By subscribing, you agree to our Privacy Policy
+. We email at most once a month.
+ Company
+ Book a Demo
+ Terms
+ Privacy
+ Cookie preferences
+ About Us
+ Editorial policy
+ License
+ Download
+ macOS
+ Windows
+ Linux
+ iOS
+ Android
+ Web app
+ Web Clipper
+ Self-hosted
+ Resources
+ Docs
+ MCP Server
+ Blog
+ Templates
+ What's new
+ Community
+ Timers
+ Compare
+ Notion vs Obsidian
+ GoodNotes vs Notability
+ Confluence vs SharePoint
+ ClickUp vs Asana
+ All comparisons →
+ Open Source
+ AFFiNE
+ BlockSuite
+ OctoBase
+ Community
+ X (Twitter)
+ GitHub
+ Discord
+ YouTube
+ Reddit
+ LinkedIn
+ ©2026 Toeverything
+ ·
+ contact [at] toeverything.info
+ English
+ ·
+ MIT (most code) · AFFiNE EE (backend) →
+ AFFiNE

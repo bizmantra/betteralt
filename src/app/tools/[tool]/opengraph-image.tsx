@@ -1,6 +1,7 @@
+import { BRAND } from "@/lib/data";
 import { ogCard, ogSize } from "@/lib/og";
 import { tools, getTool, fmtDate } from "@/lib/data";
-export const size = ogSize; export const contentType = "image/png"; export const alt = "Tool pricing on BetterAlt";
+export const size = ogSize; export const contentType = "image/png"; export const alt = `Tool pricing on ${BRAND}`;
 export const generateStaticParams = () => tools.map((t) => ({ tool: t.slug }));
 export default async function Image({ params }: { params: Promise<{ tool: string }> }) {
   const { tool } = await params; const t = getTool(tool)!; const p = t.pricing;

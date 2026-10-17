@@ -1,3 +1,4 @@
+import { BRAND } from "@/lib/data";
 import type { Metadata } from "next";
 import db from "@/data/db.json";
 import { fmtDate } from "@/lib/data";
@@ -6,7 +7,7 @@ import { Newsletter } from "@/components/ui";
 // Archive of sent issues. Issues are added to db.newsletterIssues only after they are actually sent.
 type Issue = { slug: string; sentAt: string; subject: string; summary?: string; url?: string };
 const issues = (((db as unknown as { newsletterIssues?: Issue[] }).newsletterIssues) ?? []).sort((a, b) => b.sentAt.localeCompare(a.sentAt));
-export const metadata: Metadata = buildMetadata({ title: "Newsletter archive", description: "Past issues of the BetterAlt weekly email: AI tool price changes and new alternatives, each with its source.", path: "/newsletter" });
+export const metadata: Metadata = buildMetadata({ title: "Newsletter archive", description: `Past issues of the ${BRAND} weekly email: AI tool price changes and new alternatives, each with its source.`, path: "/newsletter" });
 export default function Page() {
   return <div className="max-w-3xl space-y-6" data-page-type="newsletter"><Crumbs items={[{ name: "Newsletter archive" }]} />
     <h1 className="font-serif text-3xl font-semibold">Newsletter archive</h1>

@@ -1,5 +1,5 @@
 /**
- * BetterAlt content schema additions (draft v1, 18 Oct 2026 IST, Hermione / content strategy)
+ * FindBetterAlt content schema additions (draft v1, 18 Oct 2026 IST, Hermione / content strategy)
  *
  * Purpose: one agreed set of field names and types for the editorial content we plan to add,
  * so that (a) Harry can add them to src/lib/data.ts + src/data/db.json, (b) Neville's template
@@ -36,12 +36,28 @@ type ExistingTool = {
   pricing: ExistingPricing;
   status?: "active" | "renamed" | "acquired" | "shut-down"; formerNames?: string[]; statusNote?: string; statusSources?: string[];
   firstPublished?: ISODate; contentUpdatedAt?: ISODate;
-  openSource: { repo: string; stars: number; license: string; archived: boolean; lastPush: string; setupDifficulty: number | null } | null;
+  openSource: {
+    repo: string; stars: number;
+    /** SPDX id/expression for OSI licences (e.g. "MIT", "AGPL-3.0 core"), or the licence's own name otherwise. */
+    license: string;
+    /** Licence taxonomy (gate-enforced): "open-source" = OSI-approved licence only; otherwise source-available or fair-code.
+     *  Only "open-source" tools may carry the "open source" tag, appear on /open-source or win "Best open source". */
+    licenseType: "open-source" | "source-available" | "fair-code";
+    /** One line on what the licence covers, e.g. "MIT core; packages/ee under a commercial licence". */
+    licenseNote?: string;
+    archived: boolean; lastPush: string; setupDifficulty: number | null;
+  } | null;
 };
 type ExistingAnchor = { slug: Slug; alternatives: Slug[]; firstPublished?: ISODate; contentUpdatedAt?: ISODate };
 type ExistingSaas = { slug: Slug; name: string; toolSlug: Slug; alternatives: Slug[]; redirectTo?: string; firstPublished?: ISODate; contentUpdatedAt?: ISODate };
 type ExistingStack = { slug: Slug; title: string; intro: string; items: { tool: Slug; role: string }[]; firstPublished?: ISODate; contentUpdatedAt?: ISODate };
-type ExistingChange = { date: ISODate; slug: Slug; kind: string; old: string; new: string; sourceUrl: string };
+type ExistingChange = { date: ISODate; slug: Slug; kind: string; old: string; new: string; sourceUrl: string;
+  /** vendor_change = the vendor moved the price (both snapshots required); correction = we fixed our own wrong data.
+   *  Corrections are labelled as such and never presented as vendor price moves. Gate-enforced. */
+  type: "vendor_change" | "correction";
+  /** Snapshot paths (data/snapshots/...). vendor_change needs before + after; correction needs after (before may be null when no snapshot exists). */
+  evidence: { before: string | null; after: string; note?: string };
+};
 
 // ---------------------------------------------------------------------------
 // Shared building blocks
@@ -68,7 +84,7 @@ export type FaqItem = {
  * Used by: tool (notes), alternatives, filter variant, ai-alternative-to, comparison, stack, category.
  */
 export type Editorial = {
-  /** Person slugs (see `Person`) who wrote it. Empty/absent = "Researched by the BetterAlt research agent" (Ron §6). */
+  /** Person slugs (see `Person`) who wrote it. Empty/absent = `Researched by the FindBetterAlt research agent` (Ron §6). */
   authors?: Slug[];
   /** Person slug who reviewed/approved it (e.g. "roshan-kumar"). Maps to schema `reviewedBy`. */
   reviewedBy?: Slug;
@@ -124,6 +140,8 @@ export type RedditQuote = {
   subreddit?: string;
   /** Date we copied it. */
   capturedAt?: ISODate;
+  /** Date we last confirmed the quote verbatim on the live comment. The quote only renders when this is set (Hermione, 18 Oct). */
+  liveCheckedAt?: ISODate;
 };
 
 /**
@@ -288,10 +306,14 @@ export type ToolAdditions = {
   pricing?: ExistingPricing & {
     india?: IndiaPrice;
     /** Billing basis of fromUsdMonthly until per-plan data exists. Savings deltas only compare the same basis. */
-    fromBilling?: "monthly" | "annual";
+    fromBilling?: "monthly" | "annual" | "unknown";
+    /** Set at build by the gate (never hand-typed): why a price is shown as "not yet verified". */
+    unverifiedReason?: "stale" | "dead-link" | "never-verified";
   };
   /** Editorial notes (see ToolNotes). */
   notes?: ToolNotes;
+  /** Optional short hands-on note by Roshan. Rendered as "Tested by {name}, {date}" only when present. */
+  testedNote?: { text: string; testedBy: Slug; testedAt: ISODate };
   /** Successor tool slug for renamed/acquired/shut-down tools (Ron §3). Used by: status banner, ToolCard badge. */
   successor?: Slug;
   /** Approved FAQ for the tool page. */
@@ -477,7 +499,7 @@ export type Category = Editorial & {
  * Used by: layout, about, changes, open-source, tool page, llms.txt, subscribe emails, OG images.
  */
 export type SiteConfig = {
-  brand?: string;                 // "BetterAlt"
+  brand?: string;                 // "FindBetterAlt"
   url?: string;                   // replaces literal URLs (ui.tsx L55, stacks/[stack] L16, robots.ts L4)
   email?: string;                 // hello@findbetteralt.com (7 literals today)
   priceTrackingStartedAt?: ISODate; // changes/page.tsx L5, L10 ("17 Oct 2026")

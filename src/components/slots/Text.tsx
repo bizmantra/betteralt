@@ -12,9 +12,10 @@ export function VerdictBox({ v }: { v?: Verdict }) {
 }
 // Verbatim quote only from quotes[] with a link; hidden otherwise.
 export function RedditQuote({ r }: { r?: RedditSummary }) {
-  const q = r?.quotes?.find((x) => x.text && x.url);
+  // A quote renders only once it has been confirmed verbatim on the live comment (liveCheckedAt).
+  const q = r?.quotes?.find((x) => x.text && x.url && x.liveCheckedAt);
   if (!q) return null;
-  return <blockquote className="mt-3 max-w-3xl text-sm"><b>On Reddit:</b> “{q.text}” <cite className="not-italic"><a href={q.url} className="underline" target="_blank" rel="nofollow noopener">{q.subreddit ? `r/${q.subreddit}` : "Reddit thread"}{q.capturedAt ? `, ${fmtDate(q.capturedAt)}` : ""} ↗</a></cite>{r?.summary && (r.threads?.filter((t) => t.url).length ?? 0) >= 2 && <> · <a href="#reddit" className="underline">Our read of the threads ↓</a></>}</blockquote>;
+  return <blockquote className="mt-3 max-w-3xl text-sm"><b>On Reddit:</b> “{q.text}” <cite className="not-italic"><a href={q.url} className="underline" target="_blank" rel="nofollow noopener">{q.subreddit ? `r/${q.subreddit}` : "Reddit thread"}{`, checked ${fmtDate(q.liveCheckedAt!)}`} ↗</a></cite>{r?.summary && (r.threads?.filter((t) => t.url).length ?? 0) >= 2 && <> · <a href="#reddit" className="underline">Our read of the threads ↓</a></>}</blockquote>;
 }
 // Paraphrase renders only with ≥2 linked threads, labelled, no quote marks; threads listed below.
 export function RedditThreads({ r }: { r?: RedditSummary }) {

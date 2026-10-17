@@ -1,0 +1,118 @@
+#SNAPSHOT {"url":"https://openwebui.com","finalUrl":"https://openwebui.com/","fetchedAt":"2026-10-17T20:50:52.619Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"ef6acbf0b41ce18436a1607c724114e44ddac1ef48e9663d261ee3cd117d264a"}
+Open WebUI: Self-Hosted AI Platform 
+ Sovereign AI
+ Computer
+ Community
+ Blog
+ Docs
+ Sign In
+ Open WebUI
+ The freedom AI stack.
+ Run AI on your own terms. Connect any model, extend with code, and protect what matters
+ without compromise. Your models, your data, your machine, wherever you open it.
+ Get Open WebUI 
+ Join the community 515K+ members
+ Looking for Enterprise? Talk to our team →
+ Freedom is self-hosted. Your AI, running on your own ground, wherever you are.
+ The self-hosted AI interface.
+ Open WebUI is the platform for running AI on your own terms. Connect to any model, local
+ or cloud. Extend with Python. Share what you build, run what others share. Yours to keep,
+ wherever you take it.
+ Learn more 
+ Explore Computer 
+ The network
+ 338M+
+ downloads
+ 515K+
+ community members
+ 156K+
+ GitHub stars
+ A home for AI, at any scale.
+ Built for you
+ Every model, every conversation, and every tool in one place. Connect to Ollama, OpenAI,
+ Anthropic, or anything compatible. Run locally, in the cloud, or both. Data stays exactly
+ where it belongs.
+ Documentation 
+ Built for scale
+ From startups to global enterprises. SSO, RBAC, audit logs, data residency, and on-premises
+ or air-gapped deployment for regulated industries. One platform. Complete control. No
+ compromises.
+ Explore Sovereign AI 
+ The path to this door is yours to walk, and yours to share. Run AI on your own hardware, and
+ it grows with you, wherever you take it. 
+ Community
+ 515,097 members sharing what they've built.
+ Prompts, models, tools, functions, discussions, and reviews, all created by the community and
+ available to everyone. Browse, install, contribute. Everything at openwebui.com.
+ Explore the community 
+ A library belongs to everyone who walks in. Everything on these shelves was made by someone,
+ and left for whoever comes next. 
+ Full toolkit
+ Everything AI offers. Available now.
+ Voice, vision, retrieval, generation, search. Extend with Python. Ready from day one.
+ Models
+ Any persona, any configuration
+ Prompts
+ Shared by the community
+ Skills
+ Reusable instructions and supporting files
+ Tools
+ RAG, search, execution
+ Functions
+ Python pipelines
+ Our mission
+ “Open WebUI is being built so everyone can run AI for themselves.
+ Not rent it. Not depend on it. Own it. Self-sufficient, adaptable, and ready for wherever
+ humanity goes,
+ from a laptop to the stars.
+ ”
+ Get started
+ Explore the cosmos
+ Wherever you are.
+ pip 
+ Docker 
+ $
+ pip install open-webui
+ One command. 60 seconds. No account required. Run it anywhere.
+ View on GitHub 
+ Enterprise options 
+ From the blog
+ October 10, 2026
+ Open WebUI v0.12.0: A Voice That Talks Back, and a Face to Go With It
+ Open WebUI v0.12.0 adds realtime voice calls that hand real questions to your own model, animated 3D avatars for the voice, multi-factor sign-in, model controls such as a Thinking slider, nested groups with per-group default models, replies in shared chats, and version history for models, tools, and skills.
+ October 16, 2026
+ Open WebUI and NVIDIA RTX Spark
+ As an early access partner for NVIDIA RTX Spark, we're exploring how developers can put local models to work with their own files, tools, and agent workflows.
+ October 14, 2026
+ Open WebUI v0.12.1: Channel Apps, Avatars in Standard Calls
+ Open WebUI v0.12.1 lets external apps join channels and answer when mentioned, shows a model's voice avatar in Standard calls too, adds Azure OpenAI for Realtime calls, a side-by-side compare for revisions, muted channels, .skill files, and fixes for the problems people hit after v0.12.0.
+ View all articles 
+ Product
+ Computer
+ Documentation
+ Alternatives
+ Changelog
+ Solutions
+ Sovereign AI
+ Defense
+ Government
+ Healthcare
+ Education
+ Finance
+ Legal
+ Enterprise
+ Community
+ Leaderboard
+ Model Reviews
+ Discord
+ GitHub
+ Company
+ Whitepaper 
+ Careers 
+ We're hiring!
+ Blog 
+ Contact 
+ openwebui
+ © 2026 Open WebUI. All rights reserved.
+ Terms
+ Privacy

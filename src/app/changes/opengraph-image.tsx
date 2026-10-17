@@ -1,6 +1,7 @@
+import { BRAND } from "@/lib/data";
 import { ogCard, ogSize } from "@/lib/og";
-import { changes, getTool, fmtDate } from "@/lib/data";
-export const size = ogSize; export const contentType = "image/png"; export const alt = "AI price changes on BetterAlt";
+import { vendorChanges as changes, getTool, fmtDate } from "@/lib/data";
+export const size = ogSize; export const contentType = "image/png"; export const alt = `AI price changes on ${BRAND}`;
 const clean = (x: string) => x.split(" (")[0].replace(/^Shopify Basic /, "").replace(/ billed (yearly|annually|monthly)/, "");
 export default function Image() {
   const log = [...changes].sort((a, b) => b.date.localeCompare(a.date)).slice(0, 3);

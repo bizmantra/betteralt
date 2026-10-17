@@ -1,0 +1,432 @@
+#SNAPSHOT {"url":"https://cap.so/pricing","finalUrl":"https://cap.so/pricing","fetchedAt":"2026-10-17T20:54:12.659Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"b83fb84ca613e973d25b13bea62bf5c66dc9a72036ea2c375ca71e1928afc334"}
+Pricing — Cap 
+ Product 
+ Instant Mode
+ Quick recordings with instant shareable links
+ Studio Mode
+ Professional recordings with advanced editing
+ Download App
+ Downloads for macOS, Windows & Linux
+ Migrate from Loom
+ Bring your Loom library into Cap
+ Open Source
+ Cap is open source and available on GitHub
+ Self-host Cap
+ Self-host Cap on your own infrastructure
+ Join the community
+ Join the Cap community on Discord
+ Free tools
+ Loom downloader, converters and more
+ Download
+ Agents
+ Testimonials
+ Help 
+ Support
+ Get help via Discord, email, and more
+ Documentation
+ Documentation for using Cap
+ FAQs
+ Frequently asked questions about Cap
+ Changelog
+ New features, improvements, and fixes
+ About
+ Blog
+ Pricing
+ GitHub ( 23.4k )
+ Login
+ Sign Up
+ Simple, honest pricing
+ Start free. Pay when you need commercial rights or the cloud, and cancel whenever you like.
+ 50,000+
+ Trusted by 50,000+ users
+ Trusted by teams and creators
+ SOC 2 Type II
+ ISO 27001
+ HIPAA
+ Open source
+ Desktop License
+ Local only
+ Local only
+ $29 per license, per year
+ A commercial license for the Cap desktop app. Unlimited local recording and editing, no cloud subscription required.
+ $ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) 0}.symbol{white-space:pre} 
+ 2
+ 9
+ number-flow-react > span{font-kerning:none;display:inline-block;line-height:var(--number-flow-char-height, 1em) !important;padding:calc(round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) * 2) 0} 29
+ per license, per year
+ Or $58 once, for a license that never renews.
+ Annual
+ Lifetime
+ Licenses
+ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) 0}.symbol{white-space:pre} 
+ 1
+ number-flow-react > span{font-kerning:none;display:inline-block;line-height:var(--number-flow-char-height, 1em) !important;padding:calc(round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) * 2) 0} 1
+ Total
+ $ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) 0}.symbol{white-space:pre} 
+ 2
+ 9
+ number-flow-react > span{font-kerning:none;display:inline-block;line-height:var(--number-flow-char-height, 1em) !important;padding:calc(round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) * 2) 0} 29
+ per year
+ Get Desktop License
+ One user per license. Works fully offline.
+ What&#x27;s included
+ Commercial usage rights
+ Unlimited local recordings & editing
+ Studio Mode with full editor
+ 20 cloud shareable links / month (up to 5 min each)
+ Export to any format
+ Community support
+ About the commercial license 
+ Cap Pro
+ Most popular
+ Most popular
+ Everything in Desktop, plus unlimited cloud sharing, AI, and team collaboration.
+ $ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) 0}.symbol{white-space:pre} 
+ 1
+ 2
+ number-flow-react > span{font-kerning:none;display:inline-block;line-height:var(--number-flow-char-height, 1em) !important;padding:calc(round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) * 2) 0} 12
+ per user, per month
+ Or $8.16 a month, billed annually.
+ Monthly
+ Annual Save 32%
+ Users
+ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) 0}.symbol{white-space:pre} 
+ 1
+ number-flow-react > span{font-kerning:none;display:inline-block;line-height:var(--number-flow-char-height, 1em) !important;padding:calc(round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) * 2) 0} 1
+ Total
+ $ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) 0}.symbol{white-space:pre} 
+ 1
+ 2
+ number-flow-react > span{font-kerning:none;display:inline-block;line-height:var(--number-flow-char-height, 1em) !important;padding:calc(round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) * 2) 0} 12
+ per month
+ Get Cap Pro
+ Cancel anytime. Your recordings stay yours.
+ Everything in Desktop License, plus:
+ Unlimited cloud storage & bandwidth
+ Auto-generated titles, summaries, clickable chapters, and transcriptions for every recording
+ SOC 2 Type II & ISO 27001 compliant
+ Custom domain (cap.yourdomain.com)
+ Password protected shares
+ Viewer analytics & engagement
+ Team workspaces
+ Loom video importer
+ Custom S3 bucket & Google Drive support
+ Priority support & early features
+ Enterprise
+ Self-serve
+ Self-serve
+ Cap Pro price + optional add-ons
+ Cap Pro for organizations with thousands of members, with optional extras when you need them.
+ Everything in Cap Pro, at the Cap Pro price. Add SAML SSO for your whole organization, or a signed BAA, only if you need them.
+ Optional add-ons
+ SAML SSO
+ Flat rate, unlimited users
+ $199/mo 
+ Signed BAA
+ Per organization
+ $99/mo 
+ Fully self-serve. Turn either one on from your dashboard whenever you need it, no enterprise contract required.
+ Manage add-ons
+ No sales call, no minimum seats. Book a call if you want one.
+ Security and control at scale
+ SOC 2 Type II compliant
+ ISO 27001 compliant
+ HIPAA compliant
+ SCIM provisioning can be arranged
+ Custom S3 & Google Drive storage
+ Volume discounts available
+ Book a call with the team 
+ Just want to try it? Cap is free for personal use, with no time limit on local recordings.
+ Download free 
+ Every plan, side by side
+ Free covers personal use with no time limit on local recordings. Paid plans add commercial rights, and Cap Pro adds the cloud.
+ Free
+ Free forever
+ Download
+ Desktop License
+ $29 per year
+ Get license
+ Cap Pro
+ $12 per user / mo
+ Get Cap Pro
+ Recording & editing
+ Studio Mode with full editor
+ Included
+ Included
+ Included
+ Unlimited local recordings & editing
+ Not included
+ Included
+ Included
+ 4K / 60fps export
+ Included
+ Included
+ Included
+ Export to any format
+ Included
+ Included
+ Included
+ Commercial usage
+ Not included
+ Included
+ Included
+ Cloud & sharing
+ Shareable links
+ Up to 5 min
+ Up to 5 min
+ Unlimited
+ Unlimited cloud storage & bandwidth
+ Not included
+ Not included
+ Included
+ Custom domain (cap.yourdomain.com)
+ Not included
+ Not included
+ Included
+ Password protected shares
+ Not included
+ Not included
+ Included
+ Custom S3 bucket & Google Drive support
+ Not included
+ Not included
+ Included
+ Loom video importer
+ Not included
+ Not included
+ Included
+ AI & collaboration
+ Auto titles, summaries & chapters
+ Not included
+ Not included
+ Included
+ Transcriptions
+ Not included
+ Not included
+ Included
+ Viewer analytics & engagement
+ Not included
+ Not included
+ Included
+ Team workspaces
+ Included
+ Included
+ Included
+ Security, support & licensing
+ SOC 2 Type II, ISO 27001 & HIPAA compliance
+ Not included
+ Not included
+ Included
+ Community support
+ Included
+ Included
+ Included
+ Priority support & early features
+ Not included
+ Not included
+ Included
+ License
+ Personal use
+ Yearly or lifetime
+ Subscription
+ Feature
+ Free
+ $0
+ Desktop
+ $29/yr
+ Pro
+ $12/user/mo
+ Recording & editing
+ Studio Mode with full editor
+ Included
+ Included
+ Included
+ Unlimited local recordings & editing
+ Not included
+ Included
+ Included
+ 4K / 60fps export
+ Included
+ Included
+ Included
+ Export to any format
+ Included
+ Included
+ Included
+ Commercial usage
+ Not included
+ Included
+ Included
+ Cloud & sharing
+ Shareable links
+ Up to 5 min
+ Up to 5 min
+ Unlimited
+ Unlimited cloud storage & bandwidth
+ Not included
+ Not included
+ Included
+ Custom domain (cap.yourdomain.com)
+ Not included
+ Not included
+ Included
+ Password protected shares
+ Not included
+ Not included
+ Included
+ Custom S3 bucket & Google Drive support
+ Not included
+ Not included
+ Included
+ Loom video importer
+ Not included
+ Not included
+ Included
+ AI & collaboration
+ Auto titles, summaries & chapters
+ Not included
+ Not included
+ Included
+ Transcriptions
+ Not included
+ Not included
+ Included
+ Viewer analytics & engagement
+ Not included
+ Not included
+ Included
+ Team workspaces
+ Included
+ Included
+ Included
+ Security, support & licensing
+ SOC 2 Type II, ISO 27001 & HIPAA compliance
+ Not included
+ Not included
+ Included
+ Community support
+ Included
+ Included
+ Included
+ Priority support & early features
+ Not included
+ Not included
+ Included
+ License
+ Personal use
+ Yearly or lifetime
+ Subscription
+ Pricing questions, answered.
+ Still stuck? Mail hello@cap.so
+ and a human answers.
+ What is the difference between Cap Pro and Desktop License? 
+ Cap Pro is a paid plan that includes all the features of the Desktop License plus cloud features for seamless sharing and collaboration. Desktop License grants you commercial usage rights for a single user.
+ Is there a free version? 
+ Yes! Cap is 100% free for personal use. You can record and share locally with Studio Mode. A paid plan is required for commercial usage.
+ What happens to my recordings if I cancel? 
+ Your recordings are yours forever. If you cancel Pro, existing shares remain active and you can always export everything. Downgrade to our free plan to keep recording locally, or self-host to maintain all features.
+ Can I use Cap for commercial purposes? 
+ Absolutely! Any paid plan (Desktop License or Cap Pro) includes full commercial usage rights. Use Cap for client work, sell courses, or embed recordings anywhere. The free version is for personal use only.
+ Do you offer team plans? 
+ Yes! Cap Pro includes team workspaces where you can organize recordings, manage permissions, and collaborate. Volume discounts available for teams over 10 users. Contact us for custom enterprise features.
+ What about SOC 2, ISO 27001, GDPR, and HIPAA compliance? 
+ Cap is SOC 2 Type II, ISO 27001, and HIPAA compliant, with signed BAAs available for organizations handling PHI. Cap Pro also lets you bring your own storage, including custom S3 buckets in any region or your own Google Drive, for GDPR compliance. For teams that want complete control, our self-hosted option keeps everything on your own infrastructure.
+ How does Cap AI work? 
+ Cap AI is a powerful tool that can be used to generate titles, summaries, clickable chapters, and transcriptions for your recordings. It&#x27;s available for all Cap Pro users and has no usage limits.
+ Loved by builders, trusted by teams
+ Join the thousands who made Cap their daily driver for showing work instead of writing about it.
+ I&#x27;ve been testing Cap.so for no other reason than some old habits die hard for this former software analyst. Whew that UI is so polished and crispy. Between the open source code, self hosted vids, editing features and price point -- gone give Loom some competition 🤞🏽
+ Olivia
+ @olivialawson.co
+ Such a great Open source project. I will never install OBS again
+ CJ
+ @cjkihl
+ I&#x27;ve been looking for *ages* for a screen recording app that does the job + allows to zoom in/out easily and @Cap is AWESOME!
+Free, cross-platform, fully-featured, open-source. I mean...unless you love spending +$200 for recording your screen, use Cap!
+ evening kid
+ @eveningkid
+ Tip for people that need to make screen recordings: Cap is the open source alternative to Loom. Lightweight, powerful, and stunning. Record and share in seconds.
+ Roger Mattos
+ @_rogermattos
+ No brainer instant purchase this morning: was looking for a solid screen recorder, for my new MacBook Pro, gave @cap a try, got myself a license within 10 mins — flawless UX sometimes speaks louder than lengthy marketer&#x27;s words !
+ Greg_Ld
+ @Greg__LD
+ Used @cap. Holy smokes this product delivers and it delivers hard The whole experience from recording to the editor part is pretty sweet
+ Rohith Gilla
+ @gillarohith
+ hey @richiemcilroy , cap is hands down one of the best oss i&#x27;ve used, so much so i&#x27;ve uninstalled loom and screen studio :) can you please bring up the video cut and playback speed adjust feature soon , can&#x27;t wait to try it on, you guys are doing great cheers!
+ Hrushi
+ @BorhadeHrushi
+ Tried @Cap v 0.3.beta and found an issue while exporting video.
+Wrote to @richiemcilroy about the problem and ~40 mins later the issue is fixed.
+I&#x27;m sold. Checkout Cap.so
+ Bilal Budhani
+ @BilalBudhani
+ Self-hosted Loom. The future is awesome 👉🏽
+ diana
+ @pixelswithin
+ Read more testimonials
+ Start free. Upgrade when it earns it.
+ Record locally today. Move to Cap Pro the moment you need unlimited sharing, AI, or a team workspace.
+ Get Cap Pro
+ Download for free
+ Students save 30%. Claim the discount
+ The open source alternative to Loom. Lightweight, powerful, and cross-platform — record and share in seconds.
+ Product 
+ Product
+ Blog
+ Changelog
+ Docs
+ Cap for Agents
+ Pricing
+ Download
+ Open Source
+ Join the community
+ OSS Friends
+ Additional Links 
+ Additional Links
+ Loom Video Importer
+ Migrate from Loom
+ Loom Video Downloader
+ Screen Recorder
+ Free Screen Recorder
+ Screen Recorder for Mac
+ Screen Recorder for Windows
+ Screen Recording Software
+ Chrome Screen Recorder
+ Google Drive Screen Recorder
+ Cap vs Loom
+ Student Discount
+ Cap 
+ Cap
+ About
+ Testimonials
+ FAQs
+ Self-hosting
+ Support
+ Email Support
+ Trust Portal
+ Chat Support
+ System Status
+ Use Cases 
+ Use Cases
+ Remote Team Collaboration
+ Employee Onboarding Platform
+ Daily Standup Software
+ Online Classroom Tools
+ Agencies
+ Tools 
+ Tools
+ WebM to MP4
+ MOV to MP4
+ AVI to MP4
+ MP4 to GIF
+ MP4 to MP3
+ MP4 to WebM
+ Video Speed Controller
+ Trim Video
+ SOC 2 Type II, ISO 27001 & HIPAA compliant
+ © Cap Software, Inc. 2026 .
+ Terms of Service
+ Privacy Policy
+ Data Processing Agreement

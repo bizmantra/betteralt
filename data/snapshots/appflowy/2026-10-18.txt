@@ -1,0 +1,228 @@
+#SNAPSHOT {"url":"https://appflowy.com/pricing","finalUrl":"https://appflowy.com/pricing","fetchedAt":"2026-10-17T20:51:38.056Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"3dbfdf4400b7702325f18c324810e156575a659ae2727ce8694d513437c936e5"}
+AppFlowy Pricing - Cloud & Self-hosted Plans What&#x27;s New: AppFlowy launches
+ v 0.14.7
+ Learn more
+ Product
+ Download 
+ Resources 
+ Pricing
+ Self-host
+ Contact sales
+ Start for free
+ Your work solution Start free
+ Your work solution
+Start free
+ AppFlowy Cloud
+ Self-Hosted
+ Save 25 %
+ Yearly
+ Monthly
+ Personal
+ $0
+ / month
+ placeholder
+ for personal productivity
+ Get started
+ Pro
+ $12
+ / member / month
+ billed annually
+ for professional work and teams
+ Get started
+ Collaboration & project management
+ Members 
+ 1 workspace owner
+ Unlimited, charged per member
+ Guest editors 
+ Unlimited
+ Timeline with dependencies 
+ Dashboards 
+ Custom team spaces 
+ Permission groups 
+ Data & workflows
+ Forms 
+ 1 form
+ Unlimited
+ Charts 
+ 1 chart
+ Unlimited
+ AI
+ AI meeting notes 
+ Limited trial
+ AI transcript 
+ Limited trial
+ AI responses 
+ Limited trial
+ AI search 
+ Local AI 
+ Publishing
+ Publish pages 
+ Custom namespace 
+ PDF export 
+ Single page
+ Include subpages
+ Usage & storage
+ Storage 
+ Up to 100 MB
+ Unlimited
+ File uploads 
+ Up to 7 MB
+ Unlimited
+ Version history 
+ 7 days
+ 90 days
+ Personal
+ $0
+ month
+ for personal productivity
+ Get started
+ Pro
+ $12
+ member / month
+ billed annually
+ for professional work and teams
+ Get started
+ Collaboration & project management
+ Members
+ 1 workspace owner
+ Unlimited, charged per member
+ Guest editors
+ Unlimited
+ Timeline with dependencies
+ Dashboards
+ Custom team spaces
+ Permission groups
+ Data & workflows
+ Forms
+ 1 form
+ Unlimited
+ Charts
+ 1 chart
+ Unlimited
+ AI
+ AI meeting notes
+ Limited trial
+ AI transcript
+ Limited trial
+ AI responses
+ Limited trial
+ AI search
+ Local AI
+ Publishing
+ Publish pages
+ Custom namespace
+ PDF export
+ Single page
+ Include subpages
+ Usage & storage
+ Storage
+ Up to 100 MB
+ Unlimited
+ File uploads
+ Up to 7 MB
+ Unlimited
+ Version history
+ 7 days
+ 90 days
+ Unlock unlimited AI power
+ AppFlowy AI includes
+ Brainstorm new ideas and first drafts
+ AI meeting notes automatically captured and enhanced
+ Auto-fill columns
+ AI search get answers with traceable sources
+ Trusted by teams and individuals from
+ Have additional questions?
+ Help articles
+ Learn more →
+ Partner program
+ Learn more →
+ Contact support
+ Learn more →
+ Questions & answers
+ AppFlowy Cloud
+ Self-Hosted
+ How is pricing calculated for the paid plans?
+ Each workspace is tied to a specific plan. For example, you can have two Pro workspaces and three Personal workspaces simultaneously. If one Pro workspace has one member and another has five members, you&#x27;ll need to make separate payments for each workspace. Each Pro workspace is charged per member.
+A Pro workspace with only you: $12 per month billed annually ($144/year), or $16 billed monthly
+A Pro workspace with five members (including you): $12 × 5 = $60 per month billed annually ($720/year), or $16 × 5 = $80 billed monthly
+Guest editors available in Pro are free of charge.
+ How do I cancel my paid plan?
+ Your AppFlowy subscription, annual or monthly, will automatically renew until you cancel it. You can cancel your subscription by going to Settings in the left-hand sidebar on a desktop computer, then selecting Billing, then Change plan, then click Downgrade under the Personal plan column. After cancellation, your workspace will immediately move to the Personal plan, and any usage above the free limits may be restricted.
+ How does adding and removing members work?
+ If you added members, your account will be charged a prorated amount based on the percentage of the billing cycle left when a user was added. If you removed members, you will not receive credit but instead will still have use of that seat for a different user for the remainder of the billing period.
+Note: After cancellation, your workspace will immediately move to the Personal plan, and any usage above the free limits may be restricted.
+ Can I change my payment method?
+ You can change your payment method at any time in your billing settings.
+ How do I change my subscription between monthly and annual billing?
+ You can change your billing period by going to Settings → Billing → Edit period. Pro costs $16 per member per month when billed monthly, or $12 per member per month when billed annually ($144 per member per year). Annual billing saves 25% compared with monthly billing.
+ Get started for free
+ The AI workspace where you achieve more without losing control of your data
+ Contact sales
+ Get started free
+ Product
+ Template
+ What’s new
+ Zapier Integrations
+ Blog
+ Email Newsletter
+ Download
+ iOS & Android
+ macOS
+ Windows
+ Linux
+ Browser
+ Community
+ Github
+ Twitter
+ Discord
+ Community Hub
+ Report a bug
+ Request a feature
+ Resources
+ Guides & Tutorials
+ Developer Docs
+ AppFlowy Blocks
+ Request a resource
+ RSS
+ Compare
+ vs Notion
+ Company
+ About Us
+ Careers
+ Privacy
+ Terms
+ Contacts
+ Company
+ Contacts
+ About Us
+ Privacy
+ Terms
+ Careers
+ Pricing
+ Download
+ iOS & Android
+ macOS
+ Windows
+ Linux
+ Browser
+ Resources
+ Product guides
+ Developer docs
+ Templates
+ Videos
+ What’s new
+ Partner program
+ Zapier integration
+ AppFlowy Blocks
+ RSS
+ Compare
+ vs Notion
+ vs Confluence
+ Support
+ General support
+ Community server
+ Report a bug
+ Request a feature
+ Contact sales
+ Forums
+ Copyright © 2026, AppFlowy

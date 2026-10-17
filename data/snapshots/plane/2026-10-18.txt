@@ -1,0 +1,502 @@
+#SNAPSHOT {"url":"https://plane.so/pricing","finalUrl":"https://plane.so/pricing","fetchedAt":"2026-10-17T20:55:16.447Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"8bbef2d2d8edae4d0452429dc9bb30e2748d05fa3b552bb373aa4c0b09429c3b"}
+Product
+Solutions
+Resources
+Pricing
+Self-host Plane
+View demo
+Contact sales
+Login
+Get started free
+Start free,
+upgrade comfortably
+Packaged for modern project management teams, each of our plans
+unlocks way more than available alternatives. See for yourself
+Cloud
+Self-hosted
+Monthly
+Annually
+Yearly
+Free
+$
+per seat per month
+No-frills project management for startups, passion projects and more.
+Get started free
+Get started free with
+Projects and Work Items
+Deliver projects fast with feature-rich and easy work items.
+Cycles and Modules
+Timebox work and break it down into repeatable blocks in clicks.
+Layouts and Views
+Five layouts, unlimited views, flexibility for everyone
+Work Item Intake
+Capture all feedback, choose which ones to turn into work items.
+Estimates
+Take the guesswork out of effort and deadlines.
+Project Pages
+Document everything about your work without switching to a different interface.
+12 users
+Pro
+SAVE 25%
+$
+per seat per month
+Designed and built for mature teams that need more
+Get Pro at this price
+Start two-week free trial
+Everything in Free +
+500 AI credits / seat
+Credits are issued monthly per seat. Agents draw from a separate workspace pool.
+Work Items Types and Properties
+Customize how you work in teams with unique looks and properties.
+Workspace Wiki
+Topic- and team-specific knowledge for the whole company
+Time Tracking and Work Logs
+Track time per work item, download reports, edit as you see fit.
+Work Item and Page Templates
+Replicate your standard work items without headaches.
+Dashboards
+Visualize your work data, zoom in and out quickly.
+Initiatives
+Codify your mission and objectives easily.
+Teamspaces
+A noise-free, customizable space for your teams to collaborate.
+Integrations + Marketplace
+Connect your existing tool stack.
+1:5 Guests
+Business
+SAVE 13%
+$
+per seat per month
+Best for group PMs, larger teams, and greater workflow controls
+Get Business at this price
+Start two-week free trial
+Everything in Pro +
+1000 AI credits / seat
+Credits are issued monthly per seat, with per-agent limits and usage reports.
+Project Templates
+Scale proven workflows across teams.
+Recurring Work Items
+Automate the cyclical work so that your team never misses, duplicates or mismanages
+Intake Email and Forms
+Turn external emails and form submissions into triageable work items.
+Nested Pages and Embeds
+Record knowledge progressively and offer rich context from other sources.
+Single Workflow
+Control how work items move between states within each project.
+Customers
+Dedicated profiles of your customers with their requests linked to work items
+Dashboards with Advanced Widgets
+Advanced visualizations, deeper dives, flexible pivots
+Enterprise Grid
+Quote on request
+Custom plans that include wishlist bells and whistles for your company
+Talk to us
+Everything in Business +
+Flexible AI credits
+Custom credit allocations, usage controls, and priority support.
+Private + managed deployments
+Plane as a tailored, fully managed service
+Granular Access Control
+Control who sees what and when at the smallest level.
+Multiple Workflows + Approvals
+Run workflows by work item type with designated approvers per transition.
+LDAP support
+Authenticate from, authorize by, and sync groups with your LDAP directory.
+API-enabled Audit Logs
+Programmatically trace who did what when.
+Migration and Implementation Services
+White-glove switch to Plane from any project management software
+Run Plane your way on your infrastructure.
+Deploy Plane on your own servers with complete control and flexibility.
+Full data ownership
+Keep all your data, source code, and configurations entirely within your environment.
+Built for compliance and custom infra
+Ideal for teams with security, compliance, or infrastructure requirements.
+Complete feature list
+Savings calculator
+Slash your bills by more than 70%
+Choose one from both sets of tools below and we will automatically set their comparable plans.
+Number of members
+10
+100
+1000
+5000
+Project management software
+Knowledge management software
+Plan
+Pro
+Price
+$6 seat per month
+Annual cost with Jira for users
+$ per year
+Annual cost with Confluence for users
+$ per year
+We did the math for you.
+Your tools of choice today
+Price with Plane
+Savings with Plane
+Join 50,000+ teams
+that actually enjoy their work
+Features that unlock just when you need them
+Features
+Free
+$0
+per seat per month
+Get started free
+Pro
+$6
+per seat per month
+Get Pro
+Business
+$13
+per seat per month
+Get Business
+Enterprise Grid
+Quote on request
+Talk to us
+Core Project Management
+Projects
+Add projects to house work items, cycles, and modules.
+Work Items
+Add work via work items, set properties for tracking, and add to cycles or modules.
+Comments
+Respond to work items, @mention members, and brainstorm together without leaving Plane.
+Cycles
+Track work in timeboxes with differing frequency.
+Modules
+Group replicable work in modules with their own leads.
+Pages
+Build knowledge bases for your teams which are accessible & shareable.
+Estimates
+Measure effort in points in a system that works for you.
+Basic
+Advanced
+Advanced
+Advanced
+Layouts
+Choose from the List, the Board, the Calendar, the Gantt, or the Spreadsheet layout for your work items.
+Views
+Save sort, filter, and display options on a layout to a view.
+Basic
+Public + Private
+Public + Private
+Public + Private
+Publish Views
+Put a view on the Internet and let your customers interact with them.
+Bulk Ops
+Add several work items to cycles or modules, transfer them, or edit their properties.
+All props
+All props + transfers and conversions
+All props + transfers and conversions
+Active Cycles
+See all running cycles across all projects, or soon, in a single project.
+Dependencies in Timeline
+Adjust timelines for dependent work items visually on the Timeline layout.
+Auto-transfer Cycle Work Items
+Work items that are unfinished will be moved to the next cycle when cycle auto-creation mode is enabled.
+Initiatives
+Create initiatives to roll up several projects.
+Updates
+Add markers to Projects, and Initiatives to keep your team on track and report on progress.
+Module Overview
+Like Cycle Overviews, see relevant details and progress charts for each module.
+Project Overview
+See just-in-time snapshots of your project with essential metrics.
+Public, Private, and Secret projects
+Public projects are visible and accessible to everyone. Private ones are visible but need approval to join. Secret projects aren't visible or accessible.
+Project States
+See all projects laid across states that highlight those that need attention and those on track.
+Progress Overview
+Track progress in cycles, modules, and overviews throughout Plane without switching to dashboards or Analytics.
+Recurring Work Items
+Schedule recurring work items to generate automatically at set intervals.
+Milestones
+Set key dates and checkpoints within projects to track progress toward goals.
+Cycle Manual Start and Stop
+Start or end cycles on demand instead of waiting for scheduled dates.
+Auto-schedule Cycles
+Automate cycle creation with configurable duration, cooldown, and auto-rollover of incomplete work.
+AI and Credits
+Monthly AI Credits
+Credits are issued monthly per seat. Each person spends only their own, so they are not pooled. They reset on the first of each month (UTC) and do not roll over.
+500 credits / seat
+1000 credits / seat
+Flexible allocation
+AI Agents
+Agents that run on mentions, assignments, work item events, and schedules. Agent runs draw from a separate workspace pool sized by your plan and paid seats, not from per-seat credits.
+Usage Dashboard
+Share of your monthly allowance used, a usage trend, and a warning when you reach 80%.
+Available
+Available
+Available
+Advanced
+Admin Controls
+Workspace-wide usage for admins, broken down by member, agent, model, feature, and project, with CSV export and a monthly cap per agent.
+—
+Basic
+Advanced
+Advanced
+Advanced Project Management
+Work Item Types
+Create your own work items types with your own properties.
+Custom Properties
+Create your own properties and apply them to your workspace or project.
+Project-level custom properties
+Project-level custom properties
+Workspace-level properties and roll-ups
+Work Item Templates
+Create project-level work item templates including custom properties to create new work items easily.
+Project Templates
+Save states, workflows, automation, and other project settings into templates.
+Teamspaces
+Get and customize dedicated spaces for your teams for noiseless collaboration.
+Basic
+Advanced
+Advanced
+Releases
+Group work items into named, versioned releases with a target date, lead, status and changelog, at workspace or project level.
+Dashboards and Widgets
+Create your own dashboards with custom widgets and data types.
+Basic
+Advanced
+Advanced
+Custom SLAs
+Set SLA matrices for time-sensitive work items.
+Cycle Progress Charts
+Burn-down, build-up, and scope variation charts for detailed cycle tracking.
+Workflows and Automation
+Time Tracking + Worklogs
+Track time per work items, see aggregated reports, and filter by need.
+Historical Worklogs
+Historical Worklogs and Approvals
+Historical Worklogs and Approvals
+Workflows + Approvals
+Control how work items move between states and who can approve each transition.
+Single Workflow
+Multiple Workflows + Approvals
+Trigger And Action
+Choose a trigger and a corresponding action per automation flow.
+Advanced Pages Analytics
+See who's viewing, sharing, and commenting on your pages along with other useful info.
+Advanced Exports
+Export filtered work items, cycles, views, or modules directly from your project in CSV, Excel, or JSON.
+Knowledge Management
+Wiki
+Create company-wide wikis or knowledge bases without creating a project.
+Real-time Collab
+Edit a page together with members in your project, team, or workspace.
+Work Item Embeds
+Embed work items from any project you are a member of.
+Link-to-work-items
+Link pages in work items in a separate section in work item details.
+Publish
+Put your pages on the web for external users and let them comment without signing into your workspace.
+Templates
+Use pages as templates for your project, team, or workspace.
+Versions
+See restorable versions of edits to your pages.
+20 versions / 30 days
+60 versions / 90 days
+Unlimited
+Exports
+Export page content into PDFs or Word-compatible docs.
+Basic
+Queued downloads
+Queued downloads
+Enhanced Search
+AI-powered search across your entire workspace. Find work items, pages, and more in natural language.
+Nested Pages
+Pages inside a page, organize your pages as you see fit for the progressive disclosure.
+Shared Pages
+Share pages across projects and teams within your workspace.
+Page Comments
+Leave comments on pages for collaborative review and feedback.
+Wiki Collections
+Organize pages into curated collections for structured navigation and discovery.
+Intake and Customers
+Intake In-app
+Allow guests in a project to create work items through Plane for triage by admins and members.
+Intake Forms
+Share a public web form where anyone can submit work items without a Plane account.
+Intake Email
+Get a dedicated email address that converts incoming messages into triageable work items.
+Intake Responsibility
+Assign a team member to own incoming requests and get notified on every new intake work item.
+Customers
+Dedicated profiles for your customers with their requests linked to work items.
+Security, Access, and Support
+Seat limit
+Maximum users allowed in your workspace or instance based on your plan
+12 users
+Unlimited
+Unlimited
+Unlimited
+Roles
+Choose from one of four pre-defined roles or create custom ones with RBAC.
+Basic
+RBAC
+RBAC
+GAC
+Guests
+Let some users see everything or just their work items in a project. Enterprise handles this through custom roles with RBAC and GAC.
+Limited
+5 per paid member
+5 per paid member
+Custom roles via RBAC + GAC
+Power K
+Access a keyboard-first gateway to almost anything in Plane.
+SAML
+Get the officially supported SAML implementation and make Plane secure with any IdP.
+OIDC
+Get the officially supported OIDC implementation and make Plane secure with any IdP.
+LDAP
+Get our official LDAP implementation and secure your Plane workspace with your LDAP server.
+Group Sync
+Sync groups from your identity provider to automatically manage team membership and permissions.
+Channels
+Get access to one or more Support channels by your plan.
+Basic
+Basic
+Migration and Implementation Services
+Migration and Implementation Services
+SLA
+Get business-friendly SLAs with higher plans. SLAs are by priority of work item and tiers can be requested.
+Importers
+Jira
+Import your work items, users, and associated data from one Jira project at a time.
+Linear
+Import teams, projects, work items and cycles, seamlessly mapped to Plane.
+Asana
+Import your work items, users, and associated data from one Asana project at a time.
+ClickUp
+Import projects, tasks, and associated data from ClickUp.
+CSV
+Import work items from CSV files with column mapping.
+Workspace Members Import
+Bulk import workspace members via CSV upload.
+Confluence
+Import spaces, pages, and content from Confluence into Plane Wiki.
+Notion
+Import databases, pages, and content from Notion.
+Integrations
+GitHub
+Sync Plane work items and states to GitHub issues and states. Update GitHub automatically with activity from Plane and vice-versa.
+GitHub Enterprise
+Connect to GitHub Enterprise Server instances for on-prem GitHub environments.
+GitLab
+Sync Plane work items and states to GitLab issues and states. Update GitLab automatically with activity from Plane and vice-versa.
+GitLab Enterprise
+Connect to self-managed GitLab Enterprise instances.
+Slack
+Create Plane work items from Slack and sync comments to a Slack thread.
+Sentry
+Link Sentry issues to Plane work items for streamlined error tracking.
+Draw.io
+Create and embed diagrams, flowcharts, and whiteboards directly inside pages and wiki.
+Chosen by at-scale ambitious teams
+Prior to finding Plane, I'd cycled through multiple tools to make them fit my needs. None of them help up except Plane. I finally shut all of them down. Plane is the only workspace that contains all the capabilities I'm looking for or ships them in no time!
+Devries
+Capital Land
+“I've been using Plane for the past few months and I think its dope!
+The Ghost Lab
+I'm honestly just running away from Jira and its thousand-plugin circus. What I really want is simple: subtasks that behave like actual children of a task, not thousands of separate issues flooding my board like they do in Jira. I loveeee Plane where subtasks stay neatly under their parent, have their own work logs, and let me choose different subtask types so easily.
+Lucas
+Recovering Jira survivor
+Plane is independently
+audited and certified
+across cloud and self-hosted deployments for four popular compliance standards.
+What can we answer for you today?
+What is Plane?
+Plane is an open-source project management tool that helps teams collaborate, track progress, and deliver projects efficiently. It combines project management, wiki, and intake forms in one unified platform.
+Is Plane free to use?
+Yes, Plane offers a generous free tier with core features. We also have paid plans for advanced features, enterprise needs, and priority support.
+Can I self-host Plane?
+Absolutely! Plane is open-source and can be self-hosted on your own infrastructure for complete control and privacy. We provide comprehensive documentation and support for self-hosting.
+What integrations does Plane support?
+Plane integrates with popular tools like GitHub, GitLab, Slack, Discord, and many more to streamline your workflow and keep your team connected.
+How do I migrate from other project management tools?
+We provide migration tools and support to help you move from tools like Jira, Asana, Trello, or Linear to Plane. Our team can assist with the migration process.
+Is my data secure?
+Security is our top priority. We use industry-standard encryption, regular security audits, and follow best practices to protect your data. For self-hosted instances, you have complete control over your data.
+Product
+Project Management
+Wiki
+Plane AI
+Plane Compose
+Self-hosted
+Commercial Edition
+Airgapped Edition
+Prime Portal
+Features
+Work items
+Work item types
+Intake
+Cycles
+Workflows and Approvals
+Epics and Initiatives
+Customers
+Dashboards
+Teamspaces
+State of Projects + Updates
+Marketplace
+Apps and agents
+Importers
+Templates
+Plan and pricing
+Pro
+Business
+Enterprise-grid
+Use cases
+Product
+Operations
+Marketing
+Agile
+Design
+Engineering
+Scale
+Startups
+Growing Teams
+Enterprise Teams
+Industries
+Aerospace
+Healthcare
+Government
+Retail
+Manufacturing
+Defense
+Finance
+Compare
+Jira
+Asana
+Monday.com
+Linear
+ClickUp
+Shortcut
+Notion
+Learn
+The Plane blog
+What's new (Changelog)
+Download
+Mobile
+Plane Academy
+Support
+Docs
+Developer Docs
+Status
+Forum
+Company
+Terms
+Privacy
+Security
+Legal
+Careers
+About
+Wallpapers
+Plane in action
+Manifesto
+Make the switch
+Talk to Sales
+General enquiries
+What our customers say
+Download for Mac
+Download for Windows

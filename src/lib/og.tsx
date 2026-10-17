@@ -1,3 +1,4 @@
+import { BRAND_LEAD, BRAND_HL } from "@/lib/data";
 import { ImageResponse } from "next/og";
 import { monogramTint, glyph } from "@/components/Monogram";
 export const ogSize = { width: 1200, height: 630 };
@@ -10,7 +11,7 @@ export function ogCard({ title, checked, lines = [], line, big, foot }: { title:
   return new ImageResponse(
     <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", padding: "56px 64px", background: PAPER, color: INK, fontFamily: "serif", borderBottom: `14px solid ${INK}` }}>
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-        <div style={{ display: "flex", fontSize: 40, fontWeight: 700 }}>Better<span style={{ background: HL, padding: "0 6px" }}>Alt</span></div>
+        <div style={{ display: "flex", fontSize: 40, fontWeight: 700 }}>{BRAND_LEAD}<span style={{ background: HL, padding: "0 6px" }}>{BRAND_HL}</span></div>
         {checked && <div style={{ display: "flex", fontFamily: "monospace", fontSize: 24, color: INK2 }}>Prices checked {checked}</div>}
       </div>
       <div style={{ display: "flex", marginTop: 44, fontSize: t.length > 48 ? 56 : t.length > 28 ? 64 : 80, fontWeight: 700, lineHeight: 1.05 }}>{t}</div>

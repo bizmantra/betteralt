@@ -1,0 +1,281 @@
+#SNAPSHOT {"url":"https://mautic.org","finalUrl":"https://mautic.org/","fetchedAt":"2026-10-17T20:54:53.992Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"a4eba3eaa4e4239cd1817756bb908ddcfb3eb242dd31254e709d467d2a8b28af"}
+Open Source Marketing Automation - Mautic 
+ Skip to content
+ Product
+ Overview
+ Features
+ Mautic VS Alternatives
+ Roadmap
+ Security
+ Start using Mautic
+ Extended Support (ELTS)
+ Mautic Certification
+ Pricing
+ Solutions
+ Overview
+ By business size
+ By vertical
+ Resources
+ Overview
+ Support forums
+ Blog
+ Case Studies
+ Mautic testimonials
+ Start using Mautic
+ Managed Mautic
+ Mautic Hosting
+ Requirements
+ Mautic Releases
+ Download Mautic
+ Community
+ Overview
+ Code of Conduct
+ Join the conversation
+ Contribute to Mautic
+ Become a Mautic Ambassador
+ Mautic World Conference
+ Supporters
+ Members & Partners
+ Become a member of Mautic
+ Become a Mautic Partner
+ Sponsor Mautic
+ About
+ About Mautic
+ Vision & Mission
+ Mautic’s AI Manifesto
+ Governance
+ Leadership
+ Council
+ Trademark
+ Press
+ Contact information
+ Product
+ Overview
+ Features
+ Mautic VS Alternatives
+ Roadmap
+ Security
+ Start using Mautic
+ Extended Support (ELTS)
+ Mautic Certification
+ Pricing
+ Solutions
+ Overview
+ By business size
+ By vertical
+ Resources
+ Overview
+ Support forums
+ Blog
+ Case Studies
+ Mautic testimonials
+ Start using Mautic
+ Managed Mautic
+ Mautic Hosting
+ Requirements
+ Mautic Releases
+ Download Mautic
+ Community
+ Overview
+ Code of Conduct
+ Join the conversation
+ Contribute to Mautic
+ Become a Mautic Ambassador
+ Mautic World Conference
+ Supporters
+ Members & Partners
+ Become a member of Mautic
+ Become a Mautic Partner
+ Sponsor Mautic
+ About
+ About Mautic
+ Vision & Mission
+ Mautic’s AI Manifesto
+ Governance
+ Leadership
+ Council
+ Trademark
+ Press
+ Contact information
+ Try Mautic
+ ×
+ Product
+ Overview
+ Features
+ Mautic VS Alternatives
+ Roadmap
+ Security
+ Start using Mautic
+ Extended Support (ELTS)
+ Mautic Certification
+ Pricing
+ Solutions
+ Overview
+ By business size
+ By vertical
+ Resources
+ Overview
+ Support forums
+ Blog
+ Case Studies
+ Mautic testimonials
+ Start using Mautic
+ Managed Mautic
+ Mautic Hosting
+ Requirements
+ Mautic Releases
+ Download Mautic
+ Community
+ Overview
+ Code of Conduct
+ Join the conversation
+ Contribute to Mautic
+ Become a Mautic Ambassador
+ Mautic World Conference
+ Supporters
+ Members & Partners
+ Become a member of Mautic
+ Become a Mautic Partner
+ Sponsor Mautic
+ About
+ About Mautic
+ Vision & Mission
+ Mautic’s AI Manifesto
+ Governance
+ Leadership
+ Council
+ Trademark
+ Press
+ Contact information
+ Free your marketing 
+ Grow your organization 
+ No vendor lockin 
+ True data sovereignty 
+ Free your marketing
+ with Mautic,
+ The World's Largest Open Source Marketing Automation Product
+ Get started today
+ Explore features
+ 40,000+ companies use Mautic
+ We owe a lot to our partners
+ Become a 
+ Certified
+Mautic Developer
+ Master the technical foundations of Mautic. Prove your expertise in configuration, coding, performance optimization, plugin development and integrations.
+ Register for Developer Certification
+ Download curriculum
+ Mautic’s most 👍‘d features
+ Harness the power of Mautic's powerful marketing automation features to achieve your marketing goals
+ Intuitive campaign builder
+ Simplifying campaign design and optimization with a user-friendly click-and-drag interface allowing you to build complex campaigns.
+ Powerful email and page builder
+ Streamline your creation process with drag-and-drop email and landing page creation, optimised for mobile and cross-client use.
+ Privacy-focused by default
+ Mautic provides numerous features which ensure compliance with data privacy legislation worldwide. 
+ Your Mautic, your way
+ Avoid vendor lockin with Mautic. Self-host on your own company infrastructure and ensure true data sovereignty.
+ Our users' 🏆-winning case studies
+ Organizations around the world are already achieving huge success with Mautic .. when will you join them?
+ Drupal and Mautic integrated for hyper-personalized automated emails
+ Sending over a million personalized multilingual emails daily in an ecommerce business
+ Introducing Mautic with AI to drive greater engagement for a large heavy industry operator
+ Subscribe to the 
+Mautic newsletter
+ A community with a heart ❤️
+ Mautic is powered by a worldwide community of Mauticians. Join us!
+ GitHub stargazers
+ 0
+ K
+ Contributors
+ 0
+ Community members
+ 0
+ K
+ Active companies
+ 0
+ Get to know the community
+ We’re ever growing, click here
+ to get the latest updated stats.
+ Find a partner
+ Whether you need help with installing and configuring Mautic, developing plugins or to find a SaaS provider, our partners and members database in the place to start.
+Organizations listed are supporting Mautic by contributing financially and in most cases also practically to ensure Mautic continues to grow and thrive.
+Working with them helps to drive our economy forward.
+ Go to the Directory
+ Community Support
+ Visit our vibrant Community Forums to find support for all things Mautic.
+Whether you're having problems installing, have an issue with an email or need some help with optimization, it's the place to go for free support. 
+English not your first language? No problem - we have multilingual categories!
+ Go to the forums
+ Open Source and so much more
+ Free your marketing with Mautic!
+ True data sovereignty
+ Mautic ensures total control and compliance, making it the top choice for data sovereignty
+ Powerful REST API
+ Mautic’s REST API offers seamless integration, making it the best choice for flexible marketing.
+ Lead nurturing and scoring
+ Mautic enables organizations to develop a central overview of contacts with point scoring for prioritizing leads.
+ Extendable via many plugins
+ Mautic’s plugin ecosystem allows limitless customization, making it adaptable to your needs.
+ We’ll let the users do the talking 💬
+ Check out our reviews on G2
+ and TrustRadius
+. Love Mautic? Leave us a review!
+ Mautic is a game changer for our company.
+ It allows us to run customized campaigns to execute robust inbound marketing strategies and attract new customers as well as keep existing ones informed of current developments.
+ The automation with the flexibility and control that Mautic offers, as well as the open source technology, has really taken our marketing and especially our privacy efforts to the next level.
+ Fabian Fischer
+ Business Development at nexoma GmbH
+ As DB bahn.business, we use Mautic to provide our customers with optimal solutions for their business travel needs at every stage of their lifecycle.
+ With Mautic, we have found a modern campaign management software that is collaboratively developed by a vibrant community.
+ We are proud to be a part of it!
+ Sebastian Selch
+ Referent Kampagnenmanagement und Dialogmarketing, Deutsche Bahn AG
+ Start automating now
+ Want to get started with Mautic with the minimal fuss? 
+Check out our free trial, where you can test Mautic for 14 days completely free of charge - no credit card required.
+ Start your trial
+ Trusted by over 200K companies
+ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+ Hosted by Hostnet
+.
+ MAUTIC is a trademark of the Mautic project of the Open Source Collective.
+ Get started now
+ About 
+ Product
+ Features
+ Blog
+ Community
+ Governance
+ Mautic brand
+ Privacy policy
+ Cookie policy
+ Support Mautic
+ Become a member
+ Become a partner
+ Sponsor Mautic
+ Contribute to Mautic
+ Find a Mautic expert
+ Manage Mautic payments
+ Mautic VS Alternatives
+ HubSpot
+ MailChimp
+ Klaviyo
+ GetResponse
+ RD Station
+ Salesforce Marketing Solutions
+ ActiveCampaign
+ Brevo
+ SAP Emarsys
+ Marketo
+ Social links
+ Facebook-f
+ X-twitter
+ Linkedin-in
+ Threads
+ Instagram
+ Mastodon
+ Youtube
+ Github
+ Search
+ Search 
+ Use the search bar above by typing terms and pressing enter.

@@ -1,3 +1,4 @@
+import { BRAND } from "@/lib/data";
 import Link from "next/link";
 import Search from "@/components/Search";
 import { Newsletter } from "@/components/ui";
@@ -5,7 +6,7 @@ import type { Metadata } from "next";
 import { tools, anchors, getTool, categories, stacks } from "@/lib/data";
 import { indexableSaas } from "@/lib/seo";
 import { buildMetadata } from "@/components/seo";
-export const metadata: Metadata = { ...buildMetadata({ title: "BetterAlt: find a better or cheaper alternative to any AI tool", description: "Find a better or cheaper alternative to any AI tool, with today's prices in USD. Free, open-source and self-hosted options, with sources and last-checked dates.", path: "/" }), title: { absolute: "BetterAlt: find a better or cheaper alternative to any AI tool" } };
+export const metadata: Metadata = { ...buildMetadata({ title: `${BRAND}: find a better or cheaper alternative to any AI tool`, description: "Find a better or cheaper alternative to any AI tool, with today's prices in USD. Free, open-source and self-hosted options, with sources and last-checked dates.", path: "/" }), title: { absolute: `${BRAND}: find a better or cheaper alternative to any AI tool` } };
 
 export default function Home() {
   const anchorSet = new Set(anchors.map((a) => a.slug));

@@ -1,0 +1,505 @@
+#SNAPSHOT {"url":"https://www.magicschool.ai/pricing","finalUrl":"https://www.magicschool.ai/pricing","fetchedAt":"2026-10-17T20:54:00.869Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"bf57ae236a4a334fc3ac485c4b90dff3681ce78ebf9010a3c18fff25dd68bdaf"}
+MagicSchool Pricing & Plans | MagicSchool 
+ AI Solutions
+ For Schools
+ Superintendents →
+ Chief Academic Officers →
+ Chief Technology Officers →
+ Principals →
+ For Teachers
+ Save time, spark creativity, and support every learner.
+ For Students
+ Give students the tools to explore, create, and grow with AI.
+ [NEW] Polished slides in seconds
+ Create a deck →
+ WHY MAGICSCHOOL
+ Protect Privacy & Security
+ Support Student Success
+ Build AI Literacy
+ Integrate Quickly
+ Develop AI Readiness
+ Connect AI Workflows
+ April MagicDrop
+ See what&#x27;s new →
+ Support →
+ App Status →
+ What&#x27;s New →
+ Get Pricing →
+ Outcomes
+ Safe, Compliant Schools
+ Stronger Student Learning
+ Strategic AI Roadmap
+ Future-Ready Classrooms
+ Accelerated Impact
+ One AI Platform
+ What&#x27;s next for AI in K-12?
+ Read the report →
+ Support →
+ App Status →
+ What&#x27;s New →
+ Get Pricing →
+ Resources
+ Support Center
+ Professional Development
+ AI Certifications
+ MagicSchool Pioneers
+ Shop
+ AI Tools for Educators
+ Blog
+ District Case Studies
+ Webinars
+ Free AI Prompt Pack
+ Download now →
+ Featured Resource
+ Read whitepaper →
+ About Us →
+ Mission →
+ Press →
+ Careers →
+ Pricing
+ Login
+ Free for teachers
+ Free for teachers
+ Get in touch
+ Login
+ Free for teachers
+ Get in touch
+ One platform, flexible options
+ Every school uses AI a little differently. Our plans meet you where you are and grow with you over time.
+ FREE
+ PLUS
+ ENTERPRISE
+ Compare plans
+ Find the plan that fits your school or district best.
+ $0
+ Forever Free
+ For individual teachers exploring AI
+ $8.33
+ USD/user/mo (billed annually)
+$12.99 USD/mo billed monthly
+ For individual teachers ready to go further
+ Custom
+ For districts that need customization and oversight at scale
+ Try it free
+ Start a free trial
+ Get pricing
+ Explore essential teacher and student tools safely, at no cost.
+ Use every MagicSchool tool, revisit past work, and preview what’s coming next.
+ Support educators with flexible tools, built-in safety, and clear district oversight.
+ Key features include:
+ 80+ teacher tools
+ Raina chatbot
+ Quizzes 
+ Class Writing Feedback 
+ Basic support and professional development
+ Best in class privacy and security
+ Every FREE feature, plus:
+ Unlimited generations
+ Unlimited output history
+ Unlimited AI-output editing
+ 50+ student tools
+ Student learning insights
+ Advanced tool features
+ Every PLUS feature, with:
+ Custom Data Privacy Agreement
+ Integrations with SIS, LMS
+ Single Sign-On (SSO)
+ District alignment
+ Customization of tools and platform
+ Tool management controls and guardrails
+ Advanced safeguards and moderations
+ Advanced data dashboards
+ Dedicated customer service manager and professional development
+ AI Tools For Teachers and Students
+ 80+ AI Teacher Tools 
+ Tools for lesson planning, worksheet generation, quiz generation, IEP creation, presentation creation, and more.
+ 50+ AI Tools for Students
+ Tools for writing feedback, tutoring, and more.
+ Unlimited Generations
+ Generate unlimited lesson plans, ideas, and resources.
+ Unlimited Output History
+ Access and review your entire history of tool outputs.
+ Unlimited Output Editing
+ With Studio Mode, you can edit your AI outputs: format text, add structure, and drop in images. Export when ready.
+ Student Rooms
+ Bring AI into the classroom with Student Rooms, where you choose and configure AI tools, set learning goals, and share them with students!
+ Quizzes
+ Generate low-stakes, formative assessments like exit tickets, and assign to students. Comes with real-time summaries.
+ Standard Access. Learn more →
+ Standard Access. Learn more →
+ Standard Access. Learn more →
+ Class Writing Feedback
+ Review, personalize, and send AI-generated feedback on written assignments in batches, based in your rubric.
+ Standard Access. Learn more →
+ Standard Access. Learn more →
+ Standard Access. Learn more →
+ Security and Compliance
+ FERPA, COPPA, SOC-2, GDPR, Ed Law 2-D Compliant
+ Common Sense Privacy Certified
+ Built In AI Safeguards
+ Smart alerts to prevent PII leaks, bias, and factual errors.
+ Custom Data Privacy Agreement
+ Admin
+ Full Access For All Staff, Institution-Wide
+ Single Sign-On (SSO)
+ One-click secure login across all major providers.
+ Full SIS/LMS Integration
+ (Clever, ClassLink, Canvas, Schoology)
+ Launch MagicSchool from your LMS without extra tabs or codes.
+ Google & Microsoft exports
+ Export your AI outputs in a click to Google Docs, Slides, etc.
+ Customization and Control 
+ District Alignment
+ Upload district-specific documents, like handbooks and curriculum, in one place and apply knowledge across all tools.
+ Enterprise Custom Tools
+ Create and distribute custom AI tools that align with your school’s standards and documents.
+ Tool Management Controls
+ Show or hide tools on educator dashboards.
+ Enhanced Moderation In Student AI Tools
+ Filter and manage content that students input/receive through AI tools.
+ Co-branding
+ Create a trusted and cohesive experience for educators with your district&#x27;s logo and messaging.
+ Analytics and Dashboards 
+ Advanced Data Dashboards
+ Track adoption and usage trends across your district. Get data you need for board level reporting. 
+ Student Room Insights
+ Monitor student engagement and participation in real-time.
+ Staff Learning Engagement Analytics
+ View learner-level insights including certifications, course enrollments, progress, time spent, and recent activity.
+ Support and Partnership 
+ Self-Serve Help Center
+ Connect with the MagicSchool team and browse support articles. 
+ Professional Development
+ Access self-paced learning, videos, certification courses, and live or on-demand webinars.
+ Self-paced, virtual resources
+ Self-paced, virtual resources
+ Custom PD packages, including additional in-person sessions and tailored content
+ Dedicated Customer Success Manager
+ Dedicated support to ensure smooth onboarding, implementation, and ongoing success for your organization.
+ White-Glove Onboarding
+ Get dedicated guidance to help your team launch with confidence.
+ Professional Services
+ Tailored expertise for your district. We offer custom PD, curriculum integration, and strategic consulting for an additional cost to help you get the most from MagicSchool.
+ FREE
+ $0
+ Forever Free
+ For individual teachers exploring AI
+ Try it free
+ Explore essential teacher  and student tools safely,  at no cost.
+ Key features include:
+ 80+ teacher tools
+ Raina chatbot
+ Quizzes
+ Class Writing Feedback
+ Basic support and professional development
+ Best in class privacy and security
+ PLUS
+ $8.33
+ USD/user/mo (billed annually)
+$12.99 USD/mo (billed monthly)
+ For individual teachers ready to go further
+ Start a free trial
+ Use every MagicSchool tool, revisit past work, and preview what’s coming next.
+ Every FREE feature, plus:
+ Unlimited generations
+ Unlimited output history
+ Unlimited AI-output editing
+ 50+ student tools
+ Student learning insights
+ Advanced tool features
+ ENTERPRISE
+ Custom
+ For districts that need customization and oversight at scale
+ Get pricing
+ Support educators with flexible tools, built in safety, and clear district oversight.
+ Every PLUS feature, with:
+ Custom Data Privacy Agreement
+ Integrations with SIS, LMS
+ Single Sign-On (SSO)
+ District alignment
+ Customization of tools and platform
+ Tool management controls and guardrails
+ Advanced safeguards and moderations
+ Advanced data dashboards
+ Dedicated customer service manager and professional development
+ FREE
+ PLUS
+ ENTERPRISE 
+ AI Tools For Teachers and Students
+ 80+ AI teacher tools 
+ Tools for lesson planning, worksheet generation, quiz generation, IEP creation, presentation creation, and more.
+ 50+ AI tools for students
+ Tools for writing feedback, tutoring, and more.
+ Unlimited Generations
+ Generate unlimited lesson plans, ideas, and resources.
+ Unlimited Output History
+ Access and review your entire history of tool outputs.
+ Unlimited Output Editing
+ With Studio Mode, you can edit your AI outputs: format text, add structure, and drop in images. Export when ready. 
+ Student Rooms
+ Bring AI into the classroom with Student Rooms, where you choose and configure AI tools, set learning goals, and share them with students!
+ Quizzes
+ Generate low-stakes, formative assessments like exit tickets, and assign to students. Comes with real-time summaries.
+ Standard Access. Learn more →
+ Class Writing Feedback
+ Standard Access. Learn more →
+ Security and Compliance
+ FERPA, COPPA, SOC-2, GDPR, Ed Law 2-D Compliant
+ Common Sense Privacy Certified
+ Built In AI Safeguards
+ Smart alerts to prevent PII leaks, bias, and factual errors.
+ Data Privacy Agreement
+ Admin
+ Full Access For All Staff, Institution-Wide
+ Single Sign-On (SSO)
+ One-click secure login across all major providers.
+ Full SIS/LMS Integration
+ (Clever, ClassLink, Canvas, Schoology)
+ Launch MagicSchool from your LMS without extra tabs or codes.
+ Google & Microsoft exports
+ Export your AI outputs in a click to Google Docs, Slides, etc.
+ Customization and Control 
+ District Alignment
+ Upload district-specific documents, like handbooks and curriculum, in one place and apply knowledge across all tools.
+ Enterprise Custom Tools
+ Create and distribute custom AI tools that align with your school’s standards and documents.
+ Tool Management Controls
+ Show or hide tools on educator dashboards.
+ Enhanced Moderation In Student AI Tools
+ Filter and manage content that students input/receive through AI tools.
+ Co-branding
+ Create a trusted and cohesive experience for educators with your district&#x27;s logo and messaging
+ Analytics and Dashboards 
+ Advanced Data Dashboards
+ Track adoption and usage trends across your district. Get data you need for board level reporting. 
+ Student Room Insights
+ Monitor student engagement and participation in real-time.
+ Staff Learning Engagement Analytics
+ View learner-level insights including certifications, course enrollments, progress, time spent, and recent activity.
+ Support and Partnership 
+ Self-Serve Help Center
+ Connect with the MagicSchool team and browse support articles. 
+ Professional Development
+ Access self-paced learning, videos, certification courses, and live or on-demand webinars.
+ Self-paced, virtual resources
+ Dedicated Customer Success Manager
+ Dedicated support to ensure smooth onboarding, implementation, and ongoing success for your organization.
+ White-Glove Onboarding
+ Get dedicated guidance to help your team launch with confidence.
+ Professional Services
+ Tailored expertise for your district. We offer custom PD, curriculum integration, and strategic consulting for an additional cost to help you get the most from MagicSchool.
+ AI Tools For Teachers and Students
+ 80+ AI teacher tools 
+ Tools for lesson planning, worksheet generation, quiz generation, IEP creation, presentation creation, and more.
+ 50+ AI tools for students
+ Tools for writing feedback, tutoring, and more.
+ Unlimited Generations
+ Generate unlimited lesson plans, ideas, and resources.
+ Unlimited Output History
+ Access and review your entire history of tool outputs.
+ Unlimited Output Editing
+ With Studio Mode, you can edit your AI outputs: format text, add structure, and drop in images. Export when ready. 
+ Student Rooms
+ Bring AI into the classroom with Student Rooms, where you choose and configure AI tools, set learning goals, and share them with students!
+ Quizzes
+ Generate low-stakes, formative assessments like exit tickets, and assign to students. Comes with real-time summaries.
+ Standard Access. Learn more →
+ Class Writing Feedback
+ Review, personalize, and send AI-generated feedback on written assignments in batches, based in your rubric.
+ Standard Access. Learn more →
+ Security and Compliance
+ FERPA, COPPA, SOC-2, GDPR, Ed Law 2-D Compliant
+ Common Sense Privacy Certified
+ Built In AI Safeguards
+ Smart alerts to prevent PII leaks, bias, and factual errors.
+ Data Privacy Agreement
+ Admin
+ Full Access For All Staff, Institution-Wide
+ Single Sign-On (SSO)
+ One-click secure login across all major providers.
+ Full SIS/LMS Integration
+ (Clever, ClassLink, Canvas, Schoology)
+ Launch MagicSchool from your LMS without extra tabs or codes.
+ Google & Microsoft exports
+ Export your AI outputs in a click to Google Docs, Slides, etc.
+ Customization and Control 
+ District Alignment
+ Upload district-specific documents, like handbooks and curriculum, in one place and apply knowledge across all tools.
+ Enterprise Custom Tools
+ Create and distribute custom AI tools that align with your school’s standards and documents.
+ Tool Management Controls
+ Show or hide tools on educator dashboards.
+ Enhanced Moderation In Student AI Tools
+ Filter and manage content that students input/receive through AI tools.
+ Co-branding
+ Create a trusted and cohesive experience for educators with your district&#x27;s logo and messaging
+ Analytics and Dashboards 
+ Advanced Data Dashboards
+ Track adoption and usage trends across your district. Get data you need for board level reporting. 
+ Student Room Insights
+ Monitor student engagement and participation in real-time.
+ Staff Learning Engagement Analytics
+ View learner-level insights including certifications, course enrollments, progress, time spent, and recent activity.
+ Support and Partnership 
+ Self-Serve Help Center
+ Connect with the MagicSchool team and browse support articles. 
+ Professional Development
+ Access self-paced learning, videos, certification courses, and live or on-demand webinars.
+ Self-paced, virtual resources
+ Dedicated Customer Success Manager
+ Dedicated support to ensure smooth onboarding, implementation, and ongoing success for your organization.
+ White-Glove Onboarding
+ Get dedicated guidance to help your team launch with confidence.
+ Professional Services
+ Tailored expertise for your district. We offer custom PD, curriculum integration, and strategic consulting at an additional cost to help you get the most from MagicSchool.
+ AI Tools For Teachers and Students
+ 80+ AI teacher tools 
+ Tools for lesson planning, worksheet generation, quiz generation, IEP creation, presentation creation, and more.
+ 50+ AI tools for students
+ Tools for writing feedback, tutoring, and more.
+ Unlimited Generations
+ Generate unlimited lesson plans, ideas, and resources.
+ Unlimited Output History
+ Access and review your entire history of tool outputs.
+ Unlimited Output Editing
+ With Studio Mode, you can edit your AI outputs: format text, add structure, and drop in images. Export when ready. 
+ Student Rooms
+ Bring AI into the classroom with Student Rooms, where you choose and configure AI tools, set learning goals, and share them with students!
+ Quizzes
+ Generate low-stakes, formative assessments like exit tickets, and assign to students. Comes with real-time summaries.
+ Standard Access. Learn more →
+ Class Writing Feedback
+ Review, personalize, and send AI-generated feedback on written assignments in batches, based in your rubric.
+ Standard Access. Learn more →
+ Security and Compliance
+ FERPA, COPPA, SOC-2, GDPR, Ed Law 2-D Compliant
+ Common Sense Privacy Certified
+ Built In AI Safeguards
+ Smart alerts to prevent PII leaks, bias, and factual errors.
+ Data Privacy Agreement
+ Admin
+ Full Access For All Staff, Institution-Wide
+ Single Sign-On (SSO)
+ One-click secure login across all major providers.
+ Full SIS/LMS Integration
+ (Clever, ClassLink, Canvas, Schoology)
+ Launch MagicSchool from your LMS without extra tabs or codes.
+ Google & Microsoft exports
+ Export your AI outputs in a click to Google Docs, Slides, etc.
+ Customization and Control 
+ District Alignment
+ Upload district-specific documents, like handbooks and curriculum, in one place and apply knowledge across all tools.
+ Enterprise Custom Tools
+ Create and distribute custom AI tools that align with your school’s standards and documents.
+ Tool Management Controls
+ Show or hide tools on educator dashboards.
+ Enhanced Moderation In Student AI Tools
+ Filter and manage content that students input/receive through AI tools.
+ Co-branding
+ Create a trusted and cohesive experience for educators with your district&#x27;s logo and messaging
+ Analytics and Dashboards 
+ Advanced Data Dashboards
+ Track adoption and usage trends across your district. Get data you need for board level reporting. 
+ Student Room Insights
+ Monitor student engagement and participation in real-time.
+ Staff Learning Engagement Analytics
+ View learner-level insights including certifications, course enrollments, progress, time spent, and recent activity.
+ Support and Partnership 
+ Self-Serve Help Center
+ Connect with the MagicSchool team and browse support articles. 
+ Professional Development
+ Access self-paced learning, videos, certification courses, and live or on-demand webinars.
+ Custom PD packages
+ Dedicated Customer Success Manager
+ Dedicated support to ensure smooth onboarding, implementation, and ongoing success for your organization.
+ White-Glove Onboarding
+ Get dedicated guidance to help your team launch with confidence.
+ Professional Services
+ Tailored expertise for your district. We offer custom PD, curriculum integration, and strategic consulting for an additional cost to help you get the most from MagicSchool.
+ District add-ons
+ More support, scale, and magic
+ From feedback at scale to AI-powered educator support, these new solutions help districts expand what&#x27;s possible.
+ Learning Outcomes Module
+ Feedback is most powerful when it&#x27;s timely. The Learning Outcomes Module helps teachers make formative assessment and feedback a daily habit, even at scale.
+ Get in touch to learn more
+ Educator Guidance
+ Give teachers expert AI guidance on everything from prompting to responsible classroom use. Every response is tailored to your district&#x27;s policies and expectations.
+ Get in touch to learn more
+ Approved and trusted AI for schools
+ MagicSchool is available for purchase through trusted partners.
+ UEN (Utah)
+ ESC (Indiana)
+ Shop DOE (NYC)
+ MISBO
+ ESUCC (Nebraska)
+ BuyBoard (Texas)
+ Hear from districts using MagicSchool
+ Proudly the #1 AI platform partnering with teachers and districts worldwide.
+ See the Wall of Love
+ Your questions, answered
+ Helpful answers about plans, pricing, and how MagicSchool works.
+ View all FAQs 
+ If my school or district doesn’t have MagicSchool Enterprise, can I still access all educator features?
+ Yes, teachers can use MagicSchool independently through Free or Plus plans. Enterprise adds district-level management and visibility, but classroom tools remain available to individual educators.
+ ‍
+ What tools does MagicSchool provide for district-level visibility and usage monitoring?
+ Enterprise includes district dashboards that provide visibility into adoption and overall usage patterns across schools. District leaders can manage access, support implementation, and ensure AI use aligns with local policies and instructional priorities.
+ How does pricing compare to other AI platforms?
+ Many AI tools aren’t built with the needs of teachers and students in mind and are priced beyond their reach, with Microsoft Copilot being priced at $25 a month and ChatGPT Plus priced at $20 per month . In addition, both are not customized for education and do not provide safe student access. Our pricing meets the needs of school and district budgets. Our yearly cost is over 50% lower than both Microsoft Copilot and ChatGPT Plus with more value including student usage. 
+ How much does it cost for a school or district license to MagicSchool Enterprise? How much for an individual subscription to MagicSchool Plus?
+ For school and district Enterprise licenses , we offer volume-based discounts, additional features listed on the chart above, unparalleled customer support, and much more. Request a quote now!
+‍
+‍
+ ‍ For individual subscribers to MagicSchool Plus, pricing is as follows: Billed Monthly: $12.99 per month. Billed Yearly (36% discount): $8.33 per month ($99.96 yearly).
+ Bring the magic to your school
+ See how schools use MagicSchool to support teaching and learning every day.
+ Get pricing
+ THE AI OPERATING SYSTEM FOR SCHOOLS, TEACHERS ARE MAGIC and MAGICSCHOOL are trademarks of Magic School, Inc.
+ Book a demo
+ Free for teachers
+ AI Solutions
+ AI for Schools
+ For Superintendents
+ For Chief Academic Officers
+ For Chief Technology Officers
+ For Principals
+ AI for Teachers
+ Lesson Plan Generator
+ Rubric Generator
+ Presentation Generator
+ Multiple Choice Quiz Maker
+ Worksheet Generator
+ AI for Students
+ Outcomes
+ One AI Platform
+ Protect Privacy & Security
+ Drive Student Outcomes
+ Build AI Literacy
+ Save Time
+ Integrate Quickly
+ Write AI Policy
+ Resources
+ Support
+ App Status
+ Professional Development
+ Certification Courses
+ Blog
+ Case Studies
+ Webinars
+ Ready-Made Resources
+ FAQs
+ Parent Resources
+ Company
+ About Us
+ Pricing
+ Events
+ AI Pioneers
+ Careers
+ MagicSchool Store
+ Mission
+ Press
+ Privacy Policy
+ Trust Center
+ Terms
+ Accessibility
+ Sustainability

@@ -1,9 +1,10 @@
+import { BRAND } from "@/lib/data";
 import { tools, anchors, stacks, getTool, SITE } from "@/lib/data";
 import { indexableSaas } from "@/lib/seo";
 export const dynamic = "force-static";
 export function GET() {
   const l = [
-    "# BetterAlt", "", "> Find a better or cheaper alternative to any AI tool, with today's prices in USD (India INR prices shown as a secondary line where the vendor publishes them; never converted). Every price links to the vendor's official pricing page with a last-checked date (latest check 18 Oct 2026). Unverified prices are marked 'See pricing'.", "",
+    `# ${BRAND}`, "", "> Find a better or cheaper alternative to any AI tool, with today's prices in USD (India INR prices shown as a secondary line where the vendor publishes them; never converted). Every price links to the vendor's official pricing page with a last-checked date (latest check 18 Oct 2026). Unverified prices are marked 'See pricing'.", "",
     "## Alternatives pages", ...anchors.map((a) => `- [Alternatives to ${getTool(a.slug)!.name}](${SITE}/alternatives/${a.slug}): ${a.alternatives.length} alternatives`), "",
     "## AI alternatives to classic software", ...indexableSaas().map((s) => `- [AI alternative to ${s.name}](${SITE}/ai-alternative-to/${s.slug})`), "",
     "## Stacks", ...stacks.map((s) => `- [${s.title}](${SITE}/stacks/${s.slug}): ${s.intro}`), "",

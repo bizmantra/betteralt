@@ -1,0 +1,293 @@
+#SNAPSHOT {"url":"https://tldv.io/app/pricing/","finalUrl":"https://tldv.io/app/pricing/","fetchedAt":"2026-10-17T21:00:53.972Z","method":"playwright","region":"in","currency":"INR","http":200,"sha256":"afe993ec902e6545b224ff1fc41342eadabcc78ce4af4e725f2a76c583dea966"}
+Product & Integrations
+Usecases
+tl;dv for Sales
+Pricing
+Login
+Book a Demo
+Get tl;dv - Free forever
+Automate meeting workflows across your company.
+Monthly
+Annually
+UP TO 40% OFF
+Free
+Start with tl;dv instantly.
+₹0
+No credit card required
+Start for Free
+Unlimited video recordings
+Unlimited transcription in 30+ languages
+Email & calendar integrations
+Mobile app (iOS, Android)
+AI-supported chat & self-serve help center
+AI features usage limits:
+10x meetings with AI notes included
+10x Ask AI queries included
+Pro
+For individuals & small teams who want fast, accurate AI reporting.
+₹1,715
+per seat/month, billed annually
+Upgrade to Pro
+Everything in Free, plus:
+Premium transcription quality
+Multi-language support
+Unlimited meetings with AI notes
+Custom AI notes templates
+AI action item assignment
+Unlimited single-meeting Ask AI
+Email follow-up drafter
+5000+ integrations
+Global transcript search
+Custom bot appearance
+Unlimited uploads & storage
+MCP server, API & webhooks
+POPULAR
+Business
+For teams looking for meeting insights automation at scale.
+₹2,499
+No usage-based AI fees
+per seat/month, billed annually
+Try for Free
+Looking for a team solution? Book a demo
+Everything in Pro, plus:
+Advanced transcription
+Custom vocabulary
+Unlimited multi-meeting AI insights
+Scheduled AI reports
+AI playbook monitoring
+AI objection handling
+Team management & orchestration
+Team-wide integrations
+Team-wide automations
+Enterprise
+For organizations who need advanced security, control, and support.
+Custom
+Contact us for demo and pricing
+Talk to an expert
+Everything in Business, plus:
+Organization management & orchestration
+Super admin role
+Org-wide integrations
+Org-wide automations
+SCIM provisioning
+Custom SSO
+Privately hosted AI
+Organization activity logs
+Optional usage-based pricing
+Dedicated Success Manager
+“The forefront of AI-driven meeting intelligence”
+4.7
+(+400 reviews)
+2M+ users
+GDPR & SOC2
++1M teams worldwide use tl;dv to save hours every week
+Find the plan that fits your team
+Free
+Start for Free
+Pro
+Upgrade to Pro
+Business
+Try for Free
+Enterprise
+Talk to an expert
+Usage
+Workspace members
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Number of recordings
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Number of viewers
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Transcription in 30+ languages
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Recording storage
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+AI credits usage
+Limited*
+Unlimited
+Unlimited
+Unlimited
+Data retention period
+up to 3 months*
+Custom
+Custom
+Custom
+Recording & Transcript
+Recording limit
+3h
+3h
+3h
+3h
+Simultaneous meetings
+2
+3
+Custom
+Uploads
+up to 5
+Unlimited
+Unlimited
+Unlimited
+Weekly web recording capacity
+40/week
+80/week
+120/week
+500/week
+Weekly mobile recording capacity
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Recording trimming
+up to 5
+Unlimited
+Unlimited
+Unlimited
+Global transcript search
+Automatic speaker detection
+Manual speaker labeling
+Shareable clips
+Mobile app (Android, iOS)
+Custom bot appearance
+Download recording
+Premium transcript quality
+Auto-detect meeting language
+Multi-language meeting
+AI
+AI meeting notes
+up to 10 meetings
+Unlimited
+Unlimited
+Unlimited
+Highlight key moments live
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Single-meeting ask AI
+up to 5 queries
+Unlimited
+Unlimited
+Unlimited
+Multi-meeting ask AI
+up to 5 queries
+up to 5 queries
+Unlimited
+Unlimited
+Custom AI summaries templates
+Action item assignment
+Follow-up email drafting
+Scheduled AI email insights
+AI voice identification (voice prints)
+AI speaker insights
+Playbooks monitoring & coaching
+AI objection handling
+Integrations
+Email & calendar integrations
++5000 integrations via Zapier
+CRM field mapping
+CRM integrations
+Personal
+Personal + Team
+Personal + Team + Organization
+API, webhooks, and MCP server
+Personal
+Personal + Team
+Personal + Team + Organization
+Caller integrations
+Collaboration
+Folder management
+Automatic notes sharing by email
+Team shared libraries
+Feedback layer
+Multiple teams
+Meeting templates
+Personal
+Personal + Team
+Personal + Team
+Personal + Team + Organization
+Automated workflows
+Personal
+Personal + Team
+Personal + Team
+Personal + Team + Organization
+Recording privacy defaults
+Personal
+Personal + Team
+Personal + Team
+Personal + Team + Organization
+Recording consent settings
+Personal
+Personal + Team
+Personal + Team
+Personal + Team + Organization
+Custom words dictionary
+Personal + Team
+Personal + Team + Organization
+Security & Compliance
+Auto-recording defaults
+Personal
+Personal + Team
+Personal + Team
+Personal + Team + Organization
+GDPR & consent management
+Restricted workspace access
+Organization admin role
+SCIM provisioning
+Privately hosted AI
+Custom SSO (SAML, OIDC)
+Custom policies per account type
+Organization activity log
+Customer support
+AI-supported chat & self-serve help center
+Email & chat support
+Priority customer support
+Dedicated Success Manager
+Custom invoicing
+Everything teams look for - without the trade-offs
+All the power you expect from meeting intelligence - plus flexible collaboration, transparent pricing, and team-wide value.
+Fireflies
+Free Plan Allowances
+3 transcriptions
+No video
+5 hours storage/m
+Unlimited transcriptions
+Unlimited video
+Unlimited storage
+Multi-Meeting Summaries
+Coaching Platform
+Read full comparison tl;dv vs. Fireflies
+Frequently asked questions
+Can't find the answer here? Contact support
+What is counted as a seat?
+How do I buy seats for multiple members of my team at once?
+How secure is tl;dv?
+Do you offer a trial for paid plans?
+Are you offering discounts for non-profits and NGOs?
+Enterprise-ready security
+Keeping your data safe is our priority. Learn more.
+GDPR COMPLIANT
+SOC2 COMPLIANT
+EU AI ACT COMPLIANT
+HOSTED AND STORED IN EU
+PRIVATELY HOSTED AI ON REQUEST
+Get started with tl;dv
+Turn every meeting into actionable knowledge.
+Try tl;dv for Free
+Request demo
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://tldv.io/#software","name":"tl;dv","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://tldv.io/app/pricing/","offers":[{"@type":"Offer","name":"Free — billed monthly","price":"0.00","priceCurrency":"EUR","url":"https://tldv.io/app/pricing/","availability":"https://schema.org/InStock","priceSpecification":{"@type":"UnitPriceSpecification","price":"0.00","priceCurrency":"EUR","unitText":"seat","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Pro — billed monthly","price":"29.00","priceCurrency":"EUR","url":"https://tldv.io/app/pricing/","availability":"https://schema.org/InStock","priceSpecification":{"@type":"UnitPriceSpecification","price":"29.00","priceCurrency":"EUR","unitText":"seat","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Pro — billed annually (18.00 EUR per seat/month)","price":"216.00","priceCurrency":"EUR","url":"https://tldv.io/app/pricing/","availability":"https://schema.org/InStock","priceSpecification":{"@type":"UnitPriceSpecification","price":"216.00","priceCurrency":"EUR","unitText":"seat","referenceQuantity":{"@type":"QuantitativeValue","value":12,"unitCode":"MON"}}},{"@type":"Offer","name":"Business — billed monthly","price":"39.00","priceCurrency":"EUR","url":"https://tldv.io/app/pricing/","availability":"https://schema.org/InStock","priceSpecification":{"@type":"UnitPriceSpecification","price":"39.00","priceCurrency":"EUR","unitText":"seat","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Business — billed annually (29.00 EUR per seat/month)","price":"348.00","priceCurrency":"EUR","url":"https://tldv.io/app/pricing/","availability":"https://schema.org/InStock","priceSpecification":{"@type":"UnitPriceSpecification","price":"348.00","priceCurrency":"EUR","unitText":"seat","referenceQuantity":{"@type":"QuantitativeValue","value":12,"unitCode":"MON"}}}]}

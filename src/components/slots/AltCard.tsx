@@ -8,9 +8,11 @@ import Cta from "./Cta";
 function Badges({ t }: { t: Tool }) {
   const b: { k: string; cls: string }[] = [];
   if (t.status && t.status !== "active") b.push({ k: t.status === "renamed" && t.formerNames?.length ? `Renamed (was ${t.formerNames.join(", ")})` : (site.statusLabels?.[t.status] ?? t.status), cls: "bg-rust-tint text-rust" });
-  if (t.pricing.hasFreePlan || t.tags.includes("free")) b.push({ k: "Free plan", cls: "border border-ink bg-white" });
-  if (t.tags.includes("open source")) b.push({ k: "Open source", cls: "bg-green-tint text-green" });
-  if (t.tags.includes("self-hostable")) b.push({ k: "Self-hostable", cls: "bg-paper border border-ink" });
+  const ok = t.pricing.verified === true; // unverified tools get no badges (Draco)
+  if (ok && t.pricing.hasFreePlan) b.push({ k: "Free plan", cls: "text-ink-2" });
+  if (ok && t.tags.includes("open source") && t.openSource?.licenseType === "open-source") b.push({ k: `Open source · ${t.openSource.license}`, cls: "bg-green-tint text-green" });
+  if (ok && t.openSource && t.openSource.licenseType !== "open-source") b.push({ k: t.openSource.licenseType === "fair-code" ? "Fair-code (source-available)" : "Source-available", cls: "bg-amber-tint text-amber" });
+  if (ok && t.tags.includes("self-hostable")) b.push({ k: "Self-hostable", cls: "text-ink-2" });
   if (!b.length) return null;
   return <p className="flex flex-wrap gap-1.5">{b.map((x) => <span key={x.k} className={`rounded px-1.5 py-1 text-[11px] font-semibold uppercase leading-none tracking-wide ${x.cls}`}>{x.k}</span>)}</p>;
 }
@@ -32,7 +34,7 @@ export default function AltCard({ t, meta, anchor, anchorName, position, extra }
       <Badges t={t} />
     </div>
     <div className="space-y-1 border-t border-dashed pt-2 lg:border-t-0 lg:pt-0">
-      <Price t={t} />
+      <Price t={t} card />
       {o && <p className="font-mono text-[13px] text-ink-2">★ {fmtStars(o.stars)} · {o.license}{o.setupDifficulty ? ` · Setup ${o.setupDifficulty}/5` : ""}{o.archived ? " · archived" : ""} · <a href={o.repo} className="underline" target="_blank" rel="nofollow noopener">repo<span className="sr-only"> ({t.name} GitHub repository)</span></a></p>}
     </div>
     <div className="lg:self-start">

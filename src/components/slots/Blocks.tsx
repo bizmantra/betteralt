@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Tool } from "@/lib/data";
-import { getPerson, site, FILTERS, type FilterKey } from "@/lib/data";
+import { site, FILTERS, type FilterKey } from "@/lib/data";
 import type { Pick } from "@/lib/picks";
 import { Price } from "@/components/ui";
 import Monogram from "@/components/Monogram";
@@ -42,19 +42,18 @@ export function NewsletterInline({ tool, source }: { tool: string; source: strin
     <NewsletterForm source={source} placement="inline" />
   </div>;
 }
-export function MethodologyCard({ reviewedBy }: { reviewedBy?: string }) {
-  const p = getPerson(reviewedBy);
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+export function MethodologyCard(_props: { reviewedBy?: string }) {
   return <section id="how-we-picked" className="scroll-mt-4 border-t-2 border-ink pt-3"><h2 className="font-serif text-2xl font-semibold">How we picked</h2>
     <ul className="mt-2 max-w-3xl list-disc space-y-1 pl-5 text-[15px]">
-      <li>Prices come from each vendor&apos;s official pricing page, in US dollars, never converted. Every price shows the date we checked it and links to its source. We re-check {site.recheckSchedule ?? "regularly"}; a price older than {site.staleAfterDays ?? 30} days is marked &quot;Re-checking price&quot;.</li>
+      <li>Prices come from each vendor&apos;s official pricing page, in US dollars, never converted. Every price shows the date we checked it and links to its source. Each price must match a stored copy (snapshot) of the vendor&apos;s page, or it isn&apos;t published. We re-check {(site.recheckSchedule ?? "regularly").replace(/^T/, "t")}, and those tools aren&apos;t ranked or badged until they&apos;re re-checked.</li>
       <li>Order: &quot;Our pick order&quot; is our hand-curated list of the closest alternatives. It isn&apos;t a numbered ranking. &quot;Lowest starting price&quot; sorts by the cheapest paid plan we list; some starting prices are billed annually and are labelled that way.</li>
-      <li>&quot;Best for&quot; picks either come from our editors with a stated reason, or from a rule shown next to the pick (for example, lowest listed starting price).</li>
+      <li>&quot;Best for&quot; badges follow fixed rules: Best free is our top pick with a $0 plan; Best budget is the lowest verified paid price that is cheaper than the tool you&apos;re replacing on the same billing basis; Best open source needs an OSI-approved licence. An editor can choose a different tool only with a written reason, and only if it passes the same test. If no tool passes, the badge isn&apos;t shown.</li>
       <li>Money: {site.disclosure?.affiliate} Affiliate links are labelled next to the button. {site.disclosures?.sponsored}</li>
-      <li>Reddit: we only show quotes copied word for word, each linked to its thread. Any summary is labelled as our read and lists the threads it&apos;s based on.</li>
+      <li>Reddit: we only show quotes copied word for word, each linked to its comment and re-checked live. Any summary is labelled as our read and lists the threads it&apos;s based on.</li>
       <li>{site.disclosures?.aiAssisted}</li>
       <li>Spotted a mistake? Email <a href={`mailto:${site.email}`} className="underline">{site.email}</a> and we&apos;ll fix it.</li>
     </ul>
-    {p && <div className="mt-3 inline-block rounded-lg border-[1.5px] border-ink bg-white p-3 text-sm"><p className="text-[12px] font-semibold uppercase tracking-wide text-ink-2">Reviewer</p><p className="font-semibold">{p.name}, {p.role}</p>{p.credential && <p>{p.credential}</p>}{p.bio && <p className="text-ink-2">{p.bio}</p>}</div>}
   </section>;
 }
 export function Faq({ items }: { items: { q: string; a: string }[] }) {

@@ -1,0 +1,224 @@
+#SNAPSHOT {"url":"https://penpot.app/pricing","finalUrl":"https://penpot.app/pricing","fetchedAt":"2026-10-17T20:52:39.151Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"cc368a27c5a0bbf18b1391511d1b509b8a9cd07d09613843a098b48a341b681b"}
+Penpot Pricing | From Professional to Enterprise Plans 
+ Product
+ Self-host
+ AI Workflows
+ Features
+ Release notes
+ Integration & API
+ Business Cases
+ Features
+ Community
+ Community Space
+ Ambassador Program
+ Wall of love
+ Penpot Fest
+ Blog
+ Features
+ Features
+ Resources
+ Learning Center
+ Penpot UI Course
+ Plugins
+ Libraries & Templates
+ Tutorials
+ Dev Diaries
+ Help Center
+ Pricing
+ Contact Sales
+ Log In
+ Sign up for free
+ Contact Sales
+ Transparent pricing
+ Design without limits and govern your teams and workflows as you scale.
+ Cloud 
+(We host)
+ Self-host
+ (You host)
+ Professional
+ $0
+ user/​month
+ Sign up for free
+ Free and fully featured.
+No limits, no missing tools.
+Design and collaborate like a pro.
+ Talk to us
+ Unlimited
+ $7
+ editor/​month
+ Cap on $175 per month, no matter your team size.
+ Sign up for free
+ Support Penpot and unlock more. Extra space, extended history, and early features.
+A little extra goes a long way. 
+ Try it free for 14 days
+ Talk to us
+ Enterprise
+ $25
+ member/​month
+ Sign up for free
+ For organizations that need advanced governance, centralized administration, team permissions, and secure collaboration.
+ Try it free for 14 days
+ Talk to us
+ Private Server
+ $50k
+ year
+ Sign up for free
+ For organizations that need dedicated infrastructure. Custom hosting, advanced security, and enterprise-grade support.
+ Talk to us
+ All these prices are in USD.
+ Non-profit, education and open-source discounts are available - Apply here
+ The same core features are included
+ with every plan
+ From Professional to Enterprise, you get all the essential fundamentals built in.
+ No file limits
+ Create as many as you need within your storage capacity.
+ Unlimited Teams
+ Collaborate freely with unlimited teams.
+ Open Source
+ No vendor lock-in. You own your designs and code.
+ Create as many as you need within your storage capacity.
+ Professional
+ Unlimited
+ Enterprise
+ Private Server
+ Unlimited team size
+ Up to 8 team members, and unlimited viewers
+ Unlimited storage
+ Up to 10GB of storage (typical file size: 10–100MB)
+ Up to 25GB of storage (typical file size: 10–100MB)
+ 90 days of autosave versions
+ 7 days
+ 30 days
+ 90 days file recovery
+ 7 days
+ 30 days
+ Early access to features
+ 50% discount on Penpot events
+ 50% discount on Penpot events
+ 50% discount on Penpot events
+ Single sign-on (SSO)
+ Choice of hosting region (EU, US, etc)
+ IP whitelisting
+ Penpot Pricing FAQs
+ Capabilities
+ How long does it take to learn Penpot coming from Figma or Adobe XD? 
+ Do you offer migration services from Figma or Adobe XD? 
+ How does Penpot handle design systems?
+ Can developers work directly in Penpot? 
+ Technical & deployment
+ What&#x27;s required to selfhost Penpot?
+ How do updates work for self hosted?
+ What security certifications do you support?
+ Business & pricing
+ What&#x27;s included in Enterprise vs Professional?
+ Trust & continuity
+ How is Penpot funded?
+ What&#x27;s your enterprise roadmap?
+ Which parts are open-source?
+ What if Penpot discontinues?
+ POWERING DESIGN AT
+ They love Penpot
+ Tens of thousands of organizations of all sizes proudly use Penpot, including many popular open-source projects.
+ I wanted to give @penpotapp a try for my product team and self-host it, and I’m honestly amazed at what the team has done to make this platform accessible. 
+Such a game changer for open source design. Viva, open source and Penpot! 
+ Angela Oduor
+ @AngieNicoleOD
+ Oh my gosh - I love it. The controls felt very intuitive to me - way more intuitive! They map nicely to the mental models of actual CSS. I LOVE the wrapping options as well.
+I also really appreciate how developer-friendly this is, so hand-off becomes simple!
+ Brett Haymaker
+ @BrettHaymaker
+ Building a design tool on top of web & dev standards is super clever. @penpotapp
+Imagine autolayout behaving like css flexbox and no more design & dev back and forth. 🪄🤹
+Using all these open standards. Chef💋
+ Sil Bormüller
+ @svorklab
+ More love
+ Stay in the loop
+ Receive product and Community updates!
+ Email 
+ I agree to receive this newsletter and I agree to the Penpot Privacy Policy
+ Get your newsletter
+ Email 
+ Checkbox
+ Checkbox
+ Checkbox
+ Subscribe
+ Full-stack Design
+ Product
+ Design
+ MCP Server
+ Code
+ Collaboration
+ Features
+ Design Tool
+ Penpot VS Figma
+ Penpot VS Adobe XD
+ Penpot VS Canva
+ Penpot VS Sketch
+ Company
+ About
+ Blog
+ Wall of love
+ Penpot Fest
+ Careers
+ Hiring!
+ Media Kit
+ Resources
+ Penpot UI Design Course
+ Plugins
+ Libraries & templates
+ Learning center
+ Tutorials
+ Community
+ Release notes
+ Help center
+ For Businesses
+ Security & Compliance
+ Pricing
+ Self-host
+ Integration & API
+ Why Penpot
+ Penpot Enterprise
+ Design Infrastructure
+ Resources
+ Penpot UI Design Course
+ Plugins
+ Libraries & templates
+ Learning center
+ Tutorials
+ Community
+ Dev diaries
+ Help center
+ For Business
+ Security & Compliance
+ Pricing
+ Self-host
+ Integration &API
+ Why Penpot
+ Penpot Enterprise
+ Design Infrastructure
+ Company
+ About
+ Blog
+ Wall of love
+ Penpot Fest
+ Careers
+ Media Kit
+ Use Cases
+ Wireframing
+ Prototyping
+ UX design
+ AI Workflows
+ Collaborative UI Design
+ Key Features
+ Design Tokens
+ Design Systems
+ CSS Grid and Flex Layouts
+ Legal
+ Terms & conditions
+ Privacy policy
+ Cookie policy
+ Data processing agreement
+ Whistleblowing
+ Made with LOVE and Open Source
+KALEIDOS Subsidiary SL © 2026

@@ -1,0 +1,180 @@
+#SNAPSHOT {"url":"https://manus.im/pricing","finalUrl":"https://manus.im/pricing","fetchedAt":"2026-10-17T20:54:26.258Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"b508f536a3b7a9eac195a1a6031bf9d875b66ac1eb3a7769d77dbf9e1387e9a9"}
+Features
+Solutions
+Resources
+Events
+Business
+Pricing
+English
+Get started
+Introducing Manus 2.0
+Manus Pricing Plans
+Monthly
+Annually · Save 17%
+$
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+/ month
+Standard monthly usage
+Get started
+300 refresh credits everyday
+4,000 credits per month
+In-depth research for everyday tasks
+Professional websites for standard output
+Insightful slides for regular content
+Task scaling with Wide Research
+Early access to beta features
+20 concurrent tasks
+20 scheduled tasks
+$
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+/ month
+Customizable monthly usage
+Get started
+8,000 credits / month
+300 refresh credits everyday
+8,000 credits per month
+In-depth research with self-set usage
+Professional websites for changing needs
+Insightful slides for steady creation
+Wide Research scaled to your chosen plan
+Early access to beta features
+20 concurrent tasks
+20 scheduled tasks
+$
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+/ month
+Extended usage for productivity
+Get started
+40,000 credits / month
+300 refresh credits everyday
+40,000 credits per month
+In-depth research for large-scale tasks
+Professional websites with data analytics
+Insightful slides for batch production
+Wide Research for sustained heavy use
+Early access to beta features
+20 concurrent tasks
+20 scheduled tasks
+Manus Plans for Teams & Enterprise
+Flexible plans for teams of all sizes — from startups to enterprise.
+Get Team
+Learn more
+Security and Compliance
+Enterprise-grade security and industry-standard certifications.
+Having a problem? Go to Help center.
+Less structure,
+more intelligence.
+Product
+Pricing
+Web app
+AI design
+AI slides
+AI image generator
+AI music generator
+Video
+Wide Research
+Slack integration
+All models
+More features
+Resources
+Download
+Blog
+Docs
+Updates
+Help center
+Trust center
+API
+Team plan
+Startups
+Playbook
+Brand assets
+Community
+Events
+Fellows
+Compare
+VS ChatGPT
+VS Lovable
+VS Replit
+Download
+Mobile app
+Desktop app
+My Browser
+Business
+Team plan
+SSO
+API
+Company
+About us
+Careers
+For media
+Terms of service
+Privacy policy
+© 2026 Manus AI
+English

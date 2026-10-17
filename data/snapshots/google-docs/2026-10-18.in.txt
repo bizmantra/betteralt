@@ -1,0 +1,682 @@
+#SNAPSHOT {"url":"https://workspace.google.com/intl/en_in/pricing","finalUrl":"https://workspace.google.com/pricing?hl=en_in","fetchedAt":"2026-10-17T20:54:41.548Z","method":"playwright","region":"in","currency":"INR","http":200,"sha256":"da55e7a2f897c6ee38f3a5ce87c49022dd76a108a887d71580a166518285377c"}
+Solutions
+Products
+Industries
+AI
+Pricing
+Resources
+Admin console
+Contact sales
+Try now
+Try Google Workspace for 14 days
+Users
+Increment
+Decrement
+info
+Annual (Save 16% with one-year commitment)
+Base
+50% off for 3 months
+help
+₹49.50₹99**
+/user/month
+Try now
+No cost for 14 days
+Base includes:
+20 GB
+pooled storage per person*
+Secure custom business email
+you@your-company.com
+Full suite of Google Workspace apps, including Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets, Slides, Forms and Sites
+Video meetings, 100 participants
+Security and management controls
+Add and manage up to 20 users
+Starter
+₹270
+/user/month
+Try now
+No cost for 14 days
+All of Base, and:
+30 GB
+1.5x more than Base*
+Secure custom business email
+you@your-company.com + Gemini AI assistant in Gmail
+Chat with Gemini AI, with enterprise-grade security and privacy
+Gemini Notebook AI research assistant, with enterprise-grade security and privacy
+Automate everyday work
+Create AI-powered flows across Workspace apps with Studio
+Google Vids AI-powered video creator and editor
+Add and manage up to 300 users
+Standard
+20% off
+help
+₹864₹1,080**
+/user/month
+Try now
+No cost for 14 days
+All of Starter and:
+2 TB
+65x more than Starter*
+Secure custom business email
++ custom layouts and mail merge
+Gemini AI assistant in Gmail, Docs, Meet and more
+Gemini Notebook with expanded access to features
+Chat with AI in the Gemini app with expanded access to models and features
+Video meetings with recording, noise cancellation, 150 participants
+Appointment booking pages
+eSignature with Docs and PDFs
+Google Workspace Migrate tool for data migration
+Enterprise
+Let's talk
+Contact sales
+All features mentioned and:
+5 TB
+or upgrade for more*
+Secure custom business email
++ S/MIME encryption
+Video meetings with in-domain live streaming, 1,000 participants
+Data Loss Prevention (DLP)
+Context-aware access
+Enterprise data regions
+Cloud Identity Premium
+Enterprise endpoint management
+AI classification for Google Drive
+Assured Controls and AI classification available as add-on
+Enhanced Support for faster response times for critical issues
+No minimum or maximum user limit
+All plans billed monthly
+All prices ₹INR
+The Base plan can be purchased for a maximum of 20 users, while Starter and Standard plans support up to 300 users. There is no minimum or maximum user limit for Enterprise plans. Google Workspace customers may have access to additional features for a limited promotional period.
+*Google Workspace provides flexible pooled storage per user that is shared across the organisation. Business Base includes 20 GB pooled storage per user, Business Starter includes 30 GB, Business Standard includes 2 TB and Enterprise Plus includes 5 TB. Visit our Help Centre to learn more about getting additional storage for your organisation.
+**Offer available to new Google Workspace customers only. This introductory price is only available for the first 20 users added, for 12 months. Standard pricing will apply to all users after 12 months. Actual price per user may vary by up to ~0.01% due to rounding. Final price will be shown before completing sign-up.
+Compare all Workspace features
+Jump to product
+Gmail
+Gemini
+Meet
+Drive
+Chat
+Calendar
+Docs, Sheets, Slides
+Security
+Productivity and collaboration
+Gmail Business email
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Custom email for your business
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Phishing and spam protection that blocks more than 99.9% of attacks
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Ad-free email experience
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Gemini in Workspace apps
+This feature is not supported by this SKU
+horizontal_rule 
+Limited
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Enterprise-grade security and privacy
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Gemini in Gmail – find, summarise and write emails faster with AI
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Gemini in Docs – tackle the blank page or polish draft documents with AI
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Gemini in Sheets – visualise data and surface insights faster with AI
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Gemini in Slides – make presentations shine with AI images
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Gemini in Vids – tell engaging stories at work with AI-powered video creation
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Gemini in Drive – find, summarise and analyse files with AI
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Gemini in Meet – let AI summarise, translate and take notes in meetings
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Gemini in Chat – find, summarise and translate chats with AI
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Gemini AI assistant from Google
+Basic access
+Basic access
+Expanded access
+Expanded access
+Enterprise-grade security and privacy
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Chat with Gemini on web or mobile
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Google's most capable AI models for complex tasks
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Customise AI with skills
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Meet Video and voice conferencing
+100 participants
+100 participants
+150 participants
+1000 participants
+Meeting length (maximum)
+24 hours
+24 hours
+24 hours
+24 hours
+US or international dial-in phone numbers
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Studio sound noise cancellation
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Adaptive audio
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Meeting recordings saved to Google Drive
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+expand_more
+See more features
+Drive Secure cloud storage
+20 GB per user
+30 GB per user
+2 TB per user
+5 TB per user with ability to request more
+Drive for desktop
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+expand_more
+See more features
+Chat Team messaging
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Turn history on or off by default
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Auto-accept invitations
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+expand_more
+See more features
+Calendar Shared calendars
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Appointment booking pages
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Browse and reserve conference rooms
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Docs, Sheets, Slides and Vids Collaborative content creation
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Vids AI-powered video creation
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Keep shared notes
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+eSignature with Docs and PDFs
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Sites website builder
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Forms survey builder
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Interoperability with Office files
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Easier analysis with Smart Fill, Smart Cleanup and answers
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Proofread to help with writing style
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+expand_more
+See more features
+Gemini Notebook AI thinking and research partner
+Basic access
+Basic access
+Expanded access
+Expanded access
+Generate interactive Audio Overviews with two AI hosts
+Up to 3 per day
+Up to 3 per day
+Up to 20 per day
+Up to 20 per day
+Enterprise-grade security and privacy
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Get 5x more notebooks, chat queries and sources per notebook
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Chat modes to customise style and length
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+AppSheet Build apps without code
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Workspace Studio Automate your workday with intelligent AI agents
+This feature is not supported by this SKU
+horizontal_rule 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Security and management
+2-Step Verification
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Group-based policy controls
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Advanced Protection Programme
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check 
+This feature is available for the SKU
+check
+Endpoint management
+Fundamental
+Fundamental
+Fundamental
+Enterprise
+expand_more
+See more features
+The Base plan can be purchased for a maximum of 20 users, while Starter and Standard plans support up to 300 users. There is no minimum or maximum user limit for Enterprise plans.
+Google Workspace customers may have access to additional features for a limited promotional period.
+Offer available to new Google Workspace customers only. This introductory price is only available for the first 20 users added, for 12 months. Standard pricing will apply to all users after 12 months. Actual price per user may vary by up to ~0.01% due to rounding. Final price will be shown before completing sign-up.
+Google Workspace provides flexible pooled storage per user that is shared across the organisation. Visit our Help Centre to learn more about getting additional storage for your organisation.
+Paid upgrade available from Standard to Enhanced Support, or from Enhanced to Premium Support on Enterprise plans
+Try Google Workspace for free
+See why millions of businesses love and rely on Google Workspace for their business needs.
+Try now
+Top questions about Google Workspace pricing
+What is a user?
+expand_more
+How do I buy and pay?
+expand_more
+What is the payment plan?
+expand_more
+Add-ons sold separately.
+AI
+AI expanded access
+Get higher access to advanced AI capabilities in Workspace, such as more Workspace Studio automations, image and video generations, real-time speech translation and more.
+Learn more
+Hardware
+Google Meet hardware
+Fast, reliable, easy-to-join web meetings and video conferencing services for any size meeting room.
+Learn more
+Chrome Enterprise
+Unlock the business capabilities of ChromeOS, Chrome Browser and Chrome devices, freeing IT to power your cloud workforce.
+Learn more
+Applications
+Voice
+An affordable, easy-to-use business telephone solution for organisations of any size.
+Get Google Workspace with Voice
+Learn more
+AppSheet
+A no-code app development platform with advanced integrations and secure governance policies.
+Learn more
+Sign up for the Google Workspace newsletter
+Enter your email
+Enter your email
+Please enter a valid email address
+Please enter a valid email address
+Region
+Region
+India
+Also sign me up for Google Cloud emails with news, product updates, event information, special offers and more. (Optional. You can also unsubscribe at a later time.)
+I understand that my personal data will be processed in accordance with Google's Privacy Policy.
+Sign up
+Follow our blog
+Search this site
+Search this site
+search
+Included applications
+Gmail
+Meet
+Chat
+Calendar
+Drive
+Docs
+Sheets
+Slides
+Forms
+Sites
+Keep
+Apps Script
+Security and management
+Admin
+Endpoint
+Vault
+Work Insights
+Solutions
+New business
+Small business
+Enterprise
+Retail
+Manufacturing
+Professional services
+Technology
+Healthcare
+Government
+Education
+Nonprofits
+Artificial intelligence
+Pricing
+Compare pricing plans
+Add-ons
+Meet hardware
+Google Voice
+AppSheet
+Resources
+Working remotely
+Security
+Customer stories
+FAQ
+Partners
+Marketplace
+Integrations
+Training and certification
+Refer Google Workspace
+Learning and support
+Admin Help
+Setup and deployment centre
+Learning Centre for users
+Forums for admins
+Google Workspace Dashboard
+What's new in Google Workspace
+Find a Google Workspace Partner
+Join the community of IT admins
+Press
+More from Google
+Google Cloud
+Google Domains
+Chrome Enterprise
+Google Business Solutions
+Google Ads
+Business Messages
+Join user studies
+Google
+About Google
+Google products
+Privacy
+Terms
+language
+Change language
