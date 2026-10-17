@@ -3,14 +3,14 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import AltFilter from "@/components/AltFilter";
 import { ToolCard, JsonLd, itemList, Price, Newsletter } from "@/components/ui";
-import { anchors, getTool, altsOf, FILTERS, filtered, MIN, type FilterKey, CHECKED } from "@/lib/data";
+import { anchors, getTool, altsOf, FILTERS, filtered, MIN, type FilterKey } from "@/lib/data";
 
 export const dynamicParams = false;
 export const generateStaticParams = () => anchors.filter((a) => altsOf(a.slug).length >= MIN).map((a) => ({ tool: a.slug }));
 export async function generateMetadata({ params }: { params: Promise<{ tool: string }> }): Promise<Metadata> {
   const { tool } = await params; const t = getTool(tool)!; const n = altsOf(tool).length;
   const title = `${n} best ${t.name} alternatives (Oct 2026), with prices`;
-  const description = `Compare ${n} alternatives to ${t.name}: free, open-source, self-hosted and cheaper options, with pricing checked ${CHECKED}.`;
+  const description = `Compare ${n} alternatives to ${t.name}: free, open-source, self-hosted and cheaper options, with prices taken from vendor pricing pages and dated.`;
   return { title, description, alternates: { canonical: `/alternatives/${tool}` }, openGraph: { title, description, url: `/alternatives/${tool}` } };
 }
 export default async function Page({ params }: { params: Promise<{ tool: string }> }) {

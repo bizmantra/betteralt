@@ -9,5 +9,7 @@ export default function Page() {
       <li>Prices are shown in the currency the vendor publishes. INR is shown where the vendor publishes INR; we don&apos;t invent conversions.</li>
       <li>Open-source details (stars, licence, last commit) come from the GitHub API.</li>
       <li>We only publish a page when it has at least three real data points.</li></ul>
-    <h2 className="text-xl font-semibold">Money</h2><p>BetterAlt may earn from clearly labelled sponsorships and affiliate links in the future. None are live today.</p></div>;
+    <h2 className="text-xl font-semibold">How BetterAlt makes money</h2>
+    <p><strong>Affiliate disclosure:</strong> some links on BetterAlt may be affiliate links. If you sign up or buy through one, we may earn a commission at no extra cost to you. Sponsored or featured placements are always labelled. Neither affects the prices we show, which always come from the vendor&apos;s own pricing page.</p>
+    <h2 className="text-xl font-semibold">Contact</h2><p>Corrections, submissions and sponsorship: <a className="text-indigo-600 underline" href="mailto:hello@findbetteralt.com">hello@findbetteralt.com</a>. See also our <a className="underline" href="/privacy">privacy policy</a> and <a className="underline" href="/terms">terms</a>.</p></div>;
 }

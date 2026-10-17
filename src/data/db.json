@@ -12,12 +12,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; paid Go, Plus and Pro plans — see pricing for current prices",
+    "summary": "Free plan; Go ₹399/mo, Plus ₹1,999/mo, Pro from ₹10,699/mo (India pricing)",
     "fromUsdMonthly": null,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://openai.com/chatgpt/pricing/",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -75,12 +75,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "summary": "Free plan; Pro $17/mo, Max $167/mo (billed annually)",
+    "fromUsdMonthly": 17,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://www.perplexity.ai/pro",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -117,12 +117,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free to try; Plus ₹759/mo, Premium ₹3,399/mo, Super ₹11,299/mo (India pricing, excl. intro offers)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://grok.com/plans",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -187,12 +187,12 @@
     "free"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://lmstudio.ai",
-    "lastChecked": "2026-10-17"
+    "summary": "Free for local models; Bionic+ $20/mo; Pro $100/mo",
+    "fromUsdMonthly": 20,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://lmstudio.ai/pricing",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -295,12 +295,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free plan; paid from ₹4,900/yr (10K points/day); ₹19,900/yr for 660K points/month (India pricing, billed yearly)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://poe.com/about",
-    "lastChecked": "2026-10-17"
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://poe.com/subscription_plans",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -315,12 +315,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free plan with 25+ free models; pay-as-you-go model prices + 5.5% platform fee (Standard)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://openrouter.ai/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -487,7 +487,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://www.tabnine.com/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -551,12 +551,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
+    "summary": "Core $20/mo ($18/mo billed annually); Pro $100/mo ($90/mo billed annually)",
+    "fromUsdMonthly": 18,
     "hasFreePlan": null,
-    "verified": false,
+    "verified": true,
     "sourceUrl": "https://replit.com/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -572,12 +572,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "summary": "Free plan; Pro $25/mo; Business $50/mo (billed monthly)",
+    "fromUsdMonthly": 25,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://lovable.dev/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -712,12 +712,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "summary": "Basic $10/mo ($8/mo billed annually); Standard $30/mo; Pro $60/mo; Mega $120/mo",
+    "fromUsdMonthly": 8,
+    "hasFreePlan": false,
+    "verified": true,
     "sourceUrl": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -754,12 +754,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "summary": "Free plan; Essential $12/mo, Premium $30/mo, Ultimate $60/mo (ex. tax)",
+    "fromUsdMonthly": 12,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://leonardo.ai/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -775,12 +775,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
+    "summary": "Pay as you go 1¢/credit; Plus $20/mo ($15/mo billed annually); Pro $60/mo ($42/mo billed annually)",
+    "fromUsdMonthly": 15,
     "hasFreePlan": null,
-    "verified": false,
+    "verified": true,
     "sourceUrl": "https://ideogram.ai/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -854,12 +854,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free to start; Firefly Standard ₹797.68/mo, Firefly Pro ₹1,596.54/mo (incl. GST, India pricing)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://www.adobe.com/products/firefly/plans.html",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -905,26 +905,6 @@
    "openSource": null
   },
   {
-   "slug": "playht",
-   "name": "Play.ht",
-   "url": "https://play.ht",
-   "category": "AI voice",
-   "description": "AI voice generator and text-to-speech API.",
-   "whoFor": "Developers building voice apps",
-   "tags": [
-    "paid"
-   ],
-   "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://play.ht/pricing/",
-    "lastChecked": "2026-10-17"
-   },
-   "openSource": null
-  },
-  {
    "slug": "murf",
    "name": "Murf AI",
    "url": "https://murf.ai",
@@ -936,12 +916,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
+    "summary": "Studio Creator from $19/mo, Business from $66/mo; API pay-as-you-go from $0.01 per 1,000 characters",
+    "fromUsdMonthly": 19,
     "hasFreePlan": null,
-    "verified": false,
+    "verified": true,
     "sourceUrl": "https://murf.ai/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -1195,12 +1175,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free plan; Pro ₹983/Doc Maker/mo billed annually (₹1,250 monthly); Team ₹2,700/mo billed annually (India pricing)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://coda.io/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -1297,12 +1277,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Starter plan with a 14-day free trial; price not published (Enterprise: contact sales)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": false,
+    "verified": true,
     "sourceUrl": "https://writer.com/plans/",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -1340,12 +1320,12 @@
     "self-hostable"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free plan; Premium ₹999/mo monthly or ₹3,499/yr (India pricing)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://languagetool.org/premium",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": {
     "repo": "https://github.com/languagetool-org/languagetool",
@@ -1368,12 +1348,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free plan; Premium ₹334/mo billed annually (India pricing)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://quillbot.com/upgrade",
-    "lastChecked": "2026-10-17"
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://quillbot.com/premium",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -1389,12 +1369,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free plan; Premium ₹1,650/mo monthly or ₹550/mo billed yearly (₹6,600/yr, India pricing)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://prowritingaid.com/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -1410,12 +1390,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
+    "summary": "Editor Plus Individual $8.33/mo ($100 billed annually); Individual 10K $12.50/mo ($150 billed annually)",
+    "fromUsdMonthly": 8.33,
     "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://hemingwayapp.com/pricing",
-    "lastChecked": "2026-10-17"
+    "verified": true,
+    "sourceUrl": "https://hemingwayapp.com/hemingway-editor-plus",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -1507,7 +1487,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://www.make.com/en/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -1689,12 +1669,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free plan; Pro Lite ₹1,590/yr, Pro ₹4,000/yr per person (India pricing)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://www.canva.com/pricing/",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -1710,12 +1690,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free plan; Premium ₹797.68/mo incl. GST (India pricing)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://www.adobe.com/express/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -1780,12 +1760,12 @@
     "freemium"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free with a Microsoft account (personal, non-commercial use); a subscription may be needed for heavier use",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://designer.microsoft.com",
-    "lastChecked": "2026-10-17"
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://support.microsoft.com/en-us/designer/frequently-asked-questions-about-microsoft-designer",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -1801,12 +1781,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free plan; Pro ₹800/mo billed annually (₹1,000 monthly), India pricing",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://www.kittl.com/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -1904,12 +1884,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
+    "summary": "14-day free trial; Lite $5.90/mo ($4.70/mo billed annually); Pro $29/mo ($16/mo billed annually)",
+    "fromUsdMonthly": 4.7,
     "hasFreePlan": null,
-    "verified": false,
+    "verified": true,
     "sourceUrl": "https://www.d-id.com/pricing/",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2009,12 +1989,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://klingai.com",
-    "lastChecked": "2026-10-17"
+    "summary": "Daily free uses; Standard $8.80/mo (monthly, after first-month offer) or $79.20/yr",
+    "fromUsdMonthly": 6.6,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://app.klingai.com/global/membership/membership-plan",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2051,12 +2031,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Pro $16.99/user/mo ($8.49 billed annually)",
-    "fromUsdMonthly": 8.49,
+    "summary": "Free Basic plan; Pro $8.33/user/mo (currently promoted at $4.17); Business $19.99/user/mo",
+    "fromUsdMonthly": 8.33,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://otter.ai/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2114,12 +2094,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free plan; Pro ₹1,715/seat/mo, Business ₹2,499/seat/mo (billed annually, India pricing)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://tldv.io/pricing/",
-    "lastChecked": "2026-10-17"
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://tldv.io/app/pricing/",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2253,7 +2233,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://www.capcut.com",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2290,12 +2270,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Creator ₹490/user/mo billed yearly (₹5,874/yr); Pro ₹1,068/user/mo billed yearly (India pricing)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://www.veed.io/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2339,12 +2319,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free plan; Plus ₹400/seat/mo, Pro ₹950/seat/mo (billed annually, India pricing)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://gamma.app/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2471,12 +2451,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "summary": "Free plan; Standard $10/mo ($8/mo billed annually); Pro $30/mo ($24/mo billed annually)",
+    "fromUsdMonthly": 8,
+    "hasFreePlan": true,
+    "verified": true,
     "sourceUrl": "https://www.udio.com/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2583,12 +2563,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free with unlimited messaging; c.ai+ $94.99/yr",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://character.ai/subscription",
-    "lastChecked": "2026-10-17"
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://character.ai/subscribe",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2638,7 +2618,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://replika.com",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2659,7 +2639,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://kindroid.ai",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2675,12 +2655,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://nomi.ai",
-    "lastChecked": "2026-10-17"
+    "summary": "Free account; paid plan $15.99/mo, $39.99/quarter or $99.99/yr",
+    "fromUsdMonthly": 8.33,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://nomi.ai/ai-today/replika-vs-nomi-2026-finding-enduring-ai-companionship/",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2701,7 +2681,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://www.talkie-ai.com",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2716,12 +2696,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free Excel on the web; Microsoft 365 Personal ₹6,899/yr, Family ₹8,199/yr (India pricing)",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/excel",
-    "lastChecked": "2026-10-17"
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.microsoft.com/en-in/microsoft-365/excel",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2849,12 +2829,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Photoshop ₹733.96/mo incl. GST (annual plan, billed monthly); ₹599/mo first-year offer for new subscribers",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
+    "hasFreePlan": false,
+    "verified": true,
     "sourceUrl": "https://www.adobe.com/products/photoshop/plans.html",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -2869,12 +2849,12 @@
     "freemium"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "Free (ad-supported); Premium removes ads, price shown in the in-app Account window",
     "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://www.photopea.com",
-    "lastChecked": "2026-10-17"
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.photopea.com/api/accounts",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -3083,12 +3063,12 @@
     "free"
    ],
    "pricing": {
-    "summary": "Included free with Shopify plans; Shopify Basic ₹1,499/mo (India pricing)",
+    "summary": "Included free with Shopify plans; Shopify Basic ₹1,800/mo billed yearly (₹1,994 monthly), India pricing",
     "fromUsdMonthly": null,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.shopify.com/pricing",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -3124,12 +3104,12 @@
     "freemium"
    ],
    "pricing": {
-    "summary": null,
-    "fromUsdMonthly": null,
-    "hasFreePlan": null,
-    "verified": false,
-    "sourceUrl": "https://www.khanmigo.ai",
-    "lastChecked": "2026-10-17"
+    "summary": "Free for teachers; learners and families $4/mo or $44/yr (+ sales tax)",
+    "fromUsdMonthly": 3.67,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.khanmigo.ai/pricing",
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -3171,7 +3151,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://quizlet.com/upgrade",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -3229,12 +3209,12 @@
     "paid"
    ],
    "pricing": {
-    "summary": null,
+    "summary": "No public price: Business via demo request; Enterprise via sales",
     "fromUsdMonthly": null,
     "hasFreePlan": null,
-    "verified": false,
+    "verified": true,
     "sourceUrl": "https://www.productboard.com/pricing/",
-    "lastChecked": "2026-10-17"
+    "lastChecked": "2026-10-18"
    },
    "openSource": null
   },
@@ -3279,6 +3259,547 @@
     "lastChecked": "2026-10-17"
    },
    "openSource": null
+  },
+  {
+   "slug": "codex",
+   "name": "OpenAI Codex",
+   "url": "https://developers.openai.com/codex",
+   "category": "AI coding assistant",
+   "description": "OpenAI's coding agent for the terminal, IDE, desktop app and cloud, included with ChatGPT plans.",
+   "whoFor": "Developers already paying for ChatGPT",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Go $8/mo; Plus $20/mo; Pro from $100/mo",
+    "fromUsdMonthly": 8,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://developers.openai.com/codex/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "gemini-cli",
+   "name": "Gemini CLI",
+   "url": "https://github.com/google-gemini/gemini-cli",
+   "category": "AI coding assistant",
+   "description": "Google's open-source AI agent for the terminal, powered by Gemini.",
+   "whoFor": "Developers who want a free terminal agent from Google",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (Apache-2.0); sign in with a Google account or use a Gemini API key (usage-based)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/google-gemini/gemini-cli",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": {
+    "repo": "https://github.com/google-gemini/gemini-cli",
+    "stars": 107421,
+    "license": "Apache-2.0",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 2
+   }
+  },
+  {
+   "slug": "opencode",
+   "name": "OpenCode",
+   "url": "https://opencode.ai",
+   "category": "AI coding assistant",
+   "description": "Open-source AI coding agent for the terminal, IDE and desktop that works with any model provider.",
+   "whoFor": "Developers who want a model-agnostic terminal agent",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source; free models included, or connect any provider",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://opencode.ai",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": {
+    "repo": "https://github.com/anomalyco/opencode",
+    "stars": 215016,
+    "license": "MIT",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 2
+   }
+  },
+  {
+   "slug": "openhands",
+   "name": "OpenHands",
+   "url": "https://www.all-hands.dev",
+   "category": "AI coding agent",
+   "description": "Open-source autonomous software-engineering agent you can run locally, self-host or use in the cloud.",
+   "whoFor": "Teams wanting an open-source Devin-style agent",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free open-source local version; cloud Individual plan free with your own API key or at-cost models",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.all-hands.dev/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": {
+    "repo": "https://github.com/OpenHands/OpenHands",
+    "stars": 91131,
+    "license": "MIT",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "devin",
+   "name": "Devin",
+   "url": "https://devin.ai",
+   "category": "AI coding agent",
+   "description": "Cognition's autonomous AI software engineer, with desktop, CLI and cloud agents.",
+   "whoFor": "Teams delegating whole engineering tasks",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $20/mo; Max $200/mo; Teams $80/mo + $40/mo per dev seat",
+    "fromUsdMonthly": 20,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://devin.ai/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "manus",
+   "name": "Manus",
+   "url": "https://manus.im",
+   "category": "AI agent",
+   "description": "General-purpose AI agent that researches, builds websites and slides, and runs multi-step tasks.",
+   "whoFor": "Knowledge workers delegating multi-step tasks",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "$20/mo (4,000 credits), $40/mo (8,000 credits), $200/mo (40,000 credits), billed monthly",
+    "fromUsdMonthly": 20,
+    "hasFreePlan": null,
+    "verified": true,
+    "sourceUrl": "https://manus.im/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "loom",
+   "name": "Loom",
+   "url": "https://www.loom.com",
+   "category": "Screen recording",
+   "description": "Async video messaging and screen recording, with Loom AI for titles, summaries and edits.",
+   "whoFor": "Remote teams replacing meetings with video",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free Starter plan (25 videos); Business $18/user/mo; Business + AI $24/user/mo",
+    "fromUsdMonthly": 18,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.loom.com/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "cap",
+   "name": "Cap",
+   "url": "https://cap.so",
+   "category": "Screen recording",
+   "description": "Open-source Loom alternative for recording and sharing your screen.",
+   "whoFor": "Makers who want a free, open-source Loom",
+   "tags": [
+    "freemium",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free for personal use; Desktop License $29/yr or $58 lifetime; Cap Pro $12/user/mo ($8.16 billed annually)",
+    "fromUsdMonthly": 8.16,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://cap.so/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": {
+    "repo": "https://github.com/CapSoftware/Cap",
+    "stars": 23383,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 1
+   }
+  },
+  {
+   "slug": "tella",
+   "name": "Tella",
+   "url": "https://www.tella.tv",
+   "category": "Screen recording",
+   "description": "Screen recorder for polished product demos, tutorials and course videos.",
+   "whoFor": "Creators and SaaS teams making demo videos",
+   "tags": [
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Pro $13/user/mo, Premium $19/user/mo (billed annually)",
+    "fromUsdMonthly": 13,
+    "hasFreePlan": null,
+    "verified": true,
+    "sourceUrl": "https://www.tella.tv/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "krea",
+   "name": "Krea",
+   "url": "https://www.krea.ai",
+   "category": "AI image generation",
+   "description": "Real-time AI image and video generation, upscaling and editing across many models.",
+   "whoFor": "Designers who want many models in one tool",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $21/mo; Max $63/mo; Business $160/mo",
+    "fromUsdMonthly": 21,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.krea.ai/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "logseq",
+   "name": "Logseq",
+   "url": "https://logseq.com",
+   "category": "Notes & knowledge",
+   "description": "Open-source, privacy-first outliner for notes and knowledge graphs, stored as local Markdown files.",
+   "whoFor": "Obsidian users who prefer outlining",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free forever for personal use (open source)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://logseq.com",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": {
+    "repo": "https://github.com/logseq/logseq",
+    "stars": 45268,
+    "license": "AGPL-3.0",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 1
+   }
+  },
+  {
+   "slug": "framer",
+   "name": "Framer",
+   "url": "https://www.framer.com",
+   "category": "AI website builder",
+   "description": "Design-first website builder with AI page generation, CMS and hosting.",
+   "whoFor": "Designers and startups shipping marketing sites",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan; Basic ₹361/mo, Pro ₹1,084/mo (billed yearly, India pricing)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.framer.com/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "webflow",
+   "name": "Webflow",
+   "url": "https://webflow.com",
+   "category": "AI website builder",
+   "description": "Visual website builder with CMS, hosting and Webflow AI.",
+   "whoFor": "Marketing teams and agencies building custom sites",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free Starter plan; Basic $15/mo, Premium $25/mo (billed yearly)",
+    "fromUsdMonthly": 15,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://webflow.com/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "microsoft-word",
+   "name": "Microsoft Word",
+   "url": "https://www.microsoft.com/microsoft-365/word",
+   "category": "Documents",
+   "description": "Microsoft's word processor, with Copilot in Microsoft 365 plans.",
+   "whoFor": "Everyone",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free Word on the web; Microsoft 365 Personal ₹6,899/yr, Family ₹8,199/yr (India pricing)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.microsoft.com/en-in/microsoft-365/word",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "microsoft-powerpoint",
+   "name": "Microsoft PowerPoint",
+   "url": "https://www.microsoft.com/microsoft-365/powerpoint",
+   "category": "Presentations",
+   "description": "Microsoft's presentation app, with Copilot and Designer in Microsoft 365 plans.",
+   "whoFor": "Everyone",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free PowerPoint on the web; Microsoft 365 Personal ₹6,899/yr, Family ₹8,199/yr (India pricing)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.microsoft.com/en-in/microsoft-365/powerpoint",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "google-docs",
+   "name": "Google Docs",
+   "url": "https://docs.google.com",
+   "category": "Documents",
+   "description": "Online documents anyone with a Google Account can use, with Gemini in Workspace plans.",
+   "whoFor": "Collaborative teams",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Usable with any Google Account; Workspace Base ₹99/user/mo, Starter ₹270/user/mo (annual, India pricing)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://workspace.google.com/intl/en_in/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "mailchimp",
+   "name": "Mailchimp",
+   "url": "https://mailchimp.com",
+   "category": "Email marketing",
+   "description": "Email marketing platform with AI content and send-time tools.",
+   "whoFor": "Small businesses sending newsletters",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free under 250 contacts; Essentials from ₹1,265/mo (₹632.50/mo for the first 12 months), India pricing",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://mailchimp.com/pricing/marketing/",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "trello",
+   "name": "Trello",
+   "url": "https://trello.com",
+   "category": "Project management",
+   "description": "Kanban boards for tasks and projects, with Atlassian AI features.",
+   "whoFor": "Small teams tracking work visually",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free for up to 10 collaborators; Standard $5/user/mo billed annually ($6 monthly); Premium $10/user/mo billed annually ($12.50 monthly)",
+    "fromUsdMonthly": 5,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://trello.com/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "brevo",
+   "name": "Brevo",
+   "url": "https://www.brevo.com",
+   "category": "Email marketing",
+   "description": "Email, SMS and WhatsApp marketing plus CRM, with AI writing tools.",
+   "whoFor": "Budget-conscious small businesses",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free forever plan; Starter ₹625/mo (₹562.50/mo billed yearly), India pricing",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.brevo.com/pricing/",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "beehiiv",
+   "name": "beehiiv",
+   "url": "https://www.beehiiv.com",
+   "category": "Newsletter platform",
+   "description": "Newsletter platform with growth, monetisation and AI writing tools.",
+   "whoFor": "Creators building a sponsored or paid newsletter",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "summary": "Free plan (unlimited email sends); paid plans listed from $49/mo",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.beehiiv.com/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": null
+  },
+  {
+   "slug": "listmonk",
+   "name": "listmonk",
+   "url": "https://listmonk.app",
+   "category": "Email marketing",
+   "description": "Self-hosted, open-source newsletter and mailing-list manager.",
+   "whoFor": "Developers who want to self-host newsletters cheaply",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (AGPLv3), self-hosted",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://listmonk.app",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": {
+    "repo": "https://github.com/knadh/listmonk",
+    "stars": 23819,
+    "license": "AGPL-3.0",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 3
+   }
+  },
+  {
+   "slug": "mautic",
+   "name": "Mautic",
+   "url": "https://mautic.org",
+   "category": "Marketing automation",
+   "description": "Open-source marketing automation: email, segments, campaigns and landing pages.",
+   "whoFor": "Teams wanting a self-hosted marketing automation suite",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (self-host)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://mautic.org",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": {
+    "repo": "https://github.com/mautic/mautic",
+    "stars": 10787,
+    "license": "Custom / see repo",
+    "archived": false,
+    "lastPush": "2026-10-16",
+    "setupDifficulty": 4
+   }
+  },
+  {
+   "slug": "plane",
+   "name": "Plane",
+   "url": "https://plane.so",
+   "category": "Project management",
+   "description": "Open-source project tracker (a Jira/Linear alternative) with AI, in the cloud or self-hosted.",
+   "whoFor": "Teams wanting a self-hostable Trello or Jira",
+   "tags": [
+    "freemium",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free plan; Pro $6/seat/mo; Business $13/seat/mo",
+    "fromUsdMonthly": 6,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://plane.so/pricing",
+    "lastChecked": "2026-10-18"
+   },
+   "openSource": {
+    "repo": "https://github.com/makeplane/plane",
+    "stars": 61006,
+    "license": "AGPL-3.0",
+    "archived": false,
+    "lastPush": "2026-10-17",
+    "setupDifficulty": 3
+   }
   }
  ],
  "anchors": [
@@ -3320,7 +3841,9 @@
     "zed",
     "claude-code",
     "aider",
-    "tabnine"
+    "tabnine",
+    "codex",
+    "opencode"
    ]
   },
   {
@@ -3332,7 +3855,8 @@
     "continue",
     "cline",
     "aider",
-    "claude-code"
+    "claude-code",
+    "codex"
    ]
   },
   {
@@ -3404,7 +3928,6 @@
   {
    "slug": "elevenlabs",
    "alternatives": [
-    "playht",
     "murf",
     "resemble",
     "speechify",
@@ -3431,7 +3954,8 @@
     "affine",
     "coda",
     "clickup-brain",
-    "mem"
+    "mem",
+    "logseq"
    ]
   },
   {
@@ -3609,6 +4133,233 @@
     "nomi",
     "talkie"
    ]
+  },
+  {
+   "slug": "claude-code",
+   "alternatives": [
+    "codex",
+    "gemini-cli",
+    "opencode",
+    "aider",
+    "cline",
+    "openhands",
+    "cursor",
+    "github-copilot",
+    "continue"
+   ]
+  },
+  {
+   "slug": "devin",
+   "alternatives": [
+    "openhands",
+    "claude-code",
+    "codex",
+    "cursor",
+    "windsurf",
+    "github-copilot",
+    "replit",
+    "cline"
+   ]
+  },
+  {
+   "slug": "manus",
+   "alternatives": [
+    "chatgpt",
+    "claude",
+    "perplexity",
+    "gemini",
+    "grok",
+    "deepseek"
+   ]
+  },
+  {
+   "slug": "writesonic",
+   "alternatives": [
+    "jasper",
+    "copy-ai",
+    "rytr",
+    "writer",
+    "chatgpt",
+    "claude"
+   ]
+  },
+  {
+   "slug": "fathom",
+   "alternatives": [
+    "otter",
+    "fireflies",
+    "tldv",
+    "granola",
+    "read-ai"
+   ]
+  },
+  {
+   "slug": "tldv",
+   "alternatives": [
+    "fathom",
+    "otter",
+    "fireflies",
+    "granola",
+    "read-ai"
+   ]
+  },
+  {
+   "slug": "loom",
+   "alternatives": [
+    "cap",
+    "tella",
+    "descript",
+    "veed",
+    "riverside"
+   ]
+  },
+  {
+   "slug": "krea",
+   "alternatives": [
+    "midjourney",
+    "leonardo",
+    "ideogram",
+    "adobe-firefly",
+    "flux",
+    "comfyui"
+   ]
+  },
+  {
+   "slug": "pika",
+   "alternatives": [
+    "runway",
+    "luma",
+    "kling",
+    "invideo",
+    "comfyui"
+   ]
+  },
+  {
+   "slug": "luma",
+   "alternatives": [
+    "runway",
+    "pika",
+    "kling",
+    "invideo",
+    "comfyui"
+   ]
+  },
+  {
+   "slug": "kling",
+   "alternatives": [
+    "runway",
+    "pika",
+    "luma",
+    "invideo",
+    "comfyui"
+   ]
+  },
+  {
+   "slug": "murf",
+   "alternatives": [
+    "elevenlabs",
+    "speechify",
+    "resemble",
+    "coqui-tts",
+    "piper"
+   ]
+  },
+  {
+   "slug": "speechify",
+   "alternatives": [
+    "elevenlabs",
+    "murf",
+    "resemble",
+    "coqui-tts",
+    "piper"
+   ]
+  },
+  {
+   "slug": "obsidian",
+   "alternatives": [
+    "logseq",
+    "notion-ai",
+    "appflowy",
+    "affine",
+    "mem",
+    "coda"
+   ]
+  },
+  {
+   "slug": "figma",
+   "alternatives": [
+    "penpot",
+    "framer",
+    "canva",
+    "v0",
+    "adobe-express"
+   ]
+  },
+  {
+   "slug": "framer",
+   "alternatives": [
+    "webflow",
+    "lovable",
+    "v0",
+    "bolt",
+    "base44",
+    "figma"
+   ]
+  },
+  {
+   "slug": "gemini",
+   "alternatives": [
+    "chatgpt",
+    "claude",
+    "perplexity",
+    "grok",
+    "deepseek",
+    "mistral-le-chat",
+    "poe"
+   ]
+  },
+  {
+   "slug": "deepseek",
+   "alternatives": [
+    "chatgpt",
+    "claude",
+    "gemini",
+    "mistral-le-chat",
+    "ollama",
+    "lm-studio",
+    "jan"
+   ]
+  },
+  {
+   "slug": "leonardo",
+   "alternatives": [
+    "midjourney",
+    "ideogram",
+    "krea",
+    "adobe-firefly",
+    "flux",
+    "comfyui"
+   ]
+  },
+  {
+   "slug": "quillbot",
+   "alternatives": [
+    "grammarly",
+    "languagetool",
+    "wordtune",
+    "prowritingaid",
+    "hemingway"
+   ]
+  },
+  {
+   "slug": "airtable",
+   "alternatives": [
+    "nocodb",
+    "rows",
+    "google-sheets",
+    "notion-ai",
+    "coda"
+   ]
   }
  ],
  "saas": [
@@ -3672,6 +4423,68 @@
     "chatwoot",
     "gorgias",
     "tidio"
+   ]
+  },
+  {
+   "slug": "word",
+   "name": "Microsoft Word",
+   "toolSlug": "microsoft-word",
+   "alternatives": [
+    "google-docs",
+    "notion-ai",
+    "coda",
+    "quillbot",
+    "jasper",
+    "writer"
+   ]
+  },
+  {
+   "slug": "powerpoint",
+   "name": "Microsoft PowerPoint",
+   "toolSlug": "microsoft-powerpoint",
+   "alternatives": [
+    "gamma",
+    "beautiful-ai",
+    "pitch",
+    "plus-ai",
+    "canva",
+    "presenton"
+   ]
+  },
+  {
+   "slug": "google-docs",
+   "name": "Google Docs",
+   "toolSlug": "google-docs",
+   "alternatives": [
+    "notion-ai",
+    "coda",
+    "microsoft-word",
+    "affine",
+    "appflowy"
+   ]
+  },
+  {
+   "slug": "mailchimp",
+   "name": "Mailchimp",
+   "toolSlug": "mailchimp",
+   "alternatives": [
+    "klaviyo",
+    "brevo",
+    "beehiiv",
+    "listmonk",
+    "mautic"
+   ]
+  },
+  {
+   "slug": "trello",
+   "name": "Trello",
+   "toolSlug": "trello",
+   "alternatives": [
+    "linear",
+    "plane",
+    "notion-ai",
+    "clickup-brain",
+    "airtable"
    ]
   }
  ],
@@ -3772,6 +4585,86 @@
      "role": "Clickable prototypes"
     }
    ]
+  },
+  {
+   "slug": "content-creator",
+   "title": "AI stack for a content creator",
+   "intro": "Tools a solo YouTuber, podcaster or newsletter writer can use to script, record, edit, clip and grow.",
+   "items": [
+    {
+     "tool": "claude",
+     "role": "Scripts, outlines and titles"
+    },
+    {
+     "tool": "descript",
+     "role": "Edit video and podcasts by editing text"
+    },
+    {
+     "tool": "opus-clip",
+     "role": "Turn long videos into short clips"
+    },
+    {
+     "tool": "elevenlabs",
+     "role": "Voiceovers and dubbing"
+    },
+    {
+     "tool": "canva",
+     "role": "Thumbnails and social graphics"
+    },
+    {
+     "tool": "suno",
+     "role": "Background music"
+    },
+    {
+     "tool": "beehiiv",
+     "role": "Newsletter to own your audience"
+    }
+   ]
+  },
+  {
+   "slug": "small-agency",
+   "title": "AI stack for a small agency",
+   "intro": "Tools a 2–10 person design, marketing or dev agency can use to pitch, deliver and run client work.",
+   "items": [
+    {
+     "tool": "claude",
+     "role": "Proposals, briefs and copy"
+    },
+    {
+     "tool": "gamma",
+     "role": "Pitch decks and reports"
+    },
+    {
+     "tool": "figma",
+     "role": "Design and client reviews"
+    },
+    {
+     "tool": "framer",
+     "role": "Client marketing sites"
+    },
+    {
+     "tool": "fathom",
+     "role": "Client call notes without manual typing"
+    },
+    {
+     "tool": "notion-ai",
+     "role": "Client wiki and project docs"
+    },
+    {
+     "tool": "n8n",
+     "role": "Automate onboarding and reporting"
+    }
+   ]
+  }
+ ],
+ "changes": [
+  {
+   "date": "2026-10-18",
+   "slug": "shopify-magic",
+   "kind": "price change",
+   "old": "Shopify Basic ₹1,499/mo billed yearly",
+   "new": "Shopify Basic ₹1,800/mo billed yearly (monthly still ₹1,994)",
+   "sourceUrl": "https://www.shopify.com/pricing"
   }
  ]
 }

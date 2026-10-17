@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Tool } from "@/lib/data";
-import { fmtStars, CHECKED } from "@/lib/data";
+import { fmtStars, fmtDate } from "@/lib/data";
 
 const TAG: Record<string, string> = {
   free: "bg-emerald-100 text-emerald-800", freemium: "bg-sky-100 text-sky-800", paid: "bg-slate-100 text-slate-700",
@@ -11,9 +11,9 @@ export function Tags({ tags }: { tags: string[] }) {
 }
 export function Price({ t, compact }: { t: Tool; compact?: boolean }) {
   const p = t.pricing;
-  if (!p.summary) return <p className="text-sm"><a href={p.sourceUrl} target="_blank" rel="nofollow noopener" className="font-medium text-indigo-600 underline">See pricing ↗</a> <span className="text-xs text-slate-500">(not yet verified)</span></p>;
+  if (!p.summary) return <p className="text-sm"><a href={p.sourceUrl} target="_blank" rel="nofollow noopener" className="font-medium text-indigo-600 underline">See pricing ↗</a> <span className="text-xs text-slate-500">(not yet verified · tried {fmtDate(p.lastChecked)})</span></p>;
   return <div className="text-sm"><p className="font-medium text-slate-800">{p.summary}</p>
-    {!compact && <p className="mt-0.5 text-xs text-slate-500">Last checked {CHECKED} · <a className="underline" href={p.sourceUrl} target="_blank" rel="nofollow noopener">source</a></p>}</div>;
+    {!compact && <p className="mt-0.5 text-xs text-slate-500">Last checked {fmtDate(p.lastChecked)} · <a className="underline" href={p.sourceUrl} target="_blank" rel="nofollow noopener">source</a></p>}</div>;
 }
 export function ToolCard({ t }: { t: Tool }) {
   const o = t.openSource;

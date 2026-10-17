@@ -21,7 +21,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <main className="mx-auto max-w-6xl px-4 py-8">{children}</main>
     <footer className="border-t bg-white"><div className="mx-auto flex max-w-6xl flex-wrap gap-4 px-4 py-6 text-sm text-slate-600">
       <span>© 2026 BetterAlt · Prices are checked against vendors&apos; official pricing pages; always confirm before buying.</span>
-      <Link href="/about">About</Link><Link href="/sponsor">Sponsor</Link><Link href="/llms.txt">llms.txt</Link>
+      <span className="w-full text-xs">Affiliate disclosure: some links on BetterAlt may be affiliate links, which means we may earn a commission if you buy, at no extra cost to you. It never changes our listings or prices.</span>
+      <Link href="/about">About</Link><Link href="/sponsor">Sponsor</Link><Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link><Link href="/llms.txt">llms.txt</Link><a href="mailto:hello@findbetteralt.com">hello@findbetteralt.com</a>
     </div></footer>
   </body></html>;
 }
