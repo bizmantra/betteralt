@@ -1,4 +1,4 @@
-# BetterAlt
+# FindBetterAlt
 
 Find a better or cheaper alternative to any AI tool, with today's prices. https://findbetteralt.com
 

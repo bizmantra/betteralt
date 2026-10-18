@@ -7,6 +7,7 @@
  */
 import fs from "node:fs"; import path from "node:path";
 import { latest } from "./snapshot";
+import { scanText, BUILD_PATH_SEGMENT } from "./lib/text-checks";
 import { picks, groupAlts, qualifies, eligible, rankedPageViolations } from "../src/lib/picks";
 import type { Tool } from "../src/lib/data";
 
@@ -278,33 +279,37 @@ function checkJudgement(root: unknown = db, label = "db") {
   walk(root, label);
 }
 
-// ---------- retired brand ----------
-function checkBrand() {
-  const skip = new Set(["node_modules", ".next", ".git", "snapshots"]);
-  const walk = (d: string): string[] => fs.readdirSync(d, { withFileTypes: true }).flatMap((e) => skip.has(e.name) ? [] : e.isDirectory() ? walk(path.join(d, e.name)) : [path.join(d, e.name)]);
-  for (const f of [...walk(path.join(ROOT, "src")), ...walk(path.join(ROOT, "public"))]) {
-    if (!/\.(tsx?|json|md|txt|xml|css|mjs)$/.test(f) || f.endsWith("gate.json")) continue;
-    const m = fs.readFileSync(f, "utf8").match(/(?<![A-Za-z])BetterAlt\b/); if (m) H("retired-brand", `retired brand "BetterAlt" in ${path.relative(ROOT, f)} (use siteConfig.brand / FindBetterAlt)`);
-  }
+// ---------- retired brand + Dell (scripts/lib/text-checks.ts) ----------
+// Case-insensitive, HTML/JSX tags stripped, entities and \u escapes decoded, lookalike and zero-width characters folded.
+// Retired brand = BetterAlt / Better Alt / Better-Alt / betteralts; FindBetterAlt and findbetteralt.com are allowed.
+// Scans site sources (src incl. email templates in api routes, public, data, README, next.config). Vendor snapshots are
+// evidence copies of third-party pages and are excluded. The built output (.next) is scanned after `next build` by
+// `validate-data.ts --built` (npm postbuild), so anything that reaches HTML, RSC, JSON-LD, llms.txt, RSS or JS is covered.
+const SOURCE_ROOTS = ["src", "public", "data", "README.md", "next.config.ts"];
+function checkBrandAndDell() {
+  const hits = scanText(SOURCE_ROOTS.map((r) => path.join(ROOT, r)), ROOT, { skipDirs: ["snapshots", "node_modules", ".next", ".git"], skipFiles: /(gate\.json|gate-report\.md)$/ });
+  for (const h of hits) if (h.rule === "no-dell") H("no-dell", `"Dell" found in ${h.file}`); else H("retired-brand", `retired brand "${h.match}" in ${h.file} (use siteConfig.brand / FindBetterAlt)`);
 }
-
-// ---------- Dell ----------
-function checkDell() {
-  const skip = new Set(["node_modules", ".next", ".git", "snapshots"]);
-  const walk = (d: string): string[] => fs.readdirSync(d, { withFileTypes: true }).flatMap((e) => skip.has(e.name) ? [] : e.isDirectory() ? walk(path.join(d, e.name)) : [path.join(d, e.name)]);
-  for (const f of [...walk(path.join(ROOT, "src")), ...walk(path.join(ROOT, "public")), ...walk(path.join(ROOT, "data")), path.join(ROOT, "README.md")]) {
-    if (!/\.(tsx?|json|md|txt|xml|css|mjs)$/.test(f) || f.endsWith("gate.json") || f.endsWith("gate-report.md")) continue;
-    if (/\bdell\b/i.test(fs.readFileSync(f, "utf8"))) H("no-dell", `"Dell" found in ${path.relative(ROOT, f)}`);
-  }
+function checkBuilt() {
+  const dir = path.join(ROOT, ".next");
+  if (!fs.existsSync(dir)) { console.log("built-output scan: no .next directory (run next build first)"); process.exit(1); }
+  // What the site serves: prerendered pages/routes (.next/server/app: HTML, RSC payloads, JSON-LD, llms.txt, RSS,
+  // sitemap) and every client asset (.next/static). Server-only vendor chunks (.next/server/chunks, e.g. Next's bundled
+  // user-agent parser, which lists device makers) are never sent to visitors and are skipped.
+  const hits = scanText([path.join(dir, "server/app"), path.join(dir, "static")], ROOT, { skipDirs: ["cache"], skipFiles: /\.(map|nft\.json)$/, ignore: [BUILD_PATH_SEGMENT] });
+  for (const h of hits) console.log(`  HARD [${h.rule}] "${h.match}" in built output ${h.file}`);
+  console.log(`built-output scan: ${hits.length} violations`);
+  process.exit(hits.length ? 1 : 0);
 }
 
 async function main() {
+  if (process.argv.includes("--built")) return checkBuilt();
   // Dry-run the judgement checks on draft files without touching the site: GATE_JUDGE_FILES=a.json,b.json
   if (process.env.GATE_JUDGE_FILES) {
     for (const f of process.env.GATE_JUDGE_FILES.split(",")) checkJudgement(JSON.parse(fs.readFileSync(f, "utf8")), path.basename(f));
     for (const x of hard) console.log("  HARD " + x); console.log(`judgement dry-run: ${hard.length} violations`); return;
   }
-  await linkChecks(); checkChanges(); checkListings(); checkStacksCompare(); checkJudgement(); checkBrand(); checkDell();
+  await linkChecks(); checkChanges(); checkListings(); checkStacksCompare(); checkJudgement(); checkBrandAndDell();
   const out = { generatedAt: now.toISOString(), maxAgeDays: MAX_AGE_DAYS, linkCheck, tools: gateTools, dead: dead.map(({ url, status, slug, kind }) => ({ url, status, slug, kind })), hard: hard.length, soft };
   fs.writeFileSync(path.join(ROOT, "src/data/gate.json"), JSON.stringify(out, null, 1) + "\n");
   const verified = Object.values(gateTools).filter((g) => g.verified).length;

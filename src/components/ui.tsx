@@ -1,3 +1,4 @@
+import { safeJson } from "@/lib/json";
 import Link from "next/link";
 import NewsletterForm from "@/components/NewsletterForm";
 import AltCard from "@/components/slots/AltCard";
@@ -61,7 +62,7 @@ export function Grid({ items }: { items: Tool[] }) {
   return <ol className="flex flex-col gap-4">{items.map((t, i) => <li key={t.slug}><AltCard t={t} position={i + 1} /></li>)}</ol>;
 }
 export function JsonLd({ data }: { data: object }) {
-  return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }} />;
+  return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJson(data) }} />;
 }
 export function Newsletter({ source, placement = "end" }: { source?: string; placement?: string }) {
   return <div className="rounded-xl border-[1.5px] border-ink bg-white p-6">

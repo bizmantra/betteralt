@@ -1,77 +1,52 @@
-import { BRAND } from "@/lib/data";
 import { NextResponse } from "next/server";
+import { signToken, verifyToken, clientIp, limited, resend, getContact, existingAction, confirmEmail, confirmLink, NEUTRAL, FROM, REPLY_TO, MIN_FILL_MS, FORM_TTL_MS, CONFIRM_TTL_MS, signingKey, domainVerified } from "@/lib/subscribe";
 
 export const runtime = "nodejs";
-const API = "https://api.resend.com";
-const DOMAIN_ID = "e88a54ac-edc6-4717-9908-83ca187bbb6a";
-const FROM = `${BRAND} <hello@findbetteralt.com>`;
-const REPLY_TO = "hello@findbetteralt.com";
+export const dynamic = "force-dynamic";
 const EMAIL_RE = /^[^\s@]{1,64}@[^\s@]{1,255}\.[a-z]{2,}$/i;
+const NO_STORE = { "Cache-Control": "no-store" };
+const json = (b: object, status = 200) => NextResponse.json(b, { status, headers: NO_STORE });
 
-// Simple best-effort rate limit (per serverless instance): 5 requests / 10 min per IP.
-const hits = new Map<string, number[]>();
-function limited(ip: string) {
-  const now = Date.now(), win = 10 * 60 * 1000;
-  const arr = (hits.get(ip) ?? []).filter((t) => now - t < win);
-  arr.push(now); hits.set(ip, arr);
-  if (hits.size > 5000) hits.clear();
-  return arr.length > 5;
-}
-
-const PROPS = ["signup_source", "utm_source", "utm_medium", "utm_campaign", "referrer_host", "landing_path"];
+const PROPS = ["signup_source", "utm_source", "utm_medium", "utm_campaign", "referrer_host", "landing_path", "signup_status", "confirm_sent_at", "confirmed_at"];
 let propsReady = false;
 async function ensureProps(key: string) { // create the custom contact properties once; "already exists" is fine
-  if (propsReady) return;
-  await Promise.all(PROPS.map((k) => resend(key, "/contact-properties", { key: k, type: "string", fallback_value: "" }).then((r) => { if (!r.ok && !/exist|already|taken/i.test(JSON.stringify(r.j))) console.warn("subscribe: property", k, r.status, JSON.stringify(r.j)); })));
-  propsReady = true;
+  if (propsReady) return true;
+  const res = await Promise.all(PROPS.map((k) => resend(key, "/contact-properties", { key: k, type: "string", fallback_value: "" }).then((r) => {
+    const ok = r.ok || /exist|already|taken/i.test(JSON.stringify(r.j)); if (!ok) console.warn("subscribe: property", k, r.status, JSON.stringify(r.j)); return ok; })));
+  propsReady = res.every(Boolean); return propsReady;
+}
+async function sendConfirm(key: string, email: string) {
+  if (!(await domainVerified(key))) { console.warn("subscribe: domain not verified, confirmation skipped"); return false; }
+  const now = Date.now(), m = confirmEmail(confirmLink(signToken({ p: "confirm", e: email, iat: now, exp: now + CONFIRM_TTL_MS })));
+  const s = await resend(key, "/emails", { from: FROM, to: [email], reply_to: REPLY_TO, subject: m.subject, text: m.text, html: m.html, tags: [{ name: "type", value: "confirm" }] });
+  if (!s.ok) { console.error("subscribe: confirmation email failed", s.status, JSON.stringify(s.j)); return false; }
+  await resend(key, `/contacts/${encodeURIComponent(email)}`, { properties: { confirm_sent_at: new Date(now).toISOString() } }, "PATCH");
+  console.log("subscribe: confirmation sent", s.j.id); return true;
 }
 
-let domainCache: { ok: boolean; at: number } | null = null;
-async function domainVerified(key: string) {
-  if (domainCache && Date.now() - domainCache.at < 10 * 60 * 1000) return domainCache.ok;
-  try {
-    const r = await fetch(`${API}/domains/${DOMAIN_ID}`, { headers: { Authorization: `Bearer ${key}` }, cache: "no-store" });
-    const j = await r.json();
-    domainCache = { ok: r.ok && j.status === "verified", at: Date.now() };
-  } catch { domainCache = { ok: false, at: Date.now() }; }
-  return domainCache.ok;
+/** GET: a signed form token (issued-at time) the form must send back, for the minimum time-to-submit check. */
+export function GET(req: Request) {
+  if (!signingKey()) return json({ ok: false, error: "Signups are temporarily unavailable." }, 503);
+  if (limited(`ft:${clientIp(req.headers)}`, 60)) return json({ ok: false, error: "Too many attempts. Please try again in a few minutes." }, 429);
+  const now = Date.now();
+  return json({ ok: true, ft: signToken({ p: "form", iat: now, exp: now + FORM_TTL_MS }) });
 }
-
-async function resend(key: string, path: string, body?: object, method = "POST") {
-  const r = await fetch(API + path, { method, headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json" }, body: body ? JSON.stringify(body) : undefined, cache: "no-store" });
-  const j = await r.json().catch(() => ({}));
-  return { ok: r.ok, status: r.status, j };
-}
-
-const text = `Thanks for subscribing to ${BRAND}.
-
-Once a week we'll send you AI tool price changes and new alternatives, each with a link to the vendor's own pricing page.
-
-While you wait for the first one:
-- Price changes log: https://findbetteralt.com/changes
-- Open-source AI tools: https://findbetteralt.com/open-source
-
-Didn't sign up, or changed your mind? Just reply "unsubscribe" and we'll remove you.
-
-${BRAND} · https://findbetteralt.com · Privacy: https://findbetteralt.com/privacy`;
-const html = `<div style="font-family:system-ui,sans-serif;font-size:15px;line-height:1.5;color:#0f172a;max-width:560px">
-<p><strong>Thanks for subscribing to Better<span style="color:#4f46e5">Alt</span>.</strong></p>
-<p>Once a week we'll send you <strong>AI tool price changes and new alternatives</strong>, each with a link to the vendor's own pricing page.</p>
-<p>While you wait for the first one:<br>• <a href="https://findbetteralt.com/changes">Price changes log</a><br>• <a href="https://findbetteralt.com/open-source">Open-source AI tools</a></p>
-<p style="color:#64748b;font-size:13px">Didn't sign up, or changed your mind? Just reply "unsubscribe" and we'll remove you.<br>${BRAND} · <a href="https://findbetteralt.com">findbetteralt.com</a> · <a href="https://findbetteralt.com/privacy">Privacy</a></p></div>`;
 
 export async function POST(req: Request) {
-  const key = process.env.RESEND_API_KEY, segment = process.env.RESEND_SEGMENT_ID;
-  if (!key || !segment) { console.error("subscribe: missing RESEND env"); return NextResponse.json({ ok: false, error: "Signups are temporarily unavailable." }, { status: 503 }); }
-  const ip = (req.headers.get("x-forwarded-for") ?? "").split(",")[0].trim() || "unknown";
-  if (limited(ip)) return NextResponse.json({ ok: false, error: "Too many attempts. Please try again in a few minutes." }, { status: 429 });
+  const key = process.env.RESEND_API_KEY;
+  if (!key || !signingKey()) { console.error("subscribe: missing RESEND env"); return json({ ok: false, error: "Signups are temporarily unavailable." }, 503); }
+  if (limited(`sub:${clientIp(req.headers)}`)) return json({ ok: false, error: "Too many attempts. Please try again in a few minutes." }, 429);
 
-  let body: { email?: unknown; company?: unknown; source?: unknown; attribution?: unknown };
-  try { body = await req.json(); } catch { return NextResponse.json({ ok: false, error: "Invalid request." }, { status: 400 }); }
+  let body: { email?: unknown; company?: unknown; source?: unknown; attribution?: unknown; ft?: unknown };
+  try { body = await req.json(); } catch { return json({ ok: false, error: "Invalid request." }, 400); }
   // Honeypot: pretend success so bots learn nothing
-  if (typeof body.company === "string" && body.company.trim() !== "") return NextResponse.json({ ok: true, message: "You're subscribed. Check your inbox." });
+  if (typeof body.company === "string" && body.company.trim() !== "") { console.log("subscribe: honeypot"); return json({ ok: true, message: NEUTRAL }); }
+  // Minimum time-to-submit, measured from a server-signed form token (the client can't fake an earlier start time)
+  const ft = verifyToken(body.ft, "form");
+  if (!ft) return json({ ok: false, error: "This form has expired. Please refresh the page and try again." }, 400);
+  if (Date.now() - ft.iat < MIN_FILL_MS) { console.log("subscribe: too fast"); return json({ ok: true, message: NEUTRAL }); }
   const email = typeof body.email === "string" ? body.email.trim().toLowerCase() : "";
-  if (!EMAIL_RE.test(email) || email.length > 254) return NextResponse.json({ ok: false, error: "Please enter a valid email address." }, { status: 400 });
+  if (!EMAIL_RE.test(email) || email.length > 254) return json({ ok: false, error: "Please enter a valid email address." }, 400);
   const source = typeof body.source === "string" ? body.source.slice(0, 100) : "unknown";
   // Attribution (stored as Resend contact properties on first signup only). Plain strings, length-capped, no PII.
   const attrIn = (body.attribution && typeof body.attribution === "object" ? body.attribution : {}) as Record<string, unknown>;
@@ -80,34 +55,20 @@ export async function POST(req: Request) {
     const v = attrIn[k]; if (typeof v === "string" && v.trim()) properties[k] = v.trim().replace(/[^\w.\-/:@ +]/g, "").slice(0, 100);
   }
 
-  // 1. Existing contact? (Resend's create call upserts, so check first to avoid duplicate welcome emails)
-  const g = await resend(key, `/contacts/${encodeURIComponent(email)}`, undefined, "GET");
-  let isNew = !g.ok;
-  if (isNew) {
-    await ensureProps(key);
-    let c = await resend(key, "/contacts", { email, unsubscribed: false, segments: [{ id: segment }], properties });
-    if (!c.ok) { console.warn("subscribe: create with properties failed, retrying without", c.status, JSON.stringify(c.j)); c = await resend(key, "/contacts", { email, unsubscribed: false, segments: [{ id: segment }] }); }
-    if (!c.ok) { console.error("subscribe: create contact failed", c.status, JSON.stringify(c.j)); return NextResponse.json({ ok: false, error: "We couldn't add you right now. Please try again later." }, { status: 502 }); }
+  const c = await getContact(key, email);
+  if (c === "error") return json({ ok: false, error: "We couldn't add you right now. Please try again later." }, 502);
+  if (c === null) {
+    // New: create a PENDING contact. unsubscribed:true and no segment until the link is confirmed.
+    if (!(await ensureProps(key))) return json({ ok: false, error: "We couldn't add you right now. Please try again later." }, 502);
+    const r = await resend(key, "/contacts", { email, unsubscribed: true, properties: { ...properties, signup_status: "pending" } });
+    if (!r.ok) { console.error("subscribe: create contact failed", r.status, JSON.stringify(r.j)); return json({ ok: false, error: "We couldn't add you right now. Please try again later." }, 502); }
+    await sendConfirm(key, email);
+    console.log("subscribe: pending", { source, utm_source: properties.utm_source ?? null, referrer_host: properties.referrer_host ?? null });
   } else {
-    const a = await resend(key, `/contacts/${encodeURIComponent(email)}/segments/${segment}`);
-    if (!a.ok && !/exist|already/i.test(JSON.stringify(a.j))) console.error("subscribe: add to segment failed", a.status, JSON.stringify(a.j));
-    if (g.j?.unsubscribed) {
-      const u = await resend(key, `/contacts/${encodeURIComponent(email)}`, { unsubscribed: false }, "PATCH");
-      if (!u.ok) console.error("subscribe: resubscribe failed", u.status, JSON.stringify(u.j));
-    }
-    isNew = false;
+    // Existing: never change subscription state here. A still-pending contact may get a fresh (throttled) link.
+    const a = existingAction(c);
+    if (a === "resend-confirm") await sendConfirm(key, email);
+    console.log("subscribe: existing", { action: a, status: c.props.signup_status || "legacy", unsubscribed: c.unsubscribed });
   }
-  console.log("subscribe: contact ok", { new: isNew, source, utm_source: properties.utm_source ?? null, referrer_host: properties.referrer_host ?? null });
-
-  // 2. Welcome email, only once and only from a verified domain
-  if (isNew) {
-    if (await domainVerified(key)) {
-      const s = await resend(key, "/emails", { from: FROM, to: [email], reply_to: REPLY_TO, subject: `You're subscribed to ${BRAND}`, text, html, tags: [{ name: "type", value: "welcome" }] });
-      if (!s.ok) console.error("subscribe: welcome email failed", s.status, JSON.stringify(s.j));
-      else console.log("subscribe: welcome sent", s.j.id);
-    } else console.warn("subscribe: domain not verified yet, welcome email skipped");
-  }
-  return NextResponse.json({ ok: true, message: isNew ? "You're subscribed. Check your inbox for a welcome email." : "You're already subscribed. Thanks!" });
+  return json({ ok: true, message: NEUTRAL });
 }
-
-export function GET() { return NextResponse.json({ ok: false, error: "Use POST" }, { status: 405 }); }
