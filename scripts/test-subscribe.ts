@@ -4,13 +4,14 @@ import assert from "node:assert/strict";
 process.env.RESEND_API_KEY = "re_test_dummy_key_for_unit_tests_only"; process.env.RESEND_SEGMENT_ID = "seg-test"; delete process.env.SUBSCRIBE_TOKEN_SECRET; delete process.env.VERCEL;
 type Call = { method: string; path: string; body?: Record<string, unknown> };
 type C = { email: string; unsubscribed: boolean; properties: Record<string, { value: string; type: string }> };
-const store = new Map<string, C>(); let calls: Call[] = [];
+const store = new Map<string, C>(); let calls: Call[] = []; let throttleNext = 0;
 globalThis.fetch = (async (url: string | URL, init?: RequestInit) => {
   const u = new URL(String(url)), method = init?.method ?? "GET", body = init?.body ? JSON.parse(String(init.body)) : undefined;
   const path = u.pathname; calls.push({ method, path, body });
   const res = (j: object, status = 200) => new Response(JSON.stringify(j), { status, headers: { "content-type": "application/json" } });
   if (path.startsWith("/domains/")) return res({ status: "verified" });
-  if (path === "/contact-properties") return res({ id: "p" });
+  if (path === "/contact-properties") { if (method === "GET") return res({ data: [{ key: "signup_source" }, { key: "utm_source" }] }); return res({ id: "p" }); }
+  if (throttleNext > 0) { throttleNext--; return res({ name: "rate_limit_exceeded" }, 429); }
   if (path === "/emails") return res({ id: "em_" + calls.length });
   if (path === "/contacts" && method === "POST") { const props = Object.fromEntries(Object.entries(body.properties ?? {}).map(([k, v]) => [k, { value: String(v), type: "string" }])); store.set(body.email, { email: body.email, unsubscribed: body.unsubscribed ?? false, properties: props }); return res({ id: "c" }); }
   const m = path.match(/^\/contacts\/([^/]+)(\/segments\/(.+))?$/);
@@ -67,6 +68,7 @@ assert.equal((await post(sub, { email, ft: formToken(100) })).j.ok, true); asser
 // signup → pending contact (unsubscribed, no segment), one confirmation email, attribution kept
 calls = []; let r = await post(sub, { email, source: "alternatives/cursor", attribution, ft: formToken() });
 assert.equal(r.j.message, L.NEUTRAL);
+assert.equal(calls.filter((x) => x.path === "/contact-properties" && x.method === "POST").length, 7, "only missing properties are created");
 let c = store.get(email)!; assert.equal(c.unsubscribed, true, "pending is not subscribed"); assert.equal(c.properties.signup_status.value, "pending");
 assert.equal(c.properties.utm_source.value, "hn"); assert.equal(c.properties.signup_source.value, "alternatives/cursor");
 assert.ok(!calls.some((x) => x.path.includes("/segments/")), "not in the segment yet"); assert.equal(sent("confirm").length, 1); assert.equal(sent("welcome").length, 0);
@@ -105,6 +107,9 @@ assert.equal(ocr.status, 200); assert.equal(store.get("oc@example.com")!.unsubsc
 L.resetRateLimits(); const codes: number[] = [];
 for (let i = 0; i < 6; i++) codes.push((await sub.POST(new Request("https://findbetteralt.com/api/subscribe", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ email: "rl@example.com", company: "bot" }) }))).status);
 assert.deepEqual(codes, [200, 200, 200, 200, 200, 429]);
+// Resend 429 (10 req/s) is retried
+throttleNext = 2; assert.equal((await L.resend("k", "/contacts/" + encodeURIComponent("oc@example.com"), undefined, "GET")).status, 200);
+throttleNext = 3; assert.equal((await L.resend("k", "/contacts/" + encodeURIComponent("oc@example.com"), undefined, "GET")).status, 429, "gives up after two retries");
 // form token endpoint
 const g = sub.GET(new Request("https://findbetteralt.com/api/subscribe")); assert.ok(L.verifyToken((await g.json()).ft, "form"));
 console.log("subscribe: all tests passed");

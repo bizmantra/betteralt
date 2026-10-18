@@ -67,10 +67,14 @@ export function limited(key: string, max = 5, winMs = 10 * 60 * 1000, now = Date
 }
 
 // ---------- Resend ----------
+// Resend allows 10 requests/second per account: a 429 is retried twice after a short wait.
 export async function resend(key: string, path: string, body?: object, method = "POST", headers: Record<string, string> = {}) {
-  const r = await fetch(API + path, { method, headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json", ...headers }, body: body ? JSON.stringify(body) : undefined, cache: "no-store" });
-  const j = await r.json().catch(() => ({}));
-  return { ok: r.ok, status: r.status, j };
+  for (let attempt = 0; ; attempt++) {
+    const r = await fetch(API + path, { method, headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json", ...headers }, body: body ? JSON.stringify(body) : undefined, cache: "no-store" });
+    const j = await r.json().catch(() => ({}));
+    if (r.status === 429 && attempt < 2) { await new Promise((ok) => setTimeout(ok, 1100 * (attempt + 1))); continue; }
+    return { ok: r.ok, status: r.status, j };
+  }
 }
 // Resend domain id (not a secret). RESEND_DOMAIN_ID overrides it if the sending domain is ever re-created.
 const DOMAIN_ID = process.env.RESEND_DOMAIN_ID ?? "e88a54ac-edc6-4717-9908-83ca187bbb6a";

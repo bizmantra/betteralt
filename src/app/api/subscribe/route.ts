@@ -9,11 +9,17 @@ const json = (b: object, status = 200) => NextResponse.json(b, { status, headers
 
 const PROPS = ["signup_source", "utm_source", "utm_medium", "utm_campaign", "referrer_host", "landing_path", "signup_status", "confirm_sent_at", "confirmed_at"];
 let propsReady = false;
-async function ensureProps(key: string) { // create the custom contact properties once; "already exists" is fine
+// Create any missing custom contact properties: one list call, then only the missing ones, one at a time (Resend's
+// 10 requests/second limit). Cached per serverless instance.
+async function ensureProps(key: string) {
   if (propsReady) return true;
-  const res = await Promise.all(PROPS.map((k) => resend(key, "/contact-properties", { key: k, type: "string", fallback_value: "" }).then((r) => {
-    const ok = r.ok || /exist|already|taken/i.test(JSON.stringify(r.j)); if (!ok) console.warn("subscribe: property", k, r.status, JSON.stringify(r.j)); return ok; })));
-  propsReady = res.every(Boolean); return propsReady;
+  const l = await resend(key, "/contact-properties", undefined, "GET");
+  const have = new Set<string>(l.ok && Array.isArray(l.j?.data) ? l.j.data.map((x: { key: string }) => x.key) : []);
+  for (const k of PROPS.filter((x) => !have.has(x))) {
+    const r = await resend(key, "/contact-properties", { key: k, type: "string", fallback_value: "" });
+    if (!r.ok && !/exist|already|taken/i.test(JSON.stringify(r.j))) { console.warn("subscribe: property", k, r.status, JSON.stringify(r.j)); return false; }
+  }
+  return (propsReady = true);
 }
 async function sendConfirm(key: string, email: string) {
   if (!(await domainVerified(key))) { console.warn("subscribe: domain not verified, confirmation skipped"); return false; }
