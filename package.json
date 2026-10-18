@@ -10,7 +10,7 @@
     "gate": "tsx scripts/validate-data.ts",
     "snapshot": "tsx scripts/snapshot.ts",
     "licenses": "tsx scripts/licenses.ts",
-    "test": "tsx scripts/test-picks.ts"
+    "test": "tsx scripts/test-picks.ts && tsx scripts/test-gate-ranked.ts"
   },
   "dependencies": {
     "next": "15.5.28",

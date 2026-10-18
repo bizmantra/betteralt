@@ -1,6 +1,6 @@
 // Unit tests for the badge rules in lib/picks.ts. Run: npx tsx scripts/test-picks.ts
 import assert from "node:assert/strict";
-import { picks, groupAlts } from "../src/lib/picks";
+import { picks, groupAlts, groupItems, rankedListViolations, rankedPageViolations } from "../src/lib/picks";
 import type { Tool } from "../src/lib/data";
 const mk = (slug: string, o: Partial<Tool["pricing"]> = {}, tags: string[] = [], oss?: number, licenseType: "open-source" | "fair-code" = "open-source"): Tool => ({ slug, name: slug.toUpperCase(), url: "", category: "", description: "", whoFor: "", tags: oss != null && licenseType === "open-source" ? [...tags, "open source"] : tags, status: "active",
   pricing: { summary: "x", fromUsdMonthly: null, hasFreePlan: false, verified: true, sourceUrl: "", lastChecked: "2026-10-18", currency: "USD", fromBilling: "monthly", ...o },
@@ -41,4 +41,17 @@ const nv = [...xs, mk("z", { verified: false, hasFreePlan: true })];
 assert.notEqual(k(picks(nv, { bestFree: "z", pickReasons: { free: "x" } }, by(nv), anchor), "free"), "z", "unverified override refused");
 // 7) fewer than two badges → hidden
 assert.deepEqual(picks([mk("only", { fromUsdMonthly: 3 })], undefined, by([]), anchor).length, 0);
+// 8) stacks/compare: unverified tools are never ranked; they go in the unranked group; the gate flags any ranked unverified tool
+xs = [mk("lovable"), mk("replit", { verified: false, summary: undefined }), mk("cursor"), mk("old", {}, []), mk("stale", { verified: false })];
+(xs[3] as { status?: string }).status = "shut-down";
+const st = [{ tool: "lovable", role: "a" }, { tool: "replit", role: "b" }, { tool: "cursor", role: "c" }, { tool: "old", role: "d" }, { tool: "stale", role: "e" }];
+const sg = groupItems(st, by(xs));
+assert.deepEqual(sg.ranked.map((r) => r.t.slug), ["lovable", "cursor"], "only verified tools ranked, order kept");
+assert.deepEqual(sg.unverified.map((r) => r.t.slug), ["replit", "stale"]); assert.deepEqual(sg.gone.map((r) => r.t.slug), ["old"]);
+assert.equal(sg.ranked[1].it.role, "c", "role travels with the tool");
+assert.deepEqual(rankedListViolations("/stacks/x", sg.ranked.map((r) => r.t)), []);
+assert.equal(rankedListViolations("/stacks/indie-builder", [xs[0], xs[1]]).length, 1, "a ranked list containing an unverified tool is a violation");
+assert.match(rankedListViolations("/stacks/indie-builder", [xs[1]])[0], /replit is ranked but its price is not currently verified/);
+assert.deepEqual(rankedPageViolations(xs, [{ slug: "indie-builder", items: st }], [{ slug: "a-vs-b", items: st }]), [], "grouped pages pass");
+assert.match(rankedPageViolations(xs, [{ slug: "s", items: [{ tool: "nope" }] }]).join(), /unknown tool nope/);
 console.log("picks: all tests passed");

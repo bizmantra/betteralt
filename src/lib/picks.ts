@@ -79,3 +79,29 @@ export function groupAlts(items: Tool[]) {
     gone: items.filter((t) => !isActive(t)),
   };
 }
+
+// Stacks and compare pages use the same rule (Draco gate review §3, 18 Oct): only active + verified tools are ranked
+// (ordered list position, CTA position, ItemList schema). Unverified ones go in an unranked "Price not yet verified" group.
+export type ListItem = { tool: string };
+export function groupItems<I extends ListItem>(items: I[], byslug: (s: string) => Tool | undefined) {
+  const rows = items.map((it) => ({ it, t: byslug(it.tool)! })).filter((r) => r.t);
+  return {
+    ranked: rows.filter((r) => eligible(r.t)),
+    unverified: rows.filter((r) => isActive(r.t) && !isVerified(r.t)),
+    gone: rows.filter((r) => !isActive(r.t)),
+  };
+}
+/** Gate helper: messages for every tool in a ranked list that isn't active + verified. Empty = OK. */
+export function rankedListViolations(where: string, ranked: Tool[]) {
+  return ranked.filter((t) => !eligible(t)).map((t) => `${where}: ${t.slug} is ranked but its price is not currently verified`);
+}
+/** Gate: violations for every stack/compare page whose ranked group (as the template renders it) has an unverified tool. */
+export function rankedPageViolations(eff: Tool[], stacks: { slug: string; items: { tool: string }[] }[], compares: { slug: string; items: { tool: string }[] }[] = []) {
+  const by = new Map(eff.map((t) => [t.slug, t])); const out: string[] = [];
+  for (const [prefix, list] of [["/stacks", stacks], ["/compare", compares]] as const)
+    for (const pg of list) {
+      for (const it of pg.items) if (!by.has(it.tool)) out.push(`${prefix}/${pg.slug}: unknown tool ${it.tool}`);
+      out.push(...rankedListViolations(`${prefix}/${pg.slug}`, groupItems(pg.items, (s) => by.get(s)).ranked.map((r) => r.t)));
+    }
+  return out;
+}

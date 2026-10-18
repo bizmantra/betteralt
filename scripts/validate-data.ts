@@ -7,7 +7,7 @@
  */
 import fs from "node:fs"; import path from "node:path";
 import { latest } from "./snapshot";
-import { picks, groupAlts, qualifies, eligible } from "../src/lib/picks";
+import { picks, groupAlts, qualifies, eligible, rankedPageViolations } from "../src/lib/picks";
 import type { Tool } from "../src/lib/data";
 
 const ROOT = path.resolve(__dirname, "..");
@@ -208,6 +208,27 @@ function checkListings() {
   }
 }
 
+// ---------- stacks + compare pages: ranked lists must be verified-only (Draco gate review §3, 18 Oct) ----------
+// Data check (lib/picks.ts rankedPageViolations): the ranked group each stack/compare page renders (same groupItems() as the template) has no
+// unverified tool. Template check: every stacks/compare page must build its ranked list through the shared grouping
+// (groupItems / groupAlts / AltTemplate), so a page can't rank raw items and bypass the rule.
+function rankedTemplatesUngated() {
+  const out: string[] = [];
+  const walk = (d: string): string[] => !fs.existsSync(d) ? [] : fs.readdirSync(d, { withFileTypes: true }).flatMap((e) => e.isDirectory() ? walk(path.join(d, e.name)) : [path.join(d, e.name)]);
+  for (const f of [...walk(path.join(ROOT, "src/app/stacks")), ...walk(path.join(ROOT, "src/app/compare"))]) {
+    if (!/page\.tsx$/.test(f)) continue; const src = fs.readFileSync(f, "utf8");
+    const lists = /ItemList|<ol\b|position=\{/.test(src), gated = /\b(groupItems|groupAlts)\(|<AltTemplate\b/.test(src);
+    if (lists && !gated) out.push(`${path.relative(ROOT, f)} renders a ranked list without groupItems()/groupAlts(), so unverified tools could be ranked`);
+    if (/\.items\.map\(\(\w+, i\)/.test(src)) out.push(`${path.relative(ROOT, f)} numbers raw items (.items.map((x, i) ...)); rank only the verified group`);
+  }
+  return out;
+}
+function checkStacksCompare() {
+  const eff = tools.map((t) => ({ ...t, pricing: { ...t.pricing, verified: gateTools[t.slug].verified } })) as Tool[];
+  for (const m of rankedPageViolations(eff, db.stacks ?? [], db.compares ?? [])) H("unverified-ranked", m);
+  for (const m of rankedTemplatesUngated()) H("ranked-list-ungated", m);
+}
+
 // ---------- judgement layer: "(our view)" lines, sourced lines, autoev evidence (Draco pass 2) ----------
 const LEGAL = /\b(own(s|ed|ership)?|licen[cs]\w*|copyright\w*|indemn\w*|gdpr|hipaa|soc ?2|trained on|terms of (service|use)|liabilit\w*|complian\w*|commercial use|rights?|lawful|legal\w*|refund\w*)\b/i;
 const NUMBER = /[$€£₹]|\d/;
@@ -283,7 +304,7 @@ async function main() {
     for (const f of process.env.GATE_JUDGE_FILES.split(",")) checkJudgement(JSON.parse(fs.readFileSync(f, "utf8")), path.basename(f));
     for (const x of hard) console.log("  HARD " + x); console.log(`judgement dry-run: ${hard.length} violations`); return;
   }
-  await linkChecks(); checkChanges(); checkListings(); checkJudgement(); checkBrand(); checkDell();
+  await linkChecks(); checkChanges(); checkListings(); checkStacksCompare(); checkJudgement(); checkBrand(); checkDell();
   const out = { generatedAt: now.toISOString(), maxAgeDays: MAX_AGE_DAYS, linkCheck, tools: gateTools, dead: dead.map(({ url, status, slug, kind }) => ({ url, status, slug, kind })), hard: hard.length, soft };
   fs.writeFileSync(path.join(ROOT, "src/data/gate.json"), JSON.stringify(out, null, 1) + "\n");
   const verified = Object.values(gateTools).filter((g) => g.verified).length;
