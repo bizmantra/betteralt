@@ -1,0 +1,367 @@
+#SNAPSHOT {"url":"https://leonardo.ai/pricing","finalUrl":"https://leonardo.ai/pricing","fetchedAt":"2026-10-19T03:34:01.785Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"465f16fe7446c429cd65bfe6731fadb6406064c7f79885567163f9beb08f4589"}
+Create
+Industry
+Business
+Learn
+Pricing
+Contact
+Tutorial
+Log in
+SOLO
+TEAM
+API
+CREATE ACROSS IMAGE, VIDEO, DESIGN, AND MOTION
+One subscription, all platforms
+Pay Yearly
+Up to
+20% off
+Pay Monthly
+FREE
+$0 /month
+ex. tax.
+Subscribe
+Perfect for casual creators who want to explore AI art
+Fast Tokens
+150 / day
+Token Bank
+150
+Creations access
+Public
+Presets
+✓
+Quality settings
+Basic
+Personal collections
+1
+ESSENTIAL
+$12 /month
+ex. tax.
+Subscribe
+Best for daily hobbyists and enthusiasts
+Fast Tokens
+8,500 / month
+Token Bank
+25,500
+Creations access
+Private️
+Presets
+✓
+Quality settings
+Enhanced
+Personal collections
+Unlimited️
+Personal AI models
+10
+Max Simultaneous Generations
+2
+Top-up Tokens
+✓
+PREMIUM
+$30 /month
+ex. tax.
+Subscribe
+Best for semi-professionals and active creators who need more output
+Fast Tokens
+25,000 / month
+Token Bank
+75,000
+Creations access
+Private
+Presets
+✓
+Quality settings
+Enhanced
+Personal collections
+Unlimited️
+Personal AI models
+20
+Max Simultaneous Generations
+3
+Max generations queue
+10
+Top-up Tokens
+✓
+Image Generation for select models at a relaxed pace*
+Unlimited
+ULTIMATE
+$60 /month
+ex. tax.
+Subscribe
+Perfect for professional creators, small businesses, and content producers
+Fast Tokens
+60,000 / month
+Token Bank
+180,000
+Creations access
+Private
+Presets
+✓
+Quality settings
+Enhanced
+Personal collections
+Unlimited️
+Personal AI models
+50
+Max Simultaneous Generations
+6
+Max generations queue
+20
+Top-up Tokens
+✓
+Image Generation for select models at a relaxed pace*
+Unlimited️
+Video Generation for select models at a relaxed pace*
+Unlimited️
+Number of seats
+−
++
+STARTER
+$72 / month
+$24 / seat
+ex. tax.
+Subscribe
+75,000 Shared Tokens
+225,000 Bank Capacity
+Fast Tokens Per Seat
+25,000
+Resets on your Billing Date
+✓
+Relaxed Image Generation for selected models*
+Unlimited
+Relaxed Video Generation for selected models*
+Unlimited
+Private Team Generations
+✓
+Train AI models using team tokens
+Collections
+Unlimited
+Realtime Canvas actions
+Unlimited
+Realtime Generation actions
+Unlimited
+Max simultaneous generations run
+6
+Max generations queue at once
+20
+Enhanced Quality
+✓
+GROWTH
+$144 / month
+$48 / seat
+ex. tax.
+Subscribe
+180,000 Shared Tokens
+540,000 Bank Capacity
+Fast Tokens Per Seat
+60,000
+Resets on your Billing Date
+✓
+Relaxed Image Generation for selected models*
+Unlimited
+Relaxed Video Generation for selected models*
+Unlimited
+Private Team Generations
+✓
+Train AI models using team tokens
+✓
+Collections
+Unlimited
+Realtime Canvas actions
+Unlimited
+Realtime Generation actions
+Unlimited
+Max simultaneous generations run
+6
+Max generations queue at once
+20
+Enhanced Quality
+✓
+NEED
+A CUSTOM
+PLAN?
+Contact us
+Our sales team will help craft a plan tailored to your unique workflows.
+Fast Tokens Per Seat
+Custom
+Resets on your Billing Date
+✓
+All Starter and Growth plan features included
+✓
+Tailored to your business needs
+✓
+PAY AS YOU GO
+Start now
+Ideal if you’re moving quickly from early experiments to production
+No commitments – pay only for what you use
+Automatic top ups to keep production running smoothly
+Access to the latest models from day one
+Access to remove.bg background removal APIs
+Up to 10 concurrent generations
+API credit doesn’t expire
+API CUSTOM
+Contact us
+Built for running higher-volume workloads or planning long-term scale.
+Everything from Pay as you go
+Custom concurrent generation limits
+Model-based discounts
+Dedicated support for production deployments
+* Unlimited relaxed generations applies only to image generation and video generation using selected models. Depending on the plan you are on; It currently includes Lucid Origin, Lucid Realism, Phoenix 1.0, Phoenix 0.9, MiniMax H3 (480p, Accelerated or Turbo), Motion 1.0, Motion 2.0, Motion 2.0 Fast, Hailuo 2.3, Hailuo 2.3 Fast and Wan 2.6. Concurrency and queuing of unlimited generations may be slowed from time to time based on demand to ensure fair and equitable access and stability for other users.
+Generation Power
+Features
+Workflow
+FREE
+ESSENTIAL
+PREMIUM
+ULTIMATE
+Fast Tokens
+150 / daily
+8,500 / monthly
+25,000 / monthly
+60,000 / monthly
+Rollover Token Bank Capacity
+-
+25,500
+75,000
+180,000
+Top-up Tokens
+-
+✓
+✓
+✓
+Concurrent Generations Limit
+-
+2
+3
+6
+Generation Queue Limit
+-
+5
+10
+20
+Unlimited* Relaxed Image Generation
+-
+-
+Supported models: Lucid Origin, Lucid Realism, Phoenix 1.0, Phoenix 0.9, FLUX Dev, FLUX Schnell
+Supported models: Lucid Origin, Lucid Realism, Phoenix 1.0, Phoenix 0.9, FLUX Dev, FLUX Schnell
+Unlimited* Relaxed Video Generation
+-
+-
+-
+Supported models: MiniMax H3 (480p, Accelerated or Turbo), Motion 1.0, Motion 2.0, Motion 2.0 Fast,
+Hailuo 2.3, Hailuo 2.3 Fast and Wan 2.6
+Relaxed Image Queue Limit
+-
+-
+5
+5
+Relaxed Video Queue Limit
+-
+-
+-
+20
+Blueprints Concurrency Limit
+1
+2
+3
+6
+Blueprints Queue Limit
+5
+5
+10
+20
+FREE
+ESSENTIAL
+PREMIUM
+ULTIMATE
+Image Generation
+✓
+✓
+Unlimited relaxed*
+Unlimited relaxed*
+Video Generation
+✓
+✓
+✓
+Unlimited relaxed*
+Blueprints
+Limited
+✓
+✓
+✓
+Flow State
+✓
+✓
+✓
+✓
+Ultra Quality
+Limited
+✓
+✓
+✓
+Image Guidance Reference Limit
+Limited
+6
+6
+6
+Video Guidance Reference Limit
+Limited
+✓
+✓
+✓
+Realtime Canvas
+Limited
+✓
+✓
+✓
+Realtime Generation
+Limited
+✓
+✓
+✓
+Presets
+✓
+✓
+✓
+✓
+Elements
+Limited
+✓
+✓
+✓
+Platform Models
+✓
+✓
+✓
+✓
+Third-party Models
+✓
+✓
+✓
+✓
+FREE
+ESSENTIAL
+PREMIUM
+ULTIMATE
+Personal AI Model Training Limit
+-
+10 / month
+20 / month
+50 / month
+Private Generations
+-
+✓
+✓
+✓
+Collections
+Limited
+Unlimited
+Unlimited
+Unlimited
+* Unlimited relaxed generations applies only to image generation and video generation using selected models. Depending on the plan you are on; It currently includes Lucid Origin, Lucid Realism, Phoenix 1.0, Phoenix 0.9, MiniMax H3 (480p, Accelerated or Turbo), Motion 1.0, Motion 2.0, Motion 2.0 Fast, Hailuo 2.3, Hailuo 2.3 Fast and Wan 2.6. Concurrency and queuing of unlimited generations may be slowed from time to time based on demand to ensure fair and equitable access and stability for other users.
+NEED HELP CHOOSING?
+If you’re unsure which tier fits your creative needs, we’re here to help. Contact support or explore our help resources for more detail.
+Contact us
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Leonardo.Ai – AI Image and Video Generator","operatingSystem":["Web","Android","iOS"],"applicationCategory":"DesignApplication","description":"Leonardo.Ai is an advanced creative platform that uses artificial intelligence to generate high-quality images and videos from text prompts. Built for designers, artists, and marketers, it delivers professional results in a fast, intuitive interface.","url":"https://leonardo.ai","aggregateRating":{"@type":"AggregateRating","ratingValue":4.8,"ratingCount":5400}}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do models work?","acceptedAnswer":{"@type":"Answer","text":"At Leonardo.Ai, we believe in versatility. Our platform isn’t restricted to a single generalized model; instead, we have an assortment of both general and finely-tuned models, each crafted to excel in various types of content generation. This variety lets users go beyond a one-size-fits-all approach and select the model that best suits their specific image type or use case.\n To provide even greater customization, we offer the option for users to train/fine-tune their own models. Users can upload a small collection of images (typically 10–20) to train a unique model that recreates a specific style, theme, or subject. This fine-tuning process can pick up nuanced aspects, like color patterns, composition, and even aesthetic concepts, resulting in style-consistent image generation.\n Remember, these models aren’t restricted to any specific field. From art and design to gaming and beyond, our models can cater to just about any creative pursuit."}},{"@type":"Question","name":"Will I own the images I make?","acceptedAnswer":{"@type":"Answer","text":"Your image ownership rights differ based on your Leonardo.Ai subscription status:\n Paid subscribers:\n Yes, you retain full ownership, copyright, and other intellectual property rights of images that you generate. Leonardo.Ai may use your private images only to provide you with our services. Public images can be used by Leonardo.Ai and other users, only as enabled by a feature of the service.\n Free tier users:\n Leonardo.Ai holds rights to use, reproduce, modify, and distribute any images you create. However, you’re granted a non-exclusive, royalty-free licence to access your creations for commercial use. Other users can also access your publicly available assets and use them only as enabled by a feature of the service.\n For more detailed information, please refer to our Terms of Service."}},{"@type":"Question","name":"Tokens and Token Rollover at Leonardo.Ai","acceptedAnswer":{"@type":"Answer","text":"Tokens are effectively your “currency” on the Leonardo.Ai platform, deducted from your account balance as you perform various actions — including generating images, creating videos, post-processing tasks like background removal, and upscale conversions.\n The number of tokens used is based on the computational intensity of the action you’re taking — the more GPU load required, the more tokens are charged. One key thing to note: a single token doesn’t correspond to a specific image size or a specific action. The token cost adjusts based on the complexity and computational requirements of the task you’re performing.\n If you’re a free user, you’re allocated a certain number of tokens each day, and these reset daily, allowing you to perform actions within this limit.\n As a paid subscriber, you receive a monthly token allowance that gives you much wider flexibility to use Leonardo.Ai’s premium features at your own pace. Importantly, these tokens reset and replenish at the beginning of each billing month, so you always start with a fresh balance.\n Additionally, Leonardo.Ai offers on premium plans a Token Rollover feature, allowing you to retain unused tokens from the previous cycle. These leftover tokens are transferred to a Rollover Bank, with limits based on your plan type. This ensures you can maximise the value of your premium plan by carrying over unused tokens instead of losing them. You can check your Rollover Bank by hovering over the token counter on the app’s main page.\n Paid users can also purchase Token Top-up packs, which never expire and are not affected by rollover limits. These tokens are only usable while subscribed."}},{"@type":"Question","name":"What happens if I run out of tokens in my paid plan?","acceptedAnswer":{"@type":"Answer","text":"Subscribed users can buy Token Top-up packs to continue creating. Top-up Tokens do not expire and are used after Rollover Tokens and Fast Tokens. Top-up Tokens require an active subscription to be used."}},{"@type":"Question","name":"What is Token Rollover and how does it work?","acceptedAnswer":{"@type":"Answer","text":"Token Rollover allows users to retain unused tokens from the previous cycle when their tokens reset. This ensures users can maximise the value of their premium plans by carrying over unused tokens instead of losing them.\n Leonardo.Ai transfers leftover tokens to a Rollover Bank, with the maximum limit based on the user’s plan type. Users can check their Rollover Bank by hovering over the token counter on the app’s main page."}},{"@type":"Question","name":"How do the “Unlimited” Plans and “Relaxed Generation” work?","acceptedAnswer":{"@type":"Answer","text":"Who gets it?\n Subscribers on our Premium and Ultimate plans receive a large pool of tokens each billing cycle. When that pool hits zero, you don't lose access to new generations—instead you create new images or videos using our Relaxed Generation feature.\n\n What is it?\n Relaxed Generation lets you keep generating images and videos without extra token cost, but at a lower priority than the main queue. Processing time fluctuates with overall demand: if the priority queue is busy, your job waits a little longer; if it's quiet, it finishes faster. To prevent longer waiting times, the number of concurrent generations are also reduced. You can still create as much as you want, it may just take a little longer so we can ensure fair and equitable access and stability for other users.\n\n Which models are eligible?\n All first-party image models can be used with Relaxed Generation. Third-party models; GPT-Image-1, Flux.1 Kontext, Ideogram, Nano Banana, Flux Kontext Max, Veo 3, Kling 2.5 Turbo, Kling 2.1 Pro, Sora 2, Sora 2 Pro, LTX-2 Pro, LTX-2 Fast, Veo 3.1, Veo 3.1 Fast, Seedream 4.0, Seedream 4.5, and Nano Banana Pro, are not eligible. These models run entirely on external servers via paid third-party APIs, and we have no visibility into their capacity or ability to throttle them. Because of that, we can't slow them down or \"queue\" them during off-peak times. Flow State is also not eligible for Relaxed Generation.\n\n What happens after tokens run out?\n First-party models: continue creating in Relaxed mode—no tokens needed, just a bit of extra wait time. Third-party models: GPT-Image-1, Flux.1 Kontext, Ideogram, Nano Banana, Flux Kontext Max, Veo 3, Kling 2.5 Turbo, Kling 2.1 Pro, Sora 2, Sora 2 Pro, LTX-2 Pro, LTX-2 Fast, Veo 3.1, Veo 3.1 Fast, Seedream 4.0, Seedream 4.5, and Nano Banana Pro, require tokens (or a top-up) every time you use them. Flow State: Requires tokens every time you use it.\n\n In summary: Relaxed Generation allows you to keep creating after your token balance hits zero, but only for models we control. Third-party models like GPT-Image-1, Flux.1 Kontext, Ideogram, Nano Banana, Flux Kontext Max, Veo 3, Kling 2.5 Turbo, Kling 2.1 Pro, Sora 2, Sora 2 Pro, LTX-2 Pro, LTX-2 Fast, Veo 3.1, Veo 3.1 Fast, Seedream 4.0, Seedream 4.5, and Nano Banana Pro, always run at normal speed and always consume tokens, as does Flow State."}},{"@type":"Question","name":"How does Unlimited Video Generation work?","acceptedAnswer":{"@type":"Answer","text":"If you’re on the Ultimate plan, you get a large pool of tokens each billing cycle. These tokens let you generate images, create videos, and use other advanced features. Once that pool runs out, you don’t hit a hard stop. Instead, you get access to Relaxed Generation.\n Relaxed Generation lets you continue generating content (including videos) without needing more tokens. It runs at a lower priority than the main queue and at a lower concurrency, so things might take a bit longer to process, especially during peak times — but you can keep creating without extra cost.\n Our first-party video models (Motion 1.0, Motion 2.0, and Motion 2.0 Fast) allow you to keep generating videos with them as much as you like, even after your token balance hits zero.\n Future third-party video models we integrate may have different limitations, as they operate under different systems. We’ll provide more information about availability and limitations as these models are added to the platform."}},{"@type":"Question","name":"Why does video use more tokens?","acceptedAnswer":{"@type":"Answer","text":"Video models cost more tokens because they require significantly more GPU power to generate content. Processing video involves handling multiple frames per second, which is much more resource-intensive than generating a single image.\n Additionally, some video models are hosted by third parties, which means we don’t control the infrastructure. These hosted models often have stricter usage limits and higher operating costs, which translates to more tokens per use.\n Our hosted models like WAN and SVD (and others) support unlimited generations in “Relaxed Generation” mode — so even if you run out of tokens, you can keep creating at a slower pace.\n Note: Third-party video models do not allow unlimited video via relaxed generation."}},{"@type":"Question","name":"Can I use my generated images for commercial projects?","acceptedAnswer":{"@type":"Answer","text":"Yes, you can. However, the rights to use generated images in commercial projects vary based on your subscription status:\n Paid subscribers:\n You retain full ownership and intellectual property rights of your generated images and can use these creations for commercial projects.\n Free tier users:\n While Leonardo.Ai owns rights to the images you create, you’re granted a non-exclusive, royalty-free licence to use your generated content for commercial purposes."}},{"@type":"Question","name":"Can I change my plan later?","acceptedAnswer":{"@type":"Answer","text":"You could always choose to upgrade or downgrade to a more suitable plan for your needs. Upgrade will apply immediately and downgrade will apply once your billing cycle ends."}},{"@type":"Question","name":"Does the pricing include tax?","acceptedAnswer":{"@type":"Answer","text":"Pricing in this table excludes tax. Tax, if applicable, will be added at the point of payment with Stripe. If we do not currently charge GST or VAT in your country or region, and in future need to begin charging this after meeting a local threshold, then this will be added to your recurring bill at that time."}},{"@type":"Question","name":"Does Leonardo have an API?","acceptedAnswer":{"@type":"Answer","text":"Yes. You can read more about our API and how to get started on our API page."}},{"@type":"Question","name":"Can I buy more tokens if I run out?","acceptedAnswer":{"@type":"Answer","text":"Token Top-up Packs are available to paid users only. Tokens never expire and are not capped. Users can buy multiple packs. Top-up Tokens are used after Rollover Tokens and Fast Tokens."}}]}

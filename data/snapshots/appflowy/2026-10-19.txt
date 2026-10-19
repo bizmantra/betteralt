@@ -1,0 +1,232 @@
+#SNAPSHOT {"url":"https://appflowy.com/pricing","finalUrl":"https://appflowy.com/pricing","fetchedAt":"2026-10-19T03:34:13.568Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"3dbfdf4400b7702325f18c324810e156575a659ae2727ce8694d513437c936e5"}
+AppFlowy Pricing - Cloud & Self-hosted Plans What&#x27;s New: AppFlowy launches
+ v 0.14.7
+ Learn more
+ Product
+ Download 
+ Resources 
+ Pricing
+ Self-host
+ Contact sales
+ Start for free
+ Your work solution Start free
+ Your work solution
+Start free
+ AppFlowy Cloud
+ Self-Hosted
+ Save 25 %
+ Yearly
+ Monthly
+ Personal
+ $0
+ / month
+ placeholder
+ for personal productivity
+ Get started
+ Pro
+ $12
+ / member / month
+ billed annually
+ for professional work and teams
+ Get started
+ Collaboration & project management
+ Members 
+ 1 workspace owner
+ Unlimited, charged per member
+ Guest editors 
+ Unlimited
+ Timeline with dependencies 
+ Dashboards 
+ Custom team spaces 
+ Permission groups 
+ Data & workflows
+ Forms 
+ 1 form
+ Unlimited
+ Charts 
+ 1 chart
+ Unlimited
+ AI
+ AI meeting notes 
+ Limited trial
+ AI transcript 
+ Limited trial
+ AI responses 
+ Limited trial
+ AI search 
+ Local AI 
+ Publishing
+ Publish pages 
+ Custom namespace 
+ PDF export 
+ Single page
+ Include subpages
+ Usage & storage
+ Storage 
+ Up to 100 MB
+ Unlimited
+ File uploads 
+ Up to 7 MB
+ Unlimited
+ Version history 
+ 7 days
+ 90 days
+ Personal
+ $0
+ month
+ for personal productivity
+ Get started
+ Pro
+ $12
+ member / month
+ billed annually
+ for professional work and teams
+ Get started
+ Collaboration & project management
+ Members
+ 1 workspace owner
+ Unlimited, charged per member
+ Guest editors
+ Unlimited
+ Timeline with dependencies
+ Dashboards
+ Custom team spaces
+ Permission groups
+ Data & workflows
+ Forms
+ 1 form
+ Unlimited
+ Charts
+ 1 chart
+ Unlimited
+ AI
+ AI meeting notes
+ Limited trial
+ AI transcript
+ Limited trial
+ AI responses
+ Limited trial
+ AI search
+ Local AI
+ Publishing
+ Publish pages
+ Custom namespace
+ PDF export
+ Single page
+ Include subpages
+ Usage & storage
+ Storage
+ Up to 100 MB
+ Unlimited
+ File uploads
+ Up to 7 MB
+ Unlimited
+ Version history
+ 7 days
+ 90 days
+ Unlock unlimited AI power
+ AppFlowy AI includes
+ Brainstorm new ideas and first drafts
+ AI meeting notes automatically captured and enhanced
+ Auto-fill columns
+ AI search get answers with traceable sources
+ Trusted by teams and individuals from
+ Have additional questions?
+ Help articles
+ Learn more →
+ Partner program
+ Learn more →
+ Contact support
+ Learn more →
+ Questions & answers
+ AppFlowy Cloud
+ Self-Hosted
+ How is pricing calculated for the paid plans?
+ Each workspace is tied to a specific plan. For example, you can have two Pro workspaces and three Personal workspaces simultaneously. If one Pro workspace has one member and another has five members, you&#x27;ll need to make separate payments for each workspace. Each Pro workspace is charged per member.
+A Pro workspace with only you: $12 per month billed annually ($144/year), or $16 billed monthly
+A Pro workspace with five members (including you): $12 × 5 = $60 per month billed annually ($720/year), or $16 × 5 = $80 billed monthly
+Guest editors available in Pro are free of charge.
+ How do I cancel my paid plan?
+ Your AppFlowy subscription, annual or monthly, will automatically renew until you cancel it. You can cancel your subscription by going to Settings in the left-hand sidebar on a desktop computer, then selecting Billing, then Change plan, then click Downgrade under the Personal plan column. After cancellation, your workspace will immediately move to the Personal plan, and any usage above the free limits may be restricted.
+ How does adding and removing members work?
+ If you added members, your account will be charged a prorated amount based on the percentage of the billing cycle left when a user was added. If you removed members, you will not receive credit but instead will still have use of that seat for a different user for the remainder of the billing period.
+Note: After cancellation, your workspace will immediately move to the Personal plan, and any usage above the free limits may be restricted.
+ Can I change my payment method?
+ You can change your payment method at any time in your billing settings.
+ How do I change my subscription between monthly and annual billing?
+ You can change your billing period by going to Settings → Billing → Edit period. Pro costs $16 per member per month when billed monthly, or $12 per member per month when billed annually ($144 per member per year). Annual billing saves 25% compared with monthly billing.
+ Get started for free
+ The AI workspace where you achieve more without losing control of your data
+ Contact sales
+ Get started free
+ Product
+ Template
+ What’s new
+ Zapier Integrations
+ Blog
+ Email Newsletter
+ Download
+ iOS & Android
+ macOS
+ Windows
+ Linux
+ Browser
+ Community
+ Github
+ Twitter
+ Discord
+ Community Hub
+ Report a bug
+ Request a feature
+ Resources
+ Guides & Tutorials
+ Developer Docs
+ AppFlowy Blocks
+ Request a resource
+ RSS
+ Compare
+ vs Notion
+ Company
+ About Us
+ Careers
+ Privacy
+ Terms
+ Contacts
+ Company
+ Contacts
+ About Us
+ Privacy
+ Terms
+ Careers
+ Pricing
+ Download
+ iOS & Android
+ macOS
+ Windows
+ Linux
+ Browser
+ Resources
+ Product guides
+ Developer docs
+ Templates
+ Videos
+ What’s new
+ Partner program
+ Zapier integration
+ AppFlowy Blocks
+ RSS
+ Compare
+ vs Notion
+ vs Confluence
+ Support
+ General support
+ Community server
+ Report a bug
+ Request a feature
+ Contact sales
+ Forums
+ Copyright © 2026, AppFlowy
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@context":"https://schema.org","@type":"Organization","name":"AppFlowy","alternateName":["AppFlowy IO","AppFlowy.io"],"description":"AppFlowy is a self-hosted AI workspace for enterprise teams to manage projects, wikis, and data with private AI, flexible databases, and full data control.","url":"https://appflowy.com","logo":"https://appflowy.com/appflowy-rss-logo.png","image":"https://appflowy.com/images/og-image.png","foundingDate":"2021","foundingLocation":{"@type":"Place","name":"Singapore"},"contactPoint":{"@type":"ContactPoint","contactType":"Customer Support","email":"support@appflowy.io","url":"https://appflowy.com/contact"},"sameAs":["https://github.com/AppFlowy-IO/AppFlowy","https://twitter.com/appflowy","https://discord.gg/9Q2xaN37tV","https://www.youtube.com/@appflowyhq","https://www.linkedin.com/company/appflowy","https://www.reddit.com/r/AppFlowy"]},{"@context":"https://schema.org","@type":"SoftwareApplication","name":"AppFlowy","description":"AppFlowy is a self-hosted AI workspace for enterprise teams to manage projects, wikis, and data with private AI, flexible databases, and full data control.","url":"https://appflowy.com","applicationCategory":"ProductivityApplication","operatingSystem":["Windows","macOS","Linux","iOS","Android"],"isAccessibleForFree":true,"license":"https://github.com/AppFlowy-IO/AppFlowy/blob/main/LICENSE","creator":{"@type":"Organization","name":"AppFlowy","url":"https://appflowy.com"},"offers":{"@type":"Offer","price":"0","priceCurrency":"USD","category":"Free and paid plans available"},"featureList":["Self-hosted deployment","Local and on-prem AI support","Offline-first workspace","Open-core architecture","Cross-platform compatibility","Data ownership and privacy","Modular and extensible","Rich-text editor with 40+ content types","Multiple database views: Grid, Kanban, Calendar, Gallery, List, Feed, Chart","Advanced filters and relations"],"downloadUrl":"https://appflowy.com/download","screenshot":"https://appflowy.com/images/og-image.png"},{"@context":"https://schema.org","@type":"WebSite","name":"AppFlowy","description":"AppFlowy is a self-hosted AI workspace for enterprise teams to manage projects, wikis, and data with private AI, flexible databases, and full data control.","url":"https://appflowy.com"}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"AppFlowy Pricing - Cloud & Self-hosted Plans","description":"Choose the perfect AppFlowy plan for your team.\nOpen source, true offline support, self-hosted, snappy performance, easy to use, and cross-platform.","url":"https://appflowy.com/pricing","mainEntity":{"@type":"Product","name":"AppFlowy","description":"AI-powered collaborative workspace with cloud and self-hosted options","brand":{"@type":"Brand","name":"AppFlowy"},"offers":[{"@type":"Offer","name":"Personal Plan","description":"For personal productivity","price":"0","priceCurrency":"USD","priceSpecification":{"@type":"PriceSpecification","price":"0","priceCurrency":"USD","billingIncrement":"month"},"eligibleQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"workspace owner"}},{"@type":"Offer","name":"Pro Plan (Annual billing)","description":"For professional work and teams","price":"12","priceCurrency":"USD","priceSpecification":{"@type":"PriceSpecification","price":"12","priceCurrency":"USD","billingIncrement":"month"},"eligibleQuantity":{"@type":"QuantitativeValue","unitText":"member per month, billed annually"}},{"@type":"Offer","name":"Pro Plan (Monthly billing)","description":"For professional work and teams","price":"16","priceCurrency":"USD","priceSpecification":{"@type":"PriceSpecification","price":"16","priceCurrency":"USD","billingIncrement":"month"},"eligibleQuantity":{"@type":"QuantitativeValue","unitText":"member per month, billed monthly"}},{"@type":"Offer","name":"Self-hosted Plans","description":"Self-hosted plans from Free to Enterprise","priceRange":"$0-Contact us","priceCurrency":"USD"}]},"publisher":{"@type":"Organization","name":"AppFlowy","logo":{"@type":"ImageObject","url":"https://appflowy.com/appflowy.ico"}},"datePublished":"2026-10-19T03:34:13.157Z","dateModified":"2026-10-19T03:34:13.157Z"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://appflowy.com"},{"@type":"ListItem","position":2,"name":"Pricing","item":"https://appflowy.com/pricing"}]}]}

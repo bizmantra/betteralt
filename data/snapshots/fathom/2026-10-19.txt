@@ -1,0 +1,391 @@
+#SNAPSHOT {"url":"https://www.fathom.ai/pricing","finalUrl":"https://www.fathom.ai/pricing","fetchedAt":"2026-10-19T03:35:15.686Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"8ff22bb967320d78f27c7e427e51bcf34f89e52f6a23ac0ab6604602f47b69dc"}
+Fathom Pricing 2026: Free Plan or Plans from $15/mo 
+ Overview
+ Solutions
+ For customer success
+ For marketing
+ For sales
+ For teams
+ Integrations
+ Asana
+ ChatGPT
+ Claude
+ Hubspot
+ Salesforce
+ Zapier
+ Public API & MCP
+ See All Integrations →
+ Resources
+ What&#x27;s New
+ Resource Hub
+ Partner with Fathom
+ Developer Hub
+ Help Center
+ Pricing
+ Sign Up
+ sign up free
+ Book a Demo 
+ Log In
+ Book a Demo
+ Log In
+ Sign Up
+ SIGN UP FREE
+ SIGN UP FREE
+ Pricing to supercharge every meeting 
+ Individuals
+ Teams
+ Monthly
+ Annually 
+  (save 25%+)
+ Free plan
+ Unlimited recordings, instant call summaries, integrations with LLMs & more.
+ Sign up. Free forever. →
+ FOR TEAMS
+ Team
+ $ 19
+ $15
+ $19
+ /month / per user
+(2 user min)
+ start free trial
+ 90 day guarantee
+ Unlimited meetings captured & instant AI summaries
+ AI generated action items
+ Conversational meeting assistant
+ Playlists of highlights from meetings 
+ Collaboration using comments, folders, keyword alerts, + more
+ FOR TEAMS
+ Business
+ $34
+ $25
+ $34
+ /month / per user
+(2 user min)
+ start free trial
+ 90 day guarantee
+ Everything from Team
+ CRM field sync, updating records after meetings automatically
+ Deal View summarizing insights
+ Coaching metrics & AI scorecards 
+ Advanced call summaries, including custom summaries*
+ FOR TEAMS
+ Enterprise
+ $34
+ Talk to sales
+ Talk to sales
+ BOOK A MEETING
+ 90 day guarantee
+ Everything from Business
+ Launch Assist Onboarding Program
+ Organization-wide security controls
+ SSO & SCIM provisioning
+ Custom data retention programs
+ Dedicated Success Manager & priority Support SLAs
+ FOR INDIVIDUALS
+ Free
+ $ 0
+ Free forever.
+ GET STARTED
+ 90 day guarantee
+ Unlimited recordings + transcriptions
+ Choice of bot-free (in beta) or bot capture
+ Instant AI call summaries
+ Clips, playlists + search across calls
+ FOR INDIVIDUALS
+ Premium
+ $ 20
+ $ 16
+ $ 20
+ /month / per user
+ start free trial
+ 90 day guarantee
+ Everything from Free
+ Advanced call summaries
+ AI-generated action items
+ Conversational meeting assistant
+ Custom meeting bot
+ FOR TEAMS
+ Team 
+ $ 19
+ $15
+ $19
+ /month / per user
+(2 user min)
+ start free TEAM trial (2+ USERS)
+ 90 day guarantee
+ Everything from Premium
+ Global search across calls
+ Playlists of highlights from meetings
+ Collaboration using comments, folders, keyword alerts, + more
+ Get the best plan for your team. Talk to sales →
+ More ways to get started with Fathom
+ Qualified Portfolio Program
+ Affilliated startups of select VCs & accelerators get up to 2 years free of Fathom Team.
+ CHECK ELIGIBILITY →
+ Get 10 free seats for nonprofits
+ Because we know that doing good is hard enough. Let us help get you started.
+ APPLY HERE TO QUALIFY →
+ Switching from Gong?
+ Or something similar? Get Fathom Business free through your contract plus data migration.
+ SWITCH NOW →
+ Features
+ Meet your brilliant AI meeting partner
+ Free
+ Get started
+ Premium
+ Start free trial
+ Team
+ Start free trial
+ Business
+ Start free trial
+ Enterprise
+ Contact sales
+ CAPTURING & MANAGING CONTENT
+ NEW! Choice of bot-free* and bot capture-types
+ (*Beta feature for Mac) 
+ Recordings & call storage (unlimited)
+ Transcription (unlimited)
+ Call downloads and clips (unlimited)
+ Playlists of clips & highlights for your meetings
+ Playlists of clips & highlights for all team meetings
+ Collect, organize, and share AI-generated meeting clips and moments across your team&#x27;s recordings.
+ INSIGHTS
+ Automated summaries
+ Fathom&#x27;s chronological and enhanced summaries; high quality, AI generated recaps of your meeting.
+ Advanced summaries
+ Choose from over 15 expert meeting templates, including frameworks such as BANT, Sandler, and more. 
+ Limited use
+ AI action items
+ Automatically generated action items from your meeting. 
+ AI follow-up emails
+ Coaching metrics
+ Track speaking patterns and behaviors in meetings to help improve performance and effectiveness.
+ Custom summaries
+ Create customized call and deal summary templates for your organization.
+ SEARCH, DISCOVERY & TRACKERS
+ Attendee and keyword search in your meetings
+ Ask Fathom: AI within a single call
+ Engage with your meeting in a ChatGPT-like interface, instantly getting answers, insights, and actions.
+ Limited use
+ Account-wide Ask Fathom: AI for all calls
+ (*Beta feature) 
+ Search and engage with all your meetings in a ChatGPT-like interface, instantly getting answers, insights, and actions.
+Paid plans have unlimited lookback for "my calls"; team calls lookback window depends on plan tier. 
+ Limited use
+ Unlimited for "My Calls"
+ Unlimited for "My Calls"; limited lookback for "Team Calls"
+ Attendee and keyword search in all team meetings
+ Trackers
+ AI-tagging that automatically flags moments across future calls (competitor mentions, objections, feature requests) and routes them to Slack, email, or in-app.
+ TEAM WORKSPACE
+ Team members
+ Team recordings view
+ Team folders
+ Comments & mentions
+ Customer view
+ A single view that shows a customer’s meetings, summaries, and highlights in one place for easy review and collaboration
+ Deal view
+ A shared page that brings together all meetings, summaries, and key moments related to a specific sales deal in one place.
+ ADMIN, INTEGRATIONS & SECURITY
+ NEW! Claude & ChatGPT Integrations
+ Surface key meeting context in your LLM of choice.
+ Zapier, Make & other automation integrations
+ Automate key meeting workflows using Zapier, Make.com, and more.
+ Limited use
+ Limited use
+ Slack integration
+ Public API & MCP
+ Build custom integrations and workflows. See more at developers.fathom.ai
+ CRM syncs
+ Automatically push Fathom’s meeting summaries and notes into your CRM so records stay up to date without manual entry.
+ Max 3 users/ domain
+ Max 3 users/ domain
+ Max 3 users/ domain
+ Disable in-meeting banner
+ Custom bot name
+ CRM Field sync
+ Automatically map and write Fathom’s meeting insights into specific fields in your CRM.
+ Launch Assist Onboarding
+ Leverage Fathom&#x27;s expert implementation team to set up, scale, and automate your Fathom configuration.
+ $
+ Custom data retention policies
+ Single sign-on integration
+ Okta SCIM provisioning
+ Organization wide security controls
+ Increased cyber security insurance coverage
+ Custom contracts & red-line support
+ Dedicated Customer Success & channel
+ HIPAA: signed BAA
+ Ready to explore what’s out there?
+ Whether you’d like to learn more about Fathom, how it works for your team, or which plan is the best fit – our sales team is here to help.
+ Contact sales
+ Never miss what matters
+ Stop guessing
+ Ask Fathom
+ Get Started. It’s Free.
+ Product
+ Overview
+ Pricing
+ What&#x27;s New
+ Company
+ About Us
+ Careers
+ Solutions
+ For Sales
+ For Marketing
+ For Customer Success
+ For Teams
+ Integrations
+ Asana
+ ChatGPT
+ Claude
+ HubSpot
+ Salesforce
+ Zapier
+ Public API & MCP
+ All Integrations
+ Competitors
+ Competitor Overview
+ Fathom vs. Fireflies
+ Fathom vs. Granola
+ Fathom vs. Gong
+ Fathom vs. Otter
+ Fathom vs. Read AI
+ Fathom vs. ZoomMate
+ Fathom vs. Google Meet&#x27;s Gemini
+ Fathom vs. Built-In Solutions
+ Resources
+ Resource Hub
+ Help Center
+ Partner Program
+ TRY FATHOM TODAY
+ Terms of Service
+ Privacy Policy
+ Security & Compliance
+ Status
+ Fathom © All Rights Reserved 2026
+
+#JSONLD (structured data published on the page, verbatim)
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fathom AI Notetaker",
+  "applicationCategory": "BusinessApplication",
+  "publisher": { "@type": "Organization", "name": "Fathom", "url": "https://www.fathom.ai" },
+  "description": "Fathom AI meeting notetaker plans for individuals and teams: automated summaries, action items, and CRM sync.",
+  "url": "https://www.fathom.ai/pricing",
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "Free",
+      "price": "0",
+      "priceCurrency": "USD",
+      "category": "Individuals",
+      "url": "https://www.fathom.ai/pricing",
+      "availability": "https://schema.org/InStock"
+    },
+    {
+      "@type": "Offer",
+      "name": "Premium — monthly billing",
+      "price": "20",
+      "priceCurrency": "USD",
+      "category": "Individuals",
+      "url": "https://www.fathom.ai/pricing",
+      "availability": "https://schema.org/InStock",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "20",
+        "priceCurrency": "USD",
+        "unitText": "per user, per month, billed monthly"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Premium — annual billing",
+      "price": "16",
+      "priceCurrency": "USD",
+      "category": "Individuals",
+      "url": "https://www.fathom.ai/pricing",
+      "availability": "https://schema.org/InStock",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "16",
+        "priceCurrency": "USD",
+        "unitText": "per user, per month, billed annually"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Team — monthly billing",
+      "price": "19",
+      "priceCurrency": "USD",
+      "category": "Teams",
+      "url": "https://www.fathom.ai/pricing",
+      "availability": "https://schema.org/InStock",
+      "eligibleQuantity": { "@type": "QuantitativeValue", "minValue": 2 },
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "19",
+        "priceCurrency": "USD",
+        "unitText": "per user, per month, billed monthly, 2-user minimum"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Team — annual billing",
+      "price": "15",
+      "priceCurrency": "USD",
+      "category": "Teams",
+      "url": "https://www.fathom.ai/pricing",
+      "availability": "https://schema.org/InStock",
+      "eligibleQuantity": { "@type": "QuantitativeValue", "minValue": 2 },
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "15",
+        "priceCurrency": "USD",
+        "unitText": "per user, per month, billed annually, 2-user minimum"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Business — monthly billing",
+      "price": "34",
+      "priceCurrency": "USD",
+      "category": "Teams",
+      "url": "https://www.fathom.ai/pricing",
+      "availability": "https://schema.org/InStock",
+      "eligibleQuantity": { "@type": "QuantitativeValue", "minValue": 2 },
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "34",
+        "priceCurrency": "USD",
+        "unitText": "per user, per month, billed monthly, 2-user minimum"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Business — annual billing",
+      "price": "25",
+      "priceCurrency": "USD",
+      "category": "Teams",
+      "url": "https://www.fathom.ai/pricing",
+      "availability": "https://schema.org/InStock",
+      "eligibleQuantity": { "@type": "QuantitativeValue", "minValue": 2 },
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "25",
+        "priceCurrency": "USD",
+        "unitText": "per user, per month, billed annually, 2-user minimum"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Enterprise",
+      "priceCurrency": "USD",
+      "category": "Teams",
+      "url": "https://www.fathom.ai/pricing",
+      "availability": "https://schema.org/InStock",
+      "description": "Custom pricing — talk to sales."
+    }
+  ]
+}

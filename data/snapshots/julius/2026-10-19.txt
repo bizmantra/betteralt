@@ -1,0 +1,237 @@
+#SNAPSHOT {"url":"https://julius.ai/pricing","finalUrl":"https://julius.ai/pricing","fetchedAt":"2026-10-19T03:36:06.924Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"215e94afa35c9602ea597040ca7b60c00982f736acb0bd3980cd1ea6d1e5d851"}
+Julius
+Product
+Use Cases
+Resources
+Pricing
+Log In
+Sign Up
+Your AI Workspace
+Start for free.
+Analyze data and research, create presentations and reports, build websites, and generate images and video. Upgrade for more credits, frontier models, and controls.
+Annual Billing
+SAVE 20%
+Monthly Billing
+Plus
+For everyday analysis, research, and creative projects
+$20
+USD
+/ month
+Subscribe
+Everything in Free, and:
+2,000 credits monthly
+100 daily refresh credits
+Access to frontier AI models like GPT-6.1 Sol and Claude Opus 5.5
+Analyze files and create charts and presentations
+16 GB of RAM
+7-day file storage
+Publish websites on your custom Julius domain
+Use browser and parallel agents for research
+RECOMMENDED
+Pro
+For advanced analysis and more ambitious creative work
+$45
+USD
+/ month
+Subscribe
+5,000 credits / month
+Everything in Plus, and:
+5,000 credits monthly
+100 daily refresh credits
+Access to frontier AI models like GPT-6.1 Sol and Claude Opus 5.5
+Analyze spreadsheets, documents, and data files
+Create charts and presentations
+32 GB of RAM
+Publish websites on your custom Julius domain
+Use browser agents for research and web tasks
+Unlimited parallel agents
+Priority email support
+Business
+For teams creating, analyzing, and collaborating together
+$450
+USD
+/ month
+Subscribe
+60,000 credits / month
+Everything in Pro, plus:
+60,000 credits monthly
+Access to frontier AI models like GPT-6.1 Sol and Claude Opus 5.5
+100 daily refresh credits
+Create charts, presentations, and websites
+Invite teammates and collaborate
+Postgres, BigQuery, Snowflake + more data connectors
+No table limit in data connections
+Add up to 50 team members
+One AI workspace for analysis and creation
+Every plan gives you one place to research, analyze, build, and create. Paid plans give you more credits to keep going.
+Analyze data and research
+Explore files, run analyses, visualize results, and get answers with citations.
+Create presentations
+Turn an idea, prompt, or source material into a polished presentation.
+Generate reports and dashboards
+Build clear, shareable reports and dashboards from your data and research.
+Build websites and web apps
+Create responsive websites, interactive tools, and working web experiences.
+Generate professional images
+Create original images for campaigns, products, presentations, and more.
+Create and edit video
+Generate video from text or images, then refine it in the same workspace.
+Trusted by leading professionals worldwide
+Key features
+Free
+$0 per month
+Sign up
+Plus
+$20 per month
+Sign up
+Pro
+$45 per month
+Sign up
+Business
+$450 / month
+Sign up
+Enterprise
+Contact Us
+Contact us
+Core features
+Credits
+Free daily credits
+2,000 credits / month
+5,000 credits / month
+60,000 credits / month
+Unlimited
+Models
+Julius Lite models
+GPT-6.1 Sol and Claude Opus 5.5
+GPT-6.1 Sol and Claude Opus 5.5
+GPT-6.1 Sol and Claude Opus 5.5
+All models, including the most powerful models
+AI Presentation Maker
+Limited
+AI Image Generator
+Limited
+AI Video Generator
+Limited
+Build Websites with AI
+Limited
+Data connectors
+Google Drive, OneDrive, Sharepoint
+Google Drive, OneDrive, Sharepoint, Snowflake, Bigquery, Postgres
+Google Drive, OneDrive, Sharepoint, Snowflake, Bigquery, Postgres
+Google Drive, OneDrive, Sharepoint, Snowflake, Bigquery, Postgres
+Custom
+Semantic Schema Learning
+Scheduled Runs
+3
+Unlimited
+Unlimited
+Collaboration
+File access
+7-day file storage
+7-day file storage
+7-day file storage
+Permanent file storage
+Teams
+Shared workspace
+Shared files
+Shared threads
+Usage dashboard
+Centralized billing
+Audit logs
+Admin, controls, and security
+SOC 2 Type II Compliance
+2-factor authentication
+User roles and permissions
+Single-sign on
+Support
+Help center
+Chat, email support
+Priority support
+Tailored onboarding
+Frequently asked questions
+How does Julius handle security and compliance?
+Which data sources and warehouses does Julius integrate with?
+Can I build presentations, websites, and videos on any plan?
+How can we manage our Julius subscription?
+How can my organization select between Business and Enterprise?
+How does Julius query across my database if I have thousands of tables?
+Can I give Julius my business context?
+I have a purchase order. How can I get an invoice?
+Still have questions?
+Reach out to our team any time, or check out our FAQs.
+Get in touch
+Footer
+Julius
+Early stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.
+SOC 2 Type 2 Certified
+X
+LinkedIn
+GitHub
+Youtube
+Contact us
+Company
+About
+Careers
+We're hiring
+Affiliate Program
+Merch Store
+Product
+Pricing
+Connectors
+AI Math
+AI Chatbot
+AI Image Generator
+AI Video Generator
+AI Presentation Maker
+AI Report Generator
+AI Website Builder
+Teams
+Data Connectors
+Custom Agents
+Resources
+Docs
+Blog
+Help Center
+Community
+Capabilities
+AI Models
+Guides
+Changelog
+Directory
+FAQs
+Use Cases
+Finance
+Marketing
+RevOps
+Product
+Data Science
+Scientific Research
+Education
+Security
+Security
+Privacy Policy
+Terms & Conditions
+Trust Center
+Popular integrations
+Plugins
+Postgres
+Snowflake
+SQL Server
+Show more
+Trending templates
+Slide Templates
+Guides
+Tips
+Videos
+Glossary
+Start Guides
+Structuring Data
+© 2026 Caesar Labs, Inc. All rights reserved.
+Privacy Settings
+Do Not Sell or Share My Personal Information
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Organization","@id":"https://julius.ai/#organization","name":"Julius AI","legalName":"Caesar Labs, Inc.","url":"https://julius.ai","logo":"https://julius.ai/opengraph-image.png","description":"Research complex topics, analyze data, and create presentations, dashboards, websites, images, and video in one AI workspace.","sameAs":["https://x.com/JuliusAI","https://www.linkedin.com/company/julius-ai/","https://github.com/caesarHQ","https://www.youtube.com/@Julius-AI","https://www.crunchbase.com/organization/julius-ai","https://www.g2.com/products/julius-ai-julius"],"contactPoint":{"@type":"ContactPoint","contactType":"customer support","email":"team@julius.ai","url":"https://julius.ai/support"}}
+{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://julius.ai/#software","name":"Julius AI","operatingSystem":"Web Browser","applicationCategory":"BusinessApplication","description":"Research complex topics, analyze data, and create presentations, dashboards, websites, images, and video in one AI workspace.","url":"https://julius.ai","featureList":["Deep research","AI data analysis","Presentation creation","Dashboard and report generation","Website and web app creation","Image and video generation","AI data visualization"],"offers":{"@type":"Offer","price":"0","priceCurrency":"USD","url":"https://julius.ai/pricing"},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.8,"bestRating":5,"ratingCount":398}}
+{"@context":"https://schema.org","@type":"WebSite","name":"Julius AI","url":"https://julius.ai","description":"Research complex topics, analyze data, and create presentations, dashboards, websites, images, and video in one AI workspace.","inLanguage":["en","es","fr","pt-BR"],"publisher":{"@type":"Organization","@id":"https://julius.ai/#organization","name":"Julius AI","url":"https://julius.ai","logo":{"@type":"ImageObject","url":"https://julius.ai/opengraph-image.png","width":1200,"height":630}}}
+{"@context":"https://schema.org","@type":"ItemList","name":"Site Navigation","itemListElement":[{"@type":"SiteNavigationElement","position":1,"name":"AI Chat","description":"Research, analyze, and create in one AI conversation","url":"https://julius.ai/ai-chatbot"},{"@type":"SiteNavigationElement","position":2,"name":"AI Presentation Maker","description":"Create complete presentations from prompts, files, research, or data","url":"https://julius.ai/home/ai-presentation-maker"},{"@type":"SiteNavigationElement","position":3,"name":"AI Website Builder","description":"Create, refine, and publish websites and web apps in chat","url":"https://julius.ai/home/ai-website-builder"},{"@type":"SiteNavigationElement","position":4,"name":"Julius Capabilities","description":"Explore research, analysis, presentation, website, image, and video tools","url":"https://julius.ai/capabilities"}]}

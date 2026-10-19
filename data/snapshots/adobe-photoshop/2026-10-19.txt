@@ -1,0 +1,93 @@
+#SNAPSHOT {"url":"https://www.adobe.com/products/photoshop/plans.html?country=US","finalUrl":"https://www.adobe.com/products/photoshop/plans.html?country=US","fetchedAt":"2026-10-19T03:36:09.771Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"5010615fa138e4c301d1d0baa8928e871ab6d4aac5553ce6845043e593d36ee6"}
+Creativity & Design
+Photoshop
+Features
+Mobile
+Compare Plans
+Free Trial Details
+Home
+/
+Adobe Creative Cloud
+/
+Adobe Photoshop
+/
+Compare Plans
+Photoshop
+Compare Photoshop plans.
+Get Photoshop by itself or as part of a multi-app plan. The choice is yours.
+Individuals
+Students and teachers
+Business
+Photoshop
+Photoshop on desktop, web, and mobile plus the Adobe Express Premium plan.
+US$22.99/mo
+Annual, billed monthly
+Free trial
+Buy now
+Firefly Pro
+Get Photoshop on web and mobile plus 4,000 credits for creative AI.
+US$19.99/mo
+Annual, billed monthly
+Free trial
+Buy now
+Photography
+Photoshop on desktop, web, and mobile, plus Lightroom.
+US$19.99/mo
+Annual, billed monthly
+Free trial
+Buy now
+Creative Cloud Pro
+Save 50% for the first 3 months. Get Photoshop and 20+ apps. New subscribers only. See terms.
+Regularly at
+US$69.99/mo 
+Alternatively at
+US$34.99/mo
+Annual, billed monthly
+Free trial
+Save today
+Adobe Photoshop on desktop
+Adobe Photoshop on web and mobile
+Best for
+Individuals
+Individuals
+Individuals
+Individuals
+7-day free trial
+Price
+US$22.99/mo
+US$19.99/mo
+US$19.99/mo
+Regularly at
+US$69.99/mo 
+Alternatively at
+US$34.99/mo
+Cloud storage
+100GB
+100GB
+1TB
+100GB
+Generative credits
+25 monthly
+4,000 monthly
+1,000 monthly
+4000 monthly
+Standard AI features like Generative Fill
+Access with generative credits
+Unlimited access
+Access with generative credits
+Unlimited access
+Premium AI features like Text to Video
+Access with generative credits
+Access with generative credits
+Access with generative credits
+Access with generative credits
+Access to top models from Adobe, Google, OpenAI, and more
+Adobe Express Premium plan
+Lightroom
+20+ desktop and mobile apps
+20,000+ fonts
+1 million+ free photos, drawings, video clips, audio clips, and templates
+Tutorials
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.adobe.com/"},{"@type":"ListItem","position":2,"name":"Adobe Creative Cloud","item":"https://www.adobe.com/creativecloud.html"},{"@type":"ListItem","position":3,"name":"Adobe Photoshop","item":"https://www.adobe.com/products/photoshop.html"},{"@type":"ListItem","position":4,"name":"Compare Plans","item":"https://www.adobe.com/products/photoshop/plans.html?country=US"}]}

@@ -1,0 +1,766 @@
+#SNAPSHOT {"url":"https://www.loom.com/pricing","finalUrl":"https://www.loom.com/pricing","fetchedAt":"2026-10-19T03:36:29.802Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"f0820ea070fdd1bdf68486b6a4820374eac8f8187e76dad03098ebbc6e107472"}
+Loom Pricing | Start Recording For Free | Loom Skip to  content
+ Toggle menu close
+ Choose the plan that fits your needs.
+ Team size: users 
+ Bill me:
+ Monthly 
+ Annually 
+ SAVE UP TO 17%
+ Starter
+ Get started with video communication
+ $0
+ Sign up
+ Key Features
+ 25 videos
+ 5 minute screen recordings
+ Unlimited meeting length
+ NEW
+ Transcriptions in 50+ languages
+ Comments and emoji reactions
+ See all features
+ Workspace Members & Videos 
+ Up to 50 Members
+ Up to 25 videos/person
+ 5 min per video recording length
+ Unlimited screenshots
+ Team Workspace 
+ Personal Library
+ Shared Library
+ Team Library
+ Video Recording 
+ Video quality up to 720p
+ Screen & cam bubble recording
+ System audio
+ Recording Canvas
+ Camera frames
+ Virtual backgrounds
+ Background noise suppression
+ Speaker notes
+ Video Editing 
+ GIF thumbnails
+ Content Management 
+ Video archiving
+ Folders
+ 1 all-company space
+ Video Analytics 
+ Viewer insights
+ Video Interaction 
+ Emoji reactions
+ Video comments
+ Video transcriptions
+ Closed captions
+ Watch later
+ Security & Privacy 
+ Video privacy controls
+ Integrations 
+ Slack
+ Jira, Jira Service Desk, and Confluence
+ GitHub
+ Gmail
+ Upwork
+ FigJam (embed)
+ Notion (embed)
+ Intercom, Zendesk, Dropbox, GitLab, and more (embed)
+ Business
+ Move work forward faster with unlimited videos and basic editing
+ $18
+ per user / month
+ Try for free
+ Everything in Starter, and
+ Unlimited videos
+ Unlimited recording time
+ Basic waveform editing
+ Remove Loom branding
+ Upload and download videos
+ See all features
+ Workspace Members & Videos 
+ Unlimited Members
+ Unlimited videos per person
+ Unlimited video recording length
+ Unlimited screenshots
+ Team Workspace 
+ Personal Library
+ Shared Library
+ Team Library
+ Video Recording 
+ High-def up to 4k
+ Screen & cam bubble recording
+ System audio
+ Transcriptions & closed captions
+ Recording canvas
+ Camera frames
+ Virtual backgrounds
+ Background noise suppression
+ Speaker notes
+ Custom recording dimensions
+ Do not disturb
+ Drawing tool & mouse emphasis
+ Blur
+ Video Editing 
+ Variables (BETA)
+ GIF thumbnails
+ Trim & stitch videos
+ Custom video thumbnail
+ Embed links in video
+ Custom Branding 
+ Remove Loom branding
+ Add logo on the video page
+ Customize colors of the video player
+ Content Management 
+ Video archiving
+ Folders
+ Search
+ Video uploads
+ 1 all-company space + 3 additional spaces
+ Video Analytics 
+ Viewer insights
+ Engagement insights
+ Exportable engagement insights
+ Video Interaction 
+ Emoji reactions
+ Video comments
+ Video transcriptions
+ Closed captions
+ Watch later
+ Security & Privacy 
+ Video privacy controls
+ Password protected videos
+ Default privacy setting for workspace
+ Support 
+ Priority support
+ Integrations 
+ Slack
+ Jira, Jira Service Desk, and Confluence
+ GitHub
+ Gmail
+ Upwork
+ FigJam (embed)
+ Notion (embed)
+ Intercom, Zendesk, Dropbox, GitLab, and more (embed)
+ MOST POPULAR
+ Business + AI 
+ Communicate your best with videos instantly enhanced and edited with Loom AI
+ $24
+ per user / month
+ Try for free
+ Everything in Business, and
+ Auto-video enhancement
+ Record for agents
+ NEW
+ Advanced editing
+ Video-to-text automation
+ Auto-meeting recap emails
+ NEW
+ Auto-meeting notes 
+ NEW
+ Admin insights
+ See all features
+ Workspace Members & Videos 
+ Unlimited Members
+ Unlimited videos per person
+ Unlimited video recording length
+ Unlimited Screenshots
+ Loom AI 
+ AI Workflows
+ Auto CTA
+ Auto Titles
+ Auto Summaries
+ Auto Chapters
+ Auto Tasks
+ Filler Word Removal
+ Silence Removal
+ Team Workspace 
+ Personal Library
+ Shared Library
+ Team Library
+ Video Recording 
+ High-def up to 4k
+ Screen & cam bubble recording
+ System audio
+ Transcriptions & closed captions
+ Recording canvas
+ Camera frames
+ Virtual backgrounds
+ Background noise suppression
+ Speaker notes
+ Custom recording dimensions
+ Do not disturb
+ Drawing tool & mouse emphasis
+ Blur
+ Video Editing 
+ Variables (BETA)
+ GIF thumbnails
+ Trim & stitch videos
+ Custom video thumbnail
+ Embed links in video
+ Edit by transcript
+ Custom Branding 
+ Remove Loom branding
+ Add logo on the video page
+ Customize colors of the video player
+ Content Management 
+ Video archiving
+ Folders
+ Search
+ Video uploads
+ 1 all-company space + 3 additional spaces
+ Video Analytics 
+ Viewer insights
+ Engagement insights
+ Exportable engagement insights
+ Video Interaction 
+ Emoji reactions
+ Video comments
+ Video transcriptions
+ Closed captions
+ Watch later
+ Security & Privacy 
+ Video privacy controls
+ Password protected videos
+ Default privacy setting for workspace
+ Support 
+ Priority support
+ Integrations 
+ Slack
+ Jira, Jira Service Desk, and Confluence
+ GitHub
+ Gmail
+ Upwork
+ FigJam (embed)
+ Notion (embed)
+ Intercom, Zendesk, Dropbox, GitLab, and more (embed)
+ Enterprise
+ Control and securely manage your video content for the entire organization
+ Let’s Talk
+ Contact Sales
+ Everything in Business + AI, and
+ Advanced security (SSO, SCIM)
+ Salesforce integration
+ 99.95% uptime SLA
+ EBA Compliance
+ Downloadable user insights
+ See all features
+ Workspace Members & Videos 
+ Unlimited Members
+ Unlimited videos per person
+ Unlimited video recording length
+ Unlimited Screenshots
+ Loom AI 
+ AI Workflows
+ Auto CTA
+ Auto Titles
+ Auto Summaries
+ Auto Chapters
+ Auto Tasks
+ Filler Word Removal
+ Silence Removal
+ Team Workspace 
+ Personal Library
+ Shared Library
+ Team Library
+ Video Recording 
+ High-def up to 4k
+ Screen & cam bubble recording
+ System audio
+ Transcriptions & closed captions
+ Recording canvas
+ Camera frames
+ Virtual backgrounds
+ Background noise suppression
+ Speaker notes
+ Custom recording dimensions
+ Do not disturb
+ Drawing tool & mouse emphasis
+ Blur
+ Video Editing 
+ Variables (BETA)
+ GIF thumbnails
+ Trim & stitch videos
+ Custom video thumbnail
+ Embed links in video
+ Edit by transcript
+ Custom Branding 
+ Remove Loom branding
+ Add logo on the video page
+ Customize colors of the video player
+ Content Management 
+ Video archiving
+ Folders
+ Search
+ Video uploads
+ Unlimited spaces + advanced admin controls
+ Video Analytics 
+ Viewer insights
+ Engagement insights
+ Exportable engagement insights
+ Video Interaction 
+ Emoji reactions
+ Video comments
+ Video transcriptions
+ Closed captions
+ Watch later
+ Security & Privacy 
+ Video privacy controls
+ Password protected videos
+ Default privacy setting for workspace
+ Advanced video privacy controls
+ Admin Controls 
+ SSO (SAML)
+ Account transfer and ownership of content
+ Directory & provisioning (SCIM)
+ User roles and management
+ Activity log and content activity report
+ Custom data retention policies
+ Support 
+ Priority support
+ Dedicated support
+ Dedicated account manager
+ Custom onboarding & education
+ Integrations 
+ Slack
+ Jira, Jira Service Desk, and Confluence
+ GitHub
+ Gmail
+ Upwork
+ FigJam (embed)
+ Notion (embed)
+ Intercom, Zendesk, Dropbox, GitLab, and more (embed)
+ Salesforce (Beta)
+ Zoom Import
+ Loom AI 
+ Just hit record and Loom AI will do the rest. Instant edits, enhancements, and recaps for all your video recordings.
+ Auto-meeting notes
+ NEW
+ Auto-meeting recaps
+ NEW
+ Record for agents
+ NEW
+ Video-to-text automation
+ Auto-summaries
+ Filler word removal
+ Try for free
+ Starter
+ Sign up
+ Business
+ Try for free
+ Business + AI 
+ Try for free
+ Enterprise
+ Contact Sales
+ Workspace Members & Videos
+ Members
+ Up to 50
+ Unlimited
+ Unlimited
+ Unlimited
+ Recordings per person
+ Up to 25
+ Unlimited
+ Unlimited
+ Unlimited
+ Screen recording length
+ 5 min per video
+ Unlimited
+ Unlimited
+ Unlimited
+ Screenshots
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Meeting recording length New
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Try for free!
+Loom AI
+ Included
+ Included
+ Auto Titles
+ Included
+ Included
+ Included
+ Included
+ Auto CTA
+ Included
+ Included
+ Included
+ Auto Meeting Notes and Recaps New
+ Included
+ Included
+ AI Workflows
+ Included
+ Included
+ Auto Summaries
+ Included
+ Included
+ Auto Chapters
+ Included
+ Included
+ Filler Word Removal
+ Included
+ Included
+ Silence Removal
+ Included
+ Included
+ Record for agents New
+ Included
+ Included
+ Team Workspace
+ Personal Library
+ Included
+ Included
+ Included
+ Included
+ Shared Library
+ Included
+ Included
+ Included
+ Included
+ Team Library
+ Included
+ Included
+ Included
+ Included
+ Video Recording
+ Video quality
+ Up to 720p
+ High-definition up to 4k
+ High-definition up to 4k
+ High-definition up to 4k
+ Screen & cam bubble recording
+ Included
+ Included
+ Included
+ Included
+ Meeting recordings New
+ Included
+ Included
+ Included
+ Included
+ System audio
+ Included
+ Included
+ Included
+ Included
+ Transcriptions & closed captions
+ Included
+ Included
+ Included
+ Included
+ Recording Canvas
+ Included
+ Included
+ Included
+ Included
+ Camera frames
+ Included
+ Included
+ Included
+ Included
+ Virtual backgrounds
+ Included
+ Included
+ Included
+ Included
+ Background noise suppression
+ Included
+ Included
+ Included
+ Included
+ Speaker notes
+ Included
+ Included
+ Included
+ Included
+ Advanced controls New
+ Included
+ Included
+ Included
+ Included
+ Custom recording dimensions
+ Included
+ Included
+ Included
+ Do not disturb
+ Included
+ Included
+ Included
+ Drawing tool & mouse emphasis
+ Included
+ Included
+ Included
+ Blur
+ Video Editing
+ GIF thumbnails
+ Included
+ Included
+ Included
+ Included
+ Trim & stitch videos
+ Included
+ Included
+ Included
+ Backgrounds New
+ Included
+ Included
+ Included
+ Live Rewind
+ Included
+ Included
+ Included
+ Custom video thumbnails
+ Included
+ Included
+ Included
+ Embed links in video
+ Included
+ Included
+ Included
+ Stylized Captions New
+ Included
+ Included
+ Included
+ Edit by transcript
+ Included
+ Included
+ Add text, box, and arrow overlays New
+ Included
+ Included
+ Custom Branding
+ Remove Loom branding on the video page
+ Included
+ Included
+ Included
+ Remove Loom branding on embedded video player
+ Included
+ Included
+ Included
+ Add your logo on the video page
+ Included
+ Included
+ Included
+ Customize colors of the video player
+ Included
+ Included
+ Included
+ Content Management
+ Video archiving
+ Included
+ Included
+ Included
+ Included
+ Folders
+ Included
+ Included
+ Included
+ Included
+ Search
+ Included
+ Included
+ Included
+ Video uploads
+ Included
+ Included
+ Included
+ Spaces
+ Included
+ Included
+ Included
+ Included
+ Request email to view
+ Included
+ Included
+ Included
+ Video Analytics
+ Viewer insights
+ Included
+ Included
+ Included
+ Included
+ Engagement insights
+ Included
+ Included
+ Included
+ Exportable engagement insights
+ Included
+ Included
+ Included
+ Admin Insights
+ Included
+ Included
+ Video Interaction
+ Emoji reactions
+ Included
+ Included
+ Included
+ Included
+ Video comments
+ Included
+ Included
+ Included
+ Included
+ Video transcriptions
+ Included
+ Included
+ Included
+ Included
+ Closed captions
+ Included
+ Included
+ Included
+ Included
+ Watch later
+ Included
+ Included
+ Included
+ Included
+ Security and Privacy
+ Video privacy controls
+ Included
+ Included
+ Included
+ Included
+ Password protected videos
+ Included
+ Included
+ Included
+ Default privacy setting for workspace
+ Included
+ Included
+ Included
+ Atlassian Guard Standard (SSO, SCIM)
+ Included
+ Activity log and content activity report
+ Included
+ Included
+ Included
+ Advanced video privacy controls
+ Included
+ Included
+ Admin Controls
+ Account transfer and ownership of content
+ Included
+ User roles and management
+ Included
+ Included
+ Included
+ Included
+ Custom data retention policies
+ Included
+ Included
+ Video download restriction
+ Included
+ Included
+ Support
+ Support
+ Included
+ Included
+ Included
+ Integrations
+ Slack
+ Included
+ Included
+ Included
+ Included
+ Jira, Jira Service Desk, and Confluence
+ Included
+ Included
+ Included
+ Included
+ GitHub
+ Included
+ Included
+ Included
+ Included
+ Gmail
+ Included
+ Included
+ Included
+ Included
+ Upwork
+ Included
+ Included
+ Included
+ Included
+ FigJam (embed)
+ Included
+ Included
+ Included
+ Included
+ Notion (embed)
+ Included
+ Included
+ Included
+ Included
+ Intercom, Zendesk, Dropbox, GitLab, and more (embed)
+ Included
+ Included
+ Included
+ Included
+ Salesforce
+ Included
+ Zoom Import
+ Included
+ Are you a student or teacher? Try our discounted plan
+.
+ FAQs
+ Can I start a free trial of paid plans?
+ Yes, you can try our Business + AI plan free for 14 days. If you would like a free 14-day trial of our Enterprise plan please contact sales
+.
+ What&#x27;s the difference between buying Loom on Loom.com versus Atlassian.com?
+ Loom was acquired by Atlassian
+ last year, and we are in the process of integrating systems. As of October 23, 2024, there are some differences in feature access if you sign up for Loom through Atlassian.com
+ vs. Loom.com. We&#x27;ll take you through key differences so you can make an informed purchase decision. Please note that these differences exist for a limited time while we integrate Loom and Atlassian platforms more deeply, and we&#x27;ll update this article regularly.
+ For a limited time, only purchases on Atlassian.com
+ will have access to:
+ Atlassian’s Administration hub, which allows you to administer your organization, apps, and users, and billing for all Atlassian apps.
+ Loom recording entry points from within Confluence and Jira menus and sidebar placements.
+ The same SSO/SCIM provisioning as other Atlassian apps, through Atlassian Guard.
+ More exclusive Enterprise features to come!
+ Annual subscriptions are also billed differently on Atlassian.com vs. Loom.com:
+ Loom.com annual subscriptions are charged by the distinct number of paid users on your plan, billed annually.
+ Atlassian.com
+ annual subscriptions are based on distinct user tiers
+. You will be billed for the tier most closely matching your user count.
+ Why should I consider getting Loom Business + AI?
+ Lots of companies are adding AI to their products. At Loom, our No. 1 priority is to build AI features that further our mission to unlock effective communication. The Loom AI suite — both current and upcoming features — are built to help you:
+ Get Work Done Faster — 67% of users do not edit the auto generated title, gaining efficiency benefit without investing additional time. The Loom AI Suite reduces time spent packaging and sharing Looms after recording; so you can send a polished, high quality video quickly.
+ Increase Productivity — 73% of people said it is “extremely or very valuable” to their workflows today. AI Suite reduces the need to re-record Looms so you can make your first take your best take.
+ Communicate Effectively — 18% more viewer engagement. AI Suite adds context instantly and automatically — title, summary, chapters, and tasks — to ensure your message is clear and viewers can quickly consume and respond.
+ What enterprise-grade security features does Loom offer?
+ The Standard package of Atlassian&#x27;s advanced cloud security app, Atlassian Guard, is included in Loom&#x27;s Enterprise plan for free. 
+Key features of Atlassian Guard (Standard) are: 
+ Enforced single sign-on (SSO)
+ SCIM automated user provisioning
+ Organization audit log
+ Learn more about Atlassian Guard here
+.
+ What are my payment options?
+ You can be billed monthly, but save 17% if you pay annually. We currently accept credit card payment, but if you are interested in paying via ACH, you can reach out to our Sales team  here
+ who can answer questions and assess your eligibility.
+ What are Workspaces and who can I add to my Workspace?
+ Loom is built for both teams and individuals and so all our plans (except for our special Education plan) include a team Workspace with a Personal, Shared, and Team Library for your videos and screenshots. You can invite people to your Workspace in your Workspace settings.
+ On Starter you can add up to 50 Creator Lite members to your team Workspace for free. On Business you can add both Creator Lite members and Creators to your team Workspace.
+ Do I get a refund if I deactivate members from my Workspace?
+ If a Creator is downgraded in the workspace, they retain Creator access for the remainder of the cycle. If a member of the workspace is deactivated, the seat will be forfeiting all fees and access for the remainder of that billing cycle.
+ How is my data used?
+ OpenAI receives transcript data as text files in order to generate titles and summaries. OpenAI does not receive full videos or audio.
+ We only send data to trusted third-party systems that are subject to strict privacy and security controls. Our third-party sub-processors are subject to appropriate agreements with Loom and/or its Users to secure and protect the confidentiality of data. Furthermore, we have executed DPAs with our subprocessors.
+ More details and Loom&#x27;s list of sub-processors can be found here
+. Loom&#x27;s AI Terms can be found here
+. 
+ Is there a discounted Education plan?
+ Yes. Loom is part of Atlassian&#x27;s discount program for educators. Learn more on how to get verified for a Loom for Education account here
+.
+ How do Screenshots work?
+ All our plans include unlimited screenshots. If you take a screenshot, we&#x27;ll generate an instantly shareable link, and the screenshot will live in its own section of your Workspace, just as regular videos in Loom do. Read more about how to take a screenshot
+.
+ More than 25 million people across 400,000 companies choose Loom
+Get Loom for Free
+ For Mac, Windows, iOS, and Android
+ View more
+ Ready to improve how your team communicates?
+Contact Sales

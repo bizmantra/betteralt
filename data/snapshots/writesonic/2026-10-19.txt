@@ -1,0 +1,836 @@
+#SNAPSHOT {"url":"https://writesonic.com/pricing","finalUrl":"https://writesonic.com/pricing","fetchedAt":"2026-10-19T03:34:23.549Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"9eb5610c497c4c1ea3898968d695e3505715d4d6fb95c7870c709db770c20a07"}
+Pricing | Writesonic AI Search Visibility Platform 
+ Skip the trial and error. Learn how to get started with Writesonic live →
+ R
+ e
+ s
+ e
+ r
+ v
+ e
+ m
+ y
+ s
+ e
+ a
+ t
+ Platform 
+ Solutions 
+ Resources 
+ Pricing 
+ L
+ o
+ g
+ i
+ n
+ B
+ o
+ o
+ k
+ a
+ d
+ e
+ m
+ o
+ B
+ o
+ o
+ k
+ a
+ d
+ e
+ m
+ o
+ F
+ o
+ r
+ B
+ r
+ a
+ n
+ d
+ s
+ F
+ o
+ r
+ A
+ g
+ e
+ n
+ c
+ i
+ e
+ s
+ Plans & Pricing
+ Find which prompts recommend your competitors instead of you. Fix it with AI agents. Prove the ROI. Start free. No credit card needed.
+ Monthly
+ Annual
+ Save 20%
+ Swipe 
+ Starter
+ $ 79
+ Save $240/year
+ per month, billed annually
+ Track your brand across ChatGPT, Gemini, and Google AI Overviews. Includes AI articles and site audits to fix visibility gaps.
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ AI Search Visibility
+ Track ChatGPT, Gemini, Google AI Overviews
+ 50 prompts, 50 answers tracked daily
+ Ads monitoring
+ Sentiment Analysis (available on Growth)
+ Action Center (available on Enterprise)
+ Content & SEO
+ 15 AI articles per month
+ 10 site audits (100 pages each)
+ Agentic Workflows
+ Limited access (10 trial runs)
+ Team
+ 1 user, 1 project
+ Standard email support
+ See all features 
+ Basic
+ $ 199
+ Save $600/year
+ per month, billed annually
+ SEO + GEO in one platform. Track your brand across ChatGPT, Gemini, and Google AI Overviews.
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ AI Search Visibility
+ Track ChatGPT, Gemini, Google AI Overviews
+ 100 prompts, 300 answers tracked daily
+ Ads monitoring
+ Sentiment Analysis (available on Growth)
+ Action Center (available on Enterprise)
+ Content & SEO
+ 25 AI articles per month
+ 20 site audits (1,200 pages each)
+ Agentic Workflows
+ Limited access (50 trial runs)
+ Team
+ 2 users, 1 project
+ Standard email support
+ See all features 
+ Most popular
+ Growth
+ $ 399
+ Save $1200/year
+ per month, billed annually
+ Track AI visibility and act on it. Sentiment analysis, Action Center, and agentic workflows to fix what&#x27;s broken.
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ AI Search Visibility
+ Track ChatGPT, Gemini, Google AI Overviews
+ 200 prompts, 600 answers tracked daily
+ Ads monitoring
+ Sentiment Analysis included
+ Action Center trial (5 off-page + 5 on-page actions/mo)
+ Content & SEO
+ 50 AI articles per month
+ 50 site audits (2,500 pages each)
+ Agentic Workflows
+ Limited access (100 trial runs)
+ Team
+ 3 users, 2 projects
+ Priority email support
+ See all features 
+ Enterprise
+ Custom
+ Tailored to your scale
+ Full SEO + GEO at scale. All 9 AI platforms, full Action Center, agentic workflows, and a dedicated strategy team.
+ B
+ o
+ o
+ k
+ a
+ d
+ e
+ m
+ o
+ AI Search Visibility
+ All 9 AI platforms tracked
+ Custom prompts, regions, languages
+ Full Action Center
+ Sentiment Analysis
+ AI search volume & trend insights
+ Ads monitoring
+ Brand Explorer, Page Tracker, Prompt Explorer, Alerts
+ Shopping & Agentic Commerce
+ Looker Studio & other integrations
+ Content & SEO
+ Custom AI articles per month
+ Custom site audits (pages, frequency)
+ Agentic Workflows
+ Full access across AI visibility, content & SEO
+ Team
+ Custom users, projects & access control
+ AI search strategist
+ SSO/SAML, SOC 2 Type II, HIPAA, GDPR
+ See all features 
+ Starter
+ $ 79
+ Save $240/year
+ per month, billed annually
+ Track your brand across ChatGPT, Gemini, and Google AI Overviews. Includes AI articles and site audits to fix visibility gaps.
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ AI Search Visibility
+ Track ChatGPT, Gemini, Google AI Overviews
+ 50 prompts, 50 answers tracked daily
+ Ads monitoring
+ Sentiment Analysis (available on Growth)
+ Action Center (available on Enterprise)
+ Content & SEO
+ 15 AI articles per month
+ 10 site audits (100 pages each)
+ Agentic Workflows
+ Limited access (10 trial runs)
+ Team
+ 1 user, 1 project
+ Standard email support
+ See all features 
+ Basic
+ $ 199
+ Save $600/year
+ per month, billed annually
+ SEO + GEO in one platform. Track your brand across ChatGPT, Gemini, and Google AI Overviews.
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ AI Search Visibility
+ Track ChatGPT, Gemini, Google AI Overviews
+ 100 prompts, 300 answers tracked daily
+ Ads monitoring
+ Sentiment Analysis (available on Growth)
+ Action Center (available on Enterprise)
+ Content & SEO
+ 25 AI articles per month
+ 20 site audits (1,200 pages each)
+ Agentic Workflows
+ Limited access (50 trial runs)
+ Team
+ 2 users, 1 project
+ Standard email support
+ See all features 
+ Most popular
+ Growth
+ $ 399
+ Save $1200/year
+ per month, billed annually
+ Track AI visibility and act on it. Sentiment analysis, Action Center, and agentic workflows to fix what&#x27;s broken.
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ AI Search Visibility
+ Track ChatGPT, Gemini, Google AI Overviews
+ 200 prompts, 600 answers tracked daily
+ Ads monitoring
+ Sentiment Analysis included
+ Action Center trial (5 off-page + 5 on-page actions/mo)
+ Content & SEO
+ 50 AI articles per month
+ 50 site audits (2,500 pages each)
+ Agentic Workflows
+ Limited access (100 trial runs)
+ Team
+ 3 users, 2 projects
+ Priority email support
+ See all features 
+ Enterprise
+ Custom
+ Tailored to your scale
+ Full SEO + GEO at scale. All 9 AI platforms, full Action Center, agentic workflows, and a dedicated strategy team.
+ B
+ o
+ o
+ k
+ a
+ d
+ e
+ m
+ o
+ AI Search Visibility
+ All 9 AI platforms tracked
+ Custom prompts, regions, languages
+ Full Action Center
+ Sentiment Analysis
+ AI search volume & trend insights
+ Ads monitoring
+ Brand Explorer, Page Tracker, Prompt Explorer, Alerts
+ Shopping & Agentic Commerce
+ Looker Studio & other integrations
+ Content & SEO
+ Custom AI articles per month
+ Custom site audits (pages, frequency)
+ Agentic Workflows
+ Full access across AI visibility, content & SEO
+ Team
+ Custom users, projects & access control
+ AI search strategist
+ SSO/SAML, SOC 2 Type II, HIPAA, GDPR
+ See all features 
+ Trusted by 10,000+ leading Marketing teams of all sizes
+ RESULTS
+ Real results from marketing teams like yours.
+ Writesonic treats AI search the way good marketers treat any channel. It shows where you&#x27;re losing, ships the fix through content and citations, and proves the lift in pipeline. That&#x27;s why we switched.
+ Nikki Lam
+ SVP of Earned Media , NP Digital
+ We went from zero AI visibility to closing multiple six-figure deals from AI leads in the first 60 days. Our largest was $350K+ ACV, and we doubled our GEO budget for 2026.
+ Simon
+ Head of Marketing , Maestra
+ I could practically hear the wheels turning on how we&#x27;ll use this to scale. You&#x27;re an amazing partner and a huge part of our success.
+ Ellen Tuckett
+ SEO Manager, AI Search , Cyera
+ Writesonic treats AI search the way good marketers treat any channel. It shows where you&#x27;re losing, ships the fix through content and citations, and proves the lift in pipeline. That&#x27;s why we switched.
+ Nikki Lam
+ SVP of Earned Media , NP Digital
+ We went from zero AI visibility to closing multiple six-figure deals from AI leads in the first 60 days. Our largest was $350K+ ACV, and we doubled our GEO budget for 2026.
+ Simon
+ Head of Marketing , Maestra
+ I could practically hear the wheels turning on how we&#x27;ll use this to scale. You&#x27;re an amazing partner and a huge part of our success.
+ Ellen Tuckett
+ SEO Manager, AI Search , Cyera
+ 2,031 reviews
+ 6,000 reviews
+ 2,102 reviews
+ Compare plans
+ Full SEO + GEO feature breakdown across all tiers.
+ S
+ t
+ a
+ r
+ t
+ e
+ r
+ B
+ a
+ s
+ i
+ c
+ G
+ r
+ o
+ w
+ t
+ h
+ E
+ n
+ t
+ e
+ r
+ p
+ r
+ i
+ s
+ e
+ AI Visibility Tracking
+ Monitor your brand across AI platforms
+ AI Bot Analytics
+ AI Platforms Tracked
+ ChatGPT, Gemini, Google AI Overviews
+ Prompts Tracked
+ 50
+ Answers Tracked (Daily)
+ 50
+ Tracking Frequency
+ Daily
+ Markets (Language + Country)
+ 1
+ Prompt Diversification
+ AI Search Tools
+ Explore brands, topics, and search opportunities
+ Ads (ChatGPT + Google AI)
+ Sentiment Analysis
+ AI Search Volume
+ Brand Explorer
+ Prompt Explorer
+ Portfolios / Page Tracker
+ Shopping & Agentic Commerce
+ Alerts
+ Action Center
+ Prioritize and execute visibility improvements
+ Action Center Access
+ Off-Page Actions
+ On-Page Actions
+ Technical Actions
+ Content
+ Create and optimize content for SEO + AI Search
+ Content Strategy
+ SEO & Content AI Agent
+ AI Article Writer
+ Articles Per Month
+ 15
+ Article Add-On
+ Upload Your Own Data
+ Content Optimization
+ Writing Styles (Brand Voice)
+ 1
+ Site Audit
+ Audit and fix your site for AI and SEO
+ Audits Per Month
+ 10
+ Pages Analyzed Per Audit
+ 100
+ Automatic AI Fixes
+ Agentic Workflows
+ AI agents that automate SEO, content, and AI search tasks
+ Access
+ Limited
+ Runs
+ 10 trial runs
+ Integrations
+ Connect your existing tools
+ Google Search Console
+ WordPress
+ GA4 Integration
+ Looker Studio
+ Data Sources
+ Power your insights with rich data
+ Google Keyword Planner
+ Google SERPs
+ Reddit
+ Team
+ Collaborate and manage your workspace
+ Included Users
+ 1
+ Additional Users
+ Projects
+ 1
+ Support & Security
+ Enterprise-grade support and compliance
+ User Access Control
+ SSO/SAML
+ Support
+ Email
+ Dedicated AI Search Strategist
+ Features
+ Starter
+ $ 79 /mo
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ Basic
+ $ 199 /mo
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ Growth
+ $ 399 /mo
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ Enterprise
+ Custom
+ B
+ o
+ o
+ k
+ a
+ d
+ e
+ m
+ o
+ AI Visibility Tracking
+ Monitor your brand across AI platforms
+ AI Bot Analytics
+ AI Platforms Tracked
+ ChatGPT, Gemini, Google AI Overviews
+ ChatGPT, Gemini, Google AI Overviews
+ ChatGPT, Gemini, Google AI Overviews
+ All 9 platforms
+ Prompts Tracked
+ 50
+ 100
+ 200
+ Custom
+ Answers Tracked (Daily)
+ 50
+ 300
+ 600
+ Custom
+ Tracking Frequency
+ Daily
+ Daily
+ Daily
+ Daily
+ Markets (Language + Country)
+ 1
+ 1
+ 1
+ Custom
+ Prompt Diversification
+ AI Search Tools
+ Explore brands, topics, and search opportunities
+ Ads (ChatGPT + Google AI)
+ Sentiment Analysis
+ AI Search Volume
+ 5 runs (one-time)
+ 5 runs (one-time)
+ Brand Explorer
+ Prompt Explorer
+ Portfolios / Page Tracker
+ Shopping & Agentic Commerce
+ Alerts
+ Action Center
+ Prioritize and execute visibility improvements
+ Action Center Access
+ Limited
+ Off-Page Actions
+ 5/month
+ On-Page Actions
+ 5/month
+ Technical Actions
+ Content
+ Create and optimize content for SEO + AI Search
+ Content Strategy
+ SEO & Content AI Agent
+ AI Article Writer
+ Articles Per Month
+ 15
+ 25
+ 50
+ Custom
+ Article Add-On
+ +20 / $100/mo
+ Custom
+ Upload Your Own Data
+ Content Optimization
+ Writing Styles (Brand Voice)
+ 1
+ 5
+ 10
+ Custom
+ Site Audit
+ Audit and fix your site for AI and SEO
+ Audits Per Month
+ 10
+ 20
+ 50
+ Custom
+ Pages Analyzed Per Audit
+ 100
+ 1,200
+ 2,500
+ Custom
+ Automatic AI Fixes
+ Agentic Workflows
+ AI agents that automate SEO, content, and AI search tasks
+ Access
+ Limited
+ Limited
+ Limited
+ Runs
+ 10 trial runs
+ 50 trial runs
+ 100 trial runs
+ Custom
+ Integrations
+ Connect your existing tools
+ Google Search Console
+ WordPress
+ GA4 Integration
+ Looker Studio
+ Data Sources
+ Power your insights with rich data
+ Google Keyword Planner
+ Google SERPs
+ Reddit
+ Team
+ Collaborate and manage your workspace
+ Included Users
+ 1
+ 2
+ 3
+ Custom
+ Additional Users
+ Up to 3 ($50/user/mo)
+ Up to 2 ($50/user/mo)
+ Custom
+ Projects
+ 1
+ 1
+ 2
+ Custom
+ Support & Security
+ Enterprise-grade support and compliance
+ User Access Control
+ SSO/SAML
+ Support
+ Email
+ Email
+ Priority Email
+ Dedicated Slack, Teams, Email, Account Manager
+ Dedicated AI Search Strategist
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ S
+ t
+ a
+ r
+ t
+ f
+ r
+ e
+ e
+ t
+ r
+ i
+ a
+ l
+ B
+ o
+ o
+ k
+ a
+ d
+ e
+ m
+ o
+ *Fair usage policy applies
+ 2261 Market Street #4608,
+San Francisco, CA - 94114
+ Platform
+ AI Visibility Monitoring
+ AI Agent Analytics
+ Action Center
+ AI Agents
+ AI Article Writer
+ AI Content Agent
+ AI Search Volume
+ AI Brand Explorer
+ AI Shopping Tracker
+ AI Ads Tracker
+ Solutions
+ Enterprise
+ Agencies
+ Growth Teams
+ E-commerce
+ PR & Brand Teams
+ Startups
+ Resources
+ AI Ads Index
+ Blog
+ Customers
+ Compare
+ Integrations
+ MCP
+ GEO/AEO Guide
+ Help Center
+ API Docs
+ Events & webinars
+ Reports
+ Free tools
+ llms.txt Generator
+ AI Crawl Checker
+ All free tools
+ Company
+ About
+ Careers
+ Affiliate Program
+ Contact
+ Status 
+ Writesonic
+ Copyright © 2026 Writesonic, Inc.
+ Terms of Use
+ Privacy Policy
+ DPA
+ Security
+ See which AI answers feature your competitors.
+Not you.
+ Talk to our AI search strategists. Get a clear picture of where you stand.
+ See your blind spots. Which AI platforms recommend competitors instead of you? 
+ Get a prioritized action plan. Content gaps, citation opportunities, technical issues. Ranked by impact.
+ Learn how to prove ROI. See how brands attribute $350K+ deals to AI search visibility.
+ Trusted by leading marketing teams and agencies
+ Frequently asked questions
+ Got Questions?
+ Do I need a credit card to start? 
+ What&#x27;s the difference between monthly and annual? 
+ How is Writesonic different from other AI visibility tools? 
+ How is Writesonic different from Ahrefs or Semrush? 
+ Which AI platforms do you track? 
+ What&#x27;s the Action Center? 
+ Can I add more users? 
+ What if I need more articles? 
+ Can I switch plans or cancel anytime? 
+ What about enterprise security? 
+ Do I need a credit card to start? 
+ What&#x27;s the difference between monthly and annual? 
+ How is Writesonic different from other AI visibility tools? 
+ How is Writesonic different from Ahrefs or Semrush? 
+ Which AI platforms do you track? 
+ What&#x27;s the Action Center? 
+ Can I add more users? 
+ What if I need more articles? 
+ Can I switch plans or cancel anytime? 
+ What about enterprise security? 
+ Still have questions? Talk to sales
+ AI is how your buyers find answers now.
+ Make sure they find you.
+ Book a demo. See exactly where your brand stands across 9 AI search platforms.
+ B
+ o
+ o
+ k
+ a
+ d
+ e
+ m
+ o
+ S
+ t
+ a
+ r
+ t
+ F
+ r
+ e
+ e
+ T
+ r
+ i
+ a
+ l
+ SOC 2
+ (TYPE II)
+ GDPR
+ COMPLIANT
+ HIPAA
+ COMPLIANT
+ SINGLE
+ SIGN ON
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Organization","@id":"https://writesonic.com#organization","name":"Writesonic","url":"https://writesonic.com","logo":"https://writesonic.com/brand-logos/logo-large-orange-500.svg","sameAs":["https://www.linkedin.com/company/writesonic/","https://x.com/WriteSonic","https://www.youtube.com/@WritesonicAI","https://www.instagram.com/writesonic/"],"address":{"@type":"PostalAddress","streetAddress":"2261 Market Street #4608","addressLocality":"San Francisco","addressRegion":"CA","postalCode":"94114","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"sales","url":"https://writesonic.com/get-a-demo"}]}
+{"@context":"https://schema.org","@type":"WebSite","name":"Writesonic","url":"https://writesonic.com","publisher":{"@id":"https://writesonic.com#organization"}}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://writesonic.com"},{"@type":"ListItem","position":2,"name":"Pricing","item":"https://writesonic.com/pricing"}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need a credit card to start?","acceptedAnswer":{"@type":"Answer","text":"No. Sign up and explore Writesonic with full access. No credit card. No hidden catches."}},{"@type":"Question","name":"What's the difference between monthly and annual?","acceptedAnswer":{"@type":"Answer","text":"Annual billing saves 20%. You pay for 12 months upfront. Switch anytime."}},{"@type":"Question","name":"How is Writesonic different from other AI visibility tools?","acceptedAnswer":{"@type":"Answer","text":"What good is AI visibility data if you can't act on it? Other tools show you where competitors outrank you, then leave you to figure out the rest. Writesonic tracks your AI visibility AND gives you AI agents that create content, earn citations, and optimize your site. One system. End to end. Track it. Fix it. Measure it."}},{"@type":"Question","name":"How is Writesonic different from Ahrefs or Semrush?","acceptedAnswer":{"@type":"Answer","text":"SEO tools ignore AI. AEO tools ignore SEO. Writesonic connects both. SEO gets you into Google. AEO gets you into AI answers. Your SEO data and AI visibility scores sit side by side. Plus content creation, optimization, and site audits built in. One platform instead of three."}},{"@type":"Question","name":"Which AI platforms do you track?","acceptedAnswer":{"@type":"Answer","text":"Basic and Growth track ChatGPT, Gemini, and Google AI Overviews. Enterprise tracks all 9 platforms including Perplexity, Claude, Microsoft Copilot, Grok, Google AI Mode, and Muse Spark."}},{"@type":"Question","name":"What's the Action Center?","acceptedAnswer":{"@type":"Answer","text":"Diagnosis is step one. Execution is where we shine. The Action Center ranks every opportunity by visibility and citation impact. Missing prompts, citation gaps, content fixes, technical issues. Your team knows exactly what to work on first. Available on Growth (trial) and Enterprise (full)."}},{"@type":"Question","name":"Can I add more users?","acceptedAnswer":{"@type":"Answer","text":"Yes. Basic: add up to 3 more at $50/mo each (max 5). Growth: add up to 2 more at $50/mo each (max 5). Enterprise: custom."}},{"@type":"Question","name":"What if I need more articles?","acceptedAnswer":{"@type":"Answer","text":"Growth plans can add more articles for $100/20 articles. Starter includes 15/month, Basic includes 25/month, Growth includes 50/month. If you consistently need more, consider upgrading."}},{"@type":"Question","name":"Can I switch plans or cancel anytime?","acceptedAnswer":{"@type":"Answer","text":"Yes. Upgrade anytime for instant access. Downgrades and cancellations take effect next billing cycle. 7-day, no-questions-asked refund."}},{"@type":"Question","name":"What about enterprise security?","acceptedAnswer":{"@type":"Answer","text":"Enterprise includes SOC 2 Type II, HIPAA, GDPR, SSO/SAML, and dedicated support with account management."}}]}

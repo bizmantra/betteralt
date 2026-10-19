@@ -1,0 +1,473 @@
+#SNAPSHOT {"url":"https://knowledge.workspace.google.com/admin/getting-started/editions/business-editions","finalUrl":"https://knowledge.workspace.google.com/admin/getting-started/editions/business-editions","fetchedAt":"2026-10-19T03:35:51.022Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"4e1cd7c7460f6dec536aab0661573922f592cf370b0999253e211c2ab7059ab7"}
+Business editions | Getting started | Google Workspace Help 
+ Skip to main content
+ Getting started
+ Documentation
+ Administrators
+ Getting started
+ Set up and manage services
+ Apps and integrations
+ Billing and subscriptions
+ Data migration
+ Data synchronization
+ Device management
+ Domain management
+ Generative AI
+ Reports and monitoring
+ Security and data protection
+ User management
+ Legal and compliance
+ Support and troubleshooting
+ Users
+ Beam
+ Calendar
+ Chat
+ Cloud Search
+ Gmail
+ Groups
+ Docs, Forms, Sheets, and Slides
+ Drive
+ Keep
+ Marketplace
+ Meet
+ Meet Hardware
+ Sites
+ Vault
+ Vids
+ Developers
+ Apps Script
+ Marketplace
+ Workspace APIs
+ Training & business user guides
+ Workspace Learning Center
+ Google Skills
+ Community
+ Communities
+ Workspace Admin Community
+ Workspace Developers Community
+ Support
+ / 
+ English
+ Deutsch
+ Español
+ Español – América Latina
+ Français
+ Indonesia
+ Italiano
+ Nederlands
+ Polski
+ Português – Brasil
+ Svenska
+ Tiếng Việt
+ Türkçe
+ Русский
+ עברית
+ العربيّة
+ فارسی
+ हिंदी
+ বাংলা
+ ภาษาไทย
+ 中文 – 简体
+ 中文 – 繁體
+ 日本語
+ 한국어
+ Sign in
+ Administrators
+ Getting started
+ Admin console
+ Contact us
+ Overview
+ Guides
+ Getting started
+ Overview
+ Guides
+ Documentation
+ More
+ Community
+ More
+ Support
+ Sign up for Google Workspace
+ Choose your Google Workspace edition
+ Try Google Workspace
+ Sign up for a free trial
+ About free trials
+ About free trial signups on Android
+ About Cloud Shell access during free trials
+ Compare Google Workspace editions
+ Compare Business editions
+ Compare Education editions
+ Compare Enterprise editions
+ Compare Essentials editions
+ Google Workspace add-ons
+ Legacy G Suite editions
+ Business editions
+ Enterprise editions
+ Essentials editions
+ Essentials editions
+ Set up Essentials for your domain
+ How Essentials billing works
+ Set up Essentials billing
+ Switch to Essentials Starter edition
+ Education editions
+ Google Workspace for Education editions
+ Overview
+ Get started with Google Workspace for Education
+ Qualifications for Google Workspace for Education
+ Education editions FAQ
+ Google Workspace for Education FAQ
+ Service categories available to Google Workspace for Education Users
+ Create a test domain with Google Workspace for Education
+ Select your organization type for Google Workspace for Education
+ Verify your identity for Google Workspace for Education
+ Pricing & licensing
+ Google Workspace for Education pricing and licensing
+ Google Workspace for Education Fundamentals licensing model & available license types
+ Ways to manage and assign licenses
+ Assigning Gmail Only User licenses
+ Archive users in Education editions
+ Requesting additional licenses
+ Purchase Education Plus licenses directly from the Admin console
+ Manage users & access
+ Provision Google Workspace for Education users
+ Control access to Google services by age
+ Manage access to additional services for users designated as under 18
+ Manage access to unconfigured third-party apps for users designated as under 18
+ Set up Chat restrictions
+ Communicating with Parents and Guardians about Google Workspace for Education
+ Notice template for schools when gathering parent or guardian consent
+ Google Workspace for Education Inactive Account Policy
+ Storage
+ 1. Overview of Google Workspace for Education storage
+ 2. Understand storage availability and usage
+ 3. Free up or get more storage for your institution
+ 4. Set storage limits
+ 5. Communicate storage policy changes to your users
+ Add-ons & upgrades
+ Teaching and Learning add-on
+ Endpoint Education Upgrade
+ AI Pro for Education
+ Quickstart Guide to Gemini and Gemini Notebook for Education
+ Manage access to Gemini in Classroom
+ Frontline editions
+ Google Workspace for Nonprofits edition
+ Cloud Search Platform
+ Understand Gemini feature changes
+ Set up Google Workspace
+ Set up Google Workspace for your organization
+ Quick Start Guide for one-person businesses
+ Quick Start Guide for small businesses
+ Quick Start Guide for medium-size businesses
+ Deployment guide for large organizations
+ Deployment guide for enterprises
+ Quick Start Guide for nonprofits
+ Run a 5-step pilot
+ Google Workspace setup FAQ
+ Technical deployment guides
+ Set up a host name allowlist
+ Migrate to Google Workspace
+ Import your organization's data to Google Workspace
+ Google Drive large migration best practices
+ Have users migrate their own data
+ Migrate data from Apple to Google Workspace
+ Import email with the data import tool
+ Migrate from IMAP servers to Google Workspace
+ Copy data between Google Workspace accounts
+ Turn imports from webmail hosts on or off
+ Use the Admin console
+ Sign in to your Admin console
+ Open the Admin console from another app
+ Admin console map
+ Navigate the Admin console
+ Search in the Admin console
+ Chat with Gemini in the Admin console
+ Change your Google Admin console language
+ Use the Admin mobile app
+ Android
+ About the Google Admin app for Android
+ Set up & open the Google Admin app on Android
+ Manage user accounts from an Android device
+ Add users from Contacts on Android
+ Manage groups from an Android device
+ Manage user devices from an Android device
+ Manage Google Admin app notifications on Android
+ Review notifications from an Android device
+ View Admin console activities from an Android device
+ Manage your Google Account PIN on Android
+ iOS
+ About the Google Admin app for iOS
+ Set up & open the Google Admin app on iOS
+ Manage user accounts from an iOS device
+ Add users from Contacts on an iOS device
+ Manage groups from an iOS device
+ Review notifications from an iOS device
+ View Admin console activities from an iOS device
+ Change your Google Admin app password setting on iOS
+ Get support on iOS
+ Manage accounts & settings
+ Find your customer ID
+ Add recovery information for admins and users
+ Options to preserve former employee data
+ Set up your help desk
+ Customize for your organization
+ Add your logo to Google Workspace
+ Change the organization name users see
+ Share data with Google Cloud services
+ Choose your Google Workspace notification preferences
+ Ensure you receive critical notifications and updates for your Google Workspace account
+ Brand your internal communications with Google Workspace
+ Customize web addresses
+ Options for customizing web addresses
+ Customize a Google Workspace service URL
+ Map a new URL to a site in Google Sites
+ Set up the naked domain address for your site
+ Track releases
+ What's new in Google Workspace
+ Ways to track new releases
+ Choose when users get new features
+ Turn new services on or off by default
+ Send a message to your users
+ Testing phases and GA
+ Mobile app updates
+ Administrators
+ Getting started
+ Set up and manage services
+ Apps and integrations
+ Billing and subscriptions
+ Data migration
+ Data synchronization
+ Device management
+ Domain management
+ Generative AI
+ Reports and monitoring
+ Security and data protection
+ User management
+ Legal and compliance
+ Support and troubleshooting
+ Users
+ Beam
+ Calendar
+ Chat
+ Cloud Search
+ Gmail
+ Groups
+ Docs, Forms, Sheets, and Slides
+ Drive
+ Keep
+ Marketplace
+ Meet
+ Meet Hardware
+ Sites
+ Vault
+ Vids
+ Developers
+ Apps Script
+ Marketplace
+ Workspace APIs
+ Training & business user guides
+ Workspace Learning Center
+ Google Skills
+ Communities
+ Workspace Admin Community
+ Workspace Developers Community
+ Google Workspace Help
+ Administrators
+ Getting started
+ Guides
+ Send feedback
+ Business editions 
+ Stay organized with collections
+ Save and categorize content based on your preferences.
+ Professional office tools for up to 300 users
+ Google Workspace offers these subscription options for one-person, small,
+and medium-sized organizations. You can use any Business edition with your
+domain or with only a business email address (ends in @your-company.com ) or a Gmail
+address (ends in @gmail.com). If you sign up with your email, some features
+aren't available unless you later verify your domain. This article describes the
+features that you can use if you verify your domain.
+ Learn about each edition and sign up below. You can also purchase any Business
+edition through Google
+Sales
+or a local reseller
+.
+ Pooled storage is granted in stages :
+ At the time of purchase, you get part of your storage.
+ Your storage increases to your total storage limit after you make a $30 USD payment for your subscription.
+ You may make a manual payment or pay early
+ to be granted all storage faster. It can take up to 72 hours after a payment for your storage to increase.
+ Business editions overview
+ Business Starter
+ Business Standard
+ Business Plus
+ Flexible Plan (price per user per month) 
+ $8.40 USD *
+ $16.80 USD *
+ $26.40 USD *
+ Annual/Fixed-Term Plan (price per user per month)** 
+ $7 USD *
+ $14 USD *
+ $22 USD *
+ Feature highlights 
+ Professional productivity suite with 30 GB pooled storage per user
+ Enhanced suite with 2 TB pooled storage per user
+ Advanced suite with 5 TB pooled storage per user
+ * Or equivalent in supported local
+currency
+ ** Annual/Fixed-Term Plans are billed annually or monthly, depending on
+your region, your subscription type, and how you signed up for your
+subscription.
+ Business Starter
+ The Business Starter edition is a set of collaborative productivity apps that
+offers your business professional email, secure video conferencing, shared
+calendars, online document editing, and much more.
+ SIGN UP
+ COMPARE EDITIONS
+ How sign-up works
+ Office suite of collaborative apps
+ With Business Starter, your organization gets Google Workspace services, such as:
+ Gmail —Send and receive mail using your professional address, as in bob@your-company.com.
+ Gemini app —Chat with Gemini to get quick answers, kickstart research and brainstorm new ideas. Learn more
+ Google Meet —Join secure video meetings from a laptop or other device (up to 100 participants).
+ Calendar —Share calendars to easily schedule meetings and events.
+ Google Docs —Collaborate in real time on online documents, spreadsheets, and presentations.
+ Google Workspace storage —Store and back up files securely in the cloud with 30 GB pooled storage per user.
+ Google Chat —Communicate in groups or one-on-one, with text and rich media.
+ AppSheet Core —Build mobile and web applications with no coding experience. Learn more
+ Plus many other Google apps to help you get more done and collaborate better. Learn more
+ Administrative controls
+ Your administrative or IT team can also:
+ Centrally manage user accounts and security settings from the Google Admin console.
+ Control user access to features and services.
+ Remotely manage your mobile fleet.
+ Track usage trends using audits and reports.
+ Get 24/7 support from Google Workspace experts.
+ Business Standard
+ The Business Standard edition includes everything in Business Starter, plus
+additional storage and enhanced collaboration and productivity tools, as listed
+below.
+ SIGN UP
+ COMPARE EDITIONS
+ How sign-up works
+ Upgrade to Business Standard
+ More and better storage
+ With Business Standard, you get 2 TB of pooled storage for each user in your organization to store Gmail messages, images in Google Photos, and files in Google Drive. You will also have access to shared drives so that, if members leave, files stay where they are so the team can continue to share information and get work done. Learn more
+ Advanced AI functionality
+ Access to the Gemini AI assistant in Gmail, Docs, Meet, and more
+ Interact with the AI research assistant
+ Accelerate workflows 
+ Request electronic signatures and easily manage vendor agreements, customer contracts, stakeholder sign-off, and more. Learn more
+ Enhanced meetings
+ Up to 150 meeting participants
+ Meeting recordings saved to Drive
+ Hand raising
+ Noise cancellation
+ Breakout rooms
+ Audience polling and Q&A
+ Enhanced Chat messaging
+ Turn Chat history on or off by default.
+ Automatically accept invitations within your organization.
+ Chat outside of your organization.
+ Advanced document versioning & management
+ Organizational branding.
+ Approvals and labels.
+ Ransomware detection
+ Warn users of ransomware attacks before their files are corrupted.
+ Makes file recovery easier.
+ Business Plus
+ The Business Plus edition includes everything in Business Standard, plus
+enhanced security, compliance, and meeting capabilities, such as those listed
+below.
+ SIGN UP
+ COMPARE EDITIONS
+ How sign-up works
+ Upgrade to Business Plus
+ More cloud storage
+ With Business Plus, you get 5 TB of pooled storage for each user in your organization. Learn more
+ Advanced meetings
+ Up to 500 meeting participants.
+ Attendance tracking.
+ Advanced administrator controls
+ Information governance with Google Vault —Use Vault to retain, search, and export your organization's data for eDiscovery and compliance needs. Learn more
+ Advanced endpoint management —Have more control over your organization's data. You can require stronger passwords, remotely wipe devices, manage iOS apps, use Android work profiles, and more. Learn more
+ Before upgrading to Business Plus
+ If you have Google Vault, make sure you don't accidentally lose data. Before upgrading, follow these steps
+. 
+ Send feedback
+ Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License
+, and code samples are licensed under the Apache 2.0 License
+. For details, see the Google Developers Site Policies
+. Java is a registered trademark of Oracle and/or its affiliates.
+ Last updated 2026-10-13 UTC.
+ Try Google Workspace
+ Boost your productivity with AI at no cost
+ Admin Community
+ Get answers from industry peers and experts
+ Customer Care
+ Learn about support options and services
+ Documentation & training
+ Help Centers
+ Developer guides
+ Learning Center
+ Google Skills
+ Tools
+ Admin console
+ Apps Script Dashboard
+ Google Cloud console
+ Support
+ Admin Community
+ Developers Community
+ Customer Care
+ Terms
+ Privacy
+ Manage cookies
+ English
+ Deutsch
+ Español
+ Español – América Latina
+ Français
+ Indonesia
+ Italiano
+ Nederlands
+ Polski
+ Português – Brasil
+ Svenska
+ Tiếng Việt
+ Türkçe
+ Русский
+ עברית
+ العربيّة
+ فارسی
+ हिंदी
+ বাংলা
+ ภาษาไทย
+ 中文 – 简体
+ 中文 – 繁體
+ 日本語
+ 한국어
+
+#JSONLD (structured data published on the page, verbatim)
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    
+    "headline": "Business editions"
+  }
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Administrators",
+      "item": "https://knowledge.workspace.google.com/admin"
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Getting started",
+      "item": "https://knowledge.workspace.google.com/admin/getting-started"
+    },{
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Business editions",
+      "item": "https://knowledge.workspace.google.com/admin/getting-started/editions/business-editions"
+    }]
+  }

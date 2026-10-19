@@ -1,0 +1,114 @@
+#SNAPSHOT {"url":"https://cline.bot/pricing","finalUrl":"https://cline.bot/pricing","fetchedAt":"2026-10-19T03:33:31.321Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"4de96389c7d60677a450812e944d34528631cad12dc39e76d9ea74ab485bcd8e"}
+Pricing - Cline AI Coding Agent 
+ Desktop
+ Cloud
+ IDE
+ CLI
+ SDK
+ ClinePass
+ Docs
+ More 
+ Sign In
+ 71k
+ Desktop
+ Cloud
+ IDE
+ CLI
+ SDK
+ ClinePass
+ Docs
+ More 
+ SpecDriven
+ Plan
+ Enterprise
+ Blog
+ Learn
+ MCP Marketplace
+ Models
+ FAQ
+ Careers
+ Support
+ Contact Sales
+ GitHub
+ Sign In
+ 71k
+ Simple, transparent pricing
+ Cline is free for individual developers. Pay only for AI inference on a usage basis - no subscriptions, no vendor lock-in.
+ Open Source
+ Free
+ For individual developers
+ n/a
+ Install Cline >
+ Features
+ VS Code Extension
+ CLI
+ Secure Client-Side Architecture
+ Purchase and Model Inference at Cost or BYOK
+ MCP Marketplace
+ Multi-Root Workspaces
+ Community Support
+ Enterprise
+ Custom
+ SSO, SLA & Dedicated Support
+ All Open Source Features +
+ Contact Sales
+ All Open Source Features +
+ JetBrains Extension
+ SSO
+ SLA
+ Dedicated Support
+ Centralized Billing
+ Simple Config Mgmt
+ Role Based Access Control
+ Limit Inference Providers
+ Team Management System & Dashboard
+ Authentication Logs
+ Advanced Config Mgmt
+(Coming Soon)
+ Fine-Grained Permissioning
+(Coming Soon)
+ Trusted by developers and leaders at
+ Frequently asked questions
+ Is Cline free?
+ Yes! The Cline open source extension is completely free for individual developers. You only pay for AI inference on a usage basis - no subscriptions, no vendor lock-in. You can bring your own API keys or use the Cline provider.
+ What do I pay for?
+ You only pay for AI inference credits when you use AI models. This is usage-based pricing - you pay for what you use, nothing more. There are no subscriptions or seat fees for the open source version.
+ Can I use my own API keys?
+ Absolutely! You can bring your own API keys from providers like OpenAI, Anthropic, Google, and others. This gives you complete control over your costs and usage.
+ When do I need Enterprise?
+ Enterprise is for organizations that need team collaboration features and enterprise-grade security. This includes JetBrains extension, centralized billing, team management dashboard, role-based access control, SSO, OIDC, SCIM provisioning, audit logs, VPC deployments, SLA, OpenTelemetry, priority support, and dedicated support.
+ Is there vendor lock-in?
+ No! Cline is open source and supports providers like Anthropic, Gemini, OpenAI, OpenRouter, AWS Bedrock, GCP Vertex, Groq, Cerebras, Vercel AI Gateway, DeepSeek, and many more. You&#x27;re never locked into our platform or pricing. Switch providers or self-host anytime.
+ Transform your engineering team with a fully collaborative AI partner. Open source, fully extensible, and built to amplify developer impact.
+ Stay updated on Cline&#x27;s evolution
+ Subscribe
+ Product
+ Docs
+ Models
+ Blog
+ Enterprise
+ MCP Marketplace
+ IDE
+ CLI
+ Cloud
+ SDK
+ Changelog
+ Community
+ Discord
+ Reddit
+ GitHub Discussions
+ Support
+ GitHub Issues
+ Feature Requests
+ Contact
+ Company
+ Careers
+ Brand
+ Terms
+ Privacy
+ Stay updated on Cline&#x27;s evolution
+ Subscribe
+ © 2026 Cline Bot Inc. All rights reserved.
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Organization","@id":"https://cline.bot/#organization","name":"Cline Bot Inc","url":"https://cline.bot","logo":{"@type":"ImageObject","url":"https://cline.bot/assets/branding/favicons/favicon-256x256.png","width":256,"height":256},"description":"Developer of Cline, an open-source AI coding assistant","sameAs":["https://github.com/cline/cline","https://discord.gg/cline","https://x.com/cline"],"contactPoint":{"@type":"ContactPoint","contactType":"Customer Support","url":"https://cline.bot/contact"}}

@@ -1,5 +1,69 @@
 {
- "at": "2026-10-17T21:02:01.002Z",
- "total": 1,
- "failed": []
+ "at": "2026-10-19T03:37:29.633Z",
+ "total": 183,
+ "failed": [
+  {
+   "slug": "replit",
+   "region": "us",
+   "pass": false,
+   "reason": "too short (256 chars, http 403)",
+   "method": "playwright"
+  },
+  {
+   "slug": "tabnine",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "make",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "capcut",
+   "region": "us",
+   "pass": false,
+   "reason": "too short (9 chars, http 451)",
+   "method": "playwright"
+  },
+  {
+   "slug": "replika",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "kindroid",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "talkie",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "gorgias",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "quizlet",
+   "region": "us",
+   "pass": false,
+   "reason": "too short (128 chars, http 403)",
+   "method": "playwright"
+  }
+ ]
 }

@@ -1,0 +1,1535 @@
+#SNAPSHOT {"url":"https://www.zendesk.com/pricing/","finalUrl":"https://www.zendesk.com/in/pricing/","fetchedAt":"2026-10-19T03:36:10.968Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"5b66e81dbdbbccee646fb1be13aa6a98562a37df1db309527d862540198e3648"}
+Zendesk Pricing Plans | Starting from £19/month | Zendesk India Skip to main content
+ Try it for free
+ Platform 
+ Zendesk Resolution Platform
+ Deliver faster, higher quality resolutions with the only AI-first service platform
+ Zendesk AI
+ Power your service with AI that continuously improves every resolution
+ Reporting and analytics
+ Turn service insights into better outcomes
+ Marketplace
+ Find 1,800+ apps, partners and integrations to serve customers and employees
+ Actions and integrations
+ Drive resolutions across unified data and systems
+ Security and trust
+ Deploy trusted service with enterprise-grade security and AI governance
+ Products 
+ Customer Service
+ Manage and resolve customer enquiries across all channels in one place
+ Employee Service
+ Provide employees the fastest resolutions on a scalable, intuitive platform
+ Contact Centre
+ Deliver AI-powered resolutions for every call, every channel, every time
+ AI agents
+ Resolve even the most complex issues on any channel autonomously
+ Copilot
+ Empower service teams with the only proactive AI assistant
+ Quality assurance
+ Improve your service with automatic human and AI agent scoring
+ Workforce Management
+ Forecast, staff and manage agent schedules with AI-powered precision
+ Solutions 
+ Common use cases
+ Messaging and live chat
+ Engage customers on your website or mobile app
+ Ticketing
+ Track, organise and resolve all your tickets in one place
+ IT service management
+ IT support that empowers your workforce
+ Knowledge base
+ Power every resolution with connected knowledge
+ Voice
+ Manage and resolve customer calls with AI
+ By business type
+ Startups
+ Get up to 2 years of Zendesk free for eligible startups.
+ Retail
+ Turn service into smarter selling
+ Financial services
+ Secure service that builds financial trust
+ Technology
+ Transform support to drive net retention
+ Media & Entertainment
+ Engage audiences and elevate experiences
+ Government
+ Reliable support that serves every citizen
+ Education
+ Create better student experiences
+ Manufacturing
+ Strengthen customer and partner relationships
+ Healthcare
+ Build healthier patient experiences
+ Telecommunications
+ Improve retention with seamless support
+ Resources 
+ Learn
+ Customer stories
+ Success stories from customers who love Zendesk
+ Blog
+ Content focused on growing and scaling your support teams
+ Events
+ Discover popular local events, browse by category or view on-demand options
+ CX Trends
+ Our flagship report, covering the five trends shaping the future of CX
+ Support
+ Help centre
+ Articles and discussions to answer your questions
+ Community
+ Connect, learn and share with other Zendesk users
+ Partners
+ Find a partner to help your business integrate Zendesk solutions
+ What’s new
+ Stay up to date with new product releases
+ Company
+ About us
+ Learn why Zendesk is the leader in AI customer service
+ Why Zendesk
+ See why 80,000+ companies choose Zendesk for AI service
+ Newsroom
+ See news updates and press about Zendesk
+ Careers
+ Want to work at Zendesk? Check out our current openings
+ Latest news
+ AI Summit 2026 - a Zendesk event
+ Join over 30,000 leaders online to hear from experts at OpenAI, Lovable, AWS and Uphold, plus see the latest AI innovations for service.
+ Register now
+ Pricing
+ Sign in
+ Language 
+ English (US)
+ English (UK)
+ Español
+ Español (LATAM)
+ Português
+ Français
+ Deutsch
+ Italiano
+ Nederlands
+ English (Denmark)
+ English (Sweden)
+ English (Australia)
+ English (India) 
+ English (Singapore)
+ 日本語
+ 한국어
+ 繁體中文 (台灣)
+ 繁體中文 (香港特區)
+ Try it for free
+ Contact Sales
+ Sign in
+ Contact us
+ Language
+ English (US)
+ English (UK)
+ Español
+ Español (LATAM)
+ Português
+ Français
+ Deutsch
+ Italiano
+ Nederlands
+ English (Denmark)
+ English (Sweden)
+ English (Australia)
+ English (India)
+ English (Singapore)
+ 日本語
+ 한국어
+ 繁體中文 (台灣)
+ 繁體中文 (香港特區)
+ Platform 
+ Zendesk Resolution Platform
+ Deliver faster, higher quality resolutions with the only AI-first service platform
+ Zendesk AI
+ Power your service with AI that continuously improves every resolution
+ Reporting and analytics
+ Turn service insights into better outcomes
+ Marketplace
+ Find 1,800+ apps, partners and integrations to serve customers and employees
+ Actions and integrations
+ Drive resolutions across unified data and systems
+ Security and trust
+ Deploy trusted service with enterprise-grade security and AI governance
+ Products 
+ Customer Service
+ Manage and resolve customer enquiries across all channels in one place
+ Employee Service
+ Provide employees the fastest resolutions on a scalable, intuitive platform
+ Contact Centre
+ Deliver AI-powered resolutions for every call, every channel, every time
+ AI agents
+ Resolve even the most complex issues on any channel autonomously
+ Copilot
+ Empower service teams with the only proactive AI assistant
+ Quality assurance
+ Improve your service with automatic human and AI agent scoring
+ Workforce Management
+ Forecast, staff and manage agent schedules with AI-powered precision
+ Solutions 
+ Common use cases
+ Messaging and live chat
+ Engage customers on your website or mobile app
+ Ticketing
+ Track, organise and resolve all your tickets in one place
+ IT service management
+ IT support that empowers your workforce
+ Knowledge base
+ Power every resolution with connected knowledge
+ Voice
+ Manage and resolve customer calls with AI
+ By business type
+ Startups
+ Get up to 2 years of Zendesk free for eligible startups.
+ Retail
+ Turn service into smarter selling
+ Financial services
+ Secure service that builds financial trust
+ Technology
+ Transform support to drive net retention
+ Media & Entertainment
+ Engage audiences and elevate experiences
+ View all business types 
+ Resources 
+ Learn
+ Customer stories
+ Success stories from customers who love Zendesk
+ Blog
+ Content focused on growing and scaling your support teams
+ Events
+ Discover popular local events, browse by category or view on-demand options
+ CX Trends
+ Our flagship report, covering the five trends shaping the future of CX
+ Support
+ Help centre
+ Articles and discussions to answer your questions
+ Community
+ Connect, learn and share with other Zendesk users
+ Partners
+ Find a partner to help your business integrate Zendesk solutions
+ What’s new
+ Stay up to date with new product releases
+ Company
+ About us
+ Learn why Zendesk is the leader in AI customer service
+ Why Zendesk
+ See why 80,000+ companies choose Zendesk for AI service
+ Newsroom
+ See news updates and press about Zendesk
+ Careers
+ Want to work at Zendesk? Check out our current openings
+ Latest news
+ AI Summit 2026 - a Zendesk event
+ Join over 30,000 leaders online to hear from experts at OpenAI, Lovable, AWS and Uphold, plus see the latest AI innovations for service.
+ Register now
+ Pricing
+ Try it for free
+ Contact Sales
+ View pricing for:
+ Customer Service
+ Employee Service
+ Contact Centre
+ Pricing for the #1 AI customer service solution
+ Monthly
+ Annual 
+ 20% off annual
+ Support Team
+ For teams that have outgrown a shared inbox and need core support essentials
+ US$ 19
+ agent/month paid yearly
+ Buy now
+ Starting with the basics
+ Email and ticketing system
+ Ticket routing
+ Prebuilt analytics dashboards
+ Pre-written responses
+ Customer context
+ Automations and triggers
+ Suite Team
+ For teams ready to unify support channels and automate resolutions with AI agents
+ US$ 55
+ agent/month paid yearly
+ Buy now
+ Support Team features, plus:
+ AI
+ AI agents
+ AI
+ Knowledge base 
+ AI
+ Action builder
+ Omnichannel routing
+ Messaging and live chat
+ Telephony
+ Most popular
+ Suite Professional
+ For teams optimising support operations with advanced automation and AI-driven insights 
+ US$ 115
+ agent/month paid yearly
+ Buy now
+ Suite Team features, plus:
+ AI
+ Admin copilot
+ AI
+ App Builder
+ AI
+ Writing tools
+ AI
+ Quick reports
+ Skills-based routing
+ IVR phone menu
+ Suite Enterprise + Copilot
+ For teams needing advanced security, governance and the most proactive AI assistant. 
+ Talk to Sales
+ Suite Professional features, plus:
+ AI
+ Intelligent triage
+ AI
+ Auto assist
+ AI
+ Generative AI for voice
+ Approval workflows
+ Sandbox environment
+ Customised agent roles
+ Email and ticketing support
+ Zendesk Ticketing brings email, messaging, phone, social and more into a single place. With AI automations and simple admin tools, our scalable ticketing tool cuts support costs and drives fast results. No expertise needed.
+ Work faster with ticket routing
+ Enhance agent efficiency with omnichannel routing that automatically assigns tickets to the most qualified agents. Admins maintain control with less manual effort while delivering faster, better service.
+ Action insights with prebuilt reporting dashboards
+ Get up and running quickly with out-of-the-box analytics to help you analyse trends in ticket volume and agent performance across channels. Easily customise reports to uncover issues, forecast demand, and boost efficiency.
+ Surface the best reply, every time
+ Lend a helping hand with pre-written responses that answer common issues, and a centralised knowledge base for faster troubleshooting.
+ Conversation history and customer context
+ Provide agents with relevant details on the customer and surface a list of their recent interactions, so agents have the context they need to provide help. 
+ Build and customise workflows
+ Save time with prebuilt, customisable ticketing workflows and adaptable automations – like alerts for unattended tickets or refund escalations to managers – resulting in greater bandwidth and faster resolutions.
+ Resolve complex issues on any channel 
+ Resolve up to 80% of even the most complex service issues across any channel. Powered by agentic AI, our AI agents reason, adapt and take action, then learn and self-improve to achieve full resolution – all while following your business processes. No training, scripting or complex flows needed.
+ AI agent builder 
+ Flexible APIs and integrations 
+ Reasoning controls 
+ Advanced reporting and insights 
+ Support for 80+ languages 
+ Power faster resolutions with connected knowledge
+ Create, unify and activate trusted content across AI, agents and self-service so customers and employees get fast, accurate answers when it matters most.
+ Accelerate resolution automation
+ Design, integrate and automate multi-step action flows across Zendesk and third-party systems. Action builder comes with a library of prebuilt connectors, customisable actions and low-code tools that can be tailored to fit unique workflow needs.
+ Route requests to the right agent, automatically
+ Omnichannel routing automatically directs customer or employee requests across multiple support channels, factoring in agent status, capacity, skill set and ticket priority. It uses automation to connect individuals with the most suitable agent, regardless of channel.
+ Messaging and live chat
+ Support customers instantly or over time across your website, app or social channels to deliver better service and build lasting relationships.
+ Offer phone support to your customers
+ Provide live phone support to your customers with free and international numbers, voicemail, extensions and more for the complete phone solution.
+ Run your operations with an AI assistant
+ Admin copilot proactively surfaces personalised insights and recommends workflow and set-up improvements. Admins can ask questions and apply approved changes, optimising operations without the busywork.
+ Turn ideas into apps
+ AI-powered App Builder turns ideas into apps using conversational prompts – no technical expertise required. Boost agent productivity with customised apps that streamline workflows, integrate with third-party platforms and internal systems and reduce manual work.
+ Enhance your agent responses with AI writing tools
+ Enhance your agent responses with AI writing tools. Let your agents expand or shorten replies and hit the right tone every time with one click.
+ Accelerate service insights with AI-powered reporting
+ Create reports in Zendesk analytics instantly by asking questions in plain language, powered by machine learning.
+ Reduce repetitive reporting tasks by automatically creating reports using conversational prompts 
+ Easily unlock powerful insights with trusted AI that selects the right datasets, calculations and attributes  
+ Empower your entire team to get the answers they need without advanced reporting skills  
+ Reduce wait times with smart routing
+ Skills-based routing automatically sends tickets to specific team members based on their expertise for faster ticket resolution.
+ Reach the right agent every time
+ Support customers faster with IVR, group, prioritised, overflow and after hours routing. Set your maximum queue size and waiting time and allow callers to request a callback instead of holding.
+ Power every decision with intelligent classification
+ Intelligent triage automatically classifies every ticket, giving agents and admins a clear view of what customers need and why. These insights power routing, automation and reporting, driving faster and higher quality resolutions.
+ Equip every agent with proactive AI assistance
+ Auto assist gives agents proactive, AI-powered support right inside their workspace. It suggests next steps, drafts accurate responses and takes approved actions to ensure every interaction is consistent and high quality. 
+ Transcribe and summarise every call automatically
+ Transcribe and summarise voice call recordings using generative AI.
+ Streamline approvals and track changes
+ Designate content editing and publishing permissions across your team, and solicit team input by assigning article updates.
+ Test updates safely in sandbox
+ Try out features and workflows in a sandbox testing environment.
+ Control access with customised permissions
+ Specify permissions for agents and control what they have access to in Zendesk.
+ Still need help deciding?  Compare all plan features
+, or  start a trial
+ Featured add-ons
+ Copilot
+ AI assistance that empowers your entire team.
+ US$ 50
+ agent/month paid yearly
+ Learn more
+ Workforce Engagement Bundle
+ Elevate customer service quality and optimise agent performance. 
+ US$ 50
+ agent/month paid yearly
+ Learn more
+ Contact Center
+ Power complex contact centres with ease of use and flexibility.
+ US$ 83
+ agent/month paid yearly
+ Learn more
+ Zendesk for Startups
+ The Startups Programme provides early stage startups a 6-month trial of the Zendesk Suite for up to 50 agents.
+ Apply now
+ Trusted by teams everywhere.
+ See how much you can save
+ Use this calculator to explore potential savings from automating customer interactions with Zendesk AI agents. Results are illustrative and based on the inputs you provide – actual results may vary.
+ Calculate savings
+ Frequently asked questions, answered.
+ How is Zendesk pricing structured?
+ Zendesk pricing is primarily seat-based (per agent, per month) with plan tiers that include different features. Your total cost typically includes:
+  Base subscription: pricing is determined by your selected plan tier and the number of agent seats needed.
+ Usage-based features: certain features like App Builder, Action Builder and Voice are billed based on consumption exceeding applicable plan allowances. 
+ Add-ons: optional products and advanced features are billed in addition to your base plan.
+ Annual vs monthly billing: annual subscriptions often include a discount, compared to paying monthly.
+  Contact Sales
+ to learn more.
+ What’s the difference between Support and Suite service plans?
+  Support plans: if you’re just starting out with email-based customer support, the Support plan is a great place to begin. It covers the essentials with the flexibility to add channels, expand capabilities or upgrade to the full Zendesk Suite as your needs grow.
+  Suite plans: the Zendesk Suite is your all-in-one customer service solution. Equipped with ticketing, messaging, live chat, help centre and voice support, it’s ideal for businesses providing multi-channel customer support. All Suite plans include powerful automations and AI agents available 24/7 to resolve customer issues quickly and effectively.
+  Learn more about Support plans
+ and Suite plans
+ as the different service plan levels available, or contact Sales if you’re evaluating enterprise requirements.
+ How does pricing for AI agents work?
+ Zendesk AI agents are included in every Suite and Support plan, with pricing based on the successful outcomes they deliver.
+  Automated resolutions: the unit of measurement used for calculating and billing your account for AI agent usage. Paying per automated resolution means that you pay only for customer requests that were successfully resolved by the AI agent, without any escalation to a human agent. 
+  Learn more
+ What are Forethought AI agents?
+ Forethought AI agents by Zendesk are self-improving AI agents that can understand customer requests, take action and continuously improve outcomes over time. These agents bring specialised AI into the Zendesk AI ecosystem and can handle more complex workflows across all channels and environments.
+ They’re built to work seamlessly within Zendesk for those looking to elevate their service experience – and, just as importantly, they work on any platform, making it easy to bring best-in-class AI agents to an existing stack.
+ Contact Sales
+ to learn more.
+ What add-ons are available and how are they priced?
+ Zendesk offers add-ons that extend your service plan with additional functionality such as advanced capabilities, additional channels or specialised products.
+  How add-ons are priced: add-ons are typically priced separately from your base plan and may be billed by seats, usage or the specific add-on.
+ Availability: add-ons can vary by plan tier and by purchase path (self-serve vs sales-assisted).
+  Explore options: view all available add-ons here
+.
+ How can I purchase Zendesk?
+ There are two main ways to buy Zendesk:
+  Online purchase: best for individuals and teams who want to get started quickly. Typically paid by card during checkout.
+ Sales-assisted: best for larger organisations, complex requirements or enterprise plans. Typically involves working with our sales team and may support invoice-based billing depending on eligibility and terms.
+ Payment methods: bank account (direct debit), credit or debit card or PayPal. For all other types of payments, contact your account representative.
+ Supported currency: currently, Zendesk supports USD, EUR, GBP and BRL.
+  Unsure?  Contact Sales
+ to confirm the right service plan and purchasing method.
+ Can I purchase enterprise plans online?
+ Enterprise service plans generally require sales engagement. If you’re looking for an enterprise plan, the best next step is to contact Sales so we can help you evaluate the right package, confirm requirements and set up purchasing (often including invoice options where applicable).
+ Contact Sales
+ How long are your contracts? Can I upgrade or downgrade?
+ Zendesk subscriptions are monthly, annually or multi-year. You can reach out to your Account Executive or Sales Representative for additional billing options. 
+  Monthly billing: more flexibility, typically a higher effective monthly rate.
+ Annual billing: usually discounted compared to paying monthly.
+ Upgrades/downgrades: service plan changes can affect billing and may apply immediately or at renewal, depending on your subscription terms.
+  Learn more here
+ or contact us for details
+. 
+ How does the free trial work?
+ Zendesk offers a free trial so you can explore the product before committing to a paid plan. During the 14-day trial period:
+  Default plan: you’ll have access to all features on the Zendesk Customer Service Suite Professional plan for 14 days. If you want to trial a specific plan, contact us. If you want to trial an Employee Service Suite plan see here
+. 
+ Add-ons: Copilot is included by default. If you’d like to try other add-ons please contact Sales. 
+ AI access: trial access to AI features is available for evaluation purposes, though the capabilities included may vary.
+  Learn more: free trial details and what’s included
+. 
+ How do I estimate my total cost?
+ To estimate your total Zendesk cost, consider these main components:
+  Number of agents (seats): base plan cost is typically per agent/month.
+ Add-ons: include any add-ons you need. 
+ AI agents resolutions: if you use AI agents to automate resolutions, factor in expected resolutions exceeding your plan allowance.
+ Monthly vs annual billing: annual billing often reduces the overall price, compared to paying monthly.
+  Helpful tool: use the ROI calculator
+.
+ Does Zendesk integrate with other applications and systems?
+ Yes. Zendesk integrates with a wide range of tools and platforms, and you can connect to other systems in a few ways:
+  Prebuilt integrations: available through the Zendesk Marketplace (apps and integrations).
+ Customised integrations: supported via APIs for building tailored workflows and data connections.
+ Enterprise integrations: larger organisations often implement deeper integrations (for example with CRM, identity providers, data platforms or customised internal systems).
+  Explore the Zendesk Marketplace
+ or review our API documentation
+. 
+ How do you protect customer data?
+ Zendesk is built with enterprise-grade security and privacy to help protect customer data. We combine robust security features with comprehensive audits of our applications, systems and networks to help ensure customer and business data remains protected. 
+ Visit the Zendesk Trust Centre 
+for the most up-to-date information and documentation on security and privacy practices, compliance and certifications, and product and infrastructure security controls.
+ Still not sure? Explore on your own or with our team.
+ Try it for free
+ Contact Sales
+ Contact Sales
+ Let’s get this conversation started. Tell us a bit about yourself and we’ll be in touch as soon as we can.
+ Work Email 
+ Use your work email to smoothly connect customer emails and existing apps, and also invite team members.
+ Message 
+ First name 
+ Last name 
+ Company name 
+ Number of employees Select 1-9 10-49 50-99 100-249 250-499 500-999 1000-4999 5000+ 
+ Job Title 
+ Phone number 
+ Country Select Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Bermuda Bhutan Bolivia Bosnia and Herzegovina Botswana Brazil Brunei Darussalam Bulgaria Burkina Faso Burundi Cabo Verde Cambodia Cameroon Canada Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Cote d&#x27;Ivoire Croatia Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guinea Guinea-Bissau Guyana Haiti Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iraq Ireland Israel Italy Jamaica Japan Jordan Kazakhstan Kenya Kiribati Korea, Republic of Kuwait Kyrgyzstan Lao People’s Democratic Republic Latvia Lebanon Lesotho Liberia Libyan Arab Jamahiriya Liechtenstein Lithuania Luxembourg Macao North Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federal States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar, Burma Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Northern Mariana Islands Norway Oman Pakistan Palau Palestinian Territory, Occupied Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Reunion Romania Rwanda Saint Kitts and Nevis Saint Lucia Saint Vincent and the Grenadines San Marino Sao Tome and Principe Samoa Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands Somalia South Africa South Sudan Spain Sri Lanka Suriname Eswatini Sweden Switzerland Taiwan Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Uruguay Uzbekistan Vanuatu Venezuela Vietnam Virgin Islands, British Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe 
+ By submitting my personal data, I consent to Zendesk collecting, processing, and storing my information in accordance with the Zendesk Privacy Notice
+.
+ Submit
+ Show differences only 
+ Support Team Buy now
+ Suite Team Buy now
+ Suite Professional Buy now
+ Annual subscription (per agent/month)
+ US$ 19
+ US$ 55
+ US$ 115
+ Monthly subscription (per agent/month)
+ US$ 25
+ US$ 69
+ US$ 149
+ AI agents
+ AI agents for messaging
+ Offer non-stop, personalised service across your messaging channels, including web and in-app chat and social media. Learn more.
+ AI agents for email
+ Automatically classify, route and resolve even the most complex email queries. Learn more
+.
+ AI agents for voice
+ Automate end-to-end phone support interactions with AI-powered phone voice agents. Learn more.
+ Requires Zendesk voice
+ Requires Zendesk voice
+ Requires Zendesk voice
+ AI agent builder
+ Create, customise and launch AI agents in minutes from natural-language procedure descriptions. Learn more.
+ Support for 80+ languages
+ Automatically translate AI agent responses into over 80 supported languages. Define customised translations for standard responses or specific words and phrases. Learn more.
+ Integrations and actions
+ Connect to external systems to read, write, parse data and trigger actions. Learn more.
+ Reasoning controls
+ Have full control over your AI agent’s reasoning. Monitor the steps it took to reach a resolution and give feedback at every step. Learn more.
+ Advanced reporting
+ Monitor performance trends and usage insights to help identify improvement opportunities. Learn more.
+ Quality Assurance
+ Automatically analyse 100% of conversations across human and AI agents, BPOs, channels and languages. AI detects issues, knowledge gaps and coaching needs. Learn more.
+ Requires QA add-on
+ Requires QA add-on
+ Requires QA add-on
+ Included automated resolutions (up to 10k per year)
+ Each plan includes a set number of automated resolutions for AI agents, allowing AI agents to autonomously resolve customer issues without human intervention. The quantity of ARs varies depending on your plan and agent count. Learn more.
+ 5 ARs per agent/month
+ 5 ARs per agent/month
+ 10 ARs per agent/month
+ Committed automated resolutions
+ Customise your automation needs by adding more automated resolutions. Expand the scope of issues your AI agents can handle independently to better align with your business needs. Learn more
+.
+ £1.30
+ £1.30
+ £1.30
+ Pay-as-you-go resolutions
+ Looking for additional resolutions without the commitment of a fixed volume? Choose our pay-as-you-go option for flexible automated resolutions tailored to your needs. Learn more
+.
+ US$ 2.00
+ US$ 2.00
+ US$ 2.00
+ Copilot
+ Intelligent triage
+ Automatically classifies every ticket, giving agents and admins a clear view of what customers need and why. These insights power routing, automation and reporting, driving faster and higher quality resolutions.
+ —
+ —
+ Add-on
+ Intelligent triage dashboard
+ Monitor performance and spot automation opportunities. With clear visibility into your operations, you can improve efficiency and deliver better customer outcomes.
+ —
+ —
+ Add-on
+ Auto assist
+ Auto assist gives agents proactive AI-powered guidance directly in their workspace, helping them respond faster and more consistently. It suggests next steps, drafts accurate responses grounded in your procedures and knowledge and can take approved actions across systems to save time. When full automation isn’t possible, it guides agents with step-by-step instructions through complex workflows.
+ —
+ —
+ Add-on
+ Admin copilot
+ Admin copilot proactively surfaces personalised insights and recommends workflow and set-up improvements. Admins can ask questions and apply approved changes, optimising operations without the busywork.
+ —
+ —
+ Agent productivity dashboard
+ Provides visibility into how agents are using AI tools to track adoption and optimise performance. It highlights engagement across features, surfaces what’s working and helps identify opportunities to improve workflows and drive more consistent usage.
+ —
+ —
+ Add-on
+ Suggested first replies
+ Suggested first replies use generative AI to suggest a first response for agents in tickets based on existing macros and help centre articles. Using AI-generated suggestions to respond to tickets helps agents save time and increase productivity.
+ —
+ —
+ Add-on
+ Suggested macros
+ Macros that apply to the ticket you’re currently working on, based on historical ticket data of macros applied to similar tickets in the past.
+ —
+ —
+ Add-on
+ Merging suggestions
+ Merging suggestions is a feature available in the Intelligence section of a ticket’s context panel. Based on the ticket an agent is viewing, the panel displays tickets submitted by the same requester two weeks before and after the current ticket was created.
+ —
+ —
+ Add-on
+ Similar tickets
+ See a list of similar tickets in the Agent Workspace from either ‘Related’ tickets in the context panel or the search bar.
+ —
+ —
+ Add-on
+ Copilot writing tools and ticket summaries 
+ Writing tools let your agents expand or shorten replies or match the right tone every time with one click.
+Ticket summaries recap the public comments that have been added to a ticket so far, helping agents get up to speed and respond to customers faster.
+Note: Copilot usage is pooled. Each agent receives 5 uses per month, shared across the team. For example, 10 agents = 50 total uses. Allowance is capped at 500 uses per instance per month, even if you have more than 100 agents.
+ —
+ —
+ 5 uses / agent / month
+ Rewrite in your tone
+ Rephrases the content of your comment based on past interactions between you and an end user in a specific ticket conversation.
+ —
+ —
+ Add-on
+ Communication guidelines
+ Adapts messages to match your brand voice and follows rules for tone, length and structure; if not, it still stays consistent with the conversation.
+ —
+ —
+ Add-on
+ Email
+ Email with unlimited addresses
+ Out-of-the-box email integration (no need to set up your mail server) with unlimited email addresses. Customisable HTML and text templates.
+ Contact form
+ Add a contact form to your website that allows customers to get in touch at any time.
+ —
+ Ticket file attachment size
+ Attach files up to 50MB.
+ 50MB
+ 50MB
+ 50MB
+ Incoming email authentication: SPF, DKIM, DMARC
+ Authenticate incoming email
+ to reduce spoofed email and spam with SPF, DKIM or DMARC authentication methods.
+ Automatic email archiving
+ Send all Zendesk email notifications privately to an address of your choice to keep a complete archive
+ of communication.
+ —
+ —
+ —
+ Messaging and live chat
+ Web widget
+ Embed support on your website. Allow customers to get the help they need by taking actions like submitting a ticket or starting a conversation with an agent.
+ Mobile SDKs: iOS SDK, Android SDK and Unity SDK
+ Bring support natively into your iOS and Android apps. Visit developer.zendesk.com
+ for more details.
+ Widget customisation
+ Customise the widget to match the look and feel of your brand.
+ —
+ Pre-chat form
+ Ask visitors to answers a series of questions before starting a conversation with an agent.
+ —
+ Unlimited concurrent chats
+ Agents can have unlimited simultaneous chats at a time.
+ —
+ Shortcuts
+ Convert keywords into complete sentences using preset commands.
+ —
+ Automatic translation
+ Conversations are automatically translated within the dashboard (powered by Google Translate).
+ —
+ Send and receive files
+ Transfer files between you and your visitors.
+ —
+ Conversation rating
+ Allow visitors to rate their experience.
+ —
+ Transfers between agents and departments
+ The agent serving a session can transfer it to another agent or department.
+ —
+ Departments
+ Group your agents into different departments.
+ —
+ 2 departments
+ Unlimited
+ Rich message types
+ Send rich message types (image, file, emoji, GIF, form, carousel).
+ —
+ Conversation history
+ Allow visitors to view previous conversation history without having to authenticate themselves.
+ —
+ Re-engagement
+ Use email to re-engage with visitors who have started chatting with you.
+ —
+ Whisper mode
+ Allow multiple agents to collaborate silently on internal notes, to help the assigned agent during live conversation.
+ —
+ Warm transfer
+ Add more context with internal notes before transferring the conversation to another agent.
+ —
+ Send proactive messages
+ Send customers proactive messages using metadata such as region, IP address, pages and more.
+ —
+ Skills-based routing
+ Skills-based routing automatically sends tickets to specific team members based on their expertise for faster ticket resolution.
+ —
+ —
+ Widget unbranding
+ Remove the Zendesk branding from your widget. Available for both live chat and messaging. Learn more about messaging vs live chat
+ —
+ —
+ —
+ Social and business
+ Social and business channels
+ Engage with your customers over popular social and business channels like Facebook, Instagram and X as well as messaging apps like WhatsApp, Slack, WeChat, LINE and more. With Zendesk Suite, you can add up to five X handles. Additional fees apply
+.
+ —
+ Voice
+ Voicemail
+ Voicemails automatically create tickets for easy tracking and follow-up. Turn on optional voicemail transcription to see at a glance why a customer has called.
+ —
+ Text messages
+ Respond to inbound text messages, automate alerts or send proactive text messages. Inbound texts automatically create tickets for easy issue resolution. Additional fees apply
+.
+ —
+ Add-on
+ Add-on
+ Embedded voice
+ Embed a CTA button to give your customers a seamless, immediate way to get in touch while browsing your website and mobile app.
+ —
+ Display a number using web widget
+ Display your phone number and waiting time to customers browsing your website.
+ —
+ Partner Edition (Computer Telephony Integration) *
+ Integrate your preferred call centre software with Zendesk. Access to out-of-the-box integrations with 90+ telephony providers and CTI toolkit. 
+* Specific features vary by partner.
+ —
+ Answer in browser and forward to phone
+ Receive or place calls in the Zendesk browser, without any additional phone hardware or equipment. Forward calls to an external number to give agents flexibility to take them from mobile phones or landlines.
+ —
+ Outbound caller ID
+ Surface customer details automatically for incoming calls and select a phone number to be displayed for outgoing calls. Customers on Zendesk Suite Professional plans and above can add an external number to appear for your outbound caller ID instead of a Zendesk number.
+ —
+ External number for outbound caller ID
+ Call routing
+ Route calls directly to a specific group of agents or a set of groups in Zendesk, or route calls received after business hours or when agents are busy to an alternate phone number – ensuring customers can always connect with a live agent.
+ —
+ Group routing
+ Group, overflow and after-hours routing
+ Failover
+ Automatically forward incoming calls to an alternate number in the unlikely event of a Zendesk outage. On-demand failover is available on the Suite Enterprise plan and allows customers to trigger the failover for testing or other temporary uses.
+ —
+ On-demand
+ Customised greetings
+ Offer branded or localised experiences with multiple greetings for different brands, departments and phone numbers.
+ —
+ Queue size and waiting time
+ Set a maximum queue size and waiting time to determine how many incoming callers will be kept waiting for an available agent. New calls that exceed your queue size or waiting time are automatically directed to voicemail. Extended queue waiting time increases max queue waiting times up to 60 minutes to accommodate large call volumes.
+ —
+ Extended
+ Session Initiation Protocol (SIP)
+ This addition enhances the caller experience, allowing additional use cases and integrations throughout the call journey, streamlining call management.
+ Bring Your Own Carrier (BYOC)
+ Take advantage of Zendesk’s complete AI-powered CX solution while maintaining your existing telephony infrastructure and carrier relationships.
+ Automatic ticket creation
+ Zendesk automatically turns calls, voicemails and texts into tickets for easy record keeping and issue resolution.
+ —
+ Call recording
+ Record calls for easy reference, troubleshooting and QA.
+ —
+ Mute, hold and warm transfer
+ Mute, unmute and hold as needed from the call console. Brief new agents on an issue before handing off a call so they can easily pick up the conversation where it left off.
+ —
+ Business hours
+ Define business hours to let customers know your phone support availability.
+ —
+ —
+ Single
+ Conference calling
+ Allow agents to consult with a third party and choose to either transfer or add them to the ongoing call.
+ —
+ —
+ Call blocking
+ Compile a blocklist of phone numbers so bots, spammers or other unwanted callers are automatically disconnected when they call.
+ —
+ —
+ Interactive voice response (IVR, phone trees)
+ Route customers to the right agent or department and provide recorded responses for frequently asked questions with multi-level interactive voice response (IVR) systems.
+ —
+ —
+ Priority numbers
+ Assign specific priority phone numbers. Any incoming calls to priority numbers are moved to the front of the queue.
+ —
+ —
+ Request a callback
+ Allow customers to request a callback from the queue or the web widget instead of waiting for a live agent.
+ —
+ —
+ Call wrap-up time limits
+ Limit the amount of time agents have to wrap up calls before accepting new ones.
+ —
+ —
+ Call recording controls
+ Allow agents to pause and resume the recording of an active call to protect customer privacy. You can also give callers the choice to opt-in or opt-out of call recordings.
+ —
+ —
+ Call monitoring and barging
+ Give managers the ability to listen or jump in during ongoing calls between customers and agents for quality and training purposes.
+ —
+ —
+ Call quality notifications
+ Monitor network and audio issues in real time to ensure high quality conversations.
+ —
+ —
+ Call offering time limit
+ Choose the amount of time each agent gets to answer a call before it’s placed back in the queue.
+ —
+ —
+ —
+ Call usage 99.95% uptime SLA
+ Receive usage credit to your account in the event of outages from our service provider.
+ —
+ —
+ —
+ Local and free numbers
+ Choose a free or local number from 75+ countries, or port an existing number.
+ —
+ Add-on
+ Add-on
+ Inbound and outbound minutes
+ Per-minute price for inbound and outbound calls as outlined here
+.
+ —
+ Add-on
+ Add-on
+ Contact centre
+ Support complex contact centre use cases including customisable IVR and unified inbound and outbound calling. And because it’s Zendesk, it’s easy to roll out, use and scale no matter the geo, call volume or level of complexity.
+ —
+ Add-on
+ Add-on
+ Help centre
+ Knowledge builder
+ Instantly generate a ready-to-use knowledge base, based on your ticket history and business context, using Generative AI.
+ —
+ Contextual self-service
+ Embed your help centre and suggest relevant articles with the web widget and mobile SDK.
+ —
+ Multilingual content
+ Localise your help centre into 40+ languages to serve customers in their native language.
+ —
+ 1 default language
+ 40+ languages
+ Article view permissions
+ Limit content within your help centre to specific audiences, such as agents only, customised segments or open to the public.
+ —
+ All registered users
+ All registered users
+Customised user segments
+ Structured content
+ Organise your articles in multiple levels – including unlimited categories and sections – so it’s easy for your customers to find what they need.
+ —
+ Up to 2 levels deep
+ Up to 2 levels deep
+ Theme customisation
+ Use themes to control the look and feel of your help centres across multiple brands or products. Learn more about standard and customised themes.
+ —
+ Basic 
+Standard themes
+ Intermediate 
+Standard +
+Customised +
+ Marketplace
+ Themes
+ Multiple help centres
+ Support multiple brands, products, service tiers or regions. Data and activity are centralised within a single account, making it easy to manage.
+ —
+ 1
+ Up to 5
+ Search
+ Empower customers with the information they need by extending help centre search across the resources they need.
+ —
+ Help centre
+ Help centre and community forums
+ Generative search
+ Provide instant, accurate answers at the top of search results. AI draws from your trusted knowledge sources to give users a seamless search experience without sifting through articles. Learn more.
+ Customer portal
+ Create a dedicated space for your customers to manage their support requests and community contributions with a personalised portal.
+ —
+ —
+ Service catalogue
+ Create a centralised catalogue of services directly in the help centre, so customers can easily make and manage support requests.
+ —
+ —
+ Knowledge management
+ Rich text WYSIWYG editor
+ Create articles with our WYSIWYG editor and include media such as images and video.
+ —
+ SEO ready
+ Knowledge is optimised so search engines can understand your content and customers can find answers no matter where they look for them. You can also create a site map to provide information about how your site content is organised, which helps Google and other search engines to more intelligently crawl your site.
+ —
+ Bulk actions
+ Update various article properties, such as labels and permissions, for multiple articles all at once.
+ —
+ Basic
+ Intermediate
+ Flag and create knowledge
+ Agents can create and share new articles using predefined templates.
+ —
+ —
+ Knowledge connectors
+ Knowledge connectors
+ Bring knowledge from external sources directly into your Zendesk knowledge base, with out-of-the-box connectors. Learn more.
+ —
+ Content and revision history
+ See a list of edits and changes, and restore deleted articles, so you can always be up-to-date with the latest versions.
+ —
+ —
+ Article lists and labels
+ Manage knowledge with customised article lists, search, filters and article labels.
+ —
+ —
+ Approval and publishing workflows
+ Designate content editing and publishing permissions across your team, and solicit team input by assigning article updates.
+ —
+ —
+ —
+ Scheduled publishing and verification
+ Keep your content up to date through its lifecycle with scheduled publishing, unpublishing and verification intervals.
+ —
+ —
+ —
+ Content blocks
+ Create, manage and update content that is reusable and can live across multiple articles or help centres.
+ —
+ —
+ —
+ Generative AI: Expand 
+ Add additional language to the selected content
+ —
+ Generative AI: Simplify 
+ Simplify the selected content to be clear and more concise
+ —
+ Generative AI: Make more friendly 
+ Change the tone of the selected content so that it sounds more conversational
+ —
+ Generative AI: Make more formal 
+ Change the tone of selected content so that it sounds more professional
+ —
+ Community forums
+ User profiles and aliases
+ Let community members view their community activity and stats in one place. Enable members to engage via a user alias.
+ —
+ —
+ Registered users
+ Integrated search
+ Easily search and filter across help centre and community content.
+ —
+ —
+ Similar posts
+ Surface similar posts to avoid duplicate threads and answer questions with existing content.
+ —
+ —
+ Escalate posts to tickets
+ Empower community managers to escalate posts to support agents when one-on-one help is needed.
+ —
+ —
+ Community moderators and moderator groups
+ Empower members to become moderators by assigning varying levels of permissions – like the ability to flag, hide, edit and move posts. You can vary moderation permissions by creating different moderator groups.
+ —
+ —
+ Content moderation queue
+ Use keyword filters to immediately flag posts for review and approval prior to publishing.
+ —
+ —
+ AI-powered spam protection
+ Automatically flag suspicious content for review and approval before publishing.
+ —
+ —
+ User badges
+ Reward community members for achieving milestones or 
+sharing valuable knowledge. Designate roles to encourage more credible and transparent community engagement.
+ —
+ —
+ Agent workspace with customer context
+ Unified agent workspace
+ A unified, conversation-focused agent workspace helps your team manage conversations and their status across all web, mobile and social channels in one single view.
+ Approvals
+ Easily make and manage approval requests directly from the ticket interface, automatically tracking all decisions for compliance.
+ —
+ —
+ Tasks
+ Empower service teams to deliver accurate, high-quality service with easy-to-follow task list templates that guide them through the correct steps for common request types.
+ —
+ —
+ Translated interface
+ Agents can work in their preferred language, with a localised admin interface, across 28 languages including: German, French, Japanese, Portuguese, English (UK), English (US), Spanish, Italian, Dutch, Norwegian, Polish, Swedish, Turkish, Danish, Russian, Ukrainian, Simplified Chinese, Traditional Chinese and Korean.
+ Essentials card
+ With Cards, agents can view configured previews of any record stored in Zendesk, delivering customised views of your customer’s data and customised objects data, when and where it’s stored.
+ Interaction history
+ Interaction history surfaces a list of recent tickets submitted by the requester (or other related events). You can use this to better understand what the requester needed help with recently.
+ Group contacts by organisation
+ Add a user to one or many organisations to apply rules based on the group they belong to. Adding to multiple organisations is helpful for contractors, supervisors or employees who may belong to multiple business units, departments or locations.
+ Single
+ Single
+ Multiple
+ Customised user and organisation fields
+ Capture customer information in user and organisation fields. Set customer-centric workflows around these fields.
+ Customised and group views
+ Views are a collection of tickets based on ticket status, assignee, group or any other ticket conditions. Zendesk comes with preconfigured views that we recommend as best practice. You can add more, modify or turn them off.
+ Customised layouts
+ Arrange and resize components to create workspaces that dynamically update based on the context of a ticket, so agents can focus on the task at hand and find information faster.
+ —
+ —
+ —
+ Dynamic content
+ Use dynamic content to create your own translations with a default version of the text (set in the same language as your default) and variants for every other language that you support. Based on the end user’s language, the appropriate variant is automatically displayed to the end user.
+ —
+ —
+ Customer satisfaction ratings (CSAT) and follow-up survey
+ Capture feedback with customer satisfaction (CSAT) ratings surveys.
+ —
+ —
+ Customised agent statuses
+ If your workflow requires more statuses than the default four (online, away, transfer only and offline), you can create a limited amount of customised statuses available to all agents on your account.
+ —
+ —
+ Up to 5
+ Support mobile app
+ Easily manage all conversations on the go with the Zendesk Support mobile app for agents. Available for iOS and Android devices. Learn more about the Zendesk Support mobile app here
+.
+ —
+ Dynamic, contextual workspaces
+ Contextual workspaces enable admins to present ticket tools and features based on specific workflows. Combine with Layouts to dynamically customise the ticket interface. For example, display the relevant ticket form and macros that pertain to that ticket and preselect apps to have expanded and collapsed. Create up to 20 active workspaces and include up to 10 conditions.
+ —
+ —
+ —
+ App Builder
+ AI-powered App Builder turns ideas into apps using conversational prompts – no technical expertise required. Boost agent productivity with customised apps that streamline workflows, integrate with third-party platforms and internal systems and reduce manual work. Learn more
+ —
+ —
+ Up to 5 app conversations
+ Collaboration tools
+ Light agents
+ Give team members limited access to tickets without paying for more seats. They can read tickets and provide input by adding private comments.
+ —
+ —
+ Up to 100
+ Light agents add-on
+ Unlock enhanced collaboration for your team by adding more light agent seats with our add-on. This valuable extension goes beyond Suite Growth and above plans, allowing team members to stay informed about tickets and provide expert advice through private comments.
+ —
+ Add-on
+ Add-on
+ Side conversations
+ Loop in teammates to help resolve issues without leaving the ticket. They can respond via email or Slack and the whole conversation is linked to your ticket.
+ —
+ —
+ Marketplace
+ Prebuilt apps and integrations
+ Tap into over 1,000 prebuilt apps and integrations available from the Zendesk Marketplace to unite your favourite tools and important business data without writing a single line of code.
+ Workflows
+ Triggers
+ Triggers are business rules you define to run immediately after tickets are created or updated.
+ Ticket sharing between multiple Zendesk accounts
+ Create workflows that share tickets between multiple Zendesk accounts.
+ Manual
+ Automated
+ Automated
+ Conversation routing
+ Get conversations to the right agent based on their availability, capacity and skill, as well as conversation priority, to ensure no conversation gets dropped and your teams deliver better, faster and more conversational service every time.
+ Based on agent status and capacity
+ Based on agent status and capacity
+ Based on agent status, capacity, skill and ticket priority 
+ Multiple ticket forms
+ Reduce the back and forth with customised support forms. Collect specific information based on how your customers answer questions for the most relevant info at hand.
+ —
+ —
+ Conditional ticket fields
+ Show only the fields that you want agents and end users to see in ticket forms for a better user experience.
+ —
+ —
+ Service level agreements (SLA)
+ Ensure customer contracts and business goals are met through defined response and resolution times via service level agreements (SLA).
+ —
+ —
+ Skills-based routing
+ Skills-based routing automatically sends tickets to specific team members based on their expertise for faster ticket resolution.
+ —
+ —
+ Guided mode
+ Line up tickets for agents to work through and guide them from one ticket to the next. This prevents cherry-picking and helps speed up response times and handling times.
+ —
+ —
+ —
+ Automations and intelligence
+ Predefined responses (macros)
+ Macros allow agents to quickly respond to common requests with a standard reply.
+ Customised business rules (triggers and automations)
+ Initiate, add or modify workflows that are triggered by ticket changes or time-based conditions. Zendesk Suite comes with preconfigured business rules that we recommend as best practice. You can add more, modify or turn them off.
+ Article recommendations
+ Enable agents to solve tickets faster with AI-powered contextual article recommendations that can be linked within tickets with just one click.
+ Business rules analysis
+ In-depth analysis of how a given ticket property is used across your triggers, automations, macros and ticket views.
+ —
+ —
+ —
+ Copilot: Intelligent triage
+ Categorise incoming requests automatically by customer intent, language and sentiment, and use these AI insights to create routing rules, workflows and more.
+ —
+ —
+ Copilot: Actionable insights and suggestions
+ Help agents solve customer issues faster with AI-powered insights and actionable next steps using suggested macros and similar tickets.
+ —
+ —
+ Copilot: Macro insights for admins
+ Boost efficiency and cut resolution times with AI that suggests new shared macros for admins to create and share with agents.
+ —
+ —
+ Change management
+ Unified staff management
+ A single source of truth and set of tools for managing staff member settings and information.
+ Business hours
+ Define business hours to let customers know your phone support availability.
+ —
+ —
+ Single
+ Customised agent roles
+ Specify permissions for agents and control what they have access to in Zendesk.
+ —
+ —
+ —
+ Audit logs
+ View a detailed list of critical changes that have been made.
+ —
+ —
+ —
+ Version management
+ Easily track and manage configuration changes with Inspect, Snapshot and Compare tools. Gain clear visibility into your setups, save key configuration states and quickly identify differences – helping you maintain alignment and reduce errors without technical expertise. Learn more.
+ —
+ —
+ Sandbox
+ Easily replicate your ticketing system’s configurations, customisations and metadata into a non-production space for testing, development and training – all without impacting your live workflows. Learn more about Sandboxes
+.
+ —
+ —
+ Add-on
+ Additional Sandboxes
+ Option to buy additional Sandboxes for testing, development and/or training purposes.
+ —
+ —
+ Reporting and analytics
+ Prebuilt analytics dashboards
+ Get data on what’s going well and what needs improvement with prebuilt reporting dashboards and customer satisfaction ratings.
+ Data exports
+ Export insights in CSV, Excel, image or PDF format.
+ Zendesk Benchmark
+ Compare yourself against your peers on key benchmark metrics like customer satisfaction, first response time and ticket volume.
+ Google Analytics for help centre
+ In addition to Zendesk reporting, you also have the option of using Google Analytics to track your help centre traffic.
+ —
+ Voice usage reporting
+ See a breakdown of your usage charges including calls, voicemail transcriptions, recordings, text messages and phone numbers.
+ —
+ Customised data exploration
+ Create customised metrics, charts, filters and dashboards using a point-and-click experience.
+ —
+ —
+ Scheduled dashboard delivery
+ Schedule and automate the delivery of reporting dashboards.
+ —
+ —
+ Dashboard sharing
+ Share relevant dashboards to keep teammates and stakeholders in the loop about key insights and trends.
+ —
+ —
+ Live agent activity dashboard
+ Optimise your team’s performance in real time by viewing live agent activity, such as agent statuses across all channels, how many conversations each agent is working on and more.
+ —
+ —
+ Prebuilt live dashboard
+ Monitor and act on trends in the moment with prebuilt live charts and dashboards across your Zendesk channels.
+ —
+ —
+ Customisable live dashboards
+ Create customised live dashboards for real-time insights.
+ —
+ —
+ —
+ Visual data alerts
+ Set threshold alerts to visually understand when teams are under a heavy load.
+ —
+ —
+ —
+ Refresh rate
+ The frequency of data refresh available in your Zendesk plan. Note: for plans with 1-hour refresh rates, completion of refresh may take up to two hours for extremely high data volumes.
+ Data
+ Data storage
+ Storage consumed by preconfigured and customised objects in Zendesk. Every Zendesk account includes 10GB of data storage in addition to a per-agent amount of storage based on plan type.
+ 10 GB + 50 MB/agent
+ 10 GB + 50 MB/agent
+ 10 GB + 100 MB/agent
+ File storage
+ Storage of files attached to Zendesk objects, like email attachments in a ticket. Every Zendesk account includes 10GB of file storage in addition to a per-agent amount of storage based on plan type.
+ 10 GB + 2 GB/agent
+ 10 GB + 2 GB/agent
+ 10 GB + 5 GB/agent
+ Customised objects
+ Store and connect new data sources, like products and order history, for greater context about your customer. Learn more
+.
+ —
+ Up to 50 objects (10 lookup fields/object)
+ External knowledge storage
+ Storage of knowledge content from external sources via Knowledge Connectors.
+ 100 MB
+ 500 MB
+ 500 MB
+ Zendesk events
+ Surface events from Zendesk (such as ticket events or help centre articles viewed) within the ‘Interactions History’ in the agent workspace or your customised app.
+ —
+ In beta
+ In beta
+ External events
+ Capture every customer interaction – like shopping basket, web or mobile activity – from third-party applications to get a dynamic view of the customer journey.
+ —
+ Up to 150K/month
+ Up to 350K/month
+ Event retention period
+ Period of time that Zendesk will store your external events.
+ —
+ 90 days
+ 1 year
+ External profiles
+ Build customer profiles with attributes from third-party applications to get a more complete picture of your customers.
+ Devices data log
+ Embeddables (SDK and Web Widget) automatically generate information about what device or version of the app was being used when a user asks for help.
+ —
+ AWS Events Connector
+ With the Events Connector
+, stream Zendesk events in real time into key AWS services and unlock the potential of your customer data.
+ —
+ —
+ Add-on
+ Additional data storage
+ If you reach your data storage limit or expect that you will, you may want to purchase more storage to increase your limit. For more information, see data storage limits
+.
+ Add-on
+ Add-on
+ Add-on
+ Customised apps and integrations
+ Private customised apps and integrations
+ Build your own apps for exclusive use within your account, using our App Builder or Channel Framework.
+ —
+ —
+ 5 App conversations, see conversation limits
+ Developer tools
+ API access
+ The API is a powerful resource that many Zendesk customers use to bulk-import resources, create apps, pull data from external sources and more.
+ Messaging platform (Sunshine Conversations) third-party chatbots
+ Integrate chatbots built by you or with a third party into Zendesk.
+ —
+ —
+ Additional API volume (10+ agents required)
+ Organisations requiring additional API volumes can increase overall API rate limit
+ to 2,500 requests per minute. 
+This also includes the Events Connector
+ for Amazon EventBridge to stream Zendesk events to AWS for building event-driven applications and performing analysis. You can send up to 700 events per minute. Must have 10 or more agent seats to purchase.
+ —
+ —
+ Add-on
+ Security and compliance
+ User authentication options: Native, SSO and 2FA
+ Provide multiple user authentication options
+ for agents and admins to easily and securely sign in, including:
+• Native Zendesk authentication
+• Single sign-on (SSO) with social media credentials (Facebook, X, Google)
+• Single sign-on (SSO) with business/active directory credentials using JSON Web Token (JWT) or Security Assertion Markup Language (SAML)
+• Two-factor authentication, which requires a mobile passcode in addition to a password, for extra security.
+ Secure access options: IP restrictions, password complexity, session length
+ Customise how agents and admins access Zendesk applications
+. 
+IP restrictions: only allow access from specific IP address ranges you define. 
+Password complexity: customise how complex passwords need to be.
+Session length: customise how long an agent can be idle before requiring them to log in again.
+ Agent device management
+ Track the devices used
+ to access your Zendesk account. Admins will receive an email notification when a new device is added.
+ Data encryption at rest and in motion
+ Automatically keep your Zendesk data secure
+.
+Data encryption at rest: service data is encrypted at rest in AWS using AES-256 key encryption.
+Data encryption in motion: communications between you and Zendesk servers are encrypted via industry standard HTTPS/TLS
+ Host mapping
+ Change the URL of your help centre by mapping
+ a subdomain of your own domain (such as support.mycompany.com) to your default Zendesk address with an SNI-based SSL certificate.
+ Disaster recovery
+ Our disaster recovery programme
+ ensures that our services remain available or are easily recoverable in the event of a disaster.
+ Credit card redaction
+ Redact credit card numbers
+ in a customised field to prevent the credit card number from being stored in Zendesk so that you can protect confidential information.
+ —
+ —
+ Data centre location
+ Specify where your account data is stored
+, whether in the US, APAC, European Economic Area or United Kingdom. Some restrictions apply.
+ —
+ —
+ Add-on
+ HIPAA enabled
+ The Zendesk Business Associate Agreement (BAA) is available for execution by Subscribers here
+. For more details, including a list of which Services can be HIPAA-enabled, please see Advanced Compliance
+.
+ —
+ —
+ HIPAA enabled
+ Department spaces
+ Easily and securely manage multiple departments in one place. Limit access to tickets based on department membership.
+ —
+ —
+ —
+ Access log
+ View a detailed data access record, including information on who accessed what data, when and from where. This feature enhances your visibility and control and helps your business meet regulatory requirements.
+ —
+ —
+ —
+ Advanced encryption
+ Encrypt personal information within Zendesk using customer-controlled encryption keys.
+ —
+ —
+ —
+ Advanced data retention policies
+ Set parameters and define what data should be stored or archived and for exactly how long.
+ —
+ —
+ —
+ Advanced redaction
+ Automatically remove customers’ personal information, such as email, phone, credit card information etc., in conversations with agents.
+ —
+ —
+ —
+ Data masking
+ Control which agents can see personal information. Ensure the right people can see the data that is necessary for their work without compromising privacy.
+ —
+ —
+ —
+ Sunshine Conversations
+ Messaging platform (Sunshine Conversations) third-party chatbots
+ Integrate chatbots built by you or with a third party into Zendesk.
+ —
+ —
+ Access to conversation tools and APIs
+ Sunshine Conversations’ APIs allow for conversation management, rich messaging, user metadata collection, account management and more. ( Learn more
+)
+ —
+ —
+ Basic platform support
+ Weekdays 10am–4pm ET
+ —
+ —
+ Monthly Active Users per month
+ Monthly Active Users or ‘MAU’ is the total number of end users engaged in any number of sent or received messages or events within the Sunshine Conversation Service in the month. Monthly Active Users are engaged whether the sent or received messages or event occurs between a) a unique end user and a subscriber, b) a unique group of end users and a subscriber or c) a unique group of end users.
+*Overage is subject to a True Forward model. Learn more
+ —
+ —
+ 1,000 included ($50/pack of additional 2,500 MAUs)
+ Notifications per month
+ A Notification is an attempted or sent text, multimedia and structured messages to any supported Third Party Messaging Platform via the Sunshine Conversation Notification API.
+*Overage is subject to a True Forward model. Learn more
+ —
+ —
+ 1,000 included ($50/pack of additional 25,000 Notifications)
+ Channels
+ Supported channels include WhatsApp, Apple Messages for Business, Google Business Messages and more. For all supported channels see here
+.
+ —
+ —
+ Orchestration APIs (Switchboard)
+ With Sunshine Conversations’ Switchboard API, you can achieve bot-to-human handover across messaging channels and business systems. The switchboard allows you to programmatically route a user’s conversation through third-party systems such as bot frameworks and helpdesk systems, similarly to how an operator patches phone calls via a switchboard. An unlimited number of business systems can be connected to the switchboard and you can move the conversation either to the next integration in the chain or directly to a specific system.
+ —
+ —
+ Contact Centre
+ Omnichannel advanced routing
+ Design contact flows that orchestrate high volumes across self-service, AI agents and live interactions, routing customers to the best-fit agent based on unified history, sentiment and skill set.
+ —
+ Advanced IVR
+ Deliver dynamic, conversational interactive voice response (IVR) that blends important details from the contact with existing customer data, to guide customers to the fastest resolution.
+ —
+ Call recording and summarisation
+ Store call recordings within each ticket while AI summarises customer conversations within seconds after a call ends.
+ —
+ Real-time transcriptions
+ Generate real-time call transcriptions that appear directly in the agent workspace from interactions with AI and human agents.
+ —
+ Contact Centre dashboards
+ Real-time and historical dashboards that provide an immediate overview of call topic, agent and queue performance.
+ —
+ Screen recording
+ Gather the visual context of what agents are doing on their screens while interacting with customers.
+ —
+ Support and services from the Zendesk team
+ Digital support
+ Access to customer support during your business hours for your highest severity/business-impacting issues.
+ Access to Zendesk help centre and community
+ Robust Zendesk help centre
+ filled with self-service resources to help you successfully set up and efficiently use Zendesk. You can also get answers to common questions and learn best practice from the Zendesk community
+ and our own experts.
+ Digital onboarding and adoption resources
+ Prescriptive guidance for feature activation and better usage of core Zendesk capabilities delivered digitally or through engagements and programmes.
+ Getting started on-demand training
+ Foundational, role-based video courses to help you onboard agents, admins and developers quicker.
+ Guided learning paths
+ From in-product help and interactive troubleshooting to expert-curated downloadable tools, these resources help you accelerate feature adoption.
+ Premier plans – 24/7 proactive support and engagement*
+ Our Premier plans provide subscribers with white-glove support including increased coverage, expedited response times and proactive engagement.
+ Add-on
+ Add-on
+ Add-on
+ Professional services
+ Hands-on configuration, solution design and advisory consultation services for deploying solutions, data migration, customised apps and extending your platform’s capabilities.
+ Add-on
+ Add-on
+ Add-on
+ Customised training and certifications
+ Empowering Zendesk Admins, Agents and Developers to take their customer experience practice and careers to the next level.
+ Add-on
+ Add-on
+ Add-on
+ Hands-on help with Zendesk Assist*
+ Subscription managed services offering for customers who need long-term ongoing expertise and resources.
+ Add-on
+ Add-on
+ Add-on
+ Copilot
+ Unlock the full power of Copilot, with unlimited access to the proactive AI assistant designed to empower your agents to resolve issues faster and give admins real-time guidance to keep operations running smoothly. 
+  Assist agents work smarter and faster with auto assist, suggestions and writing tools
+ Gain intelligence to your operations with intelligent triage and prebuilt reporting
+ Optimise your service workflows with proactive recommendations and more
+  Copilot can be added to Professional and higher plan levels. 
+ Workforce Engagement Bundle
+ Zendesk Workforce Engagement Management (WEM) is a set of AI-infused software tools and practices that improve employee engagement and customer service, built right into Zendesk. It’s designed to optimise service agent staffing requirements, scheduling, performance management, quality assurance and coaching, and it focuses on improving productivity, job satisfaction and overall team performance by aligning employee activities with business objectives.
+ Contact Centre
+ Zendesk for Contact Centre is the only AI-powered contact centre solution that delivers fast, personalised resolutions regardless of geography, call volume or complexity. It uniquely combines the ease and flexibility of Zendesk with the resilient infrastructure of AWS. Built on the Zendesk Resolution Platform, it empowers businesses to streamline complex workflows, unify customer data and provide seamless, high-quality customer experiences at scale. 
+ Footer
+ Products
+ Pricing
+ Zendesk for customer service
+ Zendesk for employee service
+ Zendesk for contact centre
+ Integrations
+ Systems status
+ Sign in
+ Demo
+ Zendesk for Enterprise
+ Zendesk for Small Business
+ Zendesk for Startups
+ Features
+ AI agents
+ Specialized AI agents
+ Copilot
+ Zendesk AI
+ Messaging and live chat
+ Advanced data privacy and protection
+ Knowledge base
+ Ticketing
+ Voice
+ Community forums
+ Reporting and analytics
+ Workforce management
+ Quality assurance
+ Live chat
+ Client portal
+ Resources
+ Help centre
+ Security
+ API and developers
+ Blog
+ AI research
+ Events and webinars
+ Customer stories
+ Academy
+ Partners
+ Professional services
+ Trial experience & FAQs
+ Company
+ About us
+ What is Zendesk?
+ Careers
+ Inclusion & Belonging
+ Sustainability report
+ Zendesk Foundation
+ Zendesk Ventures
+ Legal
+ Compare
+ Zendesk vs. Intercom
+ Zendesk vs. Salesforce
+ Zendesk vs. Freshdesk
+ Popular topics
+ CX Trends 2026
+ Product updates
+ Customer service software
+ Help desk ticketing software
+ Live chat software
+ Forum software
+ Help desk software
+ Client portal software
+ Knowledge base software
+ Top AI agents
+ Products
+ Pricing
+ Zendesk for customer service
+ Zendesk for employee service
+ Zendesk for contact centre
+ Integrations
+ Systems status
+ Sign in
+ Demo
+ Zendesk for Enterprise
+ Zendesk for Small Business
+ Zendesk for Startups
+ Features
+ AI agents
+ Specialized AI agents
+ Copilot
+ Zendesk AI
+ Messaging and live chat
+ Advanced data privacy and protection
+ Knowledge base
+ Ticketing
+ Voice
+ Community forums
+ Reporting and analytics
+ Workforce management
+ Quality assurance
+ Live chat
+ Client portal
+ Resources
+ Help centre
+ Security
+ API and developers
+ Blog
+ AI research
+ Events and webinars
+ Customer stories
+ Academy
+ Partners
+ Professional services
+ Trial experience & FAQs
+ Company
+ About us
+ What is Zendesk?
+ Careers
+ Inclusion & Belonging
+ Sustainability report
+ Zendesk Foundation
+ Zendesk Ventures
+ Legal
+ Compare
+ Zendesk vs. Intercom
+ Zendesk vs. Salesforce
+ Zendesk vs. Freshdesk
+ Popular topics
+ CX Trends 2026
+ Product updates
+ Customer service software
+ Help desk ticketing software
+ Live chat software
+ Forum software
+ Help desk software
+ Client portal software
+ Knowledge base software
+ Top AI agents
+ How can we help? Contact us
+ Terms of use
+ Privacy notice
+ Cookie notice
+ Cookie settings
+ Trust Centre
+ © 2026 Zendesk, Inc.
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"Corporation","@id":"https://www.zendesk.com/in/#organization","name":"Zendesk","url":"https://www.zendesk.com/in","description":"Explore Zendesk pricing – from core support to AI agents, Copilot and full CX suites – and choose the plan that fits your business.","foundingDate":"2007","logo":{"@type":"ImageObject","@id":"https://www.zendesk.com/in/#logo","url":"https://web-assets.zendesk.com/images/logos/favicons/zendesk-image.png","width":512,"height":512},"address":[{"@type":"PostalAddress","streetAddress":"181 Fremont St.","addressLocality":"San Francisco","addressRegion":"CA","postalCode":"94105","addressCountry":"US"}],"sameAs":["https://www.linkedin.com/company/zendesk","https://twitter.com/zendesk","https://www.facebook.com/zendesk","https://www.youtube.com/user/zendesk"],"contactPoint":[{"@type":"ContactPoint","contactType":"customer support","url":"https://support.zendesk.com/"}],"knowsAbout":["AI agents for customer service","AI agents for employee service","AI agents for contact center","Resolution Platform","Zendesk AI","Agentic AI","Customer service software","Help desk software","Knowledge base software","Workforce management","Quality assurance"],"image":{"@id":"https://www.zendesk.com/in/#logo"},"subOrganization":[{"@type":"Organization","@id":"https://www.zendesk.co.jp/#organization","name":"Zendesk Japan"},{"@type":"Organization","@id":"https://www.zendesk.com.mx/#organization","name":"Zendesk Mexico"},{"@type":"Organization","@id":"https://www.zendesk.co.uk/#organization","name":"Zendesk UK"},{"@type":"Organization","@id":"https://www.zendesk.es/#organization","name":"Zendesk España"},{"@type":"Organization","@id":"https://www.zendesk.fr/#organization","name":"Zendesk France"},{"@type":"Organization","@id":"https://www.zendesk.com/it/#organization","name":"Zendesk Italia"},{"@type":"Organization","@id":"https://www.zendesk.kr/#organization","name":"Zendesk 한국"},{"@type":"Organization","@id":"https://www.zendesk.com.br/#organization","name":"Zendesk Brasil"},{"@type":"Organization","@id":"https://www.zendesk.de/#organization","name":"Zendesk Deutschland"},{"@type":"Organization","@id":"https://www.zendesk.hk/#organization","name":"Zendesk "},{"@type":"Organization","@id":"https://www.zendesk.nl/#organization","name":"Zendesk Nederland"},{"@type":"Organization","@id":"https://www.zendesk.tw/#organization","name":"Zendesk 台灣"},{"@type":"Organization","@id":"https://www.zendesk.com/au/#organization","name":"Zendesk Australia"},{"@type":"Organization","@id":"https://www.zendesk.com/dk/#organization","name":"Zendesk Denmark"},{"@type":"Organization","@id":"https://www.zendesk.com/in/#organization","name":"Zendesk India"},{"@type":"Organization","@id":"https://www.zendesk.com/se/#organization","name":"Zendesk Sweden"},{"@type":"Organization","@id":"https://www.zendesk.com/sg/#organization","name":"Zendesk Singapore"}]},{"@type":"SoftwareApplication","@id":"https://www.zendesk.com/in/#softwareapplication","name":"Zendesk","url":"https://www.zendesk.com/in","applicationCategory":"BusinessApplication","applicationSubCategory":"Customer Service Software","operatingSystem":"Web","description":"Explore Zendesk pricing – from core support to AI agents, Copilot and full CX suites – and choose the plan that fits your business.","publisher":{"@id":"https://www.zendesk.com/in/#organization"},"image":"https://web-assets.zendesk.com/images/logos/favicons/zendesk-image.png","featureList":["AI agents","Ticketing system","Help center","Live chat","Voice support","Workflow automation","Analytics and reporting","Omnichannel customer service"],"offers":{"@type":"Offer","url":"https://www.zendesk.com/in/pricing/","priceCurrency":"USD","description":"Free trial available"}},{"@type":"WebSite","@id":"https://www.zendesk.com/in/#website","url":"https://www.zendesk.com/in","name":"Zendesk","description":"Explore Zendesk pricing – from core support to AI agents, Copilot and full CX suites – and choose the plan that fits your business.","publisher":{"@id":"https://www.zendesk.com/in/#organization"},"inLanguage":"en","sameAs":["https://www.zendesk.com/au","https://www.zendesk.com.br","https://www.zendesk.de","https://www.zendesk.com/dk","https://www.zendesk.es","https://www.zendesk.fr","https://www.zendesk.co.uk","https://www.zendesk.hk","https://www.zendesk.com/it","https://www.zendesk.com/in","https://www.zendesk.co.jp","https://www.zendesk.kr","https://www.zendesk.com.mx","https://www.zendesk.nl","https://www.zendesk.com.ru","https://www.zendesk.com/se","https://www.zendesk.com/sg","https://www.zendesk.tw","https://www.zendesk.com/th","https://www.zendesk.com"]},{"@type":"WebPage","@id":"https://www.zendesk.com/in/pricing/#webpage","url":"https://www.zendesk.com/in/pricing/","name":"Zendesk Pricing Plans | Starting from £19/month | Zendesk India","description":"Explore Zendesk pricing – from core support to AI agents, Copilot and full CX suites – and choose the plan that fits your business.","inLanguage":"en","isPartOf":{"@id":"https://www.zendesk.com/in/#website"},"publisher":{"@id":"https://www.zendesk.com/in/#organization"},"mainEntity":{"@id":"https://www.zendesk.com/in/#organization"},"about":[{"@id":"https://www.zendesk.com/in/#organization"}],"significantLink":["https://www.zendesk.com/in/register/","https://www.zendesk.com/in/demo/","https://www.zendesk.com/in/pricing/"],"dateModified":"2026-09-21 22:26:25","datePublished":"2025-08-18 18:42:20","potentialAction":[{"@type":"RegisterAction","name":"Try it for free","target":{"@type":"EntryPoint","urlTemplate":"https://www.zendesk.com/in/register/","actionPlatform":["https://schema.org/DesktopWebPlatform","https://schema.org/MobileWebPlatform"]},"result":{"@type":"Thing","name":"Zendesk free trial signup"}},{"@type":"ViewAction","name":"View demo","target":{"@type":"EntryPoint","urlTemplate":"https://www.zendesk.com/in/demo/","actionPlatform":["https://schema.org/DesktopWebPlatform","https://schema.org/MobileWebPlatform"]},"result":{"@type":"Thing","name":"Zendesk product demo"}}]},{"@type":"ImageObject","@id":"https://www.zendesk.com/in/pricing/#primaryimage","inLanguage":"en","url":"https://d1eipm3vz40hy0.cloudfront.net/images/logos/favicons/zendesk-image.png","contentUrl":"https://d1eipm3vz40hy0.cloudfront.net/images/logos/favicons/zendesk-image.png"}]}

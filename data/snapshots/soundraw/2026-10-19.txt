@@ -1,0 +1,102 @@
+#SNAPSHOT {"url":"https://soundraw.io/pricing","finalUrl":"https://soundraw.io/pricing","fetchedAt":"2026-10-19T03:35:35.460Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"9c9744d9659902fece9595da1f2bb39cc0329a7240a26ec9effaf295f77cf9e0"}
+Pricing & Plans: Royalty-Free AI Music | SOUNDRAW 
+ We cover all your needs
+ Paid Plans
+ Annual
+ Monthly
+ Creator
+ For content creators, Individuals & Small companies (<10 employees)
+ $5.99/mo
+ Subscribe
+ Commercial use
+ Use as background music
+ Distribute & monetize songs (Spotify, Apple Music...)
+ Unlimited Monthly Track Downloads
+ Download as mp3
+ Artist Starter
+ For music artists / producers, Individuals & Small companies (<10 employees)
+ $10.49/mo
+ Subscribe
+ Commercial use
+ Use as background music
+ Distribute & monetize songs (Spotify, Apple Music...)
+ 10 Monthly Track Downloads
+ Download as mp3
+ Artist Pro
+ For music artists / producers, Individuals & Small companies (<10 employees)
+ $12.59/mo
+ Subscribe
+ Everything in Artist Starter, plus:
+ 20 Monthly Track Downloads
+ Download as mp3, wav, stems
+ Artist Unlimited
+ For music artists / producers, Individuals & Small companies (<10 employees)
+ $17.49/mo
+ Subscribe
+ Everything in Artist Pro, plus:
+ Unlimited Monthly Track Downloads
+ Download as mp3, wav, stems
+ Enterprise
+ For companies of 10+ employees
+ Ask
+ Contact
+ API access
+ Commercial use
+ Use as background music
+ Distribute & monetize songs (Spotify, Apple Music...)
+ Unlimited Monthly Track Downloads
+ Download as mp3, wav, stems
+ Plan
+ Creator
+ Artist Starter
+ Artist Pro
+ Artist Unlimited
+ Enterprise
+ Perfect for
+ Individuals & Small companies (<10 employees)
+ 10+ employees
+ Content creators
+ Music artists / producers
+ Everyone
+ Pricing
+ $5.99/mo
+ Subscribe
+ $10.49/mo
+ Subscribe
+ $12.59/mo
+ Subscribe
+ $17.49/mo
+ Subscribe
+ Ask
+ Contact
+ Commercial use
+ Use as background music
+ Videos, podcasts...
+ Distribute & monetize songs
+ Spotify, Apple Music...
+ Monthly downloads
+ Unlimited
+ 10
+ 20
+ Unlimited
+ Unlimited
+ Format
+ mp3
+ mp3
+ mp3, wav, stems
+ mp3, wav, stems
+ mp3, wav, stems
+ API
+ Learn more about licenses >
+ Learn more about licenses >
+ See SOUNDRAW Grid pricing >
+ English
+ 日本語
+ Help Center
+ Privacy Policy
+ Terms of Service
+ GDPR Privacy Policy
+ © SOUNDRAW 2026
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"SOUNDRAW AI Music Generator","url":"https://soundraw.io","applicationCategory":"MusicApplication","operatingSystem":"Web, iOS, macOS","offers":[{"@type":"Offer","name":"Creator Plan","price":"5.99","priceCurrency":"USD","description":"Royalty-free background music for videos, podcasts, apps and games. Unlimited downloads.","url":"https://soundraw.io/pricing"},{"@type":"Offer","name":"Artist Starter Plan","price":"10.49","priceCurrency":"USD","description":"All Creator features plus distribute and monetize songs on Spotify, Apple Music, TikTok and more.","url":"https://soundraw.io/pricing"},{"@type":"Offer","name":"Artist Pro Plan","price":"12.59","priceCurrency":"USD","description":"Artist features with WAV and STEM downloads. 20 downloads per month.","url":"https://soundraw.io/pricing"},{"@type":"Offer","name":"Artist Unlimited Plan","price":"17.49","priceCurrency":"USD","description":"Unlimited downloads in WAV and STEMS. Full artist distribution rights.","url":"https://soundraw.io/pricing"}],"provider":{"@type":"Organization","name":"SOUNDRAW","url":"https://soundraw.io"}}

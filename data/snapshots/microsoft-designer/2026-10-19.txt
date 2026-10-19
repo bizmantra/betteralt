@@ -1,0 +1,374 @@
+#SNAPSHOT {"url":"https://support.microsoft.com/en-us/designer/frequently-asked-questions-about-microsoft-designer","finalUrl":"https://support.microsoft.com/en-us/designer/frequently-asked-questions-about-microsoft-designer","fetchedAt":"2026-10-19T03:35:01.227Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"60505ba8a69363be7d81896dd7adbc26b5c03821387ab0cd0b5e5fe1d5469173"}
+Frequently asked questions about Microsoft Designer | Microsoft Support 
+ Skip to main content
+ Microsoft
+ Support
+ Support
+ Support
+ Home 
+ Microsoft 365
+ Office
+ Products
+ Microsoft 365
+ Outlook
+ Microsoft Teams
+ OneDrive
+ Microsoft Copilot
+ OneNote
+ Windows
+ more ...
+ Devices
+ Surface
+ PC Accessories
+ Xbox
+ PC Gaming
+ HoloLens
+ Surface Hub
+ Hardware warranties
+ Account & billing
+ Resources
+ Community forums
+ Microsoft 365 Admins
+ Developer
+ Education
+ Report a support scam
+ Product safety
+ More
+ Buy Microsoft 365
+ All Microsoft
+ Global
+ Microsoft 365
+ Azure
+ Copilot
+ Windows
+ Surface
+ XBOX
+ Deals
+ Small Business
+ Support
+ Software
+ Software
+ Windows Apps
+ Outlook
+ OneDrive
+ Microsoft Teams
+ OneNote
+ Microsoft Edge
+ Moving from Skype to Teams
+ PCs & Devices 
+ PCs & Devices 
+ Computers
+ Shop XBOX
+ Accessories
+ VR & mixed reality
+ Certified Refurbished
+ Trade-in for cash
+ Entertainment
+ Entertainment
+ XBOX Game Pass Ultimate
+ PC Game Pass
+ XBOX games
+ PC games
+ Business
+ Business
+ Microsoft AI
+ Microsoft Security
+ Dynamics 365
+ Microsoft 365 for business
+ Microsoft Power Platform
+ Windows 365
+ Small Business
+ Digital Sovereignty
+ Developer & IT 
+ Developer & IT 
+ Azure
+ Microsoft Developer
+ Microsoft Learn
+ Support for AI marketplace apps
+ Microsoft Tech Community
+ Microsoft Marketplace
+ Software companies
+ Visual Studio
+ Other
+ Other
+ Microsoft Rewards 
+ Free downloads & security
+ Education
+ Gift cards
+ Licensing
+ Unlocked stories
+ View Sitemap
+ Search
+ Search for help
+ No results
+ Cancel
+ Sign in
+ Sign in with Microsoft
+ Sign in or create an account.
+ Hello,
+ Select a different account.
+ You have multiple accounts
+ Choose the account you want to sign in with.
+ Frequently asked questions about Microsoft Designer
+ What is Microsoft Designer?
+ Microsoft Designer is a graphic design tool that helps you create, design, and edit effortlessly, when and where you need it. Designer uses the power of generative AI to create eye-catching images with your words, craft next-level designs that pop, and edit photos like an expert. Designer is integrated across the web and throughout Microsoft apps and tools, so you can get help visualizing ideas, enhancing projects, and editing photos. Designer creates Al-powered visual designs and helps to edit images, keeping your creativity flowing wherever you go. 
+ Designer is available for personal use with a Microsoft account.
+ Get started
+ Select a heading below for more information 
+ What can Microsoft Designer do?
+ Designer is powered by AI to make it easy, fast, and fun to create designs and edit images – no experience required. Here are some of the things Designer can do for you:
+ Give your ideas a boost with AI 
+ Simply describe what you want to create, and Designer can transform your words and ideas into one-of-a-kind custom greeting cards, invitations, images, stickers, collages, and more, all powered by AI.
+ Get picture-perfect edits that meet your needs 
+ Refine your photos and designs in no time with Designer. Edit, enhance, and personalize your ideas with easy-to-use AI tools to get help erasing unwanted distractions, blurring or removing backgrounds, framing, and upscaling images, adding AI-generated text, and more.
+ Create and edit across your favorite Microsoft apps 
+ Create unique images using just a text description with Designer when you're using Microsoft apps like Microsoft Word and Microsoft PowerPoint.
+ With a Copilot Pro subscription, when you're in Word and PowerPoint on the web, select the Copilot icon and describe an image you'd like to create. Those who have a separate Microsoft 365 Personal or Family subscription can also use Copilot in the more fully featured apps.
+ What can Microsoft Designer be used for?
+ Create just about anything you can imagine with Designer, whether you want to make a personalized greeting card for your friend from elementary school, a themed invitation for your next holiday party, congratulatory social posts, stickers to show off your school pride, frames for your photos, or images that bring your ideas to life. Upscale your images for better resolution, edit images by erasing unwanted objects, and removing or blurring the background to get it just how you want it.
+ Note
+ Designer is licensed for personal, non-commercial use with your Microsoft account.
+ How is Microsoft making sure Designer is used responsibly?
+ Microsoft is committed to creating responsible AI by design. Our work is guided by a core set of principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
+ We've put controls in place to help prevent the generation of harmful, offensive, or inappropriate images that violate our Code of Conduct
+. Prompts that you enter into Designer (a text description and any image(s) you give to Designer describing what you want to create) undergo abuse monitoring via internal content safety mechanisms. To allow us to effectively investigate and remediate cases where harmful content violating our responsible AI principles is being generated, when you use Designer, we collect data around the prompts you enter and how the Designer app and models have responded, in accordance with the Microsoft Privacy Statement
+.
+ We also use this data to provide, to support, and to improve the Designer service, consistent with the Microsoft Privacy Statement
+. For example, this information helps us understand which design recommendations are helpful and relevant to you.
+ While creating and sharing your designs, please be sure to follow the content policies as defined here Code of Conduct for the Azure OpenAI Service
+.
+ We also recommend referring to Designer's Terms of Use for information on approved terms of use for Designer:
+ Designer web app: Supplement to the Microsoft Services Agreement for Microsoft Designer for Consumers
+ Designer mobile apps: Microsoft Software License Terms: Microsoft Designer Consumer for iOS, iPad, and Android
+ For all images created with Designer's editing features, we have implemented content credentials, provenance based on the C2PA standard, to help people identify whether images were edited or generated with AI. Provenance metadata can be viewed on the Content Credentials site
+.
+ How do I get access to Microsoft Designer?
+ There are a few different ways to start using Designer:
+ Visit the web app at designer.microsoft.com.
+ Get the mobile app from the Apple App Store
+ or Google Play Store.
+ When using Word and PowerPoint, select the Copilot icon and describe what you'd like to create in Copilot Chat (note that a Copilot Pro subscription is required and, if you're using the desktop versions of Word and PowerPoint, you'll also need a Microsoft 365 subscription)
+ To use Designer, you'll need to sign in with a Microsoft account—they're free, and it takes just a few minutes to sign up for a Microsoft account
+.
+ Why do I get a message saying that Designer isn't available for my account or that some AI features in Designer aren't available for my account?
+ Some Designer features are powered by generative AI. The use of generative-AI features is limited to people who meet certain age requirements, which are different by region. You may be getting a message saying Designer or certain Designer features, like Upscale, aren't available for your account because you don't meet the age requirements for your region.
+ How do I share feedback about the Designer app?
+ We always welcome feedback to help us learn and improve. While using designer.microsoft.com, select Send feedback to report an issue, suggest improvements, or share what you like about Designer (in the Designer mobile app, select 
+ to send feedback).
+ You can also connect with us on Twitter or Instagram @msft365designer
+ or by joining the Microsoft Designer Community group on LinkedIn
+.
+ Is Microsoft Designer free to use?
+ Yes, Designer is free to use. A subscription may be required for those who want to create more frequently.
+ Feature details
+ Note
+ Responsible AI 
+All images generated using AI features in Designer will have metadata attached to the files to identify the source (content credentials). We've put controls in place to prevent the upload or generation of harmful images when using Designer.
+ Note
+ Due to the underlying image creation technology, any text in the generated images may not be in the requested language or may have spelling errors.
+ Banners 
+ Use this feature to add visual appeal to your next document, email, or announcement. Enter a description of the banner you want to create, add any images you'd like to include, and select a dimension, and AI generates a banner for you
+ Use Explore ideas to find an example to help you get started. Select an example banner to preload the prompt, then edit the prompt text to best describe the specific banner you want to create.
+ Select Generate and AI creates banner options for you to choose from.
+ Select the banner you like then select Download , where you can download it as is to your device, send it to your phone using a QR code, or copy the image and paste it right into a file or email. Want to make further changes? Select Edit to open the banner in the Designer canvas.
+ Find your banners later in My creations .
+ Brand kits 
+ With this feature, you can use AI to create brand kits that include a personal logo, brand voice, font and colors. Brand kits can easily be applied to any design you create with Designer to help make sure your creations always align with your personal brand for things like your book club, family reunion, recreational sports club, and other personal groups.
+ Note
+ Designer is licensed for personal, non-commercial use with your Microsoft account.
+ This feature takes your personal brand name and brand description and generates brand kit suggestions for you with logos, color palettes, fonts, and a personal brand voice. You can also upload your own logos to help further customize your brand kit.
+ Note
+ Currently, only one brand kit can be saved at a time.
+ Select Brand kits on the Designer home page
+ ⁠.⁠ 
+ Enter a brand name and descriptionof the brand mission.
+ Select Generate and AI takes the information you've entered to create a brand kit including a logo, font, color palette, and brand voice.
+ Download your results as is or select Save brand .
+ You can apply your personal brand logo, brand color palette, and brand font to designs, and brand voice to text when creating with Designer.
+ Find your saved brand kit in the left menu when using the Designer canvas to edit or create.
+ Collages 
+ Use this feature to create collages of multiple images surrounded by personalized AI-generated frames.
+ This feature takes up to 10 uploaded images, a description of objects or themes to customize the collage, and the optional selection of a style to generate a custom collage complete with a frame. You can select an example in Explore ideas to preload elements and a style and apply those to your uploaded image.
+ Tip
+ The generated collage image can be downloaded, sent to your phone, and copied and can be edited further by opening it in the Designer canvas and using the available editing features.
+ Explore ideas has a variety of examples to help you get started. Select an idea to use the same elements and style with your image.
+ Select Images to upload up to 10 photos or images.
+ Use Elements to describe additional objects or themes you want to apply to your collage.
+ Under Style , select from a variety of styles to use for your collage.
+ Select Generate and AI takes the information you've entered to create your collage.
+ Download your results as is or continue to edit with Designer.
+ Find your collages in My collages .
+ Enhance prompt 
+ This feature builds on your original prompt, adding detail to help generate high quality images. You'll find enhance prompt when creating images.
+ This feature takes a written description of an image you want to create and generates a descriptive high-quality prompt.
+ Type in a prompt then select Enhance prompt and AI will rewrite your original prompt.
+ Edit the enhanced prompt however you'd like.
+ Select Generate and AI generates images.
+ Download your images or select Edit to edit in Designer.
+ Find your images in  My creations .
+ Frame image 
+ The feature adds personalized AI-generated frames to images, taking a single uploaded image, a description of objects or themes (called elements), and the optional selection of a style to generate a custom frame around the original image. People can select a tile in Explore ideas to preload elements and a style and apply those to an uploaded image.
+ Tip
+ The generated image can be downloaded, sent to your phone, and copied, and can be edited further by opening it in the Designer canvas and using the available editing features.
+ Explore ideas has a variety of examples to help you get started. Select an idea to use the same elements and style for your frame.
+ Select Images to upload your photo or image.
+ Use Elements to describe additional objects or themes you want to add to your frame.
+ Under Style , select a style to apply to your frame.
+ Select Generate and AI takes the information you've entered to create a custom frame around your image.
+ Download your results as is or continue to edit with Designer.
+ Find your frame in My creations .
+ Generate text 
+ Use a text prompt to generate text suggestions or refine existing text content with the help of AI.
+ On the Designer canvas, select Text and type a description of what you want the text to say into the prompt box. Select Generate and AI will create several text options for you.
+ Select any of the generated options to add the text to your design or image.
+ Alternatively, select any text box that's already on your design or image and then select Rewrite . AI will generate an alternative version of the text you selected.
+ Generative erase 
+ Use this feature to remove unwanted objects or areas from photos or other images.
+ This feature takes your original image as well as a selected area to be erased and creates a modified version of the image with the selected area erased.
+ Quick select is for auto-selecting the erase area by clicking on any object in the photo or image.
+ Brush select is for manually selecting the area to erase by drawing a mask on the photo or image.
+ Start over is for re-doing the mask that indicates what parts of the image or photo should be erased.
+ Erase object uses Designer's model to erase specified areas within the photo or image.
+ The X control exits out of experience.
+ Report is used to report any issues.
+ Looks good accepts the result of erase and updates the photo or image accordingly.
+ Greeting cards 
+ With this feature, describe the card you want, and AI will create it for you.
+ This feature takes a written description of a card and creates an animated digital greeting card with an AI-generated image and a written message. 
+ Tip
+ The message text inside the card can be edited further by selecting Edit text . When done, the generated card can be downloaded and shared.
+ Use Explore ideas to find examples to help you get started. Select an example tile to preload the card prompt template which can be edited to fit your recipient and the occasion or write your own text description of the card you want to create.
+ Select Generate and AI takes the information you've entered to create your cards.
+ Download your results as is or select Edit text to make changes.
+ Find your cards in My creations .
+ Invitations 
+ Use this feature to create invitations quickly from a prompt and use AI to add personalized details.
+ This feature takes a description of an occasion—along with other related invitation details including date, time, location, RSVP, style and theme—to generate 1-5 invitation options. These generated invitations are vertical designs so they're easy to use and share using mobile devices.
+ You can select an example in Explore ideas to preload invitation details and a style.
+ Tip
+ The generated invitation can be downloaded as an image, sent to your phone, and copied, and can be edited further by opening it in the Designer canvas and using the available editing features.
+ Explore ideas has a variety of examples to help you get started. Select an idea to use the same invitation details and style with your design as a starting point.
+ If you want, add or update the example with the details of your invitation or event.
+ Select Generate and AI takes the information you've entered to create your invitation.
+ Download your invitation or continue to edit it with Designer.
+ Find your invitations My creations .
+ Social posts 
+ Create for social media with social posts. Describe your post, add images, select the best size for your platform, and watch your ideas come to life.
+ Use Explore ideas to find an example to help you get started. Select a design to preload the prompt and size. Edit the prompt as needed.
+ Select Images to upload your photos.
+ Feel free to change the Size to match your desired platform.
+ Select Generate and then select Download to save your post as is or continue to edit with Designer.
+ Find your designs in My creations .
+ Upscale 
+ Note
+ This feature is only available to people who meet certain age requirements, which varies by region. 
+ Use this feature to improve the resolution of your image (also known as upscaling) to achieve higher quality images perfect for use in digital or print artifacts.   
+ The AI model used in this feature removes the noise identified in the image and upscales the image pixels to replace the previous low-resolution pixels with high-resolution ones. Your starting image can be upscaled up to 4K resolution.  
+ How do I save designs and where are my Designer files stored?
+ Designs you make with Designer are automatically saved to the cloud and you can return to them at any time by going to Designer and selecting My projects . Your Designer files count towards your universal Microsoft storage quota. For additional storage, subscribe to Microsoft 365
+.
+ Warning
+ Your Designer projects and images contribute to your Microsoft cloud storage, and if you exceed your storage quota you may not be able to save additional files, send or receive email, or do other activities that require Microsoft cloud storage. Learn more
+.
+ What happens to the personal images I upload to Designer? Where do they go and are they safe and secure?
+ When you upload personal images to Designer, they're saved to your OneDrive, where they are safe, secure, and protected.
+ How do I delete Designer files?
+ To delete files created with Designer, open Designer and go to My projects . Hover your mouse over a file you want to delete, select ⁠…⁠ , and then select Delete .
+ To delete files you've uploaded to Designer, go to your OneDrive and delete the files you no longer need.
+ When you delete files, it frees up space from your universal Microsoft Storage quota.
+ Warning
+ Designer doesn't have a recycle bin. When a project file is deleted, it can't be recovered.
+ Learn more
+ Frequently asked questions: AI, Microsoft Copilot, and Microsoft Designer
+ Was this information helpful?
+ Yes
+ No
+ Thank you! Any more feedback for Microsoft?
+ Can you help us improve?
+ (Send feedback to Microsoft so we can help.)
+ What affected your experience? 
+ Resolved my issue
+ Clear instructions
+ Easy to follow
+ No jargon
+ Pictures helped
+ Other
+ Didn't match my screen
+ Incorrect instructions
+ Too technical
+ Not enough information
+ Not enough pictures
+ Other
+ Any additional feedback? (Optional) 
+ Submit feedback
+ By pressing submit, your feedback will be used to improve Microsoft products and services.
+ Your IT admin will be able to collect this data.
+ Privacy Statement.
+Thank you for your feedback!
+ &times;
+ What's new
+ Surface Laptop Ultra
+ Surface Pro
+ Surface Laptop
+ Surface RTX Spark Dev Box
+ Explore Copilot
+ Explore Microsoft products
+ Windows 11 apps
+ Microsoft Store
+ Account profile
+ Download Center
+ Microsoft Store support
+ Returns
+ Order tracking
+ Certified Refurbished
+ Why buy from Microsoft Store
+ Flexible Payments
+ Education
+ Microsoft in education
+ Devices for education
+ Microsoft Teams for Education
+ Microsoft 365 Education
+ How to buy for your school
+ Educator training and development
+ Deals for students and parents
+ AI for education
+ Business
+ Microsoft AI
+ Microsoft Security
+ Dynamics 365
+ Microsoft 365
+ Microsoft Power Platform
+ Microsoft Teams
+ Microsoft Copilot
+ Small Business
+ Developer & IT
+ Azure
+ Microsoft Developer
+ Microsoft Learn
+ Support for AI marketplace apps
+ Microsoft Tech Community
+ Microsoft Marketplace
+ Software companies
+ Visual Studio
+ Company
+ Careers
+ About Microsoft
+ Company news
+ Privacy at Microsoft
+ Investors
+ Diversity and inclusion
+ Accessibility
+ Sustainability
+ English (United States)
+ Your Privacy Choices
+ Consumer Health Privacy
+ Sitemap
+ Contact Microsoft
+ Privacy 
+ Manage cookies
+ Terms of use
+ Trademarks
+ Safety & eco
+ Recycling
+ About our ads
+ © Microsoft 2026
