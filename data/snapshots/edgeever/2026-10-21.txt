@@ -1,0 +1,244 @@
+#SNAPSHOT {"url":"https://edgeever.org/en","finalUrl":"https://edgeever.org/en/","fetchedAt":"2026-10-21T04:46:01.563Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"6f507c7bb9ab063787c7d5a8ed670431a6ddb0751f55387b7af43aa170764714"}
+--> EdgeEver - AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker. Edge
+ Ever
+ Features
+ Deploy
+ Cloudflare
+ Docker
+ Guides
+ Evernote alternative
+ Migrate from Evernote
+ Migrate from Memos
+ Migrate from Notion
+ Migrate from Flomo
+ AI Agent plays
+ Blog
+ English
+ 简体中文
+ English
+ ✓
+ 日本語
+ Polski
+ Open Source
+ Features
+ Deploy
+ Cloudflare
+ Docker
+ Guides
+ Evernote alternative
+ Migrate from Evernote
+ Migrate from Memos
+ Migrate from Notion
+ Migrate from Flomo
+ AI Agent plays
+ Blog
+ English
+ 简体中文
+ English
+ ✓
+ 日本語
+ Polski
+ Open Source
+ 💡 All Platforms: macOS, Windows, Linux, iOS, Android, Web Clipper · Native MCP & ACP Synergy · Cloudflare Free Tier & Docker
+ EdgeEver
+ Classic Three-Pane AI Workspace · Native AI Synergy · Multi-Platform Apps
+ AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker.
+ Live demo
+ --
+ --
+ Deploy with AI
+ Get Apps:
+ macOS
+ Windows
+ Linux
+ iOS
+ Android
+ Clipper
+ demo.edgeever.org
+ Apps Across Platforms, Flexible Deploy & AI Synergy
+ From macOS, native iOS & Android apps to Docker self-hosting, styled creator copying, and Remote MCP collaboration.
+ macOS Desktop
+ Electron + Rust + SQLite
+ Local SQLite mirror with ACP local agent support, focus mode & instant offline capture
+ iOS Native App
+ Native SwiftUI Architecture
+ Published on App Store with share-sheet clipping, undo/redo & offline SQLite sync
+ Android App
+ Google Play & Signed APK
+ Available on Google Play with offline editing, undo/redo & share-sheet clipping
+ Web Clipper
+ Chrome, Edge & Firefox
+ Published on all stores: clip full pages, right-click images, X posts & selections
+ Visual Diagrams
+ Mind Maps, Flowcharts & Architectures
+ Native diagramming in notes with auto-layout, 1-prompt AI generation & vector export
+ Local ACP Synergy
+ Direct Local Agent Connection
+ Desktop connects directly via ACP to Codex, Antigravity, Claude Code, WorkBuddy, DeepSeek
+ Companion Sidebar
+ Persistent Sidebar & Text Selection Actions
+ Multi-chat switching with instant explain, translate, proofread & rewrite for selections
+ Docker Deploy
+ VPS & NAS 1-Line Install
+ Fast curl deployment with scalable storage, supporting local disks and S3 buckets
+ Creator Styling
+ Styled Copy & Custom Note CSS
+ One-click styled copy for newsletters; customize font size, line height & light/dark CSS
+ Data Sovereignty
+ Lossless ZIP Archive
+ Standard SQLite with lossless export of Markdown, attachments & revision history
+ macOS Desktop
+ Electron + Rust + SQLite
+ Local SQLite mirror with ACP local agent support, focus mode & instant offline capture
+ iOS Native App
+ Native SwiftUI Architecture
+ Published on App Store with share-sheet clipping, undo/redo & offline SQLite sync
+ Android App
+ Google Play & Signed APK
+ Available on Google Play with offline editing, undo/redo & share-sheet clipping
+ Web Clipper
+ Chrome, Edge & Firefox
+ Published on all stores: clip full pages, right-click images, X posts & selections
+ Visual Diagrams
+ Mind Maps, Flowcharts & Architectures
+ Native diagramming in notes with auto-layout, 1-prompt AI generation & vector export
+ Local ACP Synergy
+ Direct Local Agent Connection
+ Desktop connects directly via ACP to Codex, Antigravity, Claude Code, WorkBuddy, DeepSeek
+ Companion Sidebar
+ Persistent Sidebar & Text Selection Actions
+ Multi-chat switching with instant explain, translate, proofread & rewrite for selections
+ Docker Deploy
+ VPS & NAS 1-Line Install
+ Fast curl deployment with scalable storage, supporting local disks and S3 buckets
+ Creator Styling
+ Styled Copy & Custom Note CSS
+ One-click styled copy for newsletters; customize font size, line height & light/dark CSS
+ Data Sovereignty
+ Lossless ZIP Archive
+ Standard SQLite with lossless export of Markdown, attachments & revision history
+ WHY EDGEEVER
+ Rebuilt for Self-Hosted Knowledge & AI Workflows
+ Say goodbye to ads, device caps, and expensive subscriptions. Every detail is crafted for a fast, open, and private second brain.
+ Classic UI
+ Dual View / Focus Mode / Custom CSS
+ Classic Three-Pane Layout, Faster & Lighter
+ Preserves the classic three-pane productivity workflow (Tree View · Note List · Editor). Switch freely between rich text and Markdown source, with unlimited nesting depth, focus mode, and light/dark custom CSS presets.
+ Notebooks
+ 01_Work_Inbox
+ 02_Ideas_Drafts
+ 03_Archive_Notes
+ Notes (18)
+ EdgeEver Architecture
+ Cloudflare Workers / Docker & SQLite...
+ Local ACP Agent Connection
+ Codex / Antigravity local synergy...
+ EdgeEver Architecture
+ TipTap
+ EdgeEver combines the classic 3-pane layout with AI Agent synergy and flexible deployment options.
+ Auto-saved to SQLite
+ AI Native
+ ACP + Remote MCP
+ Companion Sidebar & Local ACP Synergy
+ The persistent companion sidebar supports multi-chat threads and instant text selection actions. Desktop connects directly to local coding agents via ACP (Codex, Antigravity, Claude Code, WorkBuddy), while Remote MCP allows external agents to read and organize notes.
+ ACP Local Agent & Sidebar Ready
+ Codex / Antigravity / Claude Code
+ >
+ > Analyze selected text & expand mind map
+ Core insights extracted. Structured mind map branches created in the note.
+ Flexible Deploy
+ Cloudflare Native / Docker
+ Cloudflare Free Tier, or 1-Line Docker Deploy
+ Personal use typically fits within Cloudflare's free tier (about 150k notes & 50k images), or deploy with Docker on your VPS, NAS, or private server and scale storage as needed.
+ $0 / mo
+ Within Cloudflare's Free Tier
+ 150,000+
+ Free Note Capacity (Scalable with Docker)
+ Creator Tools
+ Diagrams / Flowcharts / Styled Copy
+ Visual Diagram Notes & One-Click Styled Copy
+ Create native mind maps, flowcharts, and architecture diagrams directly in notes with one-prompt AI generation and auto-layout. One-click Markdown conversion to styled HTML for Substack, Medium, or WeChat, plus native Mermaid & LaTeX.
+ Visual Diagrams / Styled Copy
+ Generate & Copy
+ # Mind Maps, Flowcharts & Styled Copy
+ Structured diagrams sync across devices with vector export; rich text pastes cleanly into Substack or newsletter editors.
+ Data Sovereignty
+ Multi-Platform + ZIP
+ Apps Across Platforms & Lossless ZIP Backup
+ Available on macOS, Windows, Linux, native iOS (SwiftUI), Android, and full-featured Web Clipper. Lossless ZIP export and standard SQLite ensure total ownership.
+ edgeever-backup.zip
+ Markdown + Attachments + Revision History
+ EdgeEver Guides
+ Deploy, migrate, and put AI agents to work
+ The fastest paths into EdgeEver: deploy your own instance, move an existing Evernote archive, then connect MCP-powered AI workflows.
+ Choose how to deploy EdgeEver
+ Use an AI Agent or manual setup for Cloudflare, or run a one-line Docker installer on a VPS or NAS.
+ Read deployment guide
+ Migrate from Evernote
+ Use EdgeEver MCP, evernote-backup, and the ENEX import script to migrate an old notes library into your self-hosted instance.
+ Read migration guide
+ AI Agent advanced play
+ Turn real notes into knowledge maps, tag cleanup plans, and higher-level personal knowledge workflows through MCP.
+ Explore workflows
+ Built with a modern, efficient technology stack
+ React
+ Cloudflare
+ Docker
+ Rust
+ Electron
+ Swift
+ Expo
+ Bun
+ Tailwind CSS
+ SQLite
+ Hono
+ React
+ Cloudflare
+ Docker
+ Rust
+ Electron
+ Swift
+ Expo
+ Bun
+ Tailwind CSS
+ SQLite
+ Hono
+ React
+ Cloudflare
+ Docker
+ Rust
+ Electron
+ Swift
+ Expo
+ Bun
+ Tailwind CSS
+ SQLite
+ Hono
+ React
+ Cloudflare
+ Docker
+ Rust
+ Electron
+ Swift
+ Expo
+ Bun
+ Tailwind CSS
+ SQLite
+ Hono
+ Copyright © 2026 EdgeEver. All rights reserved.
+ Thanks
+ •
+ Evernote alternative
+ •
+ Docker
+ •
+ Migrate from Evernote
+ •
+ Contact
+ •
+ Privacy
+ •
+ GitHub
+
+#JSONLD (structured data published on the page, verbatim)
+[{"@context":"https://schema.org","@type":"WebSite","name":"EdgeEver","alternateName":"EdgeEver Evernote Alternative","url":"https://edgeever.org/en/","inLanguage":"en-US","description":"EdgeEver is an open-source, AI-native, self-hosted Evernote alternative across macOS, Windows, Linux, iOS, Android, and Web Clipper with Cloudflare & Docker deployment.","keywords":["Evernote alternative","open-source notes app","self-hosted notes app","AI notes app"]},{"@context":"https://schema.org","@type":"SoftwareApplication","name":"EdgeEver","alternateName":"EdgeEver Evernote Alternative","url":"https://edgeever.org/en/","codeRepository":"https://github.com/tianma-if/edgeever","applicationCategory":"ProductivityApplication","operatingSystem":"macOS, Windows, Linux, iOS, Android, Web, Chrome, Edge, Firefox","isAccessibleForFree":true,"description":"EdgeEver is an open-source, AI-native, self-hosted knowledge base with a classic three-pane productivity workflow (Tree View · Note List · Editor), apps across macOS, Windows, Linux, iOS, Android and browsers, plus REST API, MCP and ACP protocols for local and remote AI agents.","keywords":["Evernote alternative","open-source notes app","self-hosted notes app","AI notes app"]}]

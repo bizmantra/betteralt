@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-19T03:43:59.514Z",
+ "generatedAt": "2026-10-21T04:46:52.952Z",
  "maxAgeDays": 14,
- "linkCheck": "183 links checked, 0 dead",
+ "linkCheck": "196 links checked, 0 dead",
  "tools": {
   "chatgpt": {
    "verified": true,
@@ -858,6 +858,71 @@
    "verified": true,
    "checkedAt": "2026-10-19",
    "snapshot": "data/snapshots/plane/2026-10-19.txt"
+  },
+  "voicestudio": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/voicestudio/2026-10-21.txt"
+  },
+  "voicebox": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/voicebox/2026-10-21.txt"
+  },
+  "photocraft": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/photocraft/2026-10-21.txt"
+  },
+  "compositor": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/compositor/2026-10-21.txt"
+  },
+  "concat": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/concat/2026-10-21.txt"
+  },
+  "filmcraft": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/filmcraft/2026-10-21.txt"
+  },
+  "instatic": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/instatic/2026-10-21.txt"
+  },
+  "mailcheap": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/mailcheap/2026-10-21.txt"
+  },
+  "edgeever": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/edgeever/2026-10-21.txt"
+  },
+  "itsaplan": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/itsaplan/2026-10-21.txt"
+  },
+  "genoffice": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/genoffice/2026-10-21.txt"
+  },
+  "wordcraft": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/wordcraft/2026-10-21.txt"
+  },
+  "open-codesign": {
+   "verified": true,
+   "checkedAt": "2026-10-21",
+   "snapshot": "data/snapshots/open-codesign/2026-10-21.txt"
   }
  },
  "dead": [],

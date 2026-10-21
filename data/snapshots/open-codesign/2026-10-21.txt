@@ -1,0 +1,142 @@
+#SNAPSHOT {"url":"https://opencoworkai.github.io/open-codesign/","finalUrl":"https://opencoworkai.github.io/open-codesign/","fetchedAt":"2026-10-21T04:46:01.708Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"d648270c9a736e2829db4cf45253c9ced2d1e1773875782183601f5c6295bf1c"}
+Open CoDesign | Open-Source AI Design Tool — BYOK, Local-First, MIT 
+ Skip to content
+ Open CoDesign
+ Main Navigation 
+ Home
+ Features
+ Quickstart
+ Compare
+ vs Claude Design
+ vs v0 by Vercel
+ vs Lovable
+ vs Bolt.new
+ vs Figma AI
+ Architecture
+ Roadmap
+ FAQ
+ Changelog
+ English
+ 中文
+ English
+ 中文
+ Appearance
+ Open CoDesign
+ Design with intent.
+ An open-source desktop AI design tool. v0.2.0 brings Agentic Design with workspace-backed sessions, permissioned local tools, lazy skills, and DESIGN.md design systems.
+ Download for macOS
+ Star on GitHub
+ Quickstart (90 s)
+ 🪶
+ Bring your own model
+ Anthropic, OpenAI, Gemini, DeepSeek, OpenRouter, SiliconFlow, local Ollama, ChatGPT subscription login, or any OpenAI-compatible relay — including keyless (IP-allowlisted) proxies. Switch providers in Settings. We don't proxy, we don't charge per token.
+ ⚡
+ Import in one click
+ Already using Claude Code or Codex? Open CoDesign reads existing API-key provider configs, and ChatGPT subscription users can sign in directly from Settings.
+ 🏡
+ Your laptop is the cloud
+ Designs, prompts, and settings stay on disk. v0.2 stores design sessions in JSONL and keeps generated sources in real workspace files. No mandatory account, no telemetry by default.
+ 🪄
+ Twelve design skills, not magic
+ Twelve built-in design skill modules ship out of the box — dashboards, landing pages, slide decks, pricing pages, chat UIs, data tables, calendars, glassmorphism, editorial typography and more. Drop a SKILL.md into any project to teach the model your own taste.
+ 🎚️
+ AI-tuned sliders
+ The model emits the parameters worth tweaking — color, spacing, font — and you drag to refine. No round-tripping the LLM for every nudge.
+ 🔀
+ Instant design switching
+ Hop between your last five designs with zero delay. Preview iframes stay alive in memory, so there is no reparse, white flash, or reload wait.
+ 📱
+ Desktop, tablet, phone
+ Preview any artifact in a true phone frame or tablet width, side-by-side with the full canvas. See the responsive story before you export.
+ 💬
+ Comment, don't retype
+ Click any element in the preview to drop a pin. Leave a note. The model rewrites only that region — no more re-prompting the whole page to move a button.
+ 🧬
+ v0.2: Agentic Design
+ Each design is now a long-running session with a real workspace. The agent can read, edit, run permissioned tools, preview its work, and keep design-system decisions in files.
+ 📐
+ DESIGN.md as memory
+ Brand values and design tokens live in DESIGN.md, not model memory. Bring your own design system, or let the agent write one as the artifact evolves.
+ 💸
+ Cost transparency
+ Token estimate before each generation. Weekly spend in the toolbar. Set a budget, get warned, never get surprised. Coming soon.
+ 🚢
+ Five exports, real files
+ HTML (inlined CSS), PDF (via your local Chrome), PPTX, ZIP, and Markdown — all generated on-device. No Canva detour.
+ 其他平台 / Other platforms macOS · Apple Silicon 135 MB
+ macOS · Intel 140 MB
+ Windows · x64 ~110 MB
+ Windows · ARM64 ~100 MB
+ Linux · AppImage (x64) ~140 MB
+ Linux · Snap (x64) ~140 MB
+ 所有版本 / All releases on GitHub → 
+ macOS 用户 ：下载 .dmg 后，Sequoia 15+ 装完需要跑一次 xattr -cr "/Applications/Open CoDesign.app" 才能双击打开。 Windows ：SmartScreen → 更多信息 → 仍要运行。 
+ How it works ​
+ 1
+ Bring your own route
+ Use an API key, ChatGPT subscription sign-in, local Ollama, or any OpenAI-compatible endpoint pi-ai speaks. No vendor lock-in.
+ 2
+ Type a prompt
+ Pick one of fifteen built-in demos — landing page, dashboard, pitch slide, pricing page, mobile app, chat UI, calendar, blog article, receipt, portfolio, email, and more — or describe your own. The first design renders in seconds in a sandboxed iframe.
+ 3
+ Refine, export, hand off
+ Inline comments, AI sliders, and local files. Export to HTML, PDF, PPTX, ZIP, or Markdown — all on-device.
+ Take a closer look ​
+ Six moments from the app — from first launch to region-level rewrites.
+ Comment, don't retype. Drop pins on the preview; the model rewrites just that region. AI-tuned sliders. The model emits the parameters worth tweaking. Drag, don't re-prompt. Watch the agent work. Todos, tool calls, and streamed reasoning — always visible, always interruptible. Every iteration, kept. Designs are saved locally; v0.2 stores sessions in JSONL plus real workspace files. Fifteen demo briefs. Landing, dashboard, pricing, pitch deck, chat UI — one click to see Open CoDesign in action. Bring your own model. Import Claude Code / Codex API-key configs, sign in with ChatGPT, or pick any OpenAI-compatible provider. 
+ Watch a design come to life ​
+ From a blank prompt to a finished artifact — the agent plans, writes, self-checks, and hands you something with hover states, tabs, and empty states already wired up.
+ How it compares ​
+ We are not faster than Claude Design. We are different — open, multi-model, and local-first. The open-source alternative for teams that can't afford subscription lock-in or cloud data exposure.
+ Open source
+ Models
+ Runs locally
+ Pricing
+ Open CoDesign 
+ MIT 
+ Any (BYOK / ChatGPT login) 
+ ✓ 
+ Provider or subscription cost only 
+ Claude Design
+ ✗ Closed
+ Opus only
+ ✗
+ Subscription
+ v0 by Vercel
+ ✗ Closed
+ Curated
+ ✗
+ Subscription
+ Lovable
+ ✗ Closed
+ Curated
+ ✗
+ Subscription
+ Bolt.new
+ Partial
+ Curated
+ ✗
+ Subscription
+ Trusted by builders ​
+ ⭐ Star us on GitHub — every star helps more builders find an open alternative.
+ GitHub
+ Bug reports, feature requests, and async discussion all happen in Issues. Security issues → SECURITY.md
+.
+ Open Issues →
+ WeChat (中文社群)
+ Chinese-speaking users chat in our WeChat group — the QR lives in the Chinese landing page
+. Codes rotate every 7 days; we refresh in-repo.
+ View QR →
+ Ready to design without the lock-in? ​
+ Get started in 90 seconds →
+ View on GitHub
+ Released under the MIT License
+. · Contribute
+ · Issues
+ © 2026-present OpenCoworkAI
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"WebSite","@id":"https://opencoworkai.github.io/open-codesign/#website","name":"Open CoDesign","url":"https://opencoworkai.github.io/open-codesign/","description":"Open-source desktop AI design tool with BYOK model support, local-first storage, and MIT licensing.","inLanguage":["en-US","zh-CN"],"publisher":{"@id":"https://opencoworkai.github.io/open-codesign/#organization"},"about":{"@id":"https://opencoworkai.github.io/open-codesign/#software"},"sameAs":["https://github.com/OpenCoworkAI/open-codesign","https://github.com/OpenCoworkAI","https://twitter.com/OpenCoworkAI"],"hasPart":["https://opencoworkai.github.io/open-codesign/quickstart","https://opencoworkai.github.io/open-codesign/architecture","https://opencoworkai.github.io/open-codesign/roadmap","https://opencoworkai.github.io/open-codesign/faq","https://opencoworkai.github.io/open-codesign/claude-design-alternative","https://opencoworkai.github.io/open-codesign/project.json","https://opencoworkai.github.io/open-codesign/site-index.json","https://opencoworkai.github.io/open-codesign/faq.json","https://opencoworkai.github.io/open-codesign/llms.txt","https://opencoworkai.github.io/open-codesign/llms-full.txt"]}
+{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://opencoworkai.github.io/open-codesign/#software","name":"Open CoDesign","alternateName":"open-codesign","description":"Open-source desktop AI design tool. The open-source alternative to Anthropic Claude Design. Prompt to interactive prototype, slide deck, and marketing assets. Multi-model BYOK, local-first.","url":"https://opencoworkai.github.io/open-codesign/","mainEntityOfPage":{"@id":"https://opencoworkai.github.io/open-codesign/#website"},"applicationCategory":"DesignApplication","operatingSystem":"macOS, Windows, Linux","softwareVersion":"0.2.0","releaseNotes":"https://github.com/OpenCoworkAI/open-codesign/releases/tag/v0.2.0","downloadUrl":"https://github.com/OpenCoworkAI/open-codesign/releases","screenshot":["https://opencoworkai.github.io/open-codesign/screenshots/product-hero.png","https://opencoworkai.github.io/open-codesign/screenshots/comment-mode.png"],"applicationSubCategory":"AI Design Tool","isAccessibleForFree":true,"featureList":["Prompt-to-HTML prototype generation","Bring your own model key, local endpoint, enterprise proxy, or subscription login","Local-first storage for prompts, designs, settings, and generated files","Export to PDF, PPTX, ZIP, Markdown","Multi-model switching without re-login","One-click import of Claude Code / Codex API keys","AI image generation for design assets","Design history with snapshots and rollback"],"offers":{"@type":"Offer","price":"0","priceCurrency":"USD","description":"Free and open source. Bring your own API key (token cost only)."},"license":"https://github.com/OpenCoworkAI/open-codesign/blob/main/LICENSE","codeRepository":"https://github.com/OpenCoworkAI/open-codesign","author":{"@type":"Organization","@id":"https://opencoworkai.github.io/open-codesign/#organization","name":"OpenCoworkAI","url":"https://github.com/OpenCoworkAI"},"subjectOf":[{"@type":"CreativeWork","name":"Open CoDesign llms.txt","url":"https://opencoworkai.github.io/open-codesign/llms.txt","encodingFormat":"text/markdown"},{"@type":"CreativeWork","name":"Open CoDesign full AI-readable context","url":"https://opencoworkai.github.io/open-codesign/llms-full.txt","encodingFormat":"text/markdown"},{"@type":"Dataset","name":"Open CoDesign project facts","url":"https://opencoworkai.github.io/open-codesign/project.json","encodingFormat":"application/json"},{"@type":"Dataset","name":"Open CoDesign site index","url":"https://opencoworkai.github.io/open-codesign/site-index.json","encodingFormat":"application/json"},{"@type":"Dataset","name":"Open CoDesign FAQ data","url":"https://opencoworkai.github.io/open-codesign/faq.json","encodingFormat":"application/json"}],"keywords":"Claude Design alternative, open source AI design, BYOK, local-first, Anthropic, Electron desktop app, prompt to prototype, React component generator, AI design tool"}
+{"@context":"https://schema.org","@type":"Organization","@id":"https://opencoworkai.github.io/open-codesign/#organization","name":"OpenCoworkAI","url":"https://github.com/OpenCoworkAI","logo":"https://opencoworkai.github.io/open-codesign/logo.png","sameAs":["https://github.com/OpenCoworkAI","https://twitter.com/OpenCoworkAI"]}
+{"@context":"https://schema.org","@type":"AboutPage","@id":"https://opencoworkai.github.io/open-codesign/#webpage","url":"https://opencoworkai.github.io/open-codesign/","name":"Open CoDesign","description":"Open CoDesign is an open-source desktop AI design tool with BYOK model support, local-first storage, and MIT licensing.","inLanguage":"en-US","isPartOf":{"@id":"https://opencoworkai.github.io/open-codesign/#website"},"about":{"@id":"https://opencoworkai.github.io/open-codesign/#software"},"publisher":{"@id":"https://opencoworkai.github.io/open-codesign/#organization"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://opencoworkai.github.io/open-codesign/og.svg","width":1200,"height":630}}
