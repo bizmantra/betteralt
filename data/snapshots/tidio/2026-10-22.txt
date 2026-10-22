@@ -1,0 +1,761 @@
+#SNAPSHOT {"url":"https://www.tidio.com/pricing/","finalUrl":"https://www.tidio.com/pricing/","fetchedAt":"2026-10-22T03:37:47.869Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"e0e77741c099f7532019c90d0063bd7613eab861e7ab09f64725435d54d41b6e"}
+Tidio Pricing—Find the Best Plan for Your Business Needs 
+ EN
+ notifications
+ Notifications
+ Welcome to Tidio
+ chevron_right
+ wand_shine
+ Tell us what you need and we&#x27;ll design an agent around it
+ arrow_right_alt
+ Try Lyro for free
+ chevron_right
+ Log in
+ Tidio
+ Reply faster to tickets across all channels
+ check
+ Ayro
+ arrow_outward
+ Hire AI to handle customer service
+ Tidio Agents
+ arrow_outward
+ Get a custom AI solution built by experts
+ Hubi AI
+ arrow_outward
+ Run on-brand marketing with an AI coworker
+ Discover out other products
+ Tidio
+ Reply faster to tickets across all channels
+ check
+ Ayro
+ arrow_outward
+ Hire AI to handle customer service
+ Tidio Agents
+ arrow_outward
+ Get a custom AI solution built by experts
+ Hubi AI
+ arrow_outward
+ Run on-brand marketing with an AI coworker
+ Lyro AI Agent
+ Lyro AI Agent
+ chevron_right
+ keyboard_return
+ See customer story
+ diamond
+ Discover Premium Plan
+ Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+ mail
+ Contact Sales
+ Product
+ chat_bubble
+ Live Chat
+ chevron_right
+ Lyro AI Agent
+ chevron_right
+ notification_multiple
+ Help Desk
+ chevron_right
+ family_history
+ Flows
+ chevron_right
+ apps
+ Integrations
+ chevron_right
+ arrow_outward
+ See all Tidio features
+ keyboard_return
+ See customer story
+ diamond
+ Discover Premium Plan
+ Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+ live_tv
+ Watch Demo
+ mail
+ Contact Sales
+ keyboard_return
+ See customer story
+ diamond
+ Discover Premium Plan
+ Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+ live_tv
+ Watch Demo
+ mail
+ Contact Sales
+ keyboard_return
+ See customer story
+ diamond
+ Discover Premium Plan
+ Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+ live_tv
+ Watch Demo
+ mail
+ Contact Sales
+ keyboard_return
+ See customer story
+ diamond
+ Discover Premium Plan
+ Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+ live_tv
+ Watch Demo
+ mail
+ Contact Sales
+ keyboard_return
+ See customer story
+ diamond
+ Discover Premium Plan
+ Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+ live_tv
+ Watch Demo
+ mail
+ Contact Sales
+ Pricing
+ Solutions
+ Teams
+ support_agent
+ Customer Service
+ payments
+ Marketing & Sales
+ Industries
+ shopping_cart
+ Ecommerce
+ approval_delegation
+ Services
+ auto_stories
+ Education
+ account_balance
+ Finance
+ computer
+ SaaS
+ travel
+ Travel
+ Resources
+ history_edu
+ Customer Stories
+ chevron_right
+ menu_book
+ Learn
+ chevron_right
+ trophy
+ Compare
+ chevron_right
+ support
+ Help Center
+ chevron_right
+ newsmode
+ Blog
+ chevron_right
+ diversity_3
+ Partner Programs
+ chevron_right
+ arrow_outward
+ See all Resources
+ Contact
+ See Tidio in action
+ Contact sales
+ Start for free
+ Contact sales
+ notifications
+ Notifications
+ Welcome to Tidio
+ chevron_right
+ wand_shine
+ Tell us what you need and we&#x27;ll design an agent around it
+ arrow_right_alt
+ Try Lyro for free
+ chevron_right
+ Your AI-powered plans
+ Lyro AI Agent + Tidio Help Desk
+ Combine AI and human conversations on the Tidio Platform
+ Flows automation for support & sales
+ Unified analytics and reporting
+ Lyro AI Agent only
+ Add an AI Agent to Zendesk, Salesforce, or any other help desk software
+ AI handles repetitive queries
+ Pay only for AI conversations
+ Combine AI and human conversations on the Tidio Platform
+ Calculate your costs based on your monthly usage needs
+ Billable conversations
+ Live conversations and tickets for your team
+ 50
+ 50
+ 100
+ 250
+ 400
+ 600
+ 800
+ 1 000
+ 1 500
+ 2 000
+ More
+ 50 Billable conversations / mo. 
+ 50 Billable conversations / mo. 
+ 100 Billable conversations / mo. 
+ 250 Billable conversations / mo. 
+ 400 Billable conversations / mo. 
+ 600 Billable conversations / mo. 
+ 800 Billable conversations / mo. 
+ 1 000 Billable conversations / mo. 
+ 1 500 Billable conversations / mo. 
+ 2 000 Billable conversations / mo. 
+ 2 000+ Billable conversations / mo. 
+ Lyro AI conversations
+ Automated by AI agent
+ 0
+ 0
+ 50
+ 100
+ 150
+ 200
+ 300
+ 500
+ 750
+ 1 000
+ More
+ 0 Lyro AI conversations / mo. 
+ 0 Lyro AI conversations / mo. 
+ 50 Lyro AI conversations / mo. 
+ 100 Lyro AI conversations / mo. 
+ 150 Lyro AI conversations / mo. 
+ 200 Lyro AI conversations / mo. 
+ 300 Lyro AI conversations / mo. 
+ 500 Lyro AI conversations / mo. 
+ 750 Lyro AI conversations / mo. 
+ 1 000 Lyro AI conversations / mo. 
+ 1 000+ Lyro AI conversations / mo. 
+ Visitors reached with Flows
+ Proactive chat automation
+ 100
+ 100
+ 2 000
+ 3 000
+ 5 000
+ 10 000
+ 15 000
+ 20 000
+ 30 000
+ 40 000
+ 50 000
+ 75 000
+ 100 000
+ More
+ 100 visitors reached / mo. 
+ 100 visitors reached / mo. 
+ 2 000 visitors reached / mo. 
+ 3 000 visitors reached / mo. 
+ 5 000 visitors reached / mo. 
+ 10 000 visitors reached / mo. 
+ 15 000 visitors reached / mo. 
+ 20 000 visitors reached / mo. 
+ 30 000 visitors reached / mo. 
+ 40 000 visitors reached / mo. 
+ 50 000 visitors reached / mo. 
+ 75 000 visitors reached / mo. 
+ 100 000 visitors reached / mo. 
+ 100 000+ visitors reached / mo. 
+ Recommended plan
+ Custom plan
+ Higher quota is available on Plus and Premium plans. For more than 2 000 billable conversations, 1 000 Lyro AI conversations or 100 000 visitors reached wth Flows, please contact us for a custom plan.
+ Contact for pricing
+ Contact sales
+ Compare plans
+ Monthly
+ Annually ( 2 months free )
+ Starter
+ Handle all customer conversations in one tool. Reply faster with smarter features.
+ $
+ 24.17
+ /mo.
+ 100 Billable conversations
+ 7-day free trial
+ This plan includes:
+ 50 Lyro AI Agent conversations (one-off)
+ 100 Flows visitors reached
+ Live chat & Ticketing
+ Live visitors list
+ Operating hours
+ Basic analytics
+ Live chat channels
+ Growth
+ Popular
+ Deliver faster replies with smart automation and seamless collaboration.
+ Starts at
+ $
+ 49.17
+ /mo.
+ From 250 Billable conversations
+ 7-day free trial
+ Everything in Starter, plus:
+ Advanced analytics
+ User permissions
+ Automatic chat assignment
+ Automatic reply
+ Live typing preview
+ Viewed pages history
+ Macros
+ Plus
+ Get premium features, priority support, and advanced team management for $300/mo. Pay separately for AI and human conversations at lower rates as you scale.
+ Starts at
+ $
+ 300
+ /mo.
+ + monthly usage
+ Custom Billable conversations
+ Contact sales
+ Everything in Growth, plus:
+ Premium support
+ Dedicated Success Manager
+ Discounted usage rates
+ Departments
+ Multiproject
+ Custom branding
+ Ticketing automations
+ Live chat support
+ OpenAPI
+ Custom limits
+ Custom number of seats
+ Larger attachments
+ Pay by wire transfer
+ Premium
+ Partner with our team for guaranteed ongoing AI deployment, expert insights, and custom solutions at volume.
+ Contact for pricing
+ Custom Billable conversations
+ Contact sales
+ Everything in Plus, and:
+ From 3 000 Lyro AI conversations
+ Guaranteed 50% Lyro AI resolution rate
+ Pay-per-resolution billing
+ Mobile SDK
+ AI insights & CSAT
+ Super admin role
+ Custom analytics
+ Advanced Copilot
+ Security & services
+ Lyro AI as a managed service
+ Slack support
+ Compliance
+ SSO
+ View all features
+ More automation, less effort with customer service add-ons
+ Lyro AI Agent
+ Our customers average a 75% resolution rate with Lyro, the AI agent. Answer common questions and perform recurring tasks automatically so your team can focus on growing your business. Read more
+ Human handoff
+ Customizable communication style
+ Knowledge-based responses
+ Available as a stand-alone product
+ Starts at
+ $
+ 32.50
+ /mo.
+ From 50 Lyro AI conversations
+ 7-day free trial
+ Calculate savings 
+ Flows
+ Increase conversions by 26% with contextual Flows. Boost your lead gen and sales funnels with Flows - no-code conversion paths that trigger at crucial moments in the customer journey. Read more
+ Collect data
+ Quote request
+ Handle missed conversations
+ Available as a stand-alone product
+ Starts at
+ $
+ 24.17
+ /mo.
+ From 2 000 visitors reached
+ 7-day free trial
+ Calculate your costs based on your monthly usage needs
+ Billable conversations
+ Live conversations and tickets for your team
+ 50
+ 50
+ 100
+ 250
+ 400
+ 600
+ 800
+ 1 000
+ 1 500
+ 2 000
+ More
+ 50 Billable conversations / mo. 
+ 50 Billable conversations / mo. 
+ 100 Billable conversations / mo. 
+ 250 Billable conversations / mo. 
+ 400 Billable conversations / mo. 
+ 600 Billable conversations / mo. 
+ 800 Billable conversations / mo. 
+ 1 000 Billable conversations / mo. 
+ 1 500 Billable conversations / mo. 
+ 2 000 Billable conversations / mo. 
+ 2 000+ Billable conversations / mo. 
+ Lyro AI conversations
+ Automated by AI agent
+ 0
+ 0
+ 50
+ 100
+ 150
+ 200
+ 300
+ 500
+ 750
+ 1 000
+ More
+ 0 Lyro AI conversations / mo. 
+ 0 Lyro AI conversations / mo. 
+ 50 Lyro AI conversations / mo. 
+ 100 Lyro AI conversations / mo. 
+ 150 Lyro AI conversations / mo. 
+ 200 Lyro AI conversations / mo. 
+ 300 Lyro AI conversations / mo. 
+ 500 Lyro AI conversations / mo. 
+ 750 Lyro AI conversations / mo. 
+ 1 000 Lyro AI conversations / mo. 
+ 1 000+ Lyro AI conversations / mo. 
+ Visitors reached with Flows
+ Proactive chat automation
+ 100
+ 100
+ 2 000
+ 3 000
+ 5 000
+ 10 000
+ 15 000
+ 20 000
+ 30 000
+ 40 000
+ 50 000
+ 75 000
+ 100 000
+ More
+ 100 visitors reached / mo. 
+ 100 visitors reached / mo. 
+ 2 000 visitors reached / mo. 
+ 3 000 visitors reached / mo. 
+ 5 000 visitors reached / mo. 
+ 10 000 visitors reached / mo. 
+ 15 000 visitors reached / mo. 
+ 20 000 visitors reached / mo. 
+ 30 000 visitors reached / mo. 
+ 40 000 visitors reached / mo. 
+ 50 000 visitors reached / mo. 
+ 75 000 visitors reached / mo. 
+ 100 000 visitors reached / mo. 
+ 100 000+ visitors reached / mo. 
+ Recommended plan
+ Custom plan
+ Higher quota is available on Plus and Premium plans. For more than 2 000 billable conversations, 1 000 Lyro AI conversations or 100 000 visitors reached wth Flows, please contact us for a custom plan.
+ Contact for pricing
+ Contact sales
+ The world’s most demanding brands trust Tidio with their customers
+ Plan type
+ Growth 
+ Free 
+ Starter 
+ Growth 
+ Plus 
+ Premium 
+ Free
+ $ 0 / mo.
+ Get started
+ Starter
+ $ 24.17 / mo.
+ Get started
+ Growth
+ Popular
+ Starts at $ 49.17 / mo.
+ Get started
+ Plus
+ Starts at $ 300 / mo.
+ + monthly usage
+ Contact sales
+ Premium
+ Contact for pricing
+ Contact sales
+ Customer support quota
+ Billable conversations
+ 50
+ 100
+ Up to 2 000
+ Custom
+ Custom
+ Seats
+ 10
+ 10
+ 10
+ Custom
+ Custom
+ Live chat & Ticketing
+ Live Chat
+ Ticketing
+ Email management system
+ Live video calls
+ Ticketing automations
+ Lyro AI Agent
+ Lyro AI Agent conversations
+ Your first 50 conversations are free (lifetime). You can upgrade your monthly limit to 50 - 1 000.
+ Custom
+ Custom
+ Actions
+ Your first Action is free. Full access is available with the purchase of a paid Lyro AI Agent quota (50-1 000 conversations).
+ Up to 10
+ 10 +
+ FAQ upload
+ FAQ scraper
+ Website scraper
+ Import Zendesk articles
+ Guidance
+ 5
+ 5
+ 5
+ Up to 10
+ 10 +
+ Lyro product recommendation
+ Available with the purchase of a paid Lyro AI Agent quota (50-1 000 conversations).
+ Lyro Connect
+ Lyro custom name
+ 100mb file upload size
+ Lyro AI as a managed service
+ Guaranteed 50% Lyro AI resolution rate
+ Pay-per-resolution billing
+ Analysis & monitoring
+ Copilot
+ Copilot
+ Advanced Copilot
+ Flows
+ Visitors reached via Flows
+ Your first 100 visitors reached via Flows are free. You can upgrade your monthly limit to 2 000 - 100 000.
+ Custom
+ Custom
+ Sales Flows templates
+ FAQ Flows templates
+ Visual Flows builder
+ Features
+ Tidio AI reply assistant
+ Basic analytics
+ Multilanguage
+ Live visitors list
+ Operating hours
+ Chat page
+ Advanced analytics
+ Live typing preview
+ Viewed pages history
+ Visitors info
+ Visitor notes
+ Offline auto-reply
+ Automatic chat assignment
+ Automated satisfaction survey
+ Automated conversation solving
+ Macros
+ Permissions
+ Native Shopify actions
+ Multiproject
+ Departments
+ OpenAPI
+ Custom channels
+ Custom analytics
+ Super admin role
+ Mobile SDK
+ Integrations
+ Messenger integration
+ Instagram integration
+ WhatsApp integration
+ Email integration
+ App integrations
+ Apps
+ Desktop app
+ Mobile app
+ Services
+ Support over email
+ Support over live chat
+ Flows building and strategy assistance
+ Premium support
+ Dedicated Success Manager
+ Discounted usage rates
+ Training sessions
+ Account reviews
+ Priority Service + Premium Support
+ Compliance
+ SSO
+ Slack support
+ Dedicated services team
+ Pay by wire transfer
+ Customization
+ Basic widget customization
+ No Tidio branding
+ Add-on (16.67 USD/mo.)
+ Custom branding
+ Frequently Asked Questions
+ What is a Conversation?
+ Conversation is any live chat, ticket, email or social media channel conversation. A visitor, operator or an automated flow may initiate a conversation.
+Remember that not all conversations are counted as “Billable conversations”
+ What is a “Billable conversation”?
+ "Billable conversation" refers to any live chat, ticket, email or social media channel conversation that includes a message from a human agent (you). Unanswered messages initiated by visitors/customers are not counted, ensuring you&#x27;re billed only for relevant interactions.
+Responses from Flows and Lyro AI Agent are not counted as ‘agent replies’.
+ Will I pay for unwanted conversations?
+ No. A conversation is only billed as a Billable conversation once you reply using Tidio or proactively initiate a conversation with your visitor. If you don’t respond to a customer conversation – if it’s spam or simply a message that doesn’t require a reply – the conversation won’t count toward your monthly limit.
+ Will I pay for multiple messages within one conversation?
+ A conversation that receives a response by a human agent or is initiated by a human agent will only be counted as one Billable conversation regardless of how many messages are sent or received on the thread.
+ How does the free trial work?
+ During the free 7-day trial, you can test all Tidio features and plans and see how to improve customer service and accelerate sales. You don’t need to provide us with your credit card information to access the free trial.
+At the end of the trial, your account will automatically be downgraded to the Free plan unless you upgrade your subscription to a paid option.
+It means that you can use the full feature set of any Customer Service, Lyro AI Agent or Flows plan within your first 7 days with Tidio.
+ Can I change my subscription anytime I want?
+ Yes, you can. You can downgrade or upgrade your subscription at any time.
+Please note that any subscription changes will come into effect at the start of your next billing cycle meaning that you will keep your premium features until the end of the existing cycle.
+ Can I add Tidio live chat to more than one website/store?
+ Yes, you can add Tidio to multiple sites and/or stores.
+Please note, however, that the live chat widget will share all the appearance and behavior settings across all your websites/stores. This means it will have the same color scheme, it will go online/offline according to the same DND hours, it will display the same offline messages, etc. If you want to have a different behavior for every website, talk to us.
+ Can I send live chat messages?
+ Yes. The Customer Service plans enable you to proactively engage your website visitors through the live chat widget.
+ What is Lyro AI Agent?
+ Lyro is an AI agent that resolves 75% of conversations on average for our customers. It turns customer questions into conversations and delivers personalized replies.
+Unlike Flows, which follow set rules and pathways, Lyro uses machine learning to understand questions and draws on your support content to create detailed responses.
+ What is a Lyro conversation?
+ A Lyro conversation is a customer interaction initiated through any channel integrated with Tidio that has at least one reply from our AI Agent.
+Even if Lyro replies a dozen times or more to solve the customer’s problem, or if the customer leaves the chat window and returns to it at a later time, that still counts as a single conversation.
+ Can I purchase Lyro AI Agent or Flows as a standalone product?
+ Yes, each of our three core products - Lyro AI Agent, Customer Service and Flows - can be purchased individually or as part of a bundled plan in any configuration. This means you can choose to buy only the Lyro AI product or Flows and still benefit from the free limit of human conversations included in all subscriptions.
+ How can I use Flows?
+ With any Customer Service plan, you can add Flows templates to your website or manually create as many automated workflows as you want with our drag-and-drop Flows builder.
+Although your Flows can have an unlimited number of chats, the Free Customer Service plan limits them to interact with only 100 unique visitors per month. However, you can interact with up to 100 000 visitors per month by purchasing extra quota and a custom number of visitors with the Plus plan.
+ What’s the difference between Flows and Lyro AI Agent?
+ Flows 
+ Automate marketing messages to help convert visitors or increase order value
+ Answer predefined questions
+ Require manual configuration
+ Start when a visitor takes a specific action and can proactively engage users
+ Follow the rules and conversational paths you set
+ Run on our platform
+ Lyro AI Agent 
+ Resolves 75% of conversations on average for our customers
+ Answers customer questions and performs recurring tasks
+ Uses your support content and natural language processing to understand questions and provide answers
+ Understands customer intent and uses your content to personalize replies
+ Is not limited to predefined questions. Lyro can answer follow-up questions using the information you provide
+ Runs on our platform and integrates with other customer service tools
+ Flows follow the paths you design, while Lyro AI Agent uses artificial intelligence to understand questions and hold conversations. Lyro can provide more details when a customer needs them. Flows can guide visitors toward a purchase.
+You don’t have to choose between Lyro AI Agent and Flows. Use both to answer questions and engage visitors.
+ When will my Lyro conversation limit refresh?
+ Every Tidio account starts with 50 Lyro conversations, but you need to upgrade to the Lyro AI Agent plan to refresh it monthly.
+You can access higher Lyro conversation limits with the Lyro AI Agent and Plus plans. If you’re using the Lyro AI Agent or Plus plans, your limit refreshes 30 days from the moment you make the payment.
+ When will my Flows limit refresh?
+ The limit refreshes every 30 days. If you are on the paid plan, the limit will refresh after 30 days, starting from the moment you have made your payment.
+If you are on the Free plan, the limit will refresh after 30 days, starting from the moment you have created your account or from the moment when your last paid subscription has finished.
+ How does the ticketing system work?
+ Tidio’s AI-powered ticketing system enables you to transform incoming support emails, live chat conversations, and social media messages into tickets and assign them to available operators.
+You can monitor tickets and add notes or custom tags to follow up on conversations.
+Tidio automatically analyzes your conversations and organizes them based on customer intent so your support team can easily spot and prioritize important requests.
+ How many support agents can I add to my Tidio project?
+ You can add up to 10 agents on self-serve plans and custom numbers on the Plus package.
+ Tidio
+ >
+ Pricing
+ Tidio About
+ FAQ
+ Contact
+ Partner Programs
+ Careers
+ Security
+ Trust
+ Reviews
+ Newsroom
+ Hey AI, learn about us
+ Product Pricing
+ Lyro AI Agent
+ Help Desk
+ Live Chat
+ Flows
+ All features
+ Integrations
+ Start for free
+ Contact sales
+ Resources Customer Stories
+ Watch Demo
+ AI Playground
+ ROI Calculator
+ Ebooks
+ Blog
+ Compare Tidio vs. Manychat
+ Tidio vs. LiveChat
+ Tidio vs. Intercom
+ Tidio vs. Gorgias
+ Tidio vs. Zendesk
+ Tidio vs. Salesloft Drift
+ Tidio vs. Chatfuel
+ Tidio vs. Tawk.to
+ All comparisons
+ Support Help Center
+ Developers
+ Status Page
+ Product Updates
+ Roadmap
+ Mobile SDK
+ Contact sales
+ Pricing
+ ★
+ ★
+ ★
+ ★
+ ★
+ ★
+ ★
+ ★
+ ★
+ ★
+ 4.6 on G2
+ 4.7 on Capterra
+ 4.7 on Shopify
+ 4.7 on Wordpress
+ Join 300k+ businesses that use Tidio
+ Improve your business with sales, support, and customer service automation
+ Start for free
+ Available on:
+ Browser
+ Android
+ iOS
+ Windows
+ Mac
+ CHATBOT 
+ Best AI Chatbots
+ How to Create a Chatbot
+ Best Chatbot Apps
+ Best Chatbot Builders
+ Best AI Chatbot Platforms
+ LIVE CHAT 
+ Free Live Chat Software
+ How to Add Live Chat to a Website
+ Ecommerce Live Chat
+ Live Chat Statistics
+ Live Chat for Sales
+ CUSTOMER SERVICE 
+ Best Help Desk Software
+ Chat Widgets for Websites
+ Live Chat for Customer Service
+ WordPress Chatbot Plugins
+ Customer Service Chatbots
+ SALES 
+ Ecommerce Chatbots 
+ Real Estate Chatbots
+ Sales Chatbots
+ Chatbots for Business
+ AI Chatbot Examples
+ PLATFORMS 
+ Shopify Live Chat Apps
+ Shopify Chatbot Apps
+ WordPress Chat Plugins
+ Squarespace Chat Plugins
+ Magento Live Chat Extensions
+ CHANNELS 
+ Instagram Chatbots
+ Facebook Messenger Chatbot
+ WhatsApp Chatbot
+ Instagram Bots for Reactions
+ WhatsApp Automations
+ Tidio 2026 . All rights reserved.
+ EN
+ Privacy Policy
+ Terms and Conditions
+ Manage my privacy settings
+ support@tidio.net
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":["WebPage","FAQPage"],"@id":"https://www.tidio.com/pricing/","url":"https://www.tidio.com/pricing/","name":"Tidio Pricing—Find the Best Plan for Your Business Needs","isPartOf":{"@id":"https://www.tidio.com/#website"},"datePublished":"2018-08-27T18:43:45+00:00","dateModified":"2026-10-06T00:00:00+00:00","description":"Try Tidio for free. Then stay on the free plan forever or upgrade your account and enjoy all of Tidio’s premium features.","breadcrumb":{"@id":"https://www.tidio.com/pricing/#breadcrumb"},"mainEntity":[{"@id":"https://www.tidio.com/pricing/#faq-question-1"},{"@id":"https://www.tidio.com/pricing/#faq-question-2"},{"@id":"https://www.tidio.com/pricing/#faq-question-3"},{"@id":"https://www.tidio.com/pricing/#faq-question-4"},{"@id":"https://www.tidio.com/pricing/#faq-question-5"},{"@id":"https://www.tidio.com/pricing/#faq-question-6"},{"@id":"https://www.tidio.com/pricing/#faq-question-7"},{"@id":"https://www.tidio.com/pricing/#faq-question-8"},{"@id":"https://www.tidio.com/pricing/#faq-question-9"},{"@id":"https://www.tidio.com/pricing/#faq-question-10"},{"@id":"https://www.tidio.com/pricing/#faq-question-11"},{"@id":"https://www.tidio.com/pricing/#faq-question-12"},{"@id":"https://www.tidio.com/pricing/#faq-question-13"},{"@id":"https://www.tidio.com/pricing/#faq-question-14"},{"@id":"https://www.tidio.com/pricing/#faq-question-15"},{"@id":"https://www.tidio.com/pricing/#faq-question-16"},{"@id":"https://www.tidio.com/pricing/#faq-question-17"}],"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.tidio.com/pricing/"]}]},{"@type":"BreadcrumbList","@id":"https://www.tidio.com/pricing/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Tidio","item":"https://www.tidio.com/"},{"@type":"ListItem","position":2,"name":"Pricing"}]},{"@type":"WebSite","@id":"https://www.tidio.com/#website","url":"https://www.tidio.com/","name":"Tidio","description":"Free Beautiful Live Chat Software","publisher":{"@id":"https://www.tidio.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.tidio.com/blog/search/?q={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.tidio.com/#organization","name":"Tidio","url":"https://www.tidio.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.tidio.com/#/schema/logo/image/","url":"https://www.tidio.com/images/seo/tidio-logo-square.png","contentUrl":"https://www.tidio.com/images/seo/tidio-logo-square.png","width":696,"height":696,"caption":"Tidio"},"image":{"@id":"https://www.tidio.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/TidioCX/","https://x.com/tidiocx","https://www.youtube.com/channel/UCwAHN3_OptyMS_us7oxciqQ","https://www.instagram.com/tidiocx/","https://www.linkedin.com/company/tidio-ltd/","https://play.google.com/store/apps/details?id=com.tidiochat.app","https://apps.apple.com/us/app/tidio/id916822567","https://www.g2.com/products/tidio/reviews","https://www.capterra.com/p/144040/Tidio-Chat/","https://www.producthunt.com/products/tidio-2","https://www.trustpilot.com/review/www.tidio.com","https://wordpress.org/plugins/tidio-live-chat/","https://wordpress.com/plugins/tidio-live-chat","https://apps.shopify.com/tidio-chat","https://www.wikidata.org/wiki/Q133079799","https://www.google.com/search?kgmid=/g/11hds3thy3","https://www.google.com/search?kgmid=/g/11gxm8q990","https://www.softwareadvice.com/live-chat/tidio-chat-profile/","https://www.getapp.com/customer-service-support-software/a/tidio-chat/","https://www.infotech.com/software-reviews/products/tidio","https://www.softwarereviews.com/products/tidio","https://www.gartner.com/reviews/vendor/tidio","https://www.trustradius.com/products/tidio/reviews","https://slashdot.org/software/p/Tidio/","https://sourceforge.net/software/product/Tidio/","https://topbusinesssoftware.com/products/Tidio/reviews/","https://www.appvizer.com/customer/customer-support/tidio","https://www.reddit.com/r/Tidio/","https://www.bigcommerce.com/apps/tidio-chat/","https://tekpon.com/software/tidio/reviews/","https://appnavigator.io/app/tidio-chat/","https://www.selecthub.com/p/live-chat-software/tidio/","https://chromewebstore.google.com/detail/tidio-ai-copilot-for-zend/gceddchegnlgfhmaolidpjbjgdifalba","https://www.wikidata.org/wiki/Q136994735","https://www.google.com/search?kgmid=/g/11bw7fxszh","https://www.google.com/search?kgmid=/g/11ymp14x09","https://www.google.com/search?kgmid=/g/11m634qhq0"]},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-1","position":1,"url":"https://www.tidio.com/pricing/#faq-question-1","name":"What is a Conversation?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Conversation is any live chat, ticket, email or social media channel conversation. A visitor, operator or an automated flow may initiate a conversation.\n&nbsp;\nRemember that not all conversations are counted as “Billable conversations”","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-2","position":2,"url":"https://www.tidio.com/pricing/#faq-question-2","name":"What is a “Billable conversation”?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"\"Billable conversation\" refers to any live chat, ticket, email or social media channel conversation that includes a message from a human agent (you). Unanswered messages initiated by visitors/customers are not counted, ensuring you're billed only for relevant interactions.\n&nbsp;\nResponses from Flows and Lyro AI Agent are not counted as ‘agent replies’.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-3","position":3,"url":"https://www.tidio.com/pricing/#faq-question-3","name":"Will I pay for unwanted conversations?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"No. A conversation is only billed as a Billable conversation once you reply using Tidio or proactively initiate a conversation with your visitor. If you don’t respond to a customer conversation – if it’s spam or simply a message that doesn’t require a reply – the conversation won’t count toward your monthly limit.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-4","position":4,"url":"https://www.tidio.com/pricing/#faq-question-4","name":"Will I pay for multiple messages within one conversation?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"A conversation that receives a response by a human agent or is initiated by a human agent will only be counted as one Billable conversation regardless of how many messages are sent or received on the thread.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-5","position":5,"url":"https://www.tidio.com/pricing/#faq-question-5","name":"How does the free trial work?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"During the free 7-day trial, you can test all Tidio features and plans and see how to improve customer service and accelerate sales. You don’t need to provide us with your credit card information to access the free trial.\n&nbsp;\nAt the end of the trial, your account will automatically be downgraded to the Free plan unless you upgrade your subscription to a paid option.\n&nbsp;\nIt means that you can use the full feature set of any Customer Service, Lyro AI Agent or Flows plan within your first 7 days with Tidio.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-6","position":6,"url":"https://www.tidio.com/pricing/#faq-question-6","name":"Can I change my subscription anytime I want?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Yes, you can. You can downgrade or upgrade your subscription at any time.\n&nbsp;\nPlease note that any subscription changes will come into effect at the start of your next billing cycle meaning that you will keep your premium features until the end of the existing cycle.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-7","position":7,"url":"https://www.tidio.com/pricing/#faq-question-7","name":"Can I add Tidio live chat to more than one website/store?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Yes, you can add Tidio to multiple sites and/or stores.\n&nbsp;\nPlease note, however, that the live chat widget will share all the appearance and behavior settings across all your websites/stores. This means it will have the same color scheme, it will go online/offline according to the same DND hours, it will display the same offline messages, etc. If you want to have a different behavior for every website, talk to us.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-8","position":8,"url":"https://www.tidio.com/pricing/#faq-question-8","name":"Can I send live chat messages?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Yes. The Customer Service plans enable you to proactively engage your website visitors through the live chat widget.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-9","position":9,"url":"https://www.tidio.com/pricing/#faq-question-9","name":"What is Lyro AI Agent?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Lyro is an AI agent that resolves 75% of conversations on average for our customers. It turns customer questions into conversations and delivers personalized replies.\n&nbsp;\nUnlike Flows, which follow set rules and pathways, Lyro uses machine learning to understand questions and draws on your support content to create detailed responses.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-10","position":10,"url":"https://www.tidio.com/pricing/#faq-question-10","name":"What is a Lyro conversation?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"A Lyro conversation is a customer interaction initiated through any channel integrated with Tidio that has at least one reply from our AI Agent.\n&nbsp;\nEven if Lyro replies a dozen times or more to solve the customer’s problem, or if the customer leaves the chat window and returns to it at a later time, that still counts as a single conversation.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-11","position":11,"url":"https://www.tidio.com/pricing/#faq-question-11","name":"Can I purchase Lyro AI Agent or Flows as a standalone product?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Yes, each of our three core products - Lyro AI Agent, Customer Service and Flows - can be purchased individually or as part of a bundled plan in any configuration. This means you can choose to buy only the Lyro AI product or Flows and still benefit from the free limit of human conversations included in all subscriptions.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-12","position":12,"url":"https://www.tidio.com/pricing/#faq-question-12","name":"How can I use Flows?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"With any Customer Service plan, you can add Flows templates to your website or manually create as many automated workflows as you want with our drag-and-drop Flows builder.\n&nbsp;\nAlthough your Flows can have an unlimited number of chats, the Free Customer Service plan limits them to interact with only 100 unique visitors per month. However, you can interact with up to 100 000 visitors per month by purchasing extra quota and a custom number of visitors with the Plus plan. ","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-13","position":13,"url":"https://www.tidio.com/pricing/#faq-question-13","name":"What’s the difference between Flows and Lyro AI Agent?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"**Flows**\n\n* Automate marketing messages to help convert visitors or increase order value\n* Answer predefined questions\n* Require manual configuration\n* Start when a visitor takes a specific action and can proactively engage users\n* Follow the rules and conversational paths you set\n* Run on our platform\n\n**Lyro AI Agent**\n\n* Resolves 75% of conversations on average for our customers\n* Answers customer questions and performs recurring tasks\n* Uses your support content and natural language processing to understand questions and provide answers\n* Understands customer intent and uses your content to personalize replies\n* Is not limited to predefined questions. Lyro can answer follow-up questions using the information you provide\n* Runs on our platform and integrates with other customer service tools\n\nFlows follow the paths you design, while Lyro AI Agent uses artificial intelligence to understand questions and hold conversations. Lyro can provide more details when a customer needs them. Flows can guide visitors toward a purchase.\n&nbsp;\nYou don’t have to choose between Lyro AI Agent and Flows. Use both to answer questions and engage visitors.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-14","position":14,"url":"https://www.tidio.com/pricing/#faq-question-14","name":"When will my Lyro conversation limit refresh?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Every Tidio account starts with 50 Lyro conversations, but you need to upgrade to the Lyro AI Agent plan to refresh it monthly.\n&nbsp;\nYou can access higher Lyro conversation limits with the Lyro AI Agent and Plus plans. If you’re using the Lyro AI Agent or Plus plans, your limit refreshes 30 days from the moment you make the payment.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-15","position":15,"url":"https://www.tidio.com/pricing/#faq-question-15","name":"When will my Flows limit refresh?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"The limit refreshes every 30 days. If you are on the paid plan, the limit will refresh after 30 days, starting from the moment you have made your payment.\n&nbsp;\nIf you are on the Free plan, the limit will refresh after 30 days, starting from the moment you have created your account or from the moment when your last paid subscription has finished.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-16","position":16,"url":"https://www.tidio.com/pricing/#faq-question-16","name":"How does the ticketing system work?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Tidio’s AI-powered ticketing system enables you to transform incoming support emails, live chat conversations, and social media messages into tickets and assign them to available operators.\n&nbsp;\nYou can monitor tickets and add notes or custom tags to follow up on conversations.\n&nbsp;\nTidio automatically analyzes your conversations and organizes them based on customer intent so your support team can easily spot and prioritize important requests.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.tidio.com/pricing/#faq-question-17","position":17,"url":"https://www.tidio.com/pricing/#faq-question-17","name":"How many support agents can I add to my Tidio project?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"You can add up to 10 agents on self-serve plans and custom numbers on the Plus package.","inLanguage":"en-US"},"inLanguage":"en-US"}]}

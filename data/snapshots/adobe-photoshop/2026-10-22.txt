@@ -1,0 +1,153 @@
+#SNAPSHOT {"url":"https://www.adobe.com/products/photoshop/plans.html?country=US","finalUrl":"https://www.adobe.com/products/photoshop/plans.html?country=US","fetchedAt":"2026-10-22T03:37:43.127Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"6b3e880053e28677035a77c1ca92a8b8c725e4a4ea0dc78fe28121ef07852d30"}
+Skip to main content
+Creativity & Design
+Photoshop
+Features
+Mobile
+Compare Plans
+Free Trial Details
+Sign in
+Home
+Adobe Creative Cloud
+Adobe Photoshop
+Compare Plans
+Photoshop
+Compare Photoshop plans.
+Get Photoshop by itself or as part of a multi-app plan. The choice is yours.
+Individuals
+Students and teachers
+Business
+Photoshop
+Photoshop on desktop, web, and mobile plus the Adobe Express Premium plan.
+US$22.99/mo
+Annual, billed monthly
+Free trial
+Buy now
+Firefly Pro
+Get Photoshop on web and mobile plus 4,000 credits for creative AI.
+US$19.99/mo
+Annual, billed monthly
+Free trial
+Buy now
+Photography
+Photoshop on desktop, web, and mobile, plus Lightroom.
+US$19.99/mo
+Annual, billed monthly
+Free trial
+Buy now
+Creative Cloud Pro
+Save 50% for the first 3 months. Get Photoshop and 20+ apps. New subscribers only. See terms.
+Regularly at
+US$69.99/mo 
+Alternatively at
+US$34.99/mo
+Annual, billed monthly
+Free trial
+Save today
+Adobe Photoshop on desktop
+Adobe Photoshop on web and mobile
+Best for
+Individuals
+Individuals
+Individuals
+Individuals
+7-day free trial
+Price
+US$22.99/mo
+US$19.99/mo
+US$19.99/mo
+Regularly at
+US$69.99/mo 
+Alternatively at
+US$34.99/mo
+Cloud storage
+100GB
+100GB
+1TB
+100GB
+Generative credits
+25 monthly
+4,000 monthly
+1,000 monthly
+4000 monthly
+Standard AI features like Generative Fill
+Access with generative credits
+Unlimited access
+Access with generative credits
+Unlimited access
+Premium AI features like Text to Video
+Access with generative credits
+Access with generative credits
+Access with generative credits
+Access with generative credits
+Access to top models from Adobe, Google, OpenAI, and more
+Adobe Express Premium plan
+Lightroom
+20+ desktop and mobile apps
+20,000+ fonts
+1 million+ free photos, drawings, video clips, audio clips, and templates
+Tutorials
+Questions? We have answers.
+How much does Photoshop cost?
+Is there a free version of Photoshop?
+Can I buy Photoshop outright?
+What is a license and how does it work?
+For individuals & small business
+Creative AI
+Photography
+Design and illustration
+Video and animation
+PDF
+3D
+Elements Family
+Stock images and video
+View all products
+For medium & large business
+Personalization at scale
+Content supply chain
+Unified customer experience
+Creativity and production
+B2B GTM orchestration
+View all products
+For organizations
+Education
+Nonprofits
+Government
+Support
+Help Center
+Download and install
+Adobe Community
+Adobe Learn
+Medium and large business support
+Contact
+Chat with sales
+Request information
+Adobe
+Log into your account
+About
+Careers
+Events
+Newsroom
+Corporate responsibility
+Investor Relations
+Supply chain
+Trust Center
+Integrity
+Adobe for All
+Adobe Blog
+Featured products
+Acrobat Reader
+Firefly
+Adobe Express
+Photoshop
+Change region
+Copyright © 2026 Adobe. All rights reserved./
+Privacy/
+Terms of Use/
+Cookie preferences/
+Do not sell or share my personal information/
+Site Map/
+AdChoices
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[[{"@type":"Question","name":"\n      \n        How much does Photoshop cost?\n      \n    ","acceptedAnswer":{"text":"There are several Creative Cloud plans that include Photoshop. You can purchase it as a standalone app for US$22.99/mo. for the annual billed monthly plan or opt for annual billing at US$263.88/yr. Both options give you access to all the latest Photoshop features and updates and 100GB of cloud storage. You can also purchase it as part of the Creative Cloud Photography plan for US$19.99/mo, or as part of the Creative Cloud Pro plan for Regularly at US$69.99/mo Alternatively at US$34.99/mo (US$779.88/yr prepaid).","@type":"Answer"}},{"@type":"Question","name":"\n      \n        Is there a free version of Photoshop?\n      \n    ","acceptedAnswer":{"text":"Yes, you can download a 7-day free trial of Photoshop. The free trial is the official, full version of the app. It includes all the features and updates in the latest version of Photoshop. Your trial will automatically convert to a paid Creative Cloud membership after 7 days, unless you cancel before then.","@type":"Answer"}},{"@type":"Question","name":"\n      \n        Can I buy Photoshop outright?\n      \n    ","acceptedAnswer":{"text":"No. Photoshop is available only through a Creative Cloud subscription that you pay for either monthly or annually. You can subscribe to Photoshop alone or choose a plan with multiple apps.","@type":"Answer"}},{"@type":"Question","name":"\n      \n        What is a license and how does it work?\n      \n    ","acceptedAnswer":{"text":"When you purchase a product from Adobe, a license represents your right to use the product and any included services. For example, a Photoshop for teams license gives one person the ability to install the app on two or more computers, activate and remain signed in to the app on up to two computers, and use the app on one computer at a time.","@type":"Answer"}}]]}

@@ -1,0 +1,359 @@
+#SNAPSHOT {"url":"https://rows.com/pricing","finalUrl":"https://rows.com/pricing","fetchedAt":"2026-10-22T03:37:29.918Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"70e6ebd8c4059b149374f68a97040311b6d35a4202b5c66cff9a1dced541589f"}
+Rows Pricing Plans: Free, Plus, Pro and Enterprise 
+ Rows joined Superhuman. For any inquiries, email support@rows.com
+ Product
+ Rows AI
+ Your number crunching sidekick
+ Integrations
+ Seamless connections to your tools
+ Support Docs
+ Learn how to make the most out of Rows.
+ Features
+ All-in-one spreadsheet for teams
+ Pricing
+ Templates
+ Community
+ Continue with Superhuman Docs
+ Extract PDFs, import your business data and analyze it with AI✨.
+ Monthly 
+ Annually Save ~20% 
+ Free
+ Discover your new AI Data Analyst.
+ $0
+ Get Started with Free
+ Rows has joined Superhuman
+ Learn more 
+ AI Tasks✨
+ 5/month
+ Data Tables
+ Import Manually
+ Integrations
+ 10 accounts
+ Up to 3 guests
+ Plus Popular
+ Automate data extraction, analysis, and reporting with AI.
+ $8
+ /month per user
+ Get Started with Plus
+ Rows has joined Superhuman
+ Learn more 
+ AI Tasks✨
+ 200/month
+ Data Tables
+ Automate per day
+ Integrations
+ 10 accounts
+ Up to 10 guests
+ Pro
+ Scale your data processes with advanced AI automation.
+ $79
+ /month + 
+ $8
+ /month per user
+ Get Started with Pro
+ Rows has joined Superhuman
+ Learn more 
+ AI Tasks✨
+ 1,000/month
+ Data Tables
+ Automate per min
+ Integrations
+ 100 accounts
+ Up to 200 guests
+ Video Support
+ Enterprise
+ Unlock data, AI, and APIs for custom business workflows.
+ -
+ Contact us
+ Rows has joined Superhuman
+ Learn more 
+ Advanced API endpoints
+ Custom AI models, functions and Integrations
+ High-volume usage
+ Custom themes and designs
+ SAML SSO
+ Dedicated CS Manager
+ Prices shown are net, i.e. exclusive of any applicable sales tax or VAT.
+ You’re in great company
+ Compare plans & features
+ A
+ B
+ C
+ D
+ E
+ 1
+ Details ↓ Plans → 
+ Details ↓ Plans → 
+ Free
+ Details ↓ Plans → 
+ Plus
+ Details ↓ Plans → 
+ Pro
+ Details ↓ Plans → 
+ Enterprise
+ 2
+ Price (billed Annually)
+ Price (billed Annually)
+ $0
+ Price (billed Annually)
+ $6/month per user
+ Price (billed Annually)
+ $59/mo + $6/mo/user
+ Price (billed Annually)
+ -
+ 3
+ Price (billed Monthly)
+ Price (billed Monthly)
+ $0
+ Price (billed Monthly)
+ $8/month per user
+ Price (billed Monthly)
+ $79/mo + $8/mo/user
+ Price (billed Monthly)
+ -
+ 4
+ Spreadsheets
+ Spreadsheets
+ Unlimited
+ Spreadsheets
+ Unlimited
+ Spreadsheets
+ Unlimited
+ Spreadsheets
+ Unlimited
+ 5
+ AI Tasks 
+ AI Tasks 
+ 5 per month
+ AI Tasks 
+ 200 per month
+ AI Tasks 
+ 1,000 per month
+ AI Tasks 
+ Unlimited
+ 6
+ Data Tables
+ Data Tables
+ Import manually
+ Data Tables
+ Automate every day
+ Data Tables
+ Automate every minute
+ Data Tables
+ Automate every minute
+ 7
+ Integrations
+ Integrations
+ 10 accounts
+ Integrations
+ 10 accounts
+ Integrations
+ 100 accounts
+ Integrations
+ Unlimited
+ 8
+ Cell enrichment
+ Cell enrichment
+ Limited
+ Cell enrichment
+ 1M tasks/month
+ Cell enrichment
+ 1M tasks/month
+ Cell enrichment
+ Starting at 1M tasks/month
+ 9
+ Custom Integrations
+ Custom Integrations
+ Custom Integrations
+ Custom Integrations
+ Custom Integrations
+ 10
+ File import size
+ File import size
+ 1 MB
+ File import size
+ 5 MB
+ File import size
+ 100 MB
+ File import size
+ 100 MB
+ 11
+ Guest members 
+ Guest members 
+ 3
+ Guest members 
+ 10
+ Guest members 
+ 200
+ Guest members 
+ Unlimited
+ 12
+ Embeds
+ Embeds
+ Branded
+ Embeds
+ Branded
+ Embeds
+ Unbranded
+ Embeds
+ Unbranded
+ 13
+ Version history
+ Version history
+ 7 days
+ Version history
+ 30 days
+ Version history
+ 2 years
+ Version history
+ Unlimited
+ 14
+ Import & Export
+ Import & Export
+ Import & Export
+ Import & Export
+ Import & Export
+ 15
+ Rows API calls 
+ Rows API calls 
+ 500/month
+ Rows API calls 
+ 50k/month
+ Rows API calls 
+ 1M calls/month
+ Rows API calls 
+ +1 million/month
+ 16
+ Custom API endpoints
+ Custom API endpoints
+ Custom API endpoints
+ Custom API endpoints
+ Custom API endpoints
+ 17
+ SAML SSO
+ SAML SSO
+ SAML SSO
+ SAML SSO
+ SAML SSO
+ 18
+ Support
+ Support
+ Support
+ Chat priority
+ Support
+ Video support
+ Support
+ Dedicated CS Manager
+ 19
+ Next →
+ Get started
+ Rows has joined Superhuman
+ Learn more 
+ Get started
+ Rows has joined Superhuman
+ Learn more 
+ Get started
+ Rows has joined Superhuman
+ Learn more 
+ Contact us
+ Rows has joined Superhuman
+ Learn more 
+ Questions and answers
+ Is Rows free to use?
+ Rows offers a Free plan that is free forever, with no trial period or need for a credit card. For premium features, pick one of our paid plans.
+ What are Workspaces and Members?
+ A Workspace is a group of people spreadsheets inside Rows. Each workspace has an owner, a pricing plan, and as many users as you need. A workspace has a unique link, like rows.com/yourcompany. 
+ The users of Workspaces can be Members or Guests.
+ Members are people who can create spreadsheets and who are permanent users of that organization, that is, by default they get access to new documents on shared folders.
+ Guests cant create spreadsheets, and can be invited to edit or view up to 3 spreadsheets. The number of guests are limited in every plan. The Free plan is limited to 3 guests. You get 10 Guests on Plus, and 100 Guests on Pro.
+ Billing Workspaces and Members: Free plans can have Plus and Pro plans are charged per Workspace member. If you add members during your billing cycle, your account will be charged a prorated amount based on the remaining time in the cycle. Conversely, if you remove members, your account will be credited accordingly. Please note that charges are prorated based on the remaining time in your billing cycle. 
+ Multiple Workspaces: You can create multiple workspaces with the same email address. You can upgrade each workspace separately, and they can have different billing details and payment methods.
+ What are AI Tasks?
+ AI Tasks are actions that require accessing artificial intelligence algorithms. They include different types of tasks.
+The AI Analyst is the main interface where you can tell the AI what you want to do. Each message you send to the AI counts as 1 AI Task. AI Analyst tasks triggered via tables, charts and other elements also count towards AI tasks.
+Importing files with AI Vision is another way to use Rows artificial intelligence skills. Each file you process with AI counts as 1 AI Task, and this includes PDFs and images. Super large files may be broken down into several files, and potentially consume more than 1 AI Task.
+Note: Using any AI feature through the API counts as 1 API call and the corresponding amount of AI Tasks as if a user were doing the same.
+ Can you explain Integrations, Data Tables & Cell enrichments?
+ Rows has Integrations to let you easily connect to other online services like Marketing tools, Analytics software, AI services, Databases, and even custom APIs.
+ Integrations are the connection to services. Each time you active a connection, you add an Integration Account . On the free plan, you can create up to 10 connections for the same Integration. For example, you could connect 7 different accounts for Google Analytics and 3 different Bank accounts. Paid plans have more connections. You can check your accounts by navigating to your workspace /settings and then /integrations.
+ You can use Integrations in 2 ways: 1) Data Tables import data from cloud tools, and 2) Cell enrichment , which happens when you load data from a cloud service directly into a cell or a whole column of cells.
+ Data Tables are our smart tables that import data from our Integrations like Google Analytics. The data imported fills a whole table, and you can pick which columns to add etc. Importing data is free, but on the Free plan you have to refresh the data manually, whereas paid plans include Automation. The Plus plan lets you refresh Data Tables as frequently as every day, and the Pro plan lets you refresh Data Tables as frequently as every minute.
+ Cell enrichment is any execution of an Integration that loads data inside cells. Cell enrichments can be executed for just one cell or for a whole column, but each cell is processed individually. You will use Cell enrichments on individual cells for example when loading a variable on a model, but they are more commonly used to create Formula Columns in Data Tables, for example to use AI to get the sentiment of individual posts which you loaded on a Data Table with Instagram data. Because they are executed per cell, Cell enrichments count every task that didn't result in an error from the server. Any task executed by a user counts towards the workspace limit, including those executed in shared spreadsheets, View mode, and Embeds.
+ On the Free plan, the Workspace will be limited to 500 Cell enrichment tasks across all Integrations, per month. Plus and Pro plans include 1 million tasks per month, covering all Integrations, including HTTP tasks and Rows API calls. This is a lot of enrichments! If you are one of the expert users who want more than 1 million Integration executions per month, reach out to enterprise@rows.com
+ and we will work on a custom plan for you.
+ Exceeding the allotted Cell enrichment tasks will block additional Enrichment tasks until the next period. The number of integration executions renews monthly at the beginning of the workspace billing cycle.
+ What happens when I change plans?
+ You can upgrade or downgrade your plan at any time. When you upgrade, you gain access to all the features immediately. If you upgrade before the end of your plan’s billing cycle, we will move your plan to a new billing cycle and credit you the value for your old plan pro rata to the remaining time of your billing cycle. When you downgrade, you remain on your current plan until the end of your billing cycle.
+ Can I cancel my paid plan at any time?
+ Yes, you can downgrade your plan to the Free plan at any time. You will remain on your current plan until the end of your billing cycle.
+ Do you offer a custom Enterprise plan?
+ If you need to use Rows beyond our Pro plan, please reach out to enterprise@rows.com
+. We are happy to work on a custom plan that includes custom functions, new Integrations, custom features, training and more.
+ What are my payment methods?
+ You can pay by credit card. If you need other payment options, please reach out to enterprise@rows.com
+.
+ What are the limitations that apply to all plans?
+ You can see a list of platform specs and limitations here
+.
+ Have more questions?
+ Visit the billing section of our knowledge base or send us an email at billing@rows.com
+.
+ Your new AI Data Analyst
+ Continue with Superhuman Docs
+ Product
+ Resources
+ Features
+ Blog
+ Rows AI
+ Support Docs
+ RowsX
+ API Docs
+ Integrations
+ Community
+ Templates
+ Pricing
+ Calculators
+ Product Changelog
+ Tools
+ Company
+ Legal
+ About
+ Terms of Use
+ Careers
+ Privacy Policy
+ X (Twitter)
+ Imprint
+ LinkedIn
+ TikTok
+ YouTube
+ 2026, Rows
+ © Copyright
+ Your new AI Data Analyst
+ Continue with Superhuman Docs
+ Product
+ Resources
+ Company
+ Legal
+ 2026, Rows © Copyright
+ Features
+ Blog
+ About
+ Terms of Use
+ Rows AI
+ Support Docs
+ Careers
+ Privacy Policy
+ RowsX
+ API Docs
+ X (Twitter)
+ Imprint
+ Integrations
+ Community
+ LinkedIn
+ Templates
+ Pricing
+ TikTok
+ Calculators
+ Product Changelog
+ YouTube
+ Tools

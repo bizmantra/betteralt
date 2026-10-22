@@ -1,0 +1,337 @@
+#SNAPSHOT {"url":"https://instatic.com","finalUrl":"https://instatic.com/","fetchedAt":"2026-10-22T03:39:42.092Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"16c79f91d7646d0abd7f45f85371409c2f6bae7577a08c98107c67900deb8ded"}
+Instatic — own your site, love building it 
+ instatic
+ Product
+ Speed
+ Roadmap
+ Makers
+ Docs
+ Deploy
+ 8,000+ stars on GitHub #1 Repo of the Day
+ Nobody gets to hold your website hostage. 
+ Instatic is a CMS you run yourself. Design on a real canvas, press publish, and plain HTML lands on your own server — readable in view-source, portable to any host on earth. MIT-licensed, nothing to cancel.
+ Deploy it in two minutes →
+ Star on GitHub
+ MIT licensed 
+ Self-hosted 
+ One Bun server 
+ SQLite or Postgres
+ instatic.local/admin/site
+ The product / one tool, the whole life of a site
+ 01
+ Design
+ 02
+ Build
+ 03
+ Manage
+ 04
+ Analyze
+ 05
+ Extend
+ How it works
+ Most sites today are five services stitched together: a CMS, a framework, a host, a form service, an image CDN. Instatic is one program on one server. 
+ One process
+ A single Bun server answers every request — the editor, the content API, media, auth, forms, plugins and the publisher. One environment variable decides whether it stores data in SQLite or Postgres. Backing the site up means copying the database and the uploads folder.
+ How publishing works
+ Pressing publish renders every page to an HTML file on disk, then swaps the live folder over in one atomic move. Visitors read finished files, so there&#x27;s no render step, no database query, and no half-published state.
+ Why that matters
+ Those files are the site. You can read them, copy them to any host, or keep them the day you stop using Instatic. It&#x27;s MIT-licensed, so the terms can&#x27;t change on you later.
+ 01
+ Pillar — Design
+ Every breakpoint, side by side. 
+ It&#x27;s a real canvas, not a form with a preview pane stapled on. Line the breakpoint frames up and edit them together: change the desktop, watch mobile react in the same view. Or flip to live mode and work the full-size page in place. And Core Framework
+ — the token engine thousands of WordPress pros already open every day — is wired in as a core system, not a plugin you install and pray over.
+ 01
+ One brand colour in, a full set of tuned tints and shades out.
+ 02
+ Fluid type & spacing scales: one mathematical ramp instead of forty hand-picked sizes to keep in sync.
+ 03
+ Utility classes generated into one small framework.css — and the design system lives as data, so one token changes every page.
+ Core Framework
+ Fig. 02
+ instatic — design tokens
+ 02
+ Pillar — Build
+ One edit,
+every instance.
+ Drag modules onto the canvas, then promote any of it into a Visual Component with typed parameters and named slots — string, number, colour, image, rich text, or a whole slot of content. Edit the component and every instance on the site follows.
+ 01
+ Templates for the shared chrome — one site layout, one per post type, a 404 you design yourself — and loops that repeat a layout over any collection.
+ 02
+ Forms that belong to your CMS. Instatic reads the fields you placed, builds the table, keeps the submissions — so a contact form stops being a monthly bill.
+ 03
+ Paste raw HTML, get editable nodes — the same import pipeline the AI agent writes through.
+ Visual Components
+ Fig. 03
+ instatic — components
+ 03
+ Pillar — Manage
+ One content model under everything.
+ Pages, posts, components, custom post types and any table you invent all live in the same store — there&#x27;s no special-cased pages table hiding in a corner. Design a collection, then work the rows in a spreadsheet grid: search, sort, filter, bulk publish, export. Every table is also a source a loop can render: define Team once, loop it onto the about page, done.
+ 01
+ Media that works like a file manager: folders, bulk operations, replace-in-place, and usage tracking so you know where a file actually appears.
+ 02
+ Access control that isn&#x27;t decorative: 38 capabilities, TOTP two-factor with secrets encrypted at rest, lockout with backoff, and a step-up prompt before anything destructive.
+ 03
+ ⌘K over the whole admin. And drafts stay drafts — what you didn&#x27;t publish, nobody sees.
+ Media workspace
+ Fig. 04
+ instatic — media
+ 04
+ Pillar — Analyze
+ Who changed what, and when.
+ A twelve-column grid of widgets you drag, resize and arrange in customize mode; the layout saves per user, and plugins can ship widgets into it. Behind that, every meaningful admin action writes a row: logins, content edits, role changes, plugin installs.
+ 01
+ An audit log that&#x27;s append-only — a record of who did what that nobody can quietly rewrite.
+ 02
+ Form data that&#x27;s yours. Submissions sit in your tables. Query them, export them, build on them.
+ 03
+ The honest gap: there&#x27;s no visitor analytics yet. First-party and privacy-respecting is next on the roadmap.
+ The dashboard
+ Fig. 05
+ instatic — dashboard
+ 05
+ Pillar — Extend
+ A plugin can&#x27;t touch your disk.
+ Every plugin&#x27;s server code runs outside your site&#x27;s process. Each active plugin gets its own worker running a QuickJS interpreter compiled to WebAssembly, which has no access to Node, Bun, the filesystem or your environment variables, and can only reach the network if its manifest lists the hosts and you approve them at install. If a plugin crashes, the host restarts that one worker and your pages keep serving.
+ 01
+ Inside the sandbox, a plugin can add HTTP routes, its own admin pages, storage and scheduled jobs.
+ 02
+ It can also register canvas modules and loop data sources, so a page can list content from an external API.
+ 03
+ Extensions that need to run in the admin window are a separate, explicit permission — you see it before installing.
+ Sandboxed · QuickJS-WASM
+ Exhibit A
+ plugin.json
+ {
+ "id"
+: "acme.workflow"
+,
+ "apiVersion"
+: 1
+,
+ // approved by the owner at install
+ "permissions"
+: [
+ "cms.routes"
+,
+ "cms.storage"
+ ],
+ // outbound net needs an allowlist
+ "networkAllowedHosts"
+: [
+ "api.weather.example.com"
+ ]
+} 
+ A closer look
+ Four things a hosted builder can&#x27;t hand you.
+ 06
+ An AI agent whose HTML you can hand-edit afterwards
+ 07
+ An MCP server, so your own AI tools can drive the CMS
+ 08
+ An import that turns the site you have into a system
+ 09
+ Responsive images worked out from your own layout
+ 06
+ Spotlight — AI agent
+ Ask for a section.
+Get nodes, not a screenshot.
+ The built-in agent writes semantic HTML and styles it with your tokens, through the same import pipeline you use when you paste markup. Everything it adds lands as a first-class node you can select, drag and restyle, exactly as if you&#x27;d placed it by hand.
+ 01
+ Your key, your model, your bill. Claude, OpenAI, OpenRouter or a local Ollama, each over raw HTTP — no vendor SDK in between.
+ 02
+ It speaks your design system, reusing your colour, type and spacing tokens instead of hardcoding hexes.
+ 03
+ 35 tools for building pages, 15 for editing content — and it reads the rendered page back to check its own work.
+ The agent, mid-edit
+ Exhibit B
+ instatic — agent
+ claude · your key
+ You
+ Add a pricing band with three tiers.
+ Agent
+ Inserting the section and wiring it to your tokens.
+ ✓
+ insertHtml
+ 3 tiers → nodes
+ ✓
+ applyCss
+ .tier · var(--space-m)
+ ✓
+ set_color_tokens
+ accent
+ ✓
+ 14 nodes added. Every one selectable and styleable.
+ 07
+ Spotlight — Open protocol
+ Or drive it from the tools you already have open.
+ Instatic is also an MCP server. Point Claude Code, Cursor, Codex or a remote agent at one endpoint and they get the same tools the built-in panel runs: read the site, edit structure, manage content.
+ 01
+ One endpoint, local or remote: a single Streamable-HTTP route at /_instatic/mcp for every client.
+ 02
+ No second implementation. MCP is just another caller on the engine the built-in agent already runs.
+ 03
+ Scoped and revocable: one bearer token per connector, stored only as a hash, capability-gated, dead the moment you revoke it.
+ Connected over MCP
+ Exhibit C
+ ~/your-site — mcp
+ # point any MCP client at your CMS
+ $
+ claude mcp add instatic \
+ --transport http https://you.com/_instatic/mcp
+ \
+ --header "Authorization: Bearer imcp_•••"
+ ✓
+ connected · 35 tools · capability-scoped site_insert_html
+ site_apply_css
+ site_set_color_tokens
+ content_create_document
+ site_render_snapshot
+ +30 more
+ 08
+ Spotlight — On-ramp
+ Bring the site you already have.
+ Drop a folder, a zip or a static export. Super Import turns it into editable pages, reusable classes, real design tokens and media — and shows you every conflict before it writes anything.
+ 01
+ CSS becomes a system. Stylesheets convert to editable classes; :root variables become real colour and font tokens.
+ 02
+ Conflicts get a decision, not a guess: rename, skip or overwrite each clashing slug and class, with var(--…) references rewritten so the design still looks right.
+ 03
+ Pages, styles, fonts and media land in one step — and one undo takes all of it back.
+ Import plan
+ Exhibit D
+ instatic — import
+ Drop
+ Review
+ Conflicts
+ Import
+ Pages
+ 24
+ Style rules → classes
+ 318
+ Colour & font tokens
+ 15
+ Media & fonts
+ 159
+ ↩ One undo reverts all of it
+ 09
+ Spotlight — Images
+ Upload once.
+Ship the right file.
+ Every upload is processed in a background worker: it&#x27;s resized into a ladder of WebP variants and given a BlurHash placeholder, so a 4-megapixel photo never blocks a request. Then, at publish time, the publisher reads your actual layout — container caps, column fractions, grid tracks, per breakpoint — and writes the matching srcset and sizes into the page.
+ 01
+ A phone downloads a phone-sized file, so you never hand-cut a 640px version again.
+ 02
+ The sizes attribute is calculated from the layout instead of guessed, which is the part everyone gets wrong by hand.
+ 03
+ Images used as CSS backgrounds get the same ladder through image-set() — so a 20 MB PNG can&#x27;t become the file a modern browser picks.
+ One upload, five files
+ Exhibit E
+ hero-shot.jpg · 4.2 MB · uploaded once
+ phone
+ tablet
+ laptop
+ desktop
+ 480w · 24 kB · 0.6% of the upload
+ 960w · 78 kB · 1.9% of the upload
+ 1440w · 164 kB · 3.9% of the upload
+ 1920w · 268 kB · 6.4% of the upload
+ 480w · webp
+ 24 kB
+ 960w · webp
+ 78 kB
+ 1440w · webp
+ 164 kB
+ 1920w · webp
+ 268 kB
+ original jpg · kept, never served
+ 4.2 MB
+ ↓ srcset + sizes written from your layout at publish
+ Watch the whole thing work.
+ Fig. 06 · the interface tour
+ instatic — design · build · manage · publish
+ We spent years making other people&#x27;s platforms bearable. Then we built the one we wanted underneath. — Why we built Instatic 
+ The makers
+ We build sites for a living too.
+ We&#x27;re the team behind Motion.page
+ and Core Framework
+ — tools thousands of people use to build websites for a living, mostly in WordPress. After years of working around legacy, markup we weren&#x27;t allowed to touch, and business models that need your site kept where they can see it, one question wouldn&#x27;t go away: what if the thing underneath was just right to begin with?
+ The honest part: this is version 0.0.x, early on purpose — the cheapest time to throw out bad ideas. APIs can still shift before 1.0. If that makes you nervous, wait for 1.0; no hard feelings. MIT licensed, one tier, and never a sales call to sit through.
+ motion.page
+ Motion.page
+ The scroll & timeline animation SDK running this very page.
+ Visit site →
+ core framework
+ Core Framework
+ The design-token engine built into Instatic&#x27;s own canvas.
+ Visit site →
+ 8,000+
+ GitHub stars
+ and climbing
+ ★ Star the repo →
+ On the bench
+ Everything above is the starting line.
+ Here&#x27;s what we&#x27;re building next. We publish the list rather than hint at it — dates are the one thing we won&#x27;t promise.
+ 01
+ SEO & AEO, all the way through
+ Metadata, structured data and machine-readable answers handled in the editor and emitted by the publisher — so a page reads clearly to a search engine and to the models people now ask instead of searching.
+ Building
+ 02
+ Real-time collaboration
+ Two people on the same canvas, seeing each other work. The editor&#x27;s undo history is already patch-based, which is the hard half of the problem.
+ Building
+ 03
+ A plugin IDE inside Instatic
+ Write, run and ship a plugin without leaving the admin: editor, sandbox console, install. Extending your CMS stops being a local-toolchain project.
+ Next up
+ 04
+ First-party analytics
+ Visitor numbers computed from your own server&#x27;s requests, so nothing has to be loaded into the visitor&#x27;s browser to count them.
+ Next up
+ 05
+ More modules, more SDK surface
+ More first-party blocks, a wider plugin API, and examples worth copying from.
+ Ongoing
+ 06
+ A sharper agent
+ More tools, and a deeper read of the site it&#x27;s actually editing.
+ Ongoing
+ Nothing here has a date on it, and the changelog is the honest record. Read the changelog →
+ Two minutes
+to live.
+ Railway is the fastest route: pick a template, hit the button, wait. It generates the secret keys, attaches the storage volume and wires up the health checks — you never open a terminal. Prefer your own box? It&#x27;s a single Docker image, or clone the repo and run three commands.
+ Deploy to Railway →
+ Star on GitHub ★
+ Watch a full build & deploy →
+ Read the docs →
+ bash — instatic
+ $
+ git clone https://github.com/corebunch/instatic.git
+ $
+ cd instatic && bun install
+ $
+ bun run dev
+ ✓
+ open http://localhost:5173
+ instatic
+ One Bun server holds the editor, the content engine and the publisher. Press publish, get a file on disk. Self-hosted and MIT.
+ ★ 8,000+ stars · MIT · open source
+ Product
+ Design
+ Build
+ Manage
+ Analyze
+ Extend
+ Develop
+ Docs
+ Architecture
+ Plugin SDK
+ GitHub
+ Project
+ Deploy on Railway
+ Changelog
+ Core Framework
+ Motion.page
+ © 2026 Instatic · MIT · self-hosted CMS for plain HTML
+ Own your site. Love building it.

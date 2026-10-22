@@ -1,0 +1,232 @@
+#SNAPSHOT {"url":"https://penpot.app/pricing","finalUrl":"https://penpot.app/pricing","fetchedAt":"2026-10-22T03:36:34.389Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"7227853f95b1a22fedd30bb376f01c180c8fffddfe9989f7dabfe5a755af0f6d"}
+Penpot Pricing | From Professional to Enterprise Plans 
+ Product
+ Self-host
+ AI Workflows
+ Features
+ Release notes
+ Integration & API
+ Business Cases
+ Features
+ Community
+ Community Space
+ Ambassador Program
+ Wall of love
+ Penpot Fest
+ Blog
+ Features
+ Features
+ Resources
+ Learning Center
+ Penpot UI Course
+ Plugins
+ Libraries & Templates
+ Tutorials
+ Dev Diaries
+ Help Center
+ Pricing
+ Contact Sales
+ Log In
+ Sign up for free
+ Contact Sales
+ Transparent pricing
+ Design without limits and govern your teams and workflows as you scale.
+ Cloud 
+(We host)
+ Self-host
+ (You host)
+ Professional
+ $0
+ user/​month
+ Sign up for free
+ Free and fully featured.
+No limits, no missing tools.
+Design and collaborate like a pro.
+ Talk to us
+ Unlimited
+ $7
+ editor/​month
+ Capped at $175 per month, no matter your team size.
+ Sign up for free
+ Support Penpot and unlock more. Extra space, extended history, and early features.
+A little extra goes a long way. 
+ Try it free for 14 days
+ Talk to us
+ Enterprise
+ $25
+ member/​month
+ Sign up for free
+ For organizations that need advanced governance, centralized administration, team permissions, and secure collaboration.
+ Try it free for 14 days
+ Talk to us
+ Private Server
+ $50k
+ year
+ Sign up for free
+ For organizations that need dedicated infrastructure. Custom hosting, advanced security, and enterprise-grade support.
+ Talk to us
+ All these prices are in USD.
+ Non-profit, education and open-source discounts are available - Apply here
+ The same core features are included
+ with every plan
+ From Professional to Enterprise, you get all the essential fundamentals built in.
+ No file limits
+ Create as many as you need within your storage capacity.
+ Unlimited Teams
+ Collaborate freely with unlimited teams.
+ Open Source
+ No vendor lock-in. You own your designs and code.
+ Create as many as you need within your storage capacity.
+ Professional
+ Unlimited
+ Enterprise
+ Private Server
+ Unlimited team size
+ Up to 8 team members, and unlimited viewers
+ Unlimited storage
+ Up to 10GB of storage (typical file size: 10–100MB)
+ Up to 25GB of storage (typical file size: 10–100MB)
+ 90 days of autosaved versions
+ 7 days
+ 30 days
+ 90 days file recovery
+ 7 days
+ 30 days
+ Early access to features
+ 50% discount on Penpot events
+ 50% discount on Penpot events
+ 50% discount on Penpot events
+ Single sign-on (SSO)
+ Choice of hosting region (EU, US, etc)
+ IP whitelisting
+ Penpot Pricing FAQs
+ Capabilities
+ How long does it take to learn Penpot coming from Figma or Adobe XD? 
+ Do you offer migration services from Figma or Adobe XD? 
+ How does Penpot handle design systems?
+ Can developers work directly in Penpot? 
+ Technical & deployment
+ What&#x27;s required to selfhost Penpot?
+ How do updates work for self hosted?
+ What security certifications do you support?
+ Business & pricing
+ What&#x27;s included in Enterprise vs Professional?
+ Trust & continuity
+ How is Penpot funded?
+ What&#x27;s your enterprise roadmap?
+ Which parts are open-source?
+ What if Penpot discontinues?
+ POWERING DESIGN AT
+ They love Penpot
+ Tens of thousands of organizations of all sizes proudly use Penpot, including many popular open-source projects.
+ I wanted to give @penpotapp a try for my product team and self-host it, and I’m honestly amazed at what the team has done to make this platform accessible. 
+Such a game changer for open source design. Viva, open source and Penpot! 
+ Angela Oduor
+ @AngieNicoleOD
+ Oh my gosh - I love it. The controls felt very intuitive to me - way more intuitive! They map nicely to the mental models of actual CSS. I LOVE the wrapping options as well.
+I also really appreciate how developer-friendly this is, so hand-off becomes simple!
+ Brett Haymaker
+ @BrettHaymaker
+ Building a design tool on top of web & dev standards is super clever. @penpotapp
+Imagine autolayout behaving like css flexbox and no more design & dev back and forth. 🪄🤹
+Using all these open standards. Chef💋
+ Sil Bormüller
+ @svorklab
+ More love
+ Stay in the loop
+ Receive product and Community updates!
+ Email 
+ I agree to receive this newsletter and I agree to the Penpot Privacy Policy
+ Get your newsletter
+ Email 
+ Checkbox
+ Checkbox
+ Checkbox
+ Subscribe
+ Full-stack Design
+ Product
+ Design
+ MCP Server
+ Code
+ Collaboration
+ Features
+ Design Tool
+ Penpot VS Figma
+ Penpot VS Adobe XD
+ Penpot VS Canva
+ Penpot VS Sketch
+ Company
+ About
+ Blog
+ Wall of love
+ Penpot Fest
+ Careers
+ Hiring!
+ Media Kit
+ Resources
+ Penpot UI Design Course
+ Plugins
+ Libraries & templates
+ Learning center
+ Tutorials
+ Community
+ Release notes
+ Help center
+ For Businesses
+ Security & Compliance
+ Pricing
+ Self-host
+ Integration & API
+ Why Penpot
+ Penpot Enterprise
+ Design Infrastructure
+ Resources
+ Penpot UI Design Course
+ Plugins
+ Libraries & templates
+ Learning center
+ Tutorials
+ Community
+ Dev diaries
+ Help center
+ For Business
+ Security & Compliance
+ Pricing
+ Self-host
+ Integration &API
+ Why Penpot
+ Penpot Enterprise
+ Design Infrastructure
+ Company
+ About
+ Blog
+ Wall of love
+ Penpot Fest
+ Careers
+ Media Kit
+ Use Cases
+ Wireframing
+ Prototyping
+ UX design
+ AI Workflows
+ Collaborative UI Design
+ Key Features
+ Design Tokens
+ Design Systems
+ CSS Grid and Flex Layouts
+ Legal
+ Terms & conditions
+ Privacy policy
+ Cookie policy
+ Data processing agreement
+ Whistleblowing
+ Made with LOVE and Open Source
+KALEIDOS Subsidiary SL © 2026
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"WebSite","name":"Penpot","url":"https://penpot.app","description":"The open-source design platform for teams building digital products at scale.","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://penpot.app/search?q={search_term_string}"},"query-input":"required name=search_term_string"}}
+{"@context":"https://schema.org","@type":"Organization","name":"Penpot","url":"https://penpot.app","foundingDate":"2021","logo":{"@type":"ImageObject","url":"https://penpot.app/logo/brand-dark-penpot-symbol-white.png","width":206,"height":64},"description":"Penpot is the open-source design platform for teams that build digital products at scale. Built on open standards and available as web-based or self-hosted, it helps organizations connect design systems, code, and AI workflows in one interoperable design infrastructure.","parentOrganization":{"@type":"Organization","name":"Kaleidos","url":"https://kaleidos.net"},"sameAs":["https://github.com/penpot/penpot","https://x.com/penpotapp","https://www.linkedin.com/company/penpot-app","https://www.youtube.com/@Penpot","https://www.crunchbase.com/organization/penpot","https://en.wikipedia.org/wiki/Penpot","https://www.wikidata.org/wiki/Q111586053"]}
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Penpot","url":"https://penpot.app","applicationCategory":"DesignApplication","operatingSystem":"Web","description":"Open-source design platform for teams that build digital products at scale. Design, prototype, and hand off — all in one place, with full SVG standards support.","featureList":["Vector design","Prototyping","Design systems","Developer handoff","Real-time collaboration","Open source","Self-hostable","AI workflows","MCP Server integration"],"offers":[{"@type":"Offer","name":"Free","price":"0","priceCurrency":"USD","availability":"https://schema.org/OnlineOnly","description":"Free forever for individuals and small teams"},{"@type":"Offer","name":"Unlimited","price":"7","priceCurrency":"USD","availability":"https://schema.org/OnlineOnly","description":"Advanced features, capped at $175/month regardless of team size"},{"@type":"Offer","name":"Enterprise","price":"25","priceCurrency":"USD","availability":"https://schema.org/OnlineOnly","description":"SSO, audit logs, SCIM, plugin allowlist — minimum $950/month"}],"author":{"@type":"Organization","name":"Kaleidos","url":"https://kaleidos.net"},"license":"https://github.com/penpot/penpot/blob/main/LICENSE"}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How long does it take to learn Penpot coming from Figma or Adobe XD?","acceptedAnswer":{"@type":"Answer","text":"Most designers or developers report being productive within 2-3 hours. Penpot's interface will feel familiar, with key differences in flex layouts and developer handoff features."}},{"@type":"Question","name":"Do you offer migration services from Figma or Adobe XD?","acceptedAnswer":{"@type":"Answer","text":"We work with a network of partners that help medium to large teams with their migration to Penpot, including: File conversion assistance Design system migration Team onboarding sessions Custom plugin or integration development for specific workflows Penpot is also developing a Figma plugin to automatically export Figma files that can be imported into Penpot."}},{"@type":"Question","name":"How does Penpot handle design systems?","acceptedAnswer":{"@type":"Answer","text":"Design systems are the source of truth in Penpot, offering Components, Variants, Design Tokens and Shared Libraries with developer-friendly outputs."}},{"@type":"Question","name":"Can developers work directly in Penpot?","acceptedAnswer":{"@type":"Answer","text":"Yes. Developers get code inspector, CSS properties, and direct SVG access. In addition, plugins and API enable integration with development workflows and tooling."}},{"@type":"Question","name":"What's required to selfhost Penpot?","acceptedAnswer":{"@type":"Answer","text":"You'll need a Linux server with Docker. Disk usage depends on how Penpot is used, especially database size and user-uploaded files. As a starting point, plan for 50GB–100GB of storage with elastic sizing to support up to 10 editors, and add ~5GB per extra editor. Our deployment guide covers full requirements, including memory and network specs."}},{"@type":"Question","name":"How do updates work for self hosted?","acceptedAnswer":{"@type":"Answer","text":"Professional: Pull from our repository Enterprise: Scheduled releases with change management support"}},{"@type":"Question","name":"What security certifications do you support?","acceptedAnswer":{"@type":"Answer","text":"Enterprise supports GDPR compliance, and Penpot has been successfully deployed on organizations that require other certifications like SOC2 and HIPAA."}},{"@type":"Question","name":"What's included in Enterprise vs Professional?","acceptedAnswer":{"@type":"Answer","text":"Enterprise includes everything in Professional, plus advanced organization management, governance, and centralized administration tools."}},{"@type":"Question","name":"How is Penpot funded?","acceptedAnswer":{"@type":"Answer","text":"Venture-backed with a sustainable revenue model through cloud and enterprise subscriptions."}},{"@type":"Question","name":"What's your enterprise roadmap?","acceptedAnswer":{"@type":"Answer","text":"Quarterly releases focused on enterprise security, compliance features. Customers influence priorities."}},{"@type":"Question","name":"Which parts are open-source?","acceptedAnswer":{"@type":"Answer","text":"All core features are open-source and always will be. Enterprise adds a proprietary security/management layer."}},{"@type":"Question","name":"What if Penpot discontinues?","acceptedAnswer":{"@type":"Answer","text":"Self-hosted deployments continue running. Access to code/data maintained through open-source license. Penpot also uses standard file formats to make sure you're not locked-in, even if running the cloud version."}}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://penpot.app"},{"@type":"ListItem","position":2,"name":"Penpot Pricing | From Professional to Enterprise Plans","item":"https://penpot.app/pricing"}]}
+{"@context":"https://schema.org","@type":"WebPage","url":"https://penpot.app/pricing","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1","h2","h3",".penpot-speakable"]}}

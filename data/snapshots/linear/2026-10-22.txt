@@ -1,0 +1,235 @@
+#SNAPSHOT {"url":"https://linear.app/pricing","finalUrl":"https://linear.app/pricing","fetchedAt":"2026-10-22T03:37:56.093Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"f5e8d54fb4e64019c6bb031b19b621337a9d0bd8bdb1bd3aa1a48cba764218b2"}
+Pricing – Linear 
+ Skip to content →
+ Product
+ Resources
+ Customers
+ Pricing
+ Now
+ Contact
+ Docs
+ Open app
+ Log in
+ Sign up
+ Pricing
+ Free
+ $0
+ Free for everyone
+ Unlimited members
+ 2 teams
+ 250 issues
+ Agent platform
+ Linear Agent
+ Get started
+ Get started
+ Basic
+ $10 per user/month
+ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:calc(var(--number-flow-mask-height, 0.25em) / 2) 0}.symbol{white-space:pre} $
+ 1
+ 0
+ per user/month
+ $10 per user/month 
+ Billed yearly 
+ All Free features +
+ 5 teams
+ Unlimited issues
+ Unlimited file uploads
+ Admin roles
+ Loops
+ Get started
+ Get started
+ Business
+ $16 per user/month
+ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:calc(var(--number-flow-mask-height, 0.25em) / 2) 0}.symbol{white-space:pre} $
+ 1
+ 6
+ per user/month
+ $16 per user/month 
+ Billed yearly 
+ All Basic features +
+ Unlimited teams
+ Private teams and guests
+ Triage Intelligence
+ Code Intelligence
+ Linear Insights
+ Linear Asks
+ Zendesk and Intercom integrations
+ Get started
+ Get started
+ Contact sales
+ Enterprise
+ Custom
+ Annual billing only
+ All Business features +
+ Invoice/PO billing
+ SAML and SCIM
+ Granular admin controls
+ Enterprise-grade security
+ Advanced org modeling
+ Migration & onboarding support
+ Priority support
+ Account management
+ Contact sales
+ Trusted by more than 40,000 companies
+ Customer stories
+ →
+ Features
+ Free
+ Basic
+ Business
+ Enterprise
+ Change Plan Free Basic Business Enterprise 
+ Members
+ Unlimited 
+ Unlimited 
+ Unlimited 
+ Unlimited 
+ File upload
+ 10MB 
+ Unlimited 
+ Unlimited 
+ Unlimited 
+ Issues
+ 250 issues
+ Unlimited 
+ Unlimited 
+ Unlimited 
+ Teams
+ 2 teams
+ 5 teams
+ Unlimited 
+ Unlimited 
+ Core
+ Issues, projects, cycles, initiatives
+ Customer requests
+ API and webhook access
+ Import and export
+ Triage
+ Pulse
+ Issue sync
+ Diffs
+ Guided reviews
+ Issue SLAs
+ Triage responsibility
+ Triage rules
+ Releases
+ 15 pipelines 
+ Unlimited 
+ Sub-initiatives
+ AI and agent workflows
+ Agent platform
+ MCP access
+ Linear Agent
+ Coding sessions **
+ Loops **
+ Code Intelligence
+ Triage Intelligence
+ Integrations
+ Integrations
+ Microsoft Teams integration
+ Multiple tenants 
+ Support integrations
+ Salesforce integration
+ Add-on
+ Team management
+ Sub-teams
+ 1 level 
+ 5 levels 
+ Private teams
+ Guest accounts
+ Analytics & Reporting
+ Progress reports
+ Insights
+ Dashboards
+ Linear Asks
+ Slack intake
+ Email intake
+ Web forms
+ Multiple Slack workspaces
+ Private Slack channels
+ Per-channel configurations
+ Security
+ SSO
+ Google 
+ Google 
+ Google 
+ Google + SAML 
+ Admin roles
+ Third-party app management
+ Team owners
+ Advanced authentication
+ SCIM provisioning
+ IP restrictions
+ Domain claiming
+ Audit log
+ HIPAA compliance
+ Support
+ Priority support
+ Account manager
+ Custom terms
+ Uptime SLA
+ Get started
+ Get started
+ Get started
+ Get started
+ Get started
+ Get started
+ or contact sales
+ Contact sales
+ ** Requires AI credits View docs 
+ Built for the future. Available today.
+ Get started
+ Contact sales
+ Open app
+ Download
+ Product
+ Intake
+ Plan
+ AI
+ Build
+ Pricing
+ Security
+ Features
+ Asks
+ Agents
+ Coding Sessions
+ Customer Requests
+ Insights
+ Mobile
+ Integrations
+ Changelog
+ Company
+ About
+ Customers
+ Careers
+ Now
+ Method
+ Quality
+ Brand
+ Resources
+ Switch
+ Download
+ Documentation
+ Docs
+ Developers
+ Status
+ Enterprise
+ Startups
+ Connect
+ Contact us
+ Community
+ X (Twitter)
+ GitHub
+ YouTube
+ Legal
+ Privacy
+ Terms
+ DPA
+ AUP
+ Privacy
+ Terms
+ DPA
+ AUP
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"WebPage","url":"https://linear.app/pricing","primaryImageOfPage":"https://linear.app/api/og/generic?title=Pricing&v=5"}

@@ -1,0 +1,92 @@
+#SNAPSHOT {"url":"https://opencode.ai","finalUrl":"https://opencode.ai/","fetchedAt":"2026-10-22T03:38:01.161Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"b4cb89edffd8450b7a7a7d8f5d1928166a4086e146411ad0387fbe44de2f7689"}
+OpenCode | The open source AI coding agent 
+ GitHub
+ Docs
+ Data
+ Zen
+ Go
+ Enterprise
+ Download
+ Open menu
+ The open source AI coding agent
+ Free models included or connect any model from any provider, 
+ including Claude, GPT, Gemini and more. 
+ curl
+ npm
+ bun
+ brew
+ paru
+ yay
+ curl -fsSL 
+ https://
+ opencode.ai/v2/install
+ | bash
+ Your browser does not support the video tag. 
+ What is OpenCode?
+ OpenCode is an open source agent that helps you write code in your terminal, IDE, or desktop.
+ [*]
+ LSP enabled Automatically loads the right LSPs for the LLM 
+ [*]
+ Multi-session Start multiple agents in parallel on the same project 
+ [*]
+ Share links Share a link to any session for reference or to debug 
+ [*]
+ GitHub Copilot Log in with GitHub to use your Copilot account 
+ [*]
+ ChatGPT Plus/Pro Log in with OpenAI to use your ChatGPT Plus or Pro account 
+ [*]
+ Any model 75+ LLM providers through Models.dev, including local models 
+ [*]
+ Any editor Available as a terminal interface, desktop app, and IDE extension 
+ Read docs 
+ The open source AI coding agent
+ [*]
+ With over 215,000 GitHub stars, 950 contributors, and over 20,000 commits, OpenCode is used and trusted by over 16M developers every month.
+ Fig 1. 215K GitHub Stars 
+ Fig 2. 950 Contributors 
+ Fig 3. 16M Monthly Devs 
+ Built for privacy first
+ [*]
+ OpenCode does not store any of your code or context data, so that it can operate in privacy sensitive environments. Learn more about privacy
+.
+ FAQ
+ What is OpenCode?
+ OpenCode is an open source agent that helps you write and run code with any AI model. It's available as a terminal-based interface, desktop app, or IDE extension.
+ How do I use OpenCode?
+ The easiest way to get started is to read the intro
+.
+ Do I need extra AI subscriptions to use OpenCode?
+ Not necessarily. OpenCode comes with a set of free models that you can use without creating an account. Aside from these, you can use any of the popular coding models by creating a Zen
+ account. While we encourage users to use Zen, OpenCode also works with all popular providers such as OpenAI, Anthropic, xAI etc. You can even connect your local models
+.
+ Can I use my existing AI subscriptions with OpenCode?
+ Yes, OpenCode supports subscription plans from all major providers. You can use your Claude Pro/Max, ChatGPT Plus/Pro, or GitHub Copilot subscriptions. Learn more
+.
+ Can I only use OpenCode in the terminal?
+ Not anymore! OpenCode is now available as an app for your desktop
+ and web
+!
+ How much does OpenCode cost?
+ OpenCode is 100% free to use. It also comes with a set of free models. There might be additional costs if you connect any other provider.
+ What about data and privacy?
+ Your data and information is only stored when you use our free models. Learn more about our models
+.
+ Is OpenCode open source?
+ Yes, OpenCode is fully open source. The source code is public on GitHub
+ under the MIT License
+, meaning anyone can use, modify, or contribute to its development. Anyone from the community can file issues, submit pull requests, and extend functionality.
+ Access reliable optimized models for coding agents Zen gives you access to a handpicked set of AI models that OpenCode has tested and benchmarked specifically for coding agents. No need to worry about inconsistent performance and quality across providers. Use validated models that work.
+ Learn about Zen 
+ Be the first to know when we release new products
+ Join the waitlist for early access.
+ Subscribe
+ GitHub [ 215K ]
+ Docs
+ Changelog
+ Discord
+ X
+ © 2026 Anomaly
+ Brand
+ Privacy
+ Terms
+ English

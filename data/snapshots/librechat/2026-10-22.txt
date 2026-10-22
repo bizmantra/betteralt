@@ -1,0 +1,86 @@
+#SNAPSHOT {"url":"https://www.librechat.ai","finalUrl":"https://www.librechat.ai/","fetchedAt":"2026-10-22T03:34:57.055Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"a63be9484401bb44b5a4a2bfb2d8820432cb5ca2a244f333440eeb1c6143dc91"}
+LibreChat - The Open-Source AI Platform 
+ Skip to main content
+ LibreChat is joining ClickHouse to power the open-source Agentic Data Stack 🎉 Learn more
+ LibreChat
+ Docs
+ Blog
+ Changelog
+ Search ⌘ K 
+ Star on GitHub
+ 46.1k
+ The Open-Source
+AI Platform
+ LibreChat brings together all your AI conversations in one unified, customizable interface
+ Get Started 
+ Try Demo
+ Trusted by companies worldwide
+ Everything you need
+ A comprehensive platform for AI-powered conversations
+ Agents
+ Advanced agents with file handling, code interpretation, and API actions
+ Learn more 
+ Code Interpreter
+ Execute code in multiple languages securely with zero setup
+ Learn more 
+ Models
+ AI model selection including Anthropic, AWS, OpenAI, Azure, and more
+ Learn more 
+ Artifacts
+ Create React, HTML code, and Mermaid diagrams in chat
+ Learn more 
+ Search
+ Search for messages, files, and code snippets in an instant
+ Learn more 
+ MCP
+ Connect to any tool or service with Model Context Protocol support
+ Learn more 
+ Memory
+ Persistent context across conversations so your AI remembers you
+ Learn more 
+ Web Search
+ Give any model live internet access with built-in search and reranking
+ Learn more 
+ Authentication
+ Enterprise-ready SSO with OAuth, SAML, LDAP, and two-factor auth
+ Learn more 
+ Open source, community driven
+ Join thousands of developers and organizations building with LibreChat
+ 46.1k
+ GitHub Stars
+ 58.5M
+ Docker Pulls
+ 420
+ Contributors
+ GitHub
+ Discord
+ Start building with LibreChat
+ Get up and running in minutes with our quickstart guide
+ Quickstart Guide 
+ About
+ About
+ Contact Us
+ Features
+ Resources
+ Changelog
+ Roadmap
+ Demo
+ Status
+ Documentation
+ Get Started
+ Local Install
+ Remote Install
+ Blog
+ Blog
+ Blog Authors
+ Newsletter
+ Subscribe
+ Unsubscribe
+ Legal
+ Terms of Service
+ Privacy policy
+ Cookie policy
+ © 2026 LibreChat
+
+#JSONLD (structured data published on the page, verbatim)
+[{"@context":"https://schema.org","@type":"Organization","name":"LibreChat","url":"https://www.librechat.ai","logo":"https://www.librechat.ai/android-chrome-512x512.png","description":"The Open-Source AI Platform.","sameAs":["https://github.com/LibreChat-AI/LibreChat","https://discord.librechat.ai"]},{"@context":"https://schema.org","@type":"WebSite","name":"LibreChat","url":"https://www.librechat.ai","description":"The Open-Source AI Platform.","publisher":{"@type":"Organization","name":"LibreChat","url":"https://www.librechat.ai"}},{"@context":"https://schema.org","@type":"SoftwareApplication","name":"LibreChat","applicationCategory":"DeveloperApplication","operatingSystem":"Web, Linux, macOS, Windows, Docker","url":"https://www.librechat.ai","description":"LibreChat brings together all your AI conversations in one unified, customizable, open-source interface.","license":"https://github.com/LibreChat-AI/LibreChat/blob/main/LICENSE","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]

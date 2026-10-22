@@ -1,0 +1,327 @@
+#SNAPSHOT {"url":"https://flowiseai.com","finalUrl":"https://flowiseai.com/","fetchedAt":"2026-10-22T03:36:19.807Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"c83864961f9a355c2cb7e87649132d2dda9986bbaee5f3466ed97e315c0df535"}
+Flowise - Build AI Agents, Visually We&#x27;re sunsetting Flowise.
+ Learn more
+ Star
+ Features
+ Case Studies
+ Pricing
+ Community
+ Webinars
+ Docs
+ Get Started 
+ Menu
+ Features
+ Case Studies
+ Pricing
+ Community
+ Webinars
+ Docs
+ Get Started 
+ Build AI Agents
+ Visually
+ Open source agentic systems development platform
+ Get Started 
+ GitHub
+ Trusted and used by teams around the globe
+ Iterate, fast
+ Flowise provides modular building blocks for you to build any agentic systems, from simple compositional workflows to autonomous agents
+ $
+ npm install -g flowise
+ $
+ npx flowise start
+ Get Started
+ Agentflow
+ Multi Agents
+ Build multi-agent systems with workflow orchestration distributed across multiple coordinated agents
+ Chatflow
+ Chat Assistants
+ Build single-agent systems and chatbots with support for tool calling and knowledge retrieval (RAG) from various data sources
+ HITL
+ Human In the Loop
+ Allow humans to review tasks performed by agents within the feedback loop
+ Observability
+ Execution Traces
+ Full execution traces, support Prometheus, OpenTelemetry and other observability tools
+ import
+ requests
+ url = 
+ "/api/v1/prediction/:id"
+ def
+ query (
+payload )
+:
+   response = 
+requests.post (
+     url,
+     json = 
+payload
+    )
+   return 
+ response.json (
+ )
+ output = 
+query (
+ {
+   question : 
+ "hello!"
+ )
+ }
+ Developer Friendly
+ API, SDK, Embed
+ Extend and integrate to your applications using APIs, SDK and Embedded Chat
+ APIs
+ Embedded Widget
+ Typescript & Python SDK
+ Enterprise Ready
+ Production Scale
+ Deploy and scale your AI applications with enterprise-grade infrastructure, support for both cloud and on-premises environments
+ 100+ LLMs, Embeddings, Vector DBs
+ On-prem & Cloud deployment
+ Scale horizontally with message queue and workers
+ Customer Success Stories
+ See how our customers are transforming their businesses
+ Flowise allows us to supercharge our existing embedded analytics platform with built-in AI features that our clients absolutely love
+ Terrence Sheflin, Director of Engineering
+ UneeQ is very excited to utilize a best-in-class engine that orchestrates AI as part of our proprietary AI brain, Synapse. Flowise has been able to dramatically decrease the resources required to deploy our digital human experiences
+ Tyler Merritt, CTO, UneeQ
+ Integrating Flowise with many other components and utilizing the function-calling capability of LLMs significantly enhanced the quality and efficiency of our new copilot feature in the QmicQatar iFleet product
+ Dr. Fethi Filali, Director of Technology & Applied Research
+ With Flowise, we were able to accelerate our internal "Build your own AI assistants easily & intuitively" initiative. Truly a game-changer in our tech journey
+ Iokin Pardo, BTS Digital Senior Director
+ Flowise enable us to do magic using GenAI with state of the art LLM and other suite of tools
+ Dr. Tu Hao Tran, General Cardiologist
+ Flowise has truly changed how we approach AI. It’s simple enough to prototype an idea in minutes, yet powerful enough to take all the way to production
+ David Micotto, Senior Director of DX & AI
+ Pricing
+ Start building for free, then scale with your users and teams
+ Free
+ $0 /month
+ 2 Flows & Assistants
+ 100 Predictions / month
+ 5MB Storage
+ Evaluations & Metrics
+ Custom Embedded Chatbot Branding
+ Community Support
+ Get Started
+ Most Popular
+ Starter
+ For individuals & small teams
+ $35 /month
+ Everything in Free
+ Unlimited Flows & Assistants
+ 10,000 Predictions / month
+ 1GB Storage
+ Community Support
+ Get Started - First Month Free
+ Pro
+ For medium-sized businesses
+ $65 /month
+ Everything in Starter
+ 50,000 Predictions / month
+ 10GB Storage
+ Unlimited Workspaces
+ 5 Users
+ + $15/user/month
+ Admin Roles & Permissions
+ Priority Support
+ Get Started
+ Community 🫶
+ Open source community is the heart of Flowise. See why developers love and build using Flowise
+   Join Discord
+ Siddhant Gupta
+ @ Siddhan65490545
+ ·
+ Follow
+ Finally after a month of relentless trial and error, I've successfully created an AI persona bot emulating the teaching style of my mentor 
+ @abnux
+ , the founder of 
+ @10kdesigners
+ . Excited to share my journey in this twitter thread. 🤖🎨 "Sound on 🎙️🔊" 
+ Watch on X
+ 2:43 PM · Oct 10, 2023 
+ 259
+ Reply
+ Copy link
+ Read 31 replies
+ Shubham Saboo
+ @ Saboo_Shubham_
+ ·
+ Follow
+ Flowise is trending on GitHub
+It's an open-source drag & drop UI tool that lets you build custom LLM apps in just minutes.
+Powered by LangChain, it features:
+- Ready-to-use app templates
+- Conversational agents that remember
+- Seamless deployment on cloud platforms
+Show more
+ Watch on X
+ 4:05 AM · Aug 16, 2023 
+ 518
+ Reply
+ Copy link
+ Read 18 replies
+ Eugene
+ @ sudo_eugene
+ ·
+ Follow
+ Using our new AI bot called Koos with 
+ @FlowiseAI
+ to create project management tasks in Notion, right from Slack 🤯
+Let me know who would like to see a 5min explainer on how we did this 🎉 
+ 8:39 AM · Sep 20, 2023 
+ 16
+ Reply
+ Copy link
+ Read 8 replies
+ Lior Alexander
+ @ LiorOnAI
+ ·
+ Follow
+ Flowise just reached 12,000 stars on Github. 
+It allows you to build customized LLM apps using a simple drag & drop UI.
+You can even use built-in templates with logic and conditions connected to LangChain and GPT:
+▸ Conversational agent with memory
+▸ Chat with PDF and Excel
+Show more
+ Watch on X
+ 4:33 PM · Aug 10, 2023 
+ 810
+ Reply
+ Copy link
+ Read 26 replies
+ Derek Cheung
+ @ derekcheungsa
+ ·
+ Follow
+ A multi-modal chatbot that effortlessly merges text and image generation into seamless conversations. 🚀
+📢 Watch the demo with conversation starting with asking for advice on building strong financial habits (sped up slightly for demo)
+ 🪄Chatbot magically generates a visual 
+Show more
+ Watch on X
+ 3:11 AM · Oct 2, 2023 
+ 21
+ Reply
+ Copy link
+ Read 4 replies
+ armand
+ @ armand_ruiz
+ ·
+ Follow
+ Create your first custom chatbot using LLMs in 5 min!
+No-coding required. We will use 
+ @FlowiseAI
+Join here to get the step-by-step tutorial and video tomorrow at 7 a.m. ET: 
+ nocode.ai
+ 5:06 PM · Aug 25, 2023 
+ 14
+ Reply
+ Copy link
+ Read 3 replies
+ Alessio Pomaro
+ @ alepom
+ ·
+ Follow
+ 🧠 Realizzare un 
+ #chatbot
+ o una ricerca evoluta per un sito web: quanto sarebbe stato complesso un paio d'anni fa? Tanto. Pochi servizi erano davvero efficienti. 
+🦾 Nelle immagini si vede un'esempio di come l'ho creato con 
+ @FlowiseAI
+ .
+ #AI
+ #Flowise
+ #LLaMA2
+ #Claude
+ 6:38 AM · Aug 24, 2023 
+ 8
+ Reply
+ Copy link
+ Read 2 replies
+ !RTFM
+ @ jbdamask
+ ·
+ Follow
+ Flowise is seriously impressive. Not only for quickly building and deploying LLM apps, but for visualizing chains
+ 12:08 AM · Aug 22, 2023 
+ 9
+ Reply
+ Copy link
+ Read 3 replies
+ Abu Mu&#x27;aaz
+ @ abumuaaz
+ ·
+ Follow
+ Thanks to 
+ @FlowiseAI
+ & 
+ @langchain
+ , it's so easy to create Telegram Bot that capable of getting real-time bus info (location & speed) from GPS device. Plus more functionality to calculate distance, duration & presenting map to user. 
+ @OpenAI
+ Function Calling is awesome too 👍 
+ 2:20 AM · Aug 21, 2023 
+ 19
+ Reply
+ Copy link
+ Read 3 replies
+ Tweet not found
+ The embedded tweet could not be found…
+ Damian Soto
+ @ sotoplatero
+ ·
+ Follow
+ Chatea Gratis con tus PDF sin código !!!
+En este hilo te muestro como crear un chat gpt personalizado sin una linea de código que puedes incluir en tu web
+Usamos 
+ @FlowiseAI
+ que es una increíble herramienta para crear aplicaciones LLM con 
+ #nocode
+ .
+Empezamos🧵 
+ 9:25 PM · Aug 17, 2023 
+ 23
+ Reply
+ Copy link
+ Read 2 replies
+ VerySmallWoods
+ @ verysmallwoods
+ ·
+ Follow
+ AutoGen = LLM多代理框架 👨‍👩‍👧‍👦
+Flowise = 无代码LLM工作流构建平台 0️⃣
+由 
+ @FlowiseAI
+ 负责构建功能单元；由AutoGen负责调度协作，任务执行。
+嗯！有点美妙！
+🎏 🎀 🪄 🪅 🎊 🎉
+AutoGen + Flowise = 零代码平台上的超级AI助理 
+视频 👇
+ youtu.be/gKNR1ghU1Ao?si…
+ #AutoGen
+ #Flowise
+ #OpenAI
+Show more
+ 1:05 AM · Oct 22, 2023 
+ 11
+ Reply
+ Copy link
+ Read more on X
+ Become a Flowise Affiliate
+ Earn 20% commission for 12 months on every successful referral
+ Learn More
+ Webinars
+ Learn how to use Flowise from different webinar series with our partners
+ How to Build No-Code SQL Chatbots using Flowise
+ Learn More
+ LlamaIndex Webinar: Build No-Code RAG with Flowise
+ Learn More
+ How to Build a NoCode AWS Bedrock LLM App on Flowise
+ Learn More
+ Drag and Drop LLMs: Simplifying RAG with FlowiseAI and Milvus
+ Learn More
+ LangChain Weekly Webinar - Low-Code/No-Code LLM
+ Learn More
+ Enterprise
+ Looking for specific use cases and support?
+ Lets Chat
+ Terms of Service
+ Privacy Policy
+ © FlowiseAI Inc. All rights reserved.

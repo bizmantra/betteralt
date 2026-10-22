@@ -1,0 +1,85 @@
+#SNAPSHOT {"url":"https://www.wolframalpha.com/pro/pricing","finalUrl":"https://www.wolframalpha.com/pro/pricing","fetchedAt":"2026-10-22T03:37:55.828Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"8bd132fb54e3145304f98278543c79c5573e58a6a8d8bdcef0e1b904014b9eab"}
+Pricing Plans: Wolfram|Alpha Pro 
+ SELECT A PRO PLAN
+ ANNUAL
+ MONTHLY
+ Basic
+ Personalized experience with customizable settings. (Does not include step-by-step solutions)
+ free with sign-in
+ Register for a Basic Account »
+ Customizable preferences
+ MOST POPULAR
+ Pro
+ FOR EVERYONE
+ Enhanced features with step-by-step solutions, increased computation time and calculator Web Apps
+ $
+ 9
+ .
+ 99
+ $
+ 5
+ .
+ 00
+ per month
+ billed $60.00 annually
+ Save $59.88 per year
+ SELECT
+ Customizable preferences
+ Step-by-step solutions
+ Practice problems with hints and step-by-step solutions
+ Guided calculators for finance, nutrition and more
+ 2X extended computation time
+ 2MB file size upload limit with instant analysis
+ Customized graphics and downloadable results
+ Enhanced step-by-step experience and photo input in the iOS and Android apps
+ Priority support from our experts
+ Additional guided calculators for educational and professional use
+ Pro Premium
+ FOR EVERYONE
+ Complete access to all features and priority customer support
+ $
+ 12
+ .
+ 00
+ $
+ 8
+ .
+ 25
+ per month
+ billed $99.00 annually
+ Save $45.00 per year
+ SELECT
+ Customizable preferences
+ Step-by-step solutions
+ Practice problems with hints and step-by-step solutions
+ Guided calculators for finance, nutrition and more
+ 3X extended computation time
+ 5MB file size upload limit with instant analysis
+ Customized graphics and downloadable results
+ Enhanced step-by-step experience and photo input in the iOS and Android apps
+ Priority support from our experts
+ Additional guided calculators for personal and professional use
+ See how Wolfram|Alpha can help at work and home:
+ ABOUT PRO
+Explore Pro For Students
+ and Pro For Educators
+ Pro
+ Mobile Apps
+ Products
+ Business
+ API & Developer Solutions
+ LLM Solutions
+ Resources & Tools
+ About
+ Contact
+ Connect
+ © 2026 
+Wolfram
+ Terms
+ Privacy
+ wolfram.com
+ Wolfram Language
+ Mathematica
+ Wolfram Demonstrations
+ Wolfram for Education
+ MathWorld

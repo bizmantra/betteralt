@@ -1,7 +1,14 @@
 {
- "at": "2026-10-19T03:37:29.633Z",
+ "at": "2026-10-22T03:39:04.538Z",
  "total": 183,
  "failed": [
+  {
+   "slug": "chatgpt",
+   "region": "in",
+   "pass": false,
+   "reason": "too short (229 chars, http 200)",
+   "method": "playwright"
+  },
   {
    "slug": "replit",
    "region": "us",
@@ -17,6 +24,13 @@
    "method": "playwright"
   },
   {
+   "slug": "chatgpt-images",
+   "region": "us",
+   "pass": false,
+   "reason": "too short (229 chars, http 200)",
+   "method": "playwright"
+  },
+  {
    "slug": "make",
    "region": "us",
    "pass": false,
@@ -25,13 +39,6 @@
   },
   {
    "slug": "capcut",
-   "region": "us",
-   "pass": false,
-   "reason": "too short (9 chars, http 451)",
-   "method": "playwright"
-  },
-  {
-   "slug": "replika",
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",
@@ -46,6 +53,13 @@
   },
   {
    "slug": "talkie",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "replika",
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",

@@ -1,0 +1,327 @@
+#SNAPSHOT {"url":"https://www.brevo.com/pricing/","finalUrl":"https://www.brevo.com/pricing/","fetchedAt":"2026-10-22T03:38:46.331Z","method":"playwright","region":"in","currency":"INR","http":200,"sha256":"60301d566f66b4b0d28c817ac0bc85dac0a1a2cad946421a03c480a30cafcf7d"}
+Platform
+Capabilities
+Campaigns & automation
+Boost conversions with automated multichannel customer journeys.
+Transactional messaging
+Send real-time email, SMS, & WhatsApp messages triggered via SMTP relay and API.
+Sales management
+Accelerate revenue with custom pipelines, sales automation, chat & more. 
+Brevo Data Platform
+Unify and activate customer data for smarter marketing and faster time-to-value. 
+Customer loyalty
+Turn customers into loyal fans with a fully integrated rewards program.
+Integrations
+Connect Brevo with 150+ digital tools like Shopify, WordPress, Stripe, Zapier and more.
+Channels
+Email
+SMS
+WhatsApp
+Web & mobile push
+Live chat
+Chatbot
+Wallet
+Phone
+Solutions
+Entrepreneurs & small business
+Run campaigns, automate marketing and manage contacts easily.
+Mid-market & enterprise
+Get custom solutions, tailored onboarding, full data control and enterprise-grade security.
+Ecommerce & retail
+Recover abandoned carts, personalize product recommendations and boost loyalty.
+Developers
+Build, extend, and integrate with Brevo’s developer guides, open API, SDKs, and code recipes.
+Pricing
+Resources
+Resource center
+Blog
+Ebooks
+Case studies
+Email templates
+Email marketing platforms
+Mailchimp alternatives
+Tools & Calculators
+Ecosystem
+Integrations
+Product updates
+Community
+Events
+Partner programs
+Find an expert
+Support
+Help center
+Contact us
+API docs
+Log in
+Sign Up Free
+Talk to sales
+Free forever, no credit card needed
+Best for individuals and solopreneurs building an online presence.
+Sign up free
+See all features
+Monthly
+Yearly (-10%)
+INR
+Starter
+Best for single users starting with email and multi-channel marketing.
+₹625
+-10%
+₹562
+.50
+  per month
+Sign up
+Features included in Starter:
+From 5,000 emails per month
+Email & SMS
+Send email & transactional messages. SMS credit sold separately.
+Drag & Drop email editor
+Craft polished emails fast—just drag, drop, and send.
+Email templates
+Jumpstart campaigns with responsive templates tailored to your industry and use case.
+AI content generator
+Draft subject lines and email copy, adjust tone, and more.
+MCP for ChatGPT & Claude
+Manage campaigns and contacts directly from ChatGPT, Claude & other AI tools
+Advanced segmentation
+Search, save, and manage contacts with filters like demographics, website activity, campaign engagement, and custom events. Create as many segments as you need.
+Forms
+Create branded forms to capture leads and grow your list. Automatically trigger follow-up emails as soon as someone signs up.
+Basic reporting & analytics
+Track opens and clicks to measure campaign performance.
+Email support
+Get help via email from our customer care team. Support available in 6 languages.
+No Brevo logo
+₹675.00 per month
+Sales Essentials
+₹2,337.33 per month
+See all features
+Most Popular
+Standard
+Best for small businesses ready to automate and test campaigns.
+₹1,345
+-10%
+₹1,210
+.50
+  per month
+Sign up
+Everything in Starter, plus:
+Marketing automation
+Create an unlimited number of automated, multi-step workflows to engage users at key moments along their journey.
+A/B testing
+Test subject lines or content variants to improve opens and clicks.
+Advanced email reporting
+See where and how contacts engage to optimize future campaigns.
+Click heatmaps, geography & device reports
+AI send time optimization
+Automatically send emails when each contact is most likely to engage.
+Web & event tracking
+Track on‑site behavior and custom events to trigger messages and segment with precision.
+Landing pages
+Create standalone campaign pages without a developer.
+1 page included
+No Brevo logo
+Remove the “Sent with Brevo” footer to keep emails strictly professional.
+Sales Essentials
+₹2,337.33 per month
+See all features
+Professional
+Best for teams leveraging data and AI to drive growth across channels.
+₹44,680
+-10%
+₹40,212
+.42
+  per month
+Talk to sales
+Sign up
+Everything in Standard, plus:
+From 150,000 emails per month
+Additional marketing channels
+WhatsApp, Popups, Mobile & Web Push
+Multi-user access
+10 seats included
+Contact scoring
+Get contact scores based on engagement, purchases, and behaviors to trigger automations or create targeted segments. Includes RFM, CLV and more.
+Advanced ecommerce features
+Drive sales with AI recommendations, back-in-stock alerts, and coupons.
+AI segmentation
+Let Aura AI suggest audience groups based on behavior and attributes to accelerate targeting.
+AI Data Analyst
+Ask plain‑language questions and get instant answers from your data with Aura AI.
+Phone support
+Speak directly with our team when you need faster resolution.
+Deliverability Specialist support
+Work with a specialist to improve email deliverability and inbox placement. 3 hours per year included.
+Sales Advanced
+₹4,754.67 per month/user
+See all features
+Enterprise
+Best for companies with 1M+ contacts needing custom solutions & full data control.
+Custom price
+Talk to sales
+Everything in Professional, plus:
+Multi-account management
+Manage multiple business units & brands under one master account.
+Custom objects
+Import all your unique data—like subscription dates or store locations—and use it to create more personalized customer journeys.
+Brevo Mobile Wallet
+Digitize loyalty cards, vouchers, tickets, and more—then send mobile wallet notifications to drive repeat sales and visits.
+Custom loyalty engine
+Create and manage a fully integrated loyalty program with customizable points, tiers, and rewards—natively connected to your customer data to boost retention and LTV.
+Custom data integrations
+Sync customer data across your warehouse, POS, ERP, and other systems with Brevo via direct connectors or secure SFTP — ensuring accurate, up-to-date information everywhere.
+Dedicated IP
+Maintain full control of your sending reputation with a dedicated IP.
+SSO & SAML
+Secure, enterprise‑grade single sign‑on for centralized access management.
+Tailored onboarding
+Receive personalized setup support, hands-on training, integration assistance, and strategic guidance to launch faster.
+CSM support
+Recurring strategic support to build campaigns, analyze performance, and reach your goals (limited time).
+Sales Advanced
+See all features
+Customize your plan
+Free
+Starter
+Standard
+Professional
+Monthly email volume 
+(campaigns & transactional)
+(campaigns & transactional)
+5,000 emails/month
+5k
+10k
+15k
+20k
+30k
+40k
+50k
+60k
+80k
+100k
+More
+Recommended
+Remove Brevo branding
+Remove the "Sent by Brevo" sticker from the bottom of your emails.
+₹675.00 per month
+SMS campaigns
+Send personalized mobile content with SMS and WhatsApp campaigns.
+SMS price based on volume and destination of messages.
+See pricing table
+Email credits
+Choose the number of emails your business needs.
+Price based on number of emails. No daily sending limit, no expiration date.
+See pricing table
+Sales Packages
+.
+Custom pipelines, sales automation, chat & more.
+Sales Free
+₹0.00 per month with 1 seat included
+Sales Essentials
+₹2,337.33 per month with 1 seat included
+Monthly
+Yearly (-10%)
+Your plan
+Starter features
+₹562.50/month
+5k emails/month
+Included
+500 contacts
+Included
+Web push 1,000 subscribers
+Included
+Total price
+₹562.50/month
+₹625.00 with monthly billing
+Sign up
+Join 600,000+ customers around the world who trust Brevo
+Awarded for excellence
+Loved by users everywhere
+2500+ reviews
+3300+ reviews
+150+ reviews
+Frequently asked questions
+Do I have to enter my credit card details to sign up?
+No. We only need your email address and the name of your organization, and then you will be able to start creating campaigns.
+Do I need any prior knowledge or skills?
+Not at all! Brevo is designed with simplicity in mind. Even if you're a complete beginner, you'll have all the tools you need to build stunning emails, create contact lists and set advanced preferences. If you ever need guidance, you can take a look at our many tutorials and resources, or contact our support team.
+Can I send transactional emails on my plan?
+Yes! All Brevo plans give you access to transactional email features, including RESTful APIs, SMTP, outbound webhooks, unlimited log retention, and more. Brevo integrates with all major CMS and our API docs are complete with guides, SDKs, libraries and code recipes to help you get started.
+Are you committed to this plan?
+You choose your commitment period when you sign up for a plan (monthly or yearly). There are no hidden fees with Brevo. Sign up for a plan or purchase credits as you need them, there are no additional fees.
+Why choose a pay-as-you-go plan?
+A pay-as-you-go plan is ideal for businesses and organizations that don't send emails often, or that don’t have a large contact list. PAYG credits do not expire, so you can use them at your own pace. One email sent equals one credit deducted. You still get all of our great features and services, however they do not include phone support. It is still possible to easily buy more credits or shift to a monthly plan at anytime though.
+Can I try Brevo before purchasing a plan?
+Absolutely! When you create an account, you will automatically have a Free plan to upload your contacts. Once we approve your account for sending, you can start sending up to 300 emails per day.
+What if I change my mind?
+If you change your mind, you can cancel your plan at any time directly from your account. Your data will be stored if you wish to use our services again, or we can delete all of your records upon your request.
+How can I pay?
+All payments are made by credit card, through our secure payment processor, Adyen, or by Paypal. If you subscribe to a monthly plan, the subscription period is 30 days and charges are processed at the beginning of each period. Email and SMS credits are charged at purchase. All statements are available within your account.
+What is a dedicated IP?
+A dedicated IP plan allows you to send email campaigns using your domain name and your own signature. You create transparency with your customers and build a reputation based on your IP and your domain name.
+Don’t see your question answered here?
+Contact us and we'll be happy to answer any additional questions you may have.
+Contact us
+Are you an LLM agent? Check out our Markdown pricing.
+PRODUCT
+Email marketing
+Transactional email
+Email MCP
+Wallet
+Enterprise solution
+All features
+Pricing
+Integrations
+GDPR
+Security
+Product updates
+COMPARE
+Bulk email service
+Email marketing platforms
+Brevo vs Mailchimp
+Brevo vs HubSpot
+Brevo vs Constant Contact
+Brevo vs Klaviyo
+Mailchimp alternatives
+HubSpot alternatives
+Free SMTP server
+RESOURCES
+Help center
+Platform status
+Community
+Blog
+Glossary
+Email templates
+Ebooks & webinars
+Developers
+Migrate from Mailchimp
+Tools & Calculators
+PARTNERS
+All partner programs
+Affiliates
+Agency partners
+Startups & VCs
+Integration partners
+Find an expert
+COMPANY
+About us
+Contact us
+Leadership
+Careers
+Press
+B Corp
+Carbon footprint
+Non Profits
+Cookie Settings
+Acceptable Use Policy
+Privacy
+Terms of service
+Legal notice
+Responsible Disclosure
+© Brevo 2026. All rights reserved
+By clicking “Accept All Cookies”, you agree to the storing of cookies in your browser to enhance site navigation, analyze site usage, and provide our ad partners with information for ad personalization and measurement.Cookie Details
+Cookies Settings Reject All Accept All Cookies
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.brevo.com/#organization","name":"Brevo","url":"https://www.brevo.com/","logo":{"@type":"ImageObject","@id":"https://www.brevo.com/#logo","url":"https://corp-backend.brevo.com/wp-content/uploads/2025/07/Brevo_logo.svg"},"sameAs":["https://www.linkedin.com/company/brevo/","https://x.com/brevo_official","https://www.instagram.com/brevo/","https://www.youtube.com/@brevo_official","https://www.facebook.com/brevo.official","https://www.wikidata.org/wiki/Q28484549"],"address":{"@type":"PostalAddress","streetAddress":"823 Congress Avenue Suite 300","addressLocality":"Austin","postalCode":"TX 78701","addressCountry":"United States"},"hasCredential":{"@type":"EducationalOccupationalCredential","credentialCategory":"certification","name":"B Corp Certification","image":{"@type":"ImageObject","url":"https://corp-backend.brevo.com/wp-content/uploads/2025/03/bcorp-1024x456-1.webp"}}},{"@type":"WebSite","@id":"https://www.brevo.com/#website","url":"https://www.brevo.com/","name":"Brevo","inLanguage":"en_US","publisher":{"@id":"https://www.brevo.com/#organization"}},{"@type":"SoftwareApplication","@id":"https://www.brevo.com/pricing/#software","name":"Brevo","description":"Brevo is the leading Customer Platform designed to efficiently build meaningful relationships at scale. With Brevo, businesses have a unified view of the customer journey in one easy-to-use platform to grow their business with intuitive marketing and sales tools: Email Marketing, Marketing Automation, SMS, WhatsApp campaigns, CDP, CRM & more.","applicationCategory":"MarketingApplication","operatingSystem":"All","url":"https://www.brevo.com/pricing/","offers":[{"@type":"Offer","name":"Free","price":"0","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Starter","price":"9","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"9","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Standard","price":"18","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"18","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Professional","price":"499","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"499","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Free","price":"0","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Starter","price":"96.96","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"96.96","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Standard","price":"194.04","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"194.04","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Professional","price":"5388.96","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"5388.96","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Free","price":"0","priceCurrency":"EUR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"EUR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Starter","price":"7","priceCurrency":"EUR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"7","priceCurrency":"EUR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Standard","price":"15","priceCurrency":"EUR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"15","priceCurrency":"EUR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Professional","price":"499","priceCurrency":"EUR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"499","priceCurrency":"EUR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"EUR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"EUR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Free","price":"0","priceCurrency":"EUR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"EUR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Starter","price":"75.96","priceCurrency":"EUR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"75.96","priceCurrency":"EUR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Standard","price":"162","priceCurrency":"EUR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"162","priceCurrency":"EUR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Professional","price":"5388.96","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"5388.96","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"USD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"USD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Free","price":"0","priceCurrency":"GBP","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"GBP","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Starter","price":"6","priceCurrency":"GBP","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"6","priceCurrency":"GBP","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Standard","price":"13","priceCurrency":"GBP","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"13","priceCurrency":"GBP","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Professional","price":"429","priceCurrency":"GBP","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"429","priceCurrency":"GBP","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"GBP","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"GBP","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Free","price":"0","priceCurrency":"GBP","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"GBP","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Starter","price":"65.04","priceCurrency":"GBP","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"65.04","priceCurrency":"GBP","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Standard","price":"140.04","priceCurrency":"GBP","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"140.04","priceCurrency":"GBP","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Professional","price":"4635","priceCurrency":"GBP","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"4635","priceCurrency":"GBP","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"GBP","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"GBP","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Free","price":"0","priceCurrency":"CAD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"CAD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Starter","price":"10","priceCurrency":"CAD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"10","priceCurrency":"CAD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Standard","price":"22","priceCurrency":"CAD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"22","priceCurrency":"CAD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Professional","price":"729","priceCurrency":"CAD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"729","priceCurrency":"CAD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"CAD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"CAD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Free","price":"0","priceCurrency":"CAD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"CAD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Starter","price":"108","priceCurrency":"CAD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"108","priceCurrency":"CAD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Standard","price":"237.96","priceCurrency":"CAD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"237.96","priceCurrency":"CAD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Professional","price":"7868.04","priceCurrency":"CAD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"7868.04","priceCurrency":"CAD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"CAD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"CAD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Free","price":"0","priceCurrency":"AUD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"AUD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Starter","price":"12","priceCurrency":"AUD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"12","priceCurrency":"AUD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Standard","price":"25","priceCurrency":"AUD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"25","priceCurrency":"AUD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Professional","price":"824","priceCurrency":"AUD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"824","priceCurrency":"AUD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"AUD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"AUD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Free","price":"0","priceCurrency":"AUD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"AUD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Starter","price":"129.96","priceCurrency":"AUD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"129.96","priceCurrency":"AUD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Standard","price":"270","priceCurrency":"AUD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"270","priceCurrency":"AUD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Professional","price":"8,892","priceCurrency":"AUD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"8,892","priceCurrency":"AUD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"AUD","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"AUD","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Free","price":"0","priceCurrency":"INR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"INR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Starter","price":"625","priceCurrency":"INR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"625","priceCurrency":"INR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Standard","price":"1345","priceCurrency":"INR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"1345","priceCurrency":"INR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Professional","price":"44680","priceCurrency":"INR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"44680","priceCurrency":"INR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"INR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"INR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Free","price":"0","priceCurrency":"INR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"0","priceCurrency":"INR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Starter","price":"6750","priceCurrency":"INR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"6750","priceCurrency":"INR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Standard","price":"14526","priceCurrency":"INR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"14526","priceCurrency":"INR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Professional","price":"482549.04","priceCurrency":"INR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"482549.04","priceCurrency":"INR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}},{"@type":"Offer","name":"Enterprise","price":"Custom Price","priceCurrency":"INR","url":"https://www.brevo.com/pricing/","priceSpecification":{"@type":"UnitPriceSpecification","price":"Custom Price","priceCurrency":"INR","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"ANN"}}}],"sameAs":["https://www.wikidata.org/wiki/Q28484549"],"aggregateRating":{"@type":"AggregateRating","ratingValue":4.5,"reviewCount":3300,"bestRating":5,"worstRating":1}}]}
+{"@context":"https://schema.org","@graph":[{"@type":"AggregateRating","itemReviewed":{"@type":"SoftwareApplication","name":"Brevo","applicationCategory":"BusinessApplication","operatingSystem":"Web browser"},"ratingValue":4.5,"bestRating":5,"reviewCount":2500},{"@type":"AggregateRating","itemReviewed":{"@type":"SoftwareApplication","name":"Brevo","applicationCategory":"BusinessApplication","operatingSystem":"Web browser"},"ratingValue":4.6,"bestRating":5,"reviewCount":3300},{"@type":"AggregateRating","itemReviewed":{"@type":"SoftwareApplication","name":"Brevo","applicationCategory":"BusinessApplication","operatingSystem":"Web browser"},"ratingValue":4.5,"bestRating":5,"reviewCount":150}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I have to enter my credit card details to sign up?","acceptedAnswer":{"@type":"Answer","text":"No. We only need your email address and the name of your organization, and then you will be able to start creating campaigns."}},{"@type":"Question","name":"Do I need any prior knowledge or skills?","acceptedAnswer":{"@type":"Answer","text":"Not at all! Brevo is designed with simplicity in mind. Even if you're a complete beginner, you'll have all the tools you need to build stunning emails, create contact lists and set advanced preferences. If you ever need guidance, you can take a look at our many tutorials and resources, or contact our support team."}},{"@type":"Question","name":"Can I send transactional emails on my plan?","acceptedAnswer":{"@type":"Answer","text":"Yes! All Brevo plans give you access to transactional email features, including RESTful APIs, SMTP, outbound webhooks, unlimited log retention, and more. Brevo integrates with all major CMS and our API docs are complete with guides, SDKs, libraries and code recipes to help you get started."}},{"@type":"Question","name":"Are you committed to this plan?","acceptedAnswer":{"@type":"Answer","text":"You choose your commitment period when you sign up for a plan (monthly or yearly). There are no hidden fees with Brevo. Sign up for a plan or purchase credits as you need them, there are no additional fees."}},{"@type":"Question","name":"Why choose a pay-as-you-go plan?","acceptedAnswer":{"@type":"Answer","text":"A pay-as-you-go plan is ideal for businesses and organizations that don't send emails often, or that don’t have a large contact list. PAYG credits do not expire, so you can use them at your own pace. One email sent equals one credit deducted. You still get all of our great features and services, however they do not include phone support. It is still possible to easily buy more credits or shift to a monthly plan at anytime though."}},{"@type":"Question","name":"Can I try Brevo before purchasing a plan?","acceptedAnswer":{"@type":"Answer","text":"Absolutely! When you create an account, you will automatically have a Free plan to upload your contacts. Once we approve your account for sending, you can start sending up to 300 emails per day."}},{"@type":"Question","name":"What if I change my mind?","acceptedAnswer":{"@type":"Answer","text":"If you change your mind, you can cancel your plan at any time directly from your account. Your data will be stored if you wish to use our services again, or we can delete all of your records upon your request."}},{"@type":"Question","name":"How can I pay?","acceptedAnswer":{"@type":"Answer","text":"All payments are made by credit card, through our secure payment processor, Adyen, or by Paypal. If you subscribe to a monthly plan, the subscription period is 30 days and charges are processed at the beginning of each period. Email and SMS credits are charged at purchase. All statements are available within your account."}},{"@type":"Question","name":"What is a dedicated IP?","acceptedAnswer":{"@type":"Answer","text":"A dedicated IP plan allows you to send email campaigns using your domain name and your own signature. You create transparency with your customers and build a reputation based on your IP and your domain name."}}]}

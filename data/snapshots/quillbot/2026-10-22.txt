@@ -1,0 +1,267 @@
+#SNAPSHOT {"url":"https://quillbot.com/premium","finalUrl":"https://quillbot.com/premium","fetchedAt":"2026-10-22T03:36:16.661Z","method":"playwright","region":"in","currency":"INR","http":200,"sha256":"eda2ecbbb94643f4260442ea444040f0be06ccbb63d81c51886e0a0888e1c81d"}
+Quillbot Premium
+Paraphraser
+Grammar Checker
+AI Detector
+Plagiarism Checker
+AI Humanizer
+AI Chat
+AI Image Generator
+Translate
+Summarizer
+Citation Generator
+More
+Quillbot for Chrome
+Empower your writing with Premium
+Achieve new heights when you write without limits
+All Premium plans include:
+Paraphraser
+Grammar
+Checker
+Plagiarism
+Checker
+AI Detector
+AI Humanizer
+Summarizer
+Apps
+Browser
+Extensions
+Much more
+Free
+Fix errors, strengthen your work,
+and get help brainstorming
+₹0
+Per month
+Sign up
+Features you’ll love*:
+Paraphrase up to 100 words
+Paraphrase in 2 modes
+Fix basic grammar errors
+Humanize up to 100 words, limited usage
+Generate basic summaries
+Access AI Detector (limited)
+Most popular
+Premium
+Feel confident your writing is clear,
+impactful, and flawless
+₹334
+Per month, billed annually
+Upgrade
+Everything in a free plan, plus*:
+Full access to paraphrasing
+Paraphrase in unlimited modes
+Get advanced grammar recommendations
+Full access to humanizing
+Create custom summaries
+Full access to AI Detector
+Prevent accidental plagiarism
+And much more
+Team Plan
+Empower your organization to write with clarity and confidence
+Explore Team Plan
+Everything in Premium plan, plus*:
+Team usage metrics
+User management dashboard
+Centralized billing
+Data control
+Priority assistance & account management support
+And much more
+*
+Usage limits
+ apply and may vary by surface
+Compare plan features
+Everything you need to succeed
+Flexibility
+Creativity
+Integrity
+Inspiration
+Confidence
+Slide 1 of 5
+Experiment with 10+ different modes
+Stand out from the crowd with a variety of paraphrasing modes. From Academic to Simple, we have a style for every situation.
+Upgrade to Premium
+Create your own unique modes
+Give your writing a fresh twist by creating a mode of your own. Want to sound like a CEO, pro scholar, or bestselling author? We can do it.
+Upgrade to Premium
+Prevent unintentional plagiarism
+Verify your writing is 100% yours with Plagiarism Checker. Analyze your paper in seconds and identify missed citations in 100+ languages.
+Upgrade to Premium
+Write clearly and impactfully
+Go beyond basic corrections and let your writing shine. Eliminate passive voice, rewrite for clarity, and more with Premium recommendations.
+Upgrade to Premium
+Communicate with confidence
+Ensure your message comes across as intended with Tone insights. Understand how your audience perceives you with valuable analytics.
+Upgrade to Premium
+Trusted by over 35 million writers worldwide
+Whether you’re a student, content creator, or working professional, Quillbot can help you take your writing to new heights
+Upgrade to Premium
+“As someone who makes money online by writing, I wouldn't say I like fluff, so I will say that briefly. Quillbot is one of my favorite tools, and I use it daily. It will save you time and money.”
+Jerry Keszka
+Content creator
+“My favorite Quillbot tools are the Paraphraser and the AI Detector. These aren't static tools; they're constantly evolving and helping me improve my technical, commercial and creative writing.”
+Nico Zwaneveld
+Published author
+"I've been writing blogs and articles for over four years now, and as a teacher, I've always needed something to aid or simplify my writing process. That's when I discovered Quillbot and its capabilities. It not only saves me time but also enhances my creativity."
+Akshita Thakur
+English language trainer
+"As a student, I can confidently say that Quillbot has been a game-changer in my academic journey. It’s an indispensable tool for any student looking to improve their writing skills and save time on their assignments."
+Danisha Verma
+Student
+Explore Quillbot Premium
+Free*
+₹0
+Per month
+Sign up
+Premium
+₹334
+Per month, billed annually
+Upgrade
+Team Plan
+Explore Team Plan
+Rewriting
+Paraphrase your writing
+Up to 100 words
+Full access
+Full access
+Paraphrase in built-in modes
+Standard and Fluency
+9 unique modes
+9 unique modes
+Create unlimited Custom modes
+Compare different modes
+Access Paraphraser History
+Paraphrase in 23 languages
+Translate text into 40+ languages
+Adjust number of synonyms
+Refining
+Prevent accidental plagiarism
+25,000 words/month
+25,000 words/month
+Access advanced writing suggestions
+Get Tone insights
+Correct grammar in 6 languages
+Create accurate citations
+Detect AI-generated content
+Humanize text
+Up to 100 words, limited usage
+Full access
+Full access
+Get Humanizer insights & history
+No history & limited insights
+Full history & insights
+Full history & insights
+Reading
+Summarize text
+1,200 words
+6,000 words
+6,000 words
+Create custom summaries
+Creation
+Chat & write with AI
+Limited usage
+Higher usage
+Higher usage
+Create images with AI
+Access with usage limits
+Access with usage limits
+Miscellaneous
+Save documents in Quillbot Flow
+10 MB
+100 MB
+100 MB
+Unlock faster processing speed
+Team features
+Team usage metrics
+User management dashboard
+Centralized billing
+Customer Support
+Help center
+Priority assistance
+Priority support
+Integrations
+Google Chrome extension
+Microsoft Edge extension
+macOS app
+Word add-in
+Android keyboard and app
+iOS keyboard and app
+*
+Usage limits
+ apply and may vary by surface
+FAQs
+What happens if I pause my subscription?
+How do I pay for a Premium subscription?
+Can I use Quillbot Premium on multiple devices?
+Do you offer volume discounts?
+Premium empowers writing without limits.
+Discover what you can accomplish with the right tools
+Upgrade to Premium
+Get Premium for your team
+Help your team hit their goals. Discover how everyone can have Premium—for one low price.
+See details
+Extensions & Apps
+Quillbot for Chrome
+Quillbot for Edge
+Quillbot for Safari
+Quillbot for Android
+Quillbot for iOS
+Quillbot for Windows
+Quillbot for macOS
+Quillbot for Word
+Premium
+Plan Details
+Pricing
+For Teams
+Affiliates
+Request a Demo
+Tools
+Writing Tools
+Language Correction
+Citing and Originality
+AI Tools
+PDF Tools
+Image Tools
+Color Tools
+Other Tools
+Converter Tools
+Design Templates
+Company
+About
+Trust Center
+Careers
+Help Center
+Contact Us
+Resources
+Follow us on social
+Quillbot, a Learneo, Inc. business
+© Learneo, Inc. 2026
+Privacy Policy
+Terms of Service
+Cookie Policy
+Cookie Preferences
+Copyright Policy
+Community Guidelines
+Academic integrity
+Made with
+at 
+UIUC
+
+#JSONLD (structured data published on the page, verbatim)
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://quillbot.com"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Premium",
+      "item": "https://quillbot.com/premium"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+#SNAPSHOT {"url":"https://concat.standalones.org","finalUrl":"https://concat.standalones.org/","fetchedAt":"2026-10-22T03:39:41.210Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"7d6551cc63a948cfc8e8572bfd1982092768395e237e578972958fba814ad02b"}
+Concat: the free, open-source CapCut replacement Concat
+ Product 
+ Features
+ Captions, voices, titles and effects
+ Download
+ Every platform, from GitHub Releases
+ Roadmap
+ What comes next and what it costs
+ Learn 
+ Guides
+ Where everything is, step by step
+ Developer docs
+ The API, JSON-RPC and gRPC
+ FAQ
+ Common questions
+ Community 
+ Sponsor
+ Your logo on the repository and here
+ Contact
+ Discord and email
+ GitHub
+ Source, issues and releases
+ Discord
+ Join the server
+ Download
+ Product
+Features
+Download
+Roadmap
+ Learn
+Guides
+Developer docs
+FAQ
+ Community
+Sponsor
+Contact
+GitHub
+Discord
+Free and open source · 0.2.8 on GitHub Releases
+ The free, open-source CapCut
+ replacement.
+ Auto-captions, text-to-speech, background removal, keyframes, effects, titles and multi-track cutting, up to 4K. All of it on your machine: no watermark, no account, no subscription.
+ Download for Windows
+ All platforms
+ Windows, macOS, Linux, Android and iOS. Nothing uploads.
+ Everything people open CapCut for. None of the catches.
+ 206K+
+ Downloads from GitHub Releases
+ 9.7K
+ Stars on GitHub
+ 100
+ Effects, filters and transitions
+ 25
+ Languages in the app
+ A tour of the window.
+ Four panes, one screenshot, nothing mocked up. Scroll and the picture follows.
+ 01
+ One window, four panes.
+ Library, monitor, inspector and timeline. Every pane can be swapped, split or dragged somewhere else.
+ 02
+ The Library.
+ Media, Audio, Text, Stickers, Transitions, Effects, Filters, Adjustments and Templates as pages. Import footage, then single-click a filter to audition it on the monitor or drag it onto a lane.
+ 03
+ The monitor.
+ Scrub, play, step frames. Drag a title or a clip around in the picture; its position, scale and rotation follow. Quality switches between full, half and quarter.
+ 04
+ The inspector.
+ Everything about the selected clip: Text, Effects, Adjust, sound. Font, weight, size, colour, shadow and a background plate for titles, with keyframes a diamond away.
+ 05
+ The timeline.
+ Several tracks, several timelines per project. The tray under the tabs holds split, the razor, the magnetic switch, Text to Speech, Record Voiceover and Generate Captions.
+ Built for the edits people make every day.
+ Captions, voices, titles and effects on a multi-track timeline, rendered by a native Rust engine with a GPU compositor.
+ Auto-captions, offline.
+ Local Whisper transcribes on your machine and puts styled captions on the timeline, one title per phrase or per sentence.
+ How captions work 
+ Text to speech and voice cloning.
+ Built-in speakers that are quick, or any voice from a few seconds of a recording. The result lands on the timeline.
+ Generate a voice 
+ Background removal.
+ A person, an object, or paint the mask yourself with a smart brush. No green screen needed.
+ Remove a background 
+ Keyframes with a curve editor.
+ Position, scale, rotation, opacity, volume and effect parameters. Ease in, ease out, or draw the curve.
+ Animate anything 
+ Titles that look designed.
+ Fonts, stroke, shadow and a background plate, with presets to start from. Style many titles at once.
+ Add titles 
+ 4K export, 10-bit, no watermark.
+ H.264, HEVC and AV1 up to 4K 60. Hardware encoders where the machine has them. A bitrate that starts at what YouTube asks for, so the size shown is the size written.
+ Export a video 
+ Also: 100 effects, filters and transitions, chroma key, colour wheels and curves, one-switch voice cleanup, multi-timeline projects, stickers and shapes. Every feature, on GitHub
+ Two ways in, the same engine.
+ For people who edit
+ Install it, drop footage in, cut.
+ Account None. Nothing to sign up for and nothing to renew. 
+ Upload None. The engine, the models and your footage stay on your disk. 
+ Watermark None, at any resolution. There is no paid tier to unlock and never will be. 
+ Read the guides 
+ For scripts and agents
+ Anything the window can do, a program can do.
+ API An MCP server built into the app for AI agents (concat --mcp), and JSON-RPC from the open window for scripts. A build from source adds gRPC. 
+ CLI Create, import, edit and export from a shell, with a build from source. 
+ Same engine Same commands, same clamps, same refusals as the editor. A method added to the API reaches every transport. 
+ Read the developer docs 
+ Runs everywhere.
+ macOS, Windows, Linux, Android and iOS. Every build is a GitHub Releases asset with a checksum. Current version 0.2.8.
+ Operating system
+ Windows
+ x64
+ macOS
+ Apple Silicon and Intel
+ Linux
+ AppImage, deb, rpm and Arch
+ Android
+ APK, phones and tablets
+ iOS
+ IPA, beta
+ Chip
+ Apple Silicon M1 and later
+ Intel
+ Processor
+ x86_64 Intel and AMD
+ ARM64 aarch64 machines
+ Installer 83 MB
+ MSI package 101 MB
+ Concat-0.2.8-windows-x86_64-setup.exe sha256 6ded705620e6c18adbc2ece28a2876db326e4f6361c8e41151dab516419c8776 
+ Concat-0.2.8-windows-x86_64.msi sha256 dc24b7588ec7fe430223ccb06cb7fa54027382e4b8867557bc5515710fa3af98 
+ The build is not code-signed yet. If SmartScreen stops it, click More info, then Run anyway.
+ Disk image 61 MB
+ Concat-0.2.8-macos-arm64.dmg sha256 4fe1820f36235efe8a28379a224239032c260bef1ad0fb950274c2f832e91805 
+ The build is unsigned. After moving Concat to Applications, clear the quarantine flag once: xattr -dr com.apple.quarantine /Applications/Concat.app 
+ Disk image 96 MB
+ Concat-0.2.8-macos-x86_64.dmg sha256 c040bd5c14b6de6443dd9c4e00070e57beafcf7cd6347dfc19b8559843bc16e6 
+ The build is unsigned. After moving Concat to Applications, clear the quarantine flag once: xattr -dr com.apple.quarantine /Applications/Concat.app 
+ AppImage 132 MB
+ Debian package 148 MB
+ RPM package 147 MB
+ Arch package 133 MB
+ Concat-0.2.8-x86_64.AppImage sha256 4e64a3826cdb86be43fc82beeb087ecb82141ea5c557f156d855fd21ff87ccb1 
+ Concat-0.2.8-linux-x86_64.deb sha256 fc570d9b2a49c1a01ef99a7a903e85ba7040e419182c2a7267db84b45686da79 
+ Concat-0.2.8-linux-x86_64.rpm sha256 890d377c531d216f93f4888eff4f356ef9e54f70a858e8255328da7af8ea286d 
+ Concat-0.2.8-linux-x86_64.pkg.tar.zst sha256 0e92b414c874168be692f7a5ca845cf19a2df49f8942a443d1f3a92fe6f7e619 
+ Also on Flatpark, a community Flatpak remote that wraps the x86_64 .deb of each release and updates with it.
+ AppImage 116 MB
+ Debian package 132 MB
+ RPM package 131 MB
+ Arch package 120 MB
+ Concat-0.2.8-aarch64.AppImage sha256 93058c09134bea4f274ea6c9578b7cda638ab81ebe4db2841b03a71f47d9e785 
+ Concat-0.2.8-linux-aarch64.deb sha256 6b44aa71fc1d36104be57dd761e432ef0050f08e986a670fbf91b950cae7e354 
+ Concat-0.2.8-linux-aarch64.rpm sha256 0b19246eaf2add96a0494d9df064610674d8d0f1724467952976129c63b742c6 
+ Concat-0.2.8-linux-aarch64.pkg.tar.zst sha256 5da455dc0d695515d60f99ab88a7d4ef391bdf2b585406d02e7ee41d22ec0465 
+ Also on Flatpark, a community Flatpak remote that wraps the x86_64 .deb of each release and updates with it.
+ APK 75 MB
+ Concat-0.2.8-android-arm64.apk sha256 ee1f4c5fb01434a8804a09f2523159e139d8a980a56f840c95c6619d17733bd6 
+ Phones and tablets. Android asks you to allow installs from this source the first time.
+ IPA 73 MB
+ Concat-0.2.8-ios-arm64.ipa sha256 25750d9ffd9fa2b87d422a0ea98e2348583686a0d2cf5200387b154e866c9758 
+ Beta. Install the IPA by sideloading on iPhone or iPad.
+ All releases
+ /
+ SHA256SUMS
+ /
+ Install guide
+ Sponsor Concat.
+ Concat has no paywall and never will. Sponsorship is what stands in for one: it funds continued development, updates and the store releases on the roadmap.
+ Sponsorship
+ Your name, logo and link, for as long as you sponsor.
+ Your name, description, logo and a link on the Concat repository README.
+ The same place on the Concat website landing page.
+ Custom integration planning.
+ Sponsorship is monthly and priced over a message. The listing lives on the Concat repository
+ and on this page.
+ Get in touch
+ Current sponsors
+ Proxyon
+ Pay-as-you-go proxies for developers
+ Use code JUB0T for 20% off
+ Your logo here
+ Sponsor Concat and your name, logo and link take this slot.
+ Contact.
+ Sponsoring starts with a message. Tell us about you or your company and how you should appear on the repository and this page.
+ Discord
+ Join the Concat server and send a message. Questions and bug reports are welcome there too.
+ Join the server
+ Email
+ For anything longer, or if you are not on Discord.
+ jub0trd@gmail.com
+ Contribute
+ Use a build and say where it breaks, or pick up an issue. CONTRIBUTING covers setup, the layout of the tree and the checks to run.
+ Read the contributing guide 
+ Roadmap
+ What comes next, what sponsorship pays for, and what each piece costs.
+ See the roadmap 
+ Questions, answered.
+ Anything else, ask on Discord
+ or read the guides
+.
+ Is Concat really free? 
+ Yes. No watermark, no account, no paid tier, and the code is AGPL-3.0. Sponsorship is what stands in for a subscription, and it is optional.
+ Does anything leave my machine? 
+ No. Editing, captions, voices and cutout all run locally. The optional models download once from Settings and work offline after that. Logs stay on disk unless you attach them to an issue yourself.
+ Where is the text-to-speech button? 
+ On the timeline tray, the row of tools under the timeline tabs: the Text to Speech button opens the speech panel. The first time, download a voice model from Settings › Speech.
+ The text-to-speech guide 
+ Windows SmartScreen stops the installer. 
+ The Windows builds are not code-signed yet, so SmartScreen asks before the first run: click More info, then Run anyway. Where Smart App Control is on, Windows refuses unsigned programs outright.
+ The code signing policy 
+ macOS says the app is damaged or cannot be opened. 
+ The macOS builds are unsigned. Move Concat to Applications, then clear the quarantine flag once:
+ xattr -dr com.apple.quarantine /Applications/Concat.app 
+ How do I install it on iPhone or iPad? 
+ iOS is in beta and is not on the App Store. Download the IPA from the picker and install it by sideloading.
+ What hardware do I need? 
+ Minimum: any 64-bit processor from 2013 or later, 4 GB of RAM and 500 MB of storage, with no GPU required. For smooth 1080p editing and quick 4K exports: 6 cores or more, a GPU with Metal, DirectX 12 or Vulkan, and 16 GB of RAM.
+ System requirements 
+ Where does sponsorship money go? 
+ The roadmap lays out what sponsorship pays for and what each piece costs. Every sponsor gets a place on the repository and on this page for the months they sponsor.
+ See the roadmap 
+ Ready to cut?
+ Download for Windows
+ All platforms
+ Free, open source, 0.2.8. No account, nothing uploads.
+ Concat
+ The free, open-source CapCut replacement. Runs entirely on your machine.
+ Product
+ Download
+ Guides
+ Developer docs
+ Releases
+ Roadmap
+ Community
+ GitHub
+ Discord
+ Contributing
+ Issues
+ Support
+ Sponsor
+ Contact
+ FAQ
+ License
+ &copy; 2026 Concat. Free and open source under AGPL-3.0.
+ Not affiliated with CapCut or ByteDance.
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Concat","description":"The free, open-source CapCut replacement. A video editor with auto-captions, text-to-speech, background removal, keyframes, effects and 4K export that runs entirely on your machine.","applicationCategory":"MultimediaApplication","operatingSystem":"Windows, macOS, Linux, Android, iOS","softwareVersion":"0.2.8","license":"https://www.gnu.org/licenses/agpl-3.0.html","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"downloadUrl":"https://github.com/jub0t/Concat/releases","url":"https://concat.standalones.org/","sameAs":["https://github.com/jub0t/Concat","https://discord.gg/DVuPfpXfqP"]}

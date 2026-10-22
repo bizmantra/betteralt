@@ -1,0 +1,36 @@
+#SNAPSHOT {"url":"https://poe.com/subscription_plans","finalUrl":"https://poe.com/subscription_plans","fetchedAt":"2026-10-22T03:35:07.856Z","method":"playwright","region":"in","currency":"INR","http":200,"sha256":"2c150e3487a3f7aa258f2a7f32f6504cca3b2032d67ca228898a476ec2426261"}
+Subscription plans
+Billed yearly
+SAVE 17%
+Billed monthly
+10 thousand points/day
+₹4,900.00/year
+(₹408.33/month)
+Get started
+660 thousand points/month
+₹19,900.00/year
+(₹1,658.33/month)
+Get started
+1.65 million points/month
+₹49,900.00/year
+(₹4,158.33/month)
+Get started
+3.3 million points/month
+₹99,900.00/year
+(₹8,325.00/month)
+Get started
+8.25 million points/month
+₹249,900.00/year
+(₹20,825.00/month)
+Get started
+What's included?
+All Poe subscription plans allow you to:
+Send and receive far more messages
+Access more of the best models, including GPT-5.5, Claude-Opus-4.7, Gemini-3.5-Flash, Nano-Banana-Pro, and Veo-3.1
+Unlock each bot's maximum input size and chat history
+Prices shown in US dollars. Your final price may vary based on regional taxes and currency conversion.
+For where subscriptions are available, see here.
+By subscribing, you are enrolling in automatic payments (plus tax, where applicable). Cancel or manage your subscription through Stripe's customer portal from Settings. Terms of Sale apply.
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"WebPage","name":"Poe Subscription Plans & Pricing | Chat with GPT-5.5, Claude-Opus-4.7, Gemini-3.5-Flash & More","description":"Choose from 5 Poe subscription plans starting at ₹408.33/month. Get up to 8.3 million points per month to chat with GPT-5.5, Claude-Opus-4.7, Gemini-3.5-Flash, Nano-Banana-Pro, Veo-3.1, and thousands of other AI models.","url":"https://poe.com/subscription_plans","mainEntity":{"@type":"ItemList","numberOfItems":5,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Product","name":"10 thousand points/day","description":"","offers":{"@type":"Offer","price":"4900.00","priceCurrency":"USD","availability":"https://schema.org/InStock","billingDuration":"P1Y","url":"https://poe.com/subscription_plans"}}},{"@type":"ListItem","position":2,"item":{"@type":"Product","name":"660 thousand points/month","description":"","offers":{"@type":"Offer","price":"19900.00","priceCurrency":"USD","availability":"https://schema.org/InStock","billingDuration":"P1Y","url":"https://poe.com/subscription_plans"}}},{"@type":"ListItem","position":3,"item":{"@type":"Product","name":"1.65 million points/month","description":"","offers":{"@type":"Offer","price":"49900.00","priceCurrency":"USD","availability":"https://schema.org/InStock","billingDuration":"P1Y","url":"https://poe.com/subscription_plans"}}},{"@type":"ListItem","position":4,"item":{"@type":"Product","name":"3.3 million points/month","description":"","offers":{"@type":"Offer","price":"99900.00","priceCurrency":"USD","availability":"https://schema.org/InStock","billingDuration":"P1Y","url":"https://poe.com/subscription_plans"}}},{"@type":"ListItem","position":5,"item":{"@type":"Product","name":"8.25 million points/month","description":"","offers":{"@type":"Offer","price":"249900.00","priceCurrency":"USD","availability":"https://schema.org/InStock","billingDuration":"P1Y","url":"https://poe.com/subscription_plans"}}}]}}
