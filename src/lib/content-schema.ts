@@ -35,6 +35,8 @@ type ExistingTool = {
   slug: Slug; name: string; url: string; category: string; description: string; whoFor: string; tags: string[];
   pricing: ExistingPricing;
   status?: "active" | "renamed" | "acquired" | "shut-down"; formerNames?: string[]; statusNote?: string; statusSources?: string[];
+  /** Project maturity in the project's own words (e.g. alpha, beta), quoted from its README. Optional; rendered on the tool page. */
+  maturity?: { label: string; quote: string; sourceUrl: string; checkedAt: ISODate };
   firstPublished?: ISODate; contentUpdatedAt?: ISODate;
   openSource: {
     repo: string; stars: number;

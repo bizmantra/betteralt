@@ -1,0 +1,69 @@
+#SNAPSHOT {"url":"https://www.all-hands.dev/pricing","finalUrl":"https://www.openhands.dev/pricing","fetchedAt":"2026-10-22T09:36:50.065Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"6ebf779736e84c89f9324c5a863682d7ce7aba9977e38349bba05e739ddf3102"}
+91.5K
+Access Cloud
+Access Cloud
+Get OpenHands
+Get OpenHands
+Menu
+Close
+Pricing that fits your rollout
+Agent Canvas
+Free
+Open source and free to self-host.
+Open source (MIT)
+Runs on your laptop or shared VM
+Single user / shared identity
+Bring your own LLM key
+Use any agent (Codex, Claude, etc.)
+Automations
+Download
+Download
+Teams
+$499/month
+Up to 10 users (+$50/mo per seat)
+Up to 10 users
+Self-hosted
+Multi-user identity & RBAC
+Bring your own LLM key
+Use any agent (Codex, Claude, etc.)
+Built-in Integrations
+Automations
+Budgeting controls
+SSO / SAML
+Start 30 Day Trial
+Start 30 Day Trial
+Enterprise
+Custom pricing
+Built for secure, governed AI at enterprise scale.
+Everything in Teams
+Unlimited seats
+Unlimited users
+Enterprise agreement
+Standard or Premium Support
+Customer success manager
+Contact Us
+Contact Us
+ Agent Canvas Teams Enterprise
+Price Free $499/mo, up to 10 users (30-day trial) Custom
+Seats Shared identity Up to 10 users (+$50/mo per seat) Custom
+Organizations — 1 Unlimited
+Deployment Local Self-hosted Self-hosted Self-hosted
+Automations 
+Bring your own LLM 
+Use 3rd-party agents (Claude, Codex, etc.) 
+MCP & secrets 
+User identity & RBAC — 
+SAML / SSO — 
+Budgeting & usage — 
+Built-in OAuth integrations Select MCP only 
+Enterprise agreement — — 
+Support Open source community Best effort email SLA-based response times
+Customer success — — 
+The Teams plan is capped at 5,000 sessions per month. Enterprise usage remains uncapped.
+Building the open standard for autonomous software development.
+OpenHands is the foundation for secure, transparent, model-agnostic coding agents - empowering every software team to build faster with full control.
+Join The Community
+Join The Community
+© 2026 OpenHands - All rights reserved
+Privacy Policy
+Contact

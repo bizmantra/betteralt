@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { Tags, Price, JsonLd, Newsletter } from "@/components/ui";
-import { tools, getTool, getAnchor, anchors, fmtStars, site } from "@/lib/data";
+import { tools, getTool, getAnchor, anchors, fmtStars, site, fmtDate } from "@/lib/data";
 import Monogram from "@/components/Monogram";
 import Cta from "@/components/slots/Cta";
 import Byline from "@/components/slots/Byline";
@@ -28,6 +28,7 @@ export default async function Page({ params }: { params: Promise<{ tool: string 
   return <div className="max-w-3xl space-y-6" data-page-type="tool"><JsonLd data={ld} /><JsonLd data={webPageLd({ path: `/tools/${t.slug}`, name: t.name, published: t.firstPublished, modified: lastmodTool(t.slug), reviewer: getPerson(t.notes?.reviewedBy) })} />
     <Crumbs items={[{ name: t.name }]} />
     {t.statusNote && <div role="note" className="rounded-xl border border-amber-300 bg-amber-50 p-4 text-sm text-amber-900"><strong>{site.statusLabels?.[t.status!] ?? t.status}:</strong> {t.statusNote} Sources: {t.statusSources?.map((u, i) => <a key={u} href={u} className="underline" target="_blank" rel="nofollow noopener">{i ? ", " : ""}{new URL(u).hostname}</a>)}</div>}
+    {t.maturity && <p role="note" data-slot="maturity" className="rounded-xl border bg-white p-3 text-sm"><strong>Project status: {t.maturity.label}.</strong> In its own README: &ldquo;{t.maturity.quote}&rdquo; <a href={t.maturity.sourceUrl} className="underline" target="_blank" rel="nofollow noopener">Source: README</a> (checked {fmtDate(t.maturity.checkedAt)})</p>}
     <div><div className="flex items-center gap-3"><Monogram name={t.name} slug={t.slug} size={56} /><div><h1 className="font-serif text-3xl font-semibold">{t.name}</h1><p className="text-sm uppercase text-ink-2">{t.category}</p></div></div>
       <Byline reviewedBy={t.notes?.reviewedBy} authors={t.notes?.authors} updated={lastmodTool(t.slug)} checked={[t.pricing.lastChecked]} />
       <p className="mt-3 text-lg text-slate-700">{t.description}</p><div className="mt-3"><Tags tags={t.tags} /></div>

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T03:44:10.572Z",
+ "generatedAt": "2026-10-22T09:40:10.834Z",
  "maxAgeDays": 14,
  "linkCheck": "196 links checked, 0 dead",
  "tools": {
@@ -667,8 +667,8 @@
   },
   "intercom-fin": {
    "verified": true,
-   "checkedAt": "2026-10-18",
-   "snapshot": "data/snapshots/intercom-fin/2026-10-18.txt"
+   "checkedAt": "2026-10-22",
+   "snapshot": "data/snapshots/intercom-fin/2026-10-22.txt"
   },
   "freshdesk": {
    "verified": true,
@@ -755,8 +755,8 @@
   },
   "openhands": {
    "verified": true,
-   "checkedAt": "2026-10-19",
-   "snapshot": "data/snapshots/openhands/2026-10-19.txt"
+   "checkedAt": "2026-10-22",
+   "snapshot": "data/snapshots/openhands/2026-10-22.txt"
   },
   "devin": {
    "verified": true,

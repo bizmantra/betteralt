@@ -3575,7 +3575,7 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Creator $14/mo ($11.67/mo billed annually); Pro $39/mo",
+    "summary": "Creator $14/mo ($11.67/mo billed annually); Pro $39/mo ($32.49/mo billed annually); Ultra $89/mo ($62.50/mo billed annually), replacing the old Business plan",
     "fromUsdMonthly": 11.67,
     "hasFreePlan": true,
     "verified": true,
@@ -3588,7 +3588,7 @@
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17",
+   "contentUpdatedAt": "2026-10-22",
    "notes": {
     "reviewedBy": "rosh-k"
    }
@@ -4221,20 +4221,20 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Fin AI Agent $0.99 per outcome; helpdesk seats from $29/seat/mo",
+    "summary": "Fin AI Agent $0.99 per outcome; Essential helpdesk seat $29/seat/mo billed annually (new-customer promo shown on the page: $19/seat/mo, \"New customers save 35%\")",
     "fromUsdMonthly": 29,
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://www.intercom.com/pricing",
-    "lastChecked": "2026-10-17",
+    "lastChecked": "2026-10-22",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17",
-    "fromBilling": "unknown"
+    "lastChangedAt": "2026-10-22",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17",
+   "contentUpdatedAt": "2026-10-22",
    "notes": {
     "reviewedBy": "rosh-k"
    }
@@ -4782,22 +4782,24 @@
    "name": "OpenHands",
    "url": "https://www.all-hands.dev",
    "category": "AI coding agent",
-   "description": "Open-source autonomous software-engineering agent you can run locally, self-host or use in the cloud.",
+   "description": "Open-source autonomous software-engineering agent you can run locally or self-host, with paid self-hosted Teams and Enterprise plans.",
    "whoFor": "Teams wanting an open-source Devin-style agent",
    "tags": [
-    "free",
+    "freemium",
+    "paid",
     "open source",
     "self-hostable"
    ],
    "pricing": {
-    "summary": "Free open-source local version; cloud Individual plan free with your own API key or at-cost models",
-    "fromUsdMonthly": null,
+    "summary": "Agent Canvas free (open source, self-hosted); Teams $499/mo for up to 10 users (+$50/mo per extra seat); Enterprise custom pricing",
+    "fromUsdMonthly": 499,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.all-hands.dev/pricing",
-    "lastChecked": "2026-10-19",
-    "currency": null,
-    "lastChangedAt": "2026-10-18"
+    "lastChecked": "2026-10-22",
+    "currency": "USD",
+    "lastChangedAt": "2026-10-22",
+    "fromBilling": "monthly"
    },
    "openSource": {
     "repo": "https://github.com/OpenHands/OpenHands",
@@ -4810,7 +4812,7 @@
    },
    "status": "active",
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18",
+   "contentUpdatedAt": "2026-10-22",
    "notes": {
     "reviewedBy": "rosh-k"
    }
@@ -5557,6 +5559,12 @@
    "contentUpdatedAt": "2026-10-21",
    "notes": {
     "summary": "PhotoCraft is labelled early alpha on its own page. It is one of the ArtCraft family of apps for macOS, Windows, Linux and the web."
+   },
+   "maturity": {
+    "label": "Early alpha",
+    "quote": "PhotoCraft is in early alpha",
+    "sourceUrl": "https://github.com/storytold/photocraft#readme",
+    "checkedAt": "2026-10-22"
    }
   },
   {
@@ -5631,6 +5639,12 @@
    "contentUpdatedAt": "2026-10-21",
    "notes": {
     "summary": "Runs on your machine for Windows, macOS, Linux, Android and iOS. It is not affiliated with CapCut."
+   },
+   "maturity": {
+    "label": "Beta",
+    "quote": "Concat is in beta: it works, and it still has edges.",
+    "sourceUrl": "https://github.com/jub0t/Concat#readme",
+    "checkedAt": "2026-10-22"
    }
   },
   {
@@ -5669,6 +5683,12 @@
    "contentUpdatedAt": "2026-10-21",
    "notes": {
     "summary": "FilmCraft is labelled in development on its own page. It is one of the ArtCraft family of apps."
+   },
+   "maturity": {
+    "label": "Alpha",
+    "quote": "FilmCraft is in alpha",
+    "sourceUrl": "https://github.com/storytold/filmcraft#status",
+    "checkedAt": "2026-10-22"
    }
   },
   {
@@ -5705,7 +5725,13 @@
    "status": "active",
    "firstPublished": "2026-10-21",
    "contentUpdatedAt": "2026-10-21",
-   "notes": {}
+   "notes": {},
+   "maturity": {
+    "label": "Early, on purpose",
+    "quote": "Here's the honest part: this is version 0.0.x.",
+    "sourceUrl": "https://github.com/CoreBunch/Instatic#early-on-purpose",
+    "checkedAt": "2026-10-22"
+   }
   },
   {
    "slug": "mailcheap",
@@ -5895,6 +5921,12 @@
    "contentUpdatedAt": "2026-10-21",
    "notes": {
     "summary": "One of the ArtCraft family of apps for macOS, Windows, Linux and the web."
+   },
+   "maturity": {
+    "label": "Alpha",
+    "quote": "WordCraft is in alpha",
+    "sourceUrl": "https://github.com/storytold/wordcraft#readme",
+    "checkedAt": "2026-10-22"
    }
   },
   {
@@ -7091,6 +7123,60 @@
     "before": "data/snapshots/mubert/2026-10-19.txt",
     "after": "data/snapshots/mubert/2026-10-22.txt",
     "note": "Annual-billed Creator price moved from $11.69/mo to $11.67/mo; monthly price unchanged at $14/mo. Pro unchanged at $39/mo."
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "slug": "intercom-fin",
+   "kind": "new-customer promo",
+   "old": "Essential $29/seat/mo",
+   "new": "Essential $29/seat/mo list price; new-customer promo $19/seat/mo (save 35%), billed annually",
+   "sourceUrl": "https://www.intercom.com/pricing",
+   "id": "2026-10-22-intercom-fin",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Essential",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/intercom-fin/2026-10-18.txt",
+    "after": "data/snapshots/intercom-fin/2026-10-22.txt",
+    "note": "The $29/seat/mo Essential list price is unchanged. With annual billing selected, the page now shows $29 struck through and $19/seat/mo labelled \"New customers save 35%\". That is a promo for new customers, not a list-price cut. Rendered screenshot: data/snapshots/intercom-fin/2026-10-22.screenshot.png."
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "slug": "openhands",
+   "kind": "plan change",
+   "old": "Cloud Individual plan free",
+   "new": "Cloud Individual plan removed; Agent Canvas free (self-hosted); Teams $499/mo for up to 10 users (+$50/mo per extra seat); Enterprise custom",
+   "sourceUrl": "https://www.all-hands.dev/pricing",
+   "id": "2026-10-22-openhands",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Individual / Teams",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/openhands/2026-10-19.txt",
+    "after": "data/snapshots/openhands/2026-10-22.txt",
+    "note": "The free cloud Individual plan is no longer listed. The page now lists Agent Canvas (free, open source, self-hosted), Teams ($499/mo for up to 10 users, +$50/mo per extra seat, self-hosted, 30-day trial, capped at 5,000 sessions/month) and Enterprise (custom pricing)."
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "slug": "mubert",
+   "kind": "plan change",
+   "old": "Business $199/mo",
+   "new": "Ultra $89/mo ($62.50/mo billed annually), replacing Business",
+   "sourceUrl": "https://mubert.com/render/pricing",
+   "id": "2026-10-22-mubert-ultra",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Business / Ultra",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/mubert/2026-10-19.txt",
+    "after": "data/snapshots/mubert/2026-10-22.txt",
+    "note": "The Business plan ($199/mo) is gone from the page. Ultra (Apps & Agency Work) now sits in its place at $89/mo, or $62.50/mo billed annually, with 1,000 tracks/month and tracks up to 60 minutes. Creator and Pro are unchanged."
    }
   }
  ],
