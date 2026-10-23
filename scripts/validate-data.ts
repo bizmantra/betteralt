@@ -296,7 +296,7 @@ function checkBuilt() {
   // What the site serves: prerendered pages/routes (.next/server/app: HTML, RSC payloads, JSON-LD, llms.txt, RSS,
   // sitemap) and every client asset (.next/static). Server-only vendor chunks (.next/server/chunks, e.g. Next's bundled
   // user-agent parser, which lists device makers) are never sent to visitors and are skipped.
-  const hits = scanText([path.join(dir, "server/app"), path.join(dir, "static")], ROOT, { skipDirs: ["cache"], skipFiles: /\.(map|nft\.json)$/, ignore: [BUILD_PATH_SEGMENT] });
+  const hits = scanText([path.join(dir, "server/app"), path.join(dir, "static")], ROOT, { skipDirs: ["cache"], skipFiles: /\.(map|nft\.json)$/, ignore: [BUILD_PATH_SEGMENT, /betteralt(?:-[a-z0-9-]+)?\.vercel\.app/gi] }); // preview deploys: Next points og:image at the preview host
   for (const h of hits) console.log(`  HARD [${h.rule}] "${h.match}" in built output ${h.file}`);
   console.log(`built-output scan: ${hits.length} violations`);
   process.exit(hits.length ? 1 : 0);
