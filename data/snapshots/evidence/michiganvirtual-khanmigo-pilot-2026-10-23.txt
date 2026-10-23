@@ -1,0 +1,512 @@
+#SNAPSHOT {"url": "https://michiganvirtual.org/blog/have-you-considered-ai-in-your-classroom-a-khanmigo-pilot-story", "finalUrl": "https://michiganvirtual.org/blog/have-you-considered-ai-in-your-classroom-a-khanmigo-pilot-story", "fetchedAt": "2026-10-23T09:50:00.000Z", "method": "fetch", "region": "us", "currency": null, "http": 200, "sha256": "f87cacb194a559bb9ba1d61edce648599e6191ee24c45f391d22dcde32ff022d", "kind": "evidence"}
+Have You Considered AI in Your Classroom? A Khanmigo Pilot Story | Michigan Virtual 
+ Skip to main content 
+ Login
+ Calendar
+ Careers
+ Need Help?
+ Student Learning
+ Online Student Courses 
+ Core Subject Areas 
+ Electives 
+ World Languages 
+ Advanced Placement (AP) 
+ Career Pathways 
+ Credit Recovery & Alternative Education 
+ Middle School 
+ Homeschool Programs 
+ Summer Learning 
+ Enrichment 
+ View All Student Courses
+ Supplemental Programs
+ Michigan Cares: Mental Health & Social Emotional Learning 
+ Resources for Success 
+ For Students 
+ For Parents 
+ For Mentors 
+ For Counselors 
+ Strategies for Online Success (SOS) 
+ Michigan's Online Learning Law (21f) 
+ Statewide Course Catalog 
+ Special Education Resources 
+ For School Leaders 
+ Starting an Online Learning Program 
+ Online Learning Program Reviews 
+ Social Emotional Learning 
+ Setting Up An Online Summer School Program 
+ Shared Time Services 
+ Implementation Guidelines 
+ Teacher Driven Pathways 
+ For Mentors 
+ Courses for Mentors 
+ Mentor Resources 
+ Mentor Guide to Online Learning 
+ About Our Courses
+ Our Course Difference 
+ School Year / Enrollment Calendar 
+ Pricing 
+ Policies 
+ Accreditation 
+ Artificial Intelligence in Education: A comprehensive AI framework and resources
+ Access our AI Integration Framework, Planning Guide for AI, as well as many other resources to help you navigate the ever-changing world of artificial intelligence!
+ Professional Learning
+ Professional Development for Educators 
+ Courses for Teachers 
+ Online & Blended Teaching 
+ Social Emotional Learning 
+ Classroom Management 
+ Subject-Area Specific 
+ Path to Leadership 
+ MDE Courses 
+ SCECH Credits 
+ Compliance Courses 
+ Frequently Asked Questions 
+ View All Professional Courses
+ For Mentors 
+ Courses for Mentors 
+ Mentor Resources 
+ Mentor Guide to Online Learning 
+ For Counselors 
+ Courses for Counselors 
+ For School Leaders 
+ Courses for Administrators 
+ District-Provided PD 
+ Shared Time Services 
+ Micro Credentials 
+ Compliance Courses 
+ Educator Resources 
+ Michigan Cares: Mental Health & Social Emotional Learning 
+ The Digital Backpack Blog 
+ Research & Innovation
+ Institute 
+ Legislative Directives 
+ Professional Development Standards 
+ COVID-19 Emergency Remote Learning Report 
+ Research 
+ Annual Report 
+ Effectiveness Reports 
+ Publications 
+ Consumer Awareness Report 
+ Guides to Online Learning 
+ Blog 
+ Michigan's Online Learning Law (21f) 
+ Research Clearinghouse 
+ Innovation
+ AI Resources 
+ Prototype Playground 
+ EdTech Catalyst Pitch Contest 
+ Sundberg-Ferar Innovation Articles 
+ Consulting Services 
+ Our Consulting Team 
+ Leadership Coaching for Innovation 
+ Consulting Resources 
+ Resources
+ Learn About...
+ Online Learning 
+ Blended Learning 
+ Teaching 
+ Tips & Tools 
+ Special Education 
+ Student-Centered Learning 
+ Social Emotional Learning 
+ Web Accessibility 
+ Homeschool 
+ Leadership 
+ Research 
+ All Articles
+ Types of Resources
+ The Digital Backpack Blog 
+ Webinars 
+ Podcasts 
+ Slide Decks / Presentations 
+ Guides to Online Learning 
+ Student Guide 
+ Parent Guide 
+ Teacher Guide 
+ Mentor Guide 
+ Administrator Guide 
+ School Board Guide 
+ Michigan's Online Learning Law (21f) 
+ NSQOL - National Standards for Quality Online Learning 
+ Online Learning Program Self-Assessment Tool 
+ Research Publications 
+ All Publications 
+ Research Clearinghouse 
+ Effectiveness Reports 
+ Consumer Awareness Report 
+ COVID-19 Emergency Remote Learning Report 
+ Subscribe To...
+ The Digital Backpack Blog 
+ BRIGHT Podcast 
+ Online Learning Program Self-Assessment Tool
+ Our Online Learning Program Self-Assessment tool is designed to assist schools and educators in evaluating and improving their online learning offerings.
+ About
+ About Michigan Virtual 
+ Michigan Virtual's Story 
+ Brand Standards 
+ Commitment to Belonging 
+ Our Course Difference 
+ Michigan Virtual Learning Research Institute (MVLRI) 
+ Legislative Directives 
+ Strategic Plan 
+ Videos 
+ News 
+ The People Who Make It Possible
+ Board of Directors 
+ Instructors 
+ Partners 
+ Staff 
+ Need Help? 
+ Contact Us 
+ Frequently Asked Questions 
+ Knowledge Base 
+ Service Updates 
+ Submit a Ticket 
+ Support 
+ Careers 
+ Careers at Michigan Virtual 
+ View Open Teacher Positions 
+ View Open Staff Positions 
+ Policies
+ Academic Integrity Policy 
+ Advanced Placement (AP) Course Policy 
+ Anti-Bullying Policy 
+ Drop Policy for Students 
+ Professional Development Standards 
+ All Policies 
+ Artificial Intelligence in Education: A comprehensive AI framework and resources
+ Access our AI Integration Framework, Planning Guide for AI, as well as many other resources to help you navigate the ever-changing world of artificial intelligence!
+ Student Learning 
+ Online Student Courses 
+ Core Subject Areas 
+ Electives 
+ World Languages 
+ Advanced Placement (AP) 
+ Career Pathways 
+ Credit Recovery & Alternative Education 
+ Middle School 
+ Homeschool Programs 
+ Summer Learning 
+ Enrichment 
+ View All Student Courses
+ Supplemental Programs
+ Michigan Cares: Mental Health & Social Emotional Learning 
+ Resources for Success 
+ For Students 
+ For Parents 
+ For Mentors 
+ For Counselors 
+ Strategies for Online Success (SOS) 
+ Michigan's Online Learning Law (21f) 
+ Statewide Course Catalog 
+ Special Education Resources 
+ For School Leaders 
+ Starting an Online Learning Program 
+ Online Learning Program Reviews 
+ Social Emotional Learning 
+ Setting Up An Online Summer School Program 
+ Shared Time Services 
+ Implementation Guidelines 
+ Teacher Driven Pathways 
+ For Mentors 
+ Courses for Mentors 
+ Mentor Resources 
+ Mentor Guide to Online Learning 
+ About Our Courses
+ Our Course Difference 
+ School Year / Enrollment Calendar 
+ Pricing 
+ Policies 
+ Accreditation 
+ Professional Learning 
+ Professional Development for Educators 
+ Courses for Teachers 
+ Online & Blended Teaching 
+ Social Emotional Learning 
+ Classroom Management 
+ Subject-Area Specific 
+ Path to Leadership 
+ MDE Courses 
+ SCECH Credits 
+ Compliance Courses 
+ Frequently Asked Questions 
+ View All Professional Courses
+ For Mentors 
+ Courses for Mentors 
+ Mentor Resources 
+ Mentor Guide to Online Learning 
+ For Counselors 
+ Courses for Counselors 
+ For School Leaders 
+ Courses for Administrators 
+ District-Provided PD 
+ Shared Time Services 
+ Micro Credentials 
+ Compliance Courses 
+ Educator Resources 
+ Michigan Cares: Mental Health & Social Emotional Learning 
+ The Digital Backpack Blog 
+ Research & Innovation 
+ Institute 
+ Legislative Directives 
+ Professional Development Standards 
+ COVID-19 Emergency Remote Learning Report 
+ Research 
+ Annual Report 
+ Effectiveness Reports 
+ Publications 
+ Consumer Awareness Report 
+ Guides to Online Learning 
+ Blog 
+ Michigan's Online Learning Law (21f) 
+ Research Clearinghouse 
+ Innovation
+ AI Resources 
+ Prototype Playground 
+ EdTech Catalyst Pitch Contest 
+ Sundberg-Ferar Innovation Articles 
+ Consulting Services 
+ Our Consulting Team 
+ Leadership Coaching for Innovation 
+ Consulting Resources 
+ Resources 
+ Learn About...
+ Online Learning 
+ Blended Learning 
+ Teaching 
+ Tips & Tools 
+ Special Education 
+ Student-Centered Learning 
+ Social Emotional Learning 
+ Web Accessibility 
+ Homeschool 
+ Leadership 
+ Research 
+ All Articles
+ Types of Resources
+ The Digital Backpack Blog 
+ Webinars 
+ Podcasts 
+ Slide Decks / Presentations 
+ Guides to Online Learning 
+ Student Guide 
+ Parent Guide 
+ Teacher Guide 
+ Mentor Guide 
+ Administrator Guide 
+ School Board Guide 
+ Michigan's Online Learning Law (21f) 
+ NSQOL - National Standards for Quality Online Learning 
+ Online Learning Program Self-Assessment Tool 
+ Research Publications 
+ All Publications 
+ Research Clearinghouse 
+ Effectiveness Reports 
+ Consumer Awareness Report 
+ COVID-19 Emergency Remote Learning Report 
+ Subscribe To...
+ The Digital Backpack Blog 
+ BRIGHT Podcast 
+ About 
+ About Michigan Virtual 
+ Michigan Virtual's Story 
+ Brand Standards 
+ Commitment to Belonging 
+ Our Course Difference 
+ Michigan Virtual Learning Research Institute (MVLRI) 
+ Legislative Directives 
+ Strategic Plan 
+ Videos 
+ News 
+ The People Who Make It Possible
+ Board of Directors 
+ Instructors 
+ Partners 
+ Staff 
+ Need Help? 
+ Contact Us 
+ Frequently Asked Questions 
+ Knowledge Base 
+ Service Updates 
+ Submit a Ticket 
+ Support 
+ Careers 
+ Careers at Michigan Virtual 
+ View Open Teacher Positions 
+ View Open Staff Positions 
+ Policies
+ Academic Integrity Policy 
+ Advanced Placement (AP) Course Policy 
+ Anti-Bullying Policy 
+ Drop Policy for Students 
+ Professional Development Standards 
+ All Policies 
+ /
+ Blog
+ /
+ Online Learning
+ Have You Considered AI in Your Classroom? A Khanmigo Pilot Story
+ Christa Green 
+ | 
+ AUG 13, 2025 
+ |
+ Online Learning ,
+ Online Teaching ,
+ Artificial Intelligence 
+ In a two-phase pilot across Michigan schools, educators used Khanmigo, an AI-powered tutor and teaching assistant, to explore how AI might support teaching and learning. Their reflections surfaced both opportunities and challenges. The big takeaway? AI has potential, but only with intentional support.
+ Facebook 
+ LinkedIn 
+ Have You Considered AI in Your Classroom? A Khanmigo Pilot Story
+ By Christa Green
+ · 
+ Published August 13, 2025
+ · Printed October 22, 2026
+ /https://michiganvirtual.org/blog/have-you-considered-ai-in-your-classroom-a-khanmigo-pilot-story
+ A Pilot Rooted in Curiosity
+ What happens when AI becomes a teacher’s assistant, a student’s tutor, and a school’s data collector—all in one? We wanted to find out. We wanted to explore what might be possible. 
+ What would happen if teachers and students were given the opportunity to test an AI tool with structure, some support, and space to play? What might they discover?
+ Curious, Not Convinced: Why We Tried Khanmigo
+ Like many educators, we were hearing a lot about AI—its potential, its risks, and its growing presence in classrooms. But figuring out how to explore AI in a thoughtful, low-stakes way isn’t necessarily easy. 
+ We were curious about Khanmigo , an AI-powered tutor and teaching assistant developed by Khan Academy , because it offers both student- and teacher-facing tools. It has features for lesson planning and idea generation, and it provides real-time student support. 
+ What stood out was that Khanmigo isn’t focused on delivering quick answers. Instead, its prompts often encourage students to think through problems, explain their reasoning, and reflect as they arrive at the answer independently. Because it is integrated into Khan Academy’s content-rich platform covering subjects like math, history, coding, and computer science, it also offers some built-in structure for classroom use. 
+ A Glimpse at the Khanmigo Pilot
+ Over two pilot phases, Michigan Virtual’s Research and Development team partnered with several Michigan school districts to see what might happen if teachers and students explored Khanmigo together.
+ Pilot 1—Spring 2024: 
+ 19 teachers, 687 students, 14 school districts
+ Focused on Algebra I (9th-grade)
+ Emphasis on Khanmigo as a math tutor and support tool
+ Pilot 2—Fall 2024-Spring 2025: 
+ 24 teachers, 1102 students, 8 school districts
+ Open to all subjects and grade levels
+ Greater emphasis on teacher-facing tools, instructional use cases, and student behavior
+ We gathered pre- and post-survey data, facilitated professional learning sessions, and asked participants to reflect on their experience. Their feedback about Khanmigo and AI tools in general helped us understand how comfortable they were with using AI tools, how frequently they used them, and where AI tools had the biggest impact in their teaching and their classrooms. 
+ Real Feedback, Real Classrooms
+ So what did educators have to say? 
+ Teacher Tools? Surprisingly Helpful.  
+ Khanmigo proved especially valuable for brainstorming questions, writing lesson hooks, reviewing content, and suggesting student activities.
+ “I used it to get ideas for introducing new concepts and making learning more applicable to the real world. It felt like having a planning partner.” 
+ While the survey participants differed, teachers who responded in Spring 2025 expressed more confidence in using AI for planning than those in Fall 2024. By the end of the second pilot, all responding teachers reported at least some confidence in lesson planning, with the number of teachers reporting they felt “very confident” increasing from pre- to post-survey across several categories, including:
+ Supporting diverse learners
+ Drafting emails & communication
+ Content creation & curation
+ Grading, assessment, & feedback
+ Lesson planning
+ Students? Curious…But Complicated.  
+ From the teacher’s perspective, student engagement with Khanmigo varied. Some students, particularly quieter students or those working independently, embraced it and used it productively. Others saw it as a workaround—a way to get answers quickly or to check their work, rather than a tool to deepen their understanding. 
+ “My students struggled to ask Khanmigo the correct question. They didn’t know what they didn’t know—where to start or what to ask.”  
+ Several teachers described this as less of a problem with the actual tool, but more of a reflection of student readiness and maturity. Still, several agreed that with clear modeling and structure, students were more likely to engage with it as intended. 
+ “We have to teach kids how to use it and how not to use it—and be clear about the intended purpose.” 
+ What the Data Told Us 
+ According to the teachers who responded in the Fall of 2024, compared to those in the Spring of 2025, student use of AI tools increased, moving from monthly to weekly use for most classrooms.
+ Teachers’ familiarity with AI tools grew, with a jump in the number who reported using AI several times a week, and one even reported daily use.
+ Professional learning priorities included personalizing learning, lesson planning, and supporting diverse learners.
+ Some Speed Bumps Along the Way  
+ Not everything worked perfectly. Technical challenges like typing equations or interpreting math prompts made things clunky at times. Some students were frustrated with how “chatty” Khanmigo’s AI chatbot tutor was. Others were quick to use it for shortcuts.
+ And some challenges weren’t technical—they had more to do with timing and student mindset. Teachers noted the importance of starting the year with an AI tool like Khanmigo, rather than trying to integrate it midway through the semester. Teachers also emphasized the importance of setting clear expectations and guidance as to when and why to use the tool, key to ensuring students have the foundational knowledge to understand how to use Khanmigo and other AI tools appropriately.
+ “Students don’t want to use it how we would like them to. We have to model appropriate usage for them consistently.”  
+ “It worked better for older or more self-motivated students.” 
+ “AI may need to be taught progressively, with different levels of understanding increased gradually from year to year in school.” 
+ So, Where Do We Go From Here? 
+ Throughout the two pilots, one thing became clear: there is real potential, but only if we stay intentional.
+ Teachers told us they want help with things like:
+ Personalizing learning (top interest in both pilots)
+ Using AI for lesson planning and brainstorming
+ Supporting diverse learners with more targeted content
+ But they also flagged what’s missing:
+ Clearer policies and norms for student use
+ Tools that are more visual and interactive, especially in math
+ Better examples of what “good AI use” looks like
+ So, now we’re asking big questions:
+ Is AI a shortcut or a scaffold? 
+ How do we teach students to use it ethically and wisely? 
+ What kind of support do teachers need to make the most of it?
+ If you’re a district leader, teacher, or coach wondering how AI could support your work, know you’re not alone. These are big, complex questions. But trying something small, with proper support, can make a world of difference.
+ We’re not claiming Khanmigo, or AI in general, is the answer. But AI might be one exciting tool in a growing toolbox. And maybe, just maybe, it can help make learning a little more personal, creative, and supported—if we use it with care and intentionality. 
+ Your Turn: What Role Should AI Play? 
+ We’d love to hear how your school approaches AI—cautiously or creatively. We’re happy to share what we’ve learned, what we’d do differently, and what we’re still figuring out.
+ Because this conversation is just beginning.
+ Facebook 
+ LinkedIn 
+ Christa Green
+ Research Specialist II
+ Christa received her master’s in Curriculum and Instruction from Kent State University, as well as a bachelor’s degree in Business Administration. She taught middle school language arts and social studies for seven years before coming to work for Michigan Virtual in 2018. As a Research Specialist with the Michigan Virtual Learning Research Institute, Christa enjoys using her passion for education, curriculum, research, and writing to share and shape best practices in online and blended learning with other educators not only in Michigan, but nationwide.
+ Related Posts
+ Start Strong, Stay Connected: 3 Practices for Building Classroom Community
+ Most teachers pour energy into building classroom community during the first week of school, then gradually shift focus as the year picks up. The relationships students need to thrive, though, do not build themselves after August. Here are three practices to help you start strong and stay intentionally connected all year long.
+ Online Teaching, Teaching
+ Oct 16, 2026 
+ Any time, any place, any pace: A closer look at discussion and dropbox assignments
+ Cuccolo & DeBruler's (2026) synthesis report highlighted how time, place, and pace converge in online learning and how each relates to course performance. Given the implications of timing, place, and pace for student performance, a more detailed look at these patterns by assignment type could help prompt early identification and intervention. This blog explores students' assignment submission patterns and pacing behaviors across discussion and dropbox assignments.
+ Research, Mentoring
+ Oct 09, 2026 
+ Iron Man A Teacher: Balancing High-Tech Tools with Human Heart"
+ class="w-full aspect-video object-cover"
+ loading="lazy"
+ />
+ I Am Iron Man A Teacher: Balancing High-Tech Tools with Human Heart
+ Why You’re the Hero, and AI is the Armor We’ve all seen the scene: Tony Stark, battered and outmatched, taps his chest. In a flurry of...
+ Artificial Intelligence
+ Jul 10, 2026 
+ Screens Are Not the Solution or the Problem. Design Is.
+ As schools rethink the role of technology in the classroom, it's tempting to see screens as either the problem or the solution. This article argues that the real difference lies in how learning experiences are designed. Michelle Gierman explores how purposeful, collaborative technology use can strengthen thinking, while passive screen time can undermine it. The result is a practical look at how educators can teach students the discernment they'll need to navigate an AI-powered world.
+ Artificial Intelligence
+ Jul 06, 2026 
+ What ASU+GSV 2026 Revealed About the Future of AI in Education
+ What emerged from ASU+GSV 2026 was clear: AI is no longer an emerging trend in education. Michigan Virtual reflects on the conversations shaping the future of teaching, learning, workforce readiness, and student agency in an increasingly AI-driven world.
+ Artificial Intelligence, EdTech
+ May 27, 2026 
+ Understanding How Students and Teachers Think About Responsible AI Use: An Interview with a Researcher
+ Students and teachers generally understand the risks of AI misuse, but they are less clear about what responsible AI-supported learning should look like in practice. This interview highlights findings from a Michigan Virtual study showing that students need clearer examples, consistent expectations, and practical guidance for using AI transparently and appropriately in schoolwork.
+ Research, Artificial Intelligence
+ May 26, 2026 
+ Keep up with the latest Michigan Virtual has to offer!
+ Explore our Courses
+ Student Courses 
+ Professional Development Courses 
+ For Students
+ Students & Parents 
+ Credit Recovery / Essentials 
+ Advanced Placement (AP) 
+ For Educators
+ Professional Development 
+ Compliance Courses 
+ SCECH Credits 
+ For Administrators
+ School Administrators 
+ District-Provided Professional Development (PD) 
+ Summer School Programs 
+ Content Delivery Solutions 
+ Consulting Services 
+ Research & Innovation
+ Michigan Virtual Learning Research Institute (MVLRI) 
+ AI Lab 
+ Effectiveness Reports 
+ Annual Reports 
+ Research Publications 
+ Resources
+ Blog 
+ Publications 
+ News 
+ Webinars 
+ Login 
+ Student Learning Portal 
+ Professional Learning Portal 
+ Need Help?
+ Knowledge Base / Support 
+ Michigan Virtual
+ About Us 
+ Our Course Difference 
+ Staff 
+ Careers 
+ Partners 
+ Policies 
+ 920 Municipal Way
+Lansing, MI 48917-6872
+ 888.532.5806
+ © 1998-2026 Michigan Virtual University
+ ® 
+ Privacy Policy 
+ /
+ Accessibility Policy 
+ /
+ Commitment to People

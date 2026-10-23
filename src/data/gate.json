@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-22T09:40:10.834Z",
+ "generatedAt": "2026-10-23T09:43:28.747Z",
  "maxAgeDays": 14,
- "linkCheck": "196 links checked, 0 dead",
+ "linkCheck": "200 links checked, 0 dead",
  "tools": {
   "chatgpt": {
    "verified": true,
@@ -923,6 +923,26 @@
    "verified": true,
    "checkedAt": "2026-10-22",
    "snapshot": "data/snapshots/open-codesign/2026-10-22.txt"
+  },
+  "anythingllm": {
+   "verified": true,
+   "checkedAt": "2026-10-23",
+   "snapshot": "data/snapshots/anythingllm/2026-10-23.txt"
+  },
+  "localai": {
+   "verified": true,
+   "checkedAt": "2026-10-23",
+   "snapshot": "data/snapshots/localai/2026-10-23.txt"
+  },
+  "llama-cpp": {
+   "verified": true,
+   "checkedAt": "2026-10-23",
+   "snapshot": "data/snapshots/llama-cpp/2026-10-23.txt"
+  },
+  "msty": {
+   "verified": true,
+   "checkedAt": "2026-10-23",
+   "snapshot": "data/snapshots/msty/2026-10-23.txt"
   }
  },
  "dead": [],

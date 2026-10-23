@@ -37,6 +37,8 @@ type ExistingTool = {
   status?: "active" | "renamed" | "acquired" | "shut-down"; formerNames?: string[]; statusNote?: string; statusSources?: string[];
   /** Project maturity in the project's own words (e.g. alpha, beta), quoted from its README. Optional; rendered on the tool page. */
   maturity?: { label: string; quote: string; sourceUrl: string; checkedAt: ISODate };
+  /** Runs models on your own machine or server (local inference or a self-hosted UI for local models). Optional; used by /categories/local-ai. */
+  runsLocally?: boolean;
   firstPublished?: ISODate; contentUpdatedAt?: ISODate;
   openSource: {
     repo: string; stars: number;

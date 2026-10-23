@@ -264,7 +264,8 @@
    "contentUpdatedAt": "2026-10-17",
    "notes": {
     "reviewedBy": "rosh-k"
-   }
+   },
+   "runsLocally": true
   },
   {
    "slug": "lm-studio",
@@ -294,7 +295,8 @@
    "contentUpdatedAt": "2026-10-18",
    "notes": {
     "reviewedBy": "rosh-k"
-   }
+   },
+   "runsLocally": true
   },
   {
    "slug": "ollama",
@@ -333,7 +335,8 @@
    "contentUpdatedAt": "2026-10-17",
    "notes": {
     "reviewedBy": "rosh-k"
-   }
+   },
+   "runsLocally": true
   },
   {
    "slug": "jan",
@@ -372,7 +375,8 @@
    "contentUpdatedAt": "2026-10-17",
    "notes": {
     "reviewedBy": "rosh-k"
-   }
+   },
+   "runsLocally": true
   },
   {
    "slug": "librechat",
@@ -410,7 +414,8 @@
    "contentUpdatedAt": "2026-10-17",
    "notes": {
     "reviewedBy": "rosh-k"
-   }
+   },
+   "runsLocally": true
   },
   {
    "slug": "poe",
@@ -5965,6 +5970,149 @@
    "notes": {
     "summary": "Works with Anthropic, OpenAI, Gemini, DeepSeek, OpenRouter, local Ollama and other providers; no mandatory account."
    }
+  },
+  {
+   "slug": "anythingllm",
+   "name": "AnythingLLM",
+   "url": "https://anythingllm.com",
+   "category": "Local AI",
+   "description": "Open-source desktop and Docker app to chat with your documents and run AI agents with local or cloud models; the desktop app needs no account or API key.",
+   "whoFor": "People and small teams who want private document chat on their own machine or server",
+   "tags": [
+    "open source",
+    "freemium",
+    "self-hostable"
+   ],
+   "pricing": {
+    "fromUsdMonthly": 50,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://anythingllm.com/pricing",
+    "lastChecked": "2026-10-23",
+    "currency": "USD",
+    "lastChangedAt": "2026-10-23",
+    "fromBilling": "monthly",
+    "summary": "Desktop app and Docker self-host free (MIT); hosted Basic $50/mo; Pro $99/mo; Enterprise custom"
+   },
+   "openSource": {
+    "repo": "https://github.com/Mintplex-Labs/anything-llm",
+    "stars": 67471,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-23",
+    "setupDifficulty": 1
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-10-23",
+   "contentUpdatedAt": "2026-10-23",
+   "notes": {}
+  },
+  {
+   "slug": "localai",
+   "name": "LocalAI",
+   "url": "https://localai.io",
+   "category": "Local AI",
+   "description": "Open-source, OpenAI-compatible inference server that runs text, voice, vision and image models on the hardware you already own.",
+   "whoFor": "Developers who want a drop-in local replacement for a cloud AI API",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT), self-hosted",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://localai.io",
+    "lastChecked": "2026-10-23",
+    "currency": null,
+    "lastChangedAt": "2026-10-23"
+   },
+   "openSource": {
+    "repo": "https://github.com/mudler/LocalAI",
+    "stars": 49866,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-23",
+    "setupDifficulty": 3
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-10-23",
+   "contentUpdatedAt": "2026-10-23",
+   "notes": {}
+  },
+  {
+   "slug": "llama-cpp",
+   "name": "llama.cpp",
+   "url": "https://github.com/ggml-org/llama.cpp",
+   "category": "Local AI",
+   "description": "Open-source LLM inference in C/C++, with a command-line tool and llama-server for running open models on your own machine.",
+   "whoFor": "Technical users who want the lowest-level way to run open models locally",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/ggml-org/llama.cpp",
+    "lastChecked": "2026-10-23",
+    "currency": null,
+    "lastChangedAt": "2026-10-23"
+   },
+   "openSource": {
+    "repo": "https://github.com/ggml-org/llama.cpp",
+    "stars": 132097,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-23",
+    "setupDifficulty": 3
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-10-23",
+   "contentUpdatedAt": "2026-10-23",
+   "notes": {}
+  },
+  {
+   "slug": "msty",
+   "name": "Msty",
+   "url": "https://msty.ai",
+   "category": "Local AI",
+   "description": "Desktop AI workspace (Msty Studio) to chat with local and online models side by side, with knowledge stacks and an agent mode.",
+   "whoFor": "People who want one app for local and cloud models without the command line",
+   "tags": [
+    "freemium",
+    "paid"
+   ],
+   "pricing": {
+    "fromUsdMonthly": 12.42,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://msty.ai/pricing",
+    "lastChecked": "2026-10-23",
+    "currency": "USD",
+    "lastChangedAt": "2026-10-23",
+    "fromBilling": "annual",
+    "summary": "Free $0 forever (Studio Desktop core features); Aurum $149/user/yr; Aurum Lifetime $349/user one-time"
+   },
+   "openSource": null,
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-10-23",
+   "contentUpdatedAt": "2026-10-23",
+   "notes": {
+    "summary": "Msty Studio is not open source. The free plan covers the desktop app; Aurum adds Studio Web and advanced features."
+   }
   }
  ],
  "anchors": [
@@ -6226,11 +6374,18 @@
     "pipedream",
     "windmill",
     "dify",
-    "flowise"
+    "flowise",
+    "huginn"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17",
-   "reviewedBy": "rosh-k"
+   "contentUpdatedAt": "2026-10-23",
+   "reviewedBy": "rosh-k",
+   "howToChoose": [
+    "Want n8n's self-hosting without its fair-code licence? Activepieces, Windmill and Huginn are open source and self-hostable.",
+    "Want no servers at all? Zapier and Make are hosted, with free plans and a far larger catalogue of ready-made app connectors.",
+    "Building AI agents or chatbots rather than app-to-app workflows? Dify and Flowise are built for LLM apps first.",
+    "Developers who prefer writing code steps can look at Pipedream and Windmill, which are built around scripts."
+   ]
   },
   {
    "slug": "make",
@@ -6407,8 +6562,14 @@
     "github-copilot"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18",
-   "reviewedBy": "rosh-k"
+   "contentUpdatedAt": "2026-10-23",
+   "reviewedBy": "rosh-k",
+   "howToChoose": [
+    "Want to stay in the terminal? Codex, Gemini CLI, OpenCode and Aider are terminal coding agents like Claude Code.",
+    "Want to pick your own model, including local ones? OpenCode, Aider and Cline let you connect your own provider or API key.",
+    "Prefer an editor to a terminal? Cursor, GitHub Copilot and Cline work inside your IDE.",
+    "Want an agent that runs in its own sandbox and opens pull requests? OpenHands is open source and can be self-hosted."
+   ]
   },
   {
    "slug": "devin",
@@ -6698,6 +6859,25 @@
    ],
    "firstPublished": "2026-10-21",
    "contentUpdatedAt": "2026-10-21"
+  },
+  {
+   "slug": "base44",
+   "alternatives": [
+    "lovable",
+    "bolt",
+    "v0",
+    "dyad",
+    "bolt-diy",
+    "replit"
+   ],
+   "firstPublished": "2026-10-23",
+   "contentUpdatedAt": "2026-10-23",
+   "howToChoose": [
+    "Want the closest like-for-like swap? Lovable, Bolt and v0 are hosted, prompt-to-app builders with free plans, like Base44.",
+    "Want to own the code and skip credits? Dyad runs on your own computer and bolt.diy is the open-source, self-hosted fork of Bolt; you bring your own model API key.",
+    "Building more than a front end? Check what each plan includes for databases, auth and hosting on the vendor's pricing page before you commit; we link each source.",
+    "Compare like with like: some builders bill per user and others per workspace, so read the plan line under each price."
+   ]
   }
  ],
  "saas": [

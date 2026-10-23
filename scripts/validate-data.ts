@@ -216,7 +216,7 @@ function checkListings() {
 function rankedTemplatesUngated() {
   const out: string[] = [];
   const walk = (d: string): string[] => !fs.existsSync(d) ? [] : fs.readdirSync(d, { withFileTypes: true }).flatMap((e) => e.isDirectory() ? walk(path.join(d, e.name)) : [path.join(d, e.name)]);
-  for (const f of [...walk(path.join(ROOT, "src/app/stacks")), ...walk(path.join(ROOT, "src/app/compare"))]) {
+  for (const f of [...walk(path.join(ROOT, "src/app/stacks")), ...walk(path.join(ROOT, "src/app/compare")), ...walk(path.join(ROOT, "src/app/categories")), ...walk(path.join(ROOT, "src/app/free-ai-tools")), ...walk(path.join(ROOT, "src/app/teachers"))]) {
     if (!/page\.tsx$/.test(f)) continue; const src = fs.readFileSync(f, "utf8");
     const lists = /ItemList|<ol\b|position=\{/.test(src), gated = /\b(groupItems|groupAlts)\(|<AltTemplate\b/.test(src);
     if (lists && !gated) out.push(`${path.relative(ROOT, f)} renders a ranked list without groupItems()/groupAlts(), so unverified tools could be ranked`);
@@ -302,6 +302,21 @@ function checkBuilt() {
   process.exit(hits.length ? 1 : 0);
 }
 
+// ---------- editorial pages (src/data/pages.json): verbatim quotes, gate rules from Hermione's use-case format ----------
+function checkPages() {
+  const pages = JSON.parse(fs.readFileSync(path.join(ROOT, "src/data/pages.json"), "utf8"));
+  checkJudgement(pages, "pages");
+  const quotes: { where: string; url: string; quote: string }[] = [];
+  const walk = (o: unknown, where: string): void => { if (Array.isArray(o)) o.forEach((v, i) => walk(v, `${where}[${i}]`)); else if (o && typeof o === "object") { const r = o as Record<string, unknown>; if (typeof r.quote === "string" && typeof r.sourceUrl === "string") quotes.push({ where, url: r.sourceUrl, quote: r.quote }); for (const [k, v] of Object.entries(r)) walk(v, `${where}.${k}`); } };
+  walk(pages, "pages");
+  for (const q of quotes) { const hay = snapByUrl.get(q.url.replace(/\/$/, "")); if (!hay) H("page-quote", `${q.where}: no stored snapshot of ${q.url}`); else if (!hay.includes(norm(q.quote))) H("page-quote", `${q.where}: quote is not verbatim in the snapshot of ${q.url}`); }
+  for (const [k, pg] of Object.entries(pages as Record<string, { steps?: unknown[]; limits?: unknown[]; tools?: { tool: string }[] }>)) {
+    if ((pg.steps ?? []).length < 3) H("page-steps", `pages.${k}: needs at least 3 steps`);
+    if ((pg.limits ?? []).length < 1) H("page-limits", `pages.${k}: needs at least 1 sourced limit`);
+    if (!quotes.some((q) => q.where.startsWith(`pages.${k}`))) H("page-sources", `pages.${k}: needs at least 1 source`);
+    for (const it of pg.tools ?? []) if (!tools.some((t) => t.slug === it.tool)) H("page-tool", `pages.${k}: unknown tool ${it.tool}`);
+  }
+}
 async function main() {
   if (process.argv.includes("--built")) return checkBuilt();
   // Dry-run the judgement checks on draft files without touching the site: GATE_JUDGE_FILES=a.json,b.json
@@ -309,7 +324,7 @@ async function main() {
     for (const f of process.env.GATE_JUDGE_FILES.split(",")) checkJudgement(JSON.parse(fs.readFileSync(f, "utf8")), path.basename(f));
     for (const x of hard) console.log("  HARD " + x); console.log(`judgement dry-run: ${hard.length} violations`); return;
   }
-  await linkChecks(); checkChanges(); checkListings(); checkStacksCompare(); checkJudgement(); checkBrandAndDell();
+  await linkChecks(); checkChanges(); checkListings(); checkStacksCompare(); checkJudgement(); checkPages(); checkBrandAndDell();
   const out = { generatedAt: now.toISOString(), maxAgeDays: MAX_AGE_DAYS, linkCheck, tools: gateTools, dead: dead.map(({ url, status, slug, kind }) => ({ url, status, slug, kind })), hard: hard.length, soft };
   fs.writeFileSync(path.join(ROOT, "src/data/gate.json"), JSON.stringify(out, null, 1) + "\n");
   const verified = Object.values(gateTools).filter((g) => g.verified).length;

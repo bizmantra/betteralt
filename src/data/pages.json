@@ -1,0 +1,179 @@
+{
+ "teachers": {
+  "slug": "ai-lesson-plan-generator",
+  "path": "/teachers/ai-lesson-plan-generator",
+  "firstPublished": "2026-10-23",
+  "contentUpdatedAt": "2026-10-23",
+  "title": "AI lesson plan generator for teachers: free options, steps and limits",
+  "h1": "AI lesson plan generators for teachers, with free plans and real limits",
+  "description": "How teachers use an AI lesson plan generator: MagicSchool and Khanmigo steps from their own docs, what the free plans include, USD prices from vendor pages, and where it breaks.",
+  "problem": {
+   "text": "Teachers lose evenings to lesson planning, grading and individual feedback. A district case study describes teachers as overwhelmed by exactly this work.",
+   "sourceUrl": "https://www.magicschool.ai/case-studies/twin-rivers-ai-for-teachers",
+   "quote": "Before implementing MagicSchool, Twin Rivers teachers were overwhelmed by lesson planning, grading, and providing individualized feedback",
+   "capturedAt": "2026-10-23"
+  },
+  "lead": "This is how teachers do it with MagicSchool and Khanmigo, based on MagicSchool's own docs, MagicSchool's published case study and a third-party pilot report from Michigan Virtual. Prices come from each vendor's pricing page.",
+  "goodFit": [
+   "You plan lessons every week and want a structured first draft to edit, not a finished plan.",
+   "You teach to named standards and can type or pick them in the tool.",
+   "You want to start on a free plan before your school decides on a licence."
+  ],
+  "skipIf": [
+   "You need plans tied to a detailed school scheme of work that you can't describe in a prompt (our view).",
+   "Your school does not allow staff to use AI tools that are not on its approved list (our view).",
+   "You teach mostly maths notation and want the tool to read typed equations reliably (see the limits below)."
+  ],
+  "steps": [
+   {
+    "n": 1,
+    "tool": "magicschool",
+    "action": "Open the Lesson Plan Generator in MagicSchool and start from one learning objective.",
+    "source": {
+     "text": "An AI lesson plan generator turns a learning objective into a structured lesson plan.",
+     "sourceUrl": "https://www.magicschool.ai/tools/lesson-plan",
+     "quote": "An AI lesson plan generator helps teachers turn a learning objective into a structured lesson plan.",
+     "capturedAt": "2026-10-23"
+    }
+   },
+   {
+    "n": 2,
+    "tool": "magicschool",
+    "action": "Add your subject, grade level, standards and the time you have for the lesson.",
+    "source": {
+     "text": "Inputs are subject, grade level, standards and available time.",
+     "sourceUrl": "https://www.magicschool.ai/tools/lesson-plan",
+     "quote": "Add details such as your subject, grade level, standards, and available time",
+     "capturedAt": "2026-10-23"
+    }
+   },
+   {
+    "n": 3,
+    "tool": "magicschool",
+    "action": "Select or type the standards you are teaching so they are built into the objectives, activities and assessment.",
+    "source": {
+     "text": "Standards feed objectives, activities and assessment.",
+     "sourceUrl": "https://www.magicschool.ai/tools/lesson-plan",
+     "quote": "Select or enter the standards you’re teaching to build them into the learning objectives, activities, and assessment.",
+     "capturedAt": "2026-10-23"
+    }
+   },
+   {
+    "n": 4,
+    "tool": "magicschool",
+    "action": "Add differentiation needs, then make versions for other reading levels or needs while keeping the core objective.",
+    "source": {
+     "text": "One core lesson can be adapted for different levels.",
+     "sourceUrl": "https://www.magicschool.ai/tools/lesson-plan",
+     "quote": "Start with one core lesson, then adapt it for different grade levels, reading levels, or student needs.",
+     "capturedAt": "2026-10-23"
+    }
+   },
+   {
+    "n": 5,
+    "tool": "magicschool",
+    "action": "Review and refine the draft so it fits your classroom before you teach it.",
+    "source": {
+     "text": "Review and refine the plan.",
+     "sourceUrl": "https://www.magicschool.ai/tools/lesson-plan",
+     "quote": "You can also add time constraints and differentiation needs, then review and refine the plan to fit your classroom.",
+     "capturedAt": "2026-10-23"
+    }
+   },
+   {
+    "n": 6,
+    "tool": "khanmigo",
+    "action": "Use Khanmigo to brainstorm questions, write a lesson hook and suggest student activities for the plan.",
+    "source": {
+     "text": "Teachers in the pilot used it for questions, hooks and activities.",
+     "sourceUrl": "https://michiganvirtual.org/blog/have-you-considered-ai-in-your-classroom-a-khanmigo-pilot-story",
+     "quote": "Khanmigo proved especially valuable for brainstorming questions, writing lesson hooks, reviewing content, and suggesting student activities.",
+     "capturedAt": "2026-10-23"
+    }
+   }
+  ],
+  "limits": [
+   {
+    "text": "On MagicSchool, unlimited generations, unlimited output history and unlimited AI-output editing are listed under Plus, as extras over the Free plan.",
+    "sourceUrl": "https://www.magicschool.ai/pricing",
+    "quote": "Every FREE feature, plus: Unlimited generations Unlimited output history Unlimited AI-output editing",
+    "capturedAt": "2026-10-23"
+   },
+   {
+    "text": "In the Michigan Virtual pilot, typing equations and math prompts made Khanmigo clunky at times, and some students found the tutor too chatty.",
+    "sourceUrl": "https://michiganvirtual.org/blog/have-you-considered-ai-in-your-classroom-a-khanmigo-pilot-story",
+    "quote": "Technical challenges like typing equations or interpreting math prompts made things clunky at times. Some students were frustrated with how “chatty” Khanmigo’s AI chatbot tutor was.",
+    "capturedAt": "2026-10-23"
+   },
+   {
+    "text": "The same pilot found it worked better when started at the beginning of the school year than midway through a semester.",
+    "sourceUrl": "https://michiganvirtual.org/blog/have-you-considered-ai-in-your-classroom-a-khanmigo-pilot-story",
+    "quote": "Teachers noted the importance of starting the year with an AI tool like Khanmigo, rather than trying to integrate it midway through the semester.",
+    "capturedAt": "2026-10-23"
+   },
+   {
+    "text": "MagicSchool itself frames the output as a starting point that you review and adapt, not a finished plan.",
+    "sourceUrl": "https://www.magicschool.ai/tools/lesson-plan",
+    "quote": "You’ll have more time to review the plan, make it your own, and adapt it for the students in front of you.",
+    "capturedAt": "2026-10-23"
+   }
+  ],
+  "result": {
+   "label": "MagicSchool's published case study (Twin Rivers USD)",
+   "claim": {
+    "text": "A vendor-reported result from one teacher in a district rollout.",
+    "sourceUrl": "https://www.magicschool.ai/case-studies/twin-rivers-ai-for-teachers",
+    "quote": "One teacher shared that she created a full week of differentiated lessons in under an hour instead of several evenings.",
+    "capturedAt": "2026-10-23"
+   }
+  },
+  "tools": [
+   {
+    "tool": "magicschool",
+    "role": "Lesson Plan Generator, built for schools"
+   },
+   {
+    "tool": "khanmigo",
+    "role": "Lesson hooks, questions and activity ideas"
+   },
+   {
+    "tool": "chatgpt",
+    "role": "General assistant: draft and rework plans"
+   },
+   {
+    "tool": "claude",
+    "role": "General assistant: draft and rework plans"
+   },
+   {
+    "tool": "gemini",
+    "role": "General assistant with a Google Account"
+   },
+   {
+    "tool": "gamma",
+    "role": "Turn the plan into slides"
+   },
+   {
+    "tool": "canva",
+    "role": "Worksheets and classroom visuals"
+   }
+  ],
+  "related": [
+   {
+    "href": "/stacks/chemistry-tutor",
+    "label": "AI stack for a chemistry tutor"
+   },
+   {
+    "href": "/free-ai-tools",
+    "label": "Free AI tools that are still free"
+   },
+   {
+    "href": "/alternatives/chatgpt",
+    "label": "Free ChatGPT alternatives"
+   },
+   {
+    "href": "/alternatives/gamma",
+    "label": "Gamma alternatives for slides"
+   }
+  ]
+ }
+}
