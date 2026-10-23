@@ -27,8 +27,8 @@ export const Card = ({ children, c = "" }: { children: ReactNode; c?: string }) 
 export const Sample = ({ children = "Sample — not yet verified" }: { children?: ReactNode }) => <span className="rounded-md bg-amber-tint px-2 py-0.5 text-xs font-semibold text-amber">{children}</span>;
 export const Src = ({ href, date }: { href: string; date: string }) => <span className="text-sm text-ink-2">Checked <span className="font-mono">{date}</span> · <a className="underline" href={href} target="_blank" rel="noopener nofollow">source</a></span>;
 export const Watch = ({ extra }: { extra?: ReactNode }) => (
-  <section aria-labelledby="watch" className="rounded-xl border border-rule bg-[#F3F1EC] p-6">
-    <h2 id="watch" className="font-serif text-2xl">Watch out for</h2>
+  <section aria-labelledby="watch" className="rounded-xl border border-rule bg-surface-low p-6">
+    <h2 id="watch" className="font-serif font-semibold tracking-tight text-2xl">Watch out for</h2>
     <ul className="mt-4 space-y-4">
       <li className="flex gap-3"><Icon n="lock" c="h-6 w-6 shrink-0"/><span><b>Don&apos;t paste student names.</b> Leave out names, ID numbers, grades and anything that could identify a child. Write &quot;Student A&quot; instead. Check your school&apos;s AI rules first.</span></li>
       <li className="flex gap-3"><Icon n="warn" c="h-6 w-6 shrink-0"/><span><b>AI can be wrong.</b> It can make up facts or give a wrong answer key. Read every question and answer before your class sees it. You are responsible for what you hand out.</span></li>

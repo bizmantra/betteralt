@@ -19,8 +19,8 @@ function Menu({ label, items, id }: { label: string; items: [string, string][]; 
 export default function Nav() {
   const roles = ROLES.filter((r) => r.inMenu).map((r) => [r.plural, `/proto/roles/${r.slug}`] as [string, string]);
   return <nav aria-label="Main" className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-6 gap-y-2 px-5 py-4 text-[15px]">
-    <Link href="/proto" className="mr-auto font-serif text-2xl font-bold">FindBetter<span className="bg-hl px-1">Alt</span></Link>
-    <Link href="/proto/use-cases" className="font-medium">Use cases</Link>
+    <Link href="/proto" className="mr-auto flex items-center gap-2 text-xl font-bold tracking-tight"><span className="flex h-7 w-7 items-center justify-center rounded-lg bg-green text-sm text-white">F</span>FindBetterAlt</Link>
+    <Link href="/proto/use-cases" className="font-semibold text-green">Use cases</Link>
     <Menu id="m-roles" label="By role" items={roles}/>
     <Link href="/proto/use-cases?ct=free-tool" className="text-ink-2 hover:text-ink">Free tools</Link>
     <Link href="/proto/use-cases?ct=template" className="text-ink-2 hover:text-ink">Templates</Link>

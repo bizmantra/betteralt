@@ -6,7 +6,7 @@ import { Icon } from "./_ui";
 import { USE_CASES, TOPICS, TYPES, ROLES, CT, type UseCase, type ContentType } from "./_usecases";
 export const UCCard = ({ u }: { u: UseCase }) => {
   const live = u.status === "live";
-  const b = <div className={`flex h-full flex-col rounded-xl border border-rule bg-white p-5 ${live ? "hover:border-ink" : "opacity-70"}`}>
+  const b = <div className={`flex h-full flex-col rounded-xl border border-rule bg-white p-5 ${live ? "transition hover:border-green hover:shadow-md" : "opacity-70"}`}>
     <p className="text-sm text-ink-2">{u.topic} · {u.contentTypes.map((c) => CT[c].label).join(", ")}</p>
     <h3 className="mt-1 text-xl font-semibold">{u.title}</h3>
     <p className="mt-1 text-ink-2">You get: {u.outcome}</p>
@@ -18,7 +18,7 @@ export const UCCard = ({ u }: { u: UseCase }) => {
   return live ? <Link href={`/proto/use-cases/${u.slug}`} data-testid="uc-card">{b}</Link> : <div data-testid="uc-card">{b}</div>;
 };
 const Chip = ({ on, set, label }: { on: boolean; set: () => void; label: string }) =>
-  <button type="button" aria-pressed={on} onClick={set} className={`rounded-full border px-4 py-1.5 text-sm ${on ? "border-ink bg-ink text-white" : "border-rule bg-white"}`}>{label}</button>;
+  <button type="button" aria-pressed={on} onClick={set} className={`rounded-full border px-4 py-1.5 text-sm ${on ? "border-green bg-green text-white" : "border-rule bg-white"}`}>{label}</button>;
 export default function UseCaseGrid() {
   const [q, setQ] = useState(""), [topic, setTopic] = useState(""), [type, setType] = useState(""), [rl, setRl] = useState(""), [ct, setCt] = useState("");
   const sp = useSearchParams(), key = sp.toString();
@@ -29,7 +29,7 @@ export default function UseCaseGrid() {
   const sel = "rounded-lg border border-rule bg-white px-3 py-1.5 text-sm";
   return <div>
     <label htmlFor="ucq" className="sr-only">Search use cases</label>
-    <div className="flex items-center gap-3 rounded-xl border-2 border-ink bg-white px-4 py-3 shadow-[4px_4px_0_#1B1A17]"><Icon n="search" c="h-6 w-6"/>
+    <div className="flex items-center gap-3 rounded-xl border border-rule shadow-sm bg-white px-4 py-3 shadow-sm"><Icon n="search" c="h-6 w-6"/>
       <input id="ucq" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search, e.g. email, quiz, contract" className="w-full bg-transparent text-lg outline-none"/></div>
     <div className="mt-5 space-y-3">
       <div className="flex flex-wrap items-center gap-2"><span className="w-20 text-sm font-medium">Topic</span><Chip on={!topic} set={() => setTopic("")} label="All"/>{TOPICS.map((t) => <Chip key={t} on={topic === t} set={() => setTopic(topic === t ? "" : t)} label={t}/>)}</div>

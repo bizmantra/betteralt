@@ -39,7 +39,7 @@ Keep it under 150 words, clear and polite, with a subject line and one clear ask
       <pre data-testid="em-draft" className="whitespace-pre-wrap rounded-xl border border-rule bg-white p-5 font-sans">{email}</pre>
       <div className="flex flex-wrap gap-3"><button onClick={() => copy(email, "Email")} className={G}>Copy email</button>
         <button onClick={() => download(email + "\n\n---\nAI prompt:\n" + prompt, "email-draft.txt")} className={G2}>Download .txt</button></div>
-      <div><h3 className="font-semibold">Want AI to polish it? Paste this into free ChatGPT</h3><pre data-testid="em-prompt" className="mt-2 whitespace-pre-wrap rounded-xl bg-[#FDF3EC] p-4 font-mono text-sm">{prompt}</pre>
+      <div><h3 className="font-semibold">Want AI to polish it? Paste this into free ChatGPT</h3><pre data-testid="em-prompt" className="mt-2 whitespace-pre-wrap rounded-xl bg-surface-low p-4 font-mono text-sm">{prompt}</pre>
         <button onClick={() => copy(prompt, "Prompt")} className={`${G} mt-3`}>Copy prompt</button></div>
       <p role="status" data-testid="msg" className="min-h-6 text-green-dark">{msg}</p>
     </section>

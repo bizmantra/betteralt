@@ -44,14 +44,14 @@ Be specific and kind, and end with one clear next step. Do not invent grades or 
       <fieldset><legend className="font-medium">Areas to improve</legend><div className="mt-2 flex flex-wrap gap-2">{Object.keys(GROW).map((k) => <button key={k} type="button" aria-pressed={g.includes(k)} onClick={() => tog(g, setG, k)} className={chip(g.includes(k))}>{k}</button>)}</div></fieldset>
       <fieldset><legend className="font-medium">Tone</legend><div className="mt-2 flex flex-wrap gap-2">{(Object.keys(TONES) as Tone[]).map((t) => <button key={t} type="button" aria-pressed={tone === t} onClick={() => setTone(t)} className={chip(tone === t)}>{t}</button>)}</div></fieldset>
       <label className="block font-medium">Subject (optional)<input data-testid="rc-subject" className={INP} value={subject} onChange={(e) => setSubject(e.target.value)} placeholder="e.g. Science"/></label>
-      <p className="rounded-lg bg-[#F3F1EC] p-3 text-sm">🔒 We use [Name] on purpose. Add the real name only in your own report system, never in an AI chat.</p>
+      <p className="rounded-lg bg-surface-low p-3 text-sm">🔒 We use [Name] on purpose. Add the real name only in your own report system, never in an AI chat.</p>
     </section>
     <section aria-label="Your comments" className="space-y-4">
       {comments.map((c, i) => <div key={i} className="rounded-xl border border-rule bg-white p-4"><p data-testid="rc-comment">{c}</p><button onClick={() => copy(c, `Comment ${i + 1}`)} className="mt-2 text-sm font-semibold text-green underline">Copy this one</button></div>)}
       <div className="flex flex-wrap gap-3"><button onClick={() => copy(comments.join("\n\n"), "All comments")} className={G}>Copy all</button>
         <button onClick={() => setV(v + 1)} className={G2}>Mix up the wording</button>
         <button onClick={() => download(comments.join("\n\n") + "\n\n---\nAI prompt:\n" + prompt, "report-card-comments.txt")} className={G2}>Download .txt</button></div>
-      <details className="rounded-xl bg-[#FDF3EC] p-4"><summary className="cursor-pointer font-semibold">Want more variety? Use this prompt in a free AI chat</summary><pre data-testid="rc-prompt" className="mt-3 whitespace-pre-wrap font-mono text-sm">{prompt}</pre><button onClick={() => copy(prompt, "Prompt")} className={`${G} mt-3`}>Copy prompt</button></details>
+      <details className="rounded-xl bg-surface-low p-4"><summary className="cursor-pointer font-semibold">Want more variety? Use this prompt in a free AI chat</summary><pre data-testid="rc-prompt" className="mt-3 whitespace-pre-wrap font-mono text-sm">{prompt}</pre><button onClick={() => copy(prompt, "Prompt")} className={`${G} mt-3`}>Copy prompt</button></details>
       <p role="status" data-testid="msg" className="min-h-6 text-green-dark">{msg}</p>
     </section>
   </div>;
