@@ -12,7 +12,7 @@ export default function ProtoLayout({ children }: { children: React.ReactNode })
     {children}
     <footer className="mt-16 border-t border-rule bg-white"><div className="mx-auto grid max-w-6xl gap-6 px-5 py-10 text-sm text-ink-2 sm:grid-cols-3">
       <div><b className="text-ink">Get things done</b><br/><Link href="/proto/use-cases">All use cases</Link>{ROLES.filter((r) => r.inMenu).map((r) => <span key={r.slug}><br/><Link href={`/proto/roles/${r.slug}`}>{r.plural}</Link></span>)}</div>
-      <div><b className="text-ink">Free tools</b><br/><Link href="/proto/use-cases/plan-a-lesson">Lesson plan builder</Link><br/><Link href="/proto/use-cases/write-report-card-comments">Report card comments</Link><br/><Link href="/proto/use-cases/write-a-professional-email">Email builder</Link></div>
+      <div><b className="text-ink">Free tools</b><br/><Link href="/proto/classroom">Classroom</Link><br/><Link href="/proto/running-a-business">Running a business</Link><br/><Link href="/proto/classroom/random-group-generator">Random group generator</Link><br/><Link href="/proto/running-a-business/sop-template">SOP template</Link></div>
       <div><b className="text-ink">How we check</b><br/>Prices come from each company&apos;s own pricing page, with the date we checked. No company pays for our picks.</div>
     </div></footer>
   </div>;
