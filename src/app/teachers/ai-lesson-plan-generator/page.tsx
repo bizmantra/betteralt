@@ -9,6 +9,7 @@ import { teachers as p, lastmodTeachers, type Sourced } from "@/lib/batch1";
 
 export const metadata: Metadata = { ...buildMetadata({ title: p.title, description: p.description, path: p.path, type: "article" }), title: { absolute: p.title } };
 const host = (u: string) => new URL(u).hostname.replace(/^www\./, "");
+const VENDOR_LABEL = "MagicSchool's own claim (vendor case study, not tested by FindBetterAlt)";
 function Src({ s }: { s: Sourced }) { return <a className="text-sm underline" href={s.sourceUrl} target="_blank" rel="nofollow noopener">({host(s.sourceUrl)})</a>; }
 export default function Page() {
   const { ranked, unverified } = groupItems(p.tools, getTool);
@@ -22,7 +23,7 @@ export default function Page() {
       <Crumbs items={[{ name: "Teachers" }, { name: "AI lesson plan generator" }]} />
       <h1 className="mt-1 font-serif text-[28px] font-semibold leading-tight tracking-tight sm:text-[40px]">{p.h1}</h1>
       <Byline updated={lastmodTeachers()} checked={ranked.map(({ t }) => t.pricing.lastChecked)} />
-      <p className="mt-3 text-[17px]">{p.problem.text} <Src s={p.problem} /></p>
+      <p className="mt-3 text-[17px]">{p.problem.text} <span className="text-sm font-semibold text-amber">{VENDOR_LABEL}:</span> <a className="text-sm underline" href={p.problem.sourceUrl} target="_blank" rel="nofollow noopener">{p.result?.label ?? host(p.problem.sourceUrl)}</a><span className="text-sm text-ink-2">, captured {fmtDate(p.problem.capturedAt)}</span></p>
       <p className="mt-2 text-[17px]">{p.lead}</p>
     </div>
     <section className="grid gap-4 sm:grid-cols-2">
@@ -41,9 +42,12 @@ export default function Page() {
     </section>
     <section className="border-t-2 border-ink pt-3"><h2 className="font-serif text-2xl font-semibold">Where it breaks</h2>
       <ul className="mt-2 list-disc space-y-1 pl-5">{p.limits.map((l) => <li key={l.text}>{l.text} <Src s={l} /></li>)}</ul></section>
-    {p.result && <section className="border-t-2 border-ink pt-3"><h2 className="font-serif text-2xl font-semibold">Reported result</h2>
-      <blockquote className="mt-2 border-l-4 border-ink pl-3">&ldquo;{p.result.claim.quote}&rdquo;</blockquote>
-      <p className="mt-1 text-sm text-ink-2">Source: <a className="underline" href={p.result.claim.sourceUrl} target="_blank" rel="nofollow noopener">{p.result.label}</a>. A vendor-published claim, not our test.</p></section>}
+    {p.result && <section className="border-t-2 border-ink pt-3"><h2 className="font-serif text-2xl font-semibold">Reported result (vendor claim)</h2>
+      <figure className="mt-2 rounded-lg border-2 border-amber bg-amber-tint p-3" data-vendor-claim="">
+        <p className="text-[12px] font-semibold uppercase tracking-wide text-amber">{VENDOR_LABEL}</p>
+        <blockquote className="mt-1 border-l-4 border-ink pl-3">&ldquo;{p.result.claim.quote}&rdquo;</blockquote>
+        <figcaption className="mt-1 text-sm text-ink-2"><a className="underline" href={p.result.claim.sourceUrl} target="_blank" rel="nofollow noopener">{p.result.label}</a> · captured {fmtDate(p.result.claim.capturedAt)}</figcaption>
+      </figure></section>}
     <section className="border-t-2 border-ink pt-3"><h2 className="font-serif text-2xl font-semibold">Other ways to do this</h2>
       <ul className="mt-2 list-disc space-y-1 pl-5">{p.related.map((r) => <li key={r.href}><Link className="underline" href={r.href}>{r.label}</Link></li>)}</ul></section>
     <section className="border-t-2 border-ink pt-3 text-sm"><h2 className="font-serif text-xl font-semibold">Sources</h2>
