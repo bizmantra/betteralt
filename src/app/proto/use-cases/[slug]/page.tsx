@@ -3,7 +3,8 @@ import { notFound } from "next/navigation";
 import type { ReactNode } from "react";
 import { Icon, Btn, Src, Sample } from "../../_ui";
 import { tool, fmt } from "../../_data";
-import { USE_CASES } from "../../_usecases";
+import { USE_CASES, ROLES, CT, forRole, type ContentType } from "../../_usecases";
+import { JsonLd } from "@/components/ui";
 import { UCCard } from "../../UseCaseGrid";
 import { CopyBox } from "../../_copy";
 import LessonPlan from "../../LessonPlan";
@@ -53,15 +54,27 @@ const PAGES: Record<string, D> = {
 };
 export const dynamicParams = false;
 export function generateStaticParams() { return Object.keys(PAGES).map((slug) => ({ slug })); }
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) { const { slug } = await params; return { title: `${PAGES[slug]?.title ?? "Use case"} with AI (prototype)` }; }
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) { const { slug } = await params; return { title: `${USE_CASES.find((u) => u.slug === slug)?.title ?? "Use case"} with AI (prototype)` }; }
 const H2 = ({ id, children }: { id: string; children: ReactNode }) => <h2 id={id} className="font-serif text-3xl">{children}</h2>;
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params; const d = PAGES[slug]; if (!d) notFound();
-  return <main>
+  const { slug } = await params; const d = PAGES[slug]; const u = USE_CASES.find((x) => x.slug === slug); if (!d || !u) notFound();
+  const roles = u.roles.map((r) => ROLES.find((x) => x.slug === r)!), primary = roles[0];
+  const more = forRole(primary.slug).filter((x) => x.slug !== slug && !d.related.includes(x.slug)).slice(0, 4);
+  const ANCHOR: Partial<Record<ContentType, string>> = { "free-tool": "#tool", prompts: "#pr", guide: "#how", template: "#tool" };
+  const others = USE_CASES.filter((x) => x.slug !== slug && (x.topic === u.topic || x.roles.some((r) => u.roles.includes(r))) && x.contentTypes.some((c) => !u.contentTypes.includes(c))).slice(0, 3);
+  const URL_ = `https://findbetteralt.com/proto/use-cases/${slug}`;
+  const audience = roles.map((r) => ({ "@type": r.audience.type, audienceType: r.audience.name }));
+  const ld = { "@context": "https://schema.org", "@graph": [
+    { "@type": "HowTo", "@id": `${URL_}#howto`, name: u.title, description: u.outcome, audience, step: d.steps.map((t, i) => ({ "@type": "HowToStep", position: i + 1, text: t })), tool: [{ "@type": "HowToTool", name: u.toolName }] },
+    { "@type": "WebApplication", "@id": `${URL_}#app`, name: u.toolName, applicationCategory: "UtilitiesApplication", operatingSystem: "Any (runs in the browser)", isAccessibleForFree: true, offers: { "@type": "Offer", price: 0, priceCurrency: "USD" }, audience, url: `${URL_}#tool` },
+    { "@type": "FAQPage", mainEntity: d.faq.map(([q, a]) => ({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: a } })) },
+  ] };
+  return <main><JsonLd data={ld}/>
     <section className="bg-[#FDF3EC]"><div className="mx-auto max-w-6xl px-5 py-10">
       <p className="text-sm text-ink-2"><Link href="/proto">Home</Link> › <Link href="/proto/use-cases">Use cases</Link> › {d.title}</p>
-      <h1 className="mt-3 font-serif text-4xl sm:text-5xl">{d.title}</h1>
-      <p className="mt-3 max-w-3xl text-lg"><b>The problem:</b> {d.problem}</p>
+      <h1 className="mt-3 font-serif text-4xl sm:text-5xl">{u.title}</h1>
+      <p className="mt-2 text-sm text-ink-2" data-testid="popular-with">Popular with: {roles.map((r, i) => <span key={r.slug}>{i > 0 && " · "}<Link className="hover:underline" href={`/proto/roles/${r.slug}`}>{r.plural}</Link></span>)}</p>
+      <p className="mt-3 max-w-3xl text-lg"><b>The problem:</b> {u.problem}</p>
       <p className="mt-2 max-w-3xl text-lg"><b>What you get:</b> {d.outcome}</p>
       <p className="mt-3 inline-flex items-center gap-1 rounded-full bg-green-tint px-3 py-1 text-sm font-medium text-green-dark"><Icon n="check" c="h-4 w-4"/>Free tool below · runs in your browser · nothing saved</p>
     </div></section>
@@ -83,7 +96,13 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
         <section aria-labelledby="faq"><H2 id="faq">Questions people ask</H2><div className="mt-4 divide-y divide-rule rounded-xl border border-rule bg-white">{d.faq.map(([q, a]) => <details key={q} className="p-4"><summary className="cursor-pointer font-semibold">{q}</summary><p className="mt-2 text-ink-2">{a}</p></details>)}</div></section>
       </div>
       <aside className="space-y-4 lg:sticky lg:top-6 lg:self-start"><h2 className="font-serif text-2xl">Related</h2>{d.related.map((s) => { const u = USE_CASES.find((x) => x.slug === s)!; return <UCCard key={s} u={u}/>; })}
+        <div data-testid="other-ways"><h2 className="mt-6 font-serif text-2xl">Other ways to do this</h2>
+          <ul className="mt-2 space-y-1">{u.contentTypes.filter((c) => ANCHOR[c]).map((c) => <li key={c}><a className="underline" href={ANCHOR[c]}>{CT[c].label} on this page</a></li>)}
+            {others.map((x) => <li key={x.slug}>{x.status === "live" ? <Link className="underline" href={`/proto/use-cases/${x.slug}`}>{x.title}</Link> : <span className="text-ink-2">{x.title}</span>} <span className="text-xs text-ink-2">({x.contentTypes.filter((c) => !u.contentTypes.includes(c)).map((c) => CT[c].label).join(", ")}{x.status !== "live" ? ", coming soon" : ""})</span></li>)}</ul></div>
         <Link href="/proto/use-cases" className="block font-semibold text-green underline">See all use cases →</Link></aside></div>
+      <section aria-labelledby="more" data-testid="more-for"><h2 id="more" className="font-serif text-2xl">More for {primary.plural.toLowerCase()}</h2>
+        <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">{more.map((x) => <UCCard key={x.slug} u={x}/>)}</div>
+        <Link href={`/proto/roles/${primary.slug}`} className="mt-3 inline-block text-sm underline">Browse everything for {primary.plural.toLowerCase()} →</Link></section>
       <section className="text-sm text-ink-2" aria-labelledby="src"><h2 id="src" className="font-serif text-2xl text-ink">Sources</h2><ul className="mt-2 list-disc space-y-1 pl-5">{d.picks.map((p) => <li key={p.name}>{p.name} pricing: <a className="underline" href={p.src} target="_blank" rel="noopener nofollow">{p.src}</a>, checked {p.date}</li>)}</ul></section>
       <Signup/>
     </div>
