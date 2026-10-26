@@ -1,0 +1,90 @@
+#SNAPSHOT {"url":"https://voicebox.sh/pricing","finalUrl":"https://voicebox.sh/pricing","fetchedAt":"2026-10-26T03:42:57.473Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"bf9dad4ae5da74a1431d001473c4b41a7239de17735b15d7afe88023108e570b"}
+Pricing — Voicebox 
+ Voicebox
+ Clone
+ Capture New
+ MCP
+ Models
+ Pricing
+ Blog
+ Docs
+ Donate
+ Star
+ Pricing
+ The app is free. Forever.
+ Everything that makes Voicebox great runs locally at no cost. Pay only if you want optional, encrypted cloud backup & sync.
+ Monthly
+ Annual Save 50 %
+ Local
+ Available now
+ The full app, free forever.
+ $ 0
+ No account required
+ Download Voicebox
+ Voice cloning across every TTS engine
+ Dictation & Capture (audio kept alongside transcript)
+ MCP / agent integration & personalities
+ Unlimited local generations & captures
+ 100% open source, runs entirely on your machine
+ Cloud
+ Coming soon
+ Backup & sync for everything you make.
+ $ 12
+ /year
+ Launch price
+ Get notified
+ Everything in Local
+ End-to-end encrypted backup — we can&#x27;t read it
+ Sync across desktop & mobile
+ 25 GB encrypted storage
+ Up to 5 devices
+ 30-day version history
+ Studio
+ Coming soon
+ For power users and professionals.
+ $ 48
+ /year
+ Placeholder — pricing TBD
+ Get notified
+ Everything in Cloud
+ 250 GB encrypted storage
+ Unlimited devices
+ 1-year version history
+ Priority support
+ Questions
+ Is the app really free?
+ Yes — Voicebox is free and open source, forever. Cloning, dictation, every TTS engine, MCP, personalities: all of it runs locally with no account. The paid plans only add optional cloud backup & sync.
+ What&#x27;s encrypted in the cloud?
+ Everything. Your profiles, generations, and captures are end-to-end encrypted on your device before upload. The server stores only ciphertext and can never read your data.
+ What counts toward storage?
+ Your encrypted objects — generated audio, the original audio kept with each capture, and profile data. Plans differ mainly on storage, device count, and version-history length.
+ Can I cancel anytime?
+ Yes. Cloud is a subscription you can cancel whenever you like; your local library always stays on your machine and keeps working.
+ Cloud pricing and limits are not final — they&#x27;ll be confirmed at launch.
+ Voicebox
+ Open source voice cloning studio. Local-first, free forever.
+ Donate
+ Product
+ Clone
+ Capture
+ MCP
+ Models
+ API
+ Cloud
+ Pricing
+ Download
+ Resources
+ Blog
+ Documentation
+ Source Code
+ @VoiceboxAI on X
+ Releases
+ Issues
+ How Voicebox is built
+ Also By
+ Spacebot
+ Spacedrive
+ © 2026 Spacedrive Technology Inc. Voicebox is open source under the MIT license.
+ Built with
+ Terms
+ Privacy

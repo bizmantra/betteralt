@@ -1,0 +1,309 @@
+#SNAPSHOT {"url":"https://dovetail.com/pricing/","finalUrl":"https://dovetail.com/pricing/","fetchedAt":"2026-10-26T03:42:15.582Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"29509077329c3fc6425b18f28e1a57d59f98161a1679417eb56559e0fbe6a4cb"}
+Pricing | Dovetail 
+ Ask. Never guess.
+ Introducing Digital Twins →
+ Product
+ Platform
+Digital Twins New
+ Talk with a replica of your customer segments, built from real data
+Agents
+ Transform customer signals into intelligent, automated action
+Channels 2.0 Beta
+ Classify raw data into ideas and identify emerging issues
+Docs
+ Create shareable AI outputs to drive decisions and action
+Chat
+ Get instant answers and discover anything across customer data
+Projects
+ Automatic analysis to turn feedback into structured intelligence
+Dashboards Beta
+ Visualize customer trends alongside key business metrics
+ Introducing: Digital Twins
+ Ask.
+Never guess.
+ API and Integrations
+ Connect your stack end-to-end: data in, intelligence out
+ Solutions
+ Roles
+ Design
+ Surface real user signals to back every design decision
+ Product Management
+ Prioritize with confidence using quantified customer evidence
+ Research
+ Scale research impact and share insights across your org
+ Customer Experience
+ Act on support tickets, NPS, and renewals before they escalate
+ Sales & Customer Success
+ Win more deals and reduce churn with revenue intelligence
+ Marketing
+ Build campaigns on real customer language, not assumptions
+ Use cases
+ Voice of Customer
+ Connect every feedback channel into one intelligence layer
+ Product Research
+ Ground prioritization and tradeoffs in customer evidence
+ Research Repository
+ Turn studies and transcripts into shared customer intelligence
+ Resources
+ Resources
+ Blog
+ Breaking news, opinions, and product thinking from Dovetail
+ Live demos
+ Learn the workflows and features that help teams move faster
+ Help
+ Help center
+ Find answers to common product and workflow issues
+ Academy
+ Learn best practices and sharpen your skills with guided training
+ Changelog
+ See the latest releases, improvements, and updates
+ Company
+ Events
+ Live and virtual events that connect the global Dovetail community
+ Careers
+ Join a fast-growing team shaping the future of customer intelligence
+ Enterprise
+ Customers
+ Pricing
+ Go to app
+ Log in
+ Book a demo
+ Menu
+ Pricing
+ Start free
+ Upgrade to scale
+ Free
+ $0, no card required
+ For individuals to make sense of calls, documents, and surveys
+ Try Dovetail free
+ What&#x27;s included
+ One channel A single channel to track and analyze feedback for getting started.
+ to automatically classify your voice of customer data
+ One project Create and manage a single research project to organize, analyze, and share insights.
+ to analyze customer calls, recordings, docs, and surveys
+ Chat Ask questions about your data and get instant AI-powered summaries from a single project.
+ with and summarize AI automatically generates quick summaries within a single project to speed up analysis.
+ your data to uncover trends and run analysis
+ Enterprise
+ Custom pricing available
+ For organizations scaling and standardizing across teams
+ Contact sales
+ Everything in Free, plus
+ Unlimited Agents Track every customer signal and automate closing the loop
+ track every customer signal and automate closing the loop
+ Unlimited channels Organize continuous feedback by team, product, or data source with dedicated channels at scale.
+ to automatically classify your voice of customer data
+ Dashboards Visualize key metrics and track how feedback is trending
+ that visualize customer signals 24 / 7
+ Unlimited projects Create as many projects as your team needs—perfect for ongoing or cross-functional research.
+ to analyze customer calls, recordings, docs, and surveys
+ Unlimited Docs Generate shareable insights with customer clips and reels
+to generate shareable insights with customer clips and reels
+ Unlimited free chat queries Anyone in your organization can query directly with Dovetail data from Slack or Teams.
+ in Slack and Teams
+ Organization features like folders, global tags, fields, templates Standardize projects with global tags, fields, and templates for consistent and streamlined analysis.
+ Advanced AI features like specific summaries Structure summaries using frameworks that match your team’s workflow
+ and semantic search Surface relevant insights based on meaning, not keywords
+ Secure by design with redaction Keep your data safe and remove sensitive information by redacting any text, audio, and video.
+, compliance Meet enterprise-grade requirements for security, safety, and privacy standards.
+, and access control Control who can manage, view, and edit projects with granular permissions.
+ Priority support, dedicated customer success, onboarding assistance
+ Connecting the world&#x27;s greatest companies to their customers
+ Free
+ $0
+ user/month
+ Try Dovetail free
+ Enterprise
+ Custom pricing
+ Contact sales
+ Free
+ Enterprise
+ Custom pricing available
+ Centralize your user feedback
+ Create a single, searchable source of truth that brings every customer interaction into one organized repository.
+ Integrations
+ Connect essential tools to automate workflows, import data, and share actionable intelligence.
+ Calendar sync
+ Configure all of your customer calls to be automatically uploaded into Dovetail for instant analysis.
+ Search
+ Quickly surface the right content with keyword and semantic search.
+ Contacts
+ Store, track, and link enriched contacts and participants to insights
+ Folders
+ Use folders to group projects based on the team, product, active projects or department.
+ Templates
+ Turn best practices into reusable workflows so teams get to insights faster
+ Global tags
+ Standardize tags across projects, making insights easier to compare, share, and scale across the company
+ Meta data fields
+ Add structure to your data, making it faster to filter, quantify, and share insights.
+ Bulk import
+ Bulk import research data—videos, transcripts, and documents—into Dovetail with ease.
+ API access
+ Connect Dovetail data to your internal tools and systems with flexible API access.
+ Salesforce CRM
+ Sync contacts with Salesforce to enrich contact profiles with job titles, company info, and fields.
+ HubSpot CRM
+ Sync contacts with HubSpot to enrich contact profiles with job titles, company info, and fields.
+ Analyze your customer data
+ Let AI turn high-volume feedback into always-on customer intelligence, so you can identify what to work on next.
+ AI opportunity tracking
+ Continuously track themes in support tickets, app reviews, feedback, and more
+ 1 channel
+ Unlimited channels
+ AI chat
+ Guide and control chat behaviours with custom workspace-level instructions.
+ Basic
+ Advanced
+ AI summaries
+ Visualize key metrics and track how feedback is trending
+ Basic
+ Advanced
+ AI Dashboards
+ Visualize key metrics and track how feedback is trending
+ 1 dashboard
+ Unlimited
+ Project customization
+ Tailor projects with custom fields, templates, and tags to match your team’s workflow.
+ Queries in Slack and Teams
+ Anyone in your organization can query directly with Dovetail data from Slack or Teams.
+ AI clustering
+ Cluster themes in data instantly and spot patterns without manual sorting
+ Act on your intelligence
+ Bridge the gap between discovery and delivery. Share AI generated insights and suggestions or fully automate your process with agents.
+ AI Agents
+ Autonomous AI assistants that track signals, analyze feedback, and share insights proactively.
+ AI Docs
+ Docs bring everything together and capture what you’re learning in Dovetail
+ AI translation
+ Translate seamlessly into 75 languages to speed up synthesis and help teams understand the voice of the customer.
+ AI suggested actions
+ See opportunities with suggested fixes and actions, fast.
+ Workspace customization
+ Let your team configure layouts and feeds that meet your stakeholders’ unique needs.
+ Comments and mentions
+ Stitch together important moments surfaced in your customer interviews, usability tests, and sales calls. 
+ Highlight reels
+ Stitch together important moments surfaced in your customer interviews, usability tests, and sales calls. 
+ Platform
+ Built-in operational features for enterprise-grade efficiency and control
+ Security
+ Single sign-on
+ Single sign-on for Google and Microsoft accounts, or to configure your own managed identity provider.
+ Access control
+ Control who can manage, view, and edit projects with granular permissions.
+ Security reviews
+ Robust data backup, test recovery, penetration tests, data encryption, and best cloud security practices.
+ Data redaction
+ Keep your data safe and remove sensitive information by redacting any text, audio, and video.
+ Custom data retention
+ Set up auto-deletion of original videos without losing the highlights to comply with your policies.
+ Custom session age
+ Customize session period for your workspace and require frequent user re-authentication.
+ Audit log
+ Provide an audit log for visibility into user activity, access, and changes for compliance and security.
+ Paid HIPAA add-on
+ Optional HIPAA add-on to help manage PHI, including restrictions on sharing, access, and exporting.
+ Support
+ Onboarding services
+ Our team supports you from setup to best practices, ensuring a smooth onboarding experience.
+ Customer success management
+ A dedicated customer success manager to help you adapt, build and scale with confidence.
+ Support services
+ Access responsive support from our global team to help solve problems and keep your work moving.
+ Contact sales
+ FAQs
+ Can’t find the answer here? Contact support
+ How many users do I need?
+ Users contribute data to—and do analysis within—your customer intelligence platform. Most customers buy enough users for their product management, design, customer experience, strategy, and innovation teams. Some also buy users for their sales, customer success, support, and marketing teams who also contribute data to and leverage on customer feedback.
+ How do we control who sees what in Dovetail?
+ Access is controlled by changing a user’s role—Manager, Contributor, or Viewer—or by restricting a project or a folder to a specific user. Admins can set up user groups to make this easier on our Enterprise plans.
+ Can we pause our subscription?
+ There’s no way to pause a subscription today, but you’re not locked into paying if your team needs a break—downgrading to the Free plan is available any time, and you can move back to a paid plan whenever you’re ready.
+ What happens if we cancel our subscription?
+ You’ll keep full access through the end of the billing period you’ve already paid for, so there’s no refund for that remaining time since you’re still using the product during it. Once the period ends, your workspace moves into a 30-day read-only window so you can export your data—reach out to support if you need a hand—and after that, it’s deleted in line with your data retention policy.
+ Can you send me an invoice?
+ Yes—Enterprise plans are invoiced with standard net-30 terms, so your finance team can process it as a normal vendor invoice rather than needing a credit card on file.
+ Can we pay in other currencies?
+ Dovetail bills in USD across every plan, which keeps pricing consistent no matter where your team is based. If a USD-denominated card is the obstacle rather than the currency itself, Enterprise plans can be invoiced instead of charged to a card, with payment still processed in USD.
+ How is tax calculated?
+ All prices are tax exclusive, and additional taxes (GST, VAT, US Sales Tax, etc.) may be applied to your invoice.
+ The 
+ best
+ never
+ guess
+ Book a demo
+ Start free trial
+ Platform
+ Digital Twins
+ new
+ Channels 2.0
+ beta
+ Agents
+ Dashboards
+ beta
+ Projects
+ Chat
+ Docs
+ Deploy
+ Enterprise
+ Customers
+ Pricing
+ Roles
+ Designer
+ Researcher
+ Product Manager
+ Customer Experience
+ Sales & CS
+ Marketing
+ Use Cases
+ Voice of Customer
+ Product Research
+ Research Repository
+ Resources
+ Blog
+ Changelog
+ Community
+ Events
+ Help centre
+ Academy
+ Live Demos
+ Comparisons
+ Marvin
+ Condens
+ Maze
+ UserTesting
+ Lookback
+ Great Question
+ Enterpret
+ Qualtrics
+ Medallia
+ Pendo
+ Chattermill
+ Thematic
+ Aurelius
+ Customers
+ Breville
+ Okta
+ Atlassian
+ Canva
+ Itaú Unibanco
+ Zapier
+ AWS
+ CNH
+ Contact
+ Request a demo
+ Contact sales
+ Company
+ Careers
+ Trust center
+ Log in
+ Book a demo
+ © 2026 Dovetail Research Pty. Ltd.
+ COOKIE PREFERENCES
+ Legal & Privacy
+ FOLLOW US
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Organization","@id":"https://dovetail.com/#organization","legalName":"Dovetail Research Pty Ltd","location":{"@type":"PostalAddress","streetAddress":"Level 1, 276 Devonshire St","addressLocality":"Surry Hills","addressRegion":"NSW","postalCode":"2010","addressCountry":"AU"},"logo":{"@type":"ImageObject","url":"https://dovetail.com/logo.png"},"name":"Dovetail","sameAs":["https://www.crunchbase.com/organization/dovetail-app","https://twitter.com/hidovetail","https://www.linkedin.com/company/heydovetail/","https://www.youtube.com/channel/UCzST15vRd4wZ3wuR6PDutMA","https://www.facebook.com/hidovetail","https://instagram.com/hidovetail"],"url":"https://dovetail.com","contactPoint":[{"@type":"ContactPoint","contactType":"customer service","url":"https://dovetail.com/help/contact/"}]}
+{"@context":"https://schema.org","@type":"WebSite","@id":"https://dovetail.com/#website","name":"Dovetail","url":"https://dovetail.com","publisher":{"@id":"https://dovetail.com/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://dovetail.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}}

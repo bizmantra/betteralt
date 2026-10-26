@@ -1,0 +1,179 @@
+#SNAPSHOT {"url":"https://bfl.ai/pricing","finalUrl":"https://bfl.ai/pricing","fetchedAt":"2026-10-26T03:40:03.818Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"5d609495becb662a3c37e886f1fd0fd96c3e2c60ba1ff76e547144d1594815a5"}
+Models
+Research
+API
+Open Weights
+Pricing
+Resources
+Contact Sales
+Get started
+Pay as you go
+No subscriptions, no seat fees. Only pay for what you generate.
+Get started
+Chat with us
+Trusted by the world's leading enterprises.
+FLUX 3 Image
+FLUX 3 Video
+FLUX Video Tools
+FLUX.2
+FLUX.1
+FLUX Image Tools
+FLUX 3 Image
+Price per
+IMAGE
+Model
+768 × 768
+1K
+1.5K
+2K
+4K
+Description
+FLUX 3 Image
+$0.041/img
+$0.048/img
+$0.07/img
+$0.10/img
+$0.607/img
+Text to image and image to image
+FLUX 3 Image Klein
+$0.008/img
+$0.009/img
+$0.011/img
+$0.014/img
+$0.036/img
+Frontier model quality with the customization and speed of open weights
+5.6B parameters, runs on a single consumer GPU
+Try now
+ENTERPRISE
+Building at scale?
+Custom pricing, volume discounts, SLA guarantees, and dedicated support for high-throughput workloads.
+Contact Sales
+View Enterprise
+Open Weights Licensing
+Deploy and run FLUX models on your own infrastructure.
+Full details
+Builder
+For developers and early-stage teams.
+FLUX 3 Image Klein + FLUX.2 [klein]
+10K images / month
+1 domain
+10 licensed users
+Fine-tuning & LoRA rights
+Purchase
+Platform
+For product teams shipping at volume.
+FLUX 3 Image Klein + FLUX.2 [klein] 9B + FLUX.2 [dev]
+100K images / month
+1 domain
+10 licensed users
+Fine-tuning & LoRA rights
+Purchase
+Professional
+For agencies and service providers.
+FLUX 3 Image Klein + FLUX.2 [dev]
+100K images / month
+Up to 3 domains
+10 licensed users
+Fine-tuning & LoRA rights
+Contact Sales
+Enterprise
+The full picture.
+All models + new releases
+Custom volume
+Custom domains & users
+Permissive commercial use
+API + Weights combo pricing
+Contact Sales
+Synthetic Data
+For AI training datasets.
+FLUX 3 Image Klein or commercial models
+Rights to use outputs as training data
+No domain restrictions
+Custom volume
+Fine-tuning & LoRA rights
+Contact Sales
+FAQs
+FLUX 3 IMAGE
+How is pricing calculated?
+Pricing Calculator
+Image
+Video
+Model
+SELECT AN OPTION
+FLUX 3 Image
+FLUX 3 Image Klein
+FLUX.2 [flex]
+FLUX.2 [pro]
+FLUX.2 [max]
+FLUX.2 [klein] 4B
+FLUX.2 [klein] 9B
+FLUX Outpainting
+FLUX Eraser
+FLUX VTO
+Resolution
+768 × 768
+1K
+1.5K
+2K
+4K
+Number of Images*
+Price Calculation
+Rate:
+$0.048 / image
+Images:
+1
+Total Price:
+$0.048
+What hasn’t been can now be.
+Try Flux
+Talk to Sales
+Models
+FLUX 3 MAX
+FLUX 3 VIDEO
+FLUX 3 IMAGE
+FLUX 3 IMAGE KLEIN
+FLUX 3 ACTION
+FLUX TOOLS
+API
+DOCUMENTATION
+DASHBOARD
+STATUS
+Open Weights
+LICENSING
+HUGGING FACE
+GITHUB
+Resources
+DOCUMENTATION
+HELP DESK
+BLOG
+CREATOR PROGRAM
+BRAND
+GITHUB
+Company
+ABOUT US
+CAREERS
+TRUST AND SECURITY
+CONTACT US
+ ISO 27001:2022
+ SOC 2 TYPE II
+Enterprise
+LEARN MORE
+CONTACT SALES
+Legal
+IMPRINT
+TERMS OF SERVICE
+USAGE POLICY
+PRIVACY POLICY
+INTELLECTUAL PROPERTY POLICY
+DEVELOPER TERMS OF SERVICE
+FLUX API SERVICE TERMS
+SELF-HOSTED TERMS OF SERVICE
+NON-COMMERCIAL LICENSE TERMS
+RESPONSIBLE AI DEVELOPMENT POLICY
+ALL RIGHTS RESERVED.
+©2026 BLACK FOREST LABS.
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai","logo":"https://bfl.ai/brand/logotype-black.png","description":"Black Forest Labs is a frontier AI lab building state-of-the-art generative AI models. Creators of FLUX, the leading image generation model.","sameAs":["https://x.com/bfl_ai","https://github.com/black-forest-labs","https://www.linkedin.com/company/bflai"],"foundingDate":"2024","founders":[{"@type":"Person","name":"Robin Rombach"},{"@type":"Person","name":"Andreas Blattmann"},{"@type":"Person","name":"Patrick Esser"}],"knowsAbout":["Artificial Intelligence","Machine Learning","Generative AI","Image Generation","Diffusion Models","FLUX"]}
+{"@context":"https://schema.org","@type":"WebSite","name":"Black Forest Labs","url":"https://bfl.ai","description":"Black Forest Labs is building visual intelligence: models that understand, reason, and act in the world. Use FLUX models via our API."}
+{"@context":"https://schema.org","@graph":[{"@type":"Product","name":"FLUX 3 Image","description":"FLUX 3 Image — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.041,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"768 × 768 image","priceCurrency":"USD","price":0.041,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},{"@type":"UnitPriceSpecification","name":"1K image","priceCurrency":"USD","price":0.048,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},{"@type":"UnitPriceSpecification","name":"1.5K image","priceCurrency":"USD","price":0.07,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},{"@type":"UnitPriceSpecification","name":"2K image","priceCurrency":"USD","price":0.1,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},{"@type":"UnitPriceSpecification","name":"4K image","priceCurrency":"USD","price":0.607,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX 3 Image Klein","description":"FLUX 3 Image Klein — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.008,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"768 × 768 image","priceCurrency":"USD","price":0.008,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},{"@type":"UnitPriceSpecification","name":"1K image","priceCurrency":"USD","price":0.009,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},{"@type":"UnitPriceSpecification","name":"1.5K image","priceCurrency":"USD","price":0.011,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},{"@type":"UnitPriceSpecification","name":"2K image","priceCurrency":"USD","price":0.014,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},{"@type":"UnitPriceSpecification","name":"4K image","priceCurrency":"USD","price":0.036,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX Video Edit [fast]","description":"FLUX Video Edit [fast] — pay-as-you-go FLUX video generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Video Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.03,"priceSpecification":{"@type":"UnitPriceSpecification","name":"Per second of output","priceCurrency":"USD","price":0.03,"unitText":"second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"second"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX 3 Video","description":"FLUX 3 Video — pay-as-you-go FLUX video generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Video Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.15,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"Text / Image → Video, HD, Standard effort","priceCurrency":"USD","price":0.15,"unitText":"second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"second"}},{"@type":"UnitPriceSpecification","name":"Text / Image → Video, FHD, Standard effort","priceCurrency":"USD","price":0.24,"unitText":"second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"second"}},{"@type":"UnitPriceSpecification","name":"Text / Image → Video, QHD (2K), Standard effort","priceCurrency":"USD","price":0.28,"unitText":"second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"second"}},{"@type":"UnitPriceSpecification","name":"Text / Image → Video, UHD (4K), Standard effort","priceCurrency":"USD","price":0.41,"unitText":"second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"second"}},{"@type":"UnitPriceSpecification","name":"Video → Video, HD, Standard effort","priceCurrency":"USD","price":0.21,"unitText":"second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"second"}},{"@type":"UnitPriceSpecification","name":"Video → Video, FHD, Standard effort","priceCurrency":"USD","price":0.27,"unitText":"second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"second"}},{"@type":"UnitPriceSpecification","name":"Video → Video, QHD (2K), Standard effort","priceCurrency":"USD","price":0.31,"unitText":"second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"second"}},{"@type":"UnitPriceSpecification","name":"Video → Video, UHD (4K), Standard effort","priceCurrency":"USD","price":0.45,"unitText":"second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"second"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX 3 Video Draft","description":"FLUX 3 Video Draft — pay-as-you-go FLUX video generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Video Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.06,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"Text / Image → Video, HD, Draft effort","priceCurrency":"USD","price":0.06,"unitText":"second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"second"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX 3 Upscale [precise]","description":"FLUX 3 Upscale [precise] — pay-as-you-go FLUX video generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Video Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.035,"priceSpecification":{"@type":"UnitPriceSpecification","name":"Per megapixel-second","priceCurrency":"USD","price":0.035,"unitText":"megapixel-second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel-second"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX 3 Upscale [creative]","description":"FLUX 3 Upscale [creative] — pay-as-you-go FLUX video generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Video Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.05,"priceSpecification":{"@type":"UnitPriceSpecification","name":"Per megapixel-second","priceCurrency":"USD","price":0.05,"unitText":"megapixel-second","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel-second"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX.2 [max]","description":"FLUX.2 [max] — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.03,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"First megapixel","priceCurrency":"USD","price":0.07,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":0,"maxValue":1,"unitText":"megapixel"}},{"@type":"UnitPriceSpecification","name":"Additional megapixels","priceCurrency":"USD","price":0.03,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":1,"unitText":"megapixel"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX.2 [klein] 9B","description":"FLUX.2 [klein] 9B — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.002,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"First megapixel","priceCurrency":"USD","price":0.015,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":0,"maxValue":1,"unitText":"megapixel"}},{"@type":"UnitPriceSpecification","name":"Additional megapixels","priceCurrency":"USD","price":0.002,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":1,"unitText":"megapixel"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX.2 [klein] 4B","description":"FLUX.2 [klein] 4B — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.001,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"First megapixel","priceCurrency":"USD","price":0.014,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":0,"maxValue":1,"unitText":"megapixel"}},{"@type":"UnitPriceSpecification","name":"Additional megapixels","priceCurrency":"USD","price":0.001,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":1,"unitText":"megapixel"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX.2 [pro]","description":"FLUX.2 [pro] — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.015,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"First megapixel","priceCurrency":"USD","price":0.03,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":0,"maxValue":1,"unitText":"megapixel"}},{"@type":"UnitPriceSpecification","name":"Additional megapixels","priceCurrency":"USD","price":0.015,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":1,"unitText":"megapixel"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX.2 [flex]","description":"FLUX.2 [flex] — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.05,"priceSpecification":{"@type":"UnitPriceSpecification","name":"Per megapixel","priceCurrency":"USD","price":0.05,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX Outpainting [high]","description":"FLUX Outpainting [high] — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.1,"priceSpecification":{"@type":"UnitPriceSpecification","name":"Per megapixel","priceCurrency":"USD","price":0.1,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX Outpainting [fast]","description":"FLUX Outpainting [fast] — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.006,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"First megapixel","priceCurrency":"USD","price":0.045,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":0,"maxValue":1,"unitText":"megapixel"}},{"@type":"UnitPriceSpecification","name":"Additional megapixels","priceCurrency":"USD","price":0.006,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":1,"unitText":"megapixel"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX Erase","description":"FLUX Erase — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.004,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"First megapixel","priceCurrency":"USD","price":0.03,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":0,"maxValue":1,"unitText":"megapixel"}},{"@type":"UnitPriceSpecification","name":"Additional megapixels","priceCurrency":"USD","price":0.004,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":1,"unitText":"megapixel"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX VTO","description":"FLUX VTO — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.005,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"First megapixel","priceCurrency":"USD","price":0.0375,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":0,"maxValue":1,"unitText":"megapixel"}},{"@type":"UnitPriceSpecification","name":"Additional megapixels","priceCurrency":"USD","price":0.005,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":1,"unitText":"megapixel"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX.1 Kontext [max]","description":"FLUX.1 Kontext [max] — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.08,"priceSpecification":{"@type":"UnitPriceSpecification","priceCurrency":"USD","price":0.08,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX.1 Kontext [pro]","description":"FLUX.1 Kontext [pro] — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.04,"priceSpecification":{"@type":"UnitPriceSpecification","priceCurrency":"USD","price":0.04,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX 1.1 [pro] Ultra","description":"FLUX 1.1 [pro] Ultra — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.06,"priceSpecification":{"@type":"UnitPriceSpecification","priceCurrency":"USD","price":0.06,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX 1.1 [pro]","description":"FLUX 1.1 [pro] — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.04,"priceSpecification":{"@type":"UnitPriceSpecification","priceCurrency":"USD","price":0.04,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX.1 [pro]","description":"FLUX.1 [pro] — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.05,"priceSpecification":{"@type":"UnitPriceSpecification","priceCurrency":"USD","price":0.05,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX.1 [dev]","description":"FLUX.1 [dev] — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.025,"priceSpecification":{"@type":"UnitPriceSpecification","priceCurrency":"USD","price":0.025,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX.1 Fill [pro]","description":"FLUX.1 Fill [pro] — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.05,"priceSpecification":{"@type":"UnitPriceSpecification","priceCurrency":"USD","price":0.05,"unitText":"image","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"image"}},"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}},{"@type":"Product","name":"FLUX Deblur","description":"FLUX Deblur — pay-as-you-go FLUX image generation via the Black Forest Labs API.","brand":{"@type":"Brand","name":"Black Forest Labs"},"category":"AI Image Generation Model","offers":{"@type":"Offer","priceCurrency":"USD","price":0.004,"priceSpecification":[{"@type":"UnitPriceSpecification","name":"First megapixel","priceCurrency":"USD","price":0.03,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":0,"maxValue":1,"unitText":"megapixel"}},{"@type":"UnitPriceSpecification","name":"Additional megapixels","priceCurrency":"USD","price":0.004,"unitText":"megapixel","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"megapixel"},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":1,"unitText":"megapixel"}}],"availability":"https://schema.org/InStock","url":"https://bfl.ai/pricing","seller":{"@type":"Organization","name":"Black Forest Labs","url":"https://bfl.ai"}}}]}

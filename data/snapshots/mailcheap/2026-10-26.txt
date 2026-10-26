@@ -1,0 +1,159 @@
+#SNAPSHOT {"url":"https://mailcheap.ai/pricing","finalUrl":"https://mailcheap.ai/pricing","fetchedAt":"2026-10-26T03:42:58.049Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"b26931cd75d2f544a13a929f834909dd9669df74ecb904a32e763d6fcf9de578"}
+Pricing: pay per email, not per subscriber · MailCheap 
+ MailCheap
+ Pricing
+ Compare
+ Help
+ API
+ Sign in
+ Get started
+ Pricing
+ Compare
+ Help
+ API
+ Sign in
+ Pick how many emails you send
+ Every plan has every feature. Pay yearly and get 2 months free.
+ Emails a month Billing Monthly Yearly 2 months free
+ 20,000
+ For up to 10,000
+ subscribers
+ $19
+ $39
+ $79
+ $149
+ $349
+ $799
+ 20K
+ 75K
+ 200K
+ 500K
+ 2M
+ 5M
+ Starter
+ $0.95 per 1,000 emails
+ $19
+ / month
+ Billed monthly
+ Every plan includes
+ Campaigns
+ Scheduling
+ Website
+ Your own domain
+ Signup forms
+ Welcome emails
+ Imports
+ Stats
+ AI agents and API
+ Chat support
+ Subscribe 
+ 83 % cheaper than *
+ * 4,000 subscribers, one email a week:
+ $19 on MailCheap Starter
+, $109 on beehiiv Lite
+. Prices checked October 2026
+.
+ More than 5,000,000 emails? Chat with us
+ “ Moved to MailCheap. Cancelled beehiiv / ActiveCampaign same weekend. $380/mo now $19
+. ” Bruce van Zyl
+ @ brucevanzyl
+ Bruce van Zyl&#x27;s post on X
+ Questions about billing
+ What counts as an email? Every email MailCheap sends for you: issues, tests, and welcome and confirmation emails. An issue sent to 1,000 subscribers is 1,000 emails. The count starts over every month, on the day your plan started, and yearly plans get the same emails every month.
+ What counts as a subscriber? A contact who gets your issues. People who haven&#x27;t confirmed yet, unsubscribed or bounced stay in your list and don&#x27;t count.
+ Why do you charge per email and not per subscriber? Because sending emails is what costs money. Storing a subscriber costs almost nothing.
+ Most newsletter tools still charge per subscriber. So you pay for people who stopped reading. To protect your deliverability, you&#x27;d have to delete them by hand. Otherwise you keep emailing people who are asleep, and your deliverability drops.
+ Those tools earn more from the thing that hurts you. I don&#x27;t want MailCheap to profit from that.
+ MailCheap&#x27;s list cleanup is on by default. Readers who ignore your issues for months get one last email. No answer, and MailCheap stops sending them issues. They&#x27;re never deleted or unsubscribed.
+ You pay for the emails you send. 
+ What happens if I go over my plan? Signups keep working, and confirmation emails still go out. New sends wait until you upgrade, or until your next month starts. Once the month&#x27;s emails are used up, welcome emails pause too, and subscribers who join in the meantime don&#x27;t get one later.
+ Can I change plans? Yes, from the billing page, anytime. Stripe shows you what you&#x27;ll pay before you confirm. You pay in US dollars.
+ Can I cancel anytime? Yes. Your plan runs until the end of the month or year you paid for. Then sending stops, and your newsletter, subscribers and issues are kept for when you come back.
+ Is there a free trial? No. Plans start at $19 a month, and you can cancel anytime.
+ Leaving beehiiv feels like this. MailCheap is 83 % cheaper.
+ beehiiv
+ Invoice
+ January
+ Total
+ $109.00
+ beehiiv
+ Invoice
+ February
+ Total
+ $109.00
+ beehiiv
+ Invoice
+ March
+ Total
+ $109.00
+ beehiiv
+ Invoice
+ April
+ Total
+ $109.00
+ beehiiv
+ Invoice
+ May
+ Total
+ $109.00
+ beehiiv
+ Invoice
+ June
+ Total
+ $109.00
+ beehiiv
+ Invoice
+ July
+ Total
+ $109.00
+ beehiiv
+ Invoice
+ August
+ Total
+ $109.00
+ beehiiv
+ Invoice
+ September
+ Total
+ $109.00
+ beehiiv
+ Invoice
+ October
+ Total
+ $109.00
+ beehiiv
+ Invoice
+ November
+ Total
+ $109.00
+ beehiiv
+ Invoice
+ December
+ Total
+ $109.00
+ Get started 
+ See pricing
+ MailCheap
+ The affordable newsletter for the agentic era.
+ Comparisons use 4,000 subscribers and one email a week. See the comparisons
+ By Marc Lou
+ Product
+ Pricing
+ Compare
+ Deliverability
+ Changelog
+ Affiliates
+ Help
+ API and MCP
+ Open source
+ Legal
+ Terms
+ Privacy
+ Acceptable use
+ Contact
+ hello@mailcheap.ai
+ © 2026 JustShipIt Pte. Ltd. , 10 Petain Road, #04-01 International Plaza, Singapore 068914
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://mailcheap.ai/#app","name":"MailCheap","url":"https://mailcheap.ai","description":"A newsletter app where you pay for the emails you send, not for your subscribers. Write, send and publish your newsletter.","applicationCategory":"BusinessApplication","operatingSystem":"Web","publisher":{"@id":"https://mailcheap.ai/#organization"},"offers":[{"@type":"Offer","name":"Starter","description":"20,000 emails a month, for up to 10,000 subscribers","url":"https://mailcheap.ai/pricing","price":19,"priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":19,"priceCurrency":"USD","unitCode":"MON","billingDuration":"P1M"}},{"@type":"Offer","name":"Growth","description":"75,000 emails a month, for up to 40,000 subscribers","url":"https://mailcheap.ai/pricing","price":39,"priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":39,"priceCurrency":"USD","unitCode":"MON","billingDuration":"P1M"}},{"@type":"Offer","name":"Pro","description":"200,000 emails a month, for up to 100,000 subscribers","url":"https://mailcheap.ai/pricing","price":79,"priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":79,"priceCurrency":"USD","unitCode":"MON","billingDuration":"P1M"}},{"@type":"Offer","name":"Scale","description":"500,000 emails a month, for up to 250,000 subscribers","url":"https://mailcheap.ai/pricing","price":149,"priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":149,"priceCurrency":"USD","unitCode":"MON","billingDuration":"P1M"}},{"@type":"Offer","name":"Max","description":"2,000,000 emails a month, for up to 1,000,000 subscribers","url":"https://mailcheap.ai/pricing","price":349,"priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":349,"priceCurrency":"USD","unitCode":"MON","billingDuration":"P1M"}},{"@type":"Offer","name":"Ultra","description":"5,000,000 emails a month, for up to 2,500,000 subscribers","url":"https://mailcheap.ai/pricing","price":799,"priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":799,"priceCurrency":"USD","unitCode":"MON","billingDuration":"P1M"}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What counts as an email?","acceptedAnswer":{"@type":"Answer","text":"Every email MailCheap sends for you: issues, tests, and welcome and confirmation emails. An issue sent to 1,000 subscribers is 1,000 emails. The count starts over every month, on the day your plan started, and yearly plans get the same emails every month."}},{"@type":"Question","name":"What counts as a subscriber?","acceptedAnswer":{"@type":"Answer","text":"A contact who gets your issues. People who haven't confirmed yet, unsubscribed or bounced stay in your list and don't count."}},{"@type":"Question","name":"Why do you charge per email and not per subscriber?","acceptedAnswer":{"@type":"Answer","text":"Because sending emails is what costs money. Storing a subscriber costs almost nothing.\n\nMost newsletter tools still charge per subscriber. So you pay for people who stopped reading. To protect your deliverability, you'd have to delete them by hand. Otherwise you keep emailing people who are asleep, and your deliverability drops.\n\nThose tools earn more from the thing that hurts you. I don't want MailCheap to profit from that.\n\nMailCheap's list cleanup is on by default. Readers who ignore your issues for months get one last email. No answer, and MailCheap stops sending them issues. They're never deleted or unsubscribed.\n\nYou pay for the emails you send."}},{"@type":"Question","name":"What happens if I go over my plan?","acceptedAnswer":{"@type":"Answer","text":"Signups keep working, and confirmation emails still go out. New sends wait until you upgrade, or until your next month starts. Once the month's emails are used up, welcome emails pause too, and subscribers who join in the meantime don't get one later."}},{"@type":"Question","name":"Can I change plans?","acceptedAnswer":{"@type":"Answer","text":"Yes, from the billing page, anytime. Stripe shows you what you'll pay before you confirm. You pay in US dollars."}},{"@type":"Question","name":"Can I cancel anytime?","acceptedAnswer":{"@type":"Answer","text":"Yes. Your plan runs until the end of the month or year you paid for. Then sending stops, and your newsletter, subscribers and issues are kept for when you come back."}},{"@type":"Question","name":"Is there a free trial?","acceptedAnswer":{"@type":"Answer","text":"No. Plans start at $19 a month, and you can cancel anytime."}}]}

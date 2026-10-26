@@ -1,0 +1,947 @@
+#SNAPSHOT {"url":"https://www.windmill.dev/pricing","finalUrl":"https://www.windmill.dev/pricing","fetchedAt":"2026-10-26T03:40:34.120Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"b948a2c47513c959b287febcc31fa72dbbed6e330aa4753013cc03acf8d31447"}
+Pricing | Windmill 
+ Windmill
+ Platform
+ Solutions
+ Docs
+ Pricing
+ Case studies
+ More
+ Contact us
+ Windmill cloud
+ Open menu
+ Pricing Open source. Open pricing. No lock-in.
+ Payment frequency
+ Cloud
+ Self-hosted
+ White Label
+ Payment period
+ Monthly
+ Annually
+ Free and Open-source
+ from
+ $ 0
+ /mo
+ Unlimited executions.
+ Self-host in minutes
+ Easy deployment on Fargate / Docker / Kubernetes
+ Community support on Discord
+ Max 10 users with SSO
+ 100 free app guests
+ per 30 days: they sign in through your identity provider, hold no account and take no seat
+ Enterprise
+ from
+ $ 120
+ /mo
+ Pro
+ Nonprofit
+ Enterprise
+ For advanced needs in observability, security and performance.
+ Try it for a month
+ Windmill Enterprise Edition features (see table below), including:
+ Audit logs
+ Distributed dependency cache backed by S3
+ SAML support including groups synchronization
+ Uncapped SSO (requires seats)
+ Commercial licence
+ SLA & Priority Support 24/7 with 3h response time and engineer assistance
+ Dedicated Slack or Discord channel
+ Design partners for roadmap
+ Price
+ $170
+ /mo
+ 1
+ builder A builder is a workspace admin, or a user whose role
+ can write code or build flows or apps, in at least one workspace.
+ $ 20
+ /mo/builder
+ 0
+ non-builder or ext JWT user A non-builder
+ is a user whose role
+ cannot write code or build flows or apps in any workspace: they run, view and manage what others built. Each unique external JWT
+ user (counted per username/email + scope + instance, active in the last 30 days) also counts here. Non-builders and ext JWT users are 1/2 price of builders (or 1/2 seats).
+ $ 10
+ /mo/non-builder
+ 100
+ app guests A guest
+ signs in through one of the instance's identity providers (SSO, or SAML on Enterprise), or carries a JWT your own backend signs, and can then open one app and nothing else, without holding a Windmill account. This is not the same as a public app
+, which anyone with the URL opens anonymously with no login and no limit. Guests take no seat: the first 100 distinct guest emails over the last 30 days are free, including on the free Community Edition. Past 100 , 4 guests count as 1 seat, rounded up.
+ Free
+ First 100 guests per 30 days are free and take no seat
+ Get a simulation of the number of Units needed by reproducing your workers config below. More details
+. Worker group 1
+ 2
+ standard
+ workers
+ 2 CU
+ · $ 100 / mo
+ 2
+GB memory limit per worker
+ $ 50 /worker/ mo
+ + Add worker group
+ Native subworkers Native subworkers
+ run within a native worker, in the native worker group
+. This group is pre-configured to listen to native jobs tags (query languages). Those jobs are executed under a special mode with native subworkers, which go 8 by 8, for increased throughput. You can set the number of native subworkers to 0.
+ 8
+ native subworkers
+ $ 50 / mo
+ Agent workers Agent
+ workers are remote computing resources that can execute jobs from anywhere. Each agent worker counts as 1 Compute Unit on self-hosted if not used for compute, and 0.5 Compute Unit on cloud if not used for compute.
+ 0
+ agent workers
+ $ 0 / mo
+ Our pricing explained
+ Summary
+ $170
+ / mo
+ Total seats: 1
+ 1 builder
+ 100 guests
+ = free, no seat
+ Total compute units
+ (CU): 3
+ 2 standard
+ workers = 2 CU
+ 8 native subworkers = 1 CU
+ Download quote
+ Get in touch
+ Feature comparison
+ Free and Open-source
+ Unlimited executions.
+ Platform
+ Executions per month
+ Unlimited
+ Number of workspaces 3
+ Maximum number of users 50
+ Variables, resources, scripts, apps, flows Unlimited
+ Groups, folders and granular permissions
+ Maximum 4 groups
+ All open source features
+ Yes
+ Public apps (anonymous, no login)
+ Yes
+ Guest app users (identity-provider sign-in, no account)
+ ⓘ Unlike a public app, which anyone holding the URL opens with no login at all, a guest signs in through one of the instance's configured identity providers (SSO, or SAML on Enterprise), or carries a JWT your backend signs. A guest has no Windmill account and takes no seat.
+ 100 max / 30 days
+ Oracle DB and MS SQL runtimes as languages (including as dbt adapters)
+ No
+ Multiplayer on WebIDE
+ No
+ Content search
+ No
+ Workspace object storage
+ 10 GiB storage quota
+ Write-audit-publish for pipeline data tests (failing tests roll back the write)
+ No
+ Range backfill for partitioned pipelines
+ Single-partition runs only
+ Freshness watchdog (auto re-run of stale pipeline assets)
+ Fresh/stale badge only
+ Email triggers
+ Max 100 emails per day
+ Postgres triggers
+ Yes
+ WebSocket triggers
+ Yes
+ MQTT triggers
+ ⓘ Self-hosted only
+ Yes
+ Kafka triggers
+ No
+ NATS triggers
+ No
+ SQS triggers
+ No
+ GCP triggers
+ No
+ Azure Event Grid triggers
+ No
+ Private Hub
+ No
+ Commercial licence No
+ Security & Support
+ Number of users with SSO
+ 10
+ Workspace secret custom encryption
+ Yes
+ External secret backends (HashiCorp Vault, Azure Key Vault, AWS Secrets Manager)
+ No
+ IAM database authentication for AWS RDS / Aurora
+ ⓘ Self-hosted Enterprise only
+ No
+ Entra ID database authentication for Azure PostgreSQL and MS SQL
+ ⓘ Self-hosted Enterprise only
+ No
+ Workspace service accounts
+ No
+ Custom workspace roles
+ Override default roles
+ Instance-level roles via instance groups
+ No
+ Custom OAuth
+ No
+ SAML & SCIM support including groups synchronization
+ No
+ External auth with JWT (each unique user per email+scope+instance billed as 1/2 seat)
+ No
+ Support level
+ Community support on Discord
+ SOC 2 Type II report
+ No
+ Design partners for roadmap No
+ Observability
+ Audit logs
+ No
+ Retention period of jobs runs details
+ <= 30 days
+ Schedule error handler
+ No
+ Workspace error handler
+ No
+ Queue metrics
+ No
+ Prometheus metrics No
+ HTTP tracing
+ No
+ OpenTelemetry tracing & logging
+ No
+ Service logs storage on S3
+ No
+ Instance events webhook
+ No
+ Developers & Deployments
+ Deployment on Fargate / Docker / Kubernetes
+ ⓘ Self-hosted only
+ Yes
+ Isolated & dedicated workers and database ⓘ Cloud only
+ No
+ Deploy from GitHub
+ Yes
+ Sync Windmill to a git repository (Git sync)
+ Up to 2 users
+ Agent workers
+ No
+ SSH execution (#ssh directive)
+ No
+ GitHub App
+ No
+ GitLab managed project access token
+ No
+ Deploy to staging/prod web UI
+ No
+ "Run on behalf of" selector when deploying across workspaces
+ No
+ Workspace forks
+ ⓘ Self-hosted only — global 3-workspace limit applies on Community Edition
+ Counts toward 3-workspace limit
+ Dev workspaces (persistent fork paired with a lockable prod workspace)
+ ⓘ Self-hosted only — locking the prod workspace reuses protection rulesets (Enterprise)
+ Counts toward 3-workspace limit
+ Infrastructure as code & Kubernetes operator
+ ⓘ Self-hosted only
+ Yes
+ CI test scripts with auto-trigger on deploy
+ Yes
+ OpenID Connect (OIDC)
+ No
+ Codebases & bundles
+ No
+ Private PyPI repositories & npm registries and packages
+ No
+ Workspace dependencies (centralized dependency files)
+ Yes
+ Distributed dependency cache backed by S3
+ No
+ Windows workers
+ ⓘ Self-hosted only
+ No
+ Performance
+ Worker group management UI (incl. Init scripts)
+ ⓘ Only available on self-hosting and enterprise edition on private clusters
+ No
+ Autoscaling
+ ⓘ Self-hosted only
+ No
+ Critical alerts
+ No
+ Script-specific workers (dedicated) / High throughput
+ No
+ Concurrency limits
+ No
+ Flows
+ Priority for steps
+ ⓘ Self-hosted only
+ No
+ Restart deployed flows from any node and version
+ No
+ Lifetime / Delete after use
+ No
+ Approval steps - Adding forms
+ No
+ Approval steps - Adding prompts (self-approval)
+ No
+ Approval steps - Require approvers to be logged in
+ No
+ Approval steps - Disable self-approval
+ No
+ Approval steps - Require approvers to be members of a group
+ No
+ Workflows as code v2 (checkpoint/replay orchestration)
+ Yes
+ Apps
+ Global CSS
+ No
+ Send schedule reports of Apps (png or pdf) through Slack, Discord or e-mail
+ No
+ Workspace default app
+ No
+ Importing custom React components
+ No
+ Enterprise
+ For advanced needs in observability, security and performance.
+ Platform
+ Executions per month
+ Unlimited
+ Number of workspaces Unlimited
+ Maximum number of users Unlimited
+ Variables, resources, scripts, apps, flows Unlimited
+ Groups, folders and granular permissions
+ Unlimited
+ All open source features
+ Yes
+ Public apps (anonymous, no login)
+ Yes
+ Guest app users (identity-provider sign-in, no account)
+ ⓘ Unlike a public app, which anyone holding the URL opens with no login at all, a guest signs in through one of the instance's configured identity providers (SSO, or SAML on Enterprise), or carries a JWT your backend signs. A guest has no Windmill account and takes no seat.
+ 100 free, then 4 guests = 1 seat
+ Oracle DB and MS SQL runtimes as languages (including as dbt adapters)
+ Yes
+ Multiplayer on WebIDE
+ Yes
+ Content search
+ Yes
+ Workspace object storage
+ Unlimited
+ Write-audit-publish for pipeline data tests (failing tests roll back the write)
+ Yes
+ Range backfill for partitioned pipelines
+ Yes
+ Freshness watchdog (auto re-run of stale pipeline assets)
+ Yes
+ Email triggers
+ Unlimited
+ Postgres triggers
+ Yes
+ WebSocket triggers
+ Yes
+ MQTT triggers
+ ⓘ Self-hosted only
+ Yes
+ Kafka triggers
+ Yes
+ NATS triggers
+ Yes
+ SQS triggers
+ Yes
+ GCP triggers
+ Yes
+ Azure Event Grid triggers
+ Yes
+ Private Hub
+ Yes
+ Commercial licence Yes
+ Security & Support
+ Number of users with SSO
+ Uncapped (requires seats)
+ Workspace secret custom encryption
+ Yes
+ External secret backends (HashiCorp Vault, Azure Key Vault, AWS Secrets Manager)
+ Yes
+ IAM database authentication for AWS RDS / Aurora
+ ⓘ Self-hosted Enterprise only
+ Yes
+ Entra ID database authentication for Azure PostgreSQL and MS SQL
+ ⓘ Self-hosted Enterprise only
+ Yes
+ Workspace service accounts
+ Yes
+ Custom workspace roles
+ Yes
+ Instance-level roles via instance groups
+ Yes
+ Custom OAuth
+ Yes
+ SAML & SCIM support including groups synchronization
+ Yes
+ External auth with JWT (each unique user per email+scope+instance billed as 1/2 seat)
+ Yes
+ Support level
+ 24/7 Priority support with 3h response and dedicated Slack channel
+ SOC 2 Type II report
+ Yes
+ Design partners for roadmap Yes
+ Observability
+ Audit logs
+ Unlimited
+ Retention period of jobs runs details
+ Unlimited
+ Schedule error handler
+ Yes
+ Workspace error handler
+ Yes
+ Queue metrics
+ Yes
+ Prometheus metrics Yes
+ HTTP tracing
+ Yes
+ OpenTelemetry tracing & logging
+ Yes
+ Service logs storage on S3
+ Yes
+ Instance events webhook
+ Yes
+ Developers & Deployments
+ Deployment on Fargate / Docker / Kubernetes
+ ⓘ Self-hosted only
+ Yes
+ Isolated & dedicated workers and database ⓘ Cloud only
+ No
+ Deploy from GitHub
+ Yes
+ Sync Windmill to a git repository (Git sync)
+ Yes
+ Agent workers
+ Yes
+ SSH execution (#ssh directive)
+ Yes
+ GitHub App
+ Yes
+ GitLab managed project access token
+ Yes
+ Deploy to staging/prod web UI
+ Yes
+ "Run on behalf of" selector when deploying across workspaces
+ Yes
+ Workspace forks
+ ⓘ Self-hosted only — global 3-workspace limit applies on Community Edition
+ Yes
+ Dev workspaces (persistent fork paired with a lockable prod workspace)
+ ⓘ Self-hosted only — locking the prod workspace reuses protection rulesets (Enterprise)
+ Yes
+ Infrastructure as code & Kubernetes operator
+ ⓘ Self-hosted only
+ Yes
+ CI test scripts with auto-trigger on deploy
+ Yes
+ OpenID Connect (OIDC)
+ Yes
+ Codebases & bundles
+ Yes
+ Private PyPI repositories & npm registries and packages
+ Yes
+ Workspace dependencies (centralized dependency files)
+ Yes
+ Distributed dependency cache backed by S3
+ Yes
+ Windows workers
+ ⓘ Self-hosted only
+ Yes
+ Performance
+ Worker group management UI (incl. Init scripts)
+ ⓘ Only available on self-hosting and enterprise edition on private clusters
+ Yes
+ Autoscaling
+ ⓘ Self-hosted only
+ Yes
+ Critical alerts
+ Yes
+ Script-specific workers (dedicated) / High throughput
+ Yes
+ Concurrency limits
+ Yes
+ Flows
+ Priority for steps
+ ⓘ Self-hosted only
+ Yes
+ Restart deployed flows from any node and version
+ Yes
+ Lifetime / Delete after use
+ Yes
+ Approval steps - Adding forms
+ Yes
+ Approval steps - Adding prompts (self-approval)
+ Yes
+ Approval steps - Require approvers to be logged in
+ Yes
+ Approval steps - Disable self-approval
+ Yes
+ Approval steps - Require approvers to be members of a group
+ Yes
+ Workflows as code v2 (checkpoint/replay orchestration)
+ Yes
+ Apps
+ Global CSS
+ Yes
+ Send schedule reports of Apps (png or pdf) through Slack, Discord or e-mail
+ Yes
+ Workspace default app
+ Yes
+ Importing custom React components
+ Yes
+ Feature comparison
+ Free and Open-source Unlimited executions.
+ Enterprise For advanced needs in observability, security and performance.
+ Platform
+ Feature
+ tier-free-selfhost tier
+ tier-enterprise-selfhost tier
+ Executions per month
+ Unlimited
+ Unlimited
+ Number of workspaces
+ 3
+ Unlimited
+ Maximum number of users
+ 50
+ Unlimited
+ Variables, resources, scripts, apps, flows
+ Unlimited
+ Unlimited
+ Groups, folders and granular permissions
+ Maximum 4 groups
+ Unlimited
+ All open source features
+ Yes
+ Yes
+ Public apps (anonymous, no login)
+ Yes
+ Yes
+ Guest app users (identity-provider sign-in, no account)
+ ⓘ
+ Unlike a public app, which anyone holding the URL opens with no login at all, a guest signs in through one of the instance's configured identity providers (SSO, or SAML on Enterprise), or carries a JWT your backend signs. A guest has no Windmill account and takes no seat.
+ 100 max / 30 days
+ 100 free, then 4 guests = 1 seat
+ Oracle DB and MS SQL runtimes as languages (including as dbt adapters)
+ No
+ Yes
+ Multiplayer on WebIDE
+ No
+ Yes
+ Content search
+ No
+ Yes
+ Workspace object storage
+ 10 GiB storage quota
+ Unlimited
+ Write-audit-publish for pipeline data tests (failing tests roll back the write)
+ No
+ Yes
+ Range backfill for partitioned pipelines
+ Single-partition runs only
+ Yes
+ Freshness watchdog (auto re-run of stale pipeline assets)
+ Fresh/stale badge only
+ Yes
+ Email triggers
+ Max 100 emails per day
+ Unlimited
+ Postgres triggers
+ Yes
+ Yes
+ WebSocket triggers
+ Yes
+ Yes
+ MQTT triggers
+ ⓘ
+ Self-hosted only
+ Yes
+ Yes
+ Kafka triggers
+ No
+ Yes
+ NATS triggers
+ No
+ Yes
+ SQS triggers
+ No
+ Yes
+ GCP triggers
+ No
+ Yes
+ Azure Event Grid triggers
+ No
+ Yes
+ Private Hub
+ No
+ Yes
+ Commercial licence
+ No
+ Yes
+ Security & Support
+ Feature
+ tier-free-selfhost tier
+ tier-enterprise-selfhost tier
+ Number of users with SSO
+ 10
+ Uncapped (requires seats)
+ Workspace secret custom encryption
+ Yes
+ Yes
+ External secret backends (HashiCorp Vault, Azure Key Vault, AWS Secrets Manager)
+ No
+ Yes
+ IAM database authentication for AWS RDS / Aurora
+ ⓘ
+ Self-hosted Enterprise only
+ No
+ Yes
+ Entra ID database authentication for Azure PostgreSQL and MS SQL
+ ⓘ
+ Self-hosted Enterprise only
+ No
+ Yes
+ Workspace service accounts
+ No
+ Yes
+ Custom workspace roles
+ Override default roles
+ Yes
+ Instance-level roles via instance groups
+ No
+ Yes
+ Custom OAuth
+ No
+ Yes
+ SAML & SCIM support including groups synchronization
+ No
+ Yes
+ External auth with JWT (each unique user per email+scope+instance billed as 1/2 seat)
+ No
+ Yes
+ Support level
+ Community support on Discord
+ 24/7 Priority support with 3h response and dedicated Slack channel
+ SOC 2 Type II report
+ No
+ Yes
+ Design partners for roadmap
+ No
+ Yes
+ Observability
+ Feature
+ tier-free-selfhost tier
+ tier-enterprise-selfhost tier
+ Audit logs
+ No
+ Unlimited
+ Retention period of jobs runs details
+ <= 30 days
+ Unlimited
+ Schedule error handler
+ No
+ Yes
+ Workspace error handler
+ No
+ Yes
+ Queue metrics
+ No
+ Yes
+ Prometheus metrics
+ No
+ Yes
+ HTTP tracing
+ No
+ Yes
+ OpenTelemetry tracing & logging
+ No
+ Yes
+ Service logs storage on S3
+ No
+ Yes
+ Instance events webhook
+ No
+ Yes
+ Developers & Deployments
+ Feature
+ tier-free-selfhost tier
+ tier-enterprise-selfhost tier
+ Deployment on Fargate / Docker / Kubernetes
+ ⓘ
+ Self-hosted only
+ Yes
+ Yes
+ Isolated & dedicated workers and database
+ ⓘ
+ Cloud only
+ No
+ No
+ Deploy from GitHub
+ Yes
+ Yes
+ Sync Windmill to a git repository (Git sync)
+ Up to 2 users
+ Yes
+ Agent workers
+ No
+ Yes
+ SSH execution (#ssh directive)
+ No
+ Yes
+ GitHub App
+ No
+ Yes
+ GitLab managed project access token
+ No
+ Yes
+ Deploy to staging/prod web UI
+ No
+ Yes
+ "Run on behalf of" selector when deploying across workspaces
+ No
+ Yes
+ Workspace forks
+ ⓘ
+ Self-hosted only — global 3-workspace limit applies on Community Edition
+ Counts toward 3-workspace limit
+ Yes
+ Dev workspaces (persistent fork paired with a lockable prod workspace)
+ ⓘ
+ Self-hosted only — locking the prod workspace reuses protection rulesets (Enterprise)
+ Counts toward 3-workspace limit
+ Yes
+ Infrastructure as code & Kubernetes operator
+ ⓘ
+ Self-hosted only
+ Yes
+ Yes
+ CI test scripts with auto-trigger on deploy
+ Yes
+ Yes
+ OpenID Connect (OIDC)
+ No
+ Yes
+ Codebases & bundles
+ No
+ Yes
+ Private PyPI repositories & npm registries and packages
+ No
+ Yes
+ Workspace dependencies (centralized dependency files)
+ Yes
+ Yes
+ Distributed dependency cache backed by S3
+ No
+ Yes
+ Windows workers
+ ⓘ
+ Self-hosted only
+ No
+ Yes
+ Performance
+ Feature
+ tier-free-selfhost tier
+ tier-enterprise-selfhost tier
+ Worker group management UI (incl. Init scripts)
+ ⓘ
+ Only available on self-hosting and enterprise edition on private clusters
+ No
+ Yes
+ Autoscaling
+ ⓘ
+ Self-hosted only
+ No
+ Yes
+ Critical alerts
+ No
+ Yes
+ Script-specific workers (dedicated) / High throughput
+ No
+ Yes
+ Concurrency limits
+ No
+ Yes
+ Flows
+ Feature
+ tier-free-selfhost tier
+ tier-enterprise-selfhost tier
+ Priority for steps
+ ⓘ
+ Self-hosted only
+ No
+ Yes
+ Restart deployed flows from any node and version
+ No
+ Yes
+ Lifetime / Delete after use
+ No
+ Yes
+ Approval steps - Adding forms
+ No
+ Yes
+ Approval steps - Adding prompts (self-approval)
+ No
+ Yes
+ Approval steps - Require approvers to be logged in
+ No
+ Yes
+ Approval steps - Disable self-approval
+ No
+ Yes
+ Approval steps - Require approvers to be members of a group
+ No
+ Yes
+ Workflows as code v2 (checkpoint/replay orchestration)
+ Yes
+ Yes
+ Apps
+ Feature
+ tier-free-selfhost tier
+ tier-enterprise-selfhost tier
+ Global CSS
+ No
+ Yes
+ Send schedule reports of Apps (png or pdf) through Slack, Discord or e-mail
+ No
+ Yes
+ Workspace default app
+ No
+ Yes
+ Importing custom React components
+ No
+ Yes
+ Frequently asked questions
+ What is the logic behind Windmill's pricing?
+ Windmill's pricing is designed to align with the value we deliver to our customers. Our pricing model reflects the core value of Windmill, which is primarily related to the amount of compute resources used, and the number of users accessing the platform. We've structured our pricing to scale with your usage, ensuring you're paying for the actual value you derive from our platform.
+For compute resources, we use compute units
+ based on memory allocation. A compute unit corresponds to 2 worker-gb-month. For example, a worker with 2GB of memory limit counts as 1 compute unit. On self-hosted plans, any worker with memory above 2GB counts as 2 compute units (e.g. a worker with 16GB counts as 2 compute units). On cloud EE, it scales linearly with the memory limit. Native workers are an exception: a native worker always counts as 1 compute unit regardless of its memory limit. We aggregate the memory of each worker against your global compute unit quota. You can freely allocate these compute units across workers of different sizes based on your needs. In the total sum of compute units, there are no half compute units, therefore the total number is rounded up to the next integer.
+For user access, we charge based on seats. A builder counts as one seat, while a non-builder
+ (who runs, views and manages what others built) counts as half a seat. For external JWT
+ authentication, a unique JWT user is counted per (username/email, scope, instance) tuple used in the last 30 days - the same email with two different scopes, or on two different instances, counts as two JWT users. Each unique JWT user is billed as half a seat. This allows for flexible team structures and cost-effective scaling of your user base. We only count active users, i.e. users who have logged in to the platform in the last 30 days according to the audit logs.
+Our billing is meant to be fair and transparent: we only count the actual memory allocated to your workers in your production instance, with minute granularity if you use auto-scaling. This approach ensures that you're only charged for the resources actively contributing to your production environment. If you scale your workers up and down, the compute units will be accounted with minute granularity. For instance, you can run 10 workers with 2GB each for half a month at the same price as 5 workers with 2GB each for the full month.
+This combined approach of charging for compute units and user seats allows us to provide pricing that scales linearly with your usage and team size, closely aligning with the value you receive from Windmill.
+ Which organizations can subscribe to the Pro plan and non-profit EE?
+ The Pro plan is only available in Self-hosted for:
+- Individuals
+- Businesses with less than 10 employees and $250k revenues
+- Startups at seed stage 
+Non-profits & Universities benefit from the regular Enterprise plan at a 40% discount.
+Reach out to [email protected]
+ to inquiry about exceptions.
+ Who counts as half a seat? How are external JWT users billed?
+ What a member can do in a workspace is set by their workspace role
+. A user is a builder, and counts as a full seat, when in at least one workspace they are an admin or their role can write code or build flows or apps. Every other user is a non-builder: their roles only let them run, view and manage what others built, and they count as half a seat.
+For external JWT
+ authentication, a unique JWT user is counted per (username/email, scope, instance) tuple used in the last 30 days - so the same email with two different scopes, or on two different instances, counts as two JWT users. Each unique JWT user is billed the same way as a non-builder (1/2 seat). For seat counting, you can mix non-builders and external JWT users freely - for example, 1 non-builder + 1 external JWT user = 1 seat.
+On the billing side, 1 builder or 2 non-builders/ext JWT users count as 1 seat, there is no need to differentiate between them when purchasing the license.
+ How are guests billed?
+ A guest
+ is someone with no Windmill account, member of no workspace, who signs in through one of the instance's SSO
+ or SAML providers (or carries a JWT your own backend signs) and can then open one app and nothing else. That is not the same as a public app
+, which anyone holding the URL opens anonymously, with no login and no limit. A guest leaves no user row behind and so takes no seat.
+The first 100 distinct guest emails over a trailing 30 days are free, including on the free self-hosted Community Edition. Past 100, Enterprise meters guests at 4 guests to 1 seat, rounded up, on cloud as well as self-hosted, and those seats count like any other. A self-hosted instance with no Enterprise license admits no new guest email until the count drops back under 100 - a guest already seen in the window is always let back in. Guests are not available on the cloud Free and Team plans.
+Guests are counted instance-wide by email: one email is one guest however many workspaces they opened. The current count is shown in the app editor, in workspace settings and in instance settings.
+ What is an execution?
+ The single credit-unit is called a "execution". An execution corresponds to a single job
+ whose duration is less than 1s. For any additional seconds of computation, an additional computation is accounted for.
+The number of executions of a flow corresponds to the sum of the executions of each step as seconds, considered as one script execution of that same time (time in sleep or doing state transition are not accounted). For apps, a backend script execution is considered as a script execution. As apps frontend scripts execute on browsers, they are not taken into account.
+Jobs are executed on one powerful virtual CPU with 2Gb of memory. Most jobs will take less than 200ms to execute.
+ What are native subworkers?
+ Native subworkers run within a native worker, in the native worker group
+. This group is pre-configured to listen to native jobs tags (query languages). Those jobs are executed under a special mode with native subworkers, which go 8 by 8, for increased throughput. You can set the number of native subworkers to 0.
+ What are agent workers?
+ Agent workers
+ are remote computing resources that can execute jobs from anywhere. Each agent worker counts as 1 Compute Unit on self-hosted if not used for compute, and 0.5 Compute Unit on cloud if not used for compute.
+ What are compute units?
+ Compute units are a unit of measure for the amount of compute resources provisioned (not effectively used) for the workers of the production instances, based on their memory limits. A compute unit corresponds to 2 worker-gb-month. For example, a worker
+ with 2GB of memory limit counts as 1 compute unit. On self-hosted plans, any worker with >2GB of memory counts as 2 compute units (e.g. a worker with 16GB counts as 2 compute units). Native workers are an exception: a native worker always counts as 1 compute unit regardless of its memory limit. The minimum CU billed for a worker is 0.5. For detailed information on how your setup translates to compute units, see the setup and compute units guide
+.
+ How many compute units do I need?
+ The number of compute units
+ will depend on the workload and the jobs Windmill will need to run. Each worker
+ only executes one job at a time, by design to use the full resource of the worker. Workers come in different sizes based on memory: small (1GB), standard (2GB), and large (> 2GB). Each worker is extremely efficient to execute a job, and you can execute up to 26 million jobs per month per worker if each one lasts 100ms. However, it completely depends on the nature of the jobs, their number and duration.
+As a note, keep in mind that the number of compute units considered is the number of production compute units of your workers, not of development staging, if you have separate instances. The compute units are calculated based on the memory limits set in docker-compose or Kubernetes. For example, a standard worker with 2GB memory counts as 1 compute unit, while a large worker with >2GB memory counts as 2 compute units. On self-hosted plans, any worker with memory above 2GB still counts as 2 compute units (on cloud EE, it scales linearly with the memory limit). Small workers are counted as 0.5 compute unit. Native workers are an exception: a native worker always counts as 1 compute unit regardless of its memory limit.
+You can optimize your compute unit usage with autoscaling
+. This automatically adjusts the number of workers based on your workload, ensuring you only pay for the compute units you actually need. For example, you could scale down to minimal workers during low-usage periods and automatically scale up during peak times, with compute usage calculated at minute-level granularity.
+For more details on sizing your worker pool, see the scaling workers guide
+, which includes an interactive simulator to help visualize job processing and worker requirements.
+Also, for the Enterprise Edition, the free trial
+ of one month is meant to help you evaluate your needs in practice.
+Compute units are based on the provisioned workers, not the ones actually used by scripts. This means your pricing is determined by the size of your infrastructure, not by the memory consumption of individual scripts. Therefore, your costs remain predictable regardless of script demands.
+ How is the use of the number of seats & compute units estimated and reported to Windmill?
+ Even though Windmill's architecture
+ relies on workers
+, pricing is based on compute units. A compute unit corresponds to 2 worker-gb-month. For example, a worker with 2GB of memory limit (standard worker) counts as 1 compute unit. A worker with 4GB of memory (large worker) counts as 2 compute units. On self-hosted plans, any worker with memory above 2GB counts as 2 compute units (16GB worker counts as 2 compute units). On cloud EE, it scales linearly with the memory limit. The number of compute units is calculated based on the memory limits set for your workers in production instances. You can set memory limits in docker-compose or Kubernetes manifests to control your compute unit usage. For detailed information on how your setup translates to compute units, see the setup and compute units guide
+. Each worker can run up to ~26M jobs per month (at 100ms per job).
+Windmill employs lightweight telemetry
+ to automatically track and report the usage of compute units for your subscription.
+Seats reported to Windmill are the number of users (1 builder, or 2 non-builders) who are active (from logging in to running or deploying a script) on the platform in the last 30 days, according to the audit logs. User counts are across all instances (dev, prod) but Windmill only counts once the same user. For external JWT
+ authentication, a unique JWT user is counted per (username/email, scope, instance) tuple used in the last 30 days - the same email with two different scopes, or on two different instances, counts as two JWT users. Each unique JWT user counts as half a seat (same as a non-builder).
+The number of compute units considered is the number of production compute units, not of development staging, if you have separate instances. So you can simply set limits in the docker-compose
+ and you will never be overcharged.
+Our compute pricing should be linear to the compute cost from your cloud provider.
+ Do I need a separate license for staging/development environments?
+ No, you can use the same license key - and therefore subscription - for both staging and production systems. For Compute Units, our telemetry
+ only reports production instances, so no additional license is needed. Seats are across all instances (dev, prod), but Windmill only counts once the same user.
+What matters is that your instances are marked as non-prod
+. You can do that from the instance settings or generate a development license key from the Customer Portal
+.
+ How is payment done?
+ Payment is processed through Stripe and can be made using ACH, bank transfer, Cash App Pay, or credit or debit card. Subscriptions can be made by automatic debit or by invoice.
+ Is Windmill billed based on usage?
+ Only the Teams plan is billed based on actual usage. For Enterprise Edition and Pro plans, you commit to terms that fit within a given range of seats and Compute Units, providing more predictable pricing.
+If your usage temporarily exceeds your subscription terms on EE or Pro plans, you will be notified and given 35 days to address the situation before your latest license key expires.
+ Can I increase the subscription terms during the subscription period?
+ On EE & Pro subscriptions (especially annual subscriptions), there is flexibility to increase the number of seats and compute units as needed during the subscription period. A prorated amount will be billed for the additional resources for the remaining period. On an annual subscription, this means you will only pay for the portion of the year that remains after the adjustment. For example, if you increase seats 10 months into the year, you would pay for approximately 2/12 of the annual cost for the additional seats.
+ How can I update my subscription?
+ As an Enterprise and Pro user, you will have access to detailed usage information and invoices through the Windmill Customer Portal
+. You can also enable/disable any time automatic renewal and automatic debit (therefore payment by invoice).
+ What is Windmill's technical support SLA?
+ We provide support
+ with different response times based on issue priorities. Our support team is available 24/7, and the SLA is consistent for both cloud and self-hosted deployments. Enterprise customers are also entitled to a dedicated Slack or Discord channel.
+ What is Windmill's security level on cloud?
+ Windmill is SOC 2 Type II compliant, and we prioritize addressing vulnerabilities promptly.
+ Can I get services and workshops from Windmill or partners?
+ Windmill is a company that develops a product. Our mission is to build the best possible product so that our users can create the most value out of it. We provide priority support
+ to our Enterprise customers. This support includes the implementation of feature requests, prioritized bug resolutions, and recommendations on use cases.
+However, we do not carry out the implementation of these use cases ourselves (e.g. building a specific app). While we are able to offer some workshops at the beginning of your Windmill journey, it is not possible to do so repeatedly and systematically.
+For these reasons, we recommend that all Windmill users that require end-to-end use case development and exhaustive training engage with Windmill certified partners
+. These partners are trained and certified by Windmill to provide the best possible service to our users.
+ Could the application keep running if Windmill as a company is shut down?
+ Yes, Windmill will continue to operate as long as the license key
+ remains valid, even in the absence of an internet connection. If Windmill shuts down, license keys will be extended indefinitely.
+ Footer
+ Product
+ Pricing
+ Cloud
+ Hub
+ Case studies
+ Integrations
+ Windmill AI
+ GitHub
+ S3
+ Supabase
+ Slack
+ More integrations
+ Resources
+ Blog
+ Documentation
+ Changelog
+ Roadmap
+ llms.txt
+ Company
+ Jobs
+ Brand
+ Partners
+ Help & Support
+ OpenAPI
+ GitHub Issues
+ Discord
+ Questions
+ Legal
+ Privacy Policy
+ Terms of Service
+ License Terms
+ Made with passion in 
+San Francisco and Paris.
+ Windmill Labs is SOC 2 Type II compliant.
+ © 2026 Windmill Labs, Inc. All rights reserved. 1111B S Governors Ave STE 6013, Dover, DE 19904, USA

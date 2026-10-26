@@ -1,0 +1,177 @@
+#SNAPSHOT {"url":"https://genoffice.ai/","finalUrl":"https://genoffice.ai/","fetchedAt":"2026-10-26T03:42:58.541Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"01171fbcf66c0f4f5ca42edc3d640a28fb43a96b6d6f9eb68ba8e70bb7055f0a"}
+GenOffice — Free, Open-Source AI Office Suite so gtm.js is queued before the landing_view push. --> 
+ Skip to content
+ Products
+ What’s new
+ FAQ
+ GitHub
+ Language
+ English Deutsch Español Français हिंदी Italiano 日本語 한국어 Português 简体中文 繁體中文 Bahasa Indonesia Bahasa Melayu ไทย العربية עברית Русский Polski Nederlands Download
+ World's first full-featured open-source AI Office Suite
+ GenOffice
+ Write, calculate, present, and create with AI that works right in your files. A free, open-source office suite for macOS, Windows, and Linux.
+ Download for Mac
+ Apple Silicon 
+ Apple Silicon 
+ Intel 
+ Also available:
+ Windows
+ Linux
+ Download for Windows
+ Windows x64 
+ Windows x64 
+ Windows ARM64 
+ Also available:
+ Mac
+ Linux
+ Download for Linux
+ Debian / Ubuntu 
+ Debian / Ubuntu 
+ AppImage 
+ Fedora / RHEL 
+ Also available:
+ Mac
+ Windows
+ Watch the demo
+ GenOffice is a desktop app for macOS, Windows, and Linux. Copy this page to open it on your computer.
+ Copy link
+ Watch the demo
+ * Free to download and use. AI features use Genspark credits or your own API key (BYOK).
+ Free for everyone
+ Ad-free
+ Open-source ↗
+ Six editors. One workspace.
+ .docx · .xlsx · .pptx · .pdf · .html · .md
+ Docs
+ Sheets
+ Slides
+ PDF
+ HTML
+ Markdown
+ GenOffice Docs
+ Open and save real .docx files. Byte-preserving: only what you change is rewritten.
+Draft, restyle, or rewrite any section with a prompt.
+ GenOffice Sheets
+ An in-house .xlsx engine with charts, pivot tables, and slicers.
+Ask AI to build a budget tracker and watch the formulas write themselves.
+ GenOffice Slides
+ Native .pptx with masters, layouts, and smart guides.
+Describe a topic and get a finished deck ready to present or keep editing.
+ GenOffice PDF
+ Edit text and images right in the page — original fonts preserved.
+Convert a PDF into editable Word, Excel, or PowerPoint locally.
+ GenOffice HTML
+ Generate landing pages, reports, or posters as single self-contained HTML files.
+Design-first: pick a design brief, refine visually, then export to PDF or Word.
+ GenOffice Markdown
+ A distraction-free Markdown editor — headings, lists, tables, and code blocks,
+saved back as plain Markdown.
+ Open-source Explore the code. Make it your own.
+ View on GitHub 
+ GenOffice / AI
+ From a task to a finished file.
+ 01
+ Give your next draft a head start.
+ Open and save real .docx files. Byte-preserving: only what you change is rewritten.
+Draft, restyle, or rewrite any section with a prompt.
+ Docs 
+ 02
+ Turn data into clear answers.
+ An in-house .xlsx engine with charts, pivot tables, and slicers.
+Ask AI to build a budget tracker and watch the formulas write themselves.
+ Sheets 
+ 03
+ From a topic to a presentation.
+ Native .pptx with masters, layouts, and smart guides.
+Describe a topic and get a finished deck ready to present or keep editing.
+ Slides 
+ 04
+ Turn a PDF into a new starting point.
+ Edit text and images right in the page — original fonts preserved.
+Convert a PDF into editable Word, Excel, or PowerPoint locally.
+ PDF 
+ 05
+ An idea. A prompt. Your next page.
+ Generate landing pages, reports, or posters as single self-contained HTML files.
+Design-first: pick a design brief, refine visually, then export to PDF or Word.
+ HTML 
+ 06
+ Turn notes into structured documents.
+ A distraction-free Markdown editor — headings, lists, tables, and code blocks,
+saved back as plain Markdown.
+ Markdown 
+ Your files. Your choice.
+ Open, edit, and save documents on your computer. Connect the AI service you choose when you want a hand.
+ Privacy 
+ 01 / AI built in
+ Block-level AI edits with snapshots and diffs, and document-aware agents.
+Use Genspark or bring your own API key (BYOK).
+ 02 / Free & ad-free
+ No license fees. No ads. No watermarks.
+Just download it and use it.
+ GenOffice / FAQ
+ A few things to know.
+ Is GenOffice free? The office apps are free to download and use, with no ads or watermarks. AI features use Genspark credits or your own API key; your provider’s usage charges may apply.
+ Can I use my existing Office files? GenOffice opens and saves .docx, .xlsx, and .pptx files, and edits PDF, HTML, and Markdown. Complex formatting can vary; check important files before sharing them.
+ How do I convert a PDF to Word? Open your PDF in GenOffice, choose Word from the Convert PDF menu, then edit the resulting .docx. Conversion runs locally for free, without AI credits. Scanned-page OCR is supported on macOS and Windows. Check tables and formatting before sharing.
+ Can I edit PDF text and images directly? Yes. GenOffice supports direct text and image editing, annotations and forms. Open the file in the desktop app, make your changes and save locally. Review fonts and layout after editing.
+ Does it work offline? What about privacy? Opening, editing, saving, and PDF-to-Office conversion run locally. Online AI sends requests when you use it. Official builds also send limited usage statistics by default; you can turn them off in Settings → General. See the privacy policy for details.
+ Do I need a Genspark account for AI? You can sign in with Genspark or bring your own model API key. Built-in providers include Claude, OpenAI, Gemini, and more, with support for custom OpenAI-compatible endpoints.
+ GenOffice / v0.12.29
+ Get started with GenOffice
+ What’s new 
+ * Free to download and use. AI features use Genspark credits or your own API key (BYOK).
+ All desktop downloads
+ macOS
+ macOS 11+
+ Apple Silicon 
+ Intel 
+ Windows
+ Windows 10+ (x64) / 11+ (ARM64)
+ Windows x64 
+ Windows ARM64 
+ Linux
+ x86_64 · glibc 2.34+
+ Debian / Ubuntu 
+ AppImage 
+ Fedora / RHEL 
+ System requirements & installation guide 
+ Open-source
+ Open source.
+Open to your ideas.
+ See how GenOffice works, help improve it, or build on it. The source and the conversation are open to everyone.
+ View on GitHub ↗
+ A star on GitHub is the best way to support the team.
+ Report an issue 
+ Contribute to GenOffice 
+ What’s new 
+ Join GenTeam
+ Join the GenOffice group chat on GenTeam to share feedback and help shape what comes next.
+ GenTeam 
+ © 2026 Genspark
+ English ⌄
+ English
+ Deutsch
+ Español
+ Français
+ हिंदी
+ Italiano
+ 日本語
+ 한국어
+ Português
+ 简体中文
+ 繁體中文
+ Bahasa Indonesia
+ Bahasa Melayu
+ ไทย
+ العربية
+ עברית
+ Русский
+ Polski
+ Nederlands
+ Privacy
+ Terms
+ GitHub
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://genoffice.ai/#website","url":"https://genoffice.ai/","name":"GenOffice","inLanguage":"en-US","publisher":{"@id":"https://genoffice.ai/#organization"}},{"@type":"Organization","@id":"https://genoffice.ai/#organization","name":"Genspark","url":"https://www.genspark.ai/","sameAs":["https://github.com/genspark-ai"]},{"@type":"SoftwareApplication","@id":"https://genoffice.ai/#software","name":"GenOffice","description":"Edit Word, Excel, PowerPoint and PDF files with built-in AI. Free, open-source desktop office apps for macOS, Windows and Linux. Download GenOffice.","url":"https://genoffice.ai/","image":["https://genoffice.ai/assets/genoffice-logo.svg","https://genoffice.ai/assets/shots/hero-shot.png"],"applicationCategory":"BusinessApplication","operatingSystem":"macOS, Windows, Linux","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"softwareVersion":"0.12.29","downloadUrl":"https://genoffice.ai/#download","sameAs":["https://github.com/genspark-ai/genoffice"],"publisher":{"@id":"https://genoffice.ai/#organization"}},{"@type":"WebPage","@id":"https://genoffice.ai/#webpage","url":"https://genoffice.ai/","name":"GenOffice — Free, Open-Source AI Office Suite","description":"Edit Word, Excel, PowerPoint and PDF files with built-in AI. Free, open-source desktop office apps for macOS, Windows and Linux. Download GenOffice.","inLanguage":"en-US","isPartOf":{"@id":"https://genoffice.ai/#website"},"about":{"@id":"https://genoffice.ai/#software"}}]}

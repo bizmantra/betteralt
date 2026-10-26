@@ -1,115 +1,115 @@
 {
- "generatedAt": "2026-10-23T10:34:56.377Z",
+ "generatedAt": "2026-10-26T03:47:46.379Z",
  "maxAgeDays": 14,
  "linkCheck": "200 links checked, 0 dead",
  "tools": {
   "chatgpt": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/chatgpt/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/chatgpt/2026-10-26.txt",
    "inCheckedAt": "2026-10-19",
    "inSnapshot": "data/snapshots/chatgpt/2026-10-19.in.txt"
   },
   "claude": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/claude/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/claude/2026-10-26.txt"
   },
   "gemini": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/gemini/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/gemini/2026-10-26.txt",
    "inCheckedAt": "2026-10-22",
    "inSnapshot": "data/snapshots/gemini/2026-10-22.in.txt"
   },
   "perplexity": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/perplexity/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/perplexity/2026-10-26.txt"
   },
   "mistral-le-chat": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/mistral-le-chat/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/mistral-le-chat/2026-10-26.txt"
   },
   "grok": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/grok/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/grok/2026-10-26.txt",
    "inCheckedAt": "2026-10-22",
    "inSnapshot": "data/snapshots/grok/2026-10-22.in.txt"
   },
   "deepseek": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/deepseek/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/deepseek/2026-10-26.txt"
   },
   "open-webui": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/open-webui/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/open-webui/2026-10-26.txt"
   },
   "lm-studio": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/lm-studio/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/lm-studio/2026-10-26.txt"
   },
   "ollama": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/ollama/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/ollama/2026-10-26.txt"
   },
   "jan": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/jan/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/jan/2026-10-26.txt"
   },
   "librechat": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/librechat/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/librechat/2026-10-26.txt"
   },
   "poe": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/poe/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/poe/2026-10-26.txt",
    "inCheckedAt": "2026-10-22",
    "inSnapshot": "data/snapshots/poe/2026-10-22.in.txt"
   },
   "openrouter": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/openrouter/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/openrouter/2026-10-26.txt"
   },
   "cursor": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/cursor/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/cursor/2026-10-26.txt"
   },
   "windsurf": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/windsurf/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/windsurf/2026-10-26.txt"
   },
   "github-copilot": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/github-copilot/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/github-copilot/2026-10-26.txt"
   },
   "cline": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/cline/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/cline/2026-10-26.txt"
   },
   "continue": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/continue/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/continue/2026-10-26.txt"
   },
   "zed": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/zed/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/zed/2026-10-26.txt"
   },
   "tabnine": {
    "verified": false,
@@ -117,13 +117,13 @@
   },
   "aider": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/aider/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/aider/2026-10-26.txt"
   },
   "claude-code": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/claude-code/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/claude-code/2026-10-26.txt"
   },
   "replit": {
    "verified": false,
@@ -131,135 +131,135 @@
   },
   "lovable": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/lovable/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/lovable/2026-10-26.txt"
   },
   "bolt": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/bolt/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/bolt/2026-10-26.txt"
   },
   "v0": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/v0/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/v0/2026-10-26.txt"
   },
   "bolt-diy": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/bolt-diy/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/bolt-diy/2026-10-26.txt"
   },
   "base44": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/base44/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/base44/2026-10-26.txt"
   },
   "dyad": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/dyad/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/dyad/2026-10-26.txt"
   },
   "midjourney": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/midjourney/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/midjourney/2026-10-26.txt"
   },
   "chatgpt-images": {
    "verified": true,
-   "checkedAt": "2026-10-19",
-   "snapshot": "data/snapshots/chatgpt-images/2026-10-19.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/chatgpt-images/2026-10-26.txt"
   },
   "leonardo": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/leonardo/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/leonardo/2026-10-26.txt"
   },
   "ideogram": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/ideogram/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/ideogram/2026-10-26.txt"
   },
   "stable-diffusion-webui": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/stable-diffusion-webui/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/stable-diffusion-webui/2026-10-26.txt"
   },
   "comfyui": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/comfyui/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/comfyui/2026-10-26.txt"
   },
   "adobe-firefly": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/adobe-firefly/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/adobe-firefly/2026-10-26.txt",
    "inCheckedAt": "2026-10-22",
    "inSnapshot": "data/snapshots/adobe-firefly/2026-10-22.in.txt"
   },
   "flux": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/flux/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/flux/2026-10-26.txt"
   },
   "elevenlabs": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/elevenlabs/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/elevenlabs/2026-10-26.txt"
   },
   "murf": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/murf/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/murf/2026-10-26.txt"
   },
   "coqui-tts": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/coqui-tts/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/coqui-tts/2026-10-26.txt"
   },
   "piper": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/piper/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/piper/2026-10-26.txt"
   },
   "resemble": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/resemble/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/resemble/2026-10-26.txt"
   },
   "speechify": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/speechify/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/speechify/2026-10-26.txt"
   },
   "notion-ai": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/notion-ai/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/notion-ai/2026-10-26.txt"
   },
   "obsidian": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/obsidian/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/obsidian/2026-10-26.txt"
   },
   "appflowy": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/appflowy/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/appflowy/2026-10-26.txt"
   },
   "affine": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/affine/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/affine/2026-10-26.txt"
   },
   "mem": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/mem/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/mem/2026-10-26.txt"
   },
   "clickup-brain": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/clickup-brain/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/clickup-brain/2026-10-26.txt"
   },
   "coda": {
    "verified": true,
@@ -268,33 +268,33 @@
   },
   "jasper": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/jasper/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/jasper/2026-10-26.txt"
   },
   "copy-ai": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/copy-ai/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/copy-ai/2026-10-26.txt"
   },
   "writesonic": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/writesonic/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/writesonic/2026-10-26.txt"
   },
   "rytr": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/rytr/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/rytr/2026-10-26.txt"
   },
   "writer": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/writer/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/writer/2026-10-26.txt"
   },
   "grammarly": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/grammarly/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/grammarly/2026-10-26.txt",
    "inCheckedAt": "2026-10-22",
    "inSnapshot": "data/snapshots/grammarly/2026-10-22.in.txt"
   },
@@ -315,23 +315,23 @@
   },
   "hemingway": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/hemingway/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/hemingway/2026-10-26.txt"
   },
   "wordtune": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/wordtune/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/wordtune/2026-10-26.txt"
   },
   "zapier": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/zapier/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/zapier/2026-10-26.txt"
   },
   "n8n": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/n8n/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/n8n/2026-10-26.txt"
   },
   "make": {
    "verified": false,
@@ -339,23 +339,23 @@
   },
   "activepieces": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/activepieces/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/activepieces/2026-10-26.txt"
   },
   "pipedream": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/pipedream/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/pipedream/2026-10-26.txt"
   },
   "windmill": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/windmill/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/windmill/2026-10-26.txt"
   },
   "huginn": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/huginn/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/huginn/2026-10-26.txt"
   },
   "dify": {
    "verified": false,
@@ -363,37 +363,37 @@
   },
   "flowise": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/flowise/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/flowise/2026-10-26.txt"
   },
   "canva": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/canva/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/canva/2026-10-26.txt",
    "inCheckedAt": "2026-10-22",
    "inSnapshot": "data/snapshots/canva/2026-10-22.in.txt"
   },
   "adobe-express": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/adobe-express/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/adobe-express/2026-10-26.txt",
    "inCheckedAt": "2026-10-22",
    "inSnapshot": "data/snapshots/adobe-express/2026-10-22.in.txt"
   },
   "figma": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/figma/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/figma/2026-10-26.txt"
   },
   "penpot": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/penpot/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/penpot/2026-10-26.txt"
   },
   "microsoft-designer": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/microsoft-designer/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/microsoft-designer/2026-10-26.txt"
   },
   "kittl": {
    "verified": true,
@@ -402,53 +402,53 @@
   },
   "visme": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/visme/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/visme/2026-10-26.txt"
   },
   "synthesia": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/synthesia/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/synthesia/2026-10-26.txt"
   },
   "heygen": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/heygen/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/heygen/2026-10-26.txt"
   },
   "colossyan": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/colossyan/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/colossyan/2026-10-26.txt"
   },
   "d-id": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/d-id/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/d-id/2026-10-26.txt"
   },
   "elai": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/elai/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/elai/2026-10-26.txt"
   },
   "runway": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/runway/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/runway/2026-10-26.txt"
   },
   "pika": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/pika/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/pika/2026-10-26.txt"
   },
   "luma": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/luma/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/luma/2026-10-26.txt"
   },
   "kling": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/kling/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/kling/2026-10-26.txt"
   },
   "invideo": {
    "verified": true,
@@ -457,18 +457,18 @@
   },
   "otter": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/otter/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/otter/2026-10-26.txt"
   },
   "fireflies": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/fireflies/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/fireflies/2026-10-26.txt"
   },
   "fathom": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/fathom/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/fathom/2026-10-26.txt"
   },
   "tldv": {
    "verified": true,
@@ -477,28 +477,28 @@
   },
   "granola": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/granola/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/granola/2026-10-26.txt"
   },
   "read-ai": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/read-ai/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/read-ai/2026-10-26.txt"
   },
   "whisper": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/whisper/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/whisper/2026-10-26.txt"
   },
   "descript": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/descript/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/descript/2026-10-26.txt"
   },
   "riverside": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/riverside/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/riverside/2026-10-26.txt"
   },
   "capcut": {
    "verified": false,
@@ -506,8 +506,8 @@
   },
   "opus-clip": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/opus-clip/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/opus-clip/2026-10-26.txt"
   },
   "veed": {
    "verified": true,
@@ -516,8 +516,8 @@
   },
   "kdenlive": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/kdenlive/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/kdenlive/2026-10-26.txt"
   },
   "gamma": {
    "verified": true,
@@ -526,8 +526,8 @@
   },
   "beautiful-ai": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/beautiful-ai/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/beautiful-ai/2026-10-26.txt"
   },
   "pitch": {
    "verified": true,
@@ -536,23 +536,23 @@
   },
   "plus-ai": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/plus-ai/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/plus-ai/2026-10-26.txt"
   },
   "presenton": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/presenton/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/presenton/2026-10-26.txt"
   },
   "suno": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/suno/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/suno/2026-10-26.txt"
   },
   "udio": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/udio/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/udio/2026-10-26.txt"
   },
   "soundraw": {
    "verified": true,
@@ -561,8 +561,8 @@
   },
   "aiva": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/aiva/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/aiva/2026-10-26.txt"
   },
   "mubert": {
    "verified": true,
@@ -571,18 +571,18 @@
   },
   "audiocraft": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/audiocraft/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/audiocraft/2026-10-26.txt"
   },
   "character-ai": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/character-ai/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/character-ai/2026-10-26.txt"
   },
   "sillytavern": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/sillytavern/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/sillytavern/2026-10-26.txt"
   },
   "replika": {
    "verified": false,
@@ -594,8 +594,8 @@
   },
   "nomi": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/nomi/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/nomi/2026-10-26.txt"
   },
   "talkie": {
    "verified": false,
@@ -603,82 +603,82 @@
   },
   "microsoft-excel": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/microsoft-excel/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/microsoft-excel/2026-10-26.txt"
   },
   "google-sheets": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/google-sheets/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/google-sheets/2026-10-26.txt",
    "inCheckedAt": "2026-10-22",
    "inSnapshot": "data/snapshots/google-sheets/2026-10-22.in.txt"
   },
   "rows": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/rows/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/rows/2026-10-26.txt"
   },
   "airtable": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/airtable/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/airtable/2026-10-26.txt"
   },
   "julius": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/julius/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/julius/2026-10-26.txt"
   },
   "nocodb": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/nocodb/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/nocodb/2026-10-26.txt"
   },
   "adobe-photoshop": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/adobe-photoshop/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/adobe-photoshop/2026-10-26.txt",
    "inCheckedAt": "2026-10-22",
    "inSnapshot": "data/snapshots/adobe-photoshop/2026-10-22.in.txt"
   },
   "photopea": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/photopea/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/photopea/2026-10-26.txt"
   },
   "gimp": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/gimp/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/gimp/2026-10-26.txt"
   },
   "pixlr": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/pixlr/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/pixlr/2026-10-26.txt"
   },
   "krita": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/krita/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/krita/2026-10-26.txt"
   },
   "zendesk": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/zendesk/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/zendesk/2026-10-26.txt"
   },
   "intercom-fin": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/intercom-fin/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/intercom-fin/2026-10-26.txt"
   },
   "freshdesk": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/freshdesk/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/freshdesk/2026-10-26.txt"
   },
   "chatwoot": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/chatwoot/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/chatwoot/2026-10-26.txt"
   },
   "gorgias": {
    "verified": false,
@@ -686,8 +686,8 @@
   },
   "tidio": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/tidio/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/tidio/2026-10-26.txt"
   },
   "shopify-magic": {
    "verified": true,
@@ -696,18 +696,18 @@
   },
   "klaviyo": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/klaviyo/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/klaviyo/2026-10-26.txt"
   },
   "khanmigo": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/khanmigo/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/khanmigo/2026-10-26.txt"
   },
   "magicschool": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/magicschool/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/magicschool/2026-10-26.txt"
   },
   "quizlet": {
    "verified": false,
@@ -715,53 +715,53 @@
   },
   "wolfram-alpha": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/wolfram-alpha/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/wolfram-alpha/2026-10-26.txt"
   },
   "linear": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/linear/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/linear/2026-10-26.txt"
   },
   "productboard": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/productboard/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/productboard/2026-10-26.txt"
   },
   "dovetail": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/dovetail/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/dovetail/2026-10-26.txt"
   },
   "miro": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/miro/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/miro/2026-10-26.txt"
   },
   "codex": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/codex/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/codex/2026-10-26.txt"
   },
   "gemini-cli": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/gemini-cli/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/gemini-cli/2026-10-26.txt"
   },
   "opencode": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/opencode/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/opencode/2026-10-26.txt"
   },
   "openhands": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/openhands/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/openhands/2026-10-26.txt"
   },
   "devin": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/devin/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/devin/2026-10-26.txt"
   },
   "manus": {
    "verified": false,
@@ -769,59 +769,59 @@
   },
   "loom": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/loom/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/loom/2026-10-26.txt"
   },
   "cap": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/cap/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/cap/2026-10-26.txt"
   },
   "tella": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/tella/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/tella/2026-10-26.txt"
   },
   "krea": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/krea/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/krea/2026-10-26.txt"
   },
   "logseq": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/logseq/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/logseq/2026-10-26.txt"
   },
   "framer": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/framer/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/framer/2026-10-26.txt",
    "inCheckedAt": "2026-10-22",
    "inSnapshot": "data/snapshots/framer/2026-10-22.in.txt"
   },
   "webflow": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/webflow/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/webflow/2026-10-26.txt"
   },
   "microsoft-word": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/microsoft-word/2026-10-22.txt",
-   "inCheckedAt": "2026-10-22",
-   "inSnapshot": "data/snapshots/microsoft-word/2026-10-22.in.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/microsoft-word/2026-10-26.txt",
+   "inCheckedAt": "2026-10-26",
+   "inSnapshot": "data/snapshots/microsoft-word/2026-10-26.in.txt"
   },
   "microsoft-powerpoint": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/microsoft-powerpoint/2026-10-22.txt",
-   "inCheckedAt": "2026-10-22",
-   "inSnapshot": "data/snapshots/microsoft-powerpoint/2026-10-22.in.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/microsoft-powerpoint/2026-10-26.txt",
+   "inCheckedAt": "2026-10-26",
+   "inSnapshot": "data/snapshots/microsoft-powerpoint/2026-10-26.in.txt"
   },
   "google-docs": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/google-docs/2026-10-22.txt",
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/google-docs/2026-10-26.txt",
    "inCheckedAt": "2026-10-22",
    "inSnapshot": "data/snapshots/google-docs/2026-10-22.in.txt"
   },
@@ -831,8 +831,8 @@
   },
   "trello": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/trello/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/trello/2026-10-26.txt"
   },
   "brevo": {
    "verified": true,
@@ -841,108 +841,108 @@
   },
   "beehiiv": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/beehiiv/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/beehiiv/2026-10-26.txt"
   },
   "listmonk": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/listmonk/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/listmonk/2026-10-26.txt"
   },
   "mautic": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/mautic/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/mautic/2026-10-26.txt"
   },
   "plane": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/plane/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/plane/2026-10-26.txt"
   },
   "voicestudio": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/voicestudio/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/voicestudio/2026-10-26.txt"
   },
   "voicebox": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/voicebox/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/voicebox/2026-10-26.txt"
   },
   "photocraft": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/photocraft/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/photocraft/2026-10-26.txt"
   },
   "compositor": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/compositor/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/compositor/2026-10-26.txt"
   },
   "concat": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/concat/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/concat/2026-10-26.txt"
   },
   "filmcraft": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/filmcraft/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/filmcraft/2026-10-26.txt"
   },
   "instatic": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/instatic/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/instatic/2026-10-26.txt"
   },
   "mailcheap": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/mailcheap/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/mailcheap/2026-10-26.txt"
   },
   "edgeever": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/edgeever/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/edgeever/2026-10-26.txt"
   },
   "itsaplan": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/itsaplan/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/itsaplan/2026-10-26.txt"
   },
   "genoffice": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/genoffice/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/genoffice/2026-10-26.txt"
   },
   "wordcraft": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/wordcraft/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/wordcraft/2026-10-26.txt"
   },
   "open-codesign": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/open-codesign/2026-10-22.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/open-codesign/2026-10-26.txt"
   },
   "anythingllm": {
    "verified": true,
-   "checkedAt": "2026-10-23",
-   "snapshot": "data/snapshots/anythingllm/2026-10-23.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/anythingllm/2026-10-26.txt"
   },
   "localai": {
    "verified": true,
-   "checkedAt": "2026-10-23",
-   "snapshot": "data/snapshots/localai/2026-10-23.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/localai/2026-10-26.txt"
   },
   "llama-cpp": {
    "verified": true,
-   "checkedAt": "2026-10-23",
-   "snapshot": "data/snapshots/llama-cpp/2026-10-23.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/llama-cpp/2026-10-26.txt"
   },
   "msty": {
    "verified": true,
-   "checkedAt": "2026-10-23",
-   "snapshot": "data/snapshots/msty/2026-10-23.txt"
+   "checkedAt": "2026-10-26",
+   "snapshot": "data/snapshots/msty/2026-10-26.txt"
   }
  },
  "dead": [],

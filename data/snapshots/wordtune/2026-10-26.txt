@@ -1,0 +1,228 @@
+#SNAPSHOT {"url":"https://www.wordtune.com/plans","finalUrl":"https://www.wordtune.com/plans","fetchedAt":"2026-10-26T03:40:31.567Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"bf3737c7b5b6844fcb19083c580446ca933dc8e6f94e16ab5234ea23b839e69b"}
+Wordtune Pricing and Plans | Choose Your Plan 
+ Features
+ Paraphrase
+ Paraphrase articles, essays, emails and more in one click.
+ Rewrite
+ Instantly paraphrase emails, articles, messages and more.
+ Read and Summarize
+ Maximize your efficiency by summarizing any text or video.
+ AI writing
+ Use AI to produce original, context-based copy.
+ Grammar checker
+ Instantly improve your grammar and correct your spelling.
+ Humanize AI
+ Humanize AI content effortlessly.
+ Plans & pricing
+ Learn
+ Blog
+ Help center
+ FAQ
+ Sign in
+ Get started
+ Get started
+ Go beyond the boundaries of your English
+ Elevate your English 
+to new heights
+ Monthly
+ (-50%)
+ Annually
+ Basic
+ For those looking to fix spelling and grammatical errors — for limited use only.
+ $0.00 
+ Current Plan
+ See all features
+ Limited daily use:
+ 10 Rewrites & AI suggestions 
+ AI generations 
+ Limited monthly use:
+ 3 AI summarizations 
+ Unlimited:
+ Spelling corrections 
+ Grammar checks 
+ Advanced
+ For those looking to perfect their writing — for limited daily use.
+ $6.99 
+ $4.89 
+ per month /  billed annually
+ Start 3-day free trial
+ See all features
+ Limited daily use:
+ 30 Rewrites & AI suggestions 
+ Limited monthly use:
+ 15 AI summarizations 
+ Unlimited:
+ AI recommendations 
+ Spelling corrections 
+ Grammar checks 
+ Unlimited
+ For those looking to write confidently — anywhere, anytime.
+ -50%
+ $9.99 
+ $6.99 
+ per month /  billed annually
+ RECOMMENDED
+ Start 3-day free trial
+ See all features
+ Unlimited :
+ Rewrites & AI suggestions 
+ AI summarizations 
+ Spelling corrections 
+ Grammar checks 
+ Vocabulary enhancements
+ Clarity improvements
+ Fluency increases
+ Premium support
+ You’re in good company
+ Rewrites & AI suggestions
+ AI Summaries
+ Spelling corrections
+ Grammar checks
+ AI recommendations
+ Vocabulary enhancements
+ Fluency improvements
+ Premium Support
+ Business support
+ SAML SSO
+ Centralized billing
+ Basic
+ $0.00
+ Current plan
+ 10 per day
+ 3 per month
+ Unlimited
+ —
+ —
+ —
+ —
+ —
+ —
+ —
+ Advanced
+ $6.99 
+ $4.89
+ / month
+ Start 3-day free trial
+ 30 per day
+ 15 per month
+ Unlimited
+ Unlimited
+ —
+ —
+ —
+ —
+ —
+ —
+ Unlimited
+ $9.99 
+ $6.99
+ / month
+ RECOMMENDED
+ Start 3-day free trial
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ —
+ —
+ —
+ An AI writing assistant that’s 
+empowering, not overpowering
+ 70%
+ less time
+editing
+ Wordtune has become an essential copywriting assistant for my social media team. As a result, we have saved 70% of the time we would have spent brainstorming and editing captions.  
+ Jonathan Kessler 
+ 15X
+ less time
+writing
+ Wordtune speeds up our entire writing process by 15%. Additionally, it improves the quality of our messages and accurately captures the ‘melody’ of what we want to say in a more fluid language. 
+ Barak Cohen 
+ 30%
+ improved CSAT
+ Wordtune improved my customer satisfaction score (CSAT) by 30%. My goal in support operations is to translate technical language into clear and understandable English — Wordtune helps me achieve just that. 
+ Tomer Ben-Arye 
+ 20%
+ faster task
+completion
+ Wordtune speeds up my writing process by 20% every day, saving me several hours of work. In my experience, Wordtune humanizes my content much better than any other AI tool. 
+ Daniel Somers 
+ 30%
+ less time 
+spent writing
+ Wordtune has reduced my email writing time by 30%. It’s a crucial tool for client-facing interactions and has allowed me to write at scale while maintaining the utmost quality. 
+ Michal Livnat 
+ 25%
+ less time
+researching
+ The summarizing feature speeds up my research process by 25%, helping me discern which articles will be useful to read in full and which articles are irrelevant.  
+ Ariel Sasson 
+ 80%
+ of employees found it enhanced their communication
+ Managers from our client-facing teams, such as product and support, reported that 80% of employees that use Wordtune found that it enhanced their communication. 
+ Ortal Lozowick 
+ FAQ
+ Do you offer refunds? 
+ We do not offer refunds but you can cancel your subscription before the next billing cycle or before your trial ends by navigating to your account page and clicking on “Manage Plan”.
+ What forms of payment do you accept? 
+ We accept all major credit cards, debit cards, Apple Pay, Google Pay and PayPal.
+ How do I contact the support team? 
+ You can contact the support team through the chatbot in the lower right-hand corner of the Help Center
+ or email: help@wordtune.com
+ Do you offer discounts for nonprofits, NGOs or academia? 
+ If you are a student or an educator with a valid .edu email address and are currently enrolled at or working at an academic institution, or at a non-profit, you are eligible for a 30% discount on both our annual and monthly plans. To apply, please contact support
+.
+ How long does the free trial last?
+ The free trial lasts 3 days from the date of purchase.
+ Will I be charged during the free trial period?
+ You&#x27;ll need to enter payment information, but you won&#x27;t be charged until the trial period ends. You can cancel anytime before the trial period ends without any charges.
+ Company 
+ Careers
+ Privacy policy
+ Terms of service
+ FAQ
+ Plans
+ AI21 Labs
+ Learn more 
+ Blog
+ Help center
+ Student discount
+ Features 
+ Paraphrasing tool
+ Rewrite
+ Grammar checker
+ Summarizer
+ AI writing
+ Proofreading tool
+ Get Wordtune 
+ Chrome extension
+ Microsoft Edge extension
+ Wordtune for iOS
+ Wordtune for business
+ Company
+ Careers
+ Privacy policy
+ Terms of service
+ FAQ
+ Plans
+ AI21 Labs
+ Learn more
+ Blog
+ Help center
+ Student discount
+ AI content detector
+ Features
+ Rewrite
+ Grammar checker
+ Summarizer
+ AI writing
+ Proofreading tool
+ Get Wordtune
+ Chrome extension
+ Microsoft Edge extension
+ Wordtune for iOS
+ Wordtune for business
+ All Rights Reserved © AI21 Labs, 2025
+ We use cookies to enhance your browsing experience, analyze site traffic, and personalize content. Some are essential for the website to function, while others help us improve your experience. For more information, please see our updated Privacy Policy
+. 
+ Accept

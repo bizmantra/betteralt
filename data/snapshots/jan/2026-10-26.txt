@@ -1,0 +1,93 @@
+#SNAPSHOT {"url":"https://jan.ai","finalUrl":"https://www.jan.ai/","fetchedAt":"2026-10-26T03:39:17.780Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"71b8a00360d6bf5d2ecd10abd785434f9ca3b1e4e8af6d70cce2ad7934975a4c"}
+Jan - Open-Source ChatGPT Replacement Jan
+ Jan 
+ Jan Desktop
+ Jan Agent
+ Research
+ Docs
+ Company 
+ Blog
+ Careers
+ Download Jan
+ NEW
+ ✨ v0.8.7
+ is now live on GitHub. Check it out!
+ Meet Jan
+ Your personal intelligence. Run any model, your way.
+ Download for Mac
+ 7M + downloads
+ Join community 15k+
+ Over 6 million downloads
+ Jan is built in public
+ We believe AI should be open, and grow 
+ through the people who build and use it
+ GitHub
+ 45K stars
+ Discord
+ 0 online
+ HuggingFace
+ 123 models
+ All the tools you need to make Jan yours
+ 1
+ Models
+ Choose from open models or plug in your favorite online models.
+ ChatGPT
+ OpenAI
+ Claude
+ Anthropic
+ Gemini
+ Google
+ Llama
+ Meta
+ Mistral
+ Mistral AI
+ Qwen
+ Alibaba
+ DeepSeek
+ DeepSeek
+ Gemma
+ Google
+ Kimi
+ Moonshot AI
+ 2
+ Memory Coming Soon
+ Your context carries over, so you don’t repeat yourself. Jan remembers your context and preferences.
+ Joe
+ Designer, Singapore
+ Things Jan keeps in mind
+ •
+ Minimalist UI tasted
+ •
+ Currently on a portfolio refresh
+ •
+ Wants brief, to-the-point answers
+ •
+ Frequent Figma/prototyping questions
+ •
+ Dark-mode sharer
+ •
+ Curious about type trends (Mostly harmless)
+ Ask Jan anything
+ Download for Mac
+ 7M + downloads, Free & Open source
+ Product
+ Jan Desktop
+ Jan Agent
+ Resources
+ Docs
+ Research
+ Blog
+ Changelog
+ Company
+ Careers
+ Connect
+ X
+ Discord
+ GitHub
+ LinkedIn
+ Jan
+ Built with ♡ by Menlo Research
+ © 2026 All rights reserved
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Organization","name":"Jan","url":"https://jan.ai","logo":"https://jan.ai/assets/images/general/og-image.png"}

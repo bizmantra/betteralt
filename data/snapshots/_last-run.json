@@ -1,5 +1,209 @@
 {
- "at": "2026-10-23T09:40:17.701Z",
- "total": 4,
- "failed": []
+ "at": "2026-10-26T03:43:15.789Z",
+ "total": 200,
+ "failed": [
+  {
+   "slug": "gemini",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "chatgpt",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "grok",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "poe",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "adobe-firefly",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "coda",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "grammarly",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "tabnine",
+   "region": "us",
+   "pass": false,
+   "reason": "too short (0 chars, http 0)",
+   "method": "playwright"
+  },
+  {
+   "slug": "languagetool",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "quillbot",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "prowritingaid",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "make",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "canva",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "adobe-express",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "kittl",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "veed",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "tldv",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "capcut",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "gamma",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "replika",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "kindroid",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "google-sheets",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "adobe-photoshop",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "gorgias",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "shopify-magic",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "quizlet",
+   "region": "us",
+   "pass": false,
+   "reason": "too short (128 chars, http 403)",
+   "method": "playwright"
+  },
+  {
+   "slug": "framer",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "google-docs",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "brevo",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  }
+ ]
 }

@@ -1,0 +1,292 @@
+#SNAPSHOT {"url":"https://getartcraft.com/apps/filmcraft","finalUrl":"https://getartcraft.com/apps/filmcraft","fetchedAt":"2026-10-26T03:42:57.885Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"a4d23f92635709923dadd49c7589be0a900706d3605bfd01cb53246978472eea"}
+FilmCraft: Professional video editing, rebuilt from scratch. — ArtCraft 
+ Home
+ Image
+ Video
+ Resources 
+ Download
+ Support
+ Craft Apps
+ Pricing
+ Launch App
+ Open main menu
+ 01
+ /
+FilmCraft
+ Video editor · In development
+ 03
+ Film Craft
+ Professional video editing, rebuilt
+ from scratch.
+ Source and program monitors, a real timeline and every trim mode, in a native editor written in pure Rust — down to its own codecs.
+ Download Launcher
+ Join the Discord
+ View on GitHub
+ macOS · Windows · Linux · Free and open source
+ Share
+ Copy link
+ X
+ Reddit
+ Bluesky
+ LinkedIn
+ Scopes and timeline — Charade (1963) Screenshot
+ 02
+ /
+Highlights
+ Video editor
+ What&#x27;s inside
+.
+ 01
+ A timeline you already know
+ Source and program monitors, three-point editing, every trim mode, and J/K/L dynamic trimming.
+ 02
+ Frame-exact time
+ An integer timebase keeps 23.976 and 29.97 drop-frame exact. No drift, no rounding, no mystery frames.
+ 03
+ Its own codecs
+ No FFmpeg inside. Native H.264, HEVC, ProRes, VP9, AAC and Opus, with bit-exact decoders.
+ 04
+ Color grading
+ Curves, color wheels, HSL secondaries, LUTs, HDR and log workflows, plus scopes to check your work.
+ 05
+ Effects and keyframes
+ About 55 video effects and 30 transitions, keyframes with value and velocity graphs, and a linear-light GPU compositor.
+ 06
+ Broadcast-ready audio
+ EBU R128 loudness meters, a mixer with automation, and native DSP effects.
+ 03
+ /
+Screenshots
+ Captured in FilmCraft
+ Full size 
+ Effect controls — Night of the Living Dead (1968)
+ 02
+ Full size 
+ Keyframes with value and velocity graphs
+ 03
+ Full size 
+ Export with destination presets
+ 04
+ 04
+ /
+Get FilmCraft
+ Free · Open source
+ Option 1 · Recommended
+ Get FilmCraft with the Launcher
+.
+ ArtCraft Launcher installs FilmCraft and every other Crafting App from one place, picks the right build for your computer and keeps them all up to date. Install it once and every update is a click away.
+ Every Crafting App
+ One-click updates
+ Verified downloads
+ ArtCraft Launcher · v 0.5.1
+ Download Launcher
+ About the Launcher 
+ Option 2 · Standalone
+ Just FilmCraft ? Download it standalone
+.
+ These installers add FilmCraft on its own, without the launcher. Come back here for new versions, or install the launcher later and it will find FilmCraft and keep it updated.
+ Platform
+ 01
+ macOS
+ Disk image (Universal)
+ Apple silicon and Intel Macs.
+ Standalone for macOS
+ Other FilmCraft files for macOS
+ Command-line tool (Universal)
+ The headless CLI for scripts and agents.
+ filmcraft-cli-0.9.0-macos-universal.zip
+ Platform
+ 02
+ Windows
+ Installer (64-bit)
+ Most Windows 10 and 11 PCs.
+ Standalone for Windows
+ Other FilmCraft files for Windows
+ Portable (64-bit)
+ Unzip and run, no install.
+ filmcraft-0.9.0-windows-x64-portable.zip
+ Installer (32-bit)
+ Older 32-bit Windows.
+ filmcraft-0.9.0-windows-x86.msi
+ Portable (32-bit)
+ Unzip and run on 32-bit Windows.
+ filmcraft-0.9.0-windows-x86-portable.zip
+ Installer (ARM64)
+ Windows 11 on ARM laptops.
+ filmcraft-0.9.0-windows-arm64.msi
+ Portable (ARM64)
+ Unzip and run on Windows on ARM.
+ filmcraft-0.9.0-windows-arm64-portable.zip
+ Platform
+ 03
+ Linux
+ Flatpak (x86_64)
+ Sandboxed. Install with flatpak install --user.
+ Standalone for Linux
+ Other FilmCraft files for Linux
+ AppImage (x86_64)
+ Any distro. Mark it executable and run.
+ filmcraft-0.9.0-linux-x86_64.AppImage
+ Debian package (x86_64)
+ Debian, Ubuntu and derivatives.
+ filmcraft-0.9.0-linux-x86_64.deb
+ RPM package (x86_64)
+ Fedora, RHEL and openSUSE.
+ filmcraft-0.9.0-linux-x86_64.rpm
+ Tarball (x86_64)
+ Plain binaries to unpack anywhere.
+ filmcraft-0.9.0-linux-x86_64.tar.gz
+ Flatpak (ARM64)
+ Sandboxed, on 64-bit ARM.
+ filmcraft-0.9.0-linux-aarch64.flatpak
+ AppImage (ARM64)
+ Any distro on 64-bit ARM.
+ filmcraft-0.9.0-linux-aarch64.AppImage
+ Debian package (ARM64)
+ Debian, Ubuntu and derivatives on ARM.
+ filmcraft-0.9.0-linux-aarch64.deb
+ RPM package (ARM64)
+ Fedora, RHEL and openSUSE on ARM.
+ filmcraft-0.9.0-linux-aarch64.rpm
+ Tarball (ARM64)
+ Plain binaries for 64-bit ARM.
+ filmcraft-0.9.0-linux-aarch64.tar.gz
+ Release
+ Version 0.9.0
+.
+ Free for every platform above. Questions or feedback? The team is in the ArtCraft Discord.
+ Other downloads
+ FreeBSD (x86_64)
+ Plain binaries for FreeBSD 14.
+ filmcraft-0.9.0-freebsd-x86_64.tar.gz
+ Web build
+ The WebAssembly app, to host yourself.
+ filmcraft-web-0.9.0.zip
+ SHA-256 checksums
+ Verify any download above.
+ SHA256SUMS.txt
+ Release notes on GitHub 
+ All releases 
+ macOS
+ Windows
+ Linux
+ Build from source
+ Run it today
+.
+ Needs Rust 1.95 or newer. New to Rust? Install it with rustup
+, then run:
+ Terminal Copy
+ git clone https://github.com/storytold/filmcraft.git
+cd filmcraft
+cargo run --release -p filmcraft View source on GitHub
+ 05
+ /
+The family
+ Crafting Apps
+ More from the family
+.
+ All Crafting Apps 
+ 01
+ Image editor
+ Photo Craft
+ The open-source image editor you already know how to use.
+ Explore PhotoCraft 
+ 02
+ Vector illustration
+ Vector Craft
+ Fast, open-source vector illustration, reimagined in pure Rust.
+ Explore VectorCraft 
+ 04
+ Photo library & raw developer
+ Light Craft
+ An open-source photo library and raw developer that runs on your machine.
+ Explore LightCraft 
+ 05
+ PDF workbench
+ Pdf Craft
+ The open-source PDF workbench: read, organize, combine, split and secure.
+ Explore PdfCraft 
+ 06
+ Motion graphics & VFX
+ Effect Craft
+ Open-source motion graphics and visual effects, built in pure Rust.
+ Explore EffectCraft 
+ 07
+ Page layout & publishing
+ Design Craft
+ Open-source page layout and publishing, rebuilt in pure Rust.
+ Explore DesignCraft 
+ 08
+ Interface design
+ Fig Craft
+ Open-source interface design and prototyping, rebuilt in pure Rust.
+ Explore FigCraft 
+ 09
+ Word processing
+ Word Craft
+ Fast, open-source word processing, rebuilt in pure Rust.
+ Explore WordCraft 
+ 10
+ Digital audio workstation
+ Sound Craft
+ Professional audio recording, editing and mixing in pure Rust.
+ Explore SoundCraft 
+ 11
+ Presentations & slide shows
+ Deck Craft
+ Build and deliver dynamic slide presentations, in pure Rust.
+ Explore DeckCraft 
+ 12
+ Computer-aided design & drafting
+ CAD Craft
+ Fast, open-source computer-aided design and drafting in pure Rust.
+ Explore CADCraft 
+ 13
+ Spreadsheets & data analysis
+ Grid Craft
+ Fast, open-source spreadsheets and data analysis, rebuilt in pure Rust.
+ Explore GridCraft 
+ Open source · Free
+ Help shape Film Craft
+.
+ Report bugs, request features and get early builds of FilmCraft in the ArtCraft Discord.
+ Join the Discord
+ The open-source studio for controllable AI image and video.
+ hello@storyteller.ai
+ Product
+ Download
+ Pricing
+ Launch App
+ Craft Apps
+ All Craft Apps
+ PhotoCraft
+ VectorCraft
+ FilmCraft
+ LightCraft
+ PdfCraft
+ EffectCraft
+ DesignCraft
+ FigCraft
+ WordCraft
+ SoundCraft
+ DeckCraft
+ CADCraft
+ GridCraft
+ Resources
+ Tutorials
+ News
+ FAQ
+ Press Kit
+ Support
+ Community
+ Discord
+ GitHub
+ YouTube
+ Instagram
+ TikTok
+ © 2026 ArtCraft
+ Made by artists, for artists
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"ArtCraft","applicationCategory":"DesignApplication","operatingSystem":"macOS, Windows, Web","description":"Open-source desktop app for generating AI video and images — built for artists who want real control.","url":"https://getartcraft.com","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"ArtCraft","url":"https://getartcraft.com"}}
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"FilmCraft","applicationCategory":"MultimediaApplication","operatingSystem":"macOS, Windows, Linux","description":"Source and program monitors, a real timeline and every trim mode, in a native editor written in pure Rust — down to its own codecs.","url":"https://getartcraft.com/apps/filmcraft","image":"https://getartcraft.com/images/apps/filmcraft/og.jpg","thumbnailUrl":"https://getartcraft.com/images/apps/filmcraft/icon.webp","screenshot":["https://getartcraft.com/images/apps/filmcraft/color.webp","https://getartcraft.com/images/apps/filmcraft/hero.webp","https://getartcraft.com/images/apps/filmcraft/keyframes.webp","https://getartcraft.com/images/apps/filmcraft/export.webp"],"sameAs":"https://github.com/storytold/filmcraft","softwareVersion":"0.9.0","downloadUrl":"https://github.com/storytold/filmcraft/releases/tag/v0.9.0","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"ArtCraft","url":"https://getartcraft.com"}}
