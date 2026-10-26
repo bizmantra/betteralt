@@ -7,7 +7,7 @@ import { getTool, fmtDate } from "@/lib/data";
 import { groupItems } from "@/lib/picks";
 import { teachers as p, lastmodTeachers, type Sourced } from "@/lib/batch1";
 
-export const metadata: Metadata = { ...buildMetadata({ title: p.title, description: p.description, path: p.path, type: "article" }), title: { absolute: p.title } };
+export const metadata: Metadata = { ...buildMetadata({ title: p.title, description: p.description, path: p.path, type: "article" }), title: { absolute: p.title }, robots: { index: false, follow: true } };
 const host = (u: string) => new URL(u).hostname.replace(/^www\./, "");
 const VENDOR_LABEL = "MagicSchool's own claim (vendor case study, not tested by FindBetterAlt)";
 function Src({ s }: { s: Sourced }) { return <a className="text-sm underline" href={s.sourceUrl} target="_blank" rel="nofollow noopener">({host(s.sourceUrl)})</a>; }

@@ -1,13 +1,13 @@
 import type { MetadataRoute } from "next";
 import { SITE, tools, stacks } from "@/lib/data";
-import { lastmodLocal, lastmodFree, lastmodTeachers } from "@/lib/batch1";
+import { lastmodLocal, lastmodFree } from "@/lib/batch1";
 import { indexableAnchors, indexableSaas, variants, lastmodAnchor, lastmodVariant, lastmodTool, lastmodSaas, lastmodStack, lastmodHome, lastmodOpenSource, lastmodChanges, lastmodStacks, STATIC_LASTMOD } from "@/lib/seo";
 // lastModified = real change dates from the data (spec §4), never the build time.
 export default function sitemap(): MetadataRoute.Sitemap {
   const u = (p: string, d: string) => ({ url: SITE + p, lastModified: d });
   return [
     u("", lastmodHome()), u("/open-source", lastmodOpenSource()), u("/stacks", lastmodStacks()), u("/changes", lastmodChanges()),
-    u("/categories/local-ai", lastmodLocal()), u("/free-ai-tools", lastmodFree()), u("/teachers/ai-lesson-plan-generator", lastmodTeachers()),
+    u("/categories/local-ai", lastmodLocal()), u("/free-ai-tools", lastmodFree()),
     ...Object.entries(STATIC_LASTMOD).map(([p, d]) => u(p, d)),
     ...indexableAnchors().map((a) => u(`/alternatives/${a.slug}`, lastmodAnchor(a.slug))),
     ...variants().ok.map((v) => u(`/alternatives/${v.tool}/${v.filter}`, lastmodVariant(v.tool, v.filter))),
