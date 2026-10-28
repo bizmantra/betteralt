@@ -1,0 +1,189 @@
+#SNAPSHOT {"url":"https://openseo.so/pricing","finalUrl":"https://openseo.so/pricing","fetchedAt":"2026-10-28T04:41:34.332Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"327dd0e7481a84f04d0297864af91ee1d073c7b1ab3e74de447d6a0cef90d638"}
+Pricing - OpenSEO Support our new OSS project, EveryApp.
+ Give it a star
+ →
+ OpenSEO
+ Features
+ Features
+ Keyword workflows
+ Keyword Research
+ Find keyword ideas and SERPs.
+ Saved Keywords
+ Organize SEO opportunities.
+ Rank Tracking
+ Monitor keyword positions.
+ Domain research
+ Domain Overview
+ Analyze competitor visibility.
+ Backlinks
+ Check links and referring domains.
+ Site Audit
+ Audit page-level SEO signals.
+ AI visibility
+ AI Visibility
+ Research prompts and track mentions and citations.
+ Prompt Explorer
+ Compare answers across supported models.
+ AI agents
+ OpenSEO MCP
+ Connect Claude, Codex, and agents.
+ Search Console MCP
+ Search Console data for agents.
+ View all features →
+ Resources
+ Resources
+ MCP
+ Connect OpenSEO to AI clients.
+ Skills
+ Focused OpenSEO workflows.
+ Strategy Library
+ Practical SEO strategies grouped by topic.
+ Blog
+ SEO articles and guides.
+ Docs
+ Setup, MCP, skills, and self-hosting guides.
+ Pricing
+ 25.4k
+ Sign in ↗
+ Pricing
+ Starts at $10/month
+ Other SEO tools are too expensive. OpenSEO grows with you.
+ Base
+ For your own website.
+ $ 10 /mo
+ Includes $ 10 of usage every month
+ Get started →
+ Try for free
+ Included:
+Keyword research, backlinks, rank tracking, and site audits
+ Included:
+AI visibility, prompt research, and tracking
+ Included:
+Works inside Claude, Cursor, and ChatGPT
+ Included:
+Free Google Search Console data
+ Included:
+Pay as you go for extra usage
+ Pro
+ For freelancers and growing teams.
+ $ 30 /mo
+ Includes $ 36 of usage every month
+ Get started →
+ Included:
+Everything in Base
+ Included:
+20% more usage than you pay for
+ Included:
+Priority email support
+ Included:
+Pay as you go for extra usage
+ Agency
+ For agencies with many clients.
+ $ 200 /mo
+ Includes $ 240 of usage every month
+ Get started →
+ Included:
+Everything in Pro
+ Included:
+20% more usage than you pay for
+ Included:
+Dedicated Slack Connect channel
+ Included:
+AI enablement: hands-on help setting up agents and workflows for your team
+ Included:
+Pay as you go for extra usage
+ Questions first? Book a call
+ How usage-based pricing works
+ Every plan includes a monthly amount of usage. Usage pays for new SEO data you look up: keyword research, backlinks, rank checks, site audits, and AI visibility checks. Each action costs what the data costs us plus a flat 28 %, rounded up to the nearest tenth of a cent, so a keyword search is about $0.05 and a rank check is a fraction of a cent.
+ Your projects, saved results, exports, and Google Search Console data never use any. When you need more than your plan includes, buy extra usage or turn on auto-reload up to a monthly limit you set. Extra usage never expires.
+ Estimate your monthly usage
+ My own business
+ Freelancer / agency
+ Keyword searches / month 100
+ About $0.05 per search at typical result limits.
+ Backlink checks / month 20
+ About $0.08 for a domain overview with one year of history.
+ AI prompt checks / month 0
+ One prompt on one AI platform. About $0.002 per check.
+ Keywords tracked per site 50
+ Rank tracking frequency Weekly
+ Your estimated bill
+ $10 /mo
+$7.52 of estimated usage fits inside the $ 10 already included.
+ Where it goes
+ Keyword research 100 searches this month
+ $5.40 
+ Backlink checks 20 checks this month
+ $1.58 
+ AI prompt tracking 0 checks this month
+ $0.00 
+ Rank tracking 217 checks this month
+ $0.54 
+ For comparison: Ahrefs Lite
+ is $129 /mo
+.
+ FAQ
+ Is there a free trial? Yes. The free trial includes $0.50 of credits so you can test OpenSEO before subscribing. 
+ What if I use all my credits for the month? Buy top-up credits at any time, or turn on auto-reload so OpenSEO buys them for you when you run low, up to a monthly limit you set. 
+ What features use credits? Keyword research, backlinks, competitor data, site audits, rank tracking, and AI visibility research and tracking use credits. Your projects, settings, and any data already fetched don&#x27;t cost credits. 
+ Do unused credits roll over? Top-up credits roll over indefinitely. The Usage Credits included with your plan reset each billing cycle. 
+ Can I cancel anytime? Yes. Cancel from your billing portal at any time. Your access continues through the end of the current billing period. 
+ Do I need a subscription or just usage credits? While top-up Usage Credits roll over and don&#x27;t expire, you need an active subscription in order to use OpenSEO. 
+ Stay in the loop
+ Product updates, new features, and the occasional behind-the-scenes.
+ Email address Subscribe
+ OpenSEO
+ Part of EveryApp
+ Features
+ Keyword Research
+ Saved Keywords
+ Rank Tracking
+ Domain Overview
+ Backlinks
+ Site Audit
+ AI Visibility
+ Prompt Explorer
+ All features
+ AI agents
+ OpenSEO MCP
+ Google Search Console MCP
+ Compare
+ OpenSEO vs DataForSEO
+ Semrush alternative
+ Semrush pricing
+ Ahrefs alternative
+ Ahrefs pricing
+ Resources
+ MCP
+ Skills
+ Strategy Library
+ Why Open Source?
+ Blog
+ Docs
+ Free Tools
+ Backlink Checker
+ Competitor Keyword Finder
+ Keyword Generator
+ Website Traffic Checker
+ Competitor Analysis
+ Spam Score Checker
+ Domain Age Checker
+ SERP Simulator
+ Google Search Console MCP
+ All free tools
+ Company
+ About
+ Why OpenSEO
+ Support
+ Roadmap
+ Pricing
+ GitHub
+ Discord
+ Privacy
+ Terms
+ Your privacy choices
+ Backed by Y Combinator
+ YouTube
+ X
+ LinkedIn
+ Instagram

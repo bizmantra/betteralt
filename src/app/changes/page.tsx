@@ -1,7 +1,7 @@
 import { buildMetadata, Crumbs } from "@/components/seo";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { tools, vendorChanges, corrections, getTool, fmtDate, site } from "@/lib/data";
+import { tools, vendorChanges, corrections, getTool, fmtDate, site, newToolBatches } from "@/lib/data";
 import { lastmodChanges } from "@/lib/seo";
 import ShareRow from "@/components/ShareRow";
 import { Newsletter } from "@/components/ui";
@@ -23,6 +23,13 @@ export default function Page() {
         <p className="font-mono text-[13px]">{c.old} → <span className="font-semibold">{c.new}</span></p>
         <div className="flex flex-wrap items-center justify-between gap-2 text-[13px] text-ink-2"><span>{fmtDate(c.date)} · <a className="underline" href={c.sourceUrl} target="_blank" rel="nofollow noopener">source</a> · <a className="underline" href={`#${id}`}>permalink</a></span>
           <ShareRow path={`/changes#${id}`} text={`${t?.name ?? c.slug} price change: ${c.old} → ${c.new}`} pageType="changes" slug={id} /></div></li>; })}</ul></section>)}
+    {newToolBatches.length > 0 && <section aria-labelledby="new-h"><h2 id="new-h" className="font-serif text-xl font-semibold">New tools added</h2>
+      <p className="mt-1 text-sm text-ink-2">Tools we added to the catalogue after launch. These are additions to our data, not vendor price changes.</p>
+      <ul className="mt-2 divide-y rounded-xl border-[1.5px] border-ink bg-white">{newToolBatches.map((b) => <li key={b.id} id={b.id} className="scroll-mt-4 space-y-1 p-3 text-sm">
+        <p className="font-semibold">{fmtDate(b.date)}: {b.tools.length} new {b.tools.length === 1 ? "tool" : "tools"}</p>
+        <p>{b.tools.map((t, i) => <span key={t.slug}>{i > 0 && ", "}<Link className="underline" href={`/tools/${t.slug}`}>{t.name}</Link></span>)}</p>
+        <div className="flex flex-wrap items-center justify-between gap-2 text-[13px] text-ink-2"><a className="underline" href={`#${b.id}`}>permalink</a>
+          <ShareRow path={`/changes#${b.id}`} text={`${b.tools.length} new AI tools added ${fmtDate(b.date)}`} pageType="changes" slug={b.id} /></div></li>)}</ul></section>}
     {fixes.length > 0 && <section aria-labelledby="corr-h"><h2 id="corr-h" className="font-serif text-xl font-semibold">Corrections to our data</h2>
       <p className="mt-1 text-sm text-ink-2">These are fixes to prices we had stored wrongly. They are not vendor price changes.</p>
       <ul className="mt-2 divide-y rounded-xl border-[1.5px] border-ink bg-white">{fixes.map((c) => { const t = getTool(c.slug), id = changeId(c); return <li key={id} id={id} className="scroll-mt-4 space-y-1 p-3 text-sm">

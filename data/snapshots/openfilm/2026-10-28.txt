@@ -1,0 +1,83 @@
+#SNAPSHOT {"url":"https://openfilm.dev","finalUrl":"https://openfilm.dev/","fetchedAt":"2026-10-28T04:41:34.497Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"325eb57d824f0086f9cc186ce1808f50f971e5762d62d4091efb265b00558b9d"}
+OpenFilm | The open source AI video agent 
+ OpenFilm
+ Docs
+ Spec
+ Examples
+ English
+ 简体中文
+ 日本語
+ 한국어
+ Español
+ GitHub
+ The open source AI video agent
+ Turns your Codex, Claude Code or any coding agent into a video agent, and gives you an editor to change anything it makes.
+ Skill
+ npx skills add openfilm/openfilm 
+ Skill npx skills add openfilm/openfilm ✓
+ Agent Use npx openfilm to make a video ✓
+ npx npx openfilm ✓
+ npm npm i -g openfilm ✓
+ Star on GitHub
+ Download for Mac
+ Download for Windows
+ Watch video
+ 1:42 
+ What is OpenFilm?
+ A film is a folder of web pages, cut together by one more: film.html. Your agent writes them; you change them by hand.
+ Read docs
+ Open standard One spec for every film, so any video can be copied, remixed and rebuilt.
+ Any agent Claude Code, Codex, Cursor, or anything that runs a command.
+ Edit by hand Click a word, a color or a shot in Studio and change it.
+ Any web tech Every shot is a web page: CSS, SVG, canvas, WebGL.
+ Footage Your clips cut on the beat, with titles, tracking and B-roll.
+ Exact renders Every frame in parallel, up to 4K.
+ Local first Films are folders on your disk; voice, music and images from the services you choose.
+ What can you make?
+ Make a whole film from one sentence, or edit the footage you shot.
+ Make a film
+ Edit your footage
+ 1 / 2
+ Video editing Talks and footage cut into highlights, with captions and motion graphics.
+ Music video Every sung word on screen, cut to the beat.
+ Picture book Illustrated stories that turn their own pages.
+ Explainer A painting, an idea or a product, explained step by step.
+ Commercial Generated footage with exact type and brand.
+ Product film Launch films built from your real product.
+ VFX template The effects people ask for, like a photo mosaic reveal.
+ 2D animation Illustrated scenes, drawn and moved in code.
+ Social ad Vertical ads with three hooks for one product.
+ Education Lessons where the diagram and the numbers move together.
+ Presentation Your slides, turned into a film.
+ + 
+ Yours to create Anything a web page can draw. Make a new kind of film.
+ Cut a talk The ums and slips found and cut, the take kept tight.
+ Pick footage The right three shots, found among hundreds.
+ Captions Transcribed and timed word by word.
+ Color grade Flat log footage, graded to look finished.
+ Motion graphics Titles and shapes that move with the music.
+ Charts Numbers drawn and animated from your data.
+ Voice and music A voice-over and a score, laid in and mixed.
+ Cut to the beat Every cut on the beat of your song.
+ FAQ
+ Something else? Ask on GitHub
+.
+ What is OpenFilm? An open source video agent. Your coding agent writes the film as web pages, using OpenFilm's manual and tools, and you watch and edit it in OpenFilm Studio.
+ How do I use OpenFilm? Add the skill to your coding agent with npx skills add openfilm/openfilm , then ask it for a video. Without skills, ask it to run npx openfilm and make a video; or run npx openfilm open in a folder yourself.
+ Do I need an account? No. Making, editing and rendering films is free and local. For generated voice, music, images and video, your agent uses services you connect with your own keys, such as ElevenLabs, OpenAI, Google or fal.
+ Which agents work with OpenFilm? Any agent that can run a command: Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, OpenCode, Windsurf, Cline, Amp, Devin and more.
+ How much does OpenFilm cost? Nothing. OpenFilm is free. The agent and the media services you use bill you directly, under your own plans and keys.
+ Is OpenFilm open source? Yes, under the MIT license.
+ Built in the open
+ OpenFilm is free and MIT licensed. A star helps more people find it.
+ Star on GitHub
+ OpenFilm
+ Docs
+ Spec
+ GitHub
+ Terms
+ Privacy
+ ©2026 OpenFilm contributors · MIT License
+
+#JSONLD (structured data published on the page, verbatim)
+[{"@context":"https://schema.org","@type":"WebSite","name":"OpenFilm","alternateName":["openfilm","openfilm.dev"],"url":"https://openfilm.dev/"},{"@context":"https://schema.org","@type":"Organization","name":"OpenFilm","url":"https://openfilm.dev/","logo":"https://openfilm.dev/apple-icon.png","sameAs":["https://github.com/openfilm/openfilm","https://github.com/openfilm","https://www.npmjs.com/package/openfilm"]}]

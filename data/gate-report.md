@@ -1,7 +1,7 @@
-# Gate report 2026-10-26T03:47:46.379Z
+# Gate report 2026-10-28T04:43:52.378Z
 
-- tools: 185, verified after gate: 173
-- links: 200 links checked, 0 dead
+- tools: 197, verified after gate: 185
+- links: 212 links checked, 0 dead
 - hard violations: 0
 - soft findings: 0
 

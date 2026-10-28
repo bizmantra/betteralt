@@ -40,6 +40,11 @@ export const changes = ((db as unknown as { changes?: PriceChange[] }).changes ?
 /** Vendor price moves only. Corrections to our own data are never presented as vendor price changes. */
 export const vendorChanges = changes.filter((c) => c.type === "vendor_change");
 export const corrections = changes.filter((c) => c.type === "correction");
+/** New tools added after the launch catalogue (17-18 Oct 2026), grouped by firstPublished date, newest first.
+ *  Derived from tool data only, so /changes, its RSS feed and the tool pages never disagree. */
+export const NEW_TOOLS_SINCE = "2026-10-19";
+export const newToolBatches = [...new Set(tools.map((t) => t.firstPublished).filter((d): d is string => !!d && d >= NEW_TOOLS_SINCE))]
+  .sort((a, b) => b.localeCompare(a)).map((date) => ({ date, id: `new-tools-${date}`, tools: tools.filter((t) => t.firstPublished === date) }));
 export const stacks = db.stacks as unknown as SchemaStack[];
 const bySlug = new Map(tools.map((t) => [t.slug, t]));
 export const getTool = (s: string) => bySlug.get(s);

@@ -1,0 +1,98 @@
+[
+  {
+    "archived": false,
+    "created": "2026-10-14T22:11:20Z",
+    "pushed": "2026-10-28T00:43:15Z",
+    "repo": "https://github.com/FrigadeHQ/hob",
+    "spdx": "MIT",
+    "stars": 278
+  },
+  {
+    "archived": false,
+    "created": "2026-02-27T18:57:41Z",
+    "pushed": "2026-10-26T23:51:52Z",
+    "repo": "https://github.com/every-app/open-seo",
+    "spdx": "MIT",
+    "stars": 25371
+  },
+  {
+    "archived": false,
+    "created": "2026-10-07T05:18:16Z",
+    "pushed": "2026-10-27T21:01:41Z",
+    "repo": "https://github.com/storytold/gridcraft",
+    "spdx": "Apache-2.0",
+    "stars": 6686
+  },
+  {
+    "archived": false,
+    "created": "2026-10-07T05:27:21Z",
+    "pushed": "2026-10-27T21:09:15Z",
+    "repo": "https://github.com/storytold/deckcraft",
+    "spdx": "Apache-2.0",
+    "stars": 4355
+  },
+  {
+    "archived": false,
+    "created": "2026-10-09T16:02:13Z",
+    "pushed": "2026-10-27T21:09:27Z",
+    "repo": "https://github.com/storytold/figcraft",
+    "spdx": "Apache-2.0",
+    "stars": 3646
+  },
+  {
+    "archived": false,
+    "created": "2026-09-30T13:39:37Z",
+    "pushed": "2026-10-28T02:16:40Z",
+    "repo": "https://github.com/storytold/pdfcraft",
+    "spdx": "Apache-2.0",
+    "stars": 18275
+  },
+  {
+    "archived": false,
+    "created": "2026-10-04T09:29:07Z",
+    "pushed": "2026-10-26T23:05:03Z",
+    "repo": "https://github.com/openfilm/openfilm",
+    "spdx": "MIT",
+    "stars": 3216
+  },
+  {
+    "archived": false,
+    "created": "2026-10-03T21:26:15Z",
+    "pushed": "2026-10-27T08:48:14Z",
+    "repo": "https://github.com/AienTech/dossier",
+    "spdx": "AGPL-3.0",
+    "stars": 1618
+  },
+  {
+    "archived": false,
+    "created": "2026-10-08T20:37:51Z",
+    "pushed": "2026-10-26T20:44:04Z",
+    "repo": "https://github.com/ARahim3/DigUp",
+    "spdx": "MIT",
+    "stars": 5933
+  },
+  {
+    "archived": false,
+    "created": "2026-10-16T19:35:33Z",
+    "pushed": "2026-10-28T03:33:08Z",
+    "repo": "https://github.com/amosblomqvist/learnharness",
+    "spdx": "AGPL-3.0",
+    "stars": 3193
+  },
+  {
+    "archived": false,
+    "created": "2026-10-10T00:03:25Z",
+    "pushed": "2026-10-23T09:10:55Z",
+    "repo": "https://github.com/shaongitbd/doory",
+    "spdx": "NOASSERTION",
+    "stars": 1877
+  },
+  {
+    "archived": false,
+    "created": "2026-10-11T00:26:12Z",
+    "pushed": "2026-10-27T21:55:39Z",
+    "repo": "https://github.com/deepfounder-ai/desigma",
+    "spdx": "Apache-2.0",
+    "stars": 818
+  }
+]

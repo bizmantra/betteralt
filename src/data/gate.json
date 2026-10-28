@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-26T03:47:46.379Z",
+ "generatedAt": "2026-10-28T04:43:52.378Z",
  "maxAgeDays": 14,
- "linkCheck": "200 links checked, 0 dead",
+ "linkCheck": "212 links checked, 0 dead",
  "tools": {
   "chatgpt": {
    "verified": true,
@@ -943,6 +943,66 @@
    "verified": true,
    "checkedAt": "2026-10-26",
    "snapshot": "data/snapshots/msty/2026-10-26.txt"
+  },
+  "hob": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/hob/2026-10-28.txt"
+  },
+  "openseo": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/openseo/2026-10-28.txt"
+  },
+  "gridcraft": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/gridcraft/2026-10-28.txt"
+  },
+  "deckcraft": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/deckcraft/2026-10-28.txt"
+  },
+  "figcraft": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/figcraft/2026-10-28.txt"
+  },
+  "pdfcraft": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/pdfcraft/2026-10-28.txt"
+  },
+  "openfilm": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/openfilm/2026-10-28.txt"
+  },
+  "dossier": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/dossier/2026-10-28.txt"
+  },
+  "digup": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/digup/2026-10-28.txt"
+  },
+  "learnharness": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/learnharness/2026-10-28.txt"
+  },
+  "doory": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/doory/2026-10-28.txt"
+  },
+  "desigma": {
+   "verified": true,
+   "checkedAt": "2026-10-28",
+   "snapshot": "data/snapshots/desigma/2026-10-28.txt"
   }
  },
  "dead": [],

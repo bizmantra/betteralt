@@ -6113,6 +6113,462 @@
    "notes": {
     "summary": "Msty Studio is not open source. The free plan covers the desktop app; Aurum adds Studio Web and advanced features."
    }
+  },
+  {
+   "slug": "hob",
+   "name": "Hob",
+   "url": "https://hob.chat",
+   "category": "Local AI",
+   "description": "Free, open-source desktop app that runs AI on your own computer and works with your files: it reads and edits documents and folders, fills out PDFs, draws charts and runs code in a sandbox.",
+   "whoFor": "People who want a private ChatGPT or Claude-style assistant that works offline, with no account",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT); no account, no subscription",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://hob.chat",
+    "lastChecked": "2026-10-28",
+    "currency": null,
+    "lastChangedAt": "2026-10-28"
+   },
+   "openSource": {
+    "repo": "https://github.com/FrigadeHQ/hob",
+    "stars": 278,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-28",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "Runs on Apple silicon Macs, Windows and Linux with at least 8 GB of memory; Hob picks an open-weight model that fits your computer. Web search is the only built-in online feature and can be turned off."
+   }
+  },
+  {
+   "slug": "openseo",
+   "name": "OpenSEO",
+   "url": "https://openseo.so",
+   "category": "SEO",
+   "description": "Open-source SEO platform for keyword research, rank tracking, backlinks, site audits and AI-search visibility, usable from Claude, ChatGPT and other agents over MCP.",
+   "whoFor": "Small businesses, freelancers and agencies who find Semrush or Ahrefs too expensive",
+   "tags": [
+    "open source",
+    "freemium",
+    "self-hostable"
+   ],
+   "pricing": {
+    "fromUsdMonthly": 10,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://openseo.so/pricing",
+    "lastChecked": "2026-10-28",
+    "currency": "USD",
+    "lastChangedAt": "2026-10-28",
+    "fromBilling": "monthly",
+    "summary": "Self-host free (MIT); Base $10/mo; Pro $30/mo; Agency $200/mo (hosted plans, each includes monthly usage credit)"
+   },
+   "openSource": {
+    "repo": "https://github.com/every-app/open-seo",
+    "stars": 25371,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-26",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "Hosted plans are usage-based: each plan includes a monthly amount of data usage and extra usage is pay as you go. Self-hosting runs with Docker or on your own Cloudflare account."
+   }
+  },
+  {
+   "slug": "gridcraft",
+   "name": "GridCraft",
+   "url": "https://getartcraft.com/apps/gridcraft",
+   "category": "Spreadsheets",
+   "description": "Open-source native spreadsheet app written in Rust that reads and writes .xlsx, with a formula bar, 500+ functions, dynamic arrays, PivotTables and charts.",
+   "whoFor": "Excel users who want a free, offline desktop spreadsheet",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://getartcraft.com/apps/gridcraft",
+    "lastChecked": "2026-10-28",
+    "currency": null,
+    "lastChangedAt": "2026-10-28"
+   },
+   "openSource": {
+    "repo": "https://github.com/storytold/gridcraft",
+    "stars": 6686,
+    "license": "Apache-2.0 or MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-27",
+    "setupDifficulty": null,
+    "licenseNote": "Dual-licensed MIT or Apache-2.0, at your option (README; LICENSE-MIT and LICENSE-APACHE)"
+   },
+   "status": "active",
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "Labelled in development on its own page. Every command can be driven by AI agents over an MCP server or CLI. One of the ArtCraft family of apps for macOS, Windows, Linux and the web."
+   }
+  },
+  {
+   "slug": "deckcraft",
+   "name": "DeckCraft",
+   "url": "https://getartcraft.com/apps/deckcraft",
+   "category": "Presentations",
+   "description": "Open-source native presentation app written in Rust, with slide masters, themes, 150+ shapes, transitions, animations and presenter view.",
+   "whoFor": "PowerPoint users who want a free, offline slide editor",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://getartcraft.com/apps/deckcraft",
+    "lastChecked": "2026-10-28",
+    "currency": null,
+    "lastChangedAt": "2026-10-28"
+   },
+   "openSource": {
+    "repo": "https://github.com/storytold/deckcraft",
+    "stars": 4355,
+    "license": "Apache-2.0 or MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-27",
+    "setupDifficulty": null,
+    "licenseNote": "Dual-licensed MIT or Apache-2.0, at your option (README; LICENSE-MIT and LICENSE-APACHE)"
+   },
+   "status": "active",
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "Labelled in development on its own page. One of the ArtCraft family of apps for macOS, Windows, Linux and the web."
+   }
+  },
+  {
+   "slug": "figcraft",
+   "name": "FigCraft",
+   "url": "https://getartcraft.com/apps/figcraft",
+   "category": "Design",
+   "description": "Open-source interface design app written in Rust with frames, auto layout, components and variants, variables, prototypes and live co-editing.",
+   "whoFor": "Designers who want a Figma-style editor that works offline with no account",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://getartcraft.com/apps/figcraft",
+    "lastChecked": "2026-10-28",
+    "currency": null,
+    "lastChangedAt": "2026-10-28"
+   },
+   "openSource": {
+    "repo": "https://github.com/storytold/figcraft",
+    "stars": 3646,
+    "license": "Apache-2.0 or MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-27",
+    "setupDifficulty": null,
+    "licenseNote": "Dual-licensed MIT or Apache-2.0, at your option (README; LICENSE-MIT and LICENSE-APACHE)"
+   },
+   "status": "active",
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "Labelled early alpha on its own page. Live sessions can be hosted from the app or your own server. One of the ArtCraft family of apps."
+   }
+  },
+  {
+   "slug": "pdfcraft",
+   "name": "PdfCraft",
+   "url": "https://getartcraft.com/apps/pdfcraft",
+   "category": "Documents",
+   "description": "Open-source native PDF workbench written in Rust to read, comment on, organize, combine, split and secure PDFs.",
+   "whoFor": "People who want a free desktop PDF editor with no account or cloud",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://getartcraft.com/apps/pdfcraft",
+    "lastChecked": "2026-10-28",
+    "currency": null,
+    "lastChangedAt": "2026-10-28"
+   },
+   "openSource": {
+    "repo": "https://github.com/storytold/pdfcraft",
+    "stars": 18275,
+    "license": "Apache-2.0 or MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-28",
+    "setupDifficulty": null,
+    "licenseNote": "Dual-licensed MIT or Apache-2.0, at your option (README; LICENSE-MIT and LICENSE-APACHE)"
+   },
+   "status": "active",
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "Labelled early alpha on its own page. One of the ArtCraft family of apps for macOS, Windows, Linux and the web."
+   }
+  },
+  {
+   "slug": "openfilm",
+   "name": "OpenFilm",
+   "url": "https://openfilm.dev",
+   "category": "AI video",
+   "description": "Open-source AI video agent: Claude Code, Codex or another coding agent writes the film as web pages, and a local editor lets you change any shot, word or clip by hand.",
+   "whoFor": "Creators and builders who want explainers, product films or edited footage made by an AI agent on their own machine",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://openfilm.dev",
+    "lastChecked": "2026-10-28",
+    "currency": null,
+    "lastChangedAt": "2026-10-28"
+   },
+   "openSource": {
+    "repo": "https://github.com/openfilm/openfilm",
+    "stars": 3216,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-26",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "Needs Node 22.2+ and ffmpeg on macOS, Windows or Linux. Voice, music and images come from services you choose. Renders up to 4K."
+   }
+  },
+  {
+   "slug": "dossier",
+   "name": "Dossier",
+   "url": "https://dossier.aien.me",
+   "category": "AI writing",
+   "description": "Self-hosted job search app that writes a tailored resume and cover letter for each job from the facts in your profile, and tracks every application.",
+   "whoFor": "Job seekers who want AI-written applications without handing their career history to a SaaS",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (AGPL-3.0), self-hosted",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://dossier.aien.me",
+    "lastChecked": "2026-10-28",
+    "currency": null,
+    "lastChangedAt": "2026-10-28"
+   },
+   "openSource": {
+    "repo": "https://github.com/AienTech/dossier",
+    "stars": 1618,
+    "license": "AGPL-3.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-27",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "Runs with Docker on Linux, macOS and Windows. Works with the model you choose, including local Ollama or LM Studio and OpenAI-compatible or Anthropic APIs."
+   }
+  },
+  {
+   "slug": "digup",
+   "name": "DigUp",
+   "url": "https://digup.arahim.dev",
+   "category": "Local AI",
+   "description": "Free, open-source desktop search that finds files by what is in them (photos, PDF pages, moments in recordings and videos) using an embedding model on your own machine.",
+   "whoFor": "People who can never find that one photo, PDF or recording and want private, on-device search",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://digup.arahim.dev",
+    "lastChecked": "2026-10-28",
+    "currency": null,
+    "lastChangedAt": "2026-10-28"
+   },
+   "openSource": {
+    "repo": "https://github.com/ARahim3/DigUp",
+    "stars": 5933,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-26",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "Mac version for Apple silicon (macOS 14 or later); Windows and Linux versions are in beta."
+   }
+  },
+  {
+   "slug": "learnharness",
+   "name": "LearnHarness",
+   "url": "https://learnharness.ai",
+   "category": "Education",
+   "description": "Open-source desktop AI tutor that maps what you already understand, plans a path to your goal and teaches one reasoning step at a time, with adaptive practice.",
+   "whoFor": "Students and self-learners who want an AI tutor that teaches rather than just answers",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (AGPL-3.0); bring your own model API key",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://learnharness.ai",
+    "lastChecked": "2026-10-28",
+    "currency": null,
+    "lastChangedAt": "2026-10-28"
+   },
+   "openSource": {
+    "repo": "https://github.com/amosblomqvist/learnharness",
+    "stars": 3193,
+    "license": "AGPL-3.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-28",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "For macOS, Windows and Linux. You pay your model provider for usage; chats, the knowledge graph and API keys stay on your machine."
+   }
+  },
+  {
+   "slug": "doory",
+   "name": "Doory",
+   "url": "https://doory.art",
+   "category": "Design",
+   "description": "Open-source, browser-based design editor for posters, social posts, slides, invitations, resumes and business cards, with templates, animation and video export.",
+   "whoFor": "Small businesses, teachers and creators who want a Canva-style editor they can self-host for free",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source; no paid plan; self-host with Docker",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://doory.art",
+    "lastChecked": "2026-10-28",
+    "currency": null,
+    "lastChangedAt": "2026-10-28"
+   },
+   "openSource": {
+    "repo": "https://github.com/shaongitbd/doory",
+    "stars": 1877,
+    "license": "AAL",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-23",
+    "setupDifficulty": null,
+    "licenseNote": "Attribution Assurance License (OSI-approved); GitHub reports it as NOASSERTION"
+   },
+   "status": "active",
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "A young project by its own README: the editor is complete but ships with ten starter templates. Exports PNG, JPG, SVG, PDF, MP4 and GIF."
+   }
+  },
+  {
+   "slug": "desigma",
+   "name": "Desigma",
+   "url": "https://github.com/deepfounder-ai/desigma",
+   "category": "Design",
+   "description": "Open-source, local-first interface design app written in Rust with frames, auto layout, components, prototyping, live collaboration, decks and .fig file import.",
+   "whoFor": "Designers who want a free Figma alternative that opens their existing Figma files",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (Apache-2.0)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/deepfounder-ai/desigma",
+    "lastChecked": "2026-10-28",
+    "currency": null,
+    "lastChangedAt": "2026-10-28"
+   },
+   "openSource": {
+    "repo": "https://github.com/deepfounder-ai/desigma",
+    "stars": 818,
+    "license": "Apache-2.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-27",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-10-28",
+   "contentUpdatedAt": "2026-10-28",
+   "notes": {
+    "summary": "Imports from .fig files or the Figma REST API JSON. Dev mode generates CSS, Tailwind, SwiftUI, Jetpack Compose or React code."
+   }
   }
  ],
  "anchors": [
@@ -6128,10 +6584,11 @@
     "open-webui",
     "lm-studio",
     "librechat",
-    "poe"
+    "poe",
+    "hob"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17",
+   "contentUpdatedAt": "2026-10-28",
    "reviewedBy": "rosh-k"
   },
   {
@@ -6144,10 +6601,11 @@
     "deepseek",
     "grok",
     "librechat",
-    "open-webui"
+    "open-webui",
+    "hob"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17",
+   "contentUpdatedAt": "2026-10-28",
    "reviewedBy": "rosh-k"
   },
   {
@@ -6410,10 +6868,11 @@
     "kittl",
     "visme",
     "ideogram",
-    "gamma"
+    "gamma",
+    "doory"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18",
+   "contentUpdatedAt": "2026-10-28",
    "reviewedBy": "rosh-k"
   },
   {
@@ -6757,10 +7216,12 @@
     "canva",
     "v0",
     "adobe-express",
-    "open-codesign"
+    "open-codesign",
+    "figcraft",
+    "desigma"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-21",
+   "contentUpdatedAt": "2026-10-28",
    "reviewedBy": "rosh-k"
   },
   {
@@ -6891,10 +7352,11 @@
     "airtable",
     "julius",
     "nocodb",
-    "genoffice"
+    "genoffice",
+    "gridcraft"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-21",
+   "contentUpdatedAt": "2026-10-28",
    "reviewedBy": "rosh-k"
   },
   {
@@ -6907,11 +7369,12 @@
     "kittl",
     "visme",
     "ideogram",
-    "gamma"
+    "gamma",
+    "doory"
    ],
    "redirectTo": "/alternatives/canva",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17",
+   "contentUpdatedAt": "2026-10-28",
    "reviewedBy": "rosh-k"
   },
   {
@@ -6993,10 +7456,11 @@
     "canva",
     "presenton",
     "genoffice",
-    "open-codesign"
+    "open-codesign",
+    "deckcraft"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-21",
+   "contentUpdatedAt": "2026-10-28",
    "reviewedBy": "rosh-k"
   },
   {

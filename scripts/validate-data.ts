@@ -13,7 +13,7 @@ import type { Tool } from "../src/lib/data";
 
 const ROOT = path.resolve(__dirname, "..");
 const MAX_AGE_DAYS = 14;
-const OSI = new Set(["MIT", "Apache-2.0", "GPL-2.0", "GPL-3.0", "GPL-3.0-or-later", "AGPL-3.0", "LGPL-2.1", "LGPL-3.0", "MPL-2.0", "BSD-2-Clause", "BSD-3-Clause", "ISC", "EPL-2.0", "Unlicense", "Zlib"]);
+const OSI = new Set(["MIT", "Apache-2.0", "GPL-2.0", "GPL-3.0", "GPL-3.0-or-later", "AGPL-3.0", "LGPL-2.1", "LGPL-3.0", "MPL-2.0", "BSD-2-Clause", "BSD-3-Clause", "ISC", "EPL-2.0", "Unlicense", "Zlib", "AAL"]);
 const db = JSON.parse(fs.readFileSync(path.join(ROOT, "src/data/db.json"), "utf8"));
 const allow: Record<string, string[]> = JSON.parse(fs.readFileSync(path.join(ROOT, "data/vendor-domains.json"), "utf8"));
 const now = new Date(); const todayIso = now.toLocaleDateString("en-CA", { timeZone: "Asia/Kolkata" });

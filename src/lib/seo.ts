@@ -1,6 +1,6 @@
 // Single source of truth for which pages are indexable, which 308, and each page's real lastmod.
 // Imported by next.config.ts (redirects), sitemap.ts, generateStaticParams and metadata, so keep imports relative.
-import { anchors, saas, stacks, tools, getTool, altsOf, filtered, FILTERS, MIN, changes, type FilterKey, type Tool } from "./data";
+import { anchors, saas, stacks, tools, getTool, altsOf, filtered, FILTERS, MIN, changes, newToolBatches, type FilterKey, type Tool } from "./data";
 import db from "../data/db.json";
 
 const FKEYS = Object.keys(FILTERS) as FilterKey[];
@@ -56,6 +56,8 @@ export const lastmodStack = (slug: string) => { const s = stacks.find((x) => x.s
 export const STATIC_LASTMOD: Record<string, string> = { "/about": "2026-10-18", "/submit": "2026-10-18", "/sponsor": "2026-10-18", "/privacy": "2026-10-18", "/terms": "2026-10-18", "/newsletter": "2026-10-18" };
 export const lastmodOpenSource = () => maxDate(...tools.filter((t) => t.tags.includes("open source")).map(toolChanged));
 export const lastmodChanges = () => maxDate(...changes.map((c) => c.date));
+/** /changes page lastmod for the sitemap: newest price change or new-tools batch. */
+export const lastmodChangesPage = () => maxDate(lastmodChanges(), ...newToolBatches.map((b) => b.date));
 export const lastmodStacks = () => maxDate(...stacks.map((s) => lastmodStack(s.slug)));
 export const lastmodHome = () => maxDate(...anchors.map((a) => lastmodAnchor(a.slug)));
 export const monthYear = (iso: string) => { const d = new Date(iso + "T00:00:00Z"); return d.toLocaleString("en-US", { month: "short", year: "numeric", timeZone: "UTC" }); };
