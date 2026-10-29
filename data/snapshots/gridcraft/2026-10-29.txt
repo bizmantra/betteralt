@@ -1,0 +1,296 @@
+#SNAPSHOT {"url":"https://getartcraft.com/apps/gridcraft","finalUrl":"https://getartcraft.com/apps/gridcraft","fetchedAt":"2026-10-29T03:42:45.417Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"d2e15273c1cfa6329f19b94a4da0cb7ab2a371f2fd7dc78ae3b8c41fd63747a6"}
+GridCraft: Fast, native spreadsheets, rebuilt in pure Rust. - ArtCraft 
+ Home
+ Image
+ Video
+ Resources 
+ Download
+ Support
+ Craft Apps
+ Pricing
+ Launch App
+ Open main menu
+ 01
+ /
+GridCraft
+ Spreadsheets & data analysis · In development
+ 13
+ Grid Craft
+ Fast, native spreadsheets, rebuilt
+ in pure Rust.
+ Ribbon tabs, formula bar, 500+ calculation functions, dynamic arrays, PivotTables and charts in a native spreadsheet app that reads and writes .xlsx files.
+ Download Launcher
+ Join the Discord
+ View on GitHub
+ macOS · Windows · Linux · Web · Free and open source
+ Share
+ Copy link
+ X
+ Reddit
+ Bluesky
+ LinkedIn
+ Quarterly sales dashboard with charts and sparklines Screenshot
+ 02
+ /
+Highlights
+ Spreadsheets & data analysis
+ What&#x27;s inside
+.
+ 01
+ The spreadsheet workflow
+ Formula bar, Name Box, sheet tabs, fill handle, colored cell references, conditional formatting, and familiar shortcuts.
+ 02
+ Native XLSX compatibility
+ Styles, themes, formulas, dynamic arrays, tables, validation, comments, sparklines and PivotTables round-trip cleanly.
+ 03
+ 500+ calculation functions
+ Full dependency-graph calculation engine with dynamic arrays, spilling, LET, LAMBDA, MAP, REDUCE, and table references.
+ 04
+ Charts & PivotTables
+ Seventeen chart types with customizable formatting, plus PivotTables with filters, field lists, layouts, and date grouping.
+ 05
+ High-performance engine
+ Copy-on-write workbooks with instant undo snapshots, incremental recalculation, and a virtualised grid.
+ 06
+ Agent-native automation
+ Every ribbon button, menu item, and formula can be driven by AI agents over an MCP server, CLI, or JSON control channel.
+ 03
+ /
+Screenshots
+ Captured in GridCraft
+ Full size 
+ Household budget with conditional formatting
+ 02
+ Full size 
+ Formulas and function library
+ 03
+ Full size 
+ PivotTable and field list
+ 04
+ Full size 
+ Chart Design and Format Chart Area pane
+ 05
+ 04
+ /
+Get GridCraft
+ Free · Open source
+ Option 1 · Recommended
+ Get GridCraft with the Launcher
+.
+ ArtCraft Launcher installs GridCraft and every other Crafting App from one place, picks the right build for your computer and keeps them all up to date. Install it once and every update is a click away.
+ Every Crafting App
+ One-click updates
+ Verified downloads
+ ArtCraft Launcher · v 0.8.1
+ Download Launcher
+ About the Launcher 
+ Option 2 · Standalone
+ Just GridCraft ? Download it standalone
+.
+ These installers add GridCraft on its own, without the launcher. Come back here for new versions, or install the launcher later and it will find GridCraft and keep it updated.
+ Platform
+ 01
+ macOS
+ Disk image (Universal)
+ Apple silicon and Intel Macs.
+ Standalone for macOS
+ Other GridCraft files for macOS
+ Command-line tool (Universal)
+ The headless CLI for scripts and agents.
+ gridcraft-cli-0.12.1-macos-universal.zip
+ Platform
+ 02
+ Windows
+ Installer (64-bit)
+ Most Windows 10 and 11 PCs.
+ Standalone for Windows
+ Other GridCraft files for Windows
+ Portable (64-bit)
+ Unzip and run, no install.
+ gridcraft-0.12.1-windows-x64-portable.zip
+ Installer (32-bit)
+ Older 32-bit Windows.
+ gridcraft-0.12.1-windows-x86.msi
+ Portable (32-bit)
+ Unzip and run on 32-bit Windows.
+ gridcraft-0.12.1-windows-x86-portable.zip
+ Installer (ARM64)
+ Windows 11 on ARM laptops.
+ gridcraft-0.12.1-windows-arm64.msi
+ Portable (ARM64)
+ Unzip and run on Windows on ARM.
+ gridcraft-0.12.1-windows-arm64-portable.zip
+ Platform
+ 03
+ Linux
+ Flatpak (x86_64)
+ Sandboxed. Install with flatpak install --user.
+ Standalone for Linux
+ Other GridCraft files for Linux
+ AppImage (x86_64)
+ Any distro. Mark it executable and run.
+ gridcraft-0.12.1-linux-x86_64.AppImage
+ Debian package (x86_64)
+ Debian, Ubuntu and derivatives.
+ gridcraft-0.12.1-linux-x86_64.deb
+ RPM package (x86_64)
+ Fedora, RHEL and openSUSE.
+ gridcraft-0.12.1-linux-x86_64.rpm
+ Tarball (x86_64)
+ Plain binaries to unpack anywhere.
+ gridcraft-0.12.1-linux-x86_64.tar.gz
+ Flatpak (ARM64)
+ Sandboxed, on 64-bit ARM.
+ gridcraft-0.12.1-linux-aarch64.flatpak
+ AppImage (ARM64)
+ Any distro on 64-bit ARM.
+ gridcraft-0.12.1-linux-aarch64.AppImage
+ Debian package (ARM64)
+ Debian, Ubuntu and derivatives on ARM.
+ gridcraft-0.12.1-linux-aarch64.deb
+ RPM package (ARM64)
+ Fedora, RHEL and openSUSE on ARM.
+ gridcraft-0.12.1-linux-aarch64.rpm
+ Tarball (ARM64)
+ Plain binaries for 64-bit ARM.
+ gridcraft-0.12.1-linux-aarch64.tar.gz
+ Release
+ Version 0.12.1
+.
+ Free for every platform above. Questions or feedback? The team is in the ArtCraft Discord.
+ Other downloads
+ FreeBSD (x86_64)
+ Plain binaries for FreeBSD 14.
+ gridcraft-0.12.1-freebsd-x86_64.tar.gz
+ Web build
+ The WebAssembly app, to host yourself.
+ gridcraft-web-0.12.1.zip
+ SHA-256 checksums
+ Verify any download above.
+ SHA256SUMS.txt
+ Release notes on GitHub 
+ All releases 
+ macOS
+ Windows
+ Linux
+ Web
+ Build from source
+ Run it today
+.
+ Needs Rust 1.90 or newer. New to Rust? Install it with rustup
+, then run:
+ Terminal Copy
+ git clone https://github.com/storytold/gridcraft.git
+cd gridcraft
+cargo run --release -p gridcraft View source on GitHub
+ 05
+ /
+The family
+ Crafting Apps
+ More from the family
+.
+ All Crafting Apps 
+ 01
+ Image editor
+ Photo Craft
+ The open-source image editor you already know how to use.
+ Explore PhotoCraft 
+ 02
+ Vector illustration
+ Vector Craft
+ Fast, open-source vector illustration, reimagined in pure Rust.
+ Explore VectorCraft 
+ 03
+ Video editor
+ Film Craft
+ Professional, open-source video editing, rebuilt from scratch in Rust.
+ Explore FilmCraft 
+ 04
+ Photo library & raw developer
+ Light Craft
+ An open-source photo library and raw developer that runs on your machine.
+ Explore LightCraft 
+ 05
+ PDF workbench
+ Pdf Craft
+ The open-source PDF workbench: read, organize, combine, split and secure.
+ Explore PdfCraft 
+ 06
+ Motion graphics & VFX
+ Effect Craft
+ Open-source motion graphics and visual effects, built in pure Rust.
+ Explore EffectCraft 
+ 07
+ Page layout & publishing
+ Design Craft
+ Open-source page layout and publishing, rebuilt in pure Rust.
+ Explore DesignCraft 
+ 08
+ Interface design
+ Fig Craft
+ Open-source interface design and prototyping, rebuilt in pure Rust.
+ Explore FigCraft 
+ 09
+ Word processing
+ Word Craft
+ Fast, open-source word processing, rebuilt in pure Rust.
+ Explore WordCraft 
+ 10
+ Digital audio workstation
+ Sound Craft
+ Professional audio recording, editing and mixing in pure Rust.
+ Explore SoundCraft 
+ 11
+ Presentations & slide shows
+ Deck Craft
+ Build and deliver dynamic slide presentations, in pure Rust.
+ Explore DeckCraft 
+ 12
+ Computer-aided design & drafting
+ CAD Craft
+ Fast, open-source computer-aided design and drafting in pure Rust.
+ Explore CADCraft 
+ Open source · Free
+ Help shape Grid Craft
+.
+ Report bugs, request features and get early builds of GridCraft in the ArtCraft Discord.
+ Join the Discord
+ Open-source tools for artists: the Craft Apps and ArtCraft Studio, our AI image and video app.
+ hello@storyteller.ai
+ ArtCraft Studio
+ Download
+ Pricing
+ Use on web
+ Craft Apps
+ All Craft Apps
+ PhotoCraft
+ VectorCraft
+ FilmCraft
+ LightCraft
+ PdfCraft
+ EffectCraft
+ DesignCraft
+ FigCraft
+ WordCraft
+ SoundCraft
+ DeckCraft
+ CADCraft
+ GridCraft
+ Resources
+ Tutorials
+ News
+ FAQ
+ Press Kit
+ Support
+ Community
+ Discord
+ GitHub
+ YouTube
+ Instagram
+ TikTok
+ © 2026 ArtCraft
+ Made by artists, for artists
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"ArtCraft","applicationCategory":"DesignApplication","operatingSystem":"macOS, Windows, Web","description":"Open-source desktop app for generating AI video and images — built for artists who want real control.","url":"https://getartcraft.com","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"ArtCraft","url":"https://getartcraft.com"}}
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"GridCraft","applicationCategory":"BusinessApplication","operatingSystem":"macOS, Windows, Linux, Web","description":"Ribbon tabs, formula bar, 500+ calculation functions, dynamic arrays, PivotTables and charts in a native spreadsheet app that reads and writes .xlsx files.","url":"https://getartcraft.com/apps/gridcraft","image":"https://getartcraft.com/images/apps/gridcraft/og.jpg","thumbnailUrl":"https://getartcraft.com/images/apps/gridcraft/icon.webp","screenshot":["https://getartcraft.com/images/apps/gridcraft/hero.webp","https://getartcraft.com/images/apps/gridcraft/budget.webp","https://getartcraft.com/images/apps/gridcraft/grades-formulas.webp","https://getartcraft.com/images/apps/gridcraft/pivot.webp","https://getartcraft.com/images/apps/gridcraft/format-chart.webp"],"sameAs":"https://github.com/storytold/gridcraft","softwareVersion":"0.12.1","downloadUrl":"https://github.com/storytold/gridcraft/releases/tag/v0.12.1","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"ArtCraft","url":"https://getartcraft.com"}}

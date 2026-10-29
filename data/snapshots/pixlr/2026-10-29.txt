@@ -1,0 +1,303 @@
+#SNAPSHOT {"url":"https://pixlr.com/pricing/","finalUrl":"https://pixlr.com/pricing/","fetchedAt":"2026-10-29T03:41:49.863Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"a0e46af6400a54e809abd2ecfe64fbd99b4added0ec5fd12e67579beef66cb0c"}
+Photo Editing Tools Pricing and Plans - Pixlr Editor 
+ Products
+ Pixlr Express
+ Pixlr Editor
+ Community
+ Pixlr Agent
+ Features
+ Photo Collage Maker
+ AI Image Generator
+ AI Video Generator
+ AI Audio Generator
+ AI Image Editor
+ AI Face Swap
+ Background Remover
+ More
+ Log in 
+ Start creating now 
+ IMAGE
+ Pixlr Express
+ Pixlr Editor
+ Image Generator
+ Instruct Editor
+ Image Upscaler
+ Image Extender
+ Generative Fill
+ Generative Transform
+ MEDIA
+ Video Generator
+ Audio Generator
+ AI TOOLS
+ Pixlr Agent
+ Background Remover
+ Object Remover
+ Noise Remover
+ Skin Enhancer
+ Colorize
+ Super Sharp
+ Backdrop
+ Sticker Maker
+ OTHERS
+ Face Swap
+ Photo Collage
+ Image Converter
+ PDF To PNG
+ null
+ Pricing
+ Log in
+ By using our site, you acknowledge that you read and understand our Cookie Policy
+.
+ Cookie settings
+ Reject
+ Accept
+ &times;
+ {"premium-monthly":9.99,"premium-yearly":"7.99","plus-monthly":2.49,"plus-yearly":"1.99","ultra-monthly":24.99,"ultra-yearly":"19.99","ultra-max-monthly":49.99,"ultra-max-yearly":"39.99"}
+ We got a plan for you!
+ Pay monthly or yearly. Cancel whenever you feel like it - no fuss and no hoops.
+ Monthly
+ Yearly + Save 20%
+ Plus
+ I just need the basics!
+ $2.49
+ per month
+ $2.49
+ Save 20%
+ $1.99
+ per month
+ Subscribe Now!
+ Ad-Free
+ Unlimited saves
+ 1 concurrent AI generation
+ 80 monthly AI Credits
+ 960 AI Credits valid for the year
+ Credits valid for 1 month
+ All credits valid for 1 year
+ Estimated monthly usage
+ ~80
+ AI images (fast)
+ ~16
+ AI images (pro)
+ ~80
+ AI edits (fast)
+ ~4
+ AI videos (fast)
+ Popular
+ Premium
+ Full access to all the premium features across all platforms with a nice chunk of AI credits.
+ $9.99
+ per month
+ $9.99
+ Save 20%
+ $7.99
+ per month
+ Subscribe Now!
+ Everything in Plus, plus:
+ Access to all image, video & audio models
+ 4 concurrent AI generations
+ 1,000 monthly AI Credits
+ 12,000 AI Credits valid for the year
+ Credits valid for 1 month
+ All credits valid for 1 year
+ Private mode for AI Generations
+ Big library of fonts, templates, elements, animations and more
+ Estimated monthly usage
+ ~1,000
+ AI images (fast)
+ ~200
+ AI images (pro)
+ ~1,000
+ AI edits (fast)
+ ~50
+ AI videos (fast)
+ Most value
+ Ultra
+ Maximum AI power for professionals.
+ From
+ $24.99
+ per month
+ $24.99
+ Save 20%
+ From
+ $19.99
+ per month
+ Subscribe Now!
+ Everything from Premium, plus:
+ Unlimited free "fast" image generations*
+ Access to all image, video & audio models
+ 8 concurrent AI generations
+ Up to 10,000 monthly AI Credits
+ Up to 120,000 AI Credits valid for the year
+ Credits valid for 1 month
+ All credits valid for 1 year
+ Private and Mature content
+ Priority AI generation queue
+ Extended high-res exports
+ Estimated monthly usage
+ Unlimited*
+ AI images (fast)
+ ~5000
+ AI images (pro)
+ ~500
+ AI images (ultra)
+ ~10,000
+ AI edits (pro)
+ ~500
+ AI videos (fast)
+ Make it Ultra MAX
+ $49.99
+ $39.99
+ per month
+ Double the credits with Max, get 10,000 instead of 5,000 monthly!
+ Yes, Ultra MAX it
+ or
+ Ultra regular
+ * Subject to fair use. Availability of AI services is not guaranteed and may vary based on demand and system capacity.
+ Top up
+ AI Credit Pack
+ Top off you account with additional AI-credits to get more out of the Generative tools.
+ Add Credits
+ Frequently Asked
+ Do you have a Question?
+ How do I subscribe? 
+ You can subscribe to Pixlr Plus and Premium either here via the website or in any of our mobile apps on Android and iOS.
+ Where can I use my subscription? 
+ Purchasing any subscription from Pixlr will give you the same access to all platforms, you will be able to enjoy Plus or Premium access on web, desktop and Mobile devices via your Pixlr Account.
+ What are my payment options? 
+ Enter in your Visa or Mastercard credit/debit card information, or choose PayPal. Your receipt will be sent to the email address you used to subscribe to Pixlr. 
+ On mobile apps your payment is processed through your device’s app store account.
+ How come my purchase didn't go through? 
+ Confirm with your bank if they allow international purchases as they may block international and subscription based transaction.
+ How come I am unable to upgrade my plan? 
+ Upgrading plan are only available via credit/debit card purchases, it is not available via Paypal. If you previously purchase using Paypal, kindly email to info@pixlr.com
+ and our team will assist you.
+ Are there other payment methods aside credit card and Paypal 
+ Kindly email to info@pixlr.com
+ and our team can help you with purchases via alternate payment methods.
+ Do you accept Visa/MC cash cards? 
+ Due to the subscription nature, we are unable to accept cash card.
+ How do I cancel my subscription? 
+ You can cancel at any time in your Subscriptions
+ page. Once you cancel you’ll be able to access premium features until your subscription period has ended.
+ What is the refund policy? 
+ Pixlr is unable to process any refunds for your subscription once your payment has been processed. If you subscribed via a mobile app then all subscriptions are managed through your app store - to request a refund you’ll need to contact the store directly.
+ Does my AI-Credits Expire? 
+ There are two types of AI-credits, the once you have while your subscription is active are topped off each time the subscription renews, i.e. if you are on a monthly premium subscription and have 863 credits left on the date of the renewal that will be reset to 1000. If you cancel your subscription the subscription credits will reset to 0. The second type of credits are the Credit Packs, these credits will never expires and are counted separately from the subscription credits. If you have a subscription and bought a credit pack your subscription credits will be used first and when they are gone we will start using credits from the Credit Packs. 
+ Company
+ About Us
+ Pixlr Mobile
+ Pixlr Desktop
+ Help
+ Pricing
+ Contact Us
+ Education
+ Products
+ Pixlr Agent
+ Pixlr Editor
+ Pixlr Express
+ Legal
+ Terms of Use
+ Privacy Policy
+ Cookie Policy
+ License Agreement
+ Cookie settings
+ Pixlr Pte Ltd &copy; 2026.
+
+#JSONLD (structured data published on the page, verbatim)
+{
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        
+            {
+                "@type": "Question",
+                "name": "How do I subscribe?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "You can subscribe to Pixlr Plus and Premium either here via the website or in any of our mobile apps on Android and iOS."
+                }
+            },
+        
+            {
+                "@type": "Question",
+                "name": "Where can I use my subscription?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Purchasing any subscription from Pixlr will give you the same access to all platforms, you will be able to enjoy Plus or Premium access on web, desktop and Mobile devices via your Pixlr Account."
+                }
+            },
+        
+            {
+                "@type": "Question",
+                "name": "What are my payment options?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Enter in your Visa or Mastercard credit/debit card information, or choose PayPal. Your receipt will be sent to the email address you used to subscribe to Pixlr. <br><br> On mobile apps your payment is processed through your device’s app store account."
+                }
+            },
+        
+            {
+                "@type": "Question",
+                "name": "How come my purchase didn't go through?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Confirm with your bank if they allow international purchases as they may block international and subscription based transaction."
+                }
+            },
+        
+            {
+                "@type": "Question",
+                "name": "How come I am unable to upgrade my plan?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Upgrading plan are only available via credit/debit card purchases, it is not available via Paypal. If you previously purchase using Paypal, kindly email to <a href=\"mailto:info@pixlr.com\">info@pixlr.com</a> and our team will assist you."
+                }
+            },
+        
+            {
+                "@type": "Question",
+                "name": "Are there other payment methods aside credit card and Paypal",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Kindly email to <a href=\"mailto:info@pixlr.com\">info@pixlr.com</a> and our team can help you with purchases via alternate payment methods."
+                }
+            },
+        
+            {
+                "@type": "Question",
+                "name": "Do you accept Visa/MC cash cards?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Due to the subscription nature, we are unable to accept cash card."
+                }
+            },
+        
+            {
+                "@type": "Question",
+                "name": "How do I cancel my subscription?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "You can cancel at any time in your <a href='/?settings=subscription'>Subscriptions</a> page. Once you cancel you’ll be able to access premium features until your subscription period has ended."
+                }
+            },
+        
+            {
+                "@type": "Question",
+                "name": "What is the refund policy?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Pixlr is unable to process any refunds for your subscription once your payment has been processed. If you subscribed via a mobile app then all subscriptions are managed through your app store - to request a refund you’ll need to contact the store directly."
+                }
+            },
+        
+            {
+                "@type": "Question",
+                "name": "Does my AI-Credits Expire?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "There are two types of AI-credits, the once you have while your subscription is active are topped off each time the subscription renews, i.e. if you are on a monthly premium subscription and have 863 credits left on the date of the renewal that will be reset to 1000. If you cancel your subscription the subscription credits will reset to 0. The second type of credits are the Credit Packs, these credits will never expires and are counted separately from the subscription credits. If you have a subscription and bought a credit pack your subscription credits will be used first and when they are gone we will start using credits from the Credit Packs. "
+                }
+            }
+        
+        ]
+    }

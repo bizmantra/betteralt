@@ -1,0 +1,274 @@
+#SNAPSHOT {"url":"https://www.microsoft.com/en-in/microsoft-365/powerpoint","finalUrl":"https://www.microsoft.com/en-in/microsoft-365/powerpoint","fetchedAt":"2026-10-29T03:42:38.712Z","method":"playwright","region":"in","currency":"INR","http":200,"sha256":"78e70f18d10866763099291aaf862996e9598365b8583f21e191477d7a331e22"}
+Skip to main content
+Microsoft 365
+PowerPoint
+Plans and pricing
+Resources
+More Microsoft 365
+ME
+Discover what's coming to Microsoft Ignite, Nov 17-20, 2026.
+Register now
+Microsoft PowerPoint
+Create polished slides in minutes using AI-driven design3 and collaboration tools in PowerPoint.
+Open PowerPoint
+See plans and pricing
+Overview
+Key features
+What’s new
+Plans & pricing
+Download the app
+Resources
+FAQ
+Next steps
+See plans and pricing
+OVERVIEW
+Pump up your presentations
+Generate ideas
+Create with confidence
+Evoke engagement
+Share and collaborate
+Edit with Microsoft Copilot
+Describe what you need and Copilot helps make edits directly in your presentation. Review changes and stay in control.
+Try Copilot in PowerPoint
+Expand your ideas
+Use a free template
+Back to tabs
+KEY FEATURES
+Supercharge your presentations
+Copilot in PowerPoint
+Enjoy faster Copilot4 performance, enhanced creative tools, and improved features designed to boost productivity.
+Learn more
+Rehearse with Speaker Coach
+Improve your pacing and pitch to speak more confidently with help from an AI-driven coach.
+Learn more
+Get more with Microsoft 365
+Get the apps, security, and storage you need to accomplish your goals with Microsoft 365.
+Learn more
+WHAT’S NEW
+Make quick updates to your presentations with Copilot in PowerPoint
+Tell Copilot what updates to make to your presentation and it rewrites, reorganizes, and adds slides for you. Review the changes and stay in control.  
+Learn more
+Back to tabs
+PLANS & PRICING
+PowerPoint is better with Microsoft 365
+For individuals
+For business
+Yearly
+Monthly
+Microsoft PowerPoint
+Free
+Sign up for free
+Sign in
+One person
+Sharing and real-time collaboration
+PowerPoint for the web
+Basic spelling and grammar
+Basic templates, fonts, icons, and stickers
+Dictation and voice commands
+5 GB of cloud storage
+Payment Methods
+Microsoft 365 Personal
+₹ 6,899.00
+/year
+Subscription automatically renews unless canceled in Microsoft account. See terms.
+Buy now
+Microsoft 365 Personal includes:
+For 1 person​
+Sign into 5 devices at once
+Use on PCs, Macs, phones, and tablet 
+1 TB of secure cloud storage
+Word, Excel 
+ , PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot 
+Advanced Copilot 
+ chat with higher usage than free
+Use Copilot in select apps with work files in a secure way 
+Higher usage than free for AI image creation in Copilot 
+Data and device security
+All-day video calling and Copilot 
+ in Teams
+Microsoft 365 Family
+₹ 8,199.00
+/year
+Subscription automatically renews unless canceled in Microsoft account. See terms.
+Buy now
+Everything in Microsoft 365 Personal, plus:
+For 1 to 6 people (AI for subscription owner only)
+Each person can use on up to 5 devices simultaneously
+2 TB of shared, secure cloud storage
+Best for AI & productivity
+Microsoft 365 Premium
+₹ 19,999.00
+/year
+Subscription automatically renews unless canceled in Microsoft account. See terms.
+Buy now
+Everything in Microsoft 365 Family, plus:​
+Advanced Copilot 
+ chat with extensive usage​
+Agentic AI features that get things done for you, including advanced research and analytics 
+Extensive usage for AI image creation in Copilot 
+Popular apps and services included:
+Back to tabs
+Back to tabs
+DOWNLOAD THE APP
+Turn ideas into presentation-ready slides.
+PowerPoint helps you move from concept to polished deck with built-in design tools to refine as you go.
+Windows
+Create stunning presentations with advanced design tools and seamless media integration.
+Download PowerPoint for Windows
+Android
+Edit slides, rehearse, and present anywhere with mobile-friendly tools built for on-the-go productivity.
+Download PowerPoint for Android
+iOS
+Showcase ideas beautifully from your phone or tablet with design suggestions and smooth transitions.
+Download PowerPoint for iOS
+MacOS
+Bring your stories to life with cinematic visuals and collaborative features made for your Mac.
+Download PowerPoint for MacOS
+Web portal
+Collaborate online in real time, design slides together, and present directly from the browser.
+Open PowerPoint
+Download the PowerPoint mobile app
+Create, read, and collaborate on the move with the PowerPoint mobile app.
+If you're having trouble with the QR code, using your mobile device, go to aka.ms/powerpointmobiledownload to get the Powerpoint mobile app.
+RESOURCES
+Make presentations pop with these helpful resources
+Showing 1-2 of 6 slides
+Previous Slide
+Next Slide
+Copilot learning center
+Explore quick, easy-to-follow videos to help you get started and do more with Copilot in PowerPoint, Word, Excel, Outlook, and beyond.
+Learn more
+Design tips
+Pick the perfect font for your presentation.
+Learn more
+Presentation tips
+Use visual aids to increase the impact of your speeches and presentations.
+Learn more
+Design tips
+Design your own posters with PowerPoint.
+Learn more
+Presentation tips
+Perfect your presentation layout with the 10-20-30 rule.
+Learn more
+Design tips
+Make slides pop with complementary colors.
+Learn more
+Back to FEATURED RESOURCES section
+MORE MICROSOFT 365
+Learn more about Microsoft 365
+Explore all apps
+Showing 1-2 of 7 slides
+Previous Slide
+Next Slide
+Microsoft Word
+Elevate your writing and create beautiful documents—anywhere, anytime.
+Learn more
+Microsoft Excel
+Turn data into insights and simplify complex data into easy-to-read spreadsheets.
+Learn more
+Microsoft OneNote
+Keep your thoughts, content, and lists handy in one place.
+Learn more
+Microsoft Outlook
+Manage your email, calendar, tasks, and contacts in one location.
+Learn more
+Microsoft Defender
+Simplify your online security.
+Learn more
+Microsoft OneDrive
+Keep your files and memories protected, up to date, and easily accessible across all your devices.
+Learn more
+Teams
+Bring everyone together in one place to meet, chat, call, and collaborate.
+Learn more
+Back to MORE MICROSOFT 365 section
+Frequently asked questions
+Expand all
+Collapse all
+01/
+Where can I use Microsoft PowerPoint?
+02/
+Is there a free version of Microsoft PowerPoint?
+03/
+Can I collaborate with other people in Microsoft PowerPoint?
+04/
+In what languages is Microsoft PowerPoint available?
+Next steps
+Free templates
+Create inspiring designs with free templates.
+Explore now
+Microsoft 365
+Maximize your potential with apps to optimize the everyday.
+Learn more
+Clipchamp
+Create beautiful videos with ease.
+Learn more
+App availability varies by device/language. Features vary by platform. Minimum age limits may apply to use of AI features. Details.​
+[1]
+Once your paid subscription begins, you have a 7-day cancellation window to receive a prorated refund, only paying for what you use. You may cancel your subscription at any time in the Microsoft 365 admin center. Learn how to cancel your Microsoft 365 subscription. When a subscription is canceled, all associated data will be deleted. Learn more about data retention, deletion, and destruction in Microsoft 365.
+[2]
+After your one-month free trial ends, your subscription will automatically convert to a paid subscription and you’ll be charged the applicable subscription fee based on the subscription term and billing plan you select. Cancel anytime during your free trial to stop future charges. A credit card is required to sign up. Storage for trials will be limited. Microsoft reserves the right to suspend access to its products and services if payment is not received after your one-month free trial ends. Learn more.
+[3]
+Unlock the full Microsoft 365 experience with a qualifying Microsoft 365 subscription for your phone, tablet, PC and Mac.
+[4]
+Microsoft 365 Personal or Family subscription required; AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more.
+[5]
+Documents must be saved in and shared from OneDrive.
+Follow Microsoft Copilot 
+What's new
+Surface Pro
+Surface Laptop
+Explore Copilot
+Microsoft 365
+Explore Microsoft products
+Windows 11 apps
+Microsoft Store
+Account profile
+Download Center
+Microsoft Store Support
+Returns
+Order tracking
+Education
+Microsoft in education
+Devices for education
+Microsoft Teams for Education
+Microsoft 365 Education
+Office Education
+Educator training and development
+Deals for students and parents
+Azure for students
+Business
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft Advertising
+Microsoft Copilot
+Microsoft Teams
+Developer & IT
+Microsoft Developer
+Microsoft Learn
+Support for AI marketplace apps
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+Software companies
+Visual Studio
+Company
+Careers
+About Microsoft
+Company news
+Privacy at Microsoft
+Investors
+Security
+Sustainability
+English (India)
+Your Privacy Choices
+Consumer Health Privacy
+Contact Microsoft
+Privacy
+Terms of use
+Trademarks
+About our ads
+© Microsoft 2026

@@ -1,0 +1,253 @@
+#SNAPSHOT {"url":"https://www.dyad.sh","finalUrl":"https://www.dyad.sh/","fetchedAt":"2026-10-29T03:39:53.020Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"36d99e0c8be3085e1427810b46c24be70e43f40fef0687491732e2a290f99004"}
+Dyad
+Docs
+Members
+Blog
+Dyad Pro
+Download
+The open-source AI app builder on your desktop
+Turn your ideas into web apps without coding. Use your favorite AI models. Own your code. Zero lock-in.
+Download Dyad for Windows
+1 MILLION+ DOWNLOADS
+More platforms
+Loved by builders worldwide
+20k GitHub stars
+Manage app
+Pantry Planner
+Pro
+What do you want to build?
+Describe your idea. Dyad will turn it into a working app.
+Import App
+Build a pantry recipe planner that suggests dinners from what I have
+Build
+Model:
+Auto
+Pantry recipe planner
+Travel memory map
+Indie shop landing page
+More ideas
+Featured apps
+Recipe Box
+Trip Journal
+Startup CRM
+New Chat
+Version 1
+Build a pantry recipe planner that suggests dinners from what I have
+I'll set up your pantry planner with an ingredient list and dinner ideas ranked by what you can already make.
+PantryList.tsx
+src/components/PantryList.tsx
+RecipeCard.tsx
+src/components/RecipeCard.tsx
+Index.tsx
+src/pages/Index.tsx
+Writing...
+Send a message to Pantry Planner...
+Build
+Model:
+Auto
+Preview
+Code
+Publish
+/
+Starting up your app…
+System Messages
+Download Dyad for Windows
+Free & open-source desktop app
+Get App
+v1.21.0
+Latest release
+2 days ago
+Cloudflare publishing with automatic Nitro conversion, guided Neon deployment, system resource monitoring, and more reliable background tasks
+Local first
+Runs on your machine. Your data, your control.
+Use any AI model
+Use OpenAI, Anthropic, Ollama, LM Studio, and more.
+Real code you own
+Export clean, runnable code. No lock-in, ever.
+Open source
+Transparent by design. Built with the community.
+END-TO-END
+Create real apps, start to finish
+Dyad gives you visual customization with full control over the code—so you never get stuck.
+See quickstart guide
+“Dyad completely changed the way I build web interfaces. It feels like having a design and dev partner that truly understands my ideas.”
+@Fluxer_automações
+Builder & Creator
+Full-stack database & auth
+Connect Supabase or Neon with 1 click. Instant schemas, migrations, and auth.
+users_table
+3 rows
+#1
+ada@craft.sh
+admin
+#2
+max@dyad.sh
+member
+Built-in security scan
+Catches security bugs, injection, and misconfigs before you ship.
+SQL injection check
+Safe
+OWASP best practices
+Safe
+Auth protection
+Verified
+One-click deployment
+Deploy to GitHub and Vercel in a few clicks—or bring your own cloud.
+GitHub Repo
+Connected
+Vercel / Cloud
+Auto-deploy
+FREEDOM
+No walled garden, pure flexibility
+Bring your own API keys, choose any model (even offline ones), and keep 100% of your source code.
+“I have used Lovable, Base44, bolt, and replit, and DYAD is the best tool out there! Far more reliable and less invasive than the rest.”
+Bradley Kurt
+Talent Cloud Holdings
+Pick any AI model
+Switch between Anthropic, OpenAI, Google, or free local models anytime.
+ACTIVE PROVIDER
+Claude 3.7 Sonnet
+Anthropic
+GPT-4.5 / o3-mini
+OpenAI
+Gemini 2.0 Flash
+Google
+Ollama / DeepSeek
+Local offline
+You own every file
+Import existing repos, edit in VS Code whenever you want, and export cleanly.
+Your Drive
+D
+Dyad
+No vendor locking • Standard Next.js
+MCP extensible
+Plug in Chrome DevTools, web browsing, custom APIs, or any MCP server.
+Browser DevTools MCP
+Active
+Web Search MCP
+Active
+Custom MCP Plugin
++ Connect
+OPEN SOURCE
+Local, honest, & transparent
+Built in public with a growing community. No cloud lock-in, no telemetry traps, and full visibility into every prompt and diff.
+22k
+stars on GitHub
+“I built a poker game with Dyad. Will is working diligently to add features and fix bugs. Best of all, it's local.”
+u/redditissocoolyoyo
+Reddit Builder
+github.com/dyad-sh/dyad
+Open codebase
+Audit the code, inspect how AI tools run, or contribute on GitHub.
+main branch
+feat: add MCP server support
+2h
+fix: improve local agent sandbox
+5h
+docs: update quickstart guide
+1d
+Runs locally
+Keeps your project files on disk, works offline with local models, and never limits project counts.
+localhost:3000
+ready
+Works offline without cloud when using local models
+Global community
+Shaped by builders, hobbyists, and professional engineers worldwide.
++20
+Contributors building the future
+Pricing
+Simple, transparent pricing
+Choose the plan that fits your needs. Upgrade or downgrade anytime—no lock-in, ever.
+“I fall into the category of a non-developer who likes to tinker with AI, and this project is amazing. Very well done.”
+u/stevilg
+Community Builder
+“Honestly I was expecting a bolt.diy clone... but nothing to do with it, it is so much more user friendly. Your project is incredible!”
+u/Hot_Damage3335
+Builder
+Dyad Free
+Free
+Perfect for getting started and building apps.
+Local, open-source AI App Builder
+Downloadable for macOS & Windows
+No sign-up required
+Bring your own API key
+Community support
+Get Started
+RECOMMENDED
+Dyad Pro
+$20/month
+Unlock powerful AI modes and exclusive Pro features.
+Everything in Dyad Free plus...
+Exclusive Pro modes to work on large codebases
+200 AI credits/month
+Full Dyad Academy access
+Reload credits at any time (same price)
+Learn more
+Subscribe to Pro
+After signing up, you'll be redirected to checkout.
+Dyad Max
+$79/month
+For building large, complex apps.
+Everything in Dyad Pro plus...
+900 AI credits/month
+Prioritized access to office hours
+Available as upgrade
+I built Dyad as a local, open-source AI app builder because you should feel like an owner, not a renter. We believe in flexibility, not lock-in. We want users who choose us, not ones who are stuck with us.
+Will Chen
+Creator of Dyad
+Community
+Join thousands of builders
+Your feedback shapes our software—every release includes improvements and features you asked for.
+r/dyadbuilders
+3,000+ builders
+Star on GitHub
+Open source
+Follow on X
+@dyad_sh
+“I'm ready to go all in on Dyad. This is hands down the most powerful tool I've ever used, and it's still in its early days. Open source, AI agnostic, runs locally... feels unreal.”
+@GGManera
+TWITTER
+“Will, you're a genius. This is better than 95% of the other things I have tried, and I've tried them all going back 25 years. You're really on to something here.”
+u/morgankhalil
+REDDIT
+“Thank you for all the work you're doing on Dyad. I've been super impressed watching it evolve over time. I've built a number of web apps now and finished several projects with it.”
+Zack Baddorf
+Communications Professional
+BUILDER
+“I just wanted to thank the team that is building Dyad. You have provided an excellent product that is easy to use and understandable with excellent and prompt support.”
+u/JuanJValle
+REDDIT
+P
+“I do use this tool regularly. The open-source nature combined with its attractive design keeps me interested because it allows programmers and designers to express their ideas freely.”
+@goodhawk
+PRODUCTHUNT
+P
+“Great app, I recommend it better than many paid ones out there.”
+@luiz_balisa
+PRODUCTHUNT
+Follow along with development
+Get updates on new releases, templates, and guides. Zero spam.
+Email address
+Subscribe
+FAQ
+Frequently asked questions
+Is Dyad free? What's the catch?
+What can you build with Dyad?
+Can you build desktop apps with Dyad?
+Dyad Tech, Inc.
+Built with care by the Dyad team
+Explore
+Blog
+Hub
+Comparisons
+Dyad vs Lovable
+Legal
+Terms of Service
+Privacy Policy
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Organization","@id":"https://www.dyad.sh/#organization","name":"Dyad","url":"https://www.dyad.sh/","logo":"https://www.dyad.sh/logo-icon.png","description":"Dyad is a flexible, local, open-source AI app builder. Use your favorite AI models and tools. Zero lock-in.","sameAs":["https://github.com/dyad-sh/dyad","https://x.com/dyad_sh","https://www.reddit.com/r/dyadbuilders/"]}
+{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.dyad.sh/#website","name":"Dyad","url":"https://www.dyad.sh/","publisher":{"@id":"https://www.dyad.sh/#organization"}}
+{"@context":"https://schema.org","@type":"Organization","@id":"https://www.dyad.sh/#organization","name":"Dyad","url":"https://www.dyad.sh/","logo":"https://www.dyad.sh/logo-icon.png","description":"Dyad is a flexible, local, open-source AI app builder. Use your favorite AI models and tools. Zero lock-in.","sameAs":["https://github.com/dyad-sh/dyad","https://x.com/dyad_sh","https://www.reddit.com/r/dyadbuilders/"]}
+{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.dyad.sh/#website","name":"Dyad","url":"https://www.dyad.sh/","publisher":{"@id":"https://www.dyad.sh/#organization"}}
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Dyad","url":"https://www.dyad.sh/","applicationCategory":"DeveloperApplication","operatingSystem":"macOS, Windows, Linux","description":"Build full-stack AI apps on your desktop with Dyad, the free, local, open-source AI app builder. Use any AI model, own your code. Zero lock-in.","downloadUrl":"https://www.dyad.sh/download","softwareVersion":"1.21.0","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","url":"https://www.dyad.sh/download"},"publisher":{"@id":"https://www.dyad.sh/#organization"}}

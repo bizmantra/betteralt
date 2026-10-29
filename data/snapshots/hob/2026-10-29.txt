@@ -1,0 +1,103 @@
+#SNAPSHOT {"url":"https://hob.chat","finalUrl":"https://www.hob.chat/","fetchedAt":"2026-10-29T03:42:45.512Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"235f2a45b46b6bcf1cbd3bdf0065286d61a5bc6767dbbac8a68fa431975d2402"}
+Hob — An easier way to use AI on your own computer. · hob.chat 
+ Skip to content
+ Features
+ FAQ
+ GitHub
+ Download 
+ Backed by Y Combinator
+ An easier way to use AI
+ on your own computer.
+ A free, open-source alternative to Claude and ChatGPT.
+ Download for Mac
+ All downloads
+ Mac · Apple silicon
+ Windows
+ Linux
+ Free.
+ No subscription.
+ No account.
+ Private.
+ AI runs on your computer.
+ Your chats stay with you.
+ Works offline.
+ AI runs on your computer.
+ Work with local files, even offline.
+ Open source.
+ MIT licensed.
+ The code is on GitHub
+.
+ Hob handles the setup.
+ Hob picks the best frontier open-weight model that fits your computer and sets everything up for you.
+ Qwen 
+ Gemma Picked for you
+ GPT-OSS 
+ Fill out PDFs, work through documents,
+and much more.
+ Give Hob the files you want to work with. Get results you can open, edit, and share.
+ Your files
+ Q3 sales.xlsx
+ Regional notes.docx
+ Customer feedback.md
+ Q3 sales report.docx 
+ Q3 2026
+ Quarterly sales review
+ Total revenue
+ $248,000 
+ $76k 
+ $82k 
+ $90k 
+ July
+ August
+ September
+ Revenue increased each month, with September contributing the largest share of the quarter.
+ Bring your tools
+into the conversation.
+ Connect your email and calendar. Add connections for your favorite apps.
+ Built in on Mac Mail & Calendar
+ Add your own connectors Apps like Notion & Linear
+ You choose what
+Hob can access.
+ Your chats stay on your computer. Share the folders you choose, and undo file changes when you need to.
+ See the open-source code
+ On your computer
+ Sales
+ Requesting access 
+ Personal
+ Not shared 
+ Photos
+ Not shared 
+ Let Hob use your “Sales” folder? 
+ Hob can then see the files in Sales in this chat, and asks before changing any.
+ Allow access
+ Not now
+ A few things to know.
+ How is Hob different from other local AI apps? 
+ We tried every local AI app we could find. Most are a chat window: at best they paste a plain text file into a small context window. None could do what ChatGPT and Claude do with your files. Hob reads and edits your files and folders, looks at images, runs code in a sandbox, draws charts, and fills in PDFs, all on your computer. Many other apps also use hosted models by default, which isn’t private, or steer you toward a paid plan. Hob runs every model on your computer, and the whole app is free and open source (MIT), with nothing to upgrade to.
+ What kind of computer do I need? 
+ Hob runs on Apple Silicon Macs, Windows PCs, and Linux, with at least 8 GB of memory (RAM). More memory lets Hob run a smarter model: 16 GB is good for everyday tasks, and 32 GB or more gets you the best ones. Hob picks the best model your computer can run for you. Keep 10 to 25 GB of disk space free for Hob and its models, or about 75 GB for the largest model.
+ Windows says “Windows protected your PC.” What do I do? 
+ Click More info, then Run anyway. Windows shows this for new apps that aren’t yet signed with a Microsoft certificate. Hob is open source, so anyone can check what it does.
+ Is Hob as capable as Claude or ChatGPT? 
+ On a powerful computer, close to it. With 32 GB of memory or more, Hob runs the same kind of open models the big AI labs build, and for everyday work like writing, summaries, spreadsheets, and research it feels much like ChatGPT or Claude. On smaller computers, Hob uses a lighter model that’s great for quick tasks. Either way, you can chat, create documents, analyze data, run code, and work with connected tools, all without sending your files anywhere.
+ Which languages does Hob speak? 
+ Hob comes in 32 languages and starts in your computer’s language; you can change it in Settings, under General. Write to Hob in any language and it answers in the same one. The full list: English, Arabic, Bengali, Chinese (Simplified and Traditional), Czech, Danish, Dutch, Filipino, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Thai, Turkish, Ukrainian, and Vietnamese.
+ What stays on my computer? 
+ Your model runs locally, and your chats and files are stored on your computer. Hob has no telemetry. Web tools and connectors send the information needed for their actions to external services; those services have their own privacy policies. You choose which connectors to add.
+ Can I turn off internet access? 
+ Yes. Web search is the only online feature built into Hob, and you can turn it off in Settings, under Privacy, with Web access. Then Hob works fully offline, apart from downloading its models and updates. Connectors you add yourself go online only when you use them.
+ When do I need an internet connection? 
+ You need a connection to download Hob and its model, install updates, and use web tools or connected services. Some tasks may also need to download software packages. Chat and work with files already on your computer can run offline.
+ Are there any extra costs? 
+ No account, no subscription. Hob and its models are free. Optional external services you choose to connect may have their own fees.
+ Download Hob.
+ Download for Mac
+ All downloads
+ Mac · Apple silicon
+ Windows
+ Linux
+ Built by the team at 
+ hob.chat
+ GitHub
+ FAQ
+ Get in touch

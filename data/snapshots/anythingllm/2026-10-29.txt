@@ -1,0 +1,149 @@
+#SNAPSHOT {"url":"https://anythingllm.com/pricing","finalUrl":"https://anythingllm.com/cloud","fetchedAt":"2026-10-29T03:42:45.320Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"c13e4465b6defae0e1bc2be9ad5d24a67deaba752d3b4e62a7381570f26964f9"}
+Cloud | AnythingLLM 
+ AnythingLLM
+ Product
+ Desktop App
+ Run locally on your device
+ Mobile
+ A local-first AI agent for Android
+ Cloud
+ Build together with your team
+ Magic Features
+ Enhance your productivity
+ Meeting Assistant
+ Automate meeting notes and summaries
+ Background Jobs
+ Automate recurring tasks
+ Resources
+ Docs
+ Learn how to use AnythingLLM
+ GitHub
+ Stay up to date with our repo
+ Careers
+ Join our team
+ Youtube
+ Tutorials, demos, and news
+ Discord
+ Join our community
+ LinkedIn
+ Follow us for company updates
+ Blog
+ Download
+ AnythingLLM
+ Product
+ Desktop App
+ Mobile
+ Cloud
+ Resources
+ Docs
+ GitHub
+ Careers
+ Youtube
+ Discord
+ LinkedIn
+ Blog
+ Bring AI to your organization
+ Give your whole team a private, multi-user AI workspace — hosted by us or self-hosted on your infrastructure.
+ Self-host with Docker for free
+ For small teams
+ Basic
+ Perfect for independent use or small teams.
+ $50
+ /monthly
+ Included
+ Private instance
+ Custom subdomain
+ RAG, agents, and work right out of the box
+ Just bring an LLM API Key
+ Start for $50/mo
+ For startups
+ Pro
+ Higher performance with priority resources. Built for teams that rely on AI daily.
+ $99
+ /monthly
+ Included
+ Private instance
+ RAG, agents, work right out of the box
+ Great for large teams
+ 72-hour support SLA
+ Start for $99/mo
+ For enterprises
+ Enterprise
+ Premium service package, customization, and on-premise support.
+ Contact Us
+ Included
+ On-premise deployment
+ Custom SLA
+ Custom integrations
+ SSO, RBAC, and more
+ Request Quote
+ Cloud App Features
+ Fully customizable
+ Swap models, configure permissions, set up custom agent workflows, and white-label the interface to match your brand.
+ Multi-user
+ AnythingLLM can be used by multiple users on the same server with full isolation between tenants.
+ Admin control
+ You can control what your users can do & see with fine-grained admin controls.
+ White-labeling
+ You can white-label AnythingLLM with your own branding.
+ Don&#x27;t rent intelligence. Own it.
+ Break free from rate-limits and token costs. Download AnythingLLM and get a privacy-focused, extensible, and capable AI agent running on your device in minutes.
+ Download AnythingLLM — Free
+ Product
+ Download
+ Mobile
+ Features
+ Changelog
+ Resources
+ Documentation
+ Community
+ Brand
+ Blog
+ Company
+ Careers
+ Connect
+ GitHub
+ Discord
+ X
+ YouTube
+ Alternatives
+ Open WebUI alternative
+ ChatGPT Business alternative
+ LM Studio alternative
+ Ollama alternative
+ Msty alternative
+ Granola alternative
+ All comparisons
+ AnythingLLM
+ © 2026 AnythingLLM. All rights reserved.
+ Privacy
+ Terms
+ Product
+ Download
+ Mobile
+ Features
+ Changelog
+ Resources
+ Documentation
+ Community
+ Brand
+ Blog
+ Company
+ Careers
+ Connect
+ GitHub
+ Discord
+ X
+ YouTube
+ Alternatives
+ Open WebUI alternative
+ ChatGPT Business alternative
+ LM Studio alternative
+ Ollama alternative
+ Msty alternative
+ Granola alternative
+ All comparisons
+ Privacy
+ Terms
+ AnythingLLM
+ © 2026 AnythingLLM. All rights reserved.

@@ -17,7 +17,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://openai.com/index/introducing-chatgpt-go/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free plan; Go ₹399/mo, Plus ₹1,999/mo, Pro from ₹10,699/mo (India pricing)",
      "sourceUrl": "https://openai.com/chatgpt/pricing/",
@@ -55,7 +55,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://claude.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -85,7 +85,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://gemini.google/subscriptions/?hl=en&gl=us",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free; Google AI paid plans from ₹399/mo (India pricing)",
      "sourceUrl": "https://gemini.google/subscriptions/",
@@ -120,7 +120,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.perplexity.ai/pro",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -150,7 +150,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://mistral.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -180,7 +180,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://docs.x.ai/x-subscription/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free to try; Plus ₹759/mo, Premium ₹3,399/mo, Super ₹11,299/mo (India pricing, excl. intro offers)",
      "sourceUrl": "https://grok.com/plans",
@@ -214,7 +214,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://api-docs.deepseek.com/quick_start/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -245,7 +245,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://openwebui.com",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -284,7 +284,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://lmstudio.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -316,7 +316,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://ollama.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -356,7 +356,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://jan.ai",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -396,7 +396,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.librechat.ai",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -434,7 +434,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://help.poe.com/hc/en-us/articles/19945140063636-Poe-Purchases-FAQs",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free plan; paid from ₹4,900/yr (10K points/day); ₹19,900/yr for 660K points/month (India pricing, billed yearly)",
      "sourceUrl": "https://poe.com/subscription_plans",
@@ -469,7 +469,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://openrouter.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18"
    },
@@ -498,7 +498,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://cursor.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -529,7 +529,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://devin.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -567,7 +567,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/features/copilot/plans",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -597,7 +597,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://cline.bot/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -635,7 +635,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://continue.dev/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18"
    },
@@ -677,7 +677,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://zed.dev/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -745,7 +745,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://aider.chat",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -781,7 +781,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://claude.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -811,7 +811,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://replit.com/pricing",
-    "lastChecked": "2026-10-18",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18",
     "unverifiedNote": "replit.com/pricing returns HTTP 403 to our checker, so the price and the free-plan question can't be confirmed"
@@ -841,7 +841,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://lovable.dev/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -871,7 +871,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://bolt.new/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -901,7 +901,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://v0.app/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -932,7 +932,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/stackblitz-labs/bolt.diy",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -969,7 +969,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://base44.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -999,7 +999,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.dyad.sh",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -1037,7 +1037,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -1067,7 +1067,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://openai.com/chatgpt/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -1096,7 +1096,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://leonardo.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -1125,7 +1125,7 @@
     "hasFreePlan": null,
     "verified": true,
     "sourceUrl": "https://ideogram.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -1156,7 +1156,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -1194,7 +1194,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.comfy.org",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -1231,7 +1231,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.adobe.com/products/firefly/plans.html?country=US",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free to start; Firefly Standard ₹797.68/mo, Firefly Pro ₹1,596.54/mo (incl. GST, India pricing)",
      "sourceUrl": "https://www.adobe.com/products/firefly/plans.html",
@@ -1265,7 +1265,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://bfl.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "unknown"
@@ -1295,7 +1295,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://elevenlabs.io/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -1323,7 +1323,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://murf.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "unknown",
@@ -1355,7 +1355,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/coqui-ai/TTS",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -1393,7 +1393,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/rhasspy/piper",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -1430,7 +1430,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.resemble.ai/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -1460,7 +1460,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://speechify.com/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -1490,7 +1490,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.notion.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -1519,7 +1519,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://obsidian.md/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -1550,7 +1550,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://appflowy.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -1589,7 +1589,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://affine.pro/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -1628,7 +1628,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://get.mem.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -1716,7 +1716,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://www.jasper.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -1745,7 +1745,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://www.copy.ai/prices",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -1774,7 +1774,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://writesonic.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -1804,7 +1804,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://rytr.me/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -1833,7 +1833,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://writer.com/plans/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18"
    },
@@ -1862,7 +1862,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://support.grammarly.com/hc/en-us/articles/115000090011-How-much-does-Grammarly-Pro-cost",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free plan; Plus ₹392/member/mo billed annually (India pricing)",
      "sourceUrl": "https://www.grammarly.com/plans",
@@ -1993,7 +1993,7 @@
     "hasFreePlan": null,
     "verified": true,
     "sourceUrl": "https://hemingwayapp.com/hemingway-editor-plus",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -2023,7 +2023,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.wordtune.com/plans",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -2053,7 +2053,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://zapier.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "unknown"
@@ -2084,7 +2084,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://n8n.io/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "EUR",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -2154,7 +2154,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.activepieces.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -2193,7 +2193,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://pipedream.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -2224,7 +2224,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.windmill.dev/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "unknown"
@@ -2264,7 +2264,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/huginn/huginn",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -2302,7 +2302,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://dify.ai/pricing",
-    "lastChecked": "2026-10-17",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17",
     "unverifiedNote": "dify.ai/pricing renders prices as animated digits our checker can't read"
@@ -2342,7 +2342,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://flowiseai.com",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -2381,7 +2381,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.canva.com/en_us/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free plan; Pro Lite ₹1,590/yr, Pro ₹4,000/yr per person (India pricing)",
      "sourceUrl": "https://www.canva.com/pricing/",
@@ -2416,7 +2416,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.adobe.com/express/pricing?country=US",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free plan; Premium ₹797.68/mo incl. GST (India pricing)",
      "sourceUrl": "https://www.adobe.com/express/pricing",
@@ -2451,7 +2451,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.figma.com/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -2482,7 +2482,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://penpot.app/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -2519,7 +2519,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://support.microsoft.com/en-us/designer/frequently-asked-questions-about-microsoft-designer",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18"
    },
@@ -2578,7 +2578,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.visme.co/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -2638,7 +2638,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.heygen.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -2668,7 +2668,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.colossyan.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -2697,7 +2697,7 @@
     "hasFreePlan": null,
     "verified": true,
     "sourceUrl": "https://www.d-id.com/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -2727,7 +2727,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://elai.io/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -2757,7 +2757,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://runwayml.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -2787,7 +2787,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://pika.art/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -2816,7 +2816,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://lumalabs.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -2846,7 +2846,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://app.klingai.com/global/membership/membership-plan",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -2906,7 +2906,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://otter.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -2936,7 +2936,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://fireflies.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -2966,7 +2966,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.fathom.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -3025,7 +3025,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.granola.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -3055,7 +3055,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.read.ai/plans-pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -3086,7 +3086,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/openai/whisper",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -3123,7 +3123,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.descript.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -3153,7 +3153,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://riverside.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -3213,7 +3213,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.opus.pro/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -3273,7 +3273,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://kdenlive.org",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -3339,7 +3339,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://www.beautiful.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -3398,7 +3398,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://plusai.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -3429,7 +3429,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/presenton/presenton",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -3466,7 +3466,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://suno.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -3496,7 +3496,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.udio.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -3555,7 +3555,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.aiva.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "EUR",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -3616,7 +3616,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/facebookresearch/audiocraft",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -3653,7 +3653,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://character.ai/subscribe",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -3684,7 +3684,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/SillyTavern/SillyTavern",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -3781,7 +3781,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://nomi.ai/ai-today/replika-vs-nomi-2026-finding-enduring-ai-companionship/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -3811,7 +3811,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://www.talkie-ai.com",
-    "lastChecked": "2026-10-18",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17",
     "unverifiedNote": "the vendor site publishes no price list outside the app"
@@ -3841,7 +3841,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/excel",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -3871,7 +3871,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://knowledge.workspace.google.com/admin/getting-started/editions/business-editions",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free with a Google account; Workspace from ₹99/user/mo (India pricing)",
      "sourceUrl": "https://workspace.google.com/pricing",
@@ -3906,7 +3906,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://rows.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -3936,7 +3936,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.airtable.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -3966,7 +3966,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://julius.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -3997,7 +3997,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://nocodb.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -4035,7 +4035,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://www.adobe.com/products/photoshop/plans.html?country=US",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Photoshop ₹733.96/mo incl. GST (annual plan, billed monthly); ₹599/mo first-year offer for new subscribers",
      "sourceUrl": "https://www.adobe.com/products/photoshop/plans.html",
@@ -4069,7 +4069,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.photopea.com/api/accounts",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18"
    },
@@ -4098,7 +4098,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.gimp.org",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -4136,7 +4136,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://pixlr.com/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "unknown"
@@ -4166,7 +4166,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://krita.org",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -4202,7 +4202,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://www.zendesk.com/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -4231,7 +4231,7 @@
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://www.intercom.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-22",
     "fromBilling": "annual"
@@ -4261,7 +4261,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.freshworks.com/freshdesk/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -4292,7 +4292,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.chatwoot.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -4360,7 +4360,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.tidio.com/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -4418,7 +4418,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.klaviyo.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -4446,7 +4446,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.khanmigo.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -4479,7 +4479,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.magicschool.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -4545,7 +4545,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.wolframalpha.com/pro/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -4578,7 +4578,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://linear.app/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "monthly"
@@ -4607,7 +4607,7 @@
     "hasFreePlan": null,
     "verified": true,
     "sourceUrl": "https://www.productboard.com/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18"
    },
@@ -4636,7 +4636,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://dovetail.com/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-17"
    },
@@ -4665,7 +4665,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://miro.com/pricing/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-17",
     "fromBilling": "annual"
@@ -4695,7 +4695,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://developers.openai.com/codex/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -4725,7 +4725,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/google-gemini/gemini-cli",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18"
    },
@@ -4762,7 +4762,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://opencode.ai",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18"
    },
@@ -4796,14 +4796,14 @@
     "self-hostable"
    ],
    "pricing": {
-    "summary": "Agent Canvas free (open source, self-hosted); Teams $499/mo for up to 10 users (+$50/mo per extra seat); Enterprise custom pricing",
-    "fromUsdMonthly": 499,
+    "summary": "Agent Canvas free (open source, self-hosted); Teams $500/mo for up to 10 users (+$50/mo per extra seat); Enterprise custom pricing",
+    "fromUsdMonthly": 500,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.all-hands.dev/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
-    "lastChangedAt": "2026-10-22",
+    "lastChangedAt": "2026-10-29",
     "fromBilling": "monthly"
    },
    "openSource": {
@@ -4839,7 +4839,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://devin.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -4868,7 +4868,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://manus.im/pricing",
-    "lastChecked": "2026-10-18",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18",
     "unverifiedNote": "manus.im/pricing renders prices as animated digits our checker can't read"
@@ -4898,7 +4898,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.loom.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -4928,7 +4928,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://cap.so/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -4966,7 +4966,7 @@
     "hasFreePlan": null,
     "verified": true,
     "sourceUrl": "https://www.tella.tv/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -4996,7 +4996,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.krea.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -5026,7 +5026,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://logseq.com",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18"
    },
@@ -5063,7 +5063,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.framer.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free plan; Basic ₹361/mo, Pro ₹1,084/mo (billed yearly, India pricing)",
      "sourceUrl": "https://www.framer.com/pricing",
@@ -5098,7 +5098,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://webflow.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -5128,11 +5128,11 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/word",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free Word on the web; Microsoft 365 Personal ₹6,899/yr, Family ₹8,199/yr (India pricing)",
      "sourceUrl": "https://www.microsoft.com/en-in/microsoft-365/word",
-     "lastChecked": "2026-10-26"
+     "lastChecked": "2026-10-29"
     },
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
@@ -5163,11 +5163,11 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/powerpoint",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Free PowerPoint on the web; Microsoft 365 Personal ₹6,899/yr, Family ₹8,199/yr (India pricing)",
      "sourceUrl": "https://www.microsoft.com/en-in/microsoft-365/powerpoint",
-     "lastChecked": "2026-10-26"
+     "lastChecked": "2026-10-29"
     },
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
@@ -5198,7 +5198,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://knowledge.workspace.google.com/admin/getting-started/editions/business-editions",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "india": {
      "summary": "Usable with any Google Account; Workspace Base ₹99/user/mo, Starter ₹270/user/mo (annual, India pricing)",
      "sourceUrl": "https://workspace.google.com/intl/en_in/pricing",
@@ -5233,7 +5233,7 @@
     "hasFreePlan": null,
     "verified": false,
     "sourceUrl": "https://mailchimp.com/pricing/marketing/?currency=USD",
-    "lastChecked": "2026-10-18",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18",
     "unverifiedNote": "mailchimp.com/pricing shows promotional amounts only, split across elements; the regular price isn't readable"
@@ -5263,7 +5263,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://trello.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "annual"
@@ -5323,7 +5323,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.beehiiv.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "unknown"
@@ -5354,7 +5354,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://listmonk.app",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18"
    },
@@ -5392,7 +5392,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://mautic.org",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-18"
    },
@@ -5430,7 +5430,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://plane.so/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-18",
     "fromBilling": "monthly"
@@ -5508,7 +5508,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://voicebox.sh/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-21"
    },
@@ -5545,7 +5545,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://getartcraft.com/apps/photocraft",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-21"
    },
@@ -5589,7 +5589,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://robbietilton.com/compositor",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-21"
    },
@@ -5626,7 +5626,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://concat.standalones.org",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-21"
    },
@@ -5669,7 +5669,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://getartcraft.com/apps/filmcraft",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-21"
    },
@@ -5714,7 +5714,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://instatic.com",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-21"
    },
@@ -5755,7 +5755,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://mailcheap.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-26",
     "fromBilling": "monthly",
@@ -5795,7 +5795,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://edgeever.org/en",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-21"
    },
@@ -5833,7 +5833,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://itsaplan.dev",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-21"
    },
@@ -5870,7 +5870,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://genoffice.ai/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-21"
    },
@@ -5907,7 +5907,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://getartcraft.com/apps/wordcraft",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-21"
    },
@@ -5951,7 +5951,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://opencoworkai.github.io/open-codesign/",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-21"
    },
@@ -5988,7 +5988,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://anythingllm.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-23",
     "fromBilling": "monthly",
@@ -6027,7 +6027,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://localai.io",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-23"
    },
@@ -6064,7 +6064,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/ggml-org/llama.cpp",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-23"
    },
@@ -6099,7 +6099,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://msty.ai/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-23",
     "fromBilling": "annual",
@@ -6131,7 +6131,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://hob.chat",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-28"
    },
@@ -6169,7 +6169,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://openseo.so/pricing",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
     "lastChangedAt": "2026-10-28",
     "fromBilling": "monthly",
@@ -6208,7 +6208,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://getartcraft.com/apps/gridcraft",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-28"
    },
@@ -6246,7 +6246,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://getartcraft.com/apps/deckcraft",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-28"
    },
@@ -6284,7 +6284,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://getartcraft.com/apps/figcraft",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-28"
    },
@@ -6322,7 +6322,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://getartcraft.com/apps/pdfcraft",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-28"
    },
@@ -6360,7 +6360,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://openfilm.dev",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-28"
    },
@@ -6399,7 +6399,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://dossier.aien.me",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-28"
    },
@@ -6436,7 +6436,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://digup.arahim.dev",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-28"
    },
@@ -6474,7 +6474,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://learnharness.ai",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-28"
    },
@@ -6512,7 +6512,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://doory.art",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-28"
    },
@@ -6550,7 +6550,7 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://github.com/deepfounder-ai/desigma",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "currency": null,
     "lastChangedAt": "2026-10-28"
    },
@@ -7839,6 +7839,24 @@
     "before": "data/snapshots/mailcheap/2026-10-22.txt",
     "after": "data/snapshots/mailcheap/2026-10-26.txt",
     "note": "The pricing slider now goes up to 5M emails a month with a $799/mo tier; on 22 Oct it stopped at 2M emails ($349/mo) and said \"More than 2,000,000 emails? Chat with us\", now \"More than 5,000,000 emails? Chat with us\". Starter $19/mo for 20,000 emails and the other tiers ($39, $79, $149, $349) are unchanged."
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "slug": "openhands",
+   "kind": "price increase",
+   "old": "Teams $499/mo for up to 10 users",
+   "new": "Teams $500/mo for up to 10 users (+$50/mo per extra seat unchanged)",
+   "sourceUrl": "https://www.all-hands.dev/pricing",
+   "id": "2026-10-29-openhands",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Teams",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/openhands/2026-10-26.txt",
+    "after": "data/snapshots/openhands/2026-10-29.txt",
+    "note": "The Teams plan is now listed at $500/month (was $499/month on 26 Oct), still for up to 10 users with +$50/mo per extra seat and a 30-day trial. Agent Canvas (free, open source, self-hosted) and Enterprise (custom) are unchanged."
    }
   }
  ],

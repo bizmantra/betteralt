@@ -1,0 +1,1047 @@
+#SNAPSHOT {"url":"https://www.microsoft.com/en-us/microsoft-365/excel","finalUrl":"https://www.microsoft.com/en-us/microsoft-365/excel","fetchedAt":"2026-10-29T03:41:34.453Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"d7aff1fe36f940542c5ed515655ff85962c88369c2c1e918b22e94f65cf52023"}
+Microsoft Excel | Free Online Spreadsheets Software This is the Trace Id: 8bc2c46dcaff3b59a7392beb6af8e1d3 
+ Skip to main content
+ Microsoft 365
+ Excel
+ For home
+ For business
+ AI for Excel
+ Budget app
+ Data analysis
+ Debt spreadsheet
+ Expense tracking
+ Gantt charts
+ Graphing calculator
+ Graphing tools
+ Inventory spreadsheet
+ Python in Excel
+ Spreadsheets
+ Copilot learning center
+ More Microsoft 365
+ Try for free
+ Discover what's coming to Microsoft Ignite, Nov 17-20, 2026. 
+ Register now 
+ Microsoft Excel</h1> "> Microsoft Excel
+ Make data more insightful with free, online, collaborative spreadsheets. 
+ Open Excel
+ See plans and pricing
+ Overview 
+ Overview 
+ Key features 
+ What’s new 
+ Plans and pricing 
+ Download the app 
+ Mobile download 
+ Resources 
+ FAQ 
+ Next steps 
+ See plans and pricing
+ Try for free
+ See plans and pricing
+ Try for free
+ Overview 
+ Analyze, understand, and visualize your data with ease</h2> "> Analyze, understand, and visualize your data with ease
+ Microsoft 365 Copilot in Excel unlocks the latest AI capabilities to help you achieve your goals—from creating a simple spreadsheet to conducting advanced data analysis. 
+ Edit with Microsoft Copilot 
+ Tell Copilot what to change and it can help edit—formulas, tables, and formatting. Review the changes and stay in control. 
+ Try Copilot in Excel
+ Formulas with Copilot 
+ Let Copilot do your calculations for you. Ask for help figuring out the perfect formula for your data . 
+ Try Copilot in Excel
+ Format with Copilot 
+ From adding new columns to highlighting key information, Copilot can help with formatting. 
+ Key Features 
+ Do more with your data</h2> "> Do more with your data
+ Copilot in Excel
+ Stay in the flow of work with insightful assistance and smart tips on your spreadsheets from Copilot. 
+ Learn more
+ Simplify your data
+ Go from a simple prompt to deep insights with Copilot building directly in your spreadsheet - no advanced Excel skills required. 
+ Learn more
+ Share and collaborate
+ Share worksheets with peers and team members for easy collaboration and to offer data, insights, and reports. 3
+ Learn more
+ Copilot in Excel
+ WHAT’S NEW  
+ Edit with Copilot in Excel</h2> "> Edit with Copilot in Excel
+ Copilot in Excel handles complex analysis from start to finish, so you don’t have to piece it together step by step.​ 
+ Learn more 
+ Plans and Pricing 
+ Excel is better with Microsoft 365</h2> "> Excel is better with Microsoft 365
+ For individuals
+ For business
+ Previous
+ Next
+ Yearly
+ Monthly
+ Microsoft Excel 
+ Free
+ Sign up for free
+ Sign in
+ For 1 person 
+ Sharing and real-time collaboration 
+ Excel for the web 
+ 5 GB of cloud storage 
+ Ad-supported Outlook email and calendar 
+ Works on web, iOS, and Android™ 
+ Excel, simplify complex data and create easy-to-read spreadsheets.
+ Microsoft 365 Personal 
+ $99.99
+ /year
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Buy now 
+ Try for free 
+ Microsoft 365 Personal includes:
+ For 1 person​ 
+ Sign into 5 devices at once 
+ [popover:]</span><span data-screenreadertext="More information" data-description="App availability varies by device/language. Features vary by platform." class="popover-rte-mount">[popover:]</span>"> 
+ Use on PCs, Macs, phones, and  tablet [popover:]
+ [popover:]
+ 1 TB of secure cloud storage 
+ [popover:]</span>,&nbsp;PowerPoint, Outlook,&nbsp;and OneNote desktop apps with Microsoft&nbsp;Copilot<span class="popover-rte-mount" contenteditable="false" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply." data-screenreadertext="More information">[popover:]</span>"> 
+ Word, Excel [popover:]
+, PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot [popover:]
+ [popover:]</span> chat with higher usage than free"> 
+ Advanced Copilot [popover:]
+ chat with higher usage than free 
+ [popover:]</span>"> 
+ Use Copilot in select apps with work files in a secure way [popover:]
+ [popover:]</span>"> 
+ Higher usage than free for AI image creation in Copilot [popover:]
+ [popover:]</span>data and device security"> 
+ Identity, [popover:]
+data and device security 
+ [popover:]</span> in Teams"> 
+ All-day video calling and Copilot [popover:]
+ in Teams 
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work​.
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote: Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Microsoft 365 Family 
+ $129.99
+ /year
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Buy now 
+ Try for free 
+ Everything in Microsoft 365 Personal, plus:
+ For 1 to 6 people (AI for subscription owner only) 
+ Each person can use on up to 5 devices simultaneously  
+ 2 TB of shared, secure cloud storage 
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work​.
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote: Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Best for AI & productivity 
+ Microsoft 365 Premium 
+ $199.99
+ /year
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Buy now 
+ Try for free 
+ Everything in Microsoft 365 Family, plus:​
+ [popover:]</span>&nbsp;chat with extensive usage​"> 
+ Advanced Copilot [popover:]
+ chat with extensive usage​ 
+ [popover:]</span>"> 
+ Agentic AI features that get things done for you, including advanced research and analytics [popover:]
+ [popover:]</span>"> 
+ Extensive usage for AI image creation in Copilot [popover:]
+ Popular apps and services included: 
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work and life.
+ Word (web and mobile only): Create impressive documents and improve your writing with built-in intelligent features.
+ Excel (web and mobile only): Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint (web and mobile only): Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote (web and mobile only): Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Microsoft Excel 
+ Free
+ Sign up for free
+ Sign in
+ For 1 person 
+ Sharing and real-time collaboration 
+ Excel for the web 
+ 5 GB of cloud storage 
+ Ad-supported Outlook email and calendar 
+ Works on web, iOS, and Android™ 
+ Excel, simplify complex data and create easy-to-read spreadsheets.
+ Microsoft 365 Personal 
+ $9.99
+ /month
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Try free for 1 month
+ Buy now
+ Microsoft 365 Personal includes: 
+ For 1 person​ 
+ Sign into 5 devices  at once 
+ [popover:]</span><span class="popover-rte-mount" contenteditable="false" data-description="App availability varies by device/language. Features vary by platform." data-screenreadertext="See app compatibility and feature availability details">[popover:]</span>"> 
+ Use on PCs, Macs, phones, and tablets [popover:]
+ [popover:]
+ 1 TB of secure cloud storage 
+ [popover:]</span>PowerPoint, Outlook and OneNote desktop apps with Microsoft Copilot<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply." data-screenreadertext="More information">[popover:]</span>"> 
+ Word, Excel, [popover:]
+PowerPoint, Outlook and OneNote desktop apps with Microsoft Copilot [popover:]
+ [popover:]</span>chat with higher usage than free"> 
+ Advanced Copilot [popover:]
+chat with higher usage than free 
+ [popover:]</span>"> 
+ Use Copilot in select apps with work files in a secure way [popover:]
+ [popover:]</span>"> 
+ Higher usage than free for AI image creation in Copilot [popover:]
+ [popover:]</span>data and device security"> 
+ Identity, [popover:]
+data and device security 
+ [popover:]</span>&nbsp;in Teams"> 
+ All-day video calling and Copilot  [popover:]
+ in Teams 
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work and life.
+ Word (web and mobile only): Create impressive documents and improve your writing with built-in intelligent features.
+ Excel (web and mobile only): Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint (web and mobile only): Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote (web and mobile only): Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Microsoft 365 Family 
+ $12.99
+ /month
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Try free for 1 month
+ Buy now 
+ Everything in Microsoft 365 Personal, plus:
+ For 1 to 6 people (AI for subscription owner only) 
+ Each person can use on up to 5 devices simultaneously 
+ 2 TB of shared, secure cloud storage 
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work and life.
+ Word (web and mobile only): Create impressive documents and improve your writing with built-in intelligent features.
+ Excel (web and mobile only): Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint (web and mobile only): Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote (web and mobile only): Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Best for AI & productivity 
+ Microsoft 365 Premium 
+ $19.99
+ /month
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Try free for 1 month
+ Buy now 
+ Everything in Microsoft 365 Family, plus:
+ [popover:]</span>&nbsp;chat with extensive usage​"> 
+ Advanced Copilot [popover:]
+ chat with extensive usage​ 
+ [popover:]</span>"> 
+ Agentic AI features that get things done for you, including advanced research and analytics [popover:]
+ [popover:]</span>"> 
+ Extensive usage for AI image creation in copilot [popover:]
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work and life.
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote: Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Back to tabs
+ With Teams
+ Without Teams
+ Microsoft 365 Business Basic 
+ $7.00
+ user/month, paid yearly
+ (Annual subscription-auto renews) 1
+ Buy now
+ Try for free
+ See trial terms 2
+ Core identity and access management for up to 300 users 
+ [popover:]</span>of Word, Excel, PowerPoint, and Outlook"> 
+ Web and mobile versions [popover:]
+of Word, Excel, PowerPoint, and Outlook 
+ Custom business email (you@yourbusiness.com) 
+ 1 TB of cloud storage per user 
+ Chat, call, and meet with Microsoft Teams 
+ 10+ additional apps (including Bookings, Planner, Forms) 
+ Secure AI chat powered by the latest large language models 
+ Word (web and mobile only): Create impressive documents and improve your writing with built-in intelligent features.
+ Excel (web and mobile only): Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint (web and mobile only): Easily create polished presentations that stand out.
+ OneNote (web and mobile only): Meet all your notetaking needs with one cross-functional notebook.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ Exchange: Work smarter with business-class email and calendaring.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ SharePoint: Create team sites to share information, files, and resources.
+ Microsoft 365 Business Standard with Copilot 
+ $23.50
+ user/month, paid yearly
+ Annual subscription—auto renews. Usage-based billing for select advanced AI features. 1
+ Buy now
+ Try for free
+ See trial terms 2
+ AI chat grounded in your work data with large language model (LLM) choice 
+ Pre-built agents for research and data analysis 
+ <a class="ms-rte-link" href="#footnote1" aria-label="footnote1">1</a></sup>"> 
+ Access to Cowork, Autopilot, and advanced AI experiences in apps like SharePoint 1
+ Core identity and access management for up to 300 users 
+ [popover:]</span>&nbsp;of Word, Excel, PowerPoint, and Outlook with Copilot built in"> 
+ Desktop, web, and mobile versions [popover:]
+ of Word, Excel, PowerPoint, and Outlook with Copilot built in 
+ Custom business email 
+ Chat, call, and catch up with Copilot in Microsoft Teams 
+ 10+ additional apps (including Microsoft Loop, Clipchamp, Bookings, Planner, Forms) 
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ OneNote: Meet all your note-taking needs with one cross-functional notebook.
+ Microsoft Loop: Cocreate with workspaces that bring all the parts of a project together.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ Exchange: Work smarter with business-class email and calendaring.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ SharePoint: Create team sites to share information, files, and resources.
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work and life.
+ Microsoft 365 Business Premium with Copilot 
+ $32.00
+ user/month, paid yearly
+ Annual subscription—auto renews. Usage-based billing for select advanced AI features. 1
+ Buy now 
+ Try for free
+ See trial terms 2
+ AI chat grounded in your work data with large language model (LLM) choice 
+ Pre-built agents for research and data analysis 
+ <a aria-label="footnote1" href="#footnote1" class="ms-rte-link">1</a></sup>"> 
+ Access to Cowork, Autopilot, and advanced AI experiences in apps like SharePoint 1
+ Policy-based identity and access management for up to 300 users 
+ [popover:]</span>&nbsp;of Word, Excel, PowerPoint, and Outlook with Copilot built in"> 
+ Desktop, web, and mobile versions [popover:]
+ of Word, Excel, PowerPoint, and Outlook with Copilot built in 
+ Custom business email 
+ Chat, call, and catch up with Copilot in Microsoft Teams 
+ 10+ additional apps (including Microsoft Loop, Clipchamp, Bookings, Planner, Forms) 
+ Advanced device management, threat protection against phishing and cyber attacks, and information protection 
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ OneNote: Meet all your note-taking needs with one cross-functional notebook.
+ Microsoft Loop: Cocreate with workspaces that bring all the parts of a project together.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ Exchange: Work smarter with business-class email and calendaring.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ SharePoint: Create team sites to share information, files, and resources.
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work and life.
+ Microsoft Entra ID: Protect employee identities and credentials.
+ Windows 11: Empower your team to connect faster, get creative, and be more productive.
+ Intune: Protect your business and application data and access on devices.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Purview: Make governing, protecting, and managing your data easier and more efficient.
+ Microsoft 365 Business Basic (no Teams) 
+ $5.40
+ user/month, paid yearly
+ (Annual subscription-auto renews) 1
+ Buy now
+ Try for free
+ See trial terms 2
+ Core identity and access management for up to 300 users 
+ [popover:]</span>of Word, Excel, PowerPoint, and Outlook"> 
+ Web and mobile versions [popover:]
+of Word, Excel, PowerPoint, and Outlook 
+ Custom business email (you@yourbusiness.com) 
+ 1 TB of cloud storage per user 
+ 10+ additional apps (including Bookings, Planner, Forms) 
+ Secure AI chat powered by the latest large language models 
+ Word (web and mobile only): Create impressive documents and improve your writing with built-in intelligent features.
+ Excel (web and mobile only): Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint (web and mobile only): Easily create polished presentations that stand out.
+ OneNote (web and mobile only): Meet all your notetaking needs with one cross-functional notebook.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ Exchange: Work smarter with business-class email and calendaring.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ SharePoint: Create team sites to share information, files, and resources.
+ Microsoft 365 Business Standard with Copilot (no Teams) 
+ $20.30
+ user/month, paid yearly
+ Annual subscription—auto renews. Usage-based billing for select advanced AI features. 1
+ Buy now
+ Try for free
+ See trial terms 2
+ AI chat grounded in your work data with large language model (LLM) choice 
+ Pre-built agents for research and data analysis 
+ <a aria-label="footnote 1" href="#footnote1" class="ms-rte-link">1</a></sup>"> 
+ Access to Cowork, Autopilot, and advanced AI experiences in apps like SharePoint 1
+ Core identity and access management for up to 300 users 
+ [popover:]</span>&nbsp;of Word, Excel, PowerPoint, and Outlook with Copilot built in"> 
+ Desktop, web, and mobile versions [popover:]
+ of Word, Excel, PowerPoint, and Outlook with Copilot built in 
+ Custom business email 
+ 10+ additional apps (including Microsoft Loop, Clipchamp, Bookings, Planner, Forms) 
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ OneNote: Meet all your note-taking needs with one cross-functional notebook.
+ Microsoft Loop: Cocreate with workspaces that bring all the parts of a project together.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Exchange: Work smarter with business-class email and calendaring.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ SharePoint: Create team sites to share information, files, and resources.
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work and life.
+ Microsoft 365 Business Premium with Copilot (no Teams) 
+ $28.80
+ user/month, paid yearly
+ Annual subscription—auto renews. Usage-based billing for select advanced AI features. 1
+ Buy now 
+ Try for free
+ See trial terms 2
+ AI chat grounded in your work data with large language model (LLM) choice 
+ Pre-built agents for research and data analysis 
+ <a aria-label="footnote 1" href="#footnote1" class="ms-rte-link">1</a></sup>"> 
+ Access to Cowork, Autopilot, and advanced AI experiences in apps like SharePoint 1
+ Policy-based identity and access management for up to 300 users 
+ [popover:]</span>&nbsp;of Word, Excel, PowerPoint, and Outlook with Copilot built in"> 
+ Desktop, web, and mobile versions [popover:]
+ of Word, Excel, PowerPoint, and Outlook with Copilot built in 
+ Custom business email 
+ 10+ additional apps (including Microsoft Loop, Clipchamp, Bookings, Planner, Forms) 
+ Advanced device management, threat protection against phishing and cyber attacks, and information protection 
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ OneNote: Meet all your note-taking needs with one cross-functional notebook.
+ Microsoft Loop: Cocreate with workspaces that bring all the parts of a project together.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Exchange: Work smarter with business-class email and calendaring.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ SharePoint: Create team sites to share information, files, and resources.
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work and life.
+ Microsoft Entra ID: Protect employee identities and credentials.
+ Windows 11: Empower your team to connect faster, get creative, and be more productive.
+ Intune: Protect your business and application data and access on devices.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Purview: Make governing, protecting, and managing your data easier and more efficient.
+ Microsoft 365 Apps for business 
+ $10.00
+ user/month, paid yearly
+ (Annual subscription-auto renews) 1
+ Buy now
+ Try for free
+ See trial terms 2
+ Available for up to 300 employees​ 
+ Desktop and web versions of Word, Excel, PowerPoint, and Outlook 
+ 1 TB of cloud storage per user 
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ OneNote: Meet all your notetaking needs with one cross-functional notebook.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Back to tabs
+ Back to tabs
+ For individuals
+ For business
+ Previous
+ Next
+ Monthly
+ Yearly
+ Save up to 17%
+ Exclusive Copilot value 
+ Microsoft 365 Premium 
+ Best for AI power users. Includes Copilot for subscription owner. [popover:]
+ $19.99
+ /month
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Try free for one month
+ Buy now 
+ For 1 to 6 people (AI for subscription owner only) 
+ Word,&nbsp;Excel,<span class="popover-rte-mount" data-description="Copilot in Excel requires AutoSave to be enabled, meaning the file must be saved to OneDrive; it doesn't function with unsaved files." data-screenreadertext="More information">[popover:]</span> PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Word, Excel, [popover:]
+ PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot [popover:]
+ AI agents to perform complex tasks for you like creating source-cited research reports and performing data analysis with visualization<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ AI agents to perform complex tasks for you like creating source-cited research reports and performing data analysis with visualization [popover:]
+ Exclusive access to advanced Copilot features<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Exclusive access to advanced Copilot features [popover:]
+ Extensive usage for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI&nbsp;assistance&nbsp;to answer questions from your screen or camera<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Extensive usage for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI assistance to answer questions from your screen or camera [popover:]
+ [popover:]</span>"> 
+ Use Copilot in select apps with work files in a secure way [popover:]
+ [popover:]</span>"> 
+ Extensive usage for AI image creation and editing in Microsoft Designer, Photos, and Copilot chat [popover:]
+ [popover:]</span> in Teams"> 
+ All-day video calling and Copilot [popover:]
+ in Teams 
+ Each person can use on up to five devices simultaneously 
+ [popover:]</span><span class="popover-rte-mount" contenteditable="false" data-description="App availability varies by device/language. Features vary by platform. " data-screenreadertext="More information">[popover:]</span>"> 
+ Use on PCs, Macs, phones, and tablets [popover:]
+ [popover:]
+ Up to 6 TB of secure cloud storage (1 TB per person) 
+ Video editor with 4K export, brand kits, filters, and effects 
+ [popover:]</span> data and device security"> 
+ Identity, [popover:]
+ data and device security 
+ Apps with subscription value: 
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work​.
+ Word (web and mobile only): Create impressive documents and improve your writing with built-in intelligent features.
+ Excel (web and mobile only): Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint (web and mobile only): Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote (web and mobile only): Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Designer: Create, design, and edit any graphics you can imagine with no experience required.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Microsoft 365 Family 
+ Best for families. Includes Copilot for subscription owner. [popover:]
+ $12.99
+ /month
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Try free for one month
+ Buy now 
+ For 1 to 6 people (AI for subscription owner only) 
+ Word,&nbsp;Excel,<span class="popover-rte-mount" data-description="Copilot in Excel requires AutoSave to be enabled, meaning the file must be saved to OneDrive; it doesn't function with unsaved files." data-screenreadertext="More information">[popover:]</span> PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Word, Excel, [popover:]
+ PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot [popover:]
+ Higher usage than free for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI&nbsp;assistance&nbsp;to answer questions from your screen or camera<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Higher usage than free for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI assistance to answer questions from your screen or camera [popover:]
+ [popover:]</span>"> 
+ Use Copilot in select apps with work files in a secure way [popover:]
+ [popover:]</span>"> 
+ Higher usage for AI image creation and editing in Microsoft Designer, Photos, and Copilot chat [popover:]
+ [popover:]</span> in Teams"> 
+ All-day video calling and Copilot [popover:]
+ in Teams 
+ Each person can use on up to five devices simultaneously 
+ [popover:]</span><span class="popover-rte-mount" contenteditable="false" data-description="App availability varies by device/language. Features vary by platform." data-screenreadertext="More information">[popover:]</span>"> 
+ Use on PCs, Macs, phones, and tablets [popover:]
+ [popover:]
+ Up to 6 TB of secure cloud storage (1 TB per person) 
+ Video editor with 4K export, brand kits, filters, and effects 
+ [popover:]</span> data and device security"> 
+ Identity, [popover:]
+ data and device security 
+ Apps with subscription value: 
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work​.
+ Word (web and mobile only): Create impressive documents and improve your writing with built-in intelligent features.
+ Excel (web and mobile only): Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint (web and mobile only): Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote (web and mobile only): Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Designer: Create, design, and edit any graphics you can imagine with no experience required.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Microsoft 365 Personal 
+ Best for solo users. Includes Copilot. 
+ $9.99
+ /month
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Try free for one month
+ Buy now 
+ For 1 person​ 
+ Word,&nbsp;Excel,<span class="popover-rte-mount" data-description="Copilot in Excel requires AutoSave to be enabled, meaning the file must be saved to OneDrive; it doesn't function with unsaved files." data-screenreadertext="More information">[popover:]</span> PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Word, Excel, [popover:]
+ PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot [popover:]
+ Higher usage than free for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI&nbsp;assistance&nbsp;to answer questions from your screen or camera<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Higher usage than free for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI assistance to answer questions from your screen or camera [popover:]
+ [popover:]</span>"> 
+ Use Copilot in select apps with work files in a secure way [popover:]
+ [popover:]</span>"> 
+ Higher usage for AI image creation and editing in Microsoft Designer, Photos, and Copilot chat [popover:]
+ [popover:]</span> in Teams"> 
+ All-day video calling and Copilot [popover:]
+ in Teams 
+ Sign into five devices at once 
+ [popover:]</span><span class="popover-rte-mount" contenteditable="false" data-description="App availability varies by device/language. Features vary by platform." data-screenreadertext="More information">[popover:]</span>"> 
+ Use on PCs, Macs, phones, and tablets [popover:]
+ [popover:]
+ 1 TB of secure cloud storage 
+ Video editor with 4K export, brand kits, filters, and effects 
+ [popover:]</span> data and device security"> 
+ Identity, [popover:]
+ data and device security 
+ Apps with subscription value: 
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work​.
+ Word (web and mobile only): Create impressive documents and improve your writing with built-in intelligent features.
+ Excel (web and mobile only): Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint (web and mobile only): Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote (web and mobile only): Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Designer: Create, design, and edit any graphics you can imagine with no experience required.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Microsoft Excel 
+ Free
+ Sign up for free
+ Sign in
+ For 1 person 
+ Sharing and real-time collaboration 
+ Excel for the web 
+ Excel for the web 
+ 5 GB of cloud storage 
+ Ad-supported Outlook email and calendar 
+ Works on web, iOS, and Android™ 
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ Exclusive Copilot value 
+ Microsoft 365 Premium 
+ Best for AI power users. Includes Copilot for subscription owner. [popover:]
+ $199.99
+ /year
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Try for free for one month
+ Buy now 
+ For 1 to 6 people (AI for subscription owner only) 
+ Word,&nbsp;Excel,<span class="popover-rte-mount" data-description="Copilot in Excel requires AutoSave to be enabled, meaning the file must be saved to OneDrive; it doesn't function with unsaved files." data-screenreadertext="More information">[popover:]</span> PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Word, Excel, [popover:]
+ PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot [popover:]
+ AI agents to perform complex tasks for you like creating source-cited research reports and performing data analysis with visualization<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ AI agents to perform complex tasks for you like creating source-cited research reports and performing data analysis with visualization [popover:]
+ Exclusive access to advanced Copilot features<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Exclusive access to advanced Copilot features [popover:]
+ Extensive usage for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI&nbsp;assistance&nbsp;to answer questions from your screen or camera<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Extensive usage for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI assistance to answer questions from your screen or camera [popover:]
+ [popover:]</span>"> 
+ Use Copilot in select apps with work files in a secure way [popover:]
+ [popover:]</span>"> 
+ Extensive usage for AI image creation and editing in Microsoft Designer, Photos, and Copilot chat [popover:]
+ [popover:]</span> in Teams"> 
+ All-day video calling and Copilot [popover:]
+ in Teams 
+ Each person can use on up to five devices simultaneously 
+ [popover:]</span><span class="popover-rte-mount" contenteditable="false" data-description="App availability varies by device/language. Features vary by platform. " data-screenreadertext="More information">[popover:]</span>"> 
+ Use on PCs, Macs, phones, and tablets [popover:]
+ [popover:]
+ Up to 6 TB of secure cloud storage (1 TB per person) 
+ Video editor with 4K export, brand kits, filters, and effects 
+ [popover:]</span> data and device security"> 
+ Identity, [popover:]
+ data and device security 
+ Apps with subscription value: 
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work​.
+ Word (web and mobile only): Create impressive documents and improve your writing with built-in intelligent features.
+ Excel (web and mobile only): Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint (web and mobile only): Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote (web and mobile only): Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Designer: Create, design, and edit any graphics you can imagine with no experience required.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Microsoft 365 Family 
+ Best for families. Includes Copilot for subscription owner. [popover:]
+ $129.99
+ /year
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Try free for one month
+ Buy now 
+ For 1 to 6 people (AI for subscription owner only) 
+ Word,&nbsp;Excel,<span class="popover-rte-mount" data-description="Copilot in Excel requires AutoSave to be enabled, meaning the file must be saved to OneDrive; it doesn't function with unsaved files." data-screenreadertext="More information">[popover:]</span> PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Word, Excel, [popover:]
+ PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot [popover:]
+ Higher usage than free for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI&nbsp;assistance&nbsp;to answer questions from your screen or camera<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Higher usage than free for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI assistance to answer questions from your screen or camera [popover:]
+ [popover:]</span>"> 
+ Use Copilot in select apps with work files in a secure way [popover:]
+ [popover:]</span>"> 
+ Higher usage for AI image creation and editing in Microsoft Designer, Photos, and Copilot chat [popover:]
+ [popover:]</span> in Teams"> 
+ All-day video calling and Copilot [popover:]
+ in Teams 
+ Each person can use on up to five devices simultaneously 
+ [popover:]</span><span class="popover-rte-mount" contenteditable="false" data-description="App availability varies by device/language. Features vary by platform." data-screenreadertext="More information">[popover:]</span>"> 
+ Use on PCs, Macs, phones, and tablets [popover:]
+ [popover:]
+ Up to 6 TB of secure cloud storage (1 TB per person) 
+ Video editor with 4K export, brand kits, filters, and effects 
+ [popover:]</span> data and device security"> 
+ Identity, [popover:]
+ data and device security 
+ Apps with subscription value: 
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work​.
+ Word (web and mobile only): Create impressive documents and improve your writing with built-in intelligent features.
+ Excel (web and mobile only): Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint (web and mobile only): Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote (web and mobile only): Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Designer: Create, design, and edit any graphics you can imagine with no experience required.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Microsoft 365 Personal 
+ Best for solo users. Includes Copilot. 
+ $99.99
+ /year
+ Subscription automatically renews unless canceled in Microsoft account.  See terms
+. 
+ Try free for one month
+ Buy now 
+ For 1 person​ 
+ Word,&nbsp;Excel,<span class="popover-rte-mount" data-description="Copilot in Excel requires AutoSave to be enabled, meaning the file must be saved to OneDrive; it doesn't function with unsaved files." data-screenreadertext="More information">[popover:]</span> PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Word, Excel, [popover:]
+ PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot [popover:]
+ Higher usage than free for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI&nbsp;assistance&nbsp;to answer questions from your screen or camera<span class="popover-rte-mount" data-description="AI features only available to subscription owner and cannot be shared; usage limits apply. Learn more at https://aka.ms/AIFeatureLearnMore." data-screenreadertext="More information">[popover:]</span></b>"> 
+ Higher usage than free for select Copilot features including AI-generated audio to transform content into engaging listening experiences (English only) and visual AI assistance to answer questions from your screen or camera [popover:]
+ [popover:]</span>"> 
+ Use Copilot in select apps with work files in a secure way [popover:]
+ [popover:]</span>"> 
+ Higher usage for AI image creation and editing in Microsoft Designer, Photos, and Copilot chat [popover:]
+ [popover:]</span> in Teams"> 
+ All-day video calling and Copilot [popover:]
+ in Teams 
+ Sign into five devices at once 
+ [popover:]</span><span class="popover-rte-mount" contenteditable="false" data-description="App availability varies by device/language. Features vary by platform." data-screenreadertext="More information">[popover:]</span>"> 
+ Use on PCs, Macs, phones, and tablets [popover:]
+ [popover:]
+ 1 TB of secure cloud storage 
+ Video editor with 4K export, brand kits, filters, and effects 
+ [popover:]</span> data and device security"> 
+ Identity, [popover:]
+ data and device security 
+ Apps with subscription value: 
+ Microsoft Copilot: Enhance productivity and creativity with a secure AI assistant for work​.
+ Word (web and mobile only): Create impressive documents and improve your writing with built-in intelligent features.
+ Excel (web and mobile only): Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint (web and mobile only): Easily create polished presentations that stand out.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneNote (web and mobile only): Meet all your note-taking needs with one cross-functional notebook.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Defender: Defend against malicious cyberthreats.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ Designer: Create, design, and edit any graphics you can imagine with no experience required.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Microsoft Excel 
+ Free
+ Sign up for free
+ Sign in
+ For 1 person 
+ Sharing and real-time collaboration 
+ Excel for the web 
+ 5 GB of cloud storage 
+ Ad-supported Outlook email and calendar 
+ Works on web, iOS, and Android™ 
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ Back to tabs
+ With Teams
+ Without Teams
+ Microsoft 365 Business Standard 
+ $14.00
+ user/month, paid yearly
+ (Annual subscription–auto renews) 1
+ Buy now
+ Try for free
+ See trial terms 2
+ Identity and access management for up to 300 users 
+ [popover:]</span>of Word, Excel, PowerPoint, Outlook, and other apps"> 
+ Desktop, web, and mobile versions [popover:]
+of Word, Excel, PowerPoint, Outlook, and other apps 
+ Custom business email (you@yourbusiness.com) 
+ 1 TB of cloud storage per user 
+ Chat, call, meet, and host webinars with Microsoft Teams 
+ 10+ additional apps (including Microsoft Loop, Clipchamp, Bookings, Planner, Forms) 
+ Secure AI chat powered by the latest large language models 
+ Add Microsoft 365 Copilot Business and do more, in more ways.
+ Explore options
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ OneNote: Meet all your notetaking needs with one cross-functional notebook.
+ Microsoft Loop: Cocreate with workspaces that bring all the parts of a project together.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ Exchange: Work smarter with business-class email and calendaring.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ SharePoint: Create team sites to share information, files, and resources.
+ Microsoft Editor: Write more clearly and concisely across documents, emails, and the web.
+ Microsoft 365 Business Premium 
+ $22.00
+ user/month, paid yearly
+ (Annual subscription–auto renews) 1
+ Buy now
+ Try for free
+ See trial terms 2
+ Advanced identity and access management for up to 300 users 
+ [popover:]</span> of Word, Excel, PowerPoint, Outlook, and other apps"> 
+ Desktop, web, and mobile versions [popover:]
+ of Word, Excel, PowerPoint, Outlook, and other apps 
+ Custom business email (you@yourbusiness.com) 
+ 1 TB of cloud storage per user 
+ Chat, call, meet, and host webinars with Microsoft Teams 
+ 10+ additional apps (including Microsoft Loop, Clipchamp, Bookings, Planner, Forms) 
+ Secure AI chat powered by the latest large language models 
+ Enterprise-grade device, cyberthreat, and endpoint protection 
+ Add Microsoft 365 Copilot Business and do more, in more ways.
+ Explore options
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ OneNote: Meet all your notetaking needs with one cross-functional notebook.
+ Microsoft Loop: Cocreate with workspaces that bring all the parts of a project together.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ Exchange: Work smarter with business-class email and calendaring.
+ Microsoft Teams: Bring everyone together in one place to meet, chat, call, and collaborate.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ SharePoint: Create team sites to share information, files, and resources.
+ Microsoft Editor: Write more clearly and concisely across documents, emails, and the web.
+ Microsoft Entra ID: Protect employee identities and credentials.
+ Windows 11: Empower your team to connect faster, get creative, and be more productive.
+ Intune: Protect your business and application data and access on devices.
+ Microsoft Defender: Get threat prevention and detection with Microsoft Defender security capabilities.
+ Microsoft Purview: Make governing, protecting, and managing your data easy and efficient.
+ Microsoft 365 Apps for business 
+ $10.00
+ user/month, paid yearly
+ (Annual subscription-auto renews) 1
+ Buy now
+ Try for free
+ See trial terms 2
+ Available for up to 300 employees​ 
+ Desktop versions of Word, Excel, PowerPoint, and Outlook 
+ 1 TB of cloud storage per user 
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ OneNote: Meet all your notetaking needs with one cross-functional notebook.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ Microsoft Editor: Write more clearly and concisely across documents, emails, and the web.
+ Microsoft 365 Business Standard (no Teams) 
+ $10.79
+ user/month, paid yearly
+ (Annual subscription-auto renews) 1
+ Buy now
+ Try for free
+ See trial terms 2
+ Identity and access management for up to 300 users 
+ [popover:]</span>of Word, Excel, PowerPoint, Outlook, and other apps"> 
+ Desktop, web, and mobile versions [popover:]
+of Word, Excel, PowerPoint, Outlook, and other apps 
+ Custom business email (you@yourbusiness.com) 
+ 1 TB of cloud storage per user 
+ 10+ additional apps (including Microsoft Loop, Clipchamp, Bookings, Planner, Forms) 
+ Secure AI chat powered by the latest large language models 
+ Add Microsoft 365 Copilot Business and do more, in more ways.
+ Explore options
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ OneNote: Meet all your notetaking needs with one cross-functional notebook.
+ Microsoft Loop: Cocreate with workspaces that bring all the parts of a project together.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ Exchange: Work smarter with business-class email and calendaring.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ SharePoint: Create team sites to share information, files, and resources.
+ Microsoft Editor: Write more clearly and concisely across documents, emails, and the web.
+ Microsoft 365 Business Premium (no Teams) 
+ $18.79
+ user/month, paid yearly
+ (Annual subscription–auto renews) 1
+ Buy now
+ Try for free
+ See trial terms 2
+ Advanced identity and access management for up to 300 users 
+ [popover:]</span>of Word, Excel, PowerPoint, Outlook, and other apps"> 
+ Desktop, web, and mobile versions [popover:]
+of Word, Excel, PowerPoint, Outlook, and other apps 
+ Custom business email (you@yourbusiness.com) 
+ 1 TB of cloud storage per user 
+ 10+ additional apps (including Microsoft Loop, Clipchamp, Bookings, Planner, Forms) 
+ Secure AI chat powered by the latest large language models 
+ Enterprise-grade device, cyberthreat, and endpoint protection 
+ Add Microsoft 365 Copilot Business and do more, in more ways.
+ Explore options
+ Word: Create impressive documents and improve your writing with built-in intelligent features.
+ Excel: Simplify complex data and create easy-to-read spreadsheets.
+ PowerPoint: Easily create polished presentations that stand out.
+ OneNote: Meet all your notetaking needs with one cross-functional notebook.
+ Microsoft Loop: Cocreate with workspaces that bring all the parts of a project together.
+ Microsoft Clipchamp: Create and edit professional-looking videos with easy-to-use tools.
+ Outlook: Manage your email, calendar, tasks, and contacts together in one place.
+ Exchange: Work smarter with business-class email and calendaring.
+ OneDrive: Save, access, edit, and share files and photos wherever you are.
+ SharePoint: Create team sites to share information, files, and resources.
+ Microsoft Editor: Write more clearly and concisely across documents, emails, and the web.
+ Microsoft Entra ID: Protect employee identities and credentials.
+ Windows 11: Empower your team to connect faster, get creative, and be more productive.
+ Intune: Protect your business and application data and access on devices.
+ Microsoft Defender: Get threat prevention and detection with Microsoft Defender security capabilities.
+ Microsoft Purview: Make governing, protecting, and managing your data easy and efficient.
+ Back to tabs
+ Back to tabs
+ DOWNLOAD THE APP 
+ Turn data into insights.</h2> "> Turn data into insights.
+ Organize, analyze, and visualize your data—Excel updates calculations and charts with one simple click, making sharing and collaboration easy. 
+ Windows
+ Boost your productivity with advanced data analysis and visualization tools built for your PC. 
+ Download Excel for Windows
+ Android
+ Access, edit, and analyze spreadsheets anytime with smart data tools at your fingertips. 
+ Download Excel for Android
+ iOS
+ Review and update spreadsheets on the go, complete with charts and formulas that stay perfectly aligned. 
+ Download Excel for iOS
+ MacOS
+ Harness powerful data insights and formatting features optimized for your Mac experience. 
+ Download Excel for MacOS
+ Web Portal
+ Work online with secure cloud access, real-time collaboration, and always up-to-date spreadsheets. 
+ Open Excel
+ Get the Excel mobile app</h2> "> Get the Excel mobile app
+ Click here
+ [popover:]
+if you’re having trouble with QR code 
+ Get the Excel mobile app</h2> "> Get the Excel mobile app
+ Download today for iOS or Android. 
+ Download for mobile
+ Resources 
+ Explore ways to become a pro with Excel</h2> "> Explore ways to become a pro with Excel
+ Previous Slide
+ Next Slide
+ Copilot learning center</h3> "> 
+ Copilot learning center
+ Explore quick, easy-to-follow videos to help you get started and do more with Copilot in Excel, Word, Outlook, and beyond. 
+ Learn more 
+ Jump-start your spreadsheets</h3> "> 
+ Jump-start your spreadsheets
+ Show your professionalism and save time with Excel templates for over 40 categories. 
+ Explore free templates
+ Get budgeting tips</h3> "> 
+ Get budgeting tips
+ Take control and manage your expenses with these helpful articles and tips with Excel. 
+ Learn more
+ Get the latest Excel news</h3> "> 
+ Get the latest Excel news
+ Check out the Excel blog to learn from experts and hear the latest product updates. 
+ Learn more
+ Back to Resources section
+ Frequently asked questions 
+ Expand all
+ Collapse all
+ 01/ 
+ Where can I use Microsoft Excel?
+ Anywhere you need to stay productive—on desktop (Windows and MacOS), mobile and tablets (iOS and Android) or online. Excel works across devices so you can keep projects moving whether you’re at your desk or on the go. 
+ 02/ 
+ Is there a free version of Microsoft Excel?
+ Yes, Microsoft Excel for the web is free for anyone to use online. 
+ Launch Excel here
+ 03/ 
+ Can I collaborate with other people in Microsoft Excel?
+ Absolutely. Real-time collaboration means fewer email attachments and faster feedback, so you can finalize work without delays.​ 
+ 04/ 
+ In what languages is Microsoft Excel available?
+ Excel supports multiple languages, helping you communicate clearly and confidently with clients, partners, or teams worldwide. Learn more.
+ Do more with Microsoft 365
+ Maximize your potential with a personal plan and apps to optimize the everyday. 
+ Learn more
+ See plans for your business
+ Get the most out of Copilot in Excel with a plan for your business. 
+ Learn more
+ App availability varies by device/language. Features vary by platform. Minimum age limits may apply to use of AI features.  Details
+.  
+ [1] 
+ Some AI experiences require usage-based billing and may result in charges based on usage, beyond your license fees. Learn more about usage-based billing
+. Once your paid subscription begins, you have a 7-day cancellation window to receive a prorated refund, only paying for what you use. You may cancel your subscription at any time in the Microsoft 365 admin center. Learn how to cancel your Microsoft 365 subscription.
+ When a subscription is canceled, all associated data will be deleted. Learn more about data retention, deletion, and destruction in Microsoft 365.
+ [2] 
+ After your one-month free trial ends, your subscription will automatically convert to a paid subscription and you’ll be charged the applicable subscription fee based on the subscription term and billing plan you select. Cancel anytime during your free trial to stop future charges. A credit card is required to sign up. Storage for trials will be limited. Microsoft reserves the right to suspend access to its products and services if payment is not received after your one-month free trial ends. Learn more
+. 
+ [3] 
+ You must have a Microsoft 365 subscription to share and coauthor in Excel.
+ This page is designed for users in the United States
+.
+ Follow Microsoft Copilot 
+ Surface Laptop Ultra
+ Surface Pro
+ Surface Laptop
+ Surface RTX Spark Dev Box
+ Explore Copilot
+ Explore Microsoft products
+ Windows 11 apps
+ Account profile
+ Download Center
+ Microsoft Store support
+ Returns
+ Order tracking
+ Certified Refurbished
+ Why buy from Microsoft Store
+ Flexible Payments
+ Microsoft in education
+ Devices for education
+ Microsoft Teams for Education
+ Microsoft 365 Education
+ How to buy for your school
+ Educator training and development
+ Deals for students and parents
+ AI for education
+ Microsoft AI
+ Microsoft Security
+ Dynamics 365
+ Microsoft 365
+ Microsoft Power Platform
+ Microsoft Teams
+ Microsoft Copilot
+ Small Business
+ Azure
+ Microsoft Developer
+ Microsoft Learn
+ Support for AI marketplace apps
+ Microsoft Tech Community
+ Microsoft Marketplace
+ Software companies
+ Visual Studio
+ Careers
+ About Microsoft
+ Company news
+ Privacy at Microsoft
+ Investors
+ Diversity and inclusion
+ Accessibility
+ Sustainability
+ English (United States)
+ Your Privacy Choices
+ Consumer Health Privacy
+ Sitemap
+ Contact Microsoft
+ Privacy 
+ Manage cookies
+ Terms of use
+ Trademarks
+ Safety & eco
+ Recycling
+ About our ads

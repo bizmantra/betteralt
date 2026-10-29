@@ -1,0 +1,90 @@
+#SNAPSHOT {"url":"https://listmonk.app","finalUrl":"https://listmonk.app/","fetchedAt":"2026-10-29T03:42:39.480Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"43fe3a0159c9a913714c3a045d077a06ec336eb453df3ad1732527ac195fe161"}
+listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails 
+ Download
+ Hosting
+ Docs
+ GitHub
+ 20 Oct 2026 &rarr; v7.0.0-beta.1 is released
+ Self-hosted newsletter and mailing list manager
+ Performance and features packed into a single binary.
+ Free and open source. 
+ Live demo
+ Download
+ listmonk 
+ Since 2018 
+ Download
+ The latest version is v7.0.0-beta.1 
+released on 20 Oct 2026.
+See release notes
+.
+ Binary
+Darwin
+Freebsd
+Linux
+Netbsd
+Openbsd
+Windows
+ Download the binary and:
+ # Generate config.toml and then edit it.
+./listmonk --new-config
+# Setup the Postgres DB (or --upgrade an existing one).
+./listmonk --install
+# Run the app.
+./listmonk Visit http://localhost:9000 
+ Installation docs &rarr;
+ Docker
+ Download and use the sample
+ docker-compose.yml
+ # Download the compose file to the current directory.
+curl -LO https://github.com/knadh/listmonk/raw/master/docker-compose.yml
+# To run the latest v7 beta, edit the compose file and
+# change the image to: listmonk/listmonk:beta
+# Run Postgres and listmonk in the background.
+docker compose up -d Visit http://localhost:9000 
+ Installation docs &rarr;
+ listmonk@DockerHub
+ 3rd party hosting
+ One-click hosted listmonk instances from various 3rd party providers
+ *listmonk has no affiliation with the listed 3rd party providers 
+ Packed with features
+ Single binary alongside a Postgres database.
+ One-way mailing lists
+ Manage millions of subscribers across single and double opt-in lists.
+Query and segment subscribers with SQL expressions.
+ Analytics
+ Built-in analytics to visualize campaign performance, bounces, top links and more across campaigns.
+ Templating
+ Create powerful, dynamic e-mail templates with the
+ Go templating language
+.
+Use template expressions, logic, and 100+ functions in subject lines and content.
+Write HTML e-mails using a visual drag-and-drop builder, a WYSIWYG editor, Markdown,
+raw syntax-highlighted HTML, or just plain text.
+ Performance
+ Multi-threaded, high-throughput, multi-SMTP e-mail queues.
+Throughput and sliding window rate limiting for fine grained control.
+Single binary application with nominal CPU and memory footprint that runs everywhere.
+ A production listmonk instance sending a campaign of 7+ million e-mails.
+CPU usage is a fraction of a single core with peak RAM usage of 57 MB. 
+ Transactional mails
+ Simple API to send arbitrary transactional messages to subscribers using pre-defined templates.
+Send messages as e-mail, SMS, Whatsapp messages or any medium via Messenger interfaces.
+ Extensibility
+ More than just e-mail campaigns. Messenger HTTP webhooks to send SMS,
+Whatsapp, FCM notifications, or any type of messages.
+Extensive API coverage for all features.
+ And a lot more
+ Privacy
+ Full privacy control for subscribers, including getting their own data exported or completely removed.
+ Access
+ OIDC single sign-on, granular roles and permissions, and scoped API tokens.
+ Media
+ A built-in media library with support for S3-compatible storage.
+ Built for everyone.
+ And works for everyone too.
+ listmonk works well whether you are an individual running a newsletter with a few hundred subscribers on a tiny VPS,
+or a large organisation serving millions of subscribers. Extremely tiny footprint and very low maintenance.
+ Issues &nearr;
+ For developers &rarr;
+ listmonk
+ &copy; 2018–2026 / Kailash Nadh

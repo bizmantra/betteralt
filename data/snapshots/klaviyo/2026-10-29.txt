@@ -1,0 +1,530 @@
+#SNAPSHOT {"url":"https://www.klaviyo.com/pricing","finalUrl":"https://www.klaviyo.com/pricing","fetchedAt":"2026-10-29T03:41:57.907Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"d6f4e4bcd3766b075844d7e453b7621bfe6957812a09a31e935b8b2f174f8dec"}
+Klaviyo Pricing | Start Free with Email & SMS Skip to main content
+ Products 
+ The Agent-first B2C CRM
+ Composer (Marketing Agent) 
+ Customer Agent 
+ Explore the full platform 
+ Marketing
+ Email
+ SMS
+ RCS for Business
+ WhatsApp
+ Social
+ Mobile app
+ Customer Hub
+ Composer (Marketing Agent)
+ Featured
+ Reviews
+ Campaigns
+ Flows
+ Segmentation
+ Forms
+ Service
+ Customer Agent
+ Helpdesk
+ FEATURED
+ Agent builder
+ APIs & connectors
+ Auto-training
+ Guardrails
+ Data & Personalization
+ Klaviyo Data Platform
+ Advanced Data Platform
+ Personalization
+ FEATURED
+ Unified profile management
+ Multi-account management
+ Predictive insights
+ Organizations
+ Apps & Integrations 
+ Explore apps
+ Integrate with 400+ apps to seamlessly connect all of your data to Klaviyo.
+ View top apps and integrations 
+ Popular integrations
+ Integration benefits
+ Our apps make it simple to integrate your entire tech stack.
+ Browse by category
+ Advertising
+ Shipping
+ Point of sale
+ Loyalty
+ Subscription
+ Developers
+ Create apps and integrations to grow your business using Klaviyo&#x27;s APIs.
+ Getting started
+ Developer guides
+ API docs
+ Developer docs
+ Build an integration
+ Featured
+ Featured integration
+ Muse
+ Ask Muse about your campaigns, flows, and revenue, then have it draft and schedule your next send with your approval.
+ See the app 
+ What’s New 
+ Highlights
+ View all updates 
+ Composer takes on more of the work
+ Out of preview, Composer can answer harder questions across your data, run analyses and audits on a schedule, and turn the workflows that work into reusable skills.
+ Every agent you use, now fluent in your data
+ Ask Composer, Claude, ChatGPT, or any agent on MCP. Every time you ask the same question, you’ll get the same answer—and it shows its work in the thinking stream.
+ Put a revenue number on social
+ New metrics for your social media activity show the revenue and orders tied to Instagram comments, DMs, tags, and Auto Reply subscribes.
+ Recent updates
+ Brand Styles in Forms
+ Signatures for Outbound Email Replies in Helpdesk
+ Onsite Previews in Forms
+ Klaviyo now available in Japanese
+ Build Customer Agent with Composer
+ Product update
+ Klaviyo is going headless
+ Run Klaviyo behind any front end, on the same customer profile.
+ See what’s new 
+ Solutions 
+ By industry
+ Retail and ecommerce
+ Hospitality & Restaurants
+ Fitness & Wellness
+ By type
+ Business size
+ Enterprise
+ Partners & developers
+ Agency partners
+ Technology partners
+ Developers
+ Built for enterprise
+ Built for enterprise
+ Loved by enterprise marketers
+ TrustRadius names Klaviyo their Buyer’s Choice.
+ Get a demo 
+ Resources 
+ Explore resources
+ Resource hub
+ Customer stories
+ Blog
+ Guides and reports
+ Events
+ Newsroom
+ Trust center
+ Developer hub
+ Help & support
+ Get help
+ Help Center
+ Customer Resource Hub
+ Community
+ Learn
+ Academy
+ Product certificates
+ Connect with Experts
+ Support overview
+ Professional services
+ Partner directory
+ Free tools
+ AI prompt library
+ Flows template library
+ Email marketing templates
+ 2026 marketing calendar
+ Email subject line generator
+ Email & SMS ROI calculator
+ Featured
+ Black Friday is coming
+ Your 2026 BFCM hub
+ Benchmarks, templates and playbooks to prepare for the biggest season in B2C.
+ Visit the hub 
+ Pricing
+ More 
+ Apps & Integrations
+ Resources
+ United States - EN
+ Deutschland - DE
+ Australia - EN
+ United Kingdom - EN
+ Singapore - EN
+ España - ES
+ France - FR
+ Italia - IT
+ Log in
+ Sign up
+ Get a demo
+ Products 
+ Apps & Integrations 
+ What’s New 
+ Solutions 
+ Resources 
+ Pricing
+ Search
+ United States - EN
+ United States - EN
+ Deutschland - DE
+ Australia - EN
+ United Kingdom - EN
+ Singapore - EN
+ España - ES
+ France - FR
+ Italia - IT
+ Sign up
+ Get a demo
+ Log in
+ Home
+ /
+ Pricing
+ Klaviyo pricing :
+ Start with a free plan
+ Explore Klaviyo&#x27;s free plan—get started at no cost with email marketing sends, text messages, Customer Hub, and built-in reporting.
+ Free Marketing Data + Analytics Service Composer Customer Agent Professional Services Enterprise 
+ Platform
+ Get started
+ Free
+ Solutions Pricing
+ Marketing
+ Data + Analytics
+ Service
+ AI Agents
+ Composer
+ Customer Agent
+ Talk to sales
+ Professional Services
+ Enterprise
+ Total:
+ $1
+ 🇺🇸
+ USD
+ View breakdown
+ Free plan highlights
+ Up to 250 profiles
+ 500 emails/month
+ $5 of mobile messages/month
+ $5 of Composer usage/month
+ Built-in reporting
+ Email support
+ Get to know the Klaviyo platform
+ Explore our free products and features across marketing, service, analytics, and support.
+ Marketing
+ Up to 500 email sends per month
+ $5 of mobile messages/month
+ Web forms
+ Basic email templates and drag-and-drop editor
+ AI-powered subject line generator
+ Mobile app marketing
+ Composer
+ $5 of Composer usage/month
+ Schedule recurring tasks
+ Analyze performance + opportunities
+ Take action in Klaviyo
+ Create campaigns + flows
+ Get answers from your data
+ Analytics + Data
+ Built-in reporting and dashboards
+ Email campaign performance metrics
+ Basic customer segmentation
+ Contact and list growth tracking
+ Revenue attribution for campaigns
+ Engagement and click-through rates
+ Service - Helpdesk
+ Ticket management
+ Full customer context
+ Omnichannel support
+ AI and automation
+ Real-time reporting
+ Shared profile between service + marketing
+ Support
+ Email support for first 60 days
+ Klaviyo Academy courses
+ Klaviyo Community
+ Help Center and documentation
+ Getting started guides and tutorials
+ Product updates and release notes
+ Start for free
+ Build a plan
+ Start growing your business
+ Get started with essential marketing tools at no cost. Perfect for small businesses and startups.
+ Start for free
+ Up to 250 active profiles
+ 500 email sends/month
+ $5 of mobile messages/month
+ $5 of Composer usage/month
+ Frequently asked questions
+ What is included in the Klaviyo free plan? 
+ The free plan allows you to create a Klaviyo account, import or sync your contacts and activity data, use the drag-and-drop email/SMS editors and build automations, segmentation and reports. On this tier you are limited to up to 250 active profiles (contacts who may receive marketing emails) and 500 email sends per month. Additionally, the free tier includes $5 of mobile messages per month (region/carrier dependent).
+ Is Klaviyo’s free plan really free? 
+ Yes – the free plan is available at no monthly cost as long as your account remains under the limits of 250 active profiles and 500 monthly email sends. However, if you exceed those limits (or require paid-plan features such as custom branding removal or advanced support) you will need to upgrade or your sending may be paused.
+ How long can I stay on the free plan? 
+ You may remain on the free plan indefinitely as long as your active profile count remains at or below the 250-profile limit and your monthly sends stay at or below 500 emails. Once you have exceeded either threshold, your ability to send may be restricted. Note: With the free plan you receive full email support only for the first 60 days; after that you still have access to the Help Centre, community resources and training but not full support channels reserved for paid tiers.
+ Who is the Klaviyo free plan best for? 
+ The free plan is best suited for small businesses, start-ups, or brands just getting started with marketing automation who have relatively small contact lists (≤250 active profiles) and moderate sending needs (≤500 emails/month). It allows you to test Klaviyo's platform, integrate your data, run automations, and experiment with segmentation and SMS without paying upfront. As your audience, sends or sophistication grow, you'll likely need to transition to a paid tier.
+ Can I use Klaviyo free plan for both email and text marketing? 
+ Yes—the free plan supports both email marketing and text (SMS/MMS) marketing to a degree. On the free plan you are allotted $5 of mobile messages per month, so you can test mobile messaging campaigns.
+ Does the free plan include SMS or text message marketing? 
+ Yes—the free plan includes $5 of mobile messages per month, enabling you to send mobile messages in addition to email.
+ What integrations are available on the free plan? 
+ The free plan supports the standard library of integrations (for example ecommerce platforms, CRMs, data sources) that Klaviyo offers. You are not blocked from connecting your tech stack just because you’re on the free tier. Many third-party reviewers note that Klaviyo’s core integrations are included.
+ What happens when I exceed the free plan limits? 
+ Once you have exceeded the free plan’s limits (e.g. more than 250 active profiles or more than 500 email sends in a month), your account will no longer be able to send additional emails or messages until the next billing cycle or until you upgrade to a paid plan. You’ll be prompted to upgrade to continue sending.
+ Does the free plan include customer support? 
+ Yes, but with limitations: free plan users receive email support for the first 60 days after sign-up. After that, you’ll have access to the Klaviyo Community and self-service resources (Help Centre, Academy) rather than full support channels reserved for paid tiers.
+ Is Klaviyo’s free plan good for ecommerce stores on Shopify, Wix or WooCommerce? 
+ Yes – the free plan can absolutely work for ecommerce stores (on Shopify, WooCommerce, Wix, etc.) that are just starting out, testing email + SMS or sending to smaller audiences. Because Klaviyo supports integrations with major ecommerce platforms and gives you access to segmentation and automation even on the free plan, it’s a useful entry point. As your store and list grow (beyond the 250-contact limit or high-volume sends), you’ll want to move to a paid tier.
+ How do I upgrade from Klaviyo free to a paid plan? 
+ Upgrading from the free plan is straightforward: in your Klaviyo account, head to Account Settings → Billing (or Change Plan), review your active profile count and required sends, select the paid tier that matches your needs and complete the upgrade. Once upgraded, your account unlocks paid-plan features (no send or profile limits on that tier), plus enhanced support, branding removal, etc.
+ Platform
+ B2C CRM overview
+ Klaviyo AI (K:AI)
+ Klaviyo Marketing
+ Klaviyo Service
+ Klaviyo Analytics
+ Klaviyo Data Platform
+ Klaviyo and GDPR
+ Klaviyo pricing
+ Channels
+ Omnichannel marketing
+ Email marketing
+ SMS marketing
+ RCS for Business
+ Mobile app marketing
+ WhatsApp marketing
+ Social marketing
+ Top Products + Features
+ AI marketing agent (Composer)
+ Customer Agent
+ Customer Hub
+ Helpdesk
+ Personalization
+ Advanced Klaviyo Data Platform
+ Reviews
+ Web forms
+ Email templates
+ Apps & Integrations
+ Shopify
+ WooCommerce
+ BigCommerce
+ Adobe Commerce (Magento)
+ Salesforce Commerce Cloud
+ Wix
+ Claude
+ ChatGPT
+ All 350+ apps & integrations
+ Compare Klaviyo
+ Klaviyo alternatives
+ Klaviyo vs. Mailchimp
+ Klaviyo vs. Braze
+ Klaviyo vs. Attentive
+ Klaviyo vs Brevo
+ Klaviyo vs Salesforce Marketing Cloud
+ Klaviyo vs. Listrak
+ Klaviyo vs. Postscript
+ Switch from Yotpo
+ ESP migration checklist
+ Popular guides
+ Best email marketing platforms
+ Best SMS marketing platforms
+ Best marketing automation platforms
+ Best digital advertising platforms
+ Best subscription management software
+ Email marketing examples
+ SMS short codes explained
+ How Klaviyo pricing works
+ Read the blog
+ Learn the basics
+ What is email marketing?
+ What is SMS marketing?
+ What is RCS messaging?
+ What is a B2C CRM?
+ What is a CDP?
+ What is omnichannel marketing?
+ What is agentic AI?
+ What is a newsletter?
+ Marketing glossary
+ Video tutorials on YouTube
+ Free tools & benchmarks
+ Flow templates library
+ Email marketing benchmarks
+ SMS marketing benchmarks
+ Subject line generator
+ Email & SMS ROI calculator
+ AI prompt library
+ Marketing campaign calendar
+ Guides & reports
+ Built for
+ Retail and ecommerce
+ Restaurant marketing
+ Health & wellness
+ Small business marketing
+ Enterprise
+ Agency and tech partners
+ Developers
+ Company & support
+ About Klaviyo
+ Customer stories
+ Careers
+ Newsroom
+ Investor relations
+ What&#x27;s new
+ Help Center
+ Klaviyo Academy
+ Community
+ Hey AI, learn about Klaviyo
+ Trust center
+ Contact us
+ Platform
+ B2C CRM overview
+ Klaviyo AI (K:AI)
+ Klaviyo Marketing
+ Klaviyo Service
+ Klaviyo Analytics
+ Klaviyo Data Platform
+ Klaviyo and GDPR
+ Klaviyo pricing
+ Channels
+ Omnichannel marketing
+ Email marketing
+ SMS marketing
+ RCS for Business
+ Mobile app marketing
+ WhatsApp marketing
+ Social marketing
+ Top Products + Features
+ AI marketing agent (Composer)
+ Customer Agent
+ Customer Hub
+ Helpdesk
+ Personalization
+ Advanced Klaviyo Data Platform
+ Reviews
+ Web forms
+ Email templates
+ Apps & Integrations
+ Shopify
+ WooCommerce
+ BigCommerce
+ Adobe Commerce (Magento)
+ Salesforce Commerce Cloud
+ Wix
+ Claude
+ ChatGPT
+ All 350+ apps & integrations
+ Compare Klaviyo
+ Klaviyo alternatives
+ Klaviyo vs. Mailchimp
+ Klaviyo vs. Braze
+ Klaviyo vs. Attentive
+ Klaviyo vs Brevo
+ Klaviyo vs Salesforce Marketing Cloud
+ Klaviyo vs. Listrak
+ Klaviyo vs. Postscript
+ Switch from Yotpo
+ ESP migration checklist
+ Popular guides
+ Best email marketing platforms
+ Best SMS marketing platforms
+ Best marketing automation platforms
+ Best digital advertising platforms
+ Best subscription management software
+ Email marketing examples
+ SMS short codes explained
+ How Klaviyo pricing works
+ Read the blog
+ Learn the basics
+ What is email marketing?
+ What is SMS marketing?
+ What is RCS messaging?
+ What is a B2C CRM?
+ What is a CDP?
+ What is omnichannel marketing?
+ What is agentic AI?
+ What is a newsletter?
+ Marketing glossary
+ Video tutorials on YouTube
+ Free tools & benchmarks
+ Flow templates library
+ Email marketing benchmarks
+ SMS marketing benchmarks
+ Subject line generator
+ Email & SMS ROI calculator
+ AI prompt library
+ Marketing campaign calendar
+ Guides & reports
+ Built for
+ Retail and ecommerce
+ Restaurant marketing
+ Health & wellness
+ Small business marketing
+ Enterprise
+ Agency and tech partners
+ Developers
+ Company & support
+ About Klaviyo
+ Customer stories
+ Careers
+ Newsroom
+ Investor relations
+ What&#x27;s new
+ Help Center
+ Klaviyo Academy
+ Community
+ Hey AI, learn about Klaviyo
+ Trust center
+ Contact us
+ United States - EN
+ United States - EN
+ Deutschland - DE
+ Australia - EN
+ United Kingdom - EN
+ Singapore - EN
+ España - ES
+ France - FR
+ Italia - IT
+ The B2C CRM
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Google
+ Copyright © 2026 Klaviyo. All rights reserved.
+ Site Map
+ Terms and Privacy
+ Security
+ Trust
+ Intellectual Property Notices
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.klaviyo.com/"},{"@type":"ListItem","position":2,"name":"Pricing","item":"https://www.klaviyo.com/pricing"}]}
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Klaviyo Marketing Platform",
+  "description": "Klaviyo offers email, SMS/MMS, push and marketing automation services — with flexible, tiered pricing based on number of active profiles and message volume.",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Klaviyo Pricing Plans",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "url": "https://www.klaviyo.com/pricing",
+        "priceCurrency": "USD",
+        "price": "0.00",
+        "availability": "https://schema.org/InStock",
+        "name": "Free Plan",
+        "description": "Up to 250 active profiles, 500 email sends/month, 150 SMS/MMS credits/month — ideal for small businesses or testing."
+      },
+      {
+        "@type": "Offer",
+        "url": "https://www.klaviyo.com/pricing",
+        "priceCurrency": "USD",
+        "price": "20.00",
+        "availability": "https://schema.org/InStock",
+        "name": "Email Plan (entry)",
+        "description": "For 251–500 active profiles, with expanded email send capacity."
+      },
+      {
+        "@type": "Offer",
+        "url": "https://www.klaviyo.com/pricing",
+        "priceCurrency": "USD",
+        "price": "35.00",
+        "availability": "https://schema.org/InStock",
+        "name": "Email + SMS Plan (entry)",
+        "description": "For 251–500 active profiles, includes email plus SMS/MMS credits."
+      }
+    ]
+  }
+}

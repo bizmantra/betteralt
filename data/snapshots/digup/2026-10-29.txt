@@ -1,0 +1,402 @@
+#SNAPSHOT {"url":"https://digup.arahim.dev","finalUrl":"https://digup.arahim.dev/","fetchedAt":"2026-10-29T03:42:45.937Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"5062b018d0547810cbbf89c707d2433285822e149cbae24e647f11b6de8a4abf"}
+DigUp: search your files by what's in them 
+ Skip to content
+ DigUp
+ Features
+ Docs
+ Help
+ Changelog
+ Donate
+ Search
+ ⌘K Ctrl K 
+ 5.9k
+ Download
+ Features
+ Download
+ Docs
+ Help
+ Changelog
+ Donate
+ GitHub
+ New: 0.7.0-beta.3 for Windows and Linux
+ Describe it.
+ Dig it up.
+ Search your computer by what's in your files. DigUp runs Google DeepMind's EmbeddingGemma 2 on your own machine, so a few words find the photo, the PDF page, the minute in a recording or the moment in a video.
+ Download for Mac
+ Windows
+ beta 
+ Linux
+ beta 
+ Version 0.6.2 · Apple Silicon, macOS 14 or later
+ Version 0.7.0-beta.3 · 64-bit Windows 10 or 11 · in beta
+ Version 0.7.0-beta.3 · .deb or AppImage, x86-64 · in beta
+ Free and open source
+ Finder File Edit View Go Window
+ Activities
+ Oct 22 9:41
+ Wed 9:41
+ zebra in a video
+ Video
+ Masai Mara - day 2.mp4 0:42
+ ~/Movies/Kenya 2025
+ Images
+ IMG_2214.jpg
+ ~/Pictures/Kenya 2025
+ IMG_2219.jpg
+ ~/Pictures/Kenya 2025
+ Masai Mara - day 2.mp4
+ ~/Movies/Kenya 2025
+ Video · Aug 15, 2025 · 1:03 · 88.8 MB
+ Matches the frame at 0:42
+ Open at 0:42
+ Show in Finder
+ Show in Explorer
+ Show in Files
+ 3 results
+ ↩ Open
+ ⌘↩ Reveal
+ Ctrl+↩ Show
+ ␣ Quick Look at 0:42
+ Audio
+ The Long Run - Ep 14.mp3 7:55
+ ~/Music/Podcasts
+ 7:55 – 8:25 of 13:43
+ The Long Run - Ep 14.mp3
+ ~/Music/Podcasts
+ Audio · Sep 30, 2026 · 13:43 · 13.2 MB
+ Matches what's heard at 7:55
+ Open
+ Show in Finder
+ Show in Explorer
+ Show in Files
+ 1 result
+ ↩ Open
+ ⌘↩ Reveal
+ Ctrl+↩ Show
+ ␣ Quick Look at 7:55
+ Documents
+ Lease - 14 Elm Street.pdf p. 4
+ HARBOR LANE PROPERTIES RESIDENTIAL LEASE …
+ Lease - 14 Elm Street.pdf
+ ~/Documents/Home
+ PDF · Aug 18, 2025 · 8 pages · 196 KB
+ Matches the text on page 4
+ HARBOR LANE PROPERTIES RESIDENTIAL LEASE AGREEMENT 12. PETS …
+ Open
+ Show in Finder
+ Show in Explorer
+ Show in Files
+ 1 result
+ ↩ Open
+ ⌘↩ Reveal
+ Ctrl+↩ Show
+ ␣ Quick Look at p. 4
+ Images
+ IMG_4133.jpg
+ ~/Pictures/2025 Summer
+ IMG_4128.jpg
+ ~/Pictures/2025 Summer
+ IMG_4127.jpg
+ ~/Pictures/2025 Summer
+ Video
+ IMG_4141.MOV 0:12
+ ~/Movies
+ Audio
+ Dog barking.m4a
+ ~/Music/Field recordings
+ IMG_4133.jpg
+ ~/Pictures/2025 Summer
+ Image · Jul 19, 2025 · 3713 × 2477 · 983 KB
+ Matches the picture
+ Open
+ Show in Finder
+ Show in Explorer
+ Show in Files
+ 6 results · 2 weaker
+ ↩ Open
+ ⌘↩ Reveal
+ Ctrl+↩ Show
+ ␣ Quick Look
+ Video
+ IMG_4141.MOV 0:12
+ ~/Movies
+ Images
+ IMG_4127.jpg
+ ~/Pictures/2025 Summer
+ IMG_4133.jpg
+ ~/Pictures/2025 Summer
+ Audio
+ Dog barking.m4a
+ ~/Music/Field recordings
+ IMG_4141.MOV
+ ~/Movies
+ Video · Jul 20, 2025 · 0:28 · 30 MB
+ Matches the frame at 0:12
+ Open at 0:12
+ Show in Finder
+ Show in Explorer
+ Show in Files
+ 6 results
+ ↩ Open
+ ⌘↩ Reveal
+ Ctrl+↩ Show
+ ␣ Quick Look at 0:12
+ Code
+ retry.ts L1–47
+ // Retry a failed call, waiting longer each time: e…
+ retry.py L1–33
+ …random import time def retry_with_backoff(a…
+ retry.test.ts L1–22
+ weather-app/test
+ test_retry.py
+ billing-service/tests
+ 5 weaker matches
+ // Retry a failed call, waiting longer each time:
+exponential backoff with jitter.
+/**
+ * Calls `fn` until it succeeds, waiting longer after each
+ * failure: exponential backoff with full jitter, so many
+ * clients don't retry in sync.
+ */
+export async function retry <T>(
+ fn: () => Promise<T>,
+ { attempts = 5, baseDelay = 250, maxDelay = 8_000 } = {} 
+ retry.ts
+ weather-app/src/net
+ Code · Sep 20, 2026 · 47 lines · 2 KB
+ Matches lines 1–47
+ Open
+ Show in Finder
+ Show in Explorer
+ Show in Files
+ 4 results · 5 weaker
+ ↩ Open
+ ⌘↩ Reveal
+ Ctrl+↩ Show
+ ␣ Preview
+ Search
+ 9:41 AM
+ A moment in a video
+ A minute in a podcast
+ A page in a PDF
+ A photo
+ Any language
+ Code
+ Opens the clip at the moment the zebra shows up.
+ ⇧ ⌘ Space 
+ Ctrl Shift Space 
+ opens it from any app
+ Prefer to watch? DigUp in one minute, with narration.
+ 1:00
+ The video plays from YouTube when you start it; nothing loads from YouTube before that. Watch on YouTube
+ One model, one space for every kind of file
+ EmbeddingGemma 2 is the embedding model Google DeepMind released in October 2026. It turns text, pictures, sound and video into points in one shared space, where things that mean the same land close together, in more than 100 languages. It's open (Apache 2.0) and small enough, at 740M parameters, to run on a laptop.
+ the beach video frames + sound + photos 
+ safari video frames + photos 
+ a podcast sound 
+ home and food photos 
+ pages and notes text + screenshots 
+ a photo
+ 0.74
+ IMG_4133.jpg
+ a photo
+ 0.73
+ IMG_4128.jpg
+ 0:25
+ a sound
+ 0.73
+ Dog barking.m4a
+ a dog barking on the beach
+ pictures
+ video frames
+ sound
+ text
+ 164 real EmbeddingGemma 2 vectors of the demo's files
+ (768-d, shown in 2-D)
+ a dog barking on the beach
+ সৈকতে একটা কুকুর
+ zebra in a video
+ where they talk about sleep
+ the clause about pets in the lease
+ a sweet rice pudding recipe
+ notes from our trip to Jordan
+ a photo
+ IMG_4133.jpg
+ 0.74
+ a photo
+ IMG_4128.jpg
+ 0.73
+ a sound
+ Dog barking.m4a
+ 0.73
+ Every point is a real vector: a picture, a PDF page, a passage, a video frame or 30 seconds of sound from the files in the demo, laid out in two dimensions. A search lands among what it finds, and the cards are DigUp's best matches with their cosine similarity. Try the Bengali one, or the rice pudding: a search in one language finds files written in another. 
+ It takes you to the spot
+ Every page, passage, video frame and stretch of sound has its own place in the index, so a result opens where it matched.
+ 0:42
+ 7:55
+ 1 2 3 4 5 6 7 8 
+ p. 4
+ The moment, the minute, the page
+ A video opens at the moment the zebra shows up, a podcast at the minute they talk about sleep, and the preview shows the PDF page that answers. Code opens in your editor at the line.
+ INV-2047
+ Invoice INV-2047.pdf
+ Amount due for INV-2047 by Oct 30
+ Exact words, too
+ Invoice numbers, error codes and names are matched as written, next to the meaning. On a Mac that includes the text inside screenshots and scans.
+ a dog on the beach
+ সৈকতে একটা কুকুর
+ كلب على الشاطئ
+ In any of more than 100 languages
+ A search in one language finds files written in another. The evals cover English, Bengali and Arabic; the model knows many more.
+ code: retry a failed call with backoff
+ retry.ts L1–47
+ weather-app/src/net
+ ↩ Opens in your editor at line 1
+ Zed
+ VS Code
+ Cursor
+ JetBrains
+ Sublime Text
+ Xcode
+ Code, if you want it
+ Turn it on for your projects, then start a search with code: and say what the code does, or type a name to go to where it's defined. Code has an index of its own and never mixes with your files.
+ A 463-page book
+ Pages 1–30, in the first pass
+ The rest, once everything else is in
+ Long files, read to the end
+ Recordings and videos of any length are read whole, 30 seconds of sound and one frame per shot at a time. Big PDFs and documents get their first pages right away and the rest later.
+ Photos
+ Screenshots
+ PDFs
+ Documents
+ Spreadsheets
+ Slides
+ Audio
+ Video
+ Every kind of file you keep
+ Pictures, PDFs (scans too), Word, Markdown and other documents, spreadsheets and slides, recordings and videos. The full list
+ 9:41:12
+ Screenshot saved
+ 9:41:13
+ Searchable
+ Keeps up quietly
+ After the first pass, DigUp reads only what's new or changed, a moment after it lands. The model runs in a helper that quits when it's done.
+ Made for the keyboard
+ Press the shortcut in any app, type, and you're there. Everything else is a key away.
+ ⇧ ⌘ Space 
+ Ctrl Shift Space 
+ Opens the search panel from any app
+ ↩ 
+ Enter 
+ Opens the result at its page, moment or line
+ Space 
+ Space 
+ A big preview, right there
+ ⌘ ↩ 
+ Ctrl Enter 
+ Shows it in Finder
+ Shows it in Explorer
+ Shows it in your file manager
+ ⌘ O 
+ Ctrl O 
+ The same search in a window, with filters
+ Nothing you index leaves your computer
+ The model, the index and every search stay on your machine. DigUp goes online for two things only, and neither carries anything about your files. No account, no telemetry.
+ Privacy and security, in detail 
+ Your computer
+ Your folders
+ DigUp with EmbeddingGemma 2 
+ One index file
+ Once
+The model, 865 MB, from Hugging Face
+ Daily
+An update check on GitHub, which you can turn off
+ On a Mac, on Windows and on Linux
+ The search engine is the same code on every system, with the same model and the same results. The app around it belongs to each.
+ Mac
+ Stable
+ 0.6.2 · October 21, 2026
+ Needs an Apple Silicon Mac (M1 or later) with macOS 14 or later.
+ In the menu bar. Runs the model on the GPU with Metal.
+ Screenshots and scanned pages are also searchable by their text, with Apple's text recognition.
+ Videos open at the moment in QuickTime Player or IINA.
+ Download for Mac
+ Install guide
+ Windows
+ Beta
+ 0.7.0-beta.3 · October 22, 2026
+ Needs 64-bit Windows 10 or 11.
+ In the tray. Runs the model on the graphics card with Vulkan when that's faster, otherwise on the processor.
+ Installs for you only, with no admin rights.
+ Not yet: text inside screenshots, old .doc files, RAW photos, SVG pictures.
+ Download for Windows
+ Install guide
+ Linux
+ Beta
+ 0.7.0-beta.3 · October 22, 2026
+ Needs a 64-bit Intel or AMD processor: Ubuntu 22.04, Debian 12, Mint 21 or newer for the .deb, and most distributions for the AppImage.
+ In the tray. Runs the model on the graphics card with Vulkan when that's faster, otherwise on the processor.
+ A .deb for Ubuntu, Debian and Mint, and an AppImage for the rest.
+ Not yet: text inside screenshots, old .doc files, RAW photos, SVG pictures.
+ Download for Linux
+ Install guide
+ Watch the same searches on each system
+ What differs between them
+ All releases on GitHub
+ Build from source
+ Questions people ask
+ More in the FAQ
+, and fixes for common problems in Troubleshooting
+.
+ What is DigUp? 
+ A search app for the files on your computer. It runs Google DeepMind's EmbeddingGemma 2, a model that puts text, pictures, sound and video in one shared space, on your own machine. You describe what you remember, and it finds the photo, the PDF page, the minute in a recording or the moment in a video. It's free and open source, on a Mac, on Windows and on Linux.
+ How is it different from Spotlight or Windows Search? 
+ They find files by their names, text and metadata. DigUp also finds them by what they show or say, and takes you to the page or moment that matched. They work fine side by side.
+ What does DigUp send over the network? 
+ Nothing you index leaves your computer. DigUp goes online for two things: to download the model once, from Hugging Face, and to check for updates once a day, on GitHub. The update check sends nothing about your files, and you can turn it off in Settings → General. No account, no telemetry. Privacy and security
+ has the details.
+ Why is the download 865 MB? 
+ That's the model: the text part (310 MB) and the image and audio encoders (555 MB). It downloads once. The app itself is about 20 MB on a Mac, and 40 to 140 MB on Windows and Linux, depending on the package, since those carry their own PDF, video and image readers.
+ Will it slow my computer down? 
+ Only the first pass is heavy, and it happens once. After that DigUp reads only what's new or changed. The model runs in a separate helper that quits when it's done, and the search side only loads while you search. On a Mac, Low Power Mode and a hot Mac make the first pass wait, and Index only at set hours can keep it to the night.
+ Which languages does it understand? 
+ The model knows more than 100 languages, and DigUp searches in all of them, across languages too: a search in English can find a note in Bengali or Arabic. DigUp's tests cover English, Bengali and Arabic because those are the languages of the files it was tested on, and Google notes that the model isn't equally strong in every language. Two limits apply to exact words, not to meaning: the text inside screenshots is read only on a Mac, by Apple's text recognition (about 25 languages), and languages written without spaces, like Chinese, Japanese and Thai, aren't split into words.
+ Find the thing you're thinking of.
+ Free and open source. Everything runs on your computer.
+ Download for Mac
+ Star on GitHub
+ DigUp
+ Describe it. Dig it up. Search the files on your computer by what's in them, with Google DeepMind's EmbeddingGemma 2.
+ Free and open source under the MIT license. Made by Abdur Rahim
+.
+ Get DigUp
+ Download
+ Install on Mac
+ Install on Windows
+ Install on Linux
+ Changelog
+ Help
+ Docs
+ Troubleshooting
+ FAQ
+ Report a bug
+ Privacy and security
+ Project
+ GitHub
+ How it works
+ Contributing
+ Credits and licenses
+ Donate
+ DigUp is built on EmbeddingGemma 2
+ by Google DeepMind (Apache 2.0) and llama.cpp
+ (MIT). It isn't affiliated with Google, Apple or Microsoft. Gemma is a trademark of Google LLC; Mac and Spotlight are trademarks of Apple Inc.; Windows is a trademark of Microsoft Corporation.
+ This site sets no cookies and runs no analytics. Release feed
+ esc
+ ↑ ↓ Move
+ ↩ Open
+ esc Close
+ The real app on a Mac, on Windows and on Linux, with the same files: a moment in a video, a podcast minute, a page in a lease, a dog on the beach in three languages, and code that opens in Zed.
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context": "https://schema.org", "@type": "SoftwareApplication", "applicationCategory": "UtilitiesApplication", "author": {"@type": "Person", "name": "Abdur Rahim", "url": "https://arahim.dev/"}, "codeRepository": "https://github.com/ARahim3/DigUp", "description": "Search the files on your computer by what\u0027s in them. DigUp runs Google DeepMind\u0027s EmbeddingGemma 2 on your Mac, Windows PC or Linux machine and finds the photo, the PDF page, the minute in a recording or the moment in a video. Free and open source.", "downloadUrl": "https://digup.arahim.dev/download/", "license": "https://opensource.org/licenses/MIT", "name": "DigUp", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "operatingSystem": "macOS 14 or later (Apple Silicon), Windows 10 or 11 (64-bit), Linux (x86-64)", "url": "https://digup.arahim.dev/"}
+{"@context": "https://schema.org", "@type": "VideoObject", "description": "Search the files on your Mac by what\u2019s in them. DigUp runs Google DeepMind\u2019s EmbeddingGemma 2 on your Mac, so you can describe what you remember and land right on it.", "duration": "PT1M0S", "embedUrl": "https://www.youtube.com/embed/_ZXsHBiDimk", "name": "DigUp: search your Mac by what\u2019s in your files, with EmbeddingGemma 2", "thumbnailUrl": ["https://digup.arahim.dev/assets/img/video-poster.jpg"], "uploadDate": "2026-10-11T02:08:03-07:00", "url": "https://www.youtube.com/watch?v=_ZXsHBiDimk"}

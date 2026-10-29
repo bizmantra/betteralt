@@ -1,0 +1,240 @@
+#SNAPSHOT {"url":"https://github.com/rhasspy/piper","finalUrl":"https://github.com/rhasspy/piper","fetchedAt":"2026-10-29T03:40:05.765Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"ee8d044113b827153b3adb2aa029e3ea344817d74e7beb5621e93b8b48402a1d"}
+GitHub - rhasspy/piper: A fast, local neural text to speech system · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Events
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ This repository was archived by the owner on Oct 6, 2025. It is now read-only.
+ rhasspy
+ piper
+ Repository navigation
+ Code
+ Issues
+ 396
+  ( 396 )
+ Pull requests
+ 22
+  ( 22 )
+ Discussions
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ piper
+ Public archive
+ Notifications
+ You must be signed in to change notification settings
+ Fork 1.1k
+  ( 1.1k
+)
+ Star 11.3k
+  ( 11.3k
+)
+ You must be signed in to star a repository
+ About
+ A fast, local neural text to speech system
+ rhasspy.github.io/piper-samples/
+ Topics
+ speech-synthesis
+ text-to-speech
+ tts
+ Resources
+ Readme
+ MIT license
+ Activity
+ Custom properties
+ Stars
+ 11.3k stars
+ Watchers
+ 11 watching
+ Forks
+ 1.1k 
+ forks
+ Report repository
+ master
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 365 Commits
+ 365 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .github/
+ workflows
+ .github/
+ workflows
+ etc
+ etc
+ lib
+ lib
+ notebooks
+ notebooks
+ script
+ script
+ src
+ src
+ .dockerignore
+ .dockerignore
+ .gitignore
+ .gitignore
+ .projectile
+ .projectile
+ CMakeLists.txt
+ CMakeLists.txt
+ Dockerfile
+ Dockerfile
+ LICENSE.md
+ LICENSE.md
+ Makefile
+ Makefile
+ README.md
+ README.md
+ TRAINING.md
+ TRAINING.md
+ VERSION
+ VERSION
+ VOICES.md
+ VOICES.md
+ View all files
+ Repository files navigation
+ README
+ MIT license
+ More items
+ Development has moved: https://github.com/OHF-Voice/piper1-gpl
+ About
+ A fast, local neural text to speech system
+ rhasspy.github.io/piper-samples/
+ Topics
+ speech-synthesis
+ text-to-speech
+ tts
+ Resources
+ Readme
+ MIT license
+ Activity
+ Custom properties
+ Stars
+ 11.3k stars
+ Watchers
+ 11 watching
+ Forks
+ 1.1k 
+ forks
+ Report repository
+ Releases
+ Packages
+ Used by
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

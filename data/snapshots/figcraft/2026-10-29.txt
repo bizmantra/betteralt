@@ -1,0 +1,311 @@
+#SNAPSHOT {"url":"https://getartcraft.com/apps/figcraft","finalUrl":"https://getartcraft.com/apps/figcraft","fetchedAt":"2026-10-29T03:42:45.497Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"1843c6aedb90c7c9a304398160771d29f1746ede94788f4dbd66b517d94ee77d"}
+FigCraft: Interface design, rebuilt in pure Rust. - ArtCraft 
+ Home
+ Image
+ Video
+ Resources 
+ Download
+ Support
+ Craft Apps
+ Pricing
+ Launch App
+ Open main menu
+ 01
+ /
+FigCraft
+ Interface design · Early alpha
+ 08
+ Fig Craft
+ Interface design, rebuilt
+ in pure Rust.
+ Frames, auto layout, components and variants, vector networks, styles, variables and prototypes in a native app that opens instantly and works offline. No account, no telemetry, no subscription.
+ Download Launcher
+ Join the Discord
+ View on GitHub
+ macOS · Windows · Linux · Web · Free and open source
+ Share
+ Copy link
+ X
+ Reddit
+ Bluesky
+ LinkedIn
+ Ridgeline — auto layout screens in light and dark Screenshot
+ 02
+ /
+Live sessions
+ FigCraft
+ Design together
+, in real time.
+ Host the open file from the app or a server of your own, share the invite link, and edit it together. Changes sync live with cursors, selections and cursor chat, and undo takes back only your own.
+ A host and a guest editing one file
+ Video
+ 03
+ /
+Highlights
+ Interface design
+ What&#x27;s inside
+.
+ 01
+ Familiar by design
+ The toolbar, layers panel, Design panel, menus and shortcuts sit where your hands expect them. Productive on day one, no retraining.
+ 02
+ Layouts that build themselves
+ Auto layout in both directions with wrap and grid, padding, gaps and Hug, Fill and Fixed sizing, plus constraints and layout grids for everything else.
+ 03
+ Components that scale
+ Instances with overrides that survive edits, component sets with variants and properties, and styles and variables with modes for light and dark.
+ 04
+ Real vector networks
+ Pen and pencil, a shape builder, booleans whose operands stay editable, variable-width strokes and smooth corners.
+ 05
+ Prototype and hand off
+ Connections, triggers and animated transitions, a presentation view, and Dev Mode with measurements, annotations and generated CSS, HTML, React, SwiftUI and Compose code.
+ 06
+ Agent-ready
+ Every menu item, tool and gesture runs one of 400+ commands, so the CLI, a JSON control channel and an MCP server can do anything you can click.
+ 04
+ /
+Screenshots
+ Captured in FigCraft
+ Full size 
+ Components, variants and the Assets panel
+ 02
+ Full size 
+ Prototype connections and flows
+ 03
+ Full size 
+ Dev Mode with annotations and generated code
+ 04
+ Full size 
+ Vector networks and variable-width strokes
+ 05
+ Full size 
+ Layout grids and styles, light theme
+ 06
+ Full size 
+ Live session with cursor chat and spotlight
+ 07
+ 05
+ /
+Get FigCraft
+ Free · Open source
+ Option 1 · Recommended
+ Get FigCraft with the Launcher
+.
+ ArtCraft Launcher installs FigCraft and every other Crafting App from one place, picks the right build for your computer and keeps them all up to date. Install it once and every update is a click away.
+ Every Crafting App
+ One-click updates
+ Verified downloads
+ ArtCraft Launcher · v 0.8.1
+ Download Launcher
+ About the Launcher 
+ Option 2 · Standalone
+ Just FigCraft ? Download it standalone
+.
+ These installers add FigCraft on its own, without the launcher. Come back here for new versions, or install the launcher later and it will find FigCraft and keep it updated.
+ Platform
+ 01
+ macOS
+ Disk image (Universal)
+ Apple silicon and Intel Macs.
+ Standalone for macOS
+ Other FigCraft files for macOS
+ Command-line tool (Universal)
+ The headless CLI for scripts and agents.
+ figcraft-cli-0.11.2-macos-universal.zip
+ Platform
+ 02
+ Windows
+ Installer (64-bit)
+ Most Windows 10 and 11 PCs.
+ Standalone for Windows
+ Other FigCraft files for Windows
+ Portable (64-bit)
+ Unzip and run, no install.
+ figcraft-0.11.2-windows-x64-portable.zip
+ Installer (32-bit)
+ Older 32-bit Windows.
+ figcraft-0.11.2-windows-x86.msi
+ Portable (32-bit)
+ Unzip and run on 32-bit Windows.
+ figcraft-0.11.2-windows-x86-portable.zip
+ Installer (ARM64)
+ Windows 11 on ARM laptops.
+ figcraft-0.11.2-windows-arm64.msi
+ Portable (ARM64)
+ Unzip and run on Windows on ARM.
+ figcraft-0.11.2-windows-arm64-portable.zip
+ Platform
+ 03
+ Linux
+ Flatpak (x86_64)
+ Sandboxed. Install with flatpak install --user.
+ Standalone for Linux
+ Other FigCraft files for Linux
+ AppImage (x86_64)
+ Any distro. Mark it executable and run.
+ figcraft-0.11.2-linux-x86_64.AppImage
+ Debian package (x86_64)
+ Debian, Ubuntu and derivatives.
+ figcraft-0.11.2-linux-x86_64.deb
+ RPM package (x86_64)
+ Fedora, RHEL and openSUSE.
+ figcraft-0.11.2-linux-x86_64.rpm
+ Tarball (x86_64)
+ Plain binaries to unpack anywhere.
+ figcraft-0.11.2-linux-x86_64.tar.gz
+ Flatpak (ARM64)
+ Sandboxed, on 64-bit ARM.
+ figcraft-0.11.2-linux-aarch64.flatpak
+ AppImage (ARM64)
+ Any distro on 64-bit ARM.
+ figcraft-0.11.2-linux-aarch64.AppImage
+ Debian package (ARM64)
+ Debian, Ubuntu and derivatives on ARM.
+ figcraft-0.11.2-linux-aarch64.deb
+ RPM package (ARM64)
+ Fedora, RHEL and openSUSE on ARM.
+ figcraft-0.11.2-linux-aarch64.rpm
+ Tarball (ARM64)
+ Plain binaries for 64-bit ARM.
+ figcraft-0.11.2-linux-aarch64.tar.gz
+ Release
+ Version 0.11.2
+.
+ Free for every platform above. Questions or feedback? The team is in the ArtCraft Discord.
+ Other downloads
+ FreeBSD (x86_64)
+ Plain binaries for FreeBSD 14.
+ figcraft-0.11.2-freebsd-x86_64.tar.gz
+ Web build
+ The WebAssembly app, to host yourself.
+ figcraft-web-0.11.2.zip
+ SHA-256 checksums
+ Verify any download above.
+ SHA256SUMS.txt
+ Release notes on GitHub 
+ All releases 
+ macOS
+ Windows
+ Linux
+ Web
+ Build from source
+ Run it today
+.
+ Needs Rust 1.95 or newer. New to Rust? Install it with rustup
+, then run:
+ Terminal Copy
+ git clone https://github.com/storytold/figcraft.git
+cd figcraft
+cargo run --release -p figcraft View source on GitHub
+ 06
+ /
+The family
+ Crafting Apps
+ More from the family
+.
+ All Crafting Apps 
+ 01
+ Image editor
+ Photo Craft
+ The open-source image editor you already know how to use.
+ Explore PhotoCraft 
+ 02
+ Vector illustration
+ Vector Craft
+ Fast, open-source vector illustration, reimagined in pure Rust.
+ Explore VectorCraft 
+ 03
+ Video editor
+ Film Craft
+ Professional, open-source video editing, rebuilt from scratch in Rust.
+ Explore FilmCraft 
+ 04
+ Photo library & raw developer
+ Light Craft
+ An open-source photo library and raw developer that runs on your machine.
+ Explore LightCraft 
+ 05
+ PDF workbench
+ Pdf Craft
+ The open-source PDF workbench: read, organize, combine, split and secure.
+ Explore PdfCraft 
+ 06
+ Motion graphics & VFX
+ Effect Craft
+ Open-source motion graphics and visual effects, built in pure Rust.
+ Explore EffectCraft 
+ 07
+ Page layout & publishing
+ Design Craft
+ Open-source page layout and publishing, rebuilt in pure Rust.
+ Explore DesignCraft 
+ 09
+ Word processing
+ Word Craft
+ Fast, open-source word processing, rebuilt in pure Rust.
+ Explore WordCraft 
+ 10
+ Digital audio workstation
+ Sound Craft
+ Professional audio recording, editing and mixing in pure Rust.
+ Explore SoundCraft 
+ 11
+ Presentations & slide shows
+ Deck Craft
+ Build and deliver dynamic slide presentations, in pure Rust.
+ Explore DeckCraft 
+ 12
+ Computer-aided design & drafting
+ CAD Craft
+ Fast, open-source computer-aided design and drafting in pure Rust.
+ Explore CADCraft 
+ 13
+ Spreadsheets & data analysis
+ Grid Craft
+ Fast, open-source spreadsheets and data analysis, rebuilt in pure Rust.
+ Explore GridCraft 
+ Open source · Free
+ Help shape Fig Craft
+.
+ Report bugs, request features and get early builds of FigCraft in the ArtCraft Discord.
+ Join the Discord
+ Open-source tools for artists: the Craft Apps and ArtCraft Studio, our AI image and video app.
+ hello@storyteller.ai
+ ArtCraft Studio
+ Download
+ Pricing
+ Use on web
+ Craft Apps
+ All Craft Apps
+ PhotoCraft
+ VectorCraft
+ FilmCraft
+ LightCraft
+ PdfCraft
+ EffectCraft
+ DesignCraft
+ FigCraft
+ WordCraft
+ SoundCraft
+ DeckCraft
+ CADCraft
+ GridCraft
+ Resources
+ Tutorials
+ News
+ FAQ
+ Press Kit
+ Support
+ Community
+ Discord
+ GitHub
+ YouTube
+ Instagram
+ TikTok
+ © 2026 ArtCraft
+ Made by artists, for artists
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"ArtCraft","applicationCategory":"DesignApplication","operatingSystem":"macOS, Windows, Web","description":"Open-source desktop app for generating AI video and images — built for artists who want real control.","url":"https://getartcraft.com","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"ArtCraft","url":"https://getartcraft.com"}}
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"FigCraft","applicationCategory":"DesignApplication","operatingSystem":"macOS, Windows, Linux, Web","description":"Frames, auto layout, components and variants, vector networks, styles, variables and prototypes in a native app that opens instantly and works offline. No account, no telemetry, no subscription.","url":"https://getartcraft.com/apps/figcraft","image":"https://getartcraft.com/images/apps/figcraft/og.jpg","thumbnailUrl":"https://getartcraft.com/images/apps/figcraft/icon.webp","screenshot":["https://getartcraft.com/images/apps/figcraft/hero.webp","https://getartcraft.com/images/apps/figcraft/components.webp","https://getartcraft.com/images/apps/figcraft/prototype.webp","https://getartcraft.com/images/apps/figcraft/dev-mode.webp","https://getartcraft.com/images/apps/figcraft/vector.webp","https://getartcraft.com/images/apps/figcraft/dashboard.webp","https://getartcraft.com/images/apps/figcraft/collab.webp"],"sameAs":"https://github.com/storytold/figcraft","softwareVersion":"0.11.2","downloadUrl":"https://github.com/storytold/figcraft/releases/tag/v0.11.2","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"ArtCraft","url":"https://getartcraft.com"}}

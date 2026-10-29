@@ -1,0 +1,204 @@
+#SNAPSHOT {"url":"https://lovable.dev/pricing","finalUrl":"https://lovable.dev/pricing","fetchedAt":"2026-10-29T03:39:41.750Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"5ce54838d4788bfd7789289d41fb593759fd6da449497cb7582b69c261f4dda2"}
+Skip to main content
+We use cookies to enhance your development experience and keep your data secure. Privacy Policy · Cookie Policy
+Manage preferences
+OK
+Solutions
+Resources
+Community
+Enterprise
+Pricing
+Security
+Log in
+Get started
+Pricing
+Start for free. Upgrade to get the capacity that exactly matches your team's needs.
+Plans
+Monthly
+Yearly
+2 months free
+Free
+Discover what Lovable can do for you
+$0
+Get started
+No credit card needed
+Free grants
+Unlimited collaborators
+5 lovable.app domains
+Invite-only publishing
+Cloud
+Community support
+Pro
+Designed for fast-moving teams building together in real time.
+$25
+/ month
+100 monthly credits
+Get started
+Unlimited users
+Free grants
+All Free features
+100 Pro credits
+Credit rollovers
+On-demand credit top-ups
+Unlimited lovable.app domains
+Custom domains
+User roles & permissions
+Per-member credit limits
+Remove the Lovable badge
+Email support
+Design systems
+Business
+Advanced controls and power features for growing departments
+$50
+/ month
+100 monthly credits
+Get started
+Unlimited users
+Free grants
+All Pro features
+100 Business credits
+Team workspace
+Role-based access
+Workspace publish
+SSO
+Security center
+Design templates
+Priority support
+Enterprise
+Built for large orgs needing flexibility, scale, and governance.
+Platform fee
+Book a demo
+Volume based pricing
+Unlimited users
+All Business features
+Directory sync (SCIM)
+Audit logs
+Restrict who publishes and invites
+Auto-retire abandoned apps
+Scheduled deep security scans
+Sensitive data detection and control
+Advanced design systems support
+Git sync data residency
+EU inference
+GitHub Enterprise, cloud or self-hosted
+Private npm registry
+Named CSM, onboarding and deployment
+Custom SLA
+Lovable for students
+Verify student status and get access to up to 50% off Lovable Pro.
+Get started
+Lovable for campus
+Billing and administrative controls for universities and colleges.
+Contact sales
+Lovable for kids
+Compliant access & curriculum for schools in partnership with imagi.
+Learn more
+Security and compliance
+Enterprise-grade security and compliance certifications
+Learn more
+Frequently asked questions
+What is Lovable and how does it work?
+What is a credit?
+How do I use credits in Lovable?
+Do credits expire?
+What happens to my credits if my subscription ends?
+Are credits refundable?
+What is included in free and paid plans?
+How do I buy credits for a team, class, or community?
+Do you charge per seat or per user?
+How much does it cost to run my app on Lovable?
+Why is the Business plan more expensive?
+Who owns the projects and code?
+Do you offer a student discount?
+Where can I find out more?
+Related articles
+Plans and credits
+Company
+Careers
+Press & media
+Enterprise
+Security
+Trust center
+(opens in new window)
+Partnerships
+Product
+Pricing
+Student discount
+For Work
+Founders
+Product Managers
+Designers
+Marketers
+Sales
+Ops
+People
+App builder
+Website builder
+AI-powered apps
+Prototyping
+Internal Tools
+Download apps
+Connections
+(opens in new window)
+Changelog
+(opens in new window)
+Status
+(opens in new window)
+Resources
+Learn
+(opens in new window)
+Templates
+Guides
+Connectors
+MCP server
+Videos
+Blog
+Support
+Reviews
+Sitemap
+Legal
+Privacy policy
+(opens in new window)
+Do not sell or share my personal information
+Cookie settings
+Enterprise terms
+(opens in new window)
+General terms
+(opens in new window)
+Desktop app terms
+(opens in new window)
+Domain registration terms
+(opens in new window)
+DMCA copyright policy
+(opens in new window)
+Accessibility
+(opens in new window)
+Platform rules
+(opens in new window)
+Report abuse
+(opens in new window)
+Report security concerns
+(opens in new window)
+DPA
+(opens in new window)
+Community
+Become a partner
+Hire a Lovable partner
+(opens in new window)
+Affiliates
+Code of conduct
+Discord
+(opens in new window)
+Reddit
+(opens in new window)
+X / Twitter
+(opens in new window)
+YouTube
+(opens in new window)
+LinkedIn
+(opens in new window)
+EN
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"WebSite","name":"Lovable","url":"https://lovable.dev","description":"Lovable is your superhuman full stack engineer. Chat with AI to build web apps. Sync with GitHub. One-click deploy."}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is Lovable and how does it work?","acceptedAnswer":{"@type":"Answer","text":"Lovable is an AI software engineer, which enables anyone to build for the web. Simply chat to instantly build websites and web apps, with no technical knowledge needed."}},{"@type":"Question","name":"What is a credit?","acceptedAnswer":{"@type":"Answer","text":"Credits are units Lovable uses to measure and pay for usage across your workspace. Credits let you build apps, run deployed apps, and power AI features from one balance. The value of a credit and the rate at which they are consumed for a given action depend on your subscription plan and the feature used, and credits are not necessarily equal in value across different plans."}},{"@type":"Question","name":"How do I use credits in Lovable?","acceptedAnswer":{"@type":"Answer","text":"Paid plans have access to a credit balance. Credits from your balance can be used in Lovable for building by sending messages to Lovable, hosting with Cloud, and offering AI features to users as part of your app. In addition to your credit balance, Pro and Business subscriptions include grants for building and hosting with Cloud. For building, pricing varies by mode: Default Mode: credits vary based on task complexity. Plan Mode: 1 credit per message. Here are some example prompts and their cost: \"Make the button gray\" — Updates the button styles (0.50 credits). \"Remove the footer\" — Removes the footer component (0.90 credits). \"Add authentication with sign up and login\" — Adds authentication pages and logic, updates routes (1.20 credits). \"Build me a landing page, use images\" — Creates a landing page with 3 generated images, theme, and 5 sections (1.70 credits). You can see the cost of each message in the message history by hovering over the three dots of an message."}},{"@type":"Question","name":"Do credits expire?","acceptedAnswer":{"@type":"Answer","text":"Yes. If unused, monthly plan credits expire two (2) months after they're issued, and annual plan credits expire one (1) month after your annual period ends. Top-up credits last twelve (12) months from purchase. Included grants of daily build credits expire at the end of each day and don't roll over."}},{"@type":"Question","name":"What happens to my credits if my subscription ends?","acceptedAnswer":{"@type":"Answer","text":"If you cancel your plan, you can keep using your remaining credits until the end of your current billing period. After that, your plan switches to Free and you only have access to grants included in the free plan. If your workspace has unused paid credits left, they will reactivate if you re-subscribe to any plan at any point before expiry. In very rare instances we had to close user accounts due to fraud or other breach of our Terms. In such cases, any remaining credits are deleted, unless otherwise required by the law."}},{"@type":"Question","name":"Are credits refundable?","acceptedAnswer":{"@type":"Answer","text":"No. Credits aren't refundable or redeemable for cash or any other value."}},{"@type":"Question","name":"What is included in free and paid plans?","acceptedAnswer":{"@type":"Answer","text":"Starting to build on Lovable is free. The free plan includes a daily grant of 5 build credits (up to 30 a month), plus monthly grants of 20 Cloud credits. The free plan also grants 4 credits usable by AI features built into user apps, to try the feature before subscribing. Paid subscribers get their plan's credits added to their balance monthly. This balance can be used flexibly to cover building, Cloud, and AI features in user apps. On top, subscriptions include daily grants of 5 build credits (some regional plans cap these at 30 per month) and a monthly grant of 20 Cloud credits."}},{"@type":"Question","name":"How do I buy credits for a team, class, or community?","acceptedAnswer":{"@type":"Answer","text":"Every Lovable plan belongs to a workspace, and everyone you invite into that workspace shares its credits. To fund a group of people, upgrade one workspace to a plan with enough monthly credits for everyone, then invite the whole group. Everyone builds from the shared credit pool on one subscription and one invoice, and each member can work on as many of their own projects as they want. To keep any one person from using up the shared credits, workspace owners and admins can set a default monthly credit limit and per-member overrides. Learn more about workspaces. This works the same for companies, classrooms, and communities. For large organizations, the Enterprise plan offers volume-based credit pricing."}},{"@type":"Question","name":"Do you charge per seat or per user?","acceptedAnswer":{"@type":"Answer","text":"No. Workspaces support unlimited members on all plans, and plans are priced by the credits they include, not by seats. Inviting more people doesn't change your subscription cost; what changes is how quickly the group uses the workspace's shared credits."}},{"@type":"Question","name":"How much does it cost to run my app on Lovable?","acceptedAnswer":{"@type":"Answer","text":"For most users with smaller or new apps, hosting (running an app on Lovable) does not cost anything: In most cases, the cost to publish, view, and keep your app running will be minimal and fully covered by the included grant that comes with your subscription. Apps that reach significant visitor traffic and/or size may start incurring cost on top of the included grant, which is covered by your credit balance. Learn more here"}},{"@type":"Question","name":"Why is the Business plan more expensive?","acceptedAnswer":{"@type":"Answer","text":"The higher price reflects the additional features Business adds on top of Pro for teams and larger organizations. Important: The cost for running their app and for AI features built into apps is the same for Business and Pro subscribers and not more expensive on the business plan. Since credits are priced higher on business plans, user who switch from Pro to Business plans will therefore see a decrease in credit usage for Run and AI cost in plan usage details."}},{"@type":"Question","name":"Who owns the projects and code?","acceptedAnswer":{"@type":"Answer","text":"You do. You own your code, which means the apps, websites, and other projects you build with Lovable, customer data stored in Lovable, as well as any AI output you generate in Lovable. (This is subject to any third-party rights in the underlying AI models.)"}},{"@type":"Question","name":"Do you offer a student discount?","acceptedAnswer":{"@type":"Answer","text":"Yes, we offer a student discount for students with a valid student email. You can read more and claim your discount on lovable.dev/students. Make sure you are logged in with your university email address."}},{"@type":"Question","name":"Where can I find out more?","acceptedAnswer":{"@type":"Answer","text":"Join the community on Discord or read up more on our documentation."}}]}

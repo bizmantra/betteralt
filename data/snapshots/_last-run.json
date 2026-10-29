@@ -1,7 +1,14 @@
 {
- "at": "2026-10-26T03:43:15.789Z",
- "total": 200,
+ "at": "2026-10-29T03:42:58.608Z",
+ "total": 212,
  "failed": [
+  {
+   "slug": "grok",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
+   "method": "playwright"
+  },
   {
    "slug": "gemini",
    "region": "in",
@@ -17,17 +24,17 @@
    "method": "playwright"
   },
   {
-   "slug": "grok",
+   "slug": "poe",
    "region": "in",
    "pass": false,
    "reason": "no ₹ amounts on page",
    "method": "playwright"
   },
   {
-   "slug": "poe",
-   "region": "in",
+   "slug": "tabnine",
+   "region": "us",
    "pass": false,
-   "reason": "no ₹ amounts on page",
+   "reason": "no $ amounts on page",
    "method": "playwright"
   },
   {
@@ -52,21 +59,14 @@
    "method": "playwright"
   },
   {
-   "slug": "tabnine",
-   "region": "us",
-   "pass": false,
-   "reason": "too short (0 chars, http 0)",
-   "method": "playwright"
-  },
-  {
-   "slug": "languagetool",
+   "slug": "quillbot",
    "region": "in",
    "pass": false,
    "reason": "no ₹ amounts on page",
    "method": "playwright"
   },
   {
-   "slug": "quillbot",
+   "slug": "languagetool",
    "region": "in",
    "pass": false,
    "reason": "no ₹ amounts on page",
@@ -108,13 +108,6 @@
    "method": "playwright"
   },
   {
-   "slug": "veed",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
    "slug": "tldv",
    "region": "in",
    "pass": false,
@@ -126,6 +119,13 @@
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "veed",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
    "method": "playwright"
   },
   {

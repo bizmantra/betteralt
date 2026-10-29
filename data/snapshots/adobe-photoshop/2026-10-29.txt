@@ -1,0 +1,208 @@
+#SNAPSHOT {"url":"https://www.adobe.com/products/photoshop/plans.html?country=US","finalUrl":"https://www.adobe.com/products/photoshop/plans.html?country=US","fetchedAt":"2026-10-29T03:41:49.638Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"8c5b4aee0eae2e87d897d9960e9f900ca98099e8fc0dbd541a244a7385716626"}
+Skip to main content
+Creativity & Design
+Photoshop
+Features
+Mobile
+Compare Plans
+Free Trial Details
+Sign in
+Home
+Adobe Creative Cloud
+Adobe Photoshop
+Compare Plans
+Compare plans.
+Start for free with Firefly image editing, powered by Photoshop. No credit card required. Or get the power and precision of Photoshop by choosing the plan that’s right for you.
+Get started for free
+Individuals
+Students and teachers
+Business
+Save 50%
+Photoshop
+Start editing images in Firefly and then go further with the precision of Photoshop.
+US$22.99/mo
+Annual, billed monthly
+Buy now
+Photography
+Get Photoshop and Firefly, Lightroom, Lightroom Classic, and 1TB of cloud storage.
+US$19.99/mo
+Annual, billed monthly
+Buy now
+Save 50%
+Creative Cloud Pro
+Save 50% for the first 3 months. Get Photoshop and Firefly, Lightroom, and 20+ apps. See terms.
+Regularly at
+US$69.99/mo 
+Alternatively at
+US$34.99/mo
+Annual, billed monthly
+Buy now
+Apps
+Photoshop on desktop, web, and mobile
+Firefly on web and mobile
+Lightroom
+Lightroom Classic
+20+ creative apps for photo, design, and video
+Creative AI
+Generative credits
+250 monthly
+1,000 monthly
+4,000 monthly
+Standard creative AI features like Generative Fill
+Access with generative credits
+Access with generative credits
+Unlimited access
+Premium creative AI features like Image to Video
+Access with generative credits
+Access with generative credits
+Access with generative credits
+Access to top AI models from Adobe, Google, OpenAI, and more
+Extra perks
+Adobe Express Premium
+30,000+ fonts
+1 million+ free Adobe Stock photos, drawings, video clips, audio clips, and templates
+Tutorials
+Cloud storage
+100GB
+1TB
+100GB
+Questions? We have answers.
+How much does Photoshop cost?
+Can I edit images for free?
+Can I buy Photoshop outright?
+What is a license and how does it work?
+What can I do with Photoshop and Firefly together?
+For individuals & small business
+Creative AI
+Photography
+Design and illustration
+Video and animation
+PDF
+3D
+Elements Family
+Stock images and video
+View all products
+For medium & large business
+Personalization at scale
+Content supply chain
+Unified customer experience
+Creativity and production
+B2B GTM orchestration
+View all products
+For organizations
+Education
+Nonprofits
+Government
+Startups
+Support
+Help Center
+Download and install
+Adobe Community
+Adobe Learn
+Medium and large business support
+Contact
+Chat with sales
+Request information
+Adobe
+Log into your account
+About
+Careers
+Events
+Newsroom
+Corporate responsibility
+Investor Relations
+Supply chain
+Trust Center
+Integrity
+Adobe for All
+Adobe Blog
+Featured products
+Acrobat Reader
+Firefly
+Adobe Express
+Photoshop
+Change region
+Copyright © 2026 Adobe. All rights reserved./
+Privacy/
+Terms of Use/
+Cookie preferences/
+Do not sell or share my personal information/
+Site Map/
+AdChoices
+
+#JSONLD (structured data published on the page, verbatim)
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.adobe.com/products/photoshop/plans.html#webpage",
+      "url": "https://www.adobe.com/products/photoshop/plans.html",
+      "publisher": {
+        "@id": "https://www.adobe.com/#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.adobe.com/#organization",
+      "name": "Adobe",
+      "url": "https://www.adobe.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg",
+        "contentUrl": "https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        [
+          {
+            "@type": "Question",
+            "name": "\n      \n        How much does Photoshop cost?\n      \n    ",
+            "acceptedAnswer": {
+              "text": "There are several Creative Cloud plans that include Photoshop. You can purchase Photoshop as a standalone app for US$22.99/mo for the annual billed monthly option or for  for the annual prepaid option.",
+              "@type": "Answer"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "\n      \n        Can I edit images for free?\n      \n    ",
+            "acceptedAnswer": {
+              "text": "Yes. You can start editing right in your browser using Firefly powered by Photoshop for free, with no download needed. Remove backgrounds, replace objects, upscale images, and retouch with simple prompts. When you want to go further with full precision and control, buy a plan and download the Photoshop desktop app.",
+              "@type": "Answer"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "\n      \n        Can I buy Photoshop outright?\n      \n    ",
+            "acceptedAnswer": {
+              "text": "No. Photoshop is available only through a Creative Cloud plan that you pay for either monthly or annually. You can get Photoshop alone or choose a plan with multiple apps.",
+              "@type": "Answer"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "\n      \n        What is a license and how does it work?\n      \n    ",
+            "acceptedAnswer": {
+              "text": "When you purchase a product from Adobe, a license represents your right to use the product and any included services. For example, a Photoshop for teams license gives one person the ability to install the app on two or more computers, activate and remain signed in to the app on up to two computers, and use the app on one computer at a time.",
+              "@type": "Answer"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "\n      \n        What can I do with Photoshop and Firefly together?\n      \n    ",
+            "acceptedAnswer": {
+              "text": "Get started quickly in Firefly. Generate visuals, remove backgrounds, expand scenes, and retouch with prompts, then go further with precision editing in the Photoshop desktop app. It's one workflow, from quick idea to finished, standout work.",
+              "@type": "Answer"
+            }
+          }
+        ]
+      ],
+      "@id": "https://www.adobe.com/products/photoshop/plans.html#faq",
+      "isPartOf": {
+        "@id": "https://www.adobe.com/products/photoshop/plans.html#webpage"
+      }
+    }
+  ]
+}

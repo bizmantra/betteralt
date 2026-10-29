@@ -1,0 +1,1400 @@
+#SNAPSHOT {"url":"https://nocodb.com/pricing","finalUrl":"https://nocodb.com/pricing","fetchedAt":"2026-10-29T03:41:39.001Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"f4c7a4a9b32ce9d5ac05af5e82e42ac07402d583e2bfcfb240928fd5d35adc91"}
+Pricing 
+ Import Airtable
+ 20k+
+ Try now
+ APIs
+ Product Docs
+ Meta APIs (v3)
+ Data APIs (v3)
+ Meta APIs (v2 - will deprecate soon)
+ Data APIs (v2 - will deprecate soon)
+ Docs
+ Templates
+ Pricing
+ Start for Free
+ Contact Sales
+ Start for Free
+ Back
+ Fairly Priced
+ Grows With Your Needs
+ Grows With Your Needs
+ Cloud
+ Self-hosted
+ Yearly
+ 20% off
+ Monthly
+ Billed yearly
+ Free
+ For Personal Applications
+ $
+ 0
+ per user / month
+ Free for upto 3 users.
+ Includes
+ 3 editor seats
+ 10 commenter seats
+ 1,000 records
+ 1 GB storage
+ 100 automation runs
+ 1,000 APIs/month
+ 1 extension
+ 1 interface, up to 3 pages
+ (no credit card required)
+ Choose Free
+ Plus
+ For Small Teams
+ $
+ 12
+ per seat / month, 
+billed annually
+ $
+ 108
+ / month, billed annually
+ For Unlimited Seats
+ Pay for 9
+ users, 
+‍ Unlimited free
+ users after.
+ Unlimited 
+seats for $108
+ Everything in Free and
+ Unlimited seats at just $108
+ Free commenter seats
+ 50,000 records
+ 20 GB storage
+ 30,000 automation runs
+ 100,000 APIs/month
+ Unlimited extensions
+ Unlimited interfaces
+ Choose Plus
+ External database connections aren’t supported on the Plus plan. Choose the Business plan to continue using it.
+ Business
+ For Scaling Businesses
+ $
+ 24
+ per seat / month, 
+billed annually
+ $
+ 216
+ / month, billed annually
+ For Unlimited Seats
+ Pay for 9
+ users, 
+‍ Unlimited free
+ users after.
+ Unlimited 
+seats for $216
+ Everything in Plus and
+ Unlimited seats at just $216
+ 300,000 records
+ 100 GB storage
+ 120,000 automation runs
+ 1,000,000 APIs/month
+ 10 external database connections
+ Private bases
+ SAML based single sign-on 🚀
+ Choose Business
+ Scale
+ For Growing Teams
+ $
+ 45
+ per seat / month, 
+billed annually
+ Fast-moving teams with budget.
+ Pay-as-you-grow.
+No seat minimums.
+ Everything in Business and
+ 3 minimum seats
+ 1 million records
+ 5 million APIs/month
+ 240,000 automation runs
+ 150 GB storage
+ Row level security
+ Pick exactly which rows each user sees
+ Scope record access by role, team, or user
+ Sales reps see their accounts. Managers see all
+ Same table, different views per audience
+ Real record-level access control. No SQL, no workarounds!
+ Audit logs
+ Know exactly who did what, and when
+ Every change tracked: the who, the what, the when
+ Answer "who deleted this?" in seconds, not days
+ The paper trail auditors, security, and legal will ask for
+ When something goes wrong, this is the difference between an answer and a guess!
+ or contact sales
+ Choose Scale
+ Enterprise
+ Tailored to Your Organization
+ Schedule a Call
+ Trusted By Publicly
+Trading Companies
+ Dedicated CSM.
+White-glove onboarding.
+ Everything in Scale, tailored with
+ SCIM & SSO
+ Sync identity groups to NocoDB teams, automatically
+ Map Okta, Azure AD, or any IdP group to a NocoDB team
+ Add or remove someone there, and their access here updates
+ Provision and deprovision users without any manual work
+ Your IdP stays the source of truth. NocoDB just follows.
+ Audit logs
+ Know exactly who did what, and when
+ Every change tracked: the who, the what, the when
+ Answer "who deleted this?" in seconds, not days
+ The paper trail auditors, security, and legal will ask for
+ When something goes wrong, this is the difference between an answer and a guess!
+ Team hierarchy
+ Nest teams to match your org chart
+ Create sub-teams under any parent team
+ Access flows naturally from leadership down
+ Reorganize on the fly, move teams under new parents
+ Mirror your real org structure, not a flat list of users!
+ Priority support
+ Invoice based payments
+ Base sandbox
+ (soon)
+ Test changes on a live base without breaking it
+ One-click clone of any base into a private sandbox
+ Rebuild views, scripts, automations, and schema safely
+ Publish back to production when you're ready
+ Iterate on real data without the fear of breaking real workflows.
+ Whitelabeling
+ (soon)
+ Make NocoDB look and feel like your product
+ Replace logo and product name across the UI
+ Branded login pages, emails, and exports
+ Ship internal tools under your own brand
+ Your customers see your brand, not ours.
+ Talk to Sales
+ Community
+ Free Forever, Fair-Code
+ $
+ 0
+ forever, self-deployed
+ ⭐ 63,000+ Github Stars
+🚀 20+ Million Downloads
+ Free, fair-code, run anywhere.
+ Includes
+ Unlimited records & storage
+ Unlimited seats
+ Tables & docs
+ Primary workhorses for your data & process management
+ Tables : Structured data with rich field types, formulas & relations
+ Docs : Wiki-style pages that live alongside your data
+ Two foundations, one workspace. No more juggling tools!
+ All roles included
+ All 5 roles. Free. Forever.
+ Owner : Full control over workspace
+ Creator : Build bases, design schemas
+ Editor : Add and update records day-to-day
+ Comments : Comment on data, no edits
+ Viewer : Read-only access for stakeholders
+ Yes, all 5 roles. Yes, on the free plan. No per-seat upcharge, not now, not ever!
+ 6 powerful views
+ 6 ways to see your data. All free.
+ Grid : Spreadsheet-style rows and columns
+ Kanban : Drag cards across stages
+ Gallery : Visual cards with cover images
+ Form : Shareable data-collection forms
+ Calendar : Date-driven records on a calendar
+ Map : Plot locations on an interactive map
+ Why settle for 3? You get all 6. Map & Kanban included, no upgrade needed!
+ Record comments
+ Real conversations on every record
+ Discuss decisions where the data lives
+ No external chat, no lost context
+ Most tools paywall this. You get it free, forever!
+ Conditional webhooks & payloads
+ Automations that fire on your terms
+ Trigger on rules: status, value, or field changes
+ Custom JSON payloads, shaped exactly how you need
+ No glue code, no integration platforms
+ Locked behind paid plans in Airtable, Monday & Coda. Yours, free forever!
+ Workflows & interfaces
+ Automate processes. Build apps on your data.
+ Up to 2 workflows per base
+ Up to 2 interfaces per workspace
+ Upgrade to Business for unlimited
+ Paid-only elsewhere. Included free in Community!
+ Community support
+ Choose Free
+ Business
+ For Your Business Needs
+ $
+ 24
+ per seat / month, 
+billed annually
+ Save up to 70% vs Airtable, Monday & Smartsheet
+ Pay-as-you-grow.
+No seat minimums.
+ Everything in Community and
+ SAML based single sign-on 🚀
+ SSO that just works with your stack
+ Protocols: SAML 2.0, OpenID Connect, OAuth
+ IdPs: Okta, Azure AD, Google Workspace, OneLogin, Keycloak, Auth0
+ Auto-provision users from your IdP
+ Whatever your IT team uses, NocoDB speaks it!
+ Workflows, scripts & dashboards
+ Automate the busywork. Visualize the rest.
+ Trigger workflows on record changes
+ Run custom scripts to extend NocoDB
+ Build dashboards from any table or view
+ One workspace for data, automation & insights!
+ Unlimited interfaces
+ Build custom apps on top of your data
+ Table, form, dashboard & record detail pages
+ Widgets, buttons, filters & visualizations
+ Invite people without giving them base access
+ No cap on interfaces or pages. Ship as many apps as you need!
+ Table level permissions
+ Lock down entire tables by role
+ Allow or deny access per role, team, or user
+ Hide sensitive tables from view entirely
+ Separate read, edit, and delete rights
+ The right table, for the right people. Always!
+ Field level permissions
+ Control who can edit each field
+ Salary, SSN, contracts: edited by HR only
+ Restrict edits by role, user, or lock fully
+ Enforced in APIs and shared forms too
+ Critical fields stay safe from accidental edits!
+ Teams
+ Manage users in groups, not one-by-one
+ Group collaborators into a single access unit
+ Assign a workspace or base role once, everyone inherits it
+ Change a role on the team, propagate to every member
+ Onboard a 20-person team in seconds, not 20 separate clicks!
+ Sync data from external apps
+ All your SaaS data, in one workspace
+ Pull from Jira, GitHub, GitLab, Zendesk & more
+ Issues, tickets, PRs land in NocoDB tables
+ Mix with your own data for cross-tool reports
+ Stop tab-hopping. Build with the data you already have!
+ Single-provider AI
+ AI fields, powered by your provider of choice
+ Connect OpenAI, Anthropic, Google, or any compatible API
+ Power AI fields, summaries, and classification
+ Your API key, your billing, your data
+ Bring the model you already use!
+ Email support
+ Choose Business
+ Scale
+ For Growing Teams
+ $
+ 45
+ per seat / month, 
+billed annually
+ Fast-moving teams with budget.
+No sales call needed.
+ Pay-as-you-grow.
+No seat minimums.
+ Everything in Business and
+ 3 minimum seats
+ Unlimited workspaces
+ Audit logs
+ Know exactly who did what, and when
+ Every change tracked: the who, the what, the when
+ Answer "who deleted this?" in seconds, not days
+ The paper trail auditors, security, and legal will ask for
+ When something goes wrong, this is the difference between an answer and a guess!
+ Row level security
+ Pick exactly which rows each user sees
+ Scope record access by role, team, or user
+ Sales reps see their accounts. Managers see all
+ Same table, different views per audience
+ Real record-level access control. No SQL, no workarounds!
+ Team hierarchy
+ Nest teams to match your org chart
+ Create sub-teams under any parent team
+ Access flows naturally from leadership down
+ Reorganize on the fly, move teams under new parents
+ Mirror your real org structure, not a flat list of users!
+ Multi-provider AI
+ Mix any AI providers, all in one workspace
+ OpenAI for generation, Claude for analysis, Ollama for sensitive data
+ Different teams pick different models
+ Route by cost, capability, or compliance
+ Best model for each job. No vendor lock-in!
+ Email support
+ or contact sales
+ Choose Scale
+ Enterprise
+ Tailored to Your Organization
+ Schedule a Call
+ Trusted in Defense, Finance,
+Healthcare & Publicly Trading Companies
+ Dedicated CSM.
+White-glove onboarding.
+ Everything in Scale, tailored with
+ SCIM
+ Sync identity groups to NocoDB teams, automatically
+ Map Okta, Azure AD, or any IdP group to a NocoDB team
+ Add or remove someone there, and their access here updates
+ Provision and deprovision users without any manual work
+ Your IdP stays the source of truth. NocoDB just follows.
+ Air gapped installation
+ Run NocoDB with zero internet dependency
+ Deploy inside fully isolated networks
+ No outbound calls, no telemetry, no license phone-home
+ Updates delivered as offline bundles
+ For environments where the internet doesn't exist, or shouldn't.
+ Staging environment
+ A safe place to test new releases of NocoDB
+ Run staging, UAT, training, or upgrade rehearsals
+ Validate integrations, migrations, and access changes
+ Ship changes with confidence, not fingers crossed.
+ Onboarding support
+ Priority support
+ Invoice based payments
+ Base sandbox
+ (soon)
+ Test changes on a live base without breaking it
+ One-click clone of any base into a private sandbox
+ Rebuild views, scripts, automations, and schema safely
+ Publish back to production when you're ready
+ Iterate on real data without the fear of breaking real workflows.
+ Whitelabeling
+ (soon)
+ Make NocoDB look and feel like your product
+ Replace logo and product name across the UI
+ Branded login pages, emails, and exports
+ Ship internal tools under your own brand
+ Your customers see your brand, not ours.
+ Talk to Sales
+ Free
+ For Personal Applications
+ $
+ 0
+ per user / month
+ Free for upto 3 users.
+ Includes
+ 3 editor seats
+ 10 commenter seats
+ 1,000 records
+ 1 GB storage
+ 100 automation runs
+ 1,000 APIs/month
+ 1 extension
+ 1 interface, up to 3 pages
+ (no credit card required)
+ Choose Free
+ Plus
+ For Small Teams
+ $
+ 15
+ per seat / month, 
+billed monthly
+ Unlimited 
+seats for $135
+ Pay for 9
+ users, 
+‍ Unlimited free
+ users after.
+ $
+ 135
+ per month, billed monthly
+ For Unlimited Seats
+ Everything in Free and
+ Unlimited seats at just $135
+ Free commenter seats
+ 50,000 records
+ 20 GB storage
+ 30,000 automation runs
+ 100,000 APIs/month
+ Unlimited extensions
+ Unlimited interfaces
+ Choose Plus
+ External database connections aren’t supported on the Plus plan. Choose the Business plan to continue using it.
+ Business
+ For Scaling Businesses
+ $
+ 30
+ per seat / month, 
+billed monthly
+ Pay for 9
+ users, 
+‍ Unlimited free
+ users after.
+ Unlimited 
+seats for $270
+ $
+ 270
+ / month, billed monthly
+ For Unlimited Seats
+ Everything in Plus and
+ Unlimited seats at just $270
+ 300,000 records
+ 100 GB storage
+ 120,000 automation runs
+ 1,000,000 APIs/month
+ 10 external database connections
+ Private bases
+ SAML based single sign-on 🚀
+ Choose Business
+ Scale
+ For Growing Teams
+ $
+ 54
+ per seat / month, 
+billed monthly
+ Fast-moving teams with budget.
+ Pay-as-you-grow.
+No seat minimums.
+ Everything in Business and
+ 3 minimum seats
+ 1 million records
+ 5 million APIs/month
+ 240,000 automation runs
+ 150 GB storage
+ Row level security
+ Pick exactly which rows each user sees
+ Scope record access by role, team, or user
+ Sales reps see their accounts. Managers see all
+ Same table, different views per audience
+ Real record-level access control. No SQL, no workarounds!
+ Audit logs
+ Know exactly who did what, and when
+ Every change tracked: the who, the what, the when
+ Answer "who deleted this?" in seconds, not days
+ The paper trail auditors, security, and legal will ask for
+ When something goes wrong, this is the difference between an answer and a guess!
+ or contact sales
+ Choose Scale
+ Enterprise
+ Tailored to Your Organization
+ Schedule a Call
+ Trusted By Publicly
+Trading Companies
+ Dedicated CSM.
+White-glove onboarding.
+ Everything in Scale, tailored with
+ SCIM & SSO
+ Sync identity groups to NocoDB teams, automatically
+ Map Okta, Azure AD, or any IdP group to a NocoDB team
+ Add or remove someone there, and their access here updates
+ Provision and deprovision users without any manual work
+ Your IdP stays the source of truth. NocoDB just follows.
+ Audit logs
+ Know exactly who did what, and when
+ Every change tracked: the who, the what, the when
+ Answer "who deleted this?" in seconds, not days
+ The paper trail auditors, security, and legal will ask for
+ When something goes wrong, this is the difference between an answer and a guess!
+ Team hierarchy
+ Nest teams to match your org chart
+ Create sub-teams under any parent team
+ Access flows naturally from leadership down
+ Reorganize on the fly, move teams under new parents
+ Mirror your real org structure, not a flat list of users!
+ Priority support
+ Invoice based payments
+ Base sandbox
+ (soon)
+ Test changes on a live base without breaking it
+ One-click clone of any base into a private sandbox
+ Rebuild views, scripts, automations, and schema safely
+ Publish back to production when you're ready
+ Iterate on real data without the fear of breaking real workflows.
+ Whitelabeling
+ (soon)
+ Make NocoDB look and feel like your product
+ Replace logo and product name across the UI
+ Branded login pages, emails, and exports
+ Ship internal tools under your own brand
+ Your customers see your brand, not ours.
+ Talk to Sales
+ Community
+ Free Forever, Fair-Code
+ $
+ 0
+ forever, self-deployed
+ ⭐ 63,000+ Github Stars
+🚀 20+ Million Downloads
+ Free, fair-code, run anywhere.
+ Includes
+ Unlimited records & storage
+ Unlimited seats
+ Tables & docs
+ Primary workhorses for your data & process management
+ Tables : Structured data with rich field types, formulas & relations
+ Docs : Wiki-style pages that live alongside your data
+ Two foundations, one workspace. No more juggling tools!
+ All roles included
+ All 5 roles. Free. Forever.
+ Owner : Full control over workspace
+ Creator : Build bases, design schemas
+ Editor : Add and update records day-to-day
+ Comments : Comment on data, no edits
+ Viewer : Read-only access for stakeholders
+ Yes, all 5 roles. Yes, on the free plan. No per-seat upcharge, not now, not ever!
+ 6 powerful views
+ 6 ways to see your data. All free.
+ Grid : Spreadsheet-style rows and columns
+ Kanban : Drag cards across stages
+ Gallery : Visual cards with cover images
+ Form : Shareable data-collection forms
+ Calendar : Date-driven records on a calendar
+ Map : Plot locations on an interactive map
+ Why settle for 3? You get all 6. Map & Kanban included, no upgrade needed!
+ Record comments
+ Real conversations on every record
+ Discuss decisions where the data lives
+ No external chat, no lost context
+ Most tools paywall this. You get it free, forever!
+ Conditional webhooks & payloads
+ Automations that fire on your terms
+ Trigger on rules: status, value, or field changes
+ Custom JSON payloads, shaped exactly how you need
+ No glue code, no integration platforms
+ Locked behind paid plans in Airtable, Monday & Coda. Yours, free forever!
+ Workflows & interfaces
+ Automate processes. Build apps on your data.
+ Up to 2 workflows per base
+ Up to 2 interfaces per workspace
+ Upgrade to Business for unlimited
+ Paid-only elsewhere. Included free in Community!
+ Community support
+ Choose Free
+ Business
+ For Your Business Needs
+ $
+ 30
+ per seat / month, 
+billed monthly
+ Save up to 70% vs Airtable, Monday & Smartsheet
+ Pay-as-you-grow.
+No seat minimums.
+ Everything in Community and
+ SAML based single sign-on 🚀
+ SSO that just works with your stack
+ Protocols: SAML 2.0, OpenID Connect, OAuth
+ IdPs: Okta, Azure AD, Google Workspace, OneLogin, Keycloak, Auth0
+ Auto-provision users from your IdP
+ Whatever your IT team uses, NocoDB speaks it!
+ Workflows, scripts & dashboards
+ Automate the busywork. Visualize the rest.
+ Trigger workflows on record changes
+ Run custom scripts to extend NocoDB
+ Build dashboards from any table or view
+ One workspace for data, automation & insights!
+ Unlimited interfaces
+ Build custom apps on top of your data
+ Table, form, dashboard & record detail pages
+ Widgets, buttons, filters & visualizations
+ Invite people without giving them base access
+ No cap on interfaces or pages. Ship as many apps as you need!
+ Table level permissions
+ Lock down entire tables by role
+ Allow or deny access per role, team, or user
+ Hide sensitive tables from view entirely
+ Separate read, edit, and delete rights
+ The right table, for the right people. Always!
+ Field level permissions
+ Control who can edit each field
+ Salary, SSN, contracts: edited by HR only
+ Restrict edits by role, user, or lock fully
+ Enforced in APIs and shared forms too
+ Critical fields stay safe from accidental edits!
+ Teams
+ Manage users in groups, not one-by-one
+ Group collaborators into a single access unit
+ Assign a workspace or base role once, everyone inherits it
+ Change a role on the team, propagate to every member
+ Onboard a 20-person team in seconds, not 20 separate clicks!
+ Sync data from external apps
+ All your SaaS data, in one workspace
+ Pull from Jira, GitHub, GitLab, Zendesk & more
+ Issues, tickets, PRs land in NocoDB tables
+ Mix with your own data for cross-tool reports
+ Stop tab-hopping. Build with the data you already have!
+ Single-provider AI
+ AI fields, powered by your provider of choice
+ Connect OpenAI, Anthropic, Google, or any compatible API
+ Power AI fields, summaries, and classification
+ Your API key, your billing, your data
+ Bring the model you already use!
+ Email support
+ Choose Business
+ Scale
+ For Growing Teams
+ $
+ 54
+ per seat / month, 
+billed monthly
+ Fast-moving teams with budget.
+No sales call needed.
+ Pay-as-you-grow.
+No seat minimums.
+ Everything in Business and
+ 3 minimum seats
+ Unlimited workspaces
+ Audit logs
+ Know exactly who did what, and when
+ Every change tracked: the who, the what, the when
+ Answer "who deleted this?" in seconds, not days
+ The paper trail auditors, security, and legal will ask for
+ When something goes wrong, this is the difference between an answer and a guess!
+ Row level security
+ Pick exactly which rows each user sees
+ Scope record access by role, team, or user
+ Sales reps see their accounts. Managers see all
+ Same table, different views per audience
+ Real record-level access control. No SQL, no workarounds!
+ Team hierarchy
+ Nest teams to match your org chart
+ Create sub-teams under any parent team
+ Access flows naturally from leadership down
+ Reorganize on the fly, move teams under new parents
+ Mirror your real org structure, not a flat list of users!
+ Multi-provider AI
+ Mix any AI providers, all in one workspace
+ OpenAI for generation, Claude for analysis, Ollama for sensitive data
+ Different teams pick different models
+ Route by cost, capability, or compliance
+ Best model for each job. No vendor lock-in!
+ Email support
+ or contact sales
+ Choose Scale
+ Enterprise
+ Tailored to Your Organization
+ Schedule a Call
+ Trusted in Defense, Finance,
+Healthcare & Publicly Trading Companies
+ Dedicated CSM.
+White-glove onboarding.
+ Everything in Scale, tailored with
+ SCIM
+ Sync identity groups to NocoDB teams, automatically
+ Map Okta, Azure AD, or any IdP group to a NocoDB team
+ Add or remove someone there, and their access here updates
+ Provision and deprovision users without any manual work
+ Your IdP stays the source of truth. NocoDB just follows.
+ Air gapped installation
+ Run NocoDB with zero internet dependency
+ Deploy inside fully isolated networks
+ No outbound calls, no telemetry, no license phone-home
+ Updates delivered as offline bundles
+ For environments where the internet doesn't exist, or shouldn't.
+ Staging environment
+ A safe place to test new releases of NocoDB
+ Run staging, UAT, training, or upgrade rehearsals
+ Validate integrations, migrations, and access changes
+ Ship changes with confidence, not fingers crossed.
+ Onboarding support
+ Priority support
+ Invoice based payments
+ Base sandbox
+ (soon)
+ Test changes on a live base without breaking it
+ One-click clone of any base into a private sandbox
+ Rebuild views, scripts, automations, and schema safely
+ Publish back to production when you're ready
+ Iterate on real data without the fear of breaking real workflows.
+ Whitelabeling
+ (soon)
+ Make NocoDB look and feel like your product
+ Replace logo and product name across the UI
+ Branded login pages, emails, and exports
+ Ship internal tools under your own brand
+ Your customers see your brand, not ours.
+ Talk to Sales
+ 100% secure payment, powered by
+ Compare features
+ Pick the best plan for you teams
+ Features
+ Free
+ 0 $ per user/month,
+billed annually
+ Try Free
+ Plus
+ 15 $ per user/month,
+billed annually
+ Choose Plus
+ Business
+ 30 $ per user/month,
+billed annually
+ Choose Business
+ Scale
+ 45 $ per user/month,
+billed annually
+ Choose Scale
+ Enterprise
+ Contact
+‍
+ Talk to Sales
+ General
+ Editors
+ Users who can modify records and manage application settings.
+ 3
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Commenters
+ Users who can view records and leave comments, but cannot make edits.
+ 10
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Record Revision History
+ Track changes made to each record, including who made the change and when.
+ 3 Days
+ 30 Days
+ 90 Days
+ 180 Days
+ 365+ Days
+ Base Snapshots
+ Maximum number of point-in-time backups that can be created for bases within a workspace.
+ 0
+ 2
+ 5
+ 10
+ 50+
+ Attachments
+ Total file storage available for attachments across all bases in a workspace.
+ 1 GB
+ 20 GB
+ 100 GB
+ 150 GB
+ 1000 GB
+ Record
+ Total number of records allowed across all bases in a workspace.
+ 1,000
+ 50,000
+ 300,000
+ 1,000,000
+ Unlimited
+ Bases
+ Maximum number of bases that can be created within a workspace.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Workspaces
+ Organize your projects and teams by grouping related bases within separate workspaces. Upgrade to Enterprise plans to unlock unlimited workspaces for your organization.
+ 1
+ 1
+ 1
+ 1
+ Unlimited
+ Workspace Logo
+ Add a custom logo to your workspace for better branding and team identity.
+ 30+ Field types
+ Access 30+ versatile field types including text, number, select, date, formula, relation, file, and more.
+ Expanded Record
+ Discussion Mode
+ Brings conversations into context by displaying all comments and threads linked to a specific record, enhancing collaboration and communication.
+ Attachment Mode
+ Highlights visual file content by displaying attachments prominently—ideal for image-heavy or document-focused records.
+ Field Mode
+ Field Mode lets you view and edit all field values of a record in a structured, form-like layout with clear labels and inputs.
+ Forms
+ Theme
+ Customize the look and feel of your form with different layout background color options.
+ Email Responses
+ Automatically send email confirmations or notifications when a form is submitted.
+ Pre-filled Forms
+ Populate form fields in advance using URL parameters—great for personalized experiences.
+ Custom logo & banner
+ Add your own branding with a custom logo and header banner.
+ Hide NocoDB Branding
+ Remove NocoDB branding from public forms for a fully white-labeled experience.
+ Redirect to URL
+ Send users to a specific URL after form submission—ideal for thank-you pages or follow-ups.
+ Input Validations
+ Ensure data quality by setting rules for required fields, formats, and more.
+ Conditional field visibility
+ Show or hide fields dynamically based on user input—keeping forms clean and relevant.
+ Automations
+ Automation Runs
+ Number of times webhooks can be triggered monthly—for example, when a record is created, updated, or deleted.
+ 100
+ 30,000
+ 120,000
+ 240,000
+ 600,000
+ Automation Logs
+ View the history and status of all webhook events, including timestamps, responses, and errors—helpful for monitoring and debugging.
+ 1 Day
+ 30 Days
+ 60 Days
+ 90 Days
+ 180+ Days
+ Webhooks
+ Number of webhooks that can be set up in a workspace. A webhook is an automated callback triggered by specific events.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Conditional Webhooks
+ Trigger webhooks only when specific conditions are met—giving you more control over when automations run.
+ Custom Payload
+ Define exactly what data is sent in a webhook—customize the structure and content to match your needs.
+ Workflows / base
+ Design and automate multi-step processes triggered by defined events or conditions.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Standard Integrations
+ Standard & essential workflow trigger & action nodes.
+ Plus Integrations
+ Includes advanced workflow nodes such as Incoming Webhook and CRON triggers, Google Calendar, Email, Script, HTTP, Twilio, Slack, Gmail, Outlook, Iterate, Delay, and Wait Until.
+ Business Integrations
+ Includes additional workflow node for HubSpot integration.
+ Advanced
+ Dynamic filters for linked records
+ Apply context-aware filters to show only relevant linked records based on values in the current record.
+ Field Aggregations
+ Display summarized values—like sum, average, or count—in the footer of your grid view.
+ Group Aggregations
+ Show summary values—such as sum, average, or count—in the header of each grouped section within the grid view.
+ Extensions
+ Add powerful features like charts, maps, and calendars—without cluttering the core application experience.
+ 1
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Scripts
+ Automate tasks or customize workflows by writing JavaScript that runs directly within your NocoDB base.
+ 1
+ Dashboards
+ Choose from multiple chart types like bar, line, pie and more to represent your data in the most effective way.
+ 1
+ Row Colouring
+ Visually highlight records by applying conditional colors to rows based on select field values or specific filters.
+ Cell Colouring
+ Visually highlight individual cells by applying conditional colors based on field values or defined rules.
+ Record Templates
+ Create reusable record blueprints to quickly add pre-filled entries.
+ Pinned Filters
+ Save and reuse frequently used filter configurations for quick access.
+ Toggle Filters
+ Enable or disable specific filters instantly without deleting them.
+ Conditional Button Field
+ Enable or disable button actions dynamically based on defined conditions or field values.
+ Folders
+ Organize tables, documents, dashboards, and views into collapsible folders in the sidebar.
+ Grid Presence
+ See your team inside the grid: live collaborator markers on cells and open records.
+ Share
+ Custom URL
+ Set a personalized URL for shared views and bases to match your branding or naming preferences.
+ Password Protected
+ Restrict access to shared views by requiring a password before they can be opened.
+ Developer Platform
+ API calls/month
+ Total number of API requests allowed per month.
+ 1,000
+ 100,000
+ 1,000,000
+ 5,000,000
+ Unlimited
+ Rest API
+ Access and manage your NocoDB data programmatically using standard HTTP methods—perfect for integrations and custom workflows.
+ Advanced API
+ Certain APIs are Enterprise-only, including Workspace, Script, and User Management (Collaboration) APIs.
+ Swagger specification
+ Get an auto-generated, interactive API documentation (OpenAPI/Swagger) to explore and test your NocoDB REST API endpoints.
+ API Snippets
+ Ready-to-use code examples for common API operations—helping you integrate NocoDB faster with your applications.
+ Collaboration
+ Role Based Permissions
+ Control who can view, edit, or manage data by assigning roles with specific permissions at the workspace, base, or table level.
+ Notifications
+ Stay informed with real-time notifications for comments, invites, mentions, and other key activities across your workspace.
+ Record Comments
+ Collaborate easily by adding comments directly to records—keep conversations and context in one place.
+ Teams
+ Create and manage groups of users into teams with which you can easily share bases, workspaces and assign permissions.
+ Teams Hierarchy
+ Organise teams into nested structures that mirror your company's reporting lines, so permissions and access flow naturally from parent teams to sub-teams.
+ Access Control
+ Table Permissions
+ Control who can create or delete records in a table by setting role-based permissions.
+ Field Permissions
+ Define who can view or edit specific fields based on user roles or explicit permissions.
+ Dashboard Permissions
+ Define who can view or edit specific fields based on user roles or explicit permissions.
+ Private Base
+ Restrict access to a base so only invited members can view or interact with it—ideal for confidential or limited-access projects.
+ Row Level Security
+ Restrict record access so users can only view or interact with rows permitted by defined rules.
+ SCIM
+ Automatically provision and manage users through your identity provider using SCIM integration.
+ Table Visibility
+ Control which tables are visible to specific roles, users or teams.
+ Field Visibility
+ Control which fields are visible to specific roles, users or teams within a table.
+ Soon
+ Integrations
+ Bring your own LLM Key(Open AI / Claude / Ollama / Grok)
+ Connect your own Large Language Model API key to use AI features with your preferred provider.
+ 1
+ Unlimited
+ Unlimited
+ Unlimited
+ Postgres & MySQL
+ Connect and work with external PostgreSQL and MySQL databases directly from NocoDB.
+ 1
+ Up to 100 records only
+ 1
+ Up to 100 records only
+ 10
+ 10
+ Unlimited
+ Microsoft SQL Server
+ Connect and work with MSSQL databases directly from NocoDB. Available as an add-on in Enterprise plan.
+ Add-on
+ Oracle
+ Connect and work with Oracle databases directly from NocoDB. Available as an add-on in Enterprise plan.
+ Add-on
+ Admin
+ Audit Logs
+ Log of key activities across the workspace / organization, including who performed what action and when.
+ Audit Logs Retention
+ How long audit log records are stored and available for review before they are automatically deleted.
+ 30 Days
+ 365+ Days
+ SSO
+ Log in to NocoDB using your existing credentials from providers like Google, Okta, or Microsoft—no need to manage separate passwords.
+ Admin Panel
+ Manage workspace settings, users, roles, and permissions—all in one place.
+ 2FA
+ Add an extra layer of security to your account by requiring a verification code during login.
+ API Token Permission
+ Control what data or actions an API token can access by assigning specific roles and permissions.
+ Payment by invoice
+ Available for Enterprise and Scale customers who purchase through our Sales team.
+ Support
+ Help center and community
+ Find answers and connect with others through the Help Center and Community forums.
+ Email Support
+ Get assistance via email for troubleshooting and product questions.
+ Priority Support
+ Receive faster responses and dedicated assistance with Priority Support.
+ Documents
+ Documents / base
+ Create documents that live alongside your data, not in a separate tool.
+ 3
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Document size limit
+ File size limit per document in a base.
+ 250KB
+ 5MB
+ 5MB
+ 5MB
+ 5MB
+ Rich text formatting
+ Format your docs with headings, lists, callouts, code blocks, and more for clear, structured content.
+ Embeds
+ Insert live content from external tools — videos, maps, websites, and more — directly into your page.
+ Comments & reactions
+ Leave feedback and notes directly on a page to keep discussions in context.
+ Inline comments & resolve
+ Highlight any text to comment on it, and mark threads resolved once addressed.
+ Export (Markdown, HTML)
+ Download your page as Markdown or HTML to use outside NocoDB.
+ Export (PDF)
+ Save a print-ready PDF of your page for sharing or archiving.
+ Revision History
+ View and restore previous versions of a page to track changes over time.
+ Soon
+ 3 Days
+ 7 Days
+ 90 Days
+ 180 Days
+ 365+ Days
+ Generative AI
+ AI Base Generator
+ Generate a complete base structure automatically from a simple prompt.
+ AI Field Generator
+ Create fields intelligently based on your existing table schema.
+ AI View Generator
+ Generate optimized views automatically based on your workflow needs.
+ AI Filter Generator
+ Build filter conditions automatically using natural language instructions.
+ AI Formula Generator
+ Generate formulas automatically without writing syntax manually.
+ AI Select Options Generator
+ Automatically create relevant select options based on field context.
+ AI Field Agents
+ Deploy AI agents to automatically populate, update, or transform field data based on defined prompts.
+ Soon
+ Interfaces
+ Interfaces / workspace
+ Build custom apps on top of your data, giving each audience just the pages and actions they need.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Table, dashboard, form & record detail pages
+ Ready-made page layouts for browsing records, tracking metrics, collecting entries, and viewing one record in full.
+ Drafts & publishing
+ Edit in a draft while everyone keeps using the last published version, then publish when you are ready.
+ Interface only collaborators
+ Coming soon! Invite people to an interface without giving them any access to the base behind it.
+ Record review & overview pages
+ Step through records one at a time for approvals and triage, and greet people with a landing page.
+ Page-level access control
+ Decide who can open each page, not just who can open the interface.
+ Features
+ Community
+ Free Forever,
+Fair-Code
+ Choose Free
+ Business
+ 24 $ per seat/month,
+billed annually
+ Choose Business
+ Scale
+ 45 $ per seat/month,
+billed annually
+ Choose Scale
+ Enterprise
+ Contact
+‍
+ Talk to Sales
+ General
+ Editors
+ Users who can modify records and manage application settings.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Commenters
+ Users who can view records and leave comments, but cannot make edits.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Record Revision History
+ Track changes made to each record, including who made the change and when.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Base Snapshots
+ Maximum number of point-in-time backups that can be created for bases within a workspace.
+ 5
+ 5
+ Unlimited
+ Attachments
+ Total file storage available for attachments across all bases in a workspace.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Record
+ Total number of records allowed across all bases in a workspace.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Bases
+ Maximum number of bases that can be created within a workspace.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Workspaces
+ Organize your projects and teams by grouping related bases within separate workspaces. Upgrade to Enterprise plans to unlock unlimited workspaces for your organization.
+ 1
+ 1
+ Unlimited
+ Unlimited
+ Workspace Logo
+ Add a custom logo to your workspace for better branding and team identity.
+ 30+ Field types
+ Access 30+ versatile field types including text, number, select, date, formula, relation, file, and more.
+ Expanded Record
+ Discussion Mode
+ Brings conversations into context by displaying all comments and threads linked to a specific record, enhancing collaboration and communication.
+ Attachment Mode
+ Highlights visual file content by displaying attachments prominently—ideal for image-heavy or document-focused records.
+ Field Mode
+ Field Mode lets you view and edit all field values of a record in a structured, form-like layout with clear labels and inputs.
+ Forms
+ Theme
+ Customize the look and feel of your form with different layout background color options.
+ Email Responses
+ Automatically send email confirmations or notifications when a form is submitted.
+ Pre-filled Forms
+ Populate form fields in advance using URL parameters—great for personalized experiences.
+ Custom logo & banner
+ Add your own branding with a custom logo and header banner.
+ Hide NocoDB Branding
+ Remove NocoDB branding from public forms for a fully white-labeled experience.
+ Redirect to URL
+ Send users to a specific URL after form submission—ideal for thank-you pages or follow-ups.
+ Input Validations
+ Ensure data quality by setting rules for required fields, formats, and more.
+ Conditional field visibility
+ Show or hide fields dynamically based on user input—keeping forms clean and relevant.
+ Automations
+ Automation Runs
+ Number of times webhooks can be triggered monthly—for example, when a record is created, updated, or deleted.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Automation Logs
+ View the history and status of all webhook events, including timestamps, responses, and errors—helpful for monitoring and debugging.
+ 21 Days
+ 21 Days
+ Unlimited
+ Webhooks
+ Number of webhooks that can be set up in a workspace. A webhook is an automated callback triggered by specific events.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Conditional Webhooks
+ Trigger webhooks only when specific conditions are met—giving you more control over when automations run.
+ Custom Payload
+ Define exactly what data is sent in a webhook—customize the structure and content to match your needs.
+ Workflows / base
+ Design and automate multi-step processes triggered by defined events or conditions.
+ 2
+ Standard Integrations
+ Standard & essential workflow trigger & action nodes.
+ Plus Integrations
+ Includes advanced workflow nodes such as Incoming Webhook and CRON triggers, Google Calendar, Email, Script, HTTP, Twilio, Slack, Gmail, Outlook, Iterate, Delay, and Wait Until.
+ Business Integrations
+ Includes additional workflow node for HubSpot integration.
+ Advanced
+ Dynamic filters for linked records
+ Apply context-aware filters to show only relevant linked records based on values in the current record.
+ Field Aggregations
+ Display summarized values—like sum, average, or count—in the footer of your grid view.
+ Group Aggregations
+ Show summary values—such as sum, average, or count—in the header of each grouped section within the grid view.
+ Extensions
+ Add powerful features like charts, maps, and calendars—without cluttering the core application experience.
+ Unlimited
+ Unlimited
+ Unlimited
+ Scripts
+ Automate tasks or customize workflows by writing JavaScript that runs directly within your NocoDB base.
+ Dashboards
+ Choose from multiple chart types like bar, line, pie and more to represent your data in the most effective way.
+ Row Colouring
+ Visually highlight records by applying conditional colors to rows based on select field values or specific filters.
+ Cell Colouring
+ Visually highlight individual cells by applying conditional colors based on field values or defined rules.
+ Record Templates
+ Create reusable record blueprints to quickly add pre-filled entries.
+ Pinned Filters
+ Save and reuse frequently used filter configurations for quick access.
+ Toggle Filters
+ Enable or disable specific filters instantly without deleting them.
+ Conditional Button Field
+ Enable or disable button actions dynamically based on defined conditions or field values.
+ Folders
+ Organize tables, documents, dashboards, and views into collapsible folders in the sidebar.
+ Grid Presence
+ See your team inside the grid: live collaborator markers on cells and open records.
+ Share
+ Custom URL
+ Set a personalized URL for shared views and bases to match your branding or naming preferences.
+ Password Protected
+ Restrict access to shared views by requiring a password before they can be opened.
+ Developer Platform
+ API calls/month
+ Total number of API requests allowed per month.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Rest API
+ Access and manage your NocoDB data programmatically using standard HTTP methods—perfect for integrations and custom workflows.
+ Advanced API
+ Certain APIs are Enterprise-only, including Workspace, Script, and User Management (Collaboration) APIs.
+ Swagger specification
+ Get an auto-generated, interactive API documentation (OpenAPI/Swagger) to explore and test your NocoDB REST API endpoints.
+ API Snippets
+ Ready-to-use code examples for common API operations—helping you integrate NocoDB faster with your applications.
+ Collaboration
+ Role Based Permissions
+ Control who can view, edit, or manage data by assigning roles with specific permissions at the workspace, base, or table level.
+ Notifications
+ Stay informed with real-time notifications for comments, invites, mentions, and other key activities across your workspace.
+ Record Comments
+ Collaborate easily by adding comments directly to records—keep conversations and context in one place.
+ Teams
+ Create and manage groups of users into teams with which you can easily share bases, workspaces and assign permissions.
+ Teams Hierarchy
+ Organise teams into nested structures that mirror your company's reporting lines, so permissions and access flow naturally from parent teams to sub-teams.
+ Access Control
+ Table Permissions
+ Control who can create or delete records in a table by setting role-based permissions.
+ Field Permissions
+ Define who can view or edit specific fields based on user roles or explicit permissions.
+ Dashboard Permissions
+ Define who can view or edit specific fields based on user roles or explicit permissions.
+ Private Base
+ Restrict access to a base so only invited members can view or interact with it—ideal for confidential or limited-access projects.
+ Row Level Security
+ Restrict record access so users can only view or interact with rows permitted by defined rules.
+ SCIM
+ Automatically provision and manage users through your identity provider using SCIM integration.
+ Table Visibility
+ Control which tables are visible to specific roles, users or teams.
+ Field Visibility
+ Control which fields are visible to specific roles, users or teams within a table.
+ Soon
+ Integrations
+ Bring your own LLM Key(Open AI / Claude / Ollama / Grok)
+ Connect your own Large Language Model API key to use AI features with your preferred provider.
+ 1
+ Postgres & MySQL
+ Connect and work with external PostgreSQL and MySQL databases directly from NocoDB.
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Microsoft SQL Server
+ Connect and work with MSSQL databases directly from NocoDB. Available as an add-on in Enterprise plan.
+ Add-on
+ Oracle
+ Connect and work with Oracle databases directly from NocoDB. Available as an add-on in Enterprise plan.
+ Add-on
+ Admin
+ Audit Logs
+ Log of key activities across the workspace / organization, including who performed what action and when.
+ Audit Logs Retention
+ How long audit log records are stored and available for review before they are automatically deleted.
+ 21 Days
+ Unlimited
+ SSO
+ Log in to NocoDB using your existing credentials from providers like Google, Okta, or Microsoft—no need to manage separate passwords.
+ Admin Panel
+ Manage workspace settings, users, roles, and permissions—all in one place.
+ 2FA
+ Add an extra layer of security to your account by requiring a verification code during login.
+ API Token Permission
+ Control what data or actions an API token can access by assigning specific roles and permissions.
+ Payment by invoice
+ Available for Enterprise and Scale customers who purchase through our Sales team.
+ Support
+ Help center and community
+ Find answers and connect with others through the Help Center and Community forums.
+ Email Support
+ Get assistance via email for troubleshooting and product questions.
+ Priority Support
+ Receive faster responses and dedicated assistance with Priority Support.
+ Documents
+ Documents / base
+ Create documents that live alongside your data, not in a separate tool.
+ Document size limit
+ File size limit per document in a base.
+ 5MB
+ 5MB
+ 5MB
+ Rich text formatting
+ Format your docs with headings, lists, callouts, code blocks, and more for clear, structured content.
+ Embeds
+ Insert live content from external tools — videos, maps, websites, and more — directly into your page.
+ Comments & reactions
+ Leave feedback and notes directly on a page to keep discussions in context.
+ Inline comments & resolve
+ Highlight any text to comment on it, and mark threads resolved once addressed.
+ Export (Markdown, HTML)
+ Download your page as Markdown or HTML to use outside NocoDB.
+ Export (PDF)
+ Save a print-ready PDF of your page for sharing or archiving.
+ Revision History
+ View and restore previous versions of a page to track changes over time.
+ Soon
+ Unlimited
+ Generative AI
+ AI Base Generator
+ Generate a complete base structure automatically from a simple prompt.
+ AI Field Generator
+ Create fields intelligently based on your existing table schema.
+ AI View Generator
+ Generate optimized views automatically based on your workflow needs.
+ AI Filter Generator
+ Build filter conditions automatically using natural language instructions.
+ AI Formula Generator
+ Generate formulas automatically without writing syntax manually.
+ AI Select Options Generator
+ Automatically create relevant select options based on field context.
+ AI Field Agents
+ Deploy AI agents to automatically populate, update, or transform field data based on defined prompts.
+ Soon
+ Interfaces
+ Interfaces / workspace
+ Build custom apps on top of your data, giving each audience just the pages and actions they need.
+ 2
+ Unlimited
+ Unlimited
+ Unlimited
+ Table, dashboard, form & record detail pages
+ Ready-made page layouts for browsing records, tracking metrics, collecting entries, and viewing one record in full.
+ Drafts & publishing
+ Edit in a draft while everyone keeps using the last published version, then publish when you are ready.
+ Interface only collaborators
+ Coming soon! Invite people to an interface without giving them any access to the base behind it.
+ Record review & overview pages
+ Step through records one at a time for approvals and triage, and greet people with a landing page.
+ Page-level access control
+ Decide who can open each page, not just who can open the interface.
+ FAQs
+ Got Questions? We've Got Answers.
+ on the desktop site.
+ Which plan is right for me?
+ Choosing the right NocoDB plan depends on your team size and specific feature requirements. Here's a quick overview:
+ Free Plan : Perfect for individuals and small teams exploring NocoDB. It includes most features, including access for all view types, integration, webhook, collaboration and role-based access control, with usage limits.
+ Plus Plan : Includes SSO! Ideal for small to medium-sized teams that need moderate automation, custom branding, and increased storage and record limits.
+ Business Plan : Suited for growing teams that require higher record limits, more API calls, and broader integration capabilities.
+ Enterprise Plan : Tailored for large organizations needing enterprise-grade security, large storage capacity, unlimited API access, extended audit logs, and priority support.
+ All paid plans include unlimited editor seats and are designed to scale with your team's evolving needs.
+ Can I use NocoDB for free?
+ Yes, NocoDB offers a Free plan that provides access to core features at no cost. It’s ideal for individuals or small teams starting out, allowing unlimited bases, up to 1,000 records per workspace, and collaboration with up to 3 editors and 10 commenters. The plan includes key views such as Grid, Kanban, Gallery, and Form, along with basic API access (up to 1,000 calls per month). While advanced features and branding options are limited, the Free plan is a solid choice for lightweight projects and initial exploration.
+ Am I eligible for the early adopter discount?
+ NocoDB offers a loyalty discount of up to 55% for users who signed up during the free technical preview period. To check your eligibility, sign in to your NocoDB account and navigate to the Team & Settings page. If you're eligible, a banner will appear with details about your discount.
+ What are my payment options?
+ NocoDB uses Stripe to process payments, supporting a variety of secure and flexible payment methods. Depending on your region, you can pay using:
+- Major credit and debit cards (Visa, Mastercard, American Express, etc.)
+- Digital wallets (Apple Pay, Google Pay)
+- Bank transfers and ACH payments (where supported)
+- Local payment methods (such as SEPA, iDEAL, and others based on your location)Subscriptions can be billed monthly or annually. Annual billing offers a 20% discount compared to monthly payments.
+ What happens when I hit my usage limits?
+ If you exceed the usage limits of your current plan, NocoDB will notify you and indicate which limits have been surpassed. You'll receive a 2-week grace period to upgrade to a plan that aligns with your usage needs. During this time, your access remains fully functional, ensuring a smooth transition. If an upgrade is not completed within the grace period, some features may be restricted until your plan is updated.
+ Can I import data from other tools?
+ Yes, NocoDB supports seamless data import from a wide range of sources. You can bring in data from tools like Airtable, spreadsheets (Excel), file formats such as CSV and JSON, and even connect directly to external databases. This flexibility makes it easy to migrate existing projects or quickly get started with new ones.
+ Can I cancel or change my plan anytime?
+ Yes, you can upgrade, downgrade, or cancel your plan at any time from your account settings. Changes take effect at the end of your current billing cycle.
+ What happens if I cancel my subscription?
+ If you cancel your subscription, your plan will remain active until the end of the billing period. After that, your workspace will be moved to the Free plan, and any usage above free limits may be restricted.
+ Will NocoDB continue to support the Fair code version?
+ Yep, NocoDB will definitely continue supporting the fair-code version! You’ll still have access to unlimited storage and users if you’re self-hosting. However, premium features like advanced form configurations, AI features, extensions, and some other fancy stuff are only available in the cloud and enterprise self-hosted versions. So if you’re looking for the full bells and whistles, you might wanna check those out.
+ Do you offer refunds?
+ NocoDB does not offer refunds for unused time or early cancellations. We recommend using the free trial to ensure the plan fits your needs before subscribing.
+ Do you offer discounts for non-profits or educational institutions?
+ While we deeply support the missions of non-profits and educational institutions, NocoDB already offers accessible pricing by capping the billing amount per workspace, with unlimited seats. Additionally, an fair-code version is available for self-hosting at no cost, with most core features included. Given this pricing approach, we do not offer separate discounts for non-profit or educational use at this time.
+ Product
+ Status
+ Resources
+ Product Docs
+ Meta APIs : v3
+ Data APIs : v3
+ Meta APIs : v2 (will deprecate soon)
+ Data APIs : v2 (will deprecate soon)
+ Company
+ About
+ Careers
+ Blog
+ © 2026 NocoDB. Inc All rights reserved
+ Privacy
+ Terms of Service

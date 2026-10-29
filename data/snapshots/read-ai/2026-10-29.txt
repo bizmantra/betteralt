@@ -1,0 +1,418 @@
+#SNAPSHOT {"url":"https://www.read.ai/plans-pricing","finalUrl":"https://www.read.ai/plans-pricing","fetchedAt":"2026-10-29T03:41:05.943Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"14dc0d3e6e02089f6ad462c55d352e07e974d13a9813fbaabeb5754a1f086a4b"}
+Plans & Pricing 
+ Read AI now available as Claude Connector, ChatGPT App, and MCP Server
+ Download:
+ Product
+ Meetings
+ Meeting Reports
+ Assistant
+ Real-Time Meeting Notes
+ Playback
+ Personal AI
+ Digital Twin
+ Enterprise
+ Workspaces
+ For Your Teams
+ Apps & Integrations
+ Integrations
+ All
+ Google Meet
+ Microsoft Teams
+ Zoom
+ HubSpot
+ Salesforce
+ Atlassian
+ Notion
+ Asana
+ Slack
+ Apps
+ Read AI for Android
+ Read AI for iPhone
+ Read AI for MacOS
+ Read AI for Windows
+ Read AI Extension
+ Workflows
+ MCP
+ API
+ Claude
+ ChatGPT
+ Ask Read
+ Overview
+ Multiplayer
+ Use Cases
+ FAQs
+ Pricing
+ Plans & Pricing
+ Contact Sales
+ About
+ About Read
+ Resources
+ Case Studies
+ Account & Privacy Center
+ Privacy
+ Blog
+ Careers
+ Support
+ Book a Demo
+ Login
+ Try for free!
+ en
+ English
+ Español
+ Italiano
+ Português
+ Français
+ 日本語
+ हिन्दी
+ Русский
+ Deutsch
+ 中文
+ English
+ English
+ Español
+ Italiano
+ Português
+ Français
+ 日本語
+ हिन्दी
+ Русский
+ Deutsch
+ 中文
+ PRICING
+ Ready to elevate your productivity?
+ Unlock the power of Read AI today.
+ Watch Demo
+ Annual
+ -25%
+ Monthly
+ Free
+ For individuals starting out, with 5 meetings per month complete with summaries, transcription, and search.
+ The Free plan includes:
+ 5 meeting transcripts per month
+ Unlimited enterprise search
+ Best-in-class summaries for meetings, email, and messaging
+ Personalized meeting coach
+ Basic integrations
+ Topic Readouts
+ 20+ languages supported
+ Windows, MacOS, Android, and iOS apps
+ $0
+ Always free, no credit card required.
+ Get started
+ View all features
+ 30 meetings measured per month
+ Pro
+ For individuals and small teams who want basic transcription, search, and premium integrations.
+ Everything in Free, plus:
+ Priority report processing
+ Unlimited meeting transcripts
+ 100 file upload credits /mo
+ Premium integrations (Notion, Salesforce, HubSpot, Jira, Confluence, Zapier, webhooks)
+ Always included in paid plans:
+ Unlimited meeting reports
+ Unlimited storage
+ Workspace access
+ $15
+ -25%
+ $19.75
+ $19.75
+ USD. Per user / month when billed annually.
+ USD. Per user / month
+ Get started
+ View all features
+ 30 meetings measured per month
+ MOST POPULAR
+ Enterprise
+ For individuals and teams who want video playback and other supercharged capabilities.
+ Everything in Pro, plus:
+ Audio & video playback
+ Video highlights
+ 200 file upload credits /mo
+ Premium support
+ Always included in paid plans:
+ Unlimited meeting reports
+ Unlimited storage
+ Workspace access
+ $22.50
+ -25%
+ $29.75
+ $29.75
+ USD. Per user / month when billed annually.
+ USD. Per user / month
+ Get started
+ View all features
+ 30 meetings measured per month
+ REQUIRES 5+ LICENSES
+ Enterprise+
+ For larger teams and organizations who need security and controls for scale. Talk to sales
+ Everything in Enterprise, plus:
+ HIPAA compliance
+ SAML & SCIM
+ Domain capture
+ Custom data retention policy
+ 300 file upload credits /mo
+ Workspace onboarding
+ Always included in paid plans:
+ Unlimited meeting reports
+ Unlimited storage
+ Workspace access
+ $29.75
+ -25%
+ $39.75
+ $39.75
+ USD. Per user / month when billed annually.
+ USD. Per user / month
+ Get started
+ 30 meetings measured per month
+ View all features
+ Questions about pricing?
+ Contact sales
+ Unlock More Possibilities
+ Compare Our Plans
+ Choose the perfect plan to fit your needs—whether you&#x27;re solo or with a team, we&#x27;ve got you covered with features that help you work smarter. Still have questions? Check out our FAQs.
+ Features
+ Free
+ Pro
+ Enterprise
+ Enterprise+
+ Meeting Assistant
+ Live Notes and Metrics
+ An in-meeting dashboard that provides transcription, summaries, and meeting metrics in real time as the meeting occurs.
+ 5 per month
+ Unlimited
+ Unlimited
+ Unlimited
+ Support for Zoom, Teams, & Meet
+ Add Read Assistant to any Zoom, Teams, or Meet meeting to automatically take meeting notes
+ Maximum Meeting Length
+ Record and measure meetings up to the maximum recording duration.
+ 1 hour
+ 4 hours
+ 4 hours
+ 8 hours
+ Custom Assistant Branding
+ Customize the name (all platforms) and logo (Zoom only) with your brand when Read joins your video conference call.
+ —
+ Meeting Reports
+ Meeting Reports
+ Automatically generated meeting summary, topics, action items, and key questions.
+ 5 per month
+ Unlimited
+ Unlimited
+ Unlimited
+ Summary
+ Best-in-class meeting summaries that deliver a clear, high-level recap.
+ Transcription
+ The full dialogue of a meeting broken out by speaker, augmented with listener sentiment and engagement.
+ 5 per month
+ Unlimited
+ Unlimited
+ Unlimited
+ Audio / Video Playback
+ Full video/audio recording of all meetings. Use Meeting Playback to contextualize participant reactions to the conversation and content being presented.
+ —
+ —
+ Meeting Coach
+ Get a personalized coaching report in your meeting report with metrics like talking speed, filler words, bias, and charisma.
+ Support for 16+ Languages
+ Read meeting reports are available in 16+ languages including Arabic, Chinese (Cantonese and Mandarin), Danish, Dutch, English, Finnish, French, German, Hindi, Italian, Japanese, Norwegian, Portuguese, Russian, Spanish, and Swedish
+ Advanced
+ Ask Read
+ AI-powered search that connects your meetings, emails, messages, and more—helping you find answers, uncover insights, and streamline work.
+ Large Language Models
+ Direct access to native LLMs from Anthropic Claude and OpenAI GPT in Read AI&#x27;s Search Copilot
+ —
+ Workspace
+ Designed for teams: set report distribution and sharing rules, control which meetings Read joins, and manage user licenses across your organization
+ —
+ Integrations
+ Connect Read AI with your favorite tools like Slack, Salesforce, Jira, and more to streamline workflows and power your knowledge base.
+ Basic
+ Premium
+ Premium
+ Premium
+ Web Extension
+ Chrome plugin that brings Read AI&#x27;s insights directly into your Gmail. Plus, get scheduling insights in Google Calendar and add Read to a meeting right from the extension.
+ Meeting Audio/Video Uploads
+ Upload your own audio and video recordings to generate a Read meeting report including a summary, topics, action items, key questions, and transcript.
+ Not included
+ 100 mins/mo
+ 200 mins/mo
+ 300 mins/mo
+ Read AI Apps
+ Android & iOS Apps
+ Capture in-person meetings, live events, and record thoughts on the go. Access meeting reports and manage your calendar from anywhere, right from your mobile device.
+ Windows & MacOS Apps
+ Record and transcribe meetings directly from your computer. Access detailed meeting reports, manage which events Read AI joins, and collaborate seamlessly—all from your desktop.
+ Reporting & Insights
+ For You Insights
+ Ranked topics across meetings based on your engagement.
+ —
+ Recommendations
+ Automatically optimize your meetings for fewer attendees, higher engagement, and better outcomes.
+ Meeting Policy
+ Individual and team meeting benchmarks such as timeliness and level of engagement by meeting size.
+ Coaching Trends
+ Get personalized coaching recommendations across all meetings to improve clarity, inclusion, and impact.
+ Support & Security
+ Dedicated Support
+ Support requests from users on the Enterprise and Enterprise+ Plans are prioritized above other plans.
+ —
+ —
+ Workspace Onboarding
+ Work with a specialist to tailor your Workspace settings to your organization&#x27;s needs.
+ —
+ —
+ —
+ Domain Capture
+ Restricts users in your domain from creating a Read account unless invited by the Workspace admin.
+ —
+ —
+ —
+ Enterprise SSO + SAML
+ Integration with your Identity Provider to support SAML-based SSO.
+ —
+ —
+ —
+ SCIM
+ Integration with your Identity Provider to support SCIM user provisioning.
+ —
+ —
+ —
+ Data Retention Policy
+ Set data retention policy to automatically delete meeting reports after a specified number of days.
+ —
+ —
+ —
+ HIPAA Compliance
+ Support for enabling HIPAA compliance in your Read workspace.
+ —
+ —
+ —
+ Dive deeper—download our one-page guides
+ Explore Read AI’s capabilities, use cases, and benefits—all in a quick, easy-to-read format.
+ Eliminate Information Silos with Read AI
+ Productivity
+ Break down information silos and boost productivity with Read AI&#x27;s Free Agent technology. Discover how Read AI compares to others — and how much you could save per user each month.
+ Download Now
+ Introducing Ask Read: Smarter Enterprise Search
+ AI Search
+ Harness AI to unlock workplace knowledge. Ask Read makes finding information effortless, saving time across your organization so employees can focus on high-impact work instead of digging through content.
+ Download Now
+ Get to Know Read AI
+ Overview
+ Get to know the leading AI-powered notetaker, streamlining meetings, emails, messages, and search for maximum efficiency. Read AI helps you stay organized, capture key insights, and turn conversations into actionable next steps.
+ Download Now
+ Zoom Essential Apps
+ Gain access to Read&#x27;s premium features at no cost with Essential Apps included in Zoom One Pro, Business, or Business Plus subscriptions.
+ Learn more about Zoom Essential Apps
+ Read for Education
+ Are you a student or teacher? Read provides automated transcription, comprehensive meeting notes, and seamless integrations with your favorite tools.
+ Learn more about education pricing
+ Ready to take back the workday?
+ Try Read today, your team will thank you tomorrow.
+ Get started for free
+ Frequently Asked Questions
+ Support
+ What are my payment options?
+ You can pay with credit card and will be charged monthly or annually. Read will email you a receipt after a successful payment to the email address you used to create your account. At this time we do not accept PayPal.
+If you are in a Workspace, please note that the Workspace owner will be in charge of paying for all users in the Workspace, since billing is managed centrally.
+ How many users can we have with a Pro/Enterprise plan?
+ All our licenses are individual. If you want to create a workspace, you will need to buy a license for each person you invite. Free users cannot be part of a Workspace, so you will not be able to manage any users without a paid license from your Workspace
+ Settings.
+ I don’t want a license for myself, can I just manage the workspace and payments?
+ We do not offer admin-only licenses, if you do not plan on using Read we suggest you assign one of the users to be the workspace owner so they can manage licenses and payments.
+ Can I buy Enterprise licenses for some users and Pro licenses for other users in my workspace?
+ No, all licenses in a Workspace have to be on the same plan.
+ I have a paid plan. Can I just share it with others so their meetings can be covered, too?
+ No, Read is designed assuming that one account belongs to a single person, so many features will not work or make sense if multiple people are sharing an account. Additionally, please note that sharing accounts is a violation of Read&#x27;s Terms of Service
+.
+ I forgot to cancel or no longer want my subscription, can I get a refund?
+ Read users can cancel their subscriptions
+ at any time before the renewal date. While we don&#x27;t offer refunds, you will continue to have access to your Workspace until the end of the billing period if you forgot to cancel it on time.
+ Do you offer discounts based on amount of licenses?
+ Read can discount based on the following annual license counts: 100+ licenses:  10% discount, 500+ licenses:  15% discount, 1,000+ licenses:  20% discount
+ Keep Reading
+ Sign up for emails to get the latest product updates, benchmarks, and more—delivered straight to your inbox.
+ Woohoo, you&#x27;re on the list!
+ Please fill out the fields above to continue.
+ Product
+ Meetings
+ Digital Twin
+ Ask Read
+ Agents
+ Messaging
+ Email
+ Messaging
+ Email
+ Pricing
+ Privacy
+ Features
+ Summary & Transcription
+ Assistant
+ Integrations
+ Workspaces
+ Real-Time Meeting Notes
+ Playback
+ For You
+ Speaker Coach
+ File Uploads
+ Recommendations
+ Platforms
+ Zoom
+ Google
+ Teams
+ Outlook
+ Slack
+ iOS
+ Android
+ Windows
+ MacOS
+ ChatGPT
+ Claude
+ MCP
+ API
+ Company
+ About Us
+ Blog
+ Press
+ Careers
+ Support
+ Support
+ Status Page
+ Privacy Policy
+ Terms of Service
+ Contact Us
+ ©   2025
+ Read AI, Inc.
+ Do not sell my personal information
+ Your Privacy Choices
+
+#JSONLD (structured data published on the page, verbatim)
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Read AI",
+    "url": "https://www.read.ai",
+    "logo": "https://readai-assets-production.s3.us-east-1.amazonaws.com/readai_logos/ReadLogo_HorizontalLockup_Color_1600x516.png",
+    "sameAs": [
+      "https://linkedin.com/company/read-ai/",
+      "https://twitter.com/ReadAI"
+    ],
+    "description": "AI-powered meeting assistant for transcription, summaries, and insights.",
+    "foundingDate": "2021",
+    "founders": [
+      {
+        "@type": "Person",
+        "name": "David Shim"
+      },
+      {
+        "@type": "Person",
+        "name": "Rob Williams"
+      },
+      {
+        "@type": "Person",
+        "name": "Elliott Waldron"
+      }
+    ]
+  }

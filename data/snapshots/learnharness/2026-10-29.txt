@@ -1,0 +1,75 @@
+#SNAPSHOT {"url":"https://learnharness.ai","finalUrl":"https://learnharness.ai/","fetchedAt":"2026-10-29T03:42:45.814Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"4141a9659ad2a22e7b0daf8858a9823b5e7187447ccdde29a5cafbd379dd0be2"}
+LearnHarness — Agent harness for learning 
+LearnHarness
+ How it works
+ Download
+ Source 
+ A desktop app for AI teaching and practice.
+ An agent harness
+ for learning
+ Download 
+ macOS
+ Windows
+ Linux
+ Free and open source. Bring your own API key.
+ I.
+ The idea
+ The best explanation and the best practice problem depend on what you already understand, and how you understand it.
+ So the agent needs more than your answers. It needs to follow your reasoning: what you can derive, what you are assuming, and where you get stuck.
+ An explanation, a prediction question with a thinking field, and the lesson map. 
+ II.
+ Teaching
+ i)
+ Probe
+ The agent probes the ideas your goal depends on, finding where your understanding ends. Give your raw reasoning in the thinking fields.
+ edge of your
+understanding
+ Does light travel
+in a straight line?
+ Double-slit
+experiment?
+ Photon
+self-interference?
+ What is
+a photon?
+ E = hf ?
+ ii)
+ Plan
+ The agent builds a minimal dependency tree from what you already understand to your goal, shown as a lesson map.
+ iii)
+ Teach
+ The agent teaches one reasoning step at a time, aiming for each step to feel obviously true.
+ Predict the next move, see it explained, then answer a question. Confusions get repaired before anything is built on them.
+ predict
+ teach
+ check
+ III.
+ Practice
+ Practice is a stream of problems that adapt to your reasoning. The goal is to make the right ideas and reasoning moves come to mind when you need them.
+ Your thinking shows the agent where you struggle. It targets those difficulties in the next problems, aiming for recall that succeeds with effort. If you get stuck, it gives small hints.
+ A ∧
+ B C 
+ B 
+ B 
+ A ∧
+ B C 
+ IV.
+ Graph
+ What you learn accumulates as propositions and reasoning chains: the ideas and the reasoning connecting them. This persistent structure is rendered as a graph.
+ Teaching and practice agents share it as context, so later sessions can build on your understanding. You can also import notes.
+ The persistent structure of ideas and reasoning. 
+ V.
+ The terms
+ Free and open source under AGPL-3.0. Learning records are plain files on your machine. System prompts are visible and editable.
+ Use your own provider keys and pay providers for usage, with no LearnHarness subscription or markup. A live meter shows model costs.
+ Requests send context to external model providers. Dictation and web research also use external services. Local storage does not mean offline processing.
+ Download LearnHarness
+ Add a provider key, choose your models, and start a session.
+ Dictation and web search are optional and use separate service keys.
+ Download 
+ macOS
+ Windows
+ Linux
+ AGPL-3.0
+ Source
+ © 2026 Amos Blomqvist

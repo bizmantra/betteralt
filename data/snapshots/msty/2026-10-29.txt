@@ -1,0 +1,330 @@
+#SNAPSHOT {"url":"https://msty.ai/pricing","finalUrl":"https://msty.ai/pricing/","fetchedAt":"2026-10-29T03:42:45.316Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"f7a68bdb16da75ad7d26e0985d6f9ebe943aecda4f1b537c9755746ef3b4d43d"}
+Pricing — Msty Skip to content
+ Msty
+ Products ⌄
+ The Msty Ecosystem
+ See how it connects 
+ 01
+ Studio Private AI workspace 
+ 02
+ Go Bounded AI agents 
+ 03
+ Nexus AI control center 
+ 04
+ Stack Governed knowledge layer 
+ Solutions ⌄
+ Practical AI starting points
+ All solutions 
+ 01
+ Education For educators and institutions 
+ 02
+ Legal For firms and legal teams 
+ 03
+ Operations For operational teams 
+ 04
+ Healthcare For healthcare organizations 
+ 05
+ Research For knowledge-intensive teams 
+ 06
+ Regulated teams For sensitive work 
+ Resources ⌄
+ Learn and reference
+ All resources 
+ 01
+ Blog Product updates and practical guides 
+ 02
+ Whitepapers Applied workflow studies and reports 
+ 03
+ Studio docs Workspace setup and feature guidance 
+ 04
+ Go docs Agent workflows and setup guidance 
+ 05
+ Nexus docs Gateway setup and model controls 
+ About
+ Pricing
+ Talk to us 
+ Msty
+ Explore
+ Products How the system connects 
+ See how it connects 
+ 01
+ Studio Private AI workspace 
+ 02
+ Go Bounded AI agents 
+ 03
+ Nexus AI control center 
+ 04
+ Stack Governed knowledge layer 
+ Solutions Practical AI starting points 
+ All solutions 
+ 01
+ Education For educators and institutions 
+ 02
+ Legal For firms and legal teams 
+ 03
+ Operations For operational teams 
+ 04
+ Healthcare For healthcare organizations 
+ 05
+ Research For knowledge-intensive teams 
+ 06
+ Regulated teams For sensitive work 
+ Resources Docs, updates, and guides 
+ All resources 
+ 01
+ Blog Product updates and practical guides 
+ 02
+ Whitepapers Applied workflow studies and reports 
+ 03
+ Studio docs Workspace setup and feature guidance 
+ 04
+ Go docs Agent workflows and setup guidance 
+ 05
+ Nexus docs Gateway setup and model controls 
+ About
+ Pricing
+ Security
+ Talk to us 
+ Msty
+ /
+ Pricing 
+ Pricing
+ Choose the right product for the work. 
+Start with Studio pricing, then switch between Go, Nexus, and Stack to compare what is
+ available now, what is commercial, and what is coming next.
+ Msty pricing
+ 01
+ Studio Private AI workspace 
+ 02
+ Go Bounded AI agents 
+ 03
+ Nexus AI control center 
+ 04
+ Stack Governed knowledge layer 
+ Private AI workspace
+ Studio pricing
+ Chat, knowledge, media, prompts, and repeatable AI workflows in one calm workspace.
+ Studio is the default pricing view. Lifetime access includes the Aurum feature set. 
+ Start exploring 
+ Free
+ $0 Forever
+ Core Studio Desktop features for individual work.
+ Chat with local and online models
+ Persona and Crew Conversations
+ Agent Mode
+ Knowledge Stacks
+ Prompt, Persona, Skill, and Media Studios
+ See Studio 
+ Billed yearly 
+ Aurum
+ $149 USD per user / year
+ Unlock Studio Web and the advanced Studio feature set.
+ Msty Studio Web
+ Azure and Bedrock providers
+ Studio Assistants
+ Shadow Personas
+ Turnstiles, Insights, Forge Mode, and power-user features
+ Buy License 
+ One-time payment Recommended
+ Aurum Lifetime
+ $349 USD per user
+ Lifetime access to Aurum features today and tomorrow.
+ All features of Aurum
+ Lifetime updates and access
+ Buy License 
+ Custom plan 
+ Enterprise & Teams
+ Talk to us 
+ Team control, access management, and enterprise deployment support.
+ Minimum 5 user seats
+ SSO integrations
+ User and team management
+ Role-based access control
+ Audit log and shared team resources
+ Talk to us 
+ Feature matrix
+ Compare Studio Free, Aurum, and Teams.
+Aurum Lifetime uses the Aurum feature set. Team-only controls are listed in
+ the Teams column.
+ Feature
+ Free
+ Aurum
+ Teams
+ Applications
+ Msty Studio Desktop
+ Limited
+ Msty Studio Web
+ —
+ Core Features
+ Model Hub - Online Models
+ Model Hub - Local Models
+ Local Inference Engines - Ollama, Llama.cpp, MLX
+ Conversations
+ Split Chats
+ Agent Mode
+ User Memories
+ Persona Chats
+ Limited
+ Crew Conversations
+ Limited
+ Prompt Studio
+ Limited
+ Persona Studio
+ Limited
+ Skills Studio
+ Limited
+ Media Studio
+ Toolbox - MCP Tools
+ Limited
+ Knowledge Stacks - RAG
+ Limited
+ Shadow Personas
+ —
+ Turnstiles - Workflow Automation
+ —
+ Context Dynamic Mode
+ —
+ Toolbox - Live Contexts
+ —
+ Insights
+ —
+ Additional Features
+ Workspaces
+ Projects Folder Management
+ Limited
+ Vapor, Focus, and Zen Modes
+ Attachments
+ Search
+ Forge Mode
+ —
+ Response Metrics
+ Limited
+ Tool Usage Metrics
+ —
+ Real-Time Data Providers
+ Limited
+ Advanced Exports
+ —
+ Remote Tools Connector
+ —
+ Environments - Variables Management
+ —
+ Team Features
+ Azure and Bedrock Providers
+ —
+ SSO
+ —
+ —
+ Access Management
+ —
+ —
+ Manage Users and Teams
+ —
+ —
+ Share Knowledge Stacks, Prompts, Personas
+ —
+ —
+ Audit Log
+ —
+ —
+ Priority Support
+ —
+ —
+ Bounded AI agents
+ Go pricing
+ Agent workflows with local or online models, scoped tools, mobile direction, playbooks, and tasks.
+ Go is the new name for Claw. Free beta access is available now; team plans are coming soon. 
+ Live now Recommended
+ Free
+ $0 Beta access
+ Start running bounded agent workflows today.
+ Agent workflows with local or online models
+ Discord, Telegram, and WhatsApp integrations
+ Shortcuts
+ Memory Bank
+ Playbooks and tasks
+ See Go 
+ Planned 
+ Teams
+ Talk to us Team control
+ Collaboration and team controls for coordinated agent work.
+ Team user management
+ Shared workflows and resources
+ Controls built for coordinated teams
+ Talk to us 
+ Planned 
+ Enterprise
+ Talk to us Flexible options
+ Deployment, governance, and security alignment for larger environments.
+ Everything in Teams
+ Advanced controls and governance options
+ Security and compliance alignment support
+ Talk to us 
+ Governed knowledge layer
+ Stack pricing
+ A coming knowledge control plane for versioned Knowledge Stacks, bundles, catalogs, and API access.
+ Stack is upcoming. Talk to us if you want to plan around governed shared knowledge. 
+ Upcoming Recommended
+ Preview
+ Coming soon Launch details pending
+ Centralized Knowledge Stacks for grounded AI across products and approved apps.
+ Centrally managed Knowledge Stacks
+ Versioned bundles and catalogs
+ API-first access for approved clients
+ Works with Nexus or your existing inference setup
+ Talk to us 
+ Planned 
+ Teams
+ Talk to us Shared knowledge
+ Shared context controls for teams that need repeatable, grounded AI work.
+ Team-managed stack lifecycle
+ Shared source governance
+ Controlled access for approved applications
+ Talk to us 
+ Custom 
+ Enterprise
+ Talk to us Deployment scope
+ Plan managed, on-premises, or customer-owned deployment shapes.
+ Deployment choice
+ Authenticated client access
+ Governed knowledge operations
+ Talk to us 
+ Enterprise
+ Bundle the whole system and save. 
+Combine Studio, Go, Nexus, and Stack under one enterprise agreement, priced around your
+ seat count and deployment shape instead of stacking separate product plans.
+ Talk to us 
+ Studio
+ +
+ Go
+ +
+ Nexus
+ +
+ Stack
+ Need help choosing?
+ Bring us the workflow and the boundary.
+We’ll help map the product, plan, deployment shape, model access, knowledge scope, and
+ controls around the work you want to improve.
+ Talk to us 
+ Msty
+ Private AI for real work.
+ Products
+ Studio
+ Go
+ Nexus
+ Stack
+ Explore
+ Solutions
+ Resources
+ Security
+ About
+ Pricing
+ Resellers & partners
+ Get started
+ Talk to us 
+ Msty is a product of CloudStack, LLC. © 2026.
+ Privacy
+ Terms
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://msty.ai/#organization","name":"Msty","legalName":"CloudStack, LLC","url":"https://msty.ai/","logo":"https://msty.ai/brands/msty-cube.webp","email":"sales@msty.ai"},{"@type":"WebSite","@id":"https://msty.ai/#website","name":"Msty","url":"https://msty.ai/","publisher":{"@id":"https://msty.ai/#organization"}}]}

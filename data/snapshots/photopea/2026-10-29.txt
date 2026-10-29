@@ -1,0 +1,81 @@
+#SNAPSHOT {"url":"https://www.photopea.com/api/accounts","finalUrl":"https://www.photopea.com/api/accounts","fetchedAt":"2026-10-29T03:41:49.690Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"b826f440c587c4858be421a8f00324209b982b35cbfc9cc514d10af3281f7367"}
+Photopea API 
+ Photopea API
+ Web-based image editor.
+-->
+ Blog
+ |
+ Learn
+ |
+ Tutorials
+ |
+ Templates
+ |
+ API
+ |
+ |
+ Topics
+-->
+ API Spec
+ Environment
+ Live Messaging
+ Plugins
+ Playground
+ Accounts
+ Accounts
+ Photopea allows you to log-in through a third-party service (Google, Facebook ...).
+ Once you do it, Photopea can identify you and store your settings online (theme, language, colors, tool options).
+ Then, settings can be synchronized across all devices, where you use Photopea.
+ Photopea offers two types of accounts: Free and Premium . The Free account is available to anybody
+ for free at Photopea.com. The Premium account lets you use Photopea without advertisement and may have other benefits.
+ You can see prices and manage your account through the Account Window (click the Account button at the top).
+ Here you can order the Premium account or see, how many days of Premium you have left. Logging in is necessary for having Premium accounts.
+ The basic option is a Premium account for a single user.
+ Teams
+ You can create one or more teams, and join one or more teams in Photopea. Each team has a unique Team ID .
+ Click "Account" at the top, log in, and click Team Settings .
+ Create a Team: 
+Enter the "Team Name" and click "Create Team". You will see a new team and its ID.
+ Join a Team: 
+Enter the "Team ID" and click "Join Team". You will see it in the list of the joined teams.
+ Usually, a team owner creates a new team, and asks all members to join it (tells them the team ID).
+ The owner can see members that are trying to join a team, and adds them to a team with the "Add" button.
+ Here you can see a team: ID 1 and four members, three more people have not been added yet.
+ When a team owner has a Team Premium account, all members also have Premium.
+ Just a single person pays for the whole team (more comfortable)
+ You can change team members at any time
+ You can save money (less expensive per user)
+ You can order a Premium account for the whole team of users. It has three main benefits:
+ Just a single person pays for the whole team (more comfortable)
+ You can change team members at any time
+ You can save money (less expensive per user)
+ Creating teams is very simple. There are no emails, registrations, synchronizations etc.
+ All can be done inside the Account window. First, everybody has to log in (and see their email address).
+ Now, scroll down to Team Settings. A team leader (the one who pays for the account) ticks Start a team and fills in email addresses of all members of a team.
+ Other team members tick Join a team and fill in the email address of a team leader. Press "Save Team Settings" to save it.
+ To be a member of a team, you have to "choose a leader" and the leader has to "choose you" as one of members.
+ The leader can add or remove members at any time, and the member can change the leader at any time.
+ -->
+ Distributors
+ Photopea API allows you to have the editor at your own website (using the iframe ), and configure it as you wish, for free . 
+ But sometimes, you may want to hide advertisement, social media buttons, branding ... let's call it a whitelabel mode .
+ We have a list of domains, for which Photopea runs in a whitelabel mode. The Distributor account allows you to add your domain into that list.
+ Order a distributor account (through the Account Window
+) for the expected 
+ number of views per month .
+ After you pay for the Distributor account, enter the name of your domain into the Account window and click "Save Domain Settings". 
+ You can change your domain at any time.
+ Self-Hosted Version
+ Photopea consists of a HTML file, a CSS file and several JS files (around 2 MB in total). 
+ Running it is very simple, there is no need for any server-side technologies (no PHP, no Node.js, no databases).
+ We provide a self-hosted package with a complete editor, which you can use on your own server.
+ It has several benefits over Distributor accounts:
+ you can change CSS styles
+ you can run it in a local network without internet access
+ you do not depend on Photopea.com (when you are afraid, that it may go down)
+ you can be sure, that no part of the editor changes while you run it
+ A self-Hosted version costs between $500 and $2000 per month. You should pay for a whole year (12 months) in advance, 
+ and you will get resources, that will work for exactly one year. After each year, you can decide, if you want to pay for a next year
+ (and get new resources), or terminate it. You can get two updates during a year for free (at any time), each next update costs $300.
+ Write us an email to support@photopea.com
+ and tell us an estimated number of your users (and the usage frequency), so we can discuss the terms of our agreement.

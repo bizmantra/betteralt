@@ -1,0 +1,816 @@
+#SNAPSHOT {"url":"https://itsaplan.dev","finalUrl":"https://itsaplan.dev/","fetchedAt":"2026-10-29T03:42:45.068Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"0de09a15d978b89bb014751f24a5510ea7af2c20e07031c0adfd2702a56baf34"}
+Open Source Issue Tracker with AI Agents | It&#x27;s a Plan 
+ It’s a Plan
+ Features 
+ AI agents
+ Give issues to AI agents, like you would to a teammate.
+ Views
+ See the same issues as a board, table, timeline or calendar.
+ Docs
+ Write specs in the same project as the issues.
+ Notes
+ Sketch a plan before it turns into issues.
+ Dashboards
+ Put the numbers people keep asking for on one screen.
+ Initiatives
+ Know early if a goal will slip.
+ Cycles
+ Plan two-week sprints and carry over what is left.
+ Browse all features 
+ AI agents
+ Compare 
+ vs Linear
+ Self-hosted, with no per-seat price
+ vs Plane
+ AI agents on your own server
+ vs Jira
+ Self-hosted, after Data Center ends
+ vs Asana
+ Self-hosted, for software teams
+ Pricing
+ Changelog v 1.9.0
+ 2.1k
+ Get Pro $ 24 /mo
+ Open navigation
+ Features
+ AI agents
+ vs Linear
+ vs Plane
+ vs Jira
+ vs Asana
+ Pricing
+ Changelog
+ The open source issue tracker
+ for your team and AI agents.
+ A self-hosted alternative to Linear and Jira. Hand any issue to an agent and keep the final say.
+ Connect Claude Code or any MCP client to your board.
+ Keep every issue and file on your own server.
+ Add the whole team without paying per seat.
+ Bring your own model keys for every agent.
+ Start free →
+ Get Pro $ 24 /mo
+ Community: free, AGPL-3.0
+ · Pro: $ 240 a year, two months free
+ · No per-seat pricing
+ itsaplan.dev
+ /
+ kanban
+ Beacon
+ BCN
+ Inbox 24
+ Dashboards
+ Work items
+ Initiatives
+ Cycles
+ Docs
+ Notes
+ AI Team
+ Runner queue
+ Schedules
+ AI Agents
+ Configuration
+ Members
+ Notifications
+ Project settings
+ API docs
+ MCP Server
+ God mode
+ It’s a Plan
+ Self-hosted
+ Beacon
+ Search or run a command… ⌘K 
+ MV
+ All
+ Current sprint
+ My work
+ Release 1.0 scope
+ Roadmap
+ Due dates
+ New view
+ Kanban
+ Table
+ Timeline
+ Calendar
+ Backlog 12
+ BCN-31
+ bug: Heartbeat check marks a monitor down one interval too early
+ 4h
+ Nov 4
+Bug
+checks
+needs triage
+ Created Oct 24 · Updated Oct 24
+ BCN-24
+ Alert only when a quorum of regions sees the failure
+ 4h
+ Dec 4
+Feature
+checks
+alerts
+ Created Oct 24 · Updated Oct 24
+ BCN-25
+ Region picker in the monitor form
+ 4h
+ Dec 11
+Feature
+web-ui
+ Created Oct 24 · Updated Oct 24
+ BCN-26
+ RFC-004: WebAssembly plugin API for custom checks
+ 4h
+ Nov 20
+Research
+checks
+ Created Oct 24 · Updated Oct 24
+ MV
+ BCN-28
+ DNS record check (A, AAAA, MX, TXT)
+ 4h
+ Nov 13
+Feature
+checks
+help wanted
+ Created Oct 24 · Updated Oct 24
+ Todo 7
+ In Progress 2 / 4
+ BCN-11
+ Status page: custom domains with automatic TLS
+ 4h
+ Oct 25
+Feature
+status-page
+deploy
+ Created Oct 24 · Updated Oct 24
+ MV
+ BCN-12
+ Status page: email subscribers for incident updates
+ 4h
+ Oct 25
+Feature
+status-page
+alerts
+ Created Oct 24 · Updated Oct 24
+ SI
+ In Review 2
+ BCN-10
+ Status page v2: new public page layout
+ 4h
+ Oct 24
+Feature
+web-ui
+ Subtasks 1 / 3
+ BCN-17
+ 90-day uptime bars component
+ BCN-18
+ Incident timeline component
+ BCN-19
+ Lighthouse budget: page under 1 s on slow 3G
+ Created Oct 24 · Updated Oct 24
+ SI
+ BCN-13
+ Rate limit the public API per API key
+ 4h
+ Oct 22
+Feature
+api
+security
+ Created Oct 24 · Updated Oct 24
+ Done 9
+ BCN-1
+ Helm: support an external PostgreSQL via existingSecret
+ 4h
+ Oct 3
+Feature
+deploy
+ Created Oct 24 · Updated Oct 24
+ MV
+ BCN-2
+ Helm: HorizontalPodAutoscaler for check workers
+ 4h
+ Oct 6
+Feature
+deploy
+ Created Oct 24 · Updated Oct 24
+ SI
+ BCN-3
+ bug: Slack alerts are sent twice after a worker restart
+ 4h
+ Oct 5
+Bug
+alerts
+ Created Oct 24 · Updated Oct 24
+ MV
+ BCN-4
+ Check TLS certificate expiry and warn 14 days ahead
+ 4h
+ Oct 9
+Feature
+checks
+ Created Oct 24 · Updated Oct 24
+ SI
+ BCN-5
+ docs: Kubernetes install guide
+ 4h
+ Oct 10
+Task
+docs
+ Created Oct 24 · Updated Oct 24
+ MV
+ BCN-31
+ bug: Heartbeat check marks a monitor down one interval too early
+ Assign BCN-31 to
+ esc Agents
+ Triage bot
+ Reproduces new bugs and links what it finds
+ gpt-5.4-mini
+ ↵
+ Review Bot
+ Reviews changes before they ship
+ 4 skills
+ Frontend Developer
+ Runs a coding agent on your own machine
+ Claude Code
+ People
+ MV
+ Mira Vos
+ Engineering lead
+ SI
+ Sam Ito
+ Backend
+ ↑ ↓
+ move
+ ↵
+ assign
+ Type to filter
+ 13 languages
+ English 
+ Українська 
+ Русский 
+ 简体中文 
+ 繁體中文 
+ العربية 
+ فارسی 
+ Français 
+ Português 
+ Bahasa Indonesia 
+ Español 
+ 한국어 
+ Türkçe 
+ English 
+ Українська 
+ Русский 
+ 简体中文 
+ 繁體中文 
+ العربية 
+ فارسی 
+ Français 
+ Português 
+ Bahasa Indonesia 
+ Español 
+ 한국어 
+ Türkçe 
+ Product Hunt
+ 5.0 out of 5
+ Every review so far gives five stars.
+ Leave a review
+ All reviews →
+ “ I self-host it and each agent has its own account. They can pick up tickets, update their progress, leave comments, and assign work to each other. … It’s become the central place where I keep track of pretty much everything my agents are working on. ” SK
+ Skragus →
+ Runs a team of AI agents
+ “ I was using the Linear free plan but ran into the issue max. I converted to Plane but Plane doesn’t really support issue delegation to the level that It’s A Plan does. ” S
+ Scott →
+ Moved from Linear and Plane
+ “ It’s an amazing product. … Now there’s finally a product that’s self-hostable, not restricted in the number of seats and is pleasant to use. ” BP
+ Balázs Pári →
+ Tried many trackers before
+ Built on tools you already trust
+ Bun , 
+Elysia , 
+Next.js , 
+Drizzle , 
+PostgreSQL , 
+RustFS and 
+Docker .
+ 0.1
+ Keep control of your stack
+ Run it on your own server, database, and model. Your data stays with you. No per-seat fees.
+ 0.2
+ Agents that work like teammates
+ Give each agent a model, skills, and tools. Then assign it issues, just like a person.
+ 0.3
+ Automate every action
+ Drive the tracker from your own scripts and agents over the REST API or MCP.
+ 1.0 · Collaborate
+ Work the same board as your agents
+ Assign PLAN-142
+ to Triage bot
+. It replies in the thread, opens linked issues and moves the card to In review
+.
+ Replied in the thread
+ Triage bot · 09:12
+ on PLAN-142
+ Opened PLAN-143
+ Triage bot · 09:14
+ linked to PLAN-142
+ Moved to In review
+ Triage bot · 09:31
+ on the shared board
+ + Your review
+ You set the direction
+ Views
+ See the work the way that fits
+ Board, table, timeline, or calendar. Filter on any field, shape the layout, and save it as a view your team reuses. Same issues, whatever the work needs.
+ Filters
+ Any field, any condition
+ saved as a view
+ All
+ Roadmap
+ Soon
+ New view
+ PLAN /
+ Filters
+Soon
+ Cancel
+ Save
+ State
+ is 
+ Todo, In Progress
+ Priority
+ is 
+ Urgent, High
+ Delegate
+ is 
+ Triage Bot
+ Backlog
+ 3
+ PLAN-142
+ Bulk-edit issues from the board
+board
+ Due Jul 24
+ MV
+ PLAN-139
+ Saved filters per view
+views
+ Due Jul 28
+ SI
+ PLAN-137
+ Timeline scale controls
+views
+ No due date
+ DO
+ Todo 2
+ In Progress
+ 2
+ PLAN-124
+ Let agents pick up delegated issues
+agents
+ Due Jul 21
+ PLAN-122
+ Group issues by swimlane
+board
+ No due date
+ MV
+ Done
+ 2
+ PLAN-118
+ Custom fields per issue type
+fields
+ Due Jul 15
+ SI
+ PLAN-115
+ Role & permission matrix
+access
+ No due date
+ DO
+ Hidden columns
+ Canceled 1
+ Add filter
+ State
+ State type
+ Assignee
+ Delegate
+ Priority
+ Type
+ Labels
+ Due date
+ Start date
+ Created
+ Updated
+ Board
+ Columns by state
+ drag a card to move it
+ Table
+ Any field as a column
+ sort and group
+ Timeline
+ Start and due dates
+ on one scale
+ Calendar
+ Issues on their due day
+ a month at a glance
+ Filter on any field
+ Stack conditions on state, priority, assignee, labels, or dates to narrow the list.
+ Save it as a view
+ Keep the filters, layout, and columns you set, then reuse them with one click.
+ Shape every layout
+ Group, order, and pick columns per view. Collapse or hide any column you skip.
+ 2.0 · Delegate
+ Agents you build with skills and tools
+ Set up an AI agent like a new hire, not a bot. Give it a role, the skills it needs, and the tools for the job. What is left to choose is where it runs.
+ In the app
+ Hosted
+ The no-code way. Set it up in the app and it runs on your instance.
+ Model Any provider, on your own API key. You keep full control of the model and the spend. Pick it per agent. 
+ Skills Loads them when it needs them. Write one, upload a file, or import a set from GitHub. 
+ Tools Tick what it may do with issues, and which outside tools it may call. 
+ On your machine
+ External
+ Runs where the code already is.
+ Where Your machine or your VPS. One command starts the runner. 
+ Tools Your CLI, your config, your logins, or a command you write yourself. 
+ Chats Every chat has a session id. Continue it in your own terminal. 
+ claude
+ codex
+ opencode
+ antigravity
+ copilot
+ or your own command, with the task on stdin.
+ 3.0 · Automate
+ Set recurring work for your agents
+ Give an agent a standing task. It runs on a timer or when an issue changes state, and with Pro, on what people do to issues. Run it now, pause it, or read any run.
+ Every hour, day or week
+ or a cron you write
+ 0 9 * * 1-5
+ When an issue enters a state
+ after a wait you set
+ moved to In review
+ Pro · on issue events
+ L05 · Event schedules
+ When an issue is created
+ by any person, or by the people you pick
+ When an issue is assigned
+ an assignee is set
+ When a label is added
+ one of the labels you pick, or any
+ When a comment is added
+ a person comments on an issue
+ Only for issues
+ a view filter, a creator, the state it comes from
+ How often
+ runs per 24 h, runs at once
+ Who starts it
+ a person&#x27;s action, never an agent&#x27;s
+ See what Pro adds
+ →
+ 4.0 · Plan
+ Give every major goal one clear view
+ One place per goal: how far the work has got, who owns it, and whether the target date still holds.
+ Progress you never update by hand
+ Completion follows the issues underneath, so the initiative is current the moment a task moves.
+ An owner, a start, a target date
+ Issues from any project group under one goal.
+ Initiative · Public roadmap
+ 49%
+ On track for Jul 31, 2026 · 16 days left
+ Work done
+ 49 %
+ Time elapsed
+ 64 %
+Done 18
+In Progress 5
+Todo 8
+Backlog 6
+ 5.0 · Measure
+ See where the work actually stands
+ Throughput, burnup, and breakdowns by state, priority, type, or assignee. Every number is read from your issues as they stand now. Nothing to export, nothing to refresh by hand.
+ 1,003
+ changes in the
+last 26 weeks
+ Less 
+More
+ Mon
+ Wed
+ Fri
+ Open 48 
+ In progress 12 
+ Done a week 31 
+ Unassigned 7 
+ 6.0 · Control
+ Decide who can do what in each project
+ Every project has its own members and roles. You build a role by ticking what it may read, create, edit and delete.
+ Project-level RBAC. Project owners always keep full access.
+ WEB
+ Website
+ Maria Chen Admin
+ OPS
+ Infrastructure
+ Maria Chen Viewer
+ MOB
+ Mobile app
+ / Members
+ S
+ Sam Lee
+ [email protected]
+ Reviewer 
+ M
+ Maria Chen
+ [email protected]
+ Contributor 
+ Contributor can
+ Read
+ Create
+ Edit
+ Delete
+ Work items
+ Work item views
+ AI agents
+ Invites
+ 7.0 · Integrate
+ A REST API and MCP server, out of the box
+ Everything the UI does, the API does. Point Claude Code, Cursor, or your own client at /mcp and over 200 API routes become tools it can call, with the access of the key it uses.
+ For your scripts
+ REST API
+ One call per action the UI has.
+ $ curl https://api.itsaplan.dev /projects/PLAN/issues \
+ -H "Authorization: Bearer $PLAN_KEY"
+ [ 
+ { 
+ " key "
+ : 
+ " PLAN-132 "
+ , 
+ " title "
+ : 
+ " Rate-limit the importer "
+ , 
+ " priority "
+ : 
+ " high "
+ },
+ ...
+]
+ For your agents
+ MCP server
+ Over 200 tools on the same API.
+ $ claude mcp add --transport http plan \
+ https://api.itsaplan.dev /mcp
+ Added HTTP MCP server plan
+ > Take PLAN-132.
+ ●
+ plan - get_issue_by_number
+ PLAN-132 · Rate-limit the importer · High
+ ●
+ plan - update_issue
+ moved to In Progress, assigned to you
+ Both run with the access of the API key they use.
+ 8.0 · Deploy
+ One click, or your own server
+ Railway runs the published images and generates every secret. On a server of your own, one compose command starts Postgres, RustFS and the four services.
+Railway Recommended
+ One click. Every secret generated. You bring the domain.
+ →
+ Docker Compose
+ Any server with Docker behind a TLS reverse proxy.
+ →
+ Coolify
+ The same stack on a Coolify instance.
+ →
+ Kubernetes
+ A Helm chart for any cluster. Kubernetes 1.24 and Helm 3.10 or newer.
+ →
+ $ docker compose up -d
+ Pricing
+ The price does not grow with your team
+ Community is free for any number of people. Pro is $ 240 a year, or $ 24 a month, for the whole instance.
+ It&#x27;s a Plan
+Community
+ Self-hosted · AGPL-3.0
+ C01
+ Issues, views, cycles
+ yes
+ C02
+ Docs and dashboards
+ yes
+ C03
+ AI agents
+ yes
+ C04
+ REST API, MCP server
+ yes
+ C05
+ People and projects
+ unlimited
+ C06
+ Workspaces
+ one per person
+ C07
+ Sign-in
+ OIDC, SCIM
+ Seats 
+unlimited
+ Total / year
+ $0.00
+ Deploy Community
+ Free forever. Any number of people.
+ It&#x27;s a Plan
+Pro license
+ Self-hosted · 1 domain
+ L01
+ Workspaces
+ any number
+ L02
+ SSO and SCIM
+ per workspace
+ L03
+ Audit log
+ new
+ L04
+ Workspace dashboard
+ yes
+ L05
+ Event schedules
+ yes
+ L06
+ Agent analytics
+ yes
+ L07
+ AI budgets
+ new
+ L08
+ Public forms
+ new
+ L09
+ More features
+ in development
+ L10
+ Community features
+ all
+ Seats 
+unlimited
+ Total / year
+ $240.00
+ See what Pro adds →
+ One price for the whole instance.
+ Per seat against flat
+ What 10 people pay a year
+ 10
+ 25
+ 50
+ 100
+ A per-seat plan grows with every hire. Pro costs $ 240 at any headcount. Pro pays for the work on Community, the free open-source edition.
+ List prices, billed yearly; Jira’s is the price of the team’s user tier. Linear
+ and Asana
+ run only in their own cloud, and SAML sign-in needs their Enterprise plan, priced on request. Jira
+ no longer sells its self-managed edition to new customers.
+ Asana Advanced
+ $24.99 / seat
+ $ 2,999
+ Linear Business
+ $16 / seat
+ $ 1,920
+ Jira Standard
+ $7.92 / seat
+ $ 950
+ Plane Pro
+ $6 / seat
+ $ 720
+ It&#x27;s a Plan Pro
+ any number of seats
+ $ 240
+ Everything else
+ Everything a tracker needs, nothing it doesn&#x27;t
+ Everything below is in Community, free under AGPL-3.0. The items marked PRO
+ come with the Pro edition.
+ Track 13
+ Shape the work and read where it stands.
+ Workflow & WIP limits
+ Issue types & custom fields
+ Labels, priorities, estimates
+ Time tracking
+ Subtasks & checklists
+ Blocks, relates, duplicates
+ Cycles
+ Initiatives
+ Board, table, timeline, calendar
+ Saved views & filters
+ Bulk edit & templates
+ Configurable dashboards
+ Workspace dashboard
+ PRO
+ Collaborate 09
+ Threads, docs, and notes on the issues.
+ Comments & @mentions
+ Docs with revisions
+ Docs co-editing
+ Attachments
+ Notes boards
+ Watchers
+ Notification inbox
+ Email & Telegram alerts
+ Public links
+ Automate 12
+ Repeat work that runs without you.
+ Hosted & external agents
+ Any model provider
+ Agent chat
+ Skills & GitHub import
+ Agent tools
+ Agent schedules
+ Agent traces & usage
+ Quick actions
+ Auto-archive
+ Event schedules
+ PRO
+ Runs by person & trigger
+ PRO
+ AI budgets
+ PRO
+ Connect 07
+ Everything the tracker talks to.
+ REST API & webhooks
+ MCP server
+ Pull requests from 5 forges
+ Import from Linear & Plane
+ Live refresh
+ 13 languages
+ Public forms
+ PRO
+ Control 11
+ Who gets in, and what they may do.
+ Roles & permissions
+ Google & OIDC sign-in
+ Passkeys & magic links
+ SCIM provisioning
+ Allowed email domains
+ Instance admin
+ Unlimited workspaces
+ PRO
+ SSO per workspace
+ PRO
+ SCIM per workspace
+ PRO
+ Email domains per workspace
+ PRO
+ Audit log
+ PRO
+ Changelog
+ What shipped recently
+ View all releases 
+ v1.9.0
+ OCT 27, 2026 /
+ Latest
+ Help desk with public forms (Pro), Import from Trello, Search in all projects, Edit in the Table and the Timeline, Mentions in…
+ v1.8.0
+ OCT 23, 2026 
+ Pro edition
+ v1.7.0
+ OCT 22, 2026 
+ Agent run history and the runner queue, Agent run time limit, Traditional Chinese
+ v1.6.0
+ OCT 20, 2026 
+ Agent tasks at an invocation URL, Invites that expire, Allowed email domains, Microsoft 365 mail with OAuth, Persian and Turkish
+ Start planning on your own terms
+ Self-host it today and have your team tracking work by tonight.
+ Start free →
+ Get Pro $ 24 /mo
+ One-click deploy to Railway
+ AGPL-3.0 · No per-seat fees · Bring your own model keys
+ It’s a Plan
+ The open-source issue tracker you host yourself. An alternative to Linear and Plane.
+ croffasia/itsaplan
+ Features
+ AI agents
+ Views
+ Dashboards
+ Initiatives
+ Docs
+ Notes
+ All features
+ Pro edition
+ Compare
+ vs Linear
+ vs Plane
+ vs Jira
+ vs Asana
+ Docs
+ Self-hosting
+ Railway
+ Docker Compose
+ Coolify
+ Kubernetes
+ Jira Data Center EOL
+ Open source
+ Changelog
+ Developer tools
+ Telemetry
+ GitHub
+ Issues
+ License (AGPL-3.0)
+ © 2026 It’s a Plan · AGPL-3.0 licensed
+ Privacy Policy
+ Terms of Service
+ Cookie settings
+ itsaplan.dev
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"SoftwareApplication","@id":"https://itsaplan.dev/#software","name":"It's a Plan","alternateName":["itsaplan","ItsAPlan","itsaplan.dev"],"description":"It's a Plan (itsaplan.dev) is an open-source, self-hosted issue tracker with built-in AI agents. Issues, boards, initiatives, dashboards and per-role permissions, plus a REST API, webhooks and an MCP server, released under AGPL-3.0.","applicationCategory":"DeveloperApplication","applicationSubCategory":"Issue tracker","operatingSystem":"Docker, Linux, macOS, Windows","url":"https://itsaplan.dev","license":"https://www.gnu.org/licenses/agpl-3.0.html","isAccessibleForFree":true,"codeRepository":"https://github.com/croffasia/itsaplan","programmingLanguage":"TypeScript","offers":[{"@type":"Offer","name":"Community","price":"0","priceCurrency":"USD"},{"@type":"Offer","name":"Pro","url":"https://itsaplan.dev/pro","price":"240","priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":"240","priceCurrency":"USD","billingDuration":"P1Y"}}],"featureList":["Self-hosted on your own server and database","AI agents you can assign issues to","Agent skills, tools and recurring schedules","Boards, table, timeline and calendar views with saved filters","Initiatives that group issues under one goal","Configurable dashboards","Custom roles and per-role permissions","REST API, webhooks and an MCP server"],"publisher":{"@id":"https://itsaplan.dev/#organization"}},{"@type":"Organization","@id":"https://itsaplan.dev/#organization","name":"It's a Plan","alternateName":["itsaplan","ItsAPlan","itsaplan.dev"],"description":"The project behind It's a Plan (itsaplan.dev), an open-source, self-hosted issue tracker with AI agents, released under AGPL-3.0.","url":"https://itsaplan.dev","logo":"https://itsaplan.dev/icon.svg","sameAs":["https://github.com/croffasia/itsaplan"]},{"@type":"WebSite","@id":"https://itsaplan.dev/#website","name":"It's a Plan","alternateName":["itsaplan","ItsAPlan","itsaplan.dev"],"url":"https://itsaplan.dev","publisher":{"@id":"https://itsaplan.dev/#organization"}}]}

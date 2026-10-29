@@ -1,0 +1,446 @@
+#SNAPSHOT {"url":"https://github.com/ggml-org/llama.cpp","finalUrl":"https://github.com/ggml-org/llama.cpp","fetchedAt":"2026-10-29T03:42:45.355Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"0cb8c5e18d289e624ab1e30a6617f3edb68a4b0b033d2934046f4ec2776c2b4d"}
+GitHub - ggml-org/llama.cpp: LLM inference in C/C++ · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Events
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ ggml-org
+ llama.cpp
+ Repository navigation
+ Code
+ Issues
+ 757
+  ( 757 )
+ Pull requests
+ 1.8k
+  ( 1.8k )
+ Discussions
+ Actions
+ Projects
+ Wiki
+ Security and quality
+ 13
+  ( 13 )
+ Insights
+ More items
+ llama.cpp
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 24.9k
+  ( 24.9k
+)
+ Star 133k
+  ( 133k
+)
+ You must be signed in to star a repository
+ About
+ LLM inference in C/C++
+ llama.app
+ Topics
+ ggml
+ Resources
+ Readme
+ MIT license
+ Contributing
+ Contributing
+ Security policy
+ Security policy
+ Activity
+ Custom properties
+ Stars
+ 132.7k stars
+ Watchers
+ 874 watching
+ Forks
+ 24.9k 
+ forks
+ Report repository
+ master
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 11,976 Commits
+ 11,976 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .devops
+ .devops
+ .gemini
+ .gemini
+ .github
+ .github
+ .pi/
+ gg
+ .pi/
+ gg
+ app
+ app
+ benches
+ benches
+ ci
+ ci
+ cmake
+ cmake
+ common
+ common
+ conversion
+ conversion
+ docs
+ docs
+ examples
+ examples
+ ggml
+ ggml
+ gguf-py
+ gguf-py
+ grammars
+ grammars
+ include
+ include
+ licenses
+ licenses
+ media
+ media
+ models
+ models
+ pocs
+ pocs
+ requirements
+ requirements
+ scripts
+ scripts
+ skills
+ skills
+ src
+ src
+ tests
+ tests
+ tools
+ tools
+ vendor
+ vendor
+ .clang-format
+ .clang-format
+ .clang-tidy
+ .clang-tidy
+ .dockerignore
+ .dockerignore
+ .ecrc
+ .ecrc
+ .editorconfig
+ .editorconfig
+ .flake8
+ .flake8
+ .gitignore
+ .gitignore
+ .gitmodules
+ .gitmodules
+ .pre-commit-config.yaml
+ .pre-commit-config.yaml
+ AGENTS.md
+ AGENTS.md
+ AUTHORS
+ AUTHORS
+ CLAUDE.md
+ CLAUDE.md
+ CMakeLists.txt
+ CMakeLists.txt
+ CMakePresets.json
+ CMakePresets.json
+ CODEOWNERS
+ CODEOWNERS
+ CONTRIBUTING.md
+ CONTRIBUTING.md
+ LICENSE
+ LICENSE
+ Makefile
+ Makefile
+ README.md
+ README.md
+ SECURITY.md
+ SECURITY.md
+ build-xcframework.sh
+ build-xcframework.sh
+ convert_hf_to_gguf.py
+ convert_hf_to_gguf.py
+ convert_hf_to_gguf_update.py
+ convert_hf_to_gguf_update.py
+ convert_llama_ggml_to_gguf.py
+ convert_llama_ggml_to_gguf.py
+ convert_lora_to_gguf.py
+ convert_lora_to_gguf.py
+ flake.nix
+ flake.nix
+ mypy.ini
+ mypy.ini
+ pyproject.toml
+ pyproject.toml
+ pyrightconfig.json
+ pyrightconfig.json
+ requirements.txt
+ requirements.txt
+ ty.toml
+ ty.toml
+ View all files
+ Repository files navigation
+ README
+ Contributing
+ MIT license
+ Security
+ More items
+ llama.cpp
+ LLM inference in C/C++ 
+ ggml
+ / ops
+ / maintainer PRs
+ / dev stats
+ / lib llama API
+ / llama-server REST API
+ Quick start
+ A few options to get llama.cpp installed on your machine:
+ #
+ curl
+curl -LsSf https://llama.app/install.sh |
+ sh
+ #
+ powershell
+irm https://llama.app/install.ps1 |
+ iex 
+ Visit https://llama.app
+ and follow the instructions
+ Run with Docker - see our Docker documentation
+ Download pre-built binaries from the releases page
+ Build from source by cloning this repository - check out our build guide
+ Once installed:
+ #
+ Download and run a model directly from Hugging Face
+llama cli -hf ggml-org/Qwen3.5-0.8B-GGUF
+ #
+ Launch OpenAI-compatible API server
+llama serve -hf ggml-org/Qwen3.5-0.8B-GGUF 
+ VLM session with llama cli 
+ Built-in web UI against llama serve 
+ Description
+ The main goal of llama.cpp is to enable LLM (and VLM) inference with minimal setup and state-of-the-art performance on
+a wide range of hardware - locally and in the cloud.
+ Plain C/C++ implementation without any dependencies
+ Apple silicon is a first-class citizen - optimized via ARM NEON, Accelerate and Metal frameworks
+ AVX, AVX2, AVX512 and AMX support for x86 architectures
+ RVV, ZVFH, ZFH, ZICBOP and ZIHINTPAUSE support for RISC-V architectures
+ 1.5-bit, 2-bit, 3-bit, 4-bit, 5-bit, 6-bit, and 8-bit integer quantization for faster inference and reduced memory use
+ Custom CUDA kernels for running LLMs on NVIDIA GPUs (support for AMD GPUs via HIP and Moore Threads GPUs via MUSA)
+ Vulkan and SYCL backend support
+ CPU+GPU hybrid inference to partially accelerate models larger than the total VRAM capacity
+ The llama.cpp project is build on top of the ggml
+ library.
+ Supported backends
+ Backend
+ Target devices
+ BLAS
+ All
+ BLIS
+ All
+ CANN
+ Ascend NPU
+ CUDA
+ Nvidia GPU
+ HIP
+ AMD GPU
+ Hexagon
+ Snapdragon
+ IBM zDNN
+ IBM Z & LinuxONE
+ MUSA
+ Moore Threads GPU
+ Metal
+ Apple Silicon
+ OpenCL
+ Adreno GPU
+ OpenVINO [In Progress]
+ Intel CPUs, GPUs, and NPUs
+ RPC
+ All
+ SYCL
+ Intel GPU
+ VirtGPU
+ VirtGPU APIR
+ Vulkan
+ GPU
+ WebGPU
+ All
+ ZenDNN
+ AMD CPU
+ Documentation
+ Tools
+ cli
+ completion
+ server
+ GBNF grammars
+ Development
+ How to build
+ Running on Docker
+ Build on Android
+ Multi-GPU usage
+ Performance troubleshooting
+ GGML tips & tricks
+ XCFramework
+ Completions
+ Models
+ Release process
+ Contributing
+ Contributors can open PRs
+ Collaborators will be invited based on contributions
+ Maintainers can push to branches in the llama.cpp repo and merge PRs into the master branch
+ Any help with managing issues, PRs and projects is very appreciated!
+ Read the CONTRIBUTING.md
+ for more information
+ Acknowledgements
+ yhirose/cpp-httplib
+ - Single-header HTTP server, used by llama-server - MIT license
+ nothings/stb
+ - Single-header image format decoder, used by multimodal subsystem - Public domain
+ nlohmann/json
+ - Single-header JSON library, used by various tools/examples - MIT License
+ mackron/miniaudio
+ - Single-header audio format decoder, used by multimodal subsystem - Public domain
+ sheredom/subprocess.h
+ - Single-header process launching solution for C and C++ - Public domain
+ About
+ LLM inference in C/C++
+ llama.app
+ Topics
+ ggml
+ Resources
+ Readme
+ MIT license
+ Contributing
+ Contributing
+ Security policy
+ Security policy
+ Activity
+ Custom properties
+ Stars
+ 132.7k stars
+ Watchers
+ 874 watching
+ Forks
+ 24.9k 
+ forks
+ Report repository
+ Releases
+ Packages
+ Used by
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

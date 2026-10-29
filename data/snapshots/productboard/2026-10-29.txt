@@ -1,0 +1,656 @@
+#SNAPSHOT {"url":"https://www.productboard.com/pricing/","finalUrl":"https://www.productboard.com/pricing/","fetchedAt":"2026-10-29T03:42:02.747Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"0d43698223df077ea80137639a423490e2b374724d4510c29400415446c69270"}
+Productboard Plans & Pricing 
+ Platform
+ Productboard Spark
+ AI agent context awareness across your product and customers
+ Integrations
+ Connect Productboard to 25+ native integrations
+ Security
+ Keep your data secure and compliant, SOC2-verified
+ Enterprise
+ Product Management AI tools built for scale and compliance
+ What’s new
+ An agent built for product teams
+ It’s specialized for your product work, remembers all your context, and is built for your whole team.
+ Learn more
+ Use Cases
+ Customer Feedback Analysis
+ Centralize feedback and surface opportunities & insights with AI
+ Product Roadmapping
+ Align stakeholders on product plans with interactive roadmaps
+ Customer Engagement
+ Validate ideas & planned features, and share what&#x27;s been launched
+ Product Specification
+ Draft product specs with AI that knows your product & customers
+ Strategic Product Planning
+ Ensure every team&#x27;s product priorities support your objectives
+ Explore All Use Cases
+ Discover all the ways teams use Productboard
+ eBook
+ AI-powered product workflows
+ How to build an agentic AI workflow for product management
+ Read Now
+ Pricing
+ Resources
+ Blog
+ The latest in AI product management thinking
+ eBooks & Webinars
+ Expert guidance for modern product managers
+ Product Makers Community
+ Connect with top product makers
+ Customers
+ See why top product teams choose Productboard
+ Events
+ Register for live or virtual events
+ Productboard&#x27;s Portal
+ Find out what features we&#x27;re building next
+ Help Center
+ Find setup guides, tutorials, and support articles
+ Productboard Academy
+ Master AI product management. Become a Pro!
+ Blog
+ Introducing Productboard Spark
+ Meet your new agentic product system where you can do your best work, not just track it.
+ Read now
+ Sign In
+ Request a demo
+ Agentic product management, built for product teams
+ Get started with the first agentic system purpose-built for product makers
+ Monthly
+ Annual
+ Save 21%
+ Business
+ Every PM working from the same signal, the same context, the same bar.
+ Request demo
+ Includes
+ Full Spark access (insights, skills, automations, integrations)
+ Collaborative AI building
+ Unlimited roadmaps & prioritization
+ 25 Contributors
+ Increased AI credit limits
+ Manual & dynamic customer segments
+ Feedback loop closing
+ Product usage integrations (Amplitude, Mixpanel)
+ Unlimited feedback
+ Unlimited teamspaces
+ Shared skills library
+ 2 Product Portals
+ Portal customization
+ Enhanced platform customization
+ Enterprise
+ Consistent quality and aligned strategy across every team, with enterprise-grade control.
+ Contact sales
+ Everything in Business, and
+ Unlimited Contributors
+ SAML SSO, SCIM provisioning & enhanced data governance
+ Custom roles & permissions
+ Salesforce integration
+ Live onboarding & customer support
+ Full platform customization
+ Trusted by Fortune 500 and high-growth
+ companies
+ Business
+ Request demo
+ Business
+ Enterprise
+ Contact sales
+ Enterprise
+ Spark
+ Workspace context setup
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ AI chat
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Feedback summaries
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ AI Findings and Opportunities
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Comprehensive feedback reports
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Scheduled tasks
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ MCP Server
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ MCP Connectors
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Document sources (e.g., Confluence, Google Drive & Notion)
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Skills
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Shared skills library
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ AI Themes
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Customer Feedback & Insights
+ Customer insights repository
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Customer boards
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Product Portal
+ Business : 
+ 2
+ Enterprise : 
+ Included
+ Portal localization
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Feedback forms
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Export list of feature requesters
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Portal moderation
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Custom voting questions & scale
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Embedded Portal
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Portal SSO
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Roadmaps
+ Timeline & column-based roadmaps
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Customizable roadmap templates
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Release planning
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Multiple release groups
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Prioritization & Planning
+ Product entities
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Feature list backlog import
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Feature idea hierarchy
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Objective hierarchy
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Custom prioritization formulas
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Dependency tracking
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Customizable feature statuses
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Entity status customization
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Entity renaming
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Required fields
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Custom fields
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Custom company fields
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Aggregated company fields
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Monitoring & Product Success
+ Progress tracking
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Health tracking
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Manual customer segments
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Dynamic customer segments
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Collaboration & Sharing
+ Minimum makers
+ Business : 
+ 5
+ Enterprise : 
+ 5
+ Contributors
+ Business : 
+ 25
+ Enterprise : 
+ Included
+ Teamspaces
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Collaborative Docs
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Notify idea & feedback contributors
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Board access controls
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Public sharing controls
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Closed/Private Teamspaces
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Teamspace data visibility
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Enhanced Data Governance
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Custom roles
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Whitelabeled Portal
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Reporting
+ Insights reporting
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Trended usage reports
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Efficiency reports
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Allocation reports
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Customer Success & Support
+ Productboard Community
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Prioritized email support
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Expedited email support
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Onboarding support
+ Business : 
+ Not available
+ Enterprise : 
+ Available
+ Professional services support
+ Business : 
+ Not available
+ Enterprise : 
+ Available
+ Security & Privacy
+ Google SSO
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Personal Teamspace
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Multi-factor Authentication (MFA)
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ SAML SSO
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Google SSO enforcement
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ SCIM user provisioning
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Multiple workspaces
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ IP address whitelisting
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Audit logs
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Customer Privacy Policy for Portal
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Integrations & Automations
+ Automations
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Jira integration
+ Business : 
+ 5
+ Enterprise : 
+ Included
+ Azure DevOps integration
+ Business : 
+ 5
+ Enterprise : 
+ Included
+ On-prem Jira or Azure DevOps integration
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ API access
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ CRM CSV importer
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Salesforce integration
+ Business : 
+ Not available
+ Enterprise : 
+ Included
+ Product usage integrations (e.g., Amplitude & Mixpanel)
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Embedded collaborative media (e.g., Figma, Miro, Mural)
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Meeting intelligence (e.g. Gong)
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Email integration
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Chrome extension
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Workplace collaboration (Slack, Microsoft Teams)
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Customer feedback integrations (e.g., Zendesk, Gainsight PX)
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Review site integrations
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ Codebase integration
+ Business : 
+ Included
+ Enterprise : 
+ Included
+ ” The benefit of Spark is context-aware AI that has continuity — in other LLMs you have more of a siloed experience. Spark&#x27;s document generation is a game changer for briefs, PRDs, and discovery plans. It creates more structured and actionable outputs compared to manual creation. ”
+ Jason Kothary , 
+Product Manager, March of Dimes CA
+ ” With Productboard Spark, keeping crucial documents up to date is easy. As a result, I&#x27;m ensuring that every new feature and product evolution is better tailored to the current market and user dynamic, leading to a better product. ”
+ Josin oude Lohuis , 
+Co-Founder & CPO, Link Nature
+ ” I saved 1 week of work in just 90 minutes using Spark and successfully delivered the output to my executive team. ”
+ Spark Beta Customer , 
+Product Manager
+ ” The benefit of Spark is context-aware AI that has continuity — in other LLMs you have more of a siloed experience. Spark&#x27;s document generation is a game changer for briefs, PRDs, and discovery plans. It creates more structured and actionable outputs compared to manual creation. ”
+ Jason Kothary , 
+Product Manager, March of Dimes CA
+ ” With Productboard Spark, keeping crucial documents up to date is easy. As a result, I&#x27;m ensuring that every new feature and product evolution is better tailored to the current market and user dynamic, leading to a better product. ”
+ Josin oude Lohuis , 
+Co-Founder & CPO, Link Nature
+ ” I saved 1 week of work in just 90 minutes using Spark and successfully delivered the output to my executive team. ”
+ Spark Beta Customer , 
+Product Manager
+ ” The benefit of Spark is context-aware AI that has continuity — in other LLMs you have more of a siloed experience. Spark&#x27;s document generation is a game changer for briefs, PRDs, and discovery plans. It creates more structured and actionable outputs compared to manual creation. ”
+ Jason Kothary , 
+Product Manager, March of Dimes CA
+ ” With Productboard Spark, keeping crucial documents up to date is easy. As a result, I&#x27;m ensuring that every new feature and product evolution is better tailored to the current market and user dynamic, leading to a better product. ”
+ Josin oude Lohuis , 
+Co-Founder & CPO, Link Nature
+ ” I saved 1 week of work in just 90 minutes using Spark and successfully delivered the output to my executive team. ”
+ Spark Beta Customer , 
+Product Manager
+ Frequently Asked Questions
+ What is Productboard? Productboard is the AI-powered product management platform that helps product teams turn customer signals into clear priorities, align stakeholders around what&#x27;s being built, and move from strategy to delivery - faster. Every plan includes Spark, our AI built for PMs, which brings context-aware intelligence to your entire workflow: from analyzing customer feedback to drafting product specs and planning roadmaps.
+ What&#x27;s the difference between a maker and contributor? Makers are the product managers and leads who own the product strategy — they create roadmaps, prioritize features, and manage insights. Pricing is based on the number of makers in your workspace.
+ Contributors are colleagues who submit feedback, tag insights, and collaborate via documents and comments — great for engineers, designers, or customer success teams. They don&#x27;t count toward your maker limit.
+ Which plan is right for my team? Business is designed for teams that move together with AI, sharing context, roadmaps and signal for improved results.
+ Enterprise is designed for organizations that need security, governance, and rollout support at scale.
+ Not sure? Talk to our team and we’ll help you find the right fit.
+ Can I switch plans or add makers later? Yes. You can upgrade, downgrade, or add makers at any time. If you upgrade mid-cycle, costs and credits are pro-rated for the remainder of your billing period.
+ What is a credit, and how many do I get? Credits power all of Spark&#x27;s AI capabilities — from analyzing customer feedback and identifying trends to generating documents and competitive analyses. Different tasks use different amounts depending on their complexity: analyzing 100 customer feedback items uses around 30-50 credits, while creating a comprehensive specification might use 50-200, for example.
+ Business includes 500 credits per maker each month. Enterprise includes 1,500 base credits plus 800 per additional maker each month.
+ What happens when I run out of credits? You keep full access to your workspace, documents, and feedback - nothing gets locked or deleted. You just won&#x27;t be able to use Spark&#x27;s AI features until your credits reset at your next monthly renewal, or until you purchase a top-up. You&#x27;ll see notifications in Productboard as you approach your limit.
+ Can I buy more credits? Yes. Top-ups are available directly from your workspace: 50-credit bundles for $5 on monthly plans, or 600-credit bundles for $60/year on annual plans. You can buy as many as you need, and purchases mid-cycle are pro-rated.
+ Can I add Spark to my existing Productboard workspace? Spark is currently available as standard for all new Business and Enterprise Productboard workspaces.
+ We&#x27;re also busy rolling Spark out to all our existing customers. If you&#x27;re interested, get in touch with us at support@productboard.com
+ or through your account representative.
+ What data does Spark use, and how is it protected? Spark works with documents, customer feedback, and associated data you provide in your workspace. Your data stays within your workspace and is never used to train external AI models. Spark follows Productboard&#x27;s standard security and privacy practices - see our AI Terms
+ for full details.
+ Have additional questions? Send us an email to hello@productboard.com
+ Still doing product discovery manually?
+ Surface trends, uncover opportunities, and make better product decisions with Productboard.
+ Request a demo
+ Platform
+ Productboard Spark
+ Enterprise
+ Integrations
+ Productboard API
+ Productboard MCP
+ Pricing & Plans
+ Use Cases
+ Customer Feedback Analysis
+ Product Specification
+ Product Roadmapping
+ Strategic Product Planning
+ Customer Engagement
+ Product Operations
+ AI for Product
+ The Agentic Product System
+ AI Product Management Guide
+ AI Certifications
+ PM Prompts Library
+ Trusting AI Outputs
+ Resources
+ Blog
+ eBooks & Webinars
+ Glossary
+ Customer Stories
+ Events
+ Support
+ Academy
+ Community
+ Company
+ About Us
+ Careers 🚀
+ Media Kit
+ Uptime & Status
+ Trust Portal
+ Security
+ Legal
+ Copyright © 2026 Productboard, Inc. All rights reserved.
+ Designed in California. Made all over the world.
+ Website & Portal Terms of Use
+ Master Subscription Agreement
+ Privacy Policy
+ Cookies Policy
+ DMCA Notice
+ Platform Guidelines
+ Cookie Settings
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://www.productboard.com/#main-navigation","name":"Main Navigation","hasPart":[{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-platform","name":"Platform","position":1,"hasPart":[{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-platform-productboard-spark","name":"Productboard Spark","position":1,"url":"/product/spark"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-platform-integrations","name":"Integrations","position":2,"url":"/platform/integrations"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-platform-security","name":"Security","position":3,"url":"/platform/security"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-platform-enterprise","name":"Enterprise","position":4,"url":"/enterprise"}]},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-use-cases","name":"Use Cases","position":2,"hasPart":[{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-use-cases-customer-feedback-analysis","name":"Customer Feedback Analysis","position":1,"url":"/use-cases/customer-insights"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-use-cases-product-roadmapping","name":"Product Roadmapping","position":2,"url":"/use-cases/product-roadmapping/"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-use-cases-customer-engagement","name":"Customer Engagement","position":3,"url":"/use-cases/customer-engagement"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-use-cases-product-specification","name":"Product Specification","position":4,"url":"/use-cases/product-specification"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-use-cases-strategic-product-planning","name":"Strategic Product Planning","position":5,"url":"/use-cases/product-strategy"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-use-cases-explore-all-use-cases","name":"Explore All Use Cases","position":6,"url":"/use-cases"}]},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-pricing","name":"Pricing","position":3,"url":"/pricing"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-resources","name":"Resources","position":4,"hasPart":[{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-resources-blog","name":"Blog","position":1,"url":"/blog"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-resources-ebooks-webinars","name":"eBooks & Webinars","position":2,"url":"/resources"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-resources-product-makers-community","name":"Product Makers Community","position":3,"url":"/community"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-resources-customers","name":"Customers","position":4,"url":"/customers"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-resources-events","name":"Events","position":5,"url":"/events"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-resources-productboard-s-portal","name":"Productboard's Portal","position":6,"url":"https://portal.productboard.com/pb/1-productboard-portal/tabs/7-under-consideration"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-resources-help-center","name":"Help Center","position":7,"url":"https://support.productboard.com/hc/"},{"@type":"SiteNavigationElement","@id":"https://www.productboard.com/#nav-resources-productboard-academy","name":"Productboard Academy","position":8,"url":"https://academy.productboard.com/"}]}]}
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.productboard.com/"},{"@type":"ListItem","position":2,"name":"Productboard Pricing","item":"https://www.productboard.com/pricing"}]},{"@context":"https://schema.org","@type":"WebPage","url":"https://www.productboard.com/pricing","name":"Productboard Plans & Pricing","description":"From individual PMs to full product teams, find the Productboard plan that fits how you work. Every plan includes Spark — the AI agent built for product managers.","image":"https://cdn.builder.io/api/v1/image/assets%2F1d8ecee591ac4358befb8fe998100548%2Fea14117b3952434caf56d8552aef9d61","datePublished":"2026-04-22T14:21:44.880Z","dateModified":"2026-10-28T19:47:30.733Z"},{"@context":"https://schema.org","@type":"Organization","name":"Productboard","url":"https://www.productboard.com","logo":{"@type":"ImageObject","url":"https://cdn.builder.io/api/v1/image/assets%2F1d8ecee591ac4358befb8fe998100548%2Fd15e5983f575446fbeccd6674d523255"},"sameAs":["https://www.linkedin.com/company/productboard","https://twitter.com/productboard","https://www.facebook.com/productboard","https://www.youtube.com/@Productboard"],"description":"Productboard is a suite of product management software tools that helps product managers understand customer needs, prioritize features & rally everyone around the roadmap.","foundingDate":"2014","contactPoint":{"@type":"ContactPoint","contactType":"customer support","url":"https://support.productboard.com/hc/en-us/requests/new"}}]
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is Productboard?","acceptedAnswer":{"@type":"Answer","text":"Productboard is the AI-powered product management platform that helps product teams turn customer signals into clear priorities, align stakeholders around what's being built, and move from strategy to delivery - faster. Every plan includes Spark, our AI built for PMs, which brings context-aware intelligence to your entire workflow: from analyzing customer feedback to drafting product specs and planning roadmaps."}},{"@type":"Question","name":"What's the difference between a maker and contributor?","acceptedAnswer":{"@type":"Answer","text":"Makers are the product managers and leads who own the product strategy — they create roadmaps, prioritize features, and manage insights. Pricing is based on the number of makers in your workspace. Contributors are colleagues who submit feedback, tag insights, and collaborate via documents and comments — great for engineers, designers, or customer success teams. They don't count toward your maker limit."}},{"@type":"Question","name":"Which plan is right for my team?","acceptedAnswer":{"@type":"Answer","text":"Business is designed for teams that move together with AI, sharing context, roadmaps and signal for improved results. Enterprise is designed for organizations that need security, governance, and rollout support at scale. Not sure? Talk to our team and we’ll help you find the right fit."}},{"@type":"Question","name":"Can I switch plans or add makers later?","acceptedAnswer":{"@type":"Answer","text":"Yes. You can upgrade, downgrade, or add makers at any time. If you upgrade mid-cycle, costs and credits are pro-rated for the remainder of your billing period."}},{"@type":"Question","name":"What is a credit, and how many do I get?","acceptedAnswer":{"@type":"Answer","text":"Credits power all of Spark's AI capabilities — from analyzing customer feedback and identifying trends to generating documents and competitive analyses. Different tasks use different amounts depending on their complexity: analyzing 100 customer feedback items uses around 30-50 credits, while creating a comprehensive specification might use 50-200, for example. Business includes 500 credits per maker each month. Enterprise includes 1,500 base credits plus 800 per additional maker each month."}},{"@type":"Question","name":"What happens when I run out of credits?","acceptedAnswer":{"@type":"Answer","text":"You keep full access to your workspace, documents, and feedback - nothing gets locked or deleted. You just won't be able to use Spark's AI features until your credits reset at your next monthly renewal, or until you purchase a top-up. You'll see notifications in Productboard as you approach your limit."}},{"@type":"Question","name":"Can I buy more credits?","acceptedAnswer":{"@type":"Answer","text":"Yes. Top-ups are available directly from your workspace: 50-credit bundles for $5 on monthly plans, or 600-credit bundles for $60/year on annual plans. You can buy as many as you need, and purchases mid-cycle are pro-rated."}},{"@type":"Question","name":"Can I add Spark to my existing Productboard workspace?","acceptedAnswer":{"@type":"Answer","text":"Spark is currently available as standard for all new Business and Enterprise Productboard workspaces. We're also busy rolling Spark out to all our existing customers. If you're interested, get in touch with us at support@productboard.com or through your account representative."}},{"@type":"Question","name":"What data does Spark use, and how is it protected?","acceptedAnswer":{"@type":"Answer","text":"Spark works with documents, customer feedback, and associated data you provide in your workspace. Your data stays within your workspace and is never used to train external AI models. Spark follows Productboard's standard security and privacy practices - see our AI Terms for full details."}}]}

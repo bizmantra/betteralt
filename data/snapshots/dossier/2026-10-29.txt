@@ -1,0 +1,173 @@
+#SNAPSHOT {"url":"https://dossier.aien.me","finalUrl":"https://dossier.aien.me/","fetchedAt":"2026-10-29T03:42:45.707Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"83576b3ed4ba23ba9e4d2d82c49ab1bf1e7fabb6f9de75a61b01583d19f00019"}
+Dossier · Your job search, on your own server 
+ Skip to content
+ Dossier
+ How it works
+ Features
+ Privacy
+ Install
+ Docs
+ GitHub
+ Free and open source
+ Your job search, on your own server. 
+ One profile, a tailored resume and cover letter for every job, written only from facts in your profile, and every application tracked from draft to offer. With the AI model you choose, and your data in your own database.
+ Install Dossier
+ See it in use
+ Free software under the AGPL-3.0. Runs with Docker on Linux, macOS and Windows.
+ dossier.example.com
+ Your funnel
+ 7 sent
+ 71% heard back
+ 3 interviews
+ Jane Doe · Resume · Ledgerly.pdf 
+ A4 · 1 page · Editorial theme
+ Writes with the model you choose
+ Ollama
+ LM Studio
+ OpenAI-compatible APIs
+ Anthropic
+ Mistral
+ How it works
+ From a pasted posting to a sent application.
+ 01
+ Write your profile once.
+ Basics, skills and languages, experience, projects, education, publications and references, in the order you choose. Start it from an existing resume (PDF, Word or Markdown) if you like. A strength meter counts only what a profile needs.
+ 02
+ Paste a posting.
+ Dossier pulls out the details and requirements and matches them against your profile. What you have is ticked off, with where it comes from. What you don't have is shown as a gap.
+ 03
+ Get a tailored resume and cover letter.
+ In the tone you pick, set in one of twelve themes and printed to PDF on your server. Ask for changes in a chat, edit or regenerate any part, undo what the AI changed or go back to any earlier version.
+ 04
+ Track it to an offer.
+ A board and a table of every application, and a dashboard with your funnel, a week-by-week chart and what's worth a look next, upcoming interviews included.
+ dossier.example.com
+ Honest by design
+ It never invents experience.
+ Drafts only use facts from your profile. When a posting asks for something your profile doesn't have, Dossier shows you the gap instead of papering over it, and you decide what to do about it.
+ Every AI change can be undone, and every document keeps its history.
+ Nothing is sent, applied for or deleted without you.
+ Gaps you fill go into your profile, for every application after.
+ How you match
+ 4 of 5 covered by your profile
+ 5+ years of product design 3 roles in your profile, since Sep 2015 
+ Built or maintained a design system Used at Northwind Logistics 
+ Strong prototyping skills in Figma Used at Fieldnote 
+ Experience with Kubernetes Not in your profile yet 
+ + Add to profile
+ Dutch is a plus Dutch: Native 
+ Gaps aren't dealbreakers. I'll never invent experience. The important ones get addressed honestly in your cover letter. 
+ Features
+ Everything between “I'm looking” and “I accept”.
+ Find jobs
+ Search postings near your city, or anywhere you choose, through JSearch (LinkedIn, Indeed and more) or Adzuna. Score any of them against your profile and start an application with one click.
+ Startups
+ Startups that are hiring, from YC startups' job posts and Hacker News' monthly “Who is hiring?” thread, kept to the ones that hire where you live or remotely from your country, and ranked against your profile.
+ Job agent
+ Once a day it runs a search for you, skips what you've seen and keeps the best new postings, with its reasons. It can prepare drafts for your review. It never sends or applies.
+ Twelve resume themes
+ And a theme builder, previewed live and printed to PDF on your server. Duplicate themes, or share them as files.
+ Documents in 21 languages
+ Resumes and cover letters in any of 21 built-in languages, with headings, dates and language levels to match.
+ Ready to send
+ An email to go with each application, to whoever the posting names, with the resume and cover letter PDFs to attach.
+ Gmail and Calendar
+ Send from your own address, see employers' replies next to each application, have answers drafted from your profile, and keep interviews in step with Google Calendar. Optional, and nothing goes out without your confirmation.
+ Claude connector
+ Use Dossier from Claude, on your own Claude plan: search jobs, score them, and save the resume and letter Claude writes as a draft, checked like Dossier's own. Optional.
+ Your data, all of it
+ Everything lives in your own PostgreSQL database, and leaves it on your terms.
+ Export and import Everything, as one file.
+ Nightly backups Kept on your server.
+ Delete everything One button, and it's gone.
+ Privacy
+ Your profile lives with you.
+ Dossier is for one person on a small server: one password, your data in your own PostgreSQL database, and an AI model of your choice.
+ What goes where 
+ On your server
+ No accounts and no service in between. Run it on your laptop, or on a small server with your own domain.
+ A local model, if you like
+ With Ollama or LM Studio, your profile, postings and documents never leave your hardware. A hosted model receives what it writes from.
+ Asked, not assumed
+ Dossier asks once whether it may send a daily usage ping, a random ID and the version number, and sends nothing until you agree.
+ Open to read
+ Every line is on GitHub under the AGPL-3.0, so you can check what it does, change it and share it.
+ A look around
+ Calm screens for a stressful search.
+ Tour
+ Board
+ Resume
+ Find jobs
+ Inbox
+ Calendar
+ dossier.example.com
+ The dashboard, the board, a new application from a pasted posting, refining it in the chat, and switching themes. Played at 1.2× speed with a stand-in AI that answers at once. 
+ Every application on a board, from draft to offer. 
+ The base resume, with twelve themes and a theme builder. 
+ Find jobs, and start an application from a posting. 
+ Replies from Gmail, read by the AI, with answers it drafts. 
+ Your interviews and Google Calendar on the dashboard, kept in step. 
+ The screens show the demo data: Jane Doe is made up.
+ Install
+ Running in three steps.
+ All you need is Docker Desktop
+ on macOS or Windows, or Docker Engine with its Compose plugin on Linux, and about 2 GB of free memory.
+ On your computer
+ On a server
+ Fetch the Compose file, and make the secrets Dossier needs.
+ $
+ mkdir ~/dossier && cd ~/dossier
+ $
+ curl -fsSL -o compose.yml https://raw.githubusercontent.com/AienTech/dossier/main/compose.production.yml
+ $
+ echo "POSTGRES_PASSWORD=$(openssl rand -hex 24)" > .env
+ $
+ echo "DOSSIER_SECRET=$(openssl rand -base64 32)" >> .env 
+ Copy
+ On an Apple Silicon Mac, also run printf 'services:\n app:\n platform: linux/amd64\n' > compose.override.yml : the image is built for Intel and AMD processors, and Docker Desktop runs it under emulation.
+ Choose your password.
+ $
+ docker run --rm -it --platform linux/amd64 ghcr.io/aientech/dossier hash-password 
+ Copy
+ It asks for the password twice and prints a line that starts with argon2id: . Add it to .env as DOSSIER_PASSWORD=argon2id:… . Dossier only keeps the hash, never the password.
+ Start it.
+ $
+ docker compose up -d 
+ Copy
+ Open http://localhost:3000 , sign in, and pick an AI model in Settings → AI provider . The first start downloads the image (about 1.7 GB). Choosing an AI provider
+ Put Dossier on a server, on your own domain with HTTPS. Give it at least 2 vCPUs and 2 GB of memory. The installation guide walks through each way, step by step.
+ Ubuntu server Docker Compose with Caddy for HTTPS, or Node.js without Docker.
+ Coolify The app and PostgreSQL in one resource, with the secrets made for you.
+ Dokploy The published image and a Dokploy database. Updates take over once healthy.
+ CapRover The published image, next to CapRover's PostgreSQL one-click app.
+ On your own computer, you can also run it with plain Docker
+ or Node.js
+.
+ Good to know
+ Desktop only. Made for a laptop or desktop browser, not for phones.
+ Single user. One password and one profile; there are no accounts.
+ English interface. The documents it writes can be in other languages.
+ One instance. Run a single copy of the app per database.
+ Your next application starts here.
+ Free, open source, and yours to run.
+ Install Dossier
+ Star on GitHub
+ Sponsor
+ Dossier
+ Your job search, on your own server. Free software under the GNU AGPL-3.0
+.
+ Project
+ Source code
+ Releases
+ Report a bug
+ Sponsor
+ Documentation
+ Installation guide
+ Choosing an AI provider
+ Upgrading
+ Troubleshooting
+ Trust
+ Privacy
+ Security
+ Development
+ This page sets no cookies and loads no fonts or scripts from other sites.

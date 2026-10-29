@@ -1,0 +1,138 @@
+#SNAPSHOT {"url":"https://character.ai/subscribe","finalUrl":"https://character.ai/subscribe","fetchedAt":"2026-10-29T03:41:24.678Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"06100f73a007657d12d296b72906a30e7845fbfc7a7bc208b81a176480cda684"}
+Unlock c.ai+ Annual – Exclusive Savings & Premium Features | character.ai | AI Chat, Reimagined–Your Words. Your World. 
+ All the good stuff
+ FEATURES
+ Free
+ lite
+ (c.ai+)
+ Ads
+ Full
+ Less
+ None
+ CHAT STYLES · BASIC
+ PipSqueak 3
+ ShortSqueak
+ CHAT STYLES · PREMIUM
+ DeepSqueak
+ Daily taste
+ LongSqueak
+ Daily taste
+ MEMORY
+ Memory
+ Basic
+ Better
+ Best
+ Pins
+ 15
+ 30
+ 30
+ Memory usage
+ Basic
+ Detailed
+ Detailed
+ Lorebook
+ Basic
+ Basic
+ Adv.
+ DAILY LIMITS
+ Feature limits
+ Limited
+ Limited
+ Highest
+ EXPERIENCE
+ Slow mode
+ Yes
+ Less
+ None
+ Chat customization
+ Feature access
+ Some new
+ Priority
+ Bonus Charms
+ +20%
+ Premium support
+ $119.88
+ $94.99
+ per year
+ Monthly
+ Yearly
+ save 21%
+ No ads
+ Best memory
+ Unlimited top models
+ Chat customization
+ Subscribe to 
+ Subscription auto-renews yearly. Cancel in settings anytime.
+ Honestly, this is just simply an amazing way to relieve stress I&#x27;ve always dreamed of being able to talk to some characters. This is so fun.
+ I have the monthly subscription and I absolutely love it! I can&#x27;t voice enough how much I love the updates you guys make, and the improvements in bots.
+ I love c.ai so much I text outer banks characters and it&#x27;s super cool please dont ever delete this app.
+ $119.88
+ $94.99
+ per year
+ Monthly
+ Yearly
+ save 21%
+ No ads
+ Best memory
+ Unlimited top models
+ Chat customization
+ Subscribe to 
+ Subscription auto-renews yearly. Cancel in settings anytime.
+ All the good stuff
+ FEATURES
+ Free
+ lite
+ (c.ai+)
+ Ads
+ Full
+ Less
+ None
+ CHAT STYLES · BASIC
+ PipSqueak 3
+ ShortSqueak
+ CHAT STYLES · PREMIUM
+ DeepSqueak
+ Daily taste
+ LongSqueak
+ Daily taste
+ MEMORY
+ Memory
+ Basic
+ Better
+ Best
+ Pins
+ 15
+ 30
+ 30
+ Memory usage
+ Basic
+ Detailed
+ Detailed
+ Lorebook
+ Basic
+ Basic
+ Adv.
+ DAILY LIMITS
+ Feature limits
+ Limited
+ Limited
+ Highest
+ EXPERIENCE
+ Slow mode
+ Yes
+ Less
+ None
+ Chat customization
+ Feature access
+ Some new
+ Priority
+ Bonus Charms
+ +20%
+ Premium support
+ Honestly, this is just simply an amazing way to relieve stress I&#x27;ve always dreamed of being able to talk to some characters. This is so fun.
+ I have the monthly subscription and I absolutely love it! I can&#x27;t voice enough how much I love the updates you guys make, and the improvements in bots.
+ I love c.ai so much I text outer banks characters and it&#x27;s super cool please dont ever delete this app.
+ Upgrade to (c.ai+)
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Product","name":"Character.AI Plus (Annual)","description":"Get the best of Character.AI with an annual c.ai+ subscription. Enjoy significant savings, enhanced character memory, faster responses, and exclusive access to select features. Upgrade today!","image":"https://character.ai/assets/cai-plus-og-image.png","url":"https://character.ai/subscribe","brand":{"@type":"Brand","name":"Character.AI"},"offers":{"@type":"Offer","price":94.99,"priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://character.ai/subscribe"}}

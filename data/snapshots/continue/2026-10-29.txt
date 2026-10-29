@@ -1,0 +1,18 @@
+#SNAPSHOT {"url":"https://continue.dev/","finalUrl":"https://continue.dev/","fetchedAt":"2026-10-29T03:39:30.270Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"976edbe94064f2fc427468d148f0ce723dca211dd91bbfeac2e0f08f5d3ccc89"}
+Continue (acquired by Cursor) 
+ Blog
+ Docs
+ Sign in
+ Thank you
+ Continue has joined Cursor
+ Continue was acquired by Cursor
+. Our mission was always to ensure developers are amplified, not automated, and that commitment carries on in the work ahead.
+ It was an honor to build with the Continue community. Thank you to each and every one of you who helped us create a pioneering open-source coding agent.
+ What we built together pushed the boundaries of what AI developer tooling could be, and our open-source codebase remains freely available as a foundation for others.
+ FAQs
+ Is the open source still available? 
+ What happened to my data? 
+ What about my subscription?
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","name":"Continue","url":"https://continue.dev","logo":"https://continue.dev/favicon.png","sameAs":["https://github.com/continuedev","https://x.com/continuedev","https://www.linkedin.com/company/continuedev"]},{"@type":"WebSite","name":"Continue","url":"https://continue.dev"}]}
