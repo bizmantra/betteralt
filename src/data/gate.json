@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T03:51:54.548Z",
+ "generatedAt": "2026-10-29T12:37:58.864Z",
  "maxAgeDays": 14,
  "linkCheck": "212 links checked, 0 dead",
  "tools": {
@@ -258,8 +258,8 @@
   },
   "clickup-brain": {
    "verified": true,
-   "checkedAt": "2026-10-26",
-   "snapshot": "data/snapshots/clickup-brain/2026-10-26.txt"
+   "checkedAt": "2026-10-29",
+   "snapshot": "data/snapshots/clickup-brain/2026-10-29.txt"
   },
   "coda": {
    "verified": true,
@@ -407,8 +407,8 @@
   },
   "synthesia": {
    "verified": true,
-   "checkedAt": "2026-10-26",
-   "snapshot": "data/snapshots/synthesia/2026-10-26.txt"
+   "checkedAt": "2026-10-29",
+   "snapshot": "data/snapshots/synthesia/2026-10-29.txt"
   },
   "heygen": {
    "verified": true,
@@ -452,8 +452,8 @@
   },
   "invideo": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/invideo/2026-10-22.txt"
+   "checkedAt": "2026-10-29",
+   "snapshot": "data/snapshots/invideo/2026-10-29.txt"
   },
   "otter": {
    "verified": true,
@@ -531,8 +531,8 @@
   },
   "pitch": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/pitch/2026-10-22.txt"
+   "checkedAt": "2026-10-29",
+   "snapshot": "data/snapshots/pitch/2026-10-29.txt"
   },
   "plus-ai": {
    "verified": true,
@@ -556,8 +556,8 @@
   },
   "soundraw": {
    "verified": true,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/soundraw/2026-10-22.txt"
+   "checkedAt": "2026-10-29",
+   "snapshot": "data/snapshots/soundraw/2026-10-29.txt"
   },
   "aiva": {
    "verified": true,
@@ -861,8 +861,8 @@
   },
   "voicestudio": {
    "verified": true,
-   "checkedAt": "2026-10-26",
-   "snapshot": "data/snapshots/voicestudio/2026-10-26.txt"
+   "checkedAt": "2026-10-29",
+   "snapshot": "data/snapshots/voicestudio/2026-10-29.txt"
   },
   "voicebox": {
    "verified": true,

@@ -1,0 +1,261 @@
+#SNAPSHOT {"url":"https://voicestudio.sh/pro","finalUrl":"https://voicestudio.sh/pro","fetchedAt":"2026-10-29T12:36:55.175Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"eba24193ca335f8797c8c976f33309b09118b5a6cfdb121cb55de0eab3cd1a8d"}
+Skip to content
+VoiceStudio
+.
+s
+h
+Voices
+Library
+Pro
+Docs
+Cloud
+93,433
+Download
+VoiceStudio Pro
+ : 
+ . | . 
+ . | :|: | . 
+-|: :|: ||| :|: :|-
+ ' | :|: | ' 
+ ' | ' 
+ : 
+Pro
+List price:
+$199
+Launch price:
+$99
+per user / year
+Commercial licence included.
+Pro plan limits
+USERS
+1
+ACTIVE DEVICES
+3
+CONCURRENT USE
+3
+EMAIL
+Email me a Pro invitation. Privacy policy.
+Request an invite
+ .---. .---. 
+ .' '.' '. 
+ / . . \ 
+ : / '. .' \ : 
+ \ . . / 
+ '. .'. .' 
+ '---' '---' 
+Lifetime
+List price:
+$499
+Launch price:
+$199
+per user · one-time
+Includes all future updates.
+Lifetime plan limits
+USERS
+1
+ACTIVE DEVICES
+3
+CONCURRENT USE
+3
+EMAIL
+Email me a Pro invitation. Privacy policy.
+Request an invite
+ [+] [+] 
+ \ / 
+ .--+--. 
+ [ ]--| [*] |--[ ] 
+ '--+--' 
+ / \ 
+ [+] [+] 
+Enterprise Custom
+Let’s talk
+Questions about Pro? We’re here to help.
+EMAIL
+HOW CAN WE HELP?
+optional
+Email me a reply. Privacy policy.
+Send message
+or
+pro@voicestudio.sh
+About this enquiry
+Terms
+7-day refund at launch
+Licence
+Included in Pro
+A FAMILIAR STARTING POINT
+Everything you already use
+Keep the free app’s features, with more devices and new features first.
+Voice cloning
+Voice design
+Video dubbing
+Dictation
+Audiobooks
+Local API
+MCP server
+Multiple devices
+Remote devices
+Early access
+Voice cloning
+Voice design
+Video dubbing
+Dictation
+Audiobooks
+Local API
+MCP server
+Multiple devices
+Remote devices
+Early access
+Voice cloning
+Voice design
+Video dubbing
+Dictation
+Audiobooks
+Local API
+MCP server
+Multiple devices
+Remote devices
+Early access
+Voice cloning
+Voice design
+Video dubbing
+Dictation
+Audiobooks
+Local API
+MCP server
+Multiple devices
+Remote devices
+Early access
+COMMERCIAL LICENSE
+Licensed for client work
+We’ll email you a licence for your paid client work.
+COMMERCIAL LICENSE
+ISSUED
+to your email
+SEAT
+1 user
+DEVICES
+3
+BATCH DUBBING
+Work through a whole batch
+Queue your videos and choose their languages.
+interview_en.mp4
+ES · DE · HI
+launch_trailer.mov
+FR · JA
+lesson_04.mkv
+PT · AR
+WATCH FOLDERS
+Add files as you go
+Add a file and VoiceStudio picks it up automatically.
+take_01.wav
+take_02.wav
+scene_9.mp4
+REMOTE GPU WORKERS
+Use your other GPUs
+Send jobs to your other GPUs when you need them. Your projects stay local.
+YOUR DEVICES
+3 devices, 3 at once
+Use your licence on your laptop, studio PC or render machine.
+ROOM TO TRY IT
+7-day full refund
+If it’s not for you, ask for a full refund. How it works.
+7
+Already a Pro user?
+Having issues or have a feature request?
+Get in touch
+Feature comparison
+7
+OF 7
+FEATURES IN BOTH
+3
++ 12 SOON
+ONLY IN PRO
+FREE, NO SEAT COUNT
+Feature
+Open source
+AGPL-3.0
+Pro
+CLOSED SOURCE · COMMERCIAL LICENSE
+IN THE APP
+Desktop app 
+Included 
+Included
+Voice cloning 
+Included 
+Included
+Voice design 
+Included 
+Included
+Video dubbing 
+Included 
+Included
+Dictation and transcription 
+Included 
+Included
+Audiobook creation 
+Included 
+Included
+Local API 
+Included 
+Included
+WHAT YOU NEED
+Account required 
+No 
+No
+Cloud required 
+No 
+No
+WHAT PRO ADDS
+Multiple devices per seat 
+No 
+Included
+Remote devices 
+No 
+Included
+Early access to features and fixes 
+No 
+Included
+Premium voices 
+No 
+Upcoming
+Profile sync 
+No 
+Upcoming
+Cloud data sync 
+No 
+Upcoming
+More engines Current set 
+Upcoming
+Unrestricted model support 
+No 
+Upcoming
+Better agent integrations Standard 
+Upcoming
+Import from the cloud 
+No 
+Upcoming
+Import from YouTube, Vimeo, X, TikTok, Instagram, Reddit 
+No 
+Upcoming
+Advanced batch workflows Basic queue 
+Upcoming
+More file formats and codecs Standard 
+Upcoming
+Better dubbing Standard 
+Upcoming
+Video editing 
+No 
+Upcoming
+TERMS
+Use at work or for money 
+Allowed 
+Allowed
+Source code Open on GitHub Closed source
+Software terms AGPL-3.0 Commercial License
+Closed-source distribution Publish required source 
+Discuss possible terms
+Hosted modified version Offer modified source 
+Discuss possible terms
+Speech model licences Separate Separate
+Building a closed-source product? Let’s talk through the terms.
+Talk to us

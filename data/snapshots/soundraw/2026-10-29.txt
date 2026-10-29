@@ -1,0 +1,68 @@
+#SNAPSHOT {"url":"https://soundraw.io/pricing","finalUrl":"https://soundraw.io/pricing","fetchedAt":"2026-10-29T12:36:53.579Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"d352792a3309aa8e2503cac8acae882ac2b65e6f65f42ecfdf5a05abe54348ba"}
+Store BGM
+Generate Music
+License
+FAQ
+For Businesses
+Pricing
+Log In
+Sign Up
+WE COVER ALL YOUR NEEDS
+Paid Plans
+Get up to 67% off with Annual
+Annual
+Monthly
+Plan
+Creator
+Artist Starter
+Artist Pro
+Artist Unlimited
+Enterprise
+Perfect for
+Individuals & Small companies (<10 employees)
+10+ employees
+Content creators
+Music artists / producers
+Everyone
+Pricing
+$16.99/mo
+$11.04/mo
+Subscribe
+$29.99/mo
+$19.49/mo
+Subscribe
+$35.99/mo
+$23.39/mo
+Subscribe
+$50/mo
+$32.50/mo
+Subscribe
+Ask
+Contact
+Commercial use
+Use as background music
+Videos, podcasts...
+Distribute & monetize songs
+Spotify, Apple Music...
+Monthly downloads
+Unlimited
+10
+20
+Unlimited
+Unlimited
+Format
+mp3
+mp3
+mp3, wav, stems
+mp3, wav, stems
+mp3, wav, stems
+API
+Learn more about licenses >
+See SOUNDRAW Grid pricing >
+English
+日本語
+Help Center
+Privacy Policy
+Terms of Service
+GDPR Privacy Policy
+© SOUNDRAW 2026

@@ -1653,14 +1653,14 @@
     "freemium"
    ],
    "pricing": {
-    "summary": "ClickUp Unlimited $7/user/mo (annual), Business $12/user/mo (annual); AI pricing on page",
-    "fromUsdMonthly": 7,
+    "summary": "Free Forever plan; Core $9/user/mo, Business $17/user/mo, Max $100/user/mo (billed yearly; $12, $25 and $120 billed monthly); AI pricing on page",
+    "fromUsdMonthly": 9,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://clickup.com/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17",
+    "lastChangedAt": "2026-10-29",
     "fromBilling": "annual"
    },
    "openSource": null,
@@ -2603,14 +2603,14 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free Basic plan; Starter $29/mo; Pro $89/mo",
-    "fromUsdMonthly": 29,
+    "summary": "Free Basic plan; Starter $19/mo (promo: $9 first month; $14/mo billed yearly); Pro $89/mo (promo: $49 first month; $59/mo billed yearly)",
+    "fromUsdMonthly": 19,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://www.synthesia.io/pricing",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17",
+    "lastChangedAt": "2026-10-29",
     "fromBilling": "monthly"
    },
    "openSource": null,
@@ -2871,14 +2871,14 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Basic from $4/seat/mo billed annually ($9 monthly)",
-    "fromUsdMonthly": 4,
+    "summary": "Free plan; Starter $10/seat/mo billed annually ($20 monthly), Plus $30/seat/mo ($60 monthly), Max $75/seat/mo ($150 monthly)",
+    "fromUsdMonthly": 10,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://invideo.io/pricing",
-    "lastChecked": "2026-10-22",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17",
+    "lastChangedAt": "2026-10-29",
     "fromBilling": "annual"
    },
    "openSource": null,
@@ -3364,15 +3364,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Plus $10/mo, Team $15/mo, Business $20/mo",
-    "fromUsdMonthly": 10,
+    "summary": "Free plan; Plus $13/mo, Team $19/mo, Business $25/mo billed yearly ($15, $23 and $30 paying monthly)",
+    "fromUsdMonthly": 13,
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://pitch.com/pricing",
-    "lastChecked": "2026-10-22",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18",
-    "fromBilling": "monthly"
+    "lastChangedAt": "2026-10-29",
+    "fromBilling": "annual"
    },
    "openSource": null,
    "status": "active",
@@ -3520,14 +3520,14 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Paid from $5.99/mo",
-    "fromUsdMonthly": 5.99,
+    "summary": "Creator $16.99/mo ($11.04/mo billed annually); Artist Starter $29.99/mo ($19.49/mo annually), Artist Pro $35.99/mo ($23.39/mo annually), Artist Unlimited $50/mo ($32.50/mo annually)",
+    "fromUsdMonthly": 16.99,
     "hasFreePlan": false,
     "verified": true,
     "sourceUrl": "https://soundraw.io/pricing",
-    "lastChecked": "2026-10-22",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
-    "lastChangedAt": "2026-10-17",
+    "lastChangedAt": "2026-10-29",
     "fromBilling": "monthly"
    },
    "openSource": null,
@@ -5468,11 +5468,11 @@
     "hasFreePlan": true,
     "verified": true,
     "sourceUrl": "https://voicestudio.sh/pro",
-    "lastChecked": "2026-10-26",
+    "lastChecked": "2026-10-29",
     "currency": "USD",
-    "lastChangedAt": "2026-10-21",
+    "lastChangedAt": "2026-10-29",
     "fromBilling": "annual",
-    "summary": "Free and open source (AGPL-3.0); Pro $99/user/yr; Lifetime $299 one-time"
+    "summary": "Free and open source (AGPL-3.0); Pro $99/user/yr (launch price, list $199/yr, invite-only); Lifetime $199 one-time (launch price, list $499, invite-only)"
    },
    "openSource": {
     "repo": "https://github.com/debpalash/VoiceStudio",
@@ -7857,6 +7857,114 @@
     "before": "data/snapshots/openhands/2026-10-26.txt",
     "after": "data/snapshots/openhands/2026-10-29.txt",
     "note": "The Teams plan is now listed at $500/month (was $499/month on 26 Oct), still for up to 10 users with +$50/mo per extra seat and a 30-day trial. Agent Canvas (free, open source, self-hosted) and Enterprise (custom) are unchanged."
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "slug": "clickup-brain",
+   "kind": "price increase",
+   "old": "Unlimited $7/user/mo, Business $12/user/mo (billed yearly)",
+   "new": "Core $9/user/mo (renamed from Unlimited), Business $17/user/mo, new Max plan $100/user/mo (billed yearly; $12, $25 and $120 monthly)",
+   "sourceUrl": "https://clickup.com/pricing",
+   "id": "2026-10-29-clickup-brain",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Unlimited / Core, Business, Max",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/clickup-brain/2026-10-26.txt",
+    "after": "data/snapshots/clickup-brain/2026-10-29.txt",
+    "note": "Unlimited is renamed Core and rises from $7 to $9/user/mo billed yearly (+29%). Business rises from $12 to $17/user/mo billed yearly (+42%). A new Max plan is listed at $100/user/mo billed yearly ($120 monthly). Free Forever is unchanged."
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "slug": "synthesia",
+   "kind": "price decrease",
+   "old": "Starter $29/mo",
+   "new": "Starter $19/mo (promo: $9 first month; $14/mo billed yearly); Pro $89/mo unchanged (promo: $49 first month)",
+   "sourceUrl": "https://www.synthesia.io/pricing",
+   "id": "2026-10-29-synthesia",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Starter",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/synthesia/2026-10-26.txt",
+    "after": "data/snapshots/synthesia/2026-10-29.txt",
+    "note": "Starter drops from $29 to $19/mo billed monthly (-34%), with a first-month promo of $9; billed yearly it is $14/mo. Pro stays $89/mo, now with a $49 first-month promo. Promos are shown alongside the list price."
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "slug": "voicestudio",
+   "kind": "plan change",
+   "old": "Pro $99/user/yr; Lifetime $299 one-time",
+   "new": "Pro $99/user/yr launch price (list $199/yr); Lifetime $199 one-time launch price (list $499); both invite-only",
+   "sourceUrl": "https://voicestudio.sh/pro",
+   "id": "2026-10-29-voicestudio",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Pro / Lifetime",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/voicestudio/2026-10-26.txt",
+    "after": "data/snapshots/voicestudio/2026-10-29.txt",
+    "note": "Lifetime now shows a list price of $499 with a $199 launch price (was $299). Pro shows a list price of $199/yr with a $99/yr launch price. Both plans are now invite-only (Request an invite)."
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "slug": "soundraw",
+   "kind": "price increase",
+   "old": "Paid from $5.99/mo",
+   "new": "Creator $16.99/mo ($11.04/mo annually); Artist Starter $29.99/mo ($19.49/mo annually), Artist Pro $35.99/mo ($23.39/mo annually), Artist Unlimited $50/mo ($32.50/mo annually)",
+   "sourceUrl": "https://soundraw.io/pricing",
+   "id": "2026-10-29-soundraw",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Creator / Artist",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/soundraw/2026-10-22.txt",
+    "after": "data/snapshots/soundraw/2026-10-29.txt",
+    "note": "Creator rises from $5.99 to $16.99/mo billed monthly ($11.04/mo annually). Artist tiers are $19.49, $23.39 and $32.50/mo on annual billing ($29.99, $35.99 and $50 monthly)."
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "slug": "invideo",
+   "kind": "price increase",
+   "old": "Basic from $4/seat/mo billed annually ($9 monthly)",
+   "new": "Starter $10/seat/mo billed annually ($20 monthly, renamed from Basic); Plus $30 (was Pro); Max $75 (was Ultra)",
+   "sourceUrl": "https://invideo.io/pricing",
+   "id": "2026-10-29-invideo",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Basic / Starter, Pro / Plus, Max",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/invideo/2026-10-22.txt",
+    "after": "data/snapshots/invideo/2026-10-29.txt",
+    "note": "Plans are renamed: Basic is now Starter ($10/seat/mo billed annually, $20 monthly), Pro is now Plus ($30, $60 monthly) and Ultra is now Max ($75, $150 monthly). The pricing cards show no free tier, but the page FAQ still refers to a Free plan, so the free-plan flag is unchanged."
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "slug": "pitch",
+   "kind": "price increase",
+   "old": "Plus $10/mo, Team $15/mo, Business $20/mo",
+   "new": "Plus $13/mo, Team $19/mo, Business $25/mo billed yearly ($15, $23 and $30 paying monthly)",
+   "sourceUrl": "https://pitch.com/pricing",
+   "id": "2026-10-29-pitch",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Plus, Team, Business",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/pitch/2026-10-22.txt",
+    "after": "data/snapshots/pitch/2026-10-29.txt",
+    "note": "Prices on the default yearly view are Plus $13, Team $19 and Business $25 per month (paying yearly); paying monthly they are $15, $23 and $30. Our listing now records the billing period as yearly to match the page."
    }
   }
  ],
