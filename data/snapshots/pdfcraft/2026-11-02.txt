@@ -1,0 +1,328 @@
+#SNAPSHOT {"url":"https://getartcraft.com/apps/pdfcraft","finalUrl":"https://getartcraft.com/apps/pdfcraft","fetchedAt":"2026-11-02T03:35:31.328Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"dbe984675f777c63d3f5550d68c45495b76e6b30986e3885953f4c191d9e1706"}
+PdfCraft: The open-source PDF workbench. - ArtCraft 
+ Home
+ Image
+ Video
+ Resources 
+ Download
+ Support
+ Craft Apps
+ Pricing
+ Launch App
+ Open main menu
+ 01
+ /
+PdfCraft
+ PDF workbench · Early alpha
+ 05
+ Pdf Craft
+ The open-source
+ PDF workbench.
+ Read, organize, combine, split and secure PDFs in a fast, native app written in Rust from the ground up. No account, no telemetry, no cloud.
+ Download Launcher
+ Join the Discord
+ View on GitHub
+ All launcher downloads (other architectures)
+ macOS · Windows · Linux · Web · Free and open source
+ Share
+ Copy link
+ X
+ Reddit
+ Bluesky
+ LinkedIn
+ Viewer with threaded comments Screenshot
+ 02
+ /
+Highlights
+ PDF workbench
+ What&#x27;s inside
+.
+ 01
+ Faithful rendering
+ World scripts, vertical Japanese, color emoji and transparency. Zero crashes across a 983-file test corpus.
+ 02
+ Search as you type
+ Instant find, and text selection that follows the document&#x27;s real reading order.
+ 03
+ Organize like cards
+ Rotate, delete, insert and reorder pages, with deep undo behind every change.
+ 04
+ Combine, extract, split
+ Assemble and break apart documents while keeping links, form fields, layers and bookmarks intact.
+ 05
+ Fearless saves
+ Incremental, atomic saves with autosave and crash recovery.
+ 06
+ Built-in security
+ Opens everything from RC4 to AES-256 encryption and honors author permissions.
+ 03
+ /
+Screenshots
+ Captured in PdfCraft
+ Full size 
+ Organize pages like cards
+ 02
+ Full size 
+ A command palette for every tool
+ 03
+ Full size 
+ Two-up Read mode, dark theme
+ 04
+ 04
+ /
+Get PdfCraft
+ Free · Open source
+ Option 1 · Recommended
+ Get PdfCraft with the Launcher
+.
+ ArtCraft Launcher installs PdfCraft and every other Crafting App from one place, picks the right build for your computer and keeps them all up to date. Install it once and every update is a click away.
+ Every Crafting App
+ One-click updates
+ Verified downloads
+ ArtCraft Launcher · v 0.13.0
+ Download Launcher
+ All launcher downloads (other architectures)
+ About the Launcher 
+ Option 2 · Standalone
+ Just PdfCraft ? Download it standalone
+.
+ These installers add PdfCraft on its own, without the launcher. Come back here for new versions, or install the launcher later and it will find PdfCraft and keep it updated.
+ Platform
+ 01
+ macOS
+ Disk image (Universal)
+ Apple silicon and Intel Macs.
+ Standalone for macOS
+ Other PdfCraft files for macOS
+ Command-line tool (Universal)
+ The headless CLI for scripts and agents.
+ pdfcraft-cli-0.16.1-macos-universal.zip
+ Platform
+ 02
+ Windows
+ Installer (64-bit)
+ Most Windows 10 and 11 PCs.
+ Standalone for Windows
+ Other PdfCraft files for Windows
+ Portable (64-bit)
+ Unzip and run, no install.
+ pdfcraft-0.16.1-windows-x64-portable.zip
+ Installer (32-bit)
+ Older 32-bit Windows.
+ pdfcraft-0.16.1-windows-x86.msi
+ Portable (32-bit)
+ Unzip and run on 32-bit Windows.
+ pdfcraft-0.16.1-windows-x86-portable.zip
+ Installer (ARM64)
+ Windows 11 on ARM laptops.
+ pdfcraft-0.16.1-windows-arm64.msi
+ Portable (ARM64)
+ Unzip and run on Windows on ARM.
+ pdfcraft-0.16.1-windows-arm64-portable.zip
+ Platform
+ 03
+ Linux
+ Flatpak (x86_64)
+ Sandboxed. Install with flatpak install --user.
+ Standalone for Linux
+ Other PdfCraft files for Linux
+ AppImage (x86_64)
+ Any distro. Mark it executable and run.
+ pdfcraft-0.16.1-linux-x86_64.AppImage
+ Debian package (x86_64)
+ Debian, Ubuntu and derivatives.
+ pdfcraft-0.16.1-linux-x86_64.deb
+ RPM package (x86_64)
+ Fedora, RHEL and openSUSE.
+ pdfcraft-0.16.1-linux-x86_64.rpm
+ Tarball (x86_64)
+ Plain binaries to unpack anywhere.
+ pdfcraft-0.16.1-linux-x86_64.tar.gz
+ Flatpak (ARM64)
+ Sandboxed, on 64-bit ARM.
+ pdfcraft-0.16.1-linux-aarch64.flatpak
+ AppImage (ARM64)
+ Any distro on 64-bit ARM.
+ pdfcraft-0.16.1-linux-aarch64.AppImage
+ Debian package (ARM64)
+ Debian, Ubuntu and derivatives on ARM.
+ pdfcraft-0.16.1-linux-aarch64.deb
+ RPM package (ARM64)
+ Fedora, RHEL and openSUSE on ARM.
+ pdfcraft-0.16.1-linux-aarch64.rpm
+ Tarball (ARM64)
+ Plain binaries for 64-bit ARM.
+ pdfcraft-0.16.1-linux-aarch64.tar.gz
+ Tarball (RISC-V 64)
+ Plain binaries for 64-bit RISC-V.
+ pdfcraft-0.16.1-linux-riscv64.tar.gz
+ Debian package (RISC-V 64)
+ Debian and derivatives on 64-bit RISC-V.
+ pdfcraft-0.16.1-linux-riscv64.deb
+ RPM package (RISC-V 64)
+ RPM-based distributions on 64-bit RISC-V.
+ pdfcraft-0.16.1-linux-riscv64.rpm
+ Arch package (x86_64)
+ Arch Linux, Manjaro, and derivatives.
+ pdfcraft-0.16.1-linux-x86_64.pkg.tar.zst
+ Arch package (ARM64)
+ Arch Linux ARM and derivatives on 64-bit ARM.
+ pdfcraft-0.16.1-linux-aarch64.pkg.tar.zst
+ Package repositories (Flatpak, APT & RPM) →
+ Platform
+ 04
+ FreeBSD
+ FreeBSD (x86_64)
+ Plain binaries for FreeBSD 15.1.
+ Standalone for FreeBSD
+ Release
+ Version 0.16.1
+.
+ Free for every platform above. Questions or feedback? The team is in the ArtCraft Discord.
+ Other downloads
+ Web build
+ The WebAssembly app, to host yourself.
+ pdfcraft-web-0.16.1.zip
+ SHA-256 checksums
+ Verify any download above.
+ SHA256SUMS.txt
+ Release notes on GitHub 
+ All releases 
+ macOS
+ Windows
+ Linux
+ Web
+ Build from source
+ Run it today
+.
+ Needs Rust 1.90 or newer. New to Rust? Install it with rustup
+, then run:
+ Terminal Copy
+ git clone https://github.com/storytold/pdfcraft.git
+cd pdfcraft
+cargo run --release -p pdfcraft View source on GitHub
+ 05
+ /
+The family
+ Crafting Apps
+ More from the family
+.
+ All Crafting Apps 
+ 01
+ Image editor
+ Photo Craft
+ The open-source image editor you already know how to use.
+ Explore PhotoCraft 
+ 02
+ Vector illustration
+ Vector Craft
+ Fast, open-source vector illustration, reimagined in pure Rust.
+ Explore VectorCraft 
+ 03
+ Video editor
+ Film Craft
+ Professional, open-source video editing, rebuilt from scratch in Rust.
+ Explore FilmCraft 
+ 04
+ Photo library & raw developer
+ Light Craft
+ An open-source photo library and raw developer that runs on your machine.
+ Explore LightCraft 
+ 06
+ Motion graphics & VFX
+ Effect Craft
+ Open-source motion graphics and visual effects, built in pure Rust.
+ Explore EffectCraft 
+ 07
+ Page layout & publishing
+ Design Craft
+ Open-source page layout and publishing, rebuilt in pure Rust.
+ Explore DesignCraft 
+ 08
+ Interface design
+ Fig Craft
+ Open-source interface design and prototyping, rebuilt in pure Rust.
+ Explore FigCraft 
+ 09
+ 3D texture painting
+ Texture Craft
+ Open-source 3D texture painting, rebuilt in pure Rust.
+ Explore TextureCraft 
+ 10
+ Word processing
+ Word Craft
+ Fast, open-source word processing, rebuilt in pure Rust.
+ Explore WordCraft 
+ 11
+ Digital audio workstation
+ Sound Craft
+ Professional audio recording, editing and mixing in pure Rust.
+ Explore SoundCraft 
+ 12
+ Presentations & slide shows
+ Deck Craft
+ Build and deliver dynamic slide presentations, in pure Rust.
+ Explore DeckCraft 
+ 13
+ Computer-aided design & drafting
+ CAD Craft
+ Fast, open-source computer-aided design and drafting in pure Rust.
+ Explore CADCraft 
+ 14
+ Spreadsheets & data analysis
+ Grid Craft
+ Fast, open-source spreadsheets and data analysis, rebuilt in pure Rust.
+ Explore GridCraft 
+ 15
+ Software exploration & creation
+ Craft
+ Anything
+ Explore how software works and build your own version.
+ Explore Craft Anything 
+ Open source · Free
+ Help shape Pdf Craft
+.
+ Report bugs, request features and get early builds of PdfCraft in the ArtCraft Discord.
+ Join the Discord
+ Open-source tools for artists: the Craft Apps and ArtCraft Studio, our AI image and video app.
+ hello@storyteller.ai
+ ArtCraft Studio
+ Download
+ Pricing
+ Use on web
+ Craft Apps
+ All Craft Apps
+ PhotoCraft
+ VectorCraft
+ FilmCraft
+ LightCraft
+ PdfCraft
+ EffectCraft
+ DesignCraft
+ FigCraft
+ TextureCraft
+ WordCraft
+ SoundCraft
+ DeckCraft
+ CADCraft
+ GridCraft
+ Craft Anything
+ Resources
+ Linux Repositories
+ Tutorials
+ News
+ FAQ
+ Press Kit
+ Support
+ Community
+ Discord
+ GitHub
+ YouTube
+ Instagram
+ TikTok
+ © 2026 ArtCraft
+ Made by artists, for artists
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"ArtCraft","applicationCategory":"DesignApplication","operatingSystem":"macOS, Windows, Web","description":"Open-source desktop app for generating AI video and images — built for artists who want real control.","url":"https://getartcraft.com","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"ArtCraft","url":"https://getartcraft.com"}}
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"PdfCraft","applicationCategory":"BusinessApplication","operatingSystem":"macOS, Windows, Linux, Web","description":"Read, organize, combine, split and secure PDFs in a fast, native app written in Rust from the ground up. No account, no telemetry, no cloud.","url":"https://getartcraft.com/apps/pdfcraft","image":"https://getartcraft.com/images/apps/pdfcraft/og.jpg","thumbnailUrl":"https://getartcraft.com/images/apps/pdfcraft/icon.webp","screenshot":["https://getartcraft.com/images/apps/pdfcraft/hero.webp","https://getartcraft.com/images/apps/pdfcraft/organize.webp","https://getartcraft.com/images/apps/pdfcraft/palette.webp","https://getartcraft.com/images/apps/pdfcraft/twoup.webp"],"sameAs":"https://github.com/storytold/pdfcraft","softwareVersion":"0.16.1","downloadUrl":"https://github.com/storytold/pdfcraft/releases/tag/v0.16.1","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"ArtCraft","url":"https://getartcraft.com"}}

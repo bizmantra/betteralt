@@ -1,82 +1,12 @@
 {
- "at": "2026-10-29T03:42:58.608Z",
+ "at": "2026-11-02T03:35:42.763Z",
  "total": 212,
  "failed": [
-  {
-   "slug": "grok",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "gemini",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "chatgpt",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "poe",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
   {
    "slug": "tabnine",
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "adobe-firefly",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "coda",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "grammarly",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "quillbot",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "languagetool",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "prowritingaid",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
    "method": "playwright"
   },
   {
@@ -87,56 +17,7 @@
    "method": "playwright"
   },
   {
-   "slug": "canva",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "adobe-express",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "kittl",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "tldv",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
    "slug": "capcut",
-   "region": "us",
-   "pass": false,
-   "reason": "no $ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "veed",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "gamma",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "replika",
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",
@@ -150,31 +31,17 @@
    "method": "playwright"
   },
   {
-   "slug": "google-sheets",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "adobe-photoshop",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "gorgias",
+   "slug": "talkie",
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",
    "method": "playwright"
   },
   {
-   "slug": "shopify-magic",
-   "region": "in",
+   "slug": "replika",
+   "region": "us",
    "pass": false,
-   "reason": "no ₹ amounts on page",
+   "reason": "no $ amounts on page",
    "method": "playwright"
   },
   {
@@ -185,24 +52,10 @@
    "method": "playwright"
   },
   {
-   "slug": "framer",
-   "region": "in",
+   "slug": "gorgias",
+   "region": "us",
    "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "google-docs",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
-   "method": "playwright"
-  },
-  {
-   "slug": "brevo",
-   "region": "in",
-   "pass": false,
-   "reason": "no ₹ amounts on page",
+   "reason": "no $ amounts on page",
    "method": "playwright"
   }
  ]

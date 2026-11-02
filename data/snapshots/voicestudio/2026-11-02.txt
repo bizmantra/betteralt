@@ -1,0 +1,319 @@
+#SNAPSHOT {"url":"https://voicestudio.sh/pro","finalUrl":"https://voicestudio.sh/pro","fetchedAt":"2026-11-02T03:35:24.046Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"5eb450514c04cba40106595e0b2ee6aa83124b7afbe3a11d99a76a6e914481f3"}
+VoiceStudio Pro: Commercial License for Client Work | VoiceStudio Skip to content
+ VoiceStudio . s h 
+ Voices
+ Library
+ Pro
+ Docs
+ Cloud
+ English Português (Brasil) हिन्दी Deutsch Français Español Bahasa Indonesia বাংলা اردو 中文 Türkçe العربية 82,040
+ Download 
+ Menu
+ VoiceStudio Pro
+ : 
+ . | . 
+ . | :|: | . 
+ -|: :|: ||| :|: :|- 
+ &#x27; | :|: | &#x27; 
+ &#x27; | &#x27; 
+ : 
+ Pro
+ List price: 
+ $ 199 
+ Launch price: 
+ $ 99 per user / year
+ Commercial licence included.
+ Pro plan limits
+ Users
+ 1
+ Active devices 3 
+ Concurrent use 3 
+ Email address 
+ Email me a Pro invitation. Privacy policy
+.
+ Request an invite 
+ .---. .---. 
+ .&#x27; &#x27;.&#x27; &#x27;. 
+ / . . \ 
+ : / &#x27;. .&#x27; \ : 
+ \ . . / 
+ &#x27;. .&#x27;. .&#x27; 
+ &#x27;---&#x27; &#x27;---&#x27; 
+ Lifetime
+ List price: 
+ $ 499 
+ Launch price: 
+ $ 199 per user · one-time
+ Includes all future updates.
+ Lifetime plan limits
+ Users
+ 1
+ Active devices 3 
+ Concurrent use 3 
+ Email address 
+ Email me a Pro invitation. Privacy policy
+.
+ Request an invite 
+ [+] [+] 
+ \ / 
+ .--+--. 
+ [ ]--| [*] |--[ ] 
+ &#x27;--+--&#x27; 
+ / \ 
+ [+] [+] 
+ Enterprise Custom
+ Let’s talk 
+ Questions about Pro? We’re here to help.
+ Email address 
+ How can we help? optional 
+ Email me a reply. Privacy policy
+.
+ Send message 
+ or pro@voicestudio.sh
+ About this enquiry Submitting this enquiry is not a purchase or licence grant. Speech models have their own terms. Licence guide
+.
+ Terms
+ 7-day refund at launch
+ Licence
+ Included in Pro
+ A familiar starting point
+ Everything you already use
+ Keep the free app’s features, with more devices and new features first.
+ Voice cloning
+ Voice design
+ Video dubbing
+ Dictation
+ Audiobook creation
+ Local API
+ MCP server
+ Multiple devices
+ Remote devices
+ Early access
+ Voice cloning
+ Voice design
+ Video dubbing
+ Dictation
+ Audiobook creation
+ Local API
+ MCP server
+ Multiple devices
+ Remote devices
+ Early access
+ Voice cloning
+ Voice design
+ Video dubbing
+ Dictation
+ Audiobook creation
+ Local API
+ MCP server
+ Multiple devices
+ Remote devices
+ Early access
+ Voice cloning
+ Voice design
+ Video dubbing
+ Dictation
+ Audiobook creation
+ Local API
+ MCP server
+ Multiple devices
+ Remote devices
+ Early access
+ Commercial License
+ Licensed for client work
+ We’ll email you a licence for your paid client work.
+ Commercial License
+ Issued to your email 
+ Seat 1 user 
+ Devices 3 
+ Batch dubbing
+ Work through a whole batch
+ Queue your videos and choose their languages.
+ interview_en.mp4
+ ES · DE · HI
+ launch_trailer.mov
+ FR · JA
+ lesson_04.mkv
+ PT · AR
+ Watch folders
+ Add files as you go
+ Add a file and VoiceStudio picks it up automatically.
+ take_01.wav
+ take_02.wav
+ scene_9.mp4
+ Remote GPU workers
+ Use your other GPUs
+ Send jobs to your other GPUs when you need them. Your projects stay local.
+ Your devices
+ 3 devices, 3 at once
+ Use your licence on your laptop, studio PC or render machine.
+ Room to try it
+ 7-day full refund
+ If it’s not for you, ask for a full refund. How it works
+.
+ 7 
+ Already a Pro user?
+ Having issues or have a feature request?
+ Get in touch 
+ Feature comparison
+ 7 of 7
+ features in both
+ 3 + 12 soon
+ only in Pro
+ free, no seat count
+ Feature
+ Open source
+ AGPL-3.0
+ Pro
+ Closed source · Commercial License
+ In the app
+ Desktop app
+ Included
+ Included
+ Voice cloning
+ Included
+ Included
+ Voice design
+ Included
+ Included
+ Video dubbing
+ Included
+ Included
+ Dictation and transcription
+ Included
+ Included
+ Audiobook creation
+ Included
+ Included
+ Local API
+ Included
+ Included
+ What you need
+ Account required
+ No
+ No
+ Cloud required
+ No
+ No
+ What Pro adds
+ Multiple devices per seat
+ No
+ Included
+ Remote devices
+ No
+ Included
+ Early access to features and fixes
+ No
+ Included
+ Premium voices
+ No
+ Upcoming
+ Profile sync
+ No
+ Upcoming
+ Cloud data sync
+ No
+ Upcoming
+ More engines
+ Current set
+ Upcoming
+ Unrestricted model support
+ No
+ Upcoming
+ Better agent integrations
+ Standard
+ Upcoming
+ Import from the cloud
+ No
+ Upcoming
+ Import from YouTube, Vimeo, X, TikTok, Instagram, Reddit
+ No
+ Upcoming
+ Advanced batch workflows
+ Basic queue
+ Upcoming
+ More file formats and codecs
+ Standard
+ Upcoming
+ Better dubbing
+ Standard
+ Upcoming
+ Video editing
+ No
+ Upcoming
+ Terms
+ Use at work or for money
+ Allowed
+ Allowed
+ Source code
+ Open on GitHub
+ Closed source
+ Software terms
+ AGPL-3.0
+ Commercial License
+ Closed-source distribution
+ Publish required source
+ Discuss possible terms
+ Hosted modified version
+ Offer modified source
+ Discuss possible terms
+ Speech model licences
+ Separate
+ Separate
+ Building a closed-source product? Let’s talk through the terms.
+ Talk to us
+ Quick answers
+ Little questions, short answers.
+ Is it really free?
+ The desktop app is open source under AGPL-3.0, so yes. Pro and Lifetime are a separate, closed-source build with a paid Commercial License and extra features, for teams that need commercial terms.
+ Licence guide 
+ Does it phone home?
+ No account, no cloud. It only goes online when you ask it to: checking for updates or downloading a model.
+ Privacy 
+ Do I need a fancy GPU?
+ Nope. About 8 GB of RAM is enough to start. A GPU just makes everything faster.
+ System needs 
+ Can I clone any voice?
+ Only with the owner&#x27;s say-so. Impersonation and fraud are off the table.
+ The rules 
+ Changed my mind. Refund?
+ 7 days, full refund, no questions asked. Pro renewals can be cancelled any time.
+ Refund policy 
+ Where do I get help?
+ Write to us or open an issue. Real inboxes, answered within two business days.
+ Contact 
+ VoiceStudio
+ Voices belong in your hands. Open source, local by default.
+ Product
+ Download
+ Pro
+ Cloud
+ Library
+ Partners
+ Brand
+ Learn
+ Docs
+ Blog
+ FAQ
+ Contact
+ Delivery
+ Legal
+ Privacy
+ Terms
+ Refunds
+ Acceptable use
+ Data policy
+ License
+ Get weekly VoiceStudio tips, guides and news in your inbox.
+ No spam.
+ Website 
+ Email me weekly VoiceStudio tips, guides and news. Unsubscribe anytime. Privacy policy
+.
+ Subscribe 
+ Weekly. No spam.
+ © VoiceStudio.sh 2026
+ Designed and built by
+ Palash.dev
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@id":"https://voicestudio.sh/#organization","@type":"Organization","alternateName":"OmniVoice Studio","description":"Open-source desktop studio and local API for voice cloning, dubbing, transcription and text-to-speech.","logo":"/logo.svg","name":"VoiceStudio","url":"https://voicestudio.sh","founder":{"@type":"Person","name":"Palash Debnath","url":"https://palash.dev"},"sameAs":["https://github.com/debpalash/VoiceStudio","https://x.com/voicestudiosh","https://ko-fi.com/debpalash"]},{"@id":"https://voicestudio.sh/#website","@type":"WebSite","alternateName":"OmniVoice Studio","description":"Free, open-source AI voice cloning, design and dubbing that runs on your machine.","inLanguage":"en","name":"VoiceStudio","url":"https://voicestudio.sh","publisher":{"@id":"https://voicestudio.sh/#organization"}},{"@id":"https://voicestudio.sh/pro#webpage","@type":"WebPage","description":"Coming soon: the Pro build for client work, more devices and early access. Planned pricing: $99 a year, or $199 once for lifetime updates.","name":"VoiceStudio Pro: Commercial License for Client Work","url":"https://voicestudio.sh/pro","breadcrumb":{"@id":"https://voicestudio.sh/pro#breadcrumb"},"isPartOf":{"@id":"https://voicestudio.sh/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://voicestudio.sh/pro"]}]},{"@id":"https://voicestudio.sh/#software","@type":"SoftwareApplication","applicationCategory":"MultimediaApplication","codeRepository":"https://github.com/debpalash/VoiceStudio","description":"Clone voices, design new ones, dub video and transcribe speech in up to 646 languages, locally on Windows, macOS and Linux. Free, open source, no account.","downloadUrl":"https://voicestudio.sh/download","isAccessibleForFree":true,"license":"https://github.com/debpalash/VoiceStudio/blob/main/LICENSE","name":"VoiceStudio","operatingSystem":"Windows, macOS, Linux","releaseNotes":"https://github.com/debpalash/VoiceStudio/releases","softwareHelp":"https://voicestudio.sh/docs","url":"https://voicestudio.sh","alternateName":["OmniVoice Studio","OmniVoice.Studio"],"author":{"@id":"https://voicestudio.sh/#organization"},"featureList":["Local text-to-speech","Zero-shot voice cloning","Multilingual video dubbing","Speech transcription","OpenAI-compatible audio API","Local model management"],"offers":{"@type":"Offer","availability":"https://schema.org/InStock","price":0,"priceCurrency":"USD","url":"https://voicestudio.sh/download"}},{"@id":"https://voicestudio.sh/pro#breadcrumb","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://voicestudio.sh","position":1},{"@type":"ListItem","name":"VoiceStudio Pro: Commercial License for Client Work","position":2}]},{"@id":"https://voicestudio.sh/pro#product","@type":"Product","description":"Coming soon: the Pro build for client work, more devices and early access. Planned pricing: $99 a year, or $199 once for lifetime updates.","name":"VoiceStudio Pro","brand":{"@type":"Brand","name":"VoiceStudio"},"image":{"@id":"https://voicestudio.sh#/schema/image/1"},"mainEntityOfPage":{"@id":"https://voicestudio.sh/pro#webpage"},"offers":[{"@type":"Offer","availability":"https://schema.org/OutOfStock","name":"Pro, per user / year","price":99,"priceCurrency":"USD","url":"https://voicestudio.sh/pro","validFrom":"2026-09-30","hasMerchantReturnPolicy":{"@type":"MerchantReturnPolicy","applicableCountry":["US","CA","GB","IE","AU","NZ","IN","SG","DE","FR","ES","IT","NL","SE","JP","BR"],"returnPolicyCategory":"https://schema.org/MerchantReturnFiniteReturnWindow","merchantReturnDays":7,"returnFees":"https://schema.org/FreeReturn","merchantReturnLink":"https://voicestudio.sh/refunds"},"shippingDetails":{"@type":"OfferShippingDetails","shippingRate":{"@type":"MonetaryAmount","value":0,"currency":"USD"},"shippingDestination":{"@type":"DefinedRegion","addressCountry":["US","CA","GB","IE","AU","NZ","IN","SG","DE","FR","ES","IT","NL","SE","JP","BR"]},"deliveryTime":{"@type":"ShippingDeliveryTime","handlingTime":{"@type":"QuantitativeValue","minValue":0,"maxValue":1,"unitCode":"DAY"},"transitTime":{"@type":"QuantitativeValue","minValue":0,"maxValue":0,"unitCode":"DAY"}}}},{"@type":"Offer","availability":"https://schema.org/OutOfStock","name":"Lifetime, per user · one-time","price":199,"priceCurrency":"USD","url":"https://voicestudio.sh/pro","validFrom":"2026-09-30","hasMerchantReturnPolicy":{"@type":"MerchantReturnPolicy","applicableCountry":["US","CA","GB","IE","AU","NZ","IN","SG","DE","FR","ES","IT","NL","SE","JP","BR"],"returnPolicyCategory":"https://schema.org/MerchantReturnFiniteReturnWindow","merchantReturnDays":7,"returnFees":"https://schema.org/FreeReturn","merchantReturnLink":"https://voicestudio.sh/refunds"},"shippingDetails":{"@type":"OfferShippingDetails","shippingRate":{"@type":"MonetaryAmount","value":0,"currency":"USD"},"shippingDestination":{"@type":"DefinedRegion","addressCountry":["US","CA","GB","IE","AU","NZ","IN","SG","DE","FR","ES","IT","NL","SE","JP","BR"]},"deliveryTime":{"@type":"ShippingDeliveryTime","handlingTime":{"@type":"QuantitativeValue","minValue":0,"maxValue":1,"unitCode":"DAY"},"transitTime":{"@type":"QuantitativeValue","minValue":0,"maxValue":0,"unitCode":"DAY"}}}}]},{"@id":"https://voicestudio.sh#/schema/image/1","@type":"ImageObject","contentUrl":"https://voicestudio.sh/og/pro.png","inLanguage":"en","url":"https://voicestudio.sh/og/pro.png"}]}
