@@ -1,0 +1,373 @@
+#SNAPSHOT {"url":"https://github.com/wangzan101/Mika","finalUrl":"https://github.com/wangzan101/Mika","fetchedAt":"2026-11-04T04:43:22.968Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"73f9e54f028346dcf4427c780ee061b2260a0b9204e4226b7b57492808801815"}
+GitHub - wangzan101/Mika: An on-device AI agent for Android that operates apps and the web to get things done for you. · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ wangzan101
+ Mika
+ Repository navigation
+ Code
+ Issues
+ 73
+  ( 73 )
+ Pull requests
+ 41
+  ( 41 )
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ Mika
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 1.2k
+  ( 1.2k
+)
+ Star 6.2k
+  ( 6.2k
+)
+ You must be signed in to star a repository
+ About
+ An on-device AI agent for Android that operates apps and the web to get things done for you.
+ Topics
+ accessibility
+ ai-agent
+ android
+ automation
+ jetpack-compose
+ kotlin
+ llm
+ mobile-agent
+ Resources
+ Readme
+ Apache-2.0 license
+ Contributing
+ Contributing
+ Activity
+ Stars
+ 6.2k stars
+ Watchers
+ 10 watching
+ Forks
+ 1.2k 
+ forks
+ Report repository
+ main
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 458 Commits
+ 458 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .github
+ .github
+ app
+ app
+ core
+ core
+ docs
+ docs
+ eval
+ eval
+ gradle
+ gradle
+ licenses
+ licenses
+ tools
+ tools
+ .gitattributes
+ .gitattributes
+ .gitignore
+ .gitignore
+ LICENSE
+ LICENSE
+ NOTICE
+ NOTICE
+ README.en.md
+ README.en.md
+ README.md
+ README.md
+ build.gradle.kts
+ build.gradle.kts
+ gradle.properties
+ gradle.properties
+ gradlew
+ gradlew
+ gradlew.bat
+ gradlew.bat
+ settings.gradle.kts
+ settings.gradle.kts
+ View all files
+ Repository files navigation
+ README
+ Contributing
+ Apache-2.0 license
+ More items
+ Mika
+ An AI assistant on your phone: say what you need, and it works your apps and the web until it's done. 
+ It works on a hidden background screen, so you can keep using your phone.
+ English · 简体中文
+ · 繁體中文
+ · 日本語
+ · 한국어
+ · Español
+ "Send a message to File Transfer": Mika's chat on the left, each step on its background screen on the right (4× speed; chat list blurred) 
+ Get things done with one sentence
+ "What did the group talk about today?" 
+ Scrolls through the chat in the background, then sums it up 
+ "A charger under $30, rated 4.5 stars or more" 
+ Adds the pick to the cart and stops before checkout 
+ "What has this creator posted lately?" 
+ Opens the app, reads post by post, then sums it up 
+ More demos 
+Greets recruiters for 3 jobs on a job site
+Finds the cheapest nonstop from San Francisco to New York
+Reads out the top 5 stories on a news site
+Finds jobs and greets recruiters
+Watches ads to unlock music perks
+Orders takeout with stacked discounts, asks before paying
+ Several demos use apps popular in China: WeChat is the main messaging app there, and Xiaohongshu (RED) is a lifestyle and social platform. Mika isn't tied to them; it works with any app or website on your phone. 
+ Why Mika
+ 📱 Leaves your screen alone 
+ Opens apps, taps, types and scrolls on a separate background screen while you use your phone as usual; tap the small live view whenever you want to watch
+ 🧩 Works with any app 
+ Looks at the screen and finds buttons the way a person does: no app APIs, no per-app integration
+ 🌐 Call it from any web page 
+ In the built-in browser, say what you want on the page you're reading and it works right there; touch the page and it stops
+ 🧠 Gets better with use 
+ Remembers the preferences you tell it, and turns tasks it finishes into skills so next time is faster and steadier
+ 🔒 Your data stays on your phone 
+ There is no Mika server; use your own model API key, or sign in with a ChatGPT, xAI or OpenRouter account
+ 🆓 Open source and free 
+ Apache-2.0, all code public
+ Get started in three steps
+ Install : download the APK from Releases
+.
+ Connect a model : in Settings › Model, pick a provider and enter an API key, or just sign in with an account ( models and sign-in
+).
+ To operate phone apps : follow the "Set up phone control" wizard in Settings and pair wireless debugging on the phone once ( setup guide
+). Skip this if you only want chat, web and files.
+ Then try saying: "Set alarms for 9:40 and 10:00 tomorrow morning" or "Check the weather at 8 every morning and tell me only if it will rain".
+ 💡 Have a computer handy? Send this to the AI agent on it and it will set everything up for you:
+ Follow https://github.com/wangzan101/Mika/blob/main/docs/install-with-agent.en.md to install Mika on the Android phone connected over USB. 
+ What it can do
+ Operate apps 
+ Reads long lists and chat histories, taps and types, shares text into apps; hands logins, verification codes and payments to you
+ Browse the web 
+ A built-in desktop-class browser that keeps you signed in, reads pages, downloads and uploads; paces itself and hands block pages to you
+ Your current screen 
+ Double-tap the floating capsule to send the screen you're looking at: "how should I reply?", "note this down"
+ Schedules and conditions 
+ "Remind me at 9 tomorrow", "do this every Friday"; runs on time in the original conversation
+ Jump in or stop anytime 
+ Keep talking while a task runs to add or correct things (long-press to withdraw or edit one Mika hasn't picked up yet); after a stop it reports where it got to, and "continue" picks up from there
+ Hold to talk 
+ Hold the chat input to speak and edit the words before sending; long-press the floating capsule to speak and release to send. Uses the phone’s built-in speech recognition, or a provider’s speech model if it has none
+ Files and computing 
+ A Linux sandbox per conversation runs Python, Node and shell on the files you send (arm64)
+ From your computer 
+ AI tools on your computer can hand Mika tasks through CLI + Skill or MCP ( use Mika from a computer
+)
+ By default Mika runs in Ask mode : it checks with you only before spending money (placing orders, paying) and just does everything else. You can switch to Autonomous mode instead. See Ask and Autonomous
+.
+ For how each of these works and the finer details, see features in detail
+.
+ Apps and websites with built-in usage knowledge (anything not listed still works) 
+ The names are shown as they appear in the knowledge files.
+ Category
+ Built in
+ Apps 
+ Android 设置, 百家号, 哔哩哔哩, BOSS直聘, Chrome, 得到, 抖音, 飞书, Gmail, 即刻, 快手, 领英, QQ邮箱, Telegram, 今日头条, Uber, Uber Eats, 微信, 微博, WhatsApp, 闲鱼, 小红书, 知乎
+ Websites 
+ Amazon, 哔哩哔哩, Google Calendar, 豆瓣, 抖音, Instagram, Gmail, Google Maps, Telegram, 百度贴吧, 微博, 搜狗微信, WhatsApp, 小红书, 小宇宙, YouTube, 知乎, BOSS直聘
+ How-to skills 
+ 改 Mika 自己的设置, 把内容整理成文字, 处理 PDF 文档, 查清一件事, 消息与邮件, 写技能
+ Supported model providers 
+ Presets for DeepSeek, 通义千问, Kimi, 智谱, 智谱 Coding Plan, 硅基流动, 火山方舟, MiniMax, 阶跃星辰, 腾讯混元, 百度千帆, OpenRouter, OpenCode Go, Anthropic, Gemini, OpenAI, xAI, Mistral, Groq, Ollama, LM Studio and more; for any other provider pick Custom (自定义), which takes any OpenAI-compatible, Anthropic, Gemini or OpenAI Responses endpoint.
+ You can also skip the key and sign in with a ChatGPT (Plus / Pro), xAI / Grok or OpenRouter account. Steps for adding a model, and what to know about each sign-in, are in models and sign-in
+.
+ Which phones
+ Requirement
+ Chat, web, files
+ Android 11 or later
+ Operating phone apps
+ Android 12 or later; Android 14+ recommended (the background screen has its own focus, so it doesn't get in the way of your typing on the main screen)
+ Linux sandbox
+ arm64 devices
+ Not sure your phone is up to it? Run Settings › Recovery & repair › Compatibility self-check : 12 checks in about a minute, and you can send us the results
+ in one tap.
+ Privacy & safety
+ There is no Mika server : what you say and what's on your screen go only to the model provider you set up.
+ API keys and memories are stored encrypted on the phone; conversations and run records stay on the device; update checks only contact GitHub.
+ Operating third-party apps and websites automatically may break their terms of service, so use your own judgment. For anything important, use Ask mode and check the results. See the disclaimer
+.
+ FAQ 
+ Wireless debugging turned itself off? Android turns it off when you change Wi-Fi or restart. With your permission, Mika turns it back on by itself; if it still can't connect, go back to "Set up phone control" and pair again.
+ Can't find wireless debugging on my phone? Some phone systems leave it out. You can start the phone helper from a computer over USB instead; see the setup guide
+.
+ Some screens can't be read or captured? Pages like payments and password entry block screenshots, so Mika asks you to take over there.
+ Can I use a model running on my own computer? Yes: pick "Custom" as the provider and enter its address on your local network.
+ Is the app in English? Yes. The app UI comes in English, Arabic, Simplified Chinese, Traditional Chinese, Japanese, Korean, Spanish, Portuguese, Russian and Indonesian, follows your system language, and can be switched in Settings › Language. The built-in app and website knowledge is written in Chinese, but that doesn't limit you: the model reads it fine, and you can talk to Mika in English.
+ Where do updates come from? Only from this repository's Releases
+; you can also upgrade in the app from About › Check for updates.
+ More answers are in the FAQ
+.
+ Community & contributing
+ Docs : all docs and a suggested reading order are in the docs index
+ Community : join the X group chat
+; to reach the author on WeChat, scan the QR code in the app under About › Contact the author (mention Mika in your request)
+ Follow the author : X @wangzan101
+ Report a problem : open an issue
+; About › Send feedback in the app can attach diagnostics
+ Contribute : add usage knowledge for an app or website (plain text, no code needed), or contribute code; see the contributing guide
+ Star History
+ Contributors
+ Thanks to everyone who has helped build Mika:
+ License
+ Apache-2.0
+ · NOTICE
+ · Third-party components
+ About
+ An on-device AI agent for Android that operates apps and the web to get things done for you.
+ Topics
+ accessibility
+ ai-agent
+ android
+ automation
+ jetpack-compose
+ kotlin
+ llm
+ mobile-agent
+ Resources
+ Readme
+ Apache-2.0 license
+ Contributing
+ Contributing
+ Activity
+ Stars
+ 6.2k stars
+ Watchers
+ 10 watching
+ Forks
+ 1.2k 
+ forks
+ Report repository
+ Releases
+ Packages
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

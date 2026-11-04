@@ -6569,6 +6569,574 @@
    "notes": {
     "summary": "Imports from .fig files or the Figma REST API JSON. Dev mode generates CSS, Tailwind, SwiftUI, Jetpack Compose or React code."
    }
+  },
+  {
+   "slug": "mausbot",
+   "name": "MausBot",
+   "url": "https://mausbot.com",
+   "category": "AI agent",
+   "description": "Open-source app that runs a team of AI bots on your own computer, each able to use its own computer, apps and voice to get tasks done, with phone apps to check in.",
+   "whoFor": "Solo founders and small teams who want always-on AI assistants on the Claude or ChatGPT plan they already pay for",
+   "tags": [
+    "open source",
+    "freemium"
+   ],
+   "pricing": {
+    "summary": "Free app (Apache-2.0, bring your own model account or API key); Starter $15/mo, Pro $49/mo, Max $99/mo (always-on cloud workspace)",
+    "fromUsdMonthly": 15,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://mausbot.com/pricing",
+    "lastChecked": "2026-11-04",
+    "currency": "USD",
+    "lastChangedAt": "2026-11-04",
+    "fromBilling": "monthly"
+   },
+   "openSource": {
+    "repo": "https://github.com/milind-soni/OpenMausBot",
+    "stars": 11756,
+    "license": "Apache-2.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-04",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Formerly OpenMausBot. On the free plan bots work while your computer is on; the paid plans add a cloud machine so bots keep working with the laptop closed. Model usage is billed by your provider; Pro includes $10 and Max $20 of Claude credit a month."
+   }
+  },
+  {
+   "slug": "mika",
+   "name": "Mika",
+   "url": "https://github.com/wangzan101/Mika",
+   "category": "AI agent",
+   "description": "Open-source AI assistant for Android phones: say what you need and it operates your apps and the web on a hidden background screen until the task is done.",
+   "whoFor": "Android users who want an AI agent that can work any app on their phone, without a vendor server",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (Apache-2.0); bring your own model API key or account",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/wangzan101/Mika",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/wangzan101/Mika",
+    "stars": 6172,
+    "license": "Apache-2.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-03",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Install the APK from GitHub releases. Chat, web and files need Android 11+, operating apps needs Android 12+ (14+ recommended) and a one-time wireless debugging pairing. It asks before spending money by default. There is no Mika server."
+   }
+  },
+  {
+   "slug": "freefield",
+   "name": "Freefield",
+   "url": "https://github.com/neuregex/freefield",
+   "category": "AI image generation",
+   "description": "Open-source studio of 120 image, video, VFX and audio apps laid out like Higgsfield's, each one a ComfyUI workflow on open-weight models.",
+   "whoFor": "Creators who want Higgsfield-style effects on their own GPU or Modal instead of a subscription",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT); you pay for your own GPU or Modal",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/neuregex/freefield",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/neuregex/freefield",
+    "stars": 868,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-03",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Runs on Modal or on your own ComfyUI. No API or partner nodes: every model is a file you download, with its own licence listed per app. Many apps fit a 24 GB graphics card."
+   }
+  },
+  {
+   "slug": "openjutsu",
+   "name": "Openjutsu",
+   "url": "https://github.com/D3voz/openjutsu",
+   "category": "AI video",
+   "description": "Open-source, local character and object swap for video: drop in a clip and a character photo and the main person is replaced, keeping the camera, cuts, motion and sound.",
+   "whoFor": "Video creators with an NVIDIA GPU who want Higgsfield Genjutsu-style swaps without a subscription",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT); runs on your own GPU",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/D3voz/openjutsu",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/D3voz/openjutsu",
+    "stars": 1490,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-30",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Needs an NVIDIA GPU (tested on an RTX 4060 Ti 16 GB with 64 GB RAM), ComfyUI 0.41.2+ with several custom node packs, and Node.js 22.6+. Built on MiniMax H3; model files keep their own licences."
+   }
+  },
+  {
+   "slug": "sheet",
+   "name": "Sheet",
+   "url": "https://sheet.dipxsy.app",
+   "category": "Design",
+   "description": "Open-source, local-first infinite canvas for UI design that AI agents can edit over MCP, with history, drafts and export to HTML, React, JSON or PNG.",
+   "whoFor": "Designers and builders who want a free Paper-style design canvas that Claude, Codex or Cursor can work on",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (AGPL-3.0); no account",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/DeepanshuMishraa/sheet",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/DeepanshuMishraa/sheet",
+    "stars": 137,
+    "license": "AGPL-3.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-29",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Desktop app for macOS, Linux and Windows. One SQLite file and a local server; 35 MCP tools share the editor's engine. Began as a fork of loora."
+   }
+  },
+  {
+   "slug": "opentempl",
+   "name": "OpenTempl",
+   "url": "https://opentempl.org",
+   "category": "Design",
+   "description": "Free, open-source design app for posters, social posts, slides and menus with 337 templates, that works offline and needs no account.",
+   "whoFor": "Small businesses, teachers and creators who want a Canva-style editor with no paywall or watermark",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT); no paid plan, trial or watermark",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://opentempl.org",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/noah-thing/opentempl",
+    "stars": 2,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-03",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "By its own page: version 0.1 with one maintainer, no team workspaces, phone app or CMYK output yet. Opens PowerPoint and PDF; exports PNG, SVG, PDF with bleed, PowerPoint, MP4 and GIF. Optional AI images use your own OpenAI key."
+   }
+  },
+  {
+   "slug": "folio",
+   "name": "Folio",
+   "url": "https://foliowiki.online",
+   "category": "Notes & knowledge",
+   "description": "Open-source, self-hosted team wiki where every page is a file in Git, with real-time editing, data tables, whiteboards and AI agents that read and write the same pages.",
+   "whoFor": "Teams who want a Notion or Confluence alternative they host themselves and keep as plain files",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT), self-hosted",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://foliowiki.online",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/evergreen-it-dev/folio",
+    "stars": 81,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-02",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Self-hosts with Docker and Git. Pages and whiteboards you have opened stay editable offline. Written by AI coding agents with a human product owner, by its own page."
+   }
+  },
+  {
+   "slug": "warmbly",
+   "name": "Warmbly",
+   "url": "https://warmbly.com",
+   "category": "Email marketing",
+   "description": "Open-source cold outreach platform with email warmup, sequences, a unified inbox, analytics and a CRM, hosted or self-hosted.",
+   "whoFor": "Founders, agencies and sales teams who find Instantly or Apollo too expensive",
+   "tags": [
+    "open source",
+    "freemium",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free plan (warm up to 10 mailboxes); Starter $23/mo, Grow $71/mo, Business $263/mo (billed annually); Enterprise custom; self-host free (Apache-2.0)",
+    "fromUsdMonthly": 23,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://warmbly.com/pricing",
+    "lastChecked": "2026-11-04",
+    "currency": "USD",
+    "lastChangedAt": "2026-11-04",
+    "fromBilling": "annual"
+   },
+   "openSource": {
+    "repo": "https://github.com/warmbly/warmbly",
+    "stars": 915,
+    "license": "Apache-2.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-03",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Paid plans differ by cold emails a day (150, 3,000 and 15,000) and all include unlimited mailboxes and warmup. Sending, the inbox and the CRM unlock on a paid plan."
+   }
+  },
+  {
+   "slug": "37studio",
+   "name": "37Studio",
+   "url": "https://studio.shaitrish.com",
+   "category": "AI video",
+   "description": "Open-source AI social media studio: Claude makes on-brand videos and posts from a short brief, publishes them to 9 platforms and drafts replies to messages.",
+   "whoFor": "Small businesses and creators who want a Buffer or Opus Clip alternative with no monthly bill",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT); AI billed at cost to your own Claude plan or API keys",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://studio.shaitrish.com",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/Shaitrish/37studio",
+    "stars": 124,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-03",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Runs on Windows, Mac or Linux (Docker, or a preview desktop app for Windows and Linux). Posts to Facebook, Instagram, YouTube, TikTok, LinkedIn, X, Pinterest, Bluesky and Mastodon."
+   }
+  },
+  {
+   "slug": "wavefunction",
+   "name": "Wavefunction",
+   "url": "https://www.wavefunction.si",
+   "category": "AI coding agent",
+   "description": "Open-source desktop coding agent for macOS that splits work across parallel subagents, with any model: local via Ollama, your own API keys or a ChatGPT sign-in.",
+   "whoFor": "Developers who want a desktop coding agent that isn't tied to one provider's plans or limits",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT); model usage billed by your provider",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.wavefunction.si",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/stoyan-stoyanov/wavefunction",
+    "stars": 15,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-03",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "macOS only. A young project: first commit 27 Oct 2026."
+   }
+  },
+  {
+   "slug": "kensaku",
+   "name": "Kensaku",
+   "url": "https://github.com/yjid/kensaku",
+   "category": "Local AI",
+   "description": "Free, open-source file launcher that searches names, text inside documents and code, screenshots (OCR) and meaning, entirely on your own computer.",
+   "whoFor": "People who remember what was in a file but not its name, on Windows, macOS or Linux",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/yjid/kensaku",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/yjid/kensaku",
+    "stars": 733,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-04",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Claims it searches 100,000 file names in about a millisecond using roughly 12 MB of memory. Claude or Cursor can search the same index over a read-only local MCP server."
+   }
+  },
+  {
+   "slug": "geoinflow",
+   "name": "GEOInflow",
+   "url": "https://github.com/yaojingang/GEOInflow",
+   "category": "SEO",
+   "description": "Open-source, self-hosted analytics for Generative Engine Optimization: which AI crawlers visit your site, which pages they request, AI search referrals and conversions.",
+   "whoFor": "Site owners and SEO teams who want to see AI-search traffic and crawler coverage without a paid GEO tool",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT), self-hosted",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/yaojingang/GEOInflow",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/yaojingang/GEOInflow",
+    "stars": 796,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-03",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Runs with Docker Compose; source builds need at least 6 GiB of Docker memory. Crawler catalogue covers OpenAI, Anthropic, Perplexity, Google, Microsoft and others. Some reference docs are in Simplified Chinese only."
+   }
+  },
+  {
+   "slug": "kanzo",
+   "name": "Kanzo",
+   "url": "https://github.com/emanuele-em/kanzo",
+   "category": "Project management",
+   "description": "Open-source kanban board and MCP server in one 4.5 MB program, so you and your coding agents work on the same tasks, on one computer or a shared board.",
+   "whoFor": "Developers who want a Trello-style board their AI coding agents can pick tasks from, with no account or server",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (AGPL-3.0); no account",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/emanuele-em/kanzo",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/emanuele-em/kanzo",
+    "stars": 990,
+    "license": "AGPL-3.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-02",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "For macOS, Linux (including Raspberry Pi) and Windows. Works with Claude Code, Codex and other MCP clients; boards can be shared live on your network or synced between machines."
+   }
+  },
+  {
+   "slug": "mintype",
+   "name": "Mintype",
+   "url": "https://mintype.app",
+   "category": "Notes",
+   "description": "Free, zero-knowledge notes app with documents and whiteboards: everything is encrypted on your device, works offline in the browser and syncs through your own Google Drive.",
+   "whoFor": "People who want a private Notion-style notes app where even the sync copy is unreadable to anyone else",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (AGPL-3.0), including Google Drive sync",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/project59/mintype",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/project59/mintype",
+    "stars": 91,
+    "license": "AGPL-3.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-22",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Version 2.0 added an infinite-canvas whiteboard, a Markdown-based editor and end-to-end encrypted share links. Notes are encrypted with AES-GCM before they are stored."
+   }
+  },
+  {
+   "slug": "survival-llm",
+   "name": "Survival LLM",
+   "url": "https://brangus.io/survival-llm",
+   "category": "Local AI",
+   "description": "Free AI assistant and emergency library that runs entirely on your own computer with no internet, answering from about 1.5 million offline articles and showing the source of every answer.",
+   "whoFor": "Preppers, travellers and families who want offline first-aid, emergency and how-to answers they can check",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT code; library content keeps its own licences)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://brangus.io/survival-llm",
+    "lastChecked": "2026-11-04",
+    "currency": null,
+    "lastChangedAt": "2026-11-04"
+   },
+   "openSource": {
+    "repo": "https://github.com/anonnerdfrenzy/survival-llm",
+    "stars": 1443,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-10-29",
+    "setupDifficulty": null,
+    "licenseNote": "MIT for the code (LICENSE file); library content keeps the licence of its source. GitHub reports NOASSERTION because of the added note"
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-11-04",
+   "contentUpdatedAt": "2026-11-04",
+   "notes": {
+    "summary": "Mac (Apple silicon, macOS 14+) and Windows 10 or 11. Set up while online: 20 minutes to about 2.5 hours depending on model size (the biggest is 80 GB). Library includes Wikipedia, WikiMed, MedlinePlus, CDC, Ready.gov and FEMA manuals."
+   }
   }
  ],
  "anchors": [
@@ -6619,10 +7187,11 @@
     "aider",
     "tabnine",
     "codex",
-    "opencode"
+    "opencode",
+    "wavefunction"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-18",
+   "contentUpdatedAt": "2026-11-04",
    "reviewedBy": "rosh-k"
   },
   {
@@ -6763,10 +7332,12 @@
     "clickup-brain",
     "mem",
     "logseq",
-    "edgeever"
+    "edgeever",
+    "folio",
+    "mintype"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-21",
+   "contentUpdatedAt": "2026-11-04",
    "reviewedBy": "rosh-k"
   },
   {
@@ -6869,10 +7440,11 @@
     "visme",
     "ideogram",
     "gamma",
-    "doory"
+    "doory",
+    "opentempl"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-28",
+   "contentUpdatedAt": "2026-11-04",
    "reviewedBy": "rosh-k"
   },
   {
@@ -6908,10 +7480,11 @@
     "luma",
     "kling",
     "invideo",
-    "comfyui"
+    "comfyui",
+    "freefield"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17",
+   "contentUpdatedAt": "2026-11-04",
    "reviewedBy": "rosh-k"
   },
   {
@@ -7018,10 +7591,11 @@
     "cline",
     "openhands",
     "cursor",
-    "github-copilot"
+    "github-copilot",
+    "wavefunction"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-23",
+   "contentUpdatedAt": "2026-11-04",
    "reviewedBy": "rosh-k",
    "howToChoose": [
     "Want to stay in the terminal? Codex, Gemini CLI, OpenCode and Aider are terminal coding agents like Claude Code.",
@@ -7053,10 +7627,11 @@
     "perplexity",
     "gemini",
     "grok",
-    "deepseek"
+    "deepseek",
+    "mausbot"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-18",
+   "contentUpdatedAt": "2026-11-04",
    "reviewedBy": "rosh-k"
   },
   {
@@ -7202,10 +7777,11 @@
     "affine",
     "mem",
     "coda",
-    "edgeever"
+    "edgeever",
+    "mintype"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-21",
+   "contentUpdatedAt": "2026-11-04",
    "reviewedBy": "rosh-k"
   },
   {
@@ -7218,10 +7794,11 @@
     "adobe-express",
     "open-codesign",
     "figcraft",
-    "desigma"
+    "desigma",
+    "sheet"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-28",
+   "contentUpdatedAt": "2026-11-04",
    "reviewedBy": "rosh-k"
   },
   {
@@ -7370,11 +7947,12 @@
     "visme",
     "ideogram",
     "gamma",
-    "doory"
+    "doory",
+    "opentempl"
    ],
    "redirectTo": "/alternatives/canva",
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-28",
+   "contentUpdatedAt": "2026-11-04",
    "reviewedBy": "rosh-k"
   },
   {
@@ -7504,10 +8082,11 @@
     "notion-ai",
     "clickup-brain",
     "airtable",
-    "itsaplan"
+    "itsaplan",
+    "kanzo"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-10-21",
+   "contentUpdatedAt": "2026-11-04",
    "reviewedBy": "rosh-k"
   }
  ],

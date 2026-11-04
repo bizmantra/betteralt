@@ -1,0 +1,318 @@
+#SNAPSHOT {"url":"https://github.com/DeepanshuMishraa/sheet","finalUrl":"https://github.com/DeepanshuMishraa/sheet","fetchedAt":"2026-11-04T04:43:24.247Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"26b87eebea59031fd0f7f29fa17fbb813a70a6754d0a77665e185955fd6308a1"}
+GitHub - DeepanshuMishraa/sheet: A local-first infinite canvas for UI design — one your agent can edit. Desktop app, MCP-native. · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ DeepanshuMishraa
+ sheet
+ Repository navigation
+ Code
+ Pull requests
+ 1
+  ( 1 )
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ sheet
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 10
+  ( 10
+)
+ Star 137
+  ( 137
+)
+ You must be signed in to star a repository
+ About
+ A local-first infinite canvas for UI design — one your agent can edit. Desktop app, MCP-native.
+ sheet.dipxsy.app
+ Resources
+ Readme
+ License
+ Activity
+ Stars
+ 137 stars
+ Watchers
+ 1 watching
+ Forks
+ 10 
+ forks
+ Report repository
+ main
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 47 Commits
+ 47 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .github/
+ workflows
+ .github/
+ workflows
+ .pi/
+ todos
+ .pi/
+ todos
+ .use-goal
+ .use-goal
+ apps
+ apps
+ assets/
+ legal
+ assets/
+ legal
+ docs/
+ architecture
+ docs/
+ architecture
+ packages
+ packages
+ scripts
+ scripts
+ skills/
+ sheet-design-guide
+ skills/
+ sheet-design-guide
+ windows
+ windows
+ .dockerignore
+ .dockerignore
+ .env.example
+ .env.example
+ .gitignore
+ .gitignore
+ AGENTS.md
+ AGENTS.md
+ CLAUDE.md
+ CLAUDE.md
+ Dockerfile
+ Dockerfile
+ LICENSE
+ LICENSE
+ README.md
+ README.md
+ boot-probe.mjs
+ boot-probe.mjs
+ bun.lock
+ bun.lock
+ bunfig.toml
+ bunfig.toml
+ final.md
+ final.md
+ package.json
+ package.json
+ plan.md
+ plan.md
+ railway.json
+ railway.json
+ readme-banner.png
+ readme-banner.png
+ tsconfig.json
+ tsconfig.json
+ vitest.config.ts
+ vitest.config.ts
+ vitest.setup.ts
+ vitest.setup.ts
+ View all files
+ Repository files navigation
+ README
+ License
+ More items
+ Sheet
+ A local-first infinite canvas for UI design — one your agent can edit.
+ Arrange structured UI nodes on a canvas. Connect Claude, Codex, Cursor, or
+opencode over MCP and they mutate the same document through typed transactions.
+ Agent-native — 35 MCP tools over the same engine the editor uses
+ Local-first — one SQLite file, one loopback server, no accounts
+ Versioned — history, plus isolated drafts you can merge back
+ One-way export — HTML, React/TSX, JSON, PNG
+ Quick start
+ bun install
+bun run dev #
+ local server on :4100
+bun run dev:desktop #
+ native window (needs Rust + Tauri prerequisites)
+ Point an MCP client at http://127.0.0.1:4100/mcp . The Integrations page in
+the app shows ready-made snippets.
+ bun run build:desktop produces the packaged app with the server compiled in.
+ Windows users: see windows/README.md
+ for quick setup, PowerShell scripts ( setup.ps1 , run.ps1 , build.ps1 ), and development workflows.
+ Design guide skill
+ Teaches an agent to use the canvas tools well. Add -g to install globally.
+ npx skills add https://github.com/DeepanshuMishraa/sheet/tree/main/skills/sheet-design-guide 
+ Layout
+ Path
+ Role
+ apps/desktop 
+ Tauri host + Vite interface
+ apps/mcp 
+ Local server: MCP, oRPC, assets, handoffs, SSE
+ packages/canvas 
+ Document model, engine, merge, renderer, import, export
+ packages/editor 
+ Editor shell, panels, client sync
+ packages/shell 
+ Design browser, settings, integrations
+ packages/agent 
+ Shared canvas tool vocabulary for MCP and handoff
+ packages/rpc 
+ oRPC router, storage, history, handoff
+ packages/db 
+ Drizzle schema, bun:sqlite client, migrations
+ packages/realtime 
+ Wire protocol and in-process event bus
+ packages/platform 
+ Client runtime: API and link origins
+ packages/ui 
+ Design-system primitives and tokens
+ See AGENTS.md
+ for architecture and contribution rules.
+ Stack: Bun · React 19 · Tauri · Drizzle + SQLite · oRPC
+ Credits
+ Sheet began as a fork of lassejlv/loora
+,
+the canvas design tool for agents created by Lasse (@lassejlv)
+.
+It has since diverged into a local-first desktop app with its own history, but
+the original idea and foundation are theirs. Thank you.
+ License
+ AGPL-3.0-or-later
+. Original work © Lasse ( lassejlv/loora
+);
+modifications © 2026 Deepanshu Mishra. Fork, modify, and self-host freely; if
+you offer a modified version over a network, you must share its source under the
+same license.
+ About
+ A local-first infinite canvas for UI design — one your agent can edit. Desktop app, MCP-native.
+ sheet.dipxsy.app
+ Resources
+ Readme
+ License
+ Activity
+ Stars
+ 137 stars
+ Watchers
+ 1 watching
+ Forks
+ 10 
+ forks
+ Report repository
+ Releases
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

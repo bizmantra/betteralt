@@ -1,0 +1,483 @@
+#SNAPSHOT {"url":"https://foliowiki.online","finalUrl":"https://foliowiki.online/","fetchedAt":"2026-11-04T04:43:24.384Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"c8792fa3b53c540e31dc1f0b5c47be34e1c43d9c683d34c128f8670f38edc245"}
+Folio - the open-source wiki that lives in Git Skip to content
+ Folio
+ Product
+ Features
+ Editor, tables, whiteboards, history
+ Use cases
+ Public sites and docs as code
+ AI and agents
+ Ask, Agent and MCP on the same pages
+ Videos
+ Short product walkthroughs
+ Guides
+ Step-by-step setups, starting with Obsidian
+ FAQ
+ Answers to the usual questions
+ Install
+ Integrations
+ Compare
+ Alternatives to
+ Confluence
+ Options for leaving Atlassian
+ Notion
+ Open and self-hosted options
+ Self-hosted wikis
+ Wikis you can run yourself
+ Side by side
+ Folio vs Confluence
+ Folio vs Notion
+ Folio vs Outline
+ Folio vs Obsidian
+ Folio vs MediaWiki
+ Folio vs Miro
+ Folio vs a wiki
+ All comparisons 
+ Tools
+ Mermaid editor
+ Draw diagrams with live preview
+ Confluence to Markdown
+ Convert pages in your browser
+ All tools 
+ Templates
+ Blog
+ GitHub
+ Try the demo 
+ Open source - MIT
+ ·
+ Vibe-coded, and not hiding it
+ The wiki that lives in Git.
+ Folio is the open-source, self-hosted alternative to Confluence and Notion. People write in the browser, together, in real time. AI agents read and write the same pages. One command to run it yourself.
+ Star on GitHub
+ Self-host in 5 minutes
+ Try the demo 
+ Docker and Git are all you need. MIT licensed.
+ Public demo: pick Sam on the sign-in screen. Shared login, data resets every 24 hours.
+ Featured in
+ Self-Host Weekly · 9 Oct 2026
+ Folio: a page with Folio AI at work, a whiteboard and a data table 
+ See it in motion
+ Short walkthroughs, no slides. The voice is synthetic (Respeecher).
+ A team wiki that lives in Git (0:37)
+ Edit in the browser, press Sync, get a real Git commit.
+ The editor and Mermaid diagrams (1:04)
+ Live Markdown, source view, diagrams you edit visually or as code.
+ Whiteboards that live in Git (0:51)
+ Draw together, embed the board in a doc, keep every version.
+ Folio boards: sticky notes, reactions and live co-editing (1:10)
+ Sticky notes, emoji reactions and two people on one board, kept in your Git repository.
+ An AI agent updates your wiki over MCP (0:53)
+ One request: the agent reads the wiki and writes a page and a table row.
+ Docs as code without the IDE (1:36)
+ Edit your repository&#x27;s docs in the browser; every change goes back as an ordinary commit.
+ Onboarding a sales rep with Folio AI (1:22)
+ Answers with sources, a weekly check as a form, results in a table.
+ Is the AI assistant helping? Folio AI analytics (1:21)
+ Admins see rated conversations and unanswered questions, add the missing page, and the same question gets an answer.
+ Publish a space as a public website (1:21)
+ Switch a space to public, set the address, and visitors read, search, download pages and ask Folio AI.
+ Open your Obsidian vault as a team wiki (1:36)
+ Wikilinks, embedded notes and callouts in the browser; your files are never rewritten.
+ Make Obsidian multiplayer (1:43)
+ Your team&#x27;s vault in Git, edited together in the browser with live cursors.
+ Publish Claude artifacts into your wiki (1:33)
+ One casual line to Claude: the dashboard becomes an interactive page of your wiki and a folder in Git.
+ Folio as the visual editor for a Nimbus docs site (1:21)
+ Edit a Nimbus docs repository in the browser: MDX imports and components stay intact, and the commit changes one line.
+ The voice in the videos is synthetic.
+ Why Folio
+ We replaced Confluence with it. This is what we wanted from a wiki.
+ You own the content.
+ Every page is a plain file in a Git repository you control. No export step, no lock-in: stop using Folio tomorrow and the files are still there, readable in any editor.
+ It works the way a wiki should.
+ Real-time editing, a page tree, search, access rights, history, sharing. It keeps working offline.
+ Agents are first-class users.
+ Not a chatbot bolted on the side: a built-in assistant, your own agent in every space, a full MCP server, and Markdown links made for agents.
+ One tree for everything.
+ Documents, tables, whiteboards, diagrams and files side by side. A roadmap table next to the spec, next to the architecture board, next to the signed PDF.
+ One command to run.
+ Docker, and nothing to configure for a first start.
+ Access you can read at a glance.
+ Roles per space, rights per page that child pages inherit, groups, an access matrix and an audit log with CSV export. The instance administrator is not automatically a reader of private spaces.
+ A look at a new hire&#x27;s first week: the rep asks Folio AI and gets answers from the team&#x27;s own wiki, with sources. A short weekly check is a Folio form, and the manager reads the answers in a table. 
+ Git-first, all the way down
+ Most wikis keep your content in a database and offer Git as an export. Folio does the opposite: the Git repository is the wiki. The database holds the index, access rights and the state of live editing, never the only copy of your words.
+ What a space looks like on disk
+ acme-handbook/
+├── index.md
+├── welcome-to-acme.md
+├── engineering.md
+├── engineering/
+│ ├── onboarding-checklist.md
+│ ├── release-process.md
+│ └── how-folio-fits-together.excalidraw.svg <- a whiteboard
+├── roadmap.table.md <- a data table
+├── onboarding-feedback.table.md
+├── onboarding-feedback/
+│ └── onboarding-feedback.form.md <- a form
+├── security-policy.md
+├── security-policy.pdf <- files are pages too
+└── security-policy.docx 
+ And its history, as ordinary commits
+ $ git log --format=&#x27;%h %an %s&#x27;
+be529a0 Maria Chen folio:update
+aeac3bb Maria Chen folio:update
+6c2c061 Sam Rivera folio:update
+026d9ec Maria Chen folio:update
+...
+4e9ec49 Folio init: create space 
+ Edit anywhere. Change a page in the browser or in your IDE and push. Both land in the same history. Links between pages are ordinary relative Markdown links, not a private dialect. 
+ Bring your own repository. Start with an empty space, clone an existing repository, or connect one later. Several spaces can share one repository, each in its own folder, so documentation can live right next to the code. A space bound to a folder such as docs/ writes no ids into your files and keeps the front matter keys of Docusaurus, MkDocs, Hugo or Jekyll as they are. 
+ Review like code. Merge requests, blame, diff and revert work on your wiki because it is a repository. 
+ Nothing is lost quietly. Sync state is always visible: clean, ahead, behind, conflict. Conflicts are listed for the whole space. “Take the version from Git” resets a space to the remote branch and saves what was there into a backup branch first. 
+ Honest detail: the commit is made after about 90 seconds of quiet, or right away with the Sync action. Right after saving, the history may still be empty.
+ Page history: every version has an author and a Git commit A data table is one readable Markdown file
+ | Initiative | Status | Owner | Team | Due | Effort, days | Urgent | id |
+| --- | --- | --- | --- | --- | ---: | --- | --- |
+| Single sign-on for enterprise plans | In progress | @alex | Engineering | 2026-10-09 | 8 | [x] | 1787nfg3 |
+| New onboarding flow | In review | @sam | Design | 2026-10-02 | 5 | [ ] | b227mwwh | 
+ Column types and saved views live in the front matter. The rows stay a table you can read.
+ What you get today
+ Everything below works in the code today. What does not exist yet is in the Limitations section further down.
+ Write together
+ Documents, data tables and whiteboards are edited by several people at once. You see who is on the page and where their cursor is; changes appear as they are typed. When the page goes quiet, Folio commits, with the person who edited as the author.
+ Several people editing one page at once, each with a live cursor 
+ Documents
+ A Markdown editor that does not make you think about Markdown. Three modes: Reading, Live edit and Source.
+ Callouts, checklists, tables with merged cells and colors, code blocks, collapsible sections, highlights.
+ Paste from Excel and Google Docs keeps tables and formatting.
+ [[ links a page, @ mentions a person, / inserts anything.
+ Outline, backlinks, page icons and covers, glossary terms with hover cards.
+ Your own page templates: save any page, board, table, form or page with subpages as a template, and pick it from the "+" menu. A new space starts with Meeting notes, How-to and Decision record.
+ Light and dark themes, following the system or chosen by hand.
+ Live Markdown editor with a diagram, a checklist and a warning callout 
+ The same page in the dark theme 
+ Diagrams you draw, not type
+ Mermaid diagrams come with a visual editor. You build the diagram on a canvas and Folio writes the Mermaid code, or you type the code and the canvas follows.
+ Nine diagram types from templates: flowchart, sequence, classes, states, ER, Gantt, timeline, pie, mind map.
+ Code and canvas side by side, full screen when you need room.
+ Still plain Markdown: the diagram is stored as an ordinary mermaid code block, so GitHub and GitLab render it too.
+ A visual Mermaid editor: code on the left, the diagram on the right 
+ Data tables and forms
+ Spreadsheets that belong to the wiki: typed columns, saved views, filters and sorting. A small database you can link from any page and query from any agent.
+ Column types: text, long text, number, date, checkbox, select, status, user, link.
+ Views as tabs, each with its own columns, order, widths, multi-column sort and and/or filters, including me, today, this week.
+ Edited together in real time, stored as one readable file in Git.
+ Import and export; up to 20,000 rows per table.
+ Forms turn a table into a questionnaire: every answer becomes a row. A form can be public, so people answer without an account.
+ A roadmap as a data table with typed columns and saved views 
+ A form whose answers go straight into a data table 
+ Whiteboards
+ Excalidraw boards inside the wiki: architecture, flows, workshops. Drawn together in real time and saved as SVG files that render anywhere. The board in the screenshot was created by an agent over MCP from a short description of boxes and arrows; people then keep editing it like any other board.
+ A whiteboard built on Excalidraw, right inside the wiki 
+ Files are pages too
+ PDF, Word, Excel and PowerPoint files open right inside Folio: no download, no other application, no conversion on the server. The file sits in the space&#x27;s Git repository next to the pages about it, under the same access rights. Folio never rewrites your file.
+ View only. These files are not edited in Folio, and search finds them by title.
+ A PDF previewed inside Folio 
+ A Word document previewed inside Folio 
+ Artifacts from your AI agents
+ The dashboard, calculator or checklist that Claude or Cursor built no longer stays in one chat. Tell the agent "publish this dashboard to Folio, in Reports" and it becomes a page of your wiki: in the tree, in search and in Git, under the same access rights as everything else.
+ Interactive, not a screenshot: filters, tabs and charts work on the page, and each reader&#x27;s choices survive a reload.
+ Agents publish over MCP with publish_artifact; people can paste HTML or upload an .html, .zip, .svg or .md file.
+ Stored as a <name>.artifact/ folder in the space&#x27;s repository: the page, an artifact.yaml manifest, the original source and assets.
+ Runs in a sandboxed frame with no access to your Folio session or API.
+ Folio shows the finished page and does not build React itself, so the agent sends HTML that already runs. Calls to Claude or your own APIs do not work inside an artifact, and claude.ai share links are not downloaded.
+ A Claude artifact published to Folio: a sales dashboard with live filters, as a page of the wiki 
+ Works offline
+ On a train, on a plane, on bad hotel Wi-Fi: keep writing. Pages and whiteboards you have opened stay editable without a connection. New pages and whiteboards can be created offline. Everything is kept on the device and reaches the server by itself when the connection returns, at the same address, with no duplicates. An indicator in the header shows what is waiting to be sent.
+ Data tables, forms and file uploads need a connection.
+ Writing a new page with no connection; it syncs when the network is back 
+ Access management
+ Who sees what is decided in one place, and it is visible at a glance.
+ Roles per space: administrator, editor, viewer.
+ Private, open to everyone signed in, or public, and rights per page that can be narrower than the space. A restriction on a page is inherited by its child pages; a child can narrow it further, not widen it.
+ Groups hold space roles and page grants. Make them by hand, or let them follow your identity provider: groups synced at sign-in or through SCIM. Groups cannot be nested.
+ The access matrix: people down the side, spaces across the top, a role in every cell.
+ An administrator is not a reader: the instance administrator does not see the content of private spaces they are not a member of. They can grant access to themselves, and that is written to the audit log and marked for everyone to see.
+ Invitations by link with a role, an expiry date and a usage limit; access requests.
+ Sign-in: email and password, Google, any OpenID Connect provider (Keycloak, Authentik, Entra ID, Okta) and SAML 2.0 (Entra ID, Okta, Keycloak, Google Workspace, ADFS). SSO can be enforced per email domain, with an audited admin break-glass, and SCIM 2.0 provisions users and groups (Okta, Entra ID).
+ An audit log screen with CSV export. Session management: sign out your other devices. Deactivating a person revokes their sessions, API tokens and MCP connections.
+ Share links for people without an account: view or edit, one page or a whole subtree, revocable at any time.
+ A whole space can also be published as a public website (see the use cases below).
+ SSO, SCIM, groups and the audit log are in the one MIT edition. There is no paid tier.
+ The access matrix: who has which role in which space 
+ Access to a single page: pick exactly who can view or edit it 
+ Moving from Confluence
+ Point Folio at a Confluence page or a whole tree and it brings the pages over as Markdown, with images, code, checklists, and panels converted into callouts. Pages come from Confluence Cloud and from on-premises installations; whiteboards from Confluence Cloud become Excalidraw boards.
+ Run a test import first: not every macro has an equivalent.
+ Search
+ Cmd+K page switcher
+ Backlinks
+ Favorites
+ Trash with restore
+ Export to Markdown, YAML, PDF, DOCX or a zip of a space
+ Light and dark theme
+ English and Ukrainian interface
+ What teams do with it
+ Two setups that need no extra service: one Folio, one Git repository.
+ Publish a space as a public website
+ Set who can read a space to public and Folio serves it as a read-only website: the page tree, search inside the space, documents, live data tables, whiteboards as pictures, PDF and Office files. The site is the space itself, so there is no second copy to keep in step.
+ Three addresses: a path on your Folio, a subdomain, or your own domain such as docs.example.com.
+ Visitors can download a page as Markdown, PDF or DOCX if you allow it, and ask Folio AI about the space if you switch that on.
+ A page with its own restrictions is never published, and nothing is copied: the site is the space.
+ Honest limits: the subdomain and the domain need DNS, a certificate and proxy rules on your side. A page with a restriction is never published, and its child pages inherit the restriction, so they stay closed too.
+ Read the post 
+ Watch the video 
+ Docs as code, edited in a browser
+ The docs/ folder of your product repository becomes a space. A technical writer edits the pages in the browser. The developer sees an ordinary commit with the writer&#x27;s name as the author. An agent connected over MCP with the developer&#x27;s token updates the same pages, with that developer&#x27;s rights and no more. The space can then be published as the documentation portal.
+ Your files stay as they are: no ids written into them, and front matter from Docusaurus, MkDocs, Hugo or Jekyll is kept.
+ Moving or renaming a page rewrites the links to it in the same commit; pasted images can go to the repository.
+ Review, branch and revert with the Git tools you already use.
+ Honest limits: the commit is made after about 90 seconds of quiet, and only [text](path) links and images are rewritten.
+ Read the post 
+ Watch the video 
+ Made by agents. Built for agents.
+ The owner chose what to build and checked every flow. Agents wrote the code, tests and docs. Now agents work with the same pages as people.
+ Folio AI
+ An assistant in the side panel that works with your wiki, not next to it. Ask is read-only: find, summarize, compare, explain across the pages you have access to. Agent reads and writes: drafts a page, updates a table, draws a board, restructures a section, inside your rights and never beyond them. It runs on the server, so closing the browser does not stop the work. It uses the very same tools an outside agent gets over MCP, and in Ask mode the write tools are switched off on the server, not just hidden.
+ The built-in assistant adds a table row and answers from the data Bring your own subscription
+ Folio does not resell AI and does not mark it up. You connect the subscription you already pay for.
+ Provider
+ Status
+ Cursor
+ available: each person connects their own key, or an administrator shares one for a space or for the whole instance
+ Others
+ coming soon
+ The assistant needs that subscription and sends the pages it works with to that service. Without a subscription everything else in Folio works as usual.
+ .agent: your own agent in every space
+ Every space has a .agent folder. Whatever you put there becomes the assistant&#x27;s instructions for that space, written as ordinary Folio pages, not as configuration.
+ Build an agent by writing pages: its role, tone, glossary, rules, templates and process.
+ A different agent for every team: the support space gets an agent that answers like support, engineering gets one that knows the release process.
+ Versioned like everything else: you can see who changed the agent&#x27;s behavior, review the change, and roll it back.
+ Owned by administrators: only space administrators see and edit .agent.
+ One agent per space.
+ MCP server
+ 49 tools over /mcp, with a personal access token or OAuth: list and search spaces, read and write pages, create and edit whiteboards, forms, data tables and bases, read the link graph and history, and check a page against the space&#x27;s writing rules.
+ bash
+ Copy
+ claude mcp add folio --transport http https://wiki.example.com/mcp \
+ --header "Authorization: Bearer folio_pat_..." 
+ Safe by design: a token never has more rights than its owner, a read token cannot write, and administrative actions are not available to tokens at all.
+ MCP and REST docs
+ Connect Claude, ChatGPT, Claude Code, Cursor, n8n or Open WebUI 
+ Through MCP you cannot manage access rights or rename and delete spaces. Those actions go through the interface only.
+ Markdown for an agent
+ Any page, with its child pages if you want, is one link that returns clean Markdown. No scraping, no HTML, no login flow.
+ curl https://wiki.example.com/share/<token>.md 
+ Share a page as a link, or as raw Markdown for an AI agent Export as Markdown, YAML, PDF, DOCX, or a zip of a whole space.
+ Run it
+ You need Docker and Git. Nothing else.
+ bash
+ Copy
+ git clone https://github.com/evergreen-it-dev/folio.git
+cd folio
+docker compose up -d 
+ The first start builds the application and takes a few minutes (about 1 GB is downloaded). Then open http://localhost:4870 and create the first account. It becomes the administrator.
+ A short welcome takes it from there: pick what to create first (a document, a whiteboard or a data table), look through what Folio can do, and land in your first space with that page open. Connecting an existing Git repository is one link away on the same screen.
+ The welcome screen: what do you want to create first Where it runs
+ Your computer
+ docker compose up -d
+ A server or VPS
+ The same, plus --profile https for automatic HTTPS
+ Container platforms (Railway, Render, Fly.io, Coolify and similar)
+ A container with PostgreSQL, Redis and a persistent volume. Each platform has its own install page.
+ Vercel, Netlify and other serverless hosting
+ Not supported. Folio is a long-running server that keeps Git repositories on disk and holds live connections.
+ Where
+ How
+ Your computer
+ docker compose up -d
+ A server or VPS
+ The same, plus --profile https for automatic HTTPS
+ Container platforms (Railway, Render, Fly.io, Coolify and similar)
+ A container with PostgreSQL, Redis and a persistent volume. Each platform has its own install page.
+ Vercel, Netlify and other serverless hosting
+ Not supported. Folio is a long-running server that keeps Git repositories on disk and holds live connections.
+ On a server with HTTPS
+ Copy
+ git clone https://github.com/evergreen-it-dev/folio.git
+cd folio
+cp .env.example .env
+# edit .env:
+# PUBLIC_URL=https://wiki.example.com
+# FOLIO_DOMAIN=wiki.example.com
+# FOLIO_BIND=127.0.0.1
+docker compose --profile https up -d 
+ Needs a domain with a DNS record pointing at the server, and ports 80 and 443 open. Folio runs as three containers: the application, PostgreSQL and Redis.
+ Updating:
+ Copy
+ cd folio
+git pull
+docker compose up -d --build 
+ Database changes are applied automatically when the application starts. Make a backup first.
+ Install pages: Linux server, Coolify, Railway, Render, DigitalOcean, Dokploy, CapRover, Easypanel, Portainer, Fly.io 
+ Or try the public demo (pick Sam on the sign-in screen) 
+ Domains, HTTPS, updates and backups: the install guide 
+ Vibe-coded, and not hiding it
+ Folio is written by AI coding agents. A human product owner decides what to build, tries every change in the browser and decides what ships. Agents plan the work, write the code and the tests, and document what they did.
+ Built by AI agents, reviewed by a human. Started in August 2026, in production for our own team since then.
+ We publish how it is made, not only what was made.
+ AGENTS.md 
+ How the work is organized and the rules agents follow in this repository
+ HANDOFF.md 
+ The current state: how Folio is put together, what must never break, what is open, and the lessons that cost us something to learn
+ DEV-PLAN.md 
+ What has been built, in the order it was built, and what comes next
+ If you are building with agents yourself, this repository is a worked example of a non-trivial product made that way. If you only want a wiki, none of it gets in your way.
+ Compare Folio
+ Seven honest comparisons focused on how knowledge is stored, changed and shared — not feature-checklist theater.
+ Folio vs. Confluence
+ Choose Folio when documentation belongs beside code, with SAML, SCIM and an audit log included; choose Confluence when Jira workflows and the Atlassian ecosystem lead.
+ Read comparison 
+ Folio vs. Notion
+ Choose Folio when knowledge must already be readable files in Git, with SAML, SCIM and an audit log free; choose Notion for a mature managed workspace.
+ Read comparison 
+ Folio vs. Outline
+ Choose Folio when pages must be Markdown files in your Git repository, with SAML, SCIM, IdP group sync and an audit log included; choose Outline for a hosted cloud, desktop apps and a mature integration set.
+ Read comparison 
+ Folio vs. Obsidian
+ Keep Obsidian for personal notes; add Folio when a team needs a browser, SSO, groups, per-page rights and shared editing over the same Markdown files in Git.
+ Read comparison 
+ Folio vs. Nimbus
+ Pick Nimbus for developer-written public docs built as a static site; pick Folio when non-developers edit visually together and internal and public docs share one place. They can share a repository.
+ Read comparison 
+ Folio vs. MediaWiki
+ Choose Folio for a Git-native team knowledge base with SSO and SCIM built in; choose MediaWiki for a public encyclopedia and its extension ecosystem.
+ Read comparison 
+ Folio vs. Miro
+ Choose Folio when boards must stay beside documents and code; choose Miro for workshop-first visual collaboration.
+ Read comparison 
+ Folio vs. a conventional wiki
+ Choose Folio when Git and agents should be first-class wiki participants, not secondary integrations.
+ Read comparison 
+ See all comparisons 
+ Start from what you have
+ Pick the way in that matches your situation. Every page below is a plain-text page you can read without an account.
+ You are leaving a wiki
+ Confluence alternatives
+ Eight self-hosted Confluence alternatives with licenses, prices and drawbacks. Folio is one of them and is marked as ours.
+ Notion alternatives
+ Seven self-hosted or local Notion alternatives with licenses, prices and drawbacks.
+ Confluence to Markdown converter
+ Turns one pasted page or one file from an HTML export into Markdown and lists what it could not convert.
+ Self-hosted wikis
+ Eight self-hosted wikis compared on requirements, storage, licenses and sign-in.
+ You want to see it work
+ Markdown templates
+ Meeting notes, SOPs, PRDs, runbooks and more as plain Markdown, each with a read-only copy in the demo.
+ Meeting notes template
+ Decisions and action items first, raw discussion below, one owner and a date per action.
+ Mermaid editor
+ Draw a diagram on a canvas or from code and export SVG or PNG, with no account.
+ Comparisons
+ Folio next to Confluence, Notion, Outline, Obsidian, Nimbus, MediaWiki and Miro.
+ You are connecting an AI client
+ All integrations
+ Claude, ChatGPT, Cursor, Claude Code, VS Code, Codex, n8n and Open WebUI over MCP.
+ ChatGPT with Folio
+ Connect ChatGPT to a Folio wiki over MCP.
+ Install on your own server
+ VPS, Coolify, Railway, Render, DigitalOcean and other targets, step by step.
+ Guides
+ Longer step-by-step setups, starting with Obsidian.
+ From the blog
+ What changed in Folio and how it works inside, with the limits stated.
+ 2 November 2026 
+ MCP security for a wiki: OAuth, tokens and page permissions
+ Read the post 
+ 2 November 2026 
+ LLM wiki for a team: Markdown in Git, readable by agents over MCP
+ Read the post 
+ 2 November 2026 
+ Obsidian Bases outside Obsidian: open and edit .base files in a browser
+ Read the post 
+ Guides
+ Obsidian and Claude Code: a shared second brain for a team
+ Use Claude Code with an Obsidian vault, then share it: CLAUDE.md, Git, a team wiki and MCP, so every colleague&#x27;s agent answers from the same notes.
+ Read the guide 
+ All posts
+ All guides
+ Limitations, said plainly
+ Deliberate limits and known gaps, so you do not spend time looking for what is not there.
+ PostgreSQL and Redis are required. Page content lives in Git, but the index, access rights and live-editing state live in PostgreSQL.
+ No serverless hosting. Folio needs a long-running process, a persistent disk and WebSocket connections.
+ Groups cannot be nested. A group holds space roles and page grants; a group inside a group is not supported.
+ No end-to-end encryption of content, and no LDAP. The server holds the content. Sign-in is email and password, OpenID Connect or SAML 2.0.
+ The built-in assistant needs a Cursor subscription. Other providers are not supported yet.
+ The public demo is shared and resets daily. One login for everyone, data reset every 24 hours; tokens, Git and import, share links, invitations and the AI assistant are off. The Folio Handbook is published there as a website (its administrator can try "Publish as website"). Do not enter personal data or API keys.
+ One agent per space. 
+ File names are Latin only. A page title in any script is fine; the file name cannot be.
+ Readers see a whiteboard as a static picture. 
+ PDF and Office files are view-only and searchable by title, not by content.
+ A child page can narrow an inherited restriction, not widen it. 
+ Moving a page rewrites only [text](path) links and images. HTML tags and reference-style links are left as they are.
+ A public site is read-only and anonymous. No comments, history or form submissions. Each site gets its own robots.txt and sitemap, and a switch keeps search engines out.
+ Search has no stemming. Different forms of a word are different words.
+ A remote repository can be connected only if it is empty. To start from an existing repository, create the space by cloning it.
+ Confluence import does not support every macro. Run a test import before moving a whole space.
+ Offline mode covers documents and whiteboards opened on the device before. Tables, forms, uploads and templates need a connection.
+ No separate mobile or desktop app. The interface is responsive in the browser.
+ The full list: LIMITATIONS.md
+ FAQ
+ Is Folio really free? 
+ Who built it? 
+ Do I need an AI subscription? 
+ Can I try it without installing? 
+ Can I publish a space as a public website? 
+ Can I connect ChatGPT, Claude or Cursor? 
+ What happens to my pages if I stop using Folio? 
+ Can I move my Confluence space over? 
+ Where do I report a bug or a security issue? 
+ Where to read about us
+ Articles about Folio and the AI-friendly wiki approach.
+ HackerNoon
+ Two days without processes: why we left Confluence for our own AI-friendly Git-based wiki 
+ The Confluence to Folio story, published on HackerNoon on 22 October 2026.
+ LinkedIn
+ Two days without processes: why Evergreen stopped renting its own memory and build AI-friendly git-first wiki Folio 
+ The Confluence to Folio story and the AI SDLC.
+ Medium
+ A New Salesperson Ramps Faster with AI-assisted Wiki Folio: When Every Answer Has a Source 
+ Onboarding a salesperson with the Folio AI assistant.
+ DEV Community
+ What your wiki needs before an AI assistant can onboard a new hire 
+ The structure a wiki needs for AI-assisted onboarding, step by step.
+ Also listed on AlternativeTo
+ Try it on one real team wiki.
+ The repository is open. Clone it, run one command, and move one space over.
+ Star on GitHub
+ Read the install guide
+ Folio
+ The open-source, self-hosted wiki that lives in Git. MIT licensed.
+ Powered by
+ Evergreen
+ Project
+ GitHub repository
+ Install
+ Integrations
+ Tools
+ Templates
+ Alternatives
+ Blog
+ Guides
+ Public demo
+ Install guide
+ Features
+ Limitations
+ MCP docs
+ Changelog
+ License
+ Contributing
+ Support
+ Security
+ Privacy policy
+ Terms of use
+ Acknowledgments
+ Author&#x27;s site
+ Folio is MIT licensed. Made with AI coding agents. Built by Sergii Kravtsov
+.
+ Screenshots use fictional demo data. Cookie settings
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Folio","applicationCategory":"BusinessApplication","operatingSystem":"Any (Docker)","license":"https://opensource.org/licenses/MIT","url":"https://github.com/evergreen-it-dev/folio","codeRepository":"https://github.com/evergreen-it-dev/folio","description":"Folio is an open-source (MIT) Confluence and Notion alternative: a self-hosted team wiki in Git with live editing, tables, AI agents and public sites.","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is Folio really free?","acceptedAnswer":{"@type":"Answer","text":"Folio is open-source software under the MIT license. You run it on your own server, so you pay for that server and for any AI subscription you choose to connect."}},{"@type":"Question","name":"Who built it?","acceptedAnswer":{"@type":"Answer","text":"A human product owner decided what to build and checked every flow in the browser. AI coding agents wrote the code, tests and documentation. See the Vibe-coded section above."}},{"@type":"Question","name":"Do I need an AI subscription?","acceptedAnswer":{"@type":"Answer","text":"No. Without one, everything except the built-in assistant works as usual. The assistant currently runs on a Cursor subscription; other providers are coming soon."}},{"@type":"Question","name":"Can I try it without installing?","acceptedAnswer":{"@type":"Answer","text":"Yes. A public demo runs at https://demo.foliowiki.online: pick Sam on the sign-in screen. It is a shared login and the data resets every 24 hours, so please don't enter personal data or API keys. Tokens, Git and import, share links, invitations and the AI assistant are switched off there. The Folio Handbook is published on it as a website, and its administrator can try Publish as website. Installing your own takes a few minutes with Docker."}},{"@type":"Question","name":"Can I publish a space as a public website?","acceptedAnswer":{"@type":"Answer","text":"Yes, since version 0.2.0. A space administrator sets who can read the space to public. Anyone then reads it without an account, as a read-only site with the page tree and search, at a path on your Folio, on a subdomain or on your own domain. Pages with their own restrictions are never published. The subdomain and the domain need DNS, certificate and proxy setup on your side."}},{"@type":"Question","name":"Can I connect ChatGPT, Claude or Cursor?","acceptedAnswer":{"@type":"Answer","text":"Yes. Folio is an MCP server, with OAuth and with personal access tokens. Claude and ChatGPT add it as a custom connector by its /mcp address; Claude Code, Cursor, VS Code, Codex, n8n and Open WebUI use a token. Step-by-step pages are under Integrations. Claude and ChatGPT need Folio to be reachable over HTTPS from the public internet."}},{"@type":"Question","name":"What happens to my pages if I stop using Folio?","acceptedAnswer":{"@type":"Answer","text":"Nothing. They are plain files in a Git repository you control, readable in any editor."}},{"@type":"Question","name":"Can I move my Confluence space over?","acceptedAnswer":{"@type":"Answer","text":"Pages, images, callouts, code, checkboxes and whiteboards are converted; other macros may be simplified or lost. Run a test import before moving a whole space."}},{"@type":"Question","name":"Where do I report a bug or a security issue?","acceptedAnswer":{"@type":"Answer","text":"Questions and bug reports: the Support page (GitHub issues and discussions). Please report vulnerabilities privately, as described in SECURITY.md."}}]}

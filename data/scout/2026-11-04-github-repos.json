@@ -1,0 +1,122 @@
+[
+ {
+  "archived": false,
+  "created": "2026-08-11T18:58:55Z",
+  "pushed": "2026-11-04T03:04:33Z",
+  "repo": "https://github.com/milind-soni/OpenMausBot",
+  "spdx": "Apache-2.0",
+  "stars": 11756
+ },
+ {
+  "archived": false,
+  "created": "2026-10-29T14:34:07Z",
+  "pushed": "2026-11-03T20:49:20Z",
+  "repo": "https://github.com/wangzan101/Mika",
+  "spdx": "Apache-2.0",
+  "stars": 6172
+ },
+ {
+  "archived": false,
+  "created": "2026-10-20T05:32:55Z",
+  "pushed": "2026-11-03T02:29:26Z",
+  "repo": "https://github.com/neuregex/freefield",
+  "spdx": "MIT",
+  "stars": 868
+ },
+ {
+  "archived": false,
+  "created": "2026-10-26T13:48:11Z",
+  "pushed": "2026-10-30T07:49:51Z",
+  "repo": "https://github.com/D3voz/openjutsu",
+  "spdx": "MIT",
+  "stars": 1490
+ },
+ {
+  "archived": false,
+  "created": "2026-09-25T16:55:27Z",
+  "pushed": "2026-10-29T17:07:43Z",
+  "repo": "https://github.com/DeepanshuMishraa/sheet",
+  "spdx": "AGPL-3.0",
+  "stars": 137
+ },
+ {
+  "archived": false,
+  "created": "2026-10-27T00:02:52Z",
+  "pushed": "2026-11-03T18:53:50Z",
+  "repo": "https://github.com/noah-thing/opentempl",
+  "spdx": "MIT",
+  "stars": 2
+ },
+ {
+  "archived": false,
+  "created": "2026-09-29T18:57:20Z",
+  "pushed": "2026-11-02T16:56:22Z",
+  "repo": "https://github.com/evergreen-it-dev/folio",
+  "spdx": "MIT",
+  "stars": 81
+ },
+ {
+  "archived": false,
+  "created": "2026-01-17T08:57:49Z",
+  "pushed": "2026-11-03T17:26:00Z",
+  "repo": "https://github.com/warmbly/warmbly",
+  "spdx": "Apache-2.0",
+  "stars": 915
+ },
+ {
+  "archived": false,
+  "created": "2026-10-23T00:26:52Z",
+  "pushed": "2026-11-03T22:21:24Z",
+  "repo": "https://github.com/Shaitrish/37studio",
+  "spdx": "MIT",
+  "stars": 124
+ },
+ {
+  "archived": false,
+  "created": "2026-10-27T15:53:08Z",
+  "pushed": "2026-11-03T13:18:55Z",
+  "repo": "https://github.com/stoyan-stoyanov/wavefunction",
+  "spdx": "MIT",
+  "stars": 15
+ },
+ {
+  "archived": false,
+  "created": "2026-10-24T21:00:26Z",
+  "pushed": "2026-11-04T01:54:48Z",
+  "repo": "https://github.com/yjid/kensaku",
+  "spdx": "MIT",
+  "stars": 733
+ },
+ {
+  "archived": false,
+  "created": "2026-10-26T03:12:45Z",
+  "pushed": "2026-11-03T14:29:49Z",
+  "repo": "https://github.com/yaojingang/GEOInflow",
+  "spdx": "MIT",
+  "stars": 796
+ },
+ {
+  "archived": false,
+  "created": "2026-10-25T11:14:03Z",
+  "pushed": "2026-11-02T16:21:46Z",
+  "repo": "https://github.com/emanuele-em/kanzo",
+  "spdx": "AGPL-3.0",
+  "stars": 990
+ },
+ {
+  "archived": false,
+  "created": "2025-12-04T08:29:02Z",
+  "pushed": "2026-10-22T03:40:44Z",
+  "repo": "https://github.com/project59/mintype",
+  "spdx": "AGPL-3.0",
+  "stars": 91
+ },
+ {
+  "archived": false,
+  "created": "2026-10-24T19:12:41Z",
+  "pushed": "2026-10-29T22:21:56Z",
+  "repo": "https://github.com/anonnerdfrenzy/survival-llm",
+  "spdx": "NOASSERTION",
+  "stars": 1443
+ }
+]
