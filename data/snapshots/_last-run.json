@@ -1,6 +1,6 @@
 {
- "at": "2026-11-02T03:35:42.763Z",
- "total": 212,
+ "at": "2026-11-09T03:48:39.362Z",
+ "total": 227,
  "failed": [
   {
    "slug": "tabnine",
@@ -14,6 +14,13 @@
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "adobe-express",
+   "region": "us",
+   "pass": false,
+   "reason": "too short (0 chars, http 0)",
    "method": "playwright"
   },
   {
@@ -31,6 +38,13 @@
    "method": "playwright"
   },
   {
+   "slug": "replika",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
    "slug": "talkie",
    "region": "us",
    "pass": false,
@@ -38,7 +52,7 @@
    "method": "playwright"
   },
   {
-   "slug": "replika",
+   "slug": "gorgias",
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",
@@ -52,10 +66,10 @@
    "method": "playwright"
   },
   {
-   "slug": "gorgias",
-   "region": "us",
+   "slug": "framer",
+   "region": "in",
    "pass": false,
-   "reason": "no $ amounts on page",
+   "reason": "no ₹ amounts on page",
    "method": "playwright"
   }
  ]

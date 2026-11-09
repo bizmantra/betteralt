@@ -1,115 +1,115 @@
 {
- "generatedAt": "2026-11-04T04:44:27.151Z",
+ "generatedAt": "2026-11-09T04:11:16.892Z",
  "maxAgeDays": 14,
  "linkCheck": "227 links checked, 0 dead",
  "tools": {
   "chatgpt": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/chatgpt/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/chatgpt/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/chatgpt/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/chatgpt/2026-11-09.in.txt"
   },
   "claude": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/claude/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/claude/2026-11-09.txt"
   },
   "gemini": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/gemini/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/gemini/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/gemini/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/gemini/2026-11-09.in.txt"
   },
   "perplexity": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/perplexity/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/perplexity/2026-11-09.txt"
   },
   "mistral-le-chat": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/mistral-le-chat/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/mistral-le-chat/2026-11-09.txt"
   },
   "grok": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/grok/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/grok/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/grok/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/grok/2026-11-09.in.txt"
   },
   "deepseek": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/deepseek/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/deepseek/2026-11-09.txt"
   },
   "open-webui": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/open-webui/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/open-webui/2026-11-09.txt"
   },
   "lm-studio": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/lm-studio/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/lm-studio/2026-11-09.txt"
   },
   "ollama": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/ollama/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/ollama/2026-11-09.txt"
   },
   "jan": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/jan/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/jan/2026-11-09.txt"
   },
   "librechat": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/librechat/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/librechat/2026-11-09.txt"
   },
   "poe": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/poe/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/poe/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/poe/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/poe/2026-11-09.in.txt"
   },
   "openrouter": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/openrouter/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/openrouter/2026-11-09.txt"
   },
   "cursor": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/cursor/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/cursor/2026-11-09.txt"
   },
   "windsurf": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/windsurf/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/windsurf/2026-11-09.txt"
   },
   "github-copilot": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/github-copilot/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/github-copilot/2026-11-09.txt"
   },
   "cline": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/cline/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/cline/2026-11-09.txt"
   },
   "continue": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/continue/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/continue/2026-11-09.txt"
   },
   "zed": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/zed/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/zed/2026-11-09.txt"
   },
   "tabnine": {
    "verified": false,
@@ -117,13 +117,13 @@
   },
   "aider": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/aider/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/aider/2026-11-09.txt"
   },
   "claude-code": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/claude-code/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/claude-code/2026-11-09.txt"
   },
   "replit": {
    "verified": false,
@@ -131,207 +131,207 @@
   },
   "lovable": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/lovable/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/lovable/2026-11-09.txt"
   },
   "bolt": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/bolt/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/bolt/2026-11-09.txt"
   },
   "v0": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/v0/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/v0/2026-11-09.txt"
   },
   "bolt-diy": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/bolt-diy/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/bolt-diy/2026-11-09.txt"
   },
   "base44": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/base44/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/base44/2026-11-09.txt"
   },
   "dyad": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/dyad/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/dyad/2026-11-09.txt"
   },
   "midjourney": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/midjourney/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/midjourney/2026-11-09.txt"
   },
   "chatgpt-images": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/chatgpt-images/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/chatgpt-images/2026-11-09.txt"
   },
   "leonardo": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/leonardo/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/leonardo/2026-11-09.txt"
   },
   "ideogram": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/ideogram/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/ideogram/2026-11-09.txt"
   },
   "stable-diffusion-webui": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/stable-diffusion-webui/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/stable-diffusion-webui/2026-11-09.txt"
   },
   "comfyui": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/comfyui/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/comfyui/2026-11-09.txt"
   },
   "adobe-firefly": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/adobe-firefly/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/adobe-firefly/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/adobe-firefly/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/adobe-firefly/2026-11-09.in.txt"
   },
   "flux": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/flux/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/flux/2026-11-09.txt"
   },
   "elevenlabs": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/elevenlabs/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/elevenlabs/2026-11-09.txt"
   },
   "murf": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/murf/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/murf/2026-11-09.txt"
   },
   "coqui-tts": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/coqui-tts/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/coqui-tts/2026-11-09.txt"
   },
   "piper": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/piper/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/piper/2026-11-09.txt"
   },
   "resemble": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/resemble/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/resemble/2026-11-09.txt"
   },
   "speechify": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/speechify/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/speechify/2026-11-09.txt"
   },
   "notion-ai": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/notion-ai/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/notion-ai/2026-11-09.txt"
   },
   "obsidian": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/obsidian/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/obsidian/2026-11-09.txt"
   },
   "appflowy": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/appflowy/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/appflowy/2026-11-09.txt"
   },
   "affine": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/affine/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/affine/2026-11-09.txt"
   },
   "mem": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/mem/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/mem/2026-11-09.txt"
   },
   "clickup-brain": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/clickup-brain/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/clickup-brain/2026-11-09.txt"
   },
   "coda": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/coda/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/coda/2026-11-09.txt"
   },
   "jasper": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/jasper/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/jasper/2026-11-09.txt"
   },
   "copy-ai": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/copy-ai/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/copy-ai/2026-11-09.txt"
   },
   "writesonic": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/writesonic/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/writesonic/2026-11-09.txt"
   },
   "rytr": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/rytr/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/rytr/2026-11-09.txt"
   },
   "writer": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/writer/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/writer/2026-11-09.txt"
   },
   "grammarly": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/grammarly/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/grammarly/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/grammarly/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/grammarly/2026-11-09.in.txt"
   },
   "languagetool": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/languagetool/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/languagetool/2026-11-09.txt"
   },
   "quillbot": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/quillbot/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/quillbot/2026-11-09.txt"
   },
   "prowritingaid": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/prowritingaid/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/prowritingaid/2026-11-09.txt"
   },
   "hemingway": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/hemingway/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/hemingway/2026-11-09.txt"
   },
   "wordtune": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/wordtune/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/wordtune/2026-11-09.txt"
   },
   "zapier": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/zapier/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/zapier/2026-11-09.txt"
   },
   "n8n": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/n8n/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/n8n/2026-11-09.txt"
   },
   "make": {
    "verified": false,
@@ -339,23 +339,23 @@
   },
   "activepieces": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/activepieces/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/activepieces/2026-11-09.txt"
   },
   "pipedream": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/pipedream/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/pipedream/2026-11-09.txt"
   },
   "windmill": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/windmill/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/windmill/2026-11-09.txt"
   },
   "huginn": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/huginn/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/huginn/2026-11-09.txt"
   },
   "dify": {
    "verified": false,
@@ -363,92 +363,92 @@
   },
   "flowise": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/flowise/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/flowise/2026-11-09.txt"
   },
   "canva": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/canva/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/canva/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/canva/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/canva/2026-11-09.in.txt"
   },
   "adobe-express": {
    "verified": true,
    "checkedAt": "2026-11-02",
    "snapshot": "data/snapshots/adobe-express/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/adobe-express/2026-11-02.in.txt"
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/adobe-express/2026-11-09.in.txt"
   },
   "figma": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/figma/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/figma/2026-11-09.txt"
   },
   "penpot": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/penpot/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/penpot/2026-11-09.txt"
   },
   "microsoft-designer": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/microsoft-designer/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/microsoft-designer/2026-11-09.txt"
   },
   "kittl": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/kittl/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/kittl/2026-11-09.txt"
   },
   "visme": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/visme/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/visme/2026-11-09.txt"
   },
   "synthesia": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/synthesia/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/synthesia/2026-11-09.txt"
   },
   "heygen": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/heygen/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/heygen/2026-11-09.txt"
   },
   "colossyan": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/colossyan/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/colossyan/2026-11-09.txt"
   },
   "d-id": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/d-id/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/d-id/2026-11-09.txt"
   },
   "elai": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/elai/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/elai/2026-11-09.txt"
   },
   "runway": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/runway/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/runway/2026-11-09.txt"
   },
   "pika": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/pika/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/pika/2026-11-09.txt"
   },
   "luma": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/luma/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/luma/2026-11-09.txt"
   },
   "kling": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/kling/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/kling/2026-11-09.txt"
   },
   "invideo": {
    "verified": true,
@@ -457,48 +457,48 @@
   },
   "otter": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/otter/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/otter/2026-11-09.txt"
   },
   "fireflies": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/fireflies/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/fireflies/2026-11-09.txt"
   },
   "fathom": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/fathom/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/fathom/2026-11-09.txt"
   },
   "tldv": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/tldv/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/tldv/2026-11-09.txt"
   },
   "granola": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/granola/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/granola/2026-11-09.txt"
   },
   "read-ai": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/read-ai/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/read-ai/2026-11-09.txt"
   },
   "whisper": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/whisper/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/whisper/2026-11-09.txt"
   },
   "descript": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/descript/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/descript/2026-11-09.txt"
   },
   "riverside": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/riverside/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/riverside/2026-11-09.txt"
   },
   "capcut": {
    "verified": false,
@@ -506,28 +506,28 @@
   },
   "opus-clip": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/opus-clip/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/opus-clip/2026-11-09.txt"
   },
   "veed": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/veed/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/veed/2026-11-09.txt"
   },
   "kdenlive": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/kdenlive/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/kdenlive/2026-11-09.txt"
   },
   "gamma": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/gamma/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/gamma/2026-11-09.txt"
   },
   "beautiful-ai": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/beautiful-ai/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/beautiful-ai/2026-11-09.txt"
   },
   "pitch": {
    "verified": true,
@@ -536,23 +536,23 @@
   },
   "plus-ai": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/plus-ai/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/plus-ai/2026-11-09.txt"
   },
   "presenton": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/presenton/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/presenton/2026-11-09.txt"
   },
   "suno": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/suno/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/suno/2026-11-09.txt"
   },
   "udio": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/udio/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/udio/2026-11-09.txt"
   },
   "soundraw": {
    "verified": true,
@@ -561,28 +561,29 @@
   },
   "aiva": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/aiva/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/aiva/2026-11-09.txt"
   },
   "mubert": {
-   "verified": true,
+   "verified": false,
    "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/mubert/2026-10-22.txt"
+   "snapshot": "data/snapshots/mubert/2026-10-22.txt",
+   "reason": "stale"
   },
   "audiocraft": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/audiocraft/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/audiocraft/2026-11-09.txt"
   },
   "character-ai": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/character-ai/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/character-ai/2026-11-09.txt"
   },
   "sillytavern": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/sillytavern/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/sillytavern/2026-11-09.txt"
   },
   "replika": {
    "verified": false,
@@ -594,8 +595,8 @@
   },
   "nomi": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/nomi/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/nomi/2026-11-09.txt"
   },
   "talkie": {
    "verified": false,
@@ -603,62 +604,62 @@
   },
   "microsoft-excel": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/microsoft-excel/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/microsoft-excel/2026-11-09.txt"
   },
   "google-sheets": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/google-sheets/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/google-sheets/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/google-sheets/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/google-sheets/2026-11-09.in.txt"
   },
   "rows": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/rows/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/rows/2026-11-09.txt"
   },
   "airtable": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/airtable/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/airtable/2026-11-09.txt"
   },
   "julius": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/julius/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/julius/2026-11-09.txt"
   },
   "nocodb": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/nocodb/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/nocodb/2026-11-09.txt"
   },
   "adobe-photoshop": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/adobe-photoshop/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/adobe-photoshop/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/adobe-photoshop/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/adobe-photoshop/2026-11-09.in.txt"
   },
   "photopea": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/photopea/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/photopea/2026-11-09.txt"
   },
   "gimp": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/gimp/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/gimp/2026-11-09.txt"
   },
   "pixlr": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/pixlr/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/pixlr/2026-11-09.txt"
   },
   "krita": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/krita/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/krita/2026-11-09.txt"
   },
   "zendesk": {
    "verified": true,
@@ -667,18 +668,18 @@
   },
   "intercom-fin": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/intercom-fin/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/intercom-fin/2026-11-09.txt"
   },
   "freshdesk": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/freshdesk/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/freshdesk/2026-11-09.txt"
   },
   "chatwoot": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/chatwoot/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/chatwoot/2026-11-09.txt"
   },
   "gorgias": {
    "verified": false,
@@ -686,28 +687,28 @@
   },
   "tidio": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/tidio/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/tidio/2026-11-09.txt"
   },
   "shopify-magic": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/shopify-magic/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/shopify-magic/2026-11-09.txt"
   },
   "klaviyo": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/klaviyo/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/klaviyo/2026-11-09.txt"
   },
   "khanmigo": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/khanmigo/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/khanmigo/2026-11-09.txt"
   },
   "magicschool": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/magicschool/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/magicschool/2026-11-09.txt"
   },
   "quizlet": {
    "verified": false,
@@ -715,18 +716,18 @@
   },
   "wolfram-alpha": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/wolfram-alpha/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/wolfram-alpha/2026-11-09.txt"
   },
   "linear": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/linear/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/linear/2026-11-09.txt"
   },
   "productboard": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/productboard/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/productboard/2026-11-09.txt"
   },
   "dovetail": {
    "verified": true,
@@ -735,33 +736,33 @@
   },
   "miro": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/miro/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/miro/2026-11-09.txt"
   },
   "codex": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/codex/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/codex/2026-11-09.txt"
   },
   "gemini-cli": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/gemini-cli/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/gemini-cli/2026-11-09.txt"
   },
   "opencode": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/opencode/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/opencode/2026-11-09.txt"
   },
   "openhands": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/openhands/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/openhands/2026-11-09.txt"
   },
   "devin": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/devin/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/devin/2026-11-09.txt"
   },
   "manus": {
    "verified": false,
@@ -769,61 +770,61 @@
   },
   "loom": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/loom/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/loom/2026-11-09.txt"
   },
   "cap": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/cap/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/cap/2026-11-09.txt"
   },
   "tella": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/tella/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/tella/2026-11-09.txt"
   },
   "krea": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/krea/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/krea/2026-11-09.txt"
   },
   "logseq": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/logseq/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/logseq/2026-11-09.txt"
   },
   "framer": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/framer/2026-11-02.txt",
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/framer/2026-11-09.txt",
    "inCheckedAt": "2026-11-02",
    "inSnapshot": "data/snapshots/framer/2026-11-02.in.txt"
   },
   "webflow": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/webflow/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/webflow/2026-11-09.txt"
   },
   "microsoft-word": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/microsoft-word/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/microsoft-word/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/microsoft-word/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/microsoft-word/2026-11-09.in.txt"
   },
   "microsoft-powerpoint": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/microsoft-powerpoint/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/microsoft-powerpoint/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/microsoft-powerpoint/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/microsoft-powerpoint/2026-11-09.in.txt"
   },
   "google-docs": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/google-docs/2026-11-02.txt",
-   "inCheckedAt": "2026-11-02",
-   "inSnapshot": "data/snapshots/google-docs/2026-11-02.in.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/google-docs/2026-11-09.txt",
+   "inCheckedAt": "2026-11-09",
+   "inSnapshot": "data/snapshots/google-docs/2026-11-09.in.txt"
   },
   "mailchimp": {
    "verified": false,
@@ -831,123 +832,123 @@
   },
   "trello": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/trello/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/trello/2026-11-09.txt"
   },
   "brevo": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/brevo/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/brevo/2026-11-09.txt"
   },
   "beehiiv": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/beehiiv/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/beehiiv/2026-11-09.txt"
   },
   "listmonk": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/listmonk/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/listmonk/2026-11-09.txt"
   },
   "mautic": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/mautic/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/mautic/2026-11-09.txt"
   },
   "plane": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/plane/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/plane/2026-11-09.txt"
   },
   "voicestudio": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/voicestudio/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/voicestudio/2026-11-09.txt"
   },
   "voicebox": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/voicebox/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/voicebox/2026-11-09.txt"
   },
   "photocraft": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/photocraft/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/photocraft/2026-11-09.txt"
   },
   "compositor": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/compositor/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/compositor/2026-11-09.txt"
   },
   "concat": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/concat/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/concat/2026-11-09.txt"
   },
   "filmcraft": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/filmcraft/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/filmcraft/2026-11-09.txt"
   },
   "instatic": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/instatic/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/instatic/2026-11-09.txt"
   },
   "mailcheap": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/mailcheap/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/mailcheap/2026-11-09.txt"
   },
   "edgeever": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/edgeever/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/edgeever/2026-11-09.txt"
   },
   "itsaplan": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/itsaplan/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/itsaplan/2026-11-09.txt"
   },
   "genoffice": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/genoffice/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/genoffice/2026-11-09.txt"
   },
   "wordcraft": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/wordcraft/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/wordcraft/2026-11-09.txt"
   },
   "open-codesign": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/open-codesign/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/open-codesign/2026-11-09.txt"
   },
   "anythingllm": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/anythingllm/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/anythingllm/2026-11-09.txt"
   },
   "localai": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/localai/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/localai/2026-11-09.txt"
   },
   "llama-cpp": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/llama-cpp/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/llama-cpp/2026-11-09.txt"
   },
   "msty": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/msty/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/msty/2026-11-09.txt"
   },
   "hob": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/hob/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/hob/2026-11-09.txt"
   },
   "openseo": {
    "verified": true,
@@ -956,88 +957,88 @@
   },
   "gridcraft": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/gridcraft/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/gridcraft/2026-11-09.txt"
   },
   "deckcraft": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/deckcraft/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/deckcraft/2026-11-09.txt"
   },
   "figcraft": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/figcraft/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/figcraft/2026-11-09.txt"
   },
   "pdfcraft": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/pdfcraft/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/pdfcraft/2026-11-09.txt"
   },
   "openfilm": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/openfilm/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/openfilm/2026-11-09.txt"
   },
   "dossier": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/dossier/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/dossier/2026-11-09.txt"
   },
   "digup": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/digup/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/digup/2026-11-09.txt"
   },
   "learnharness": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/learnharness/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/learnharness/2026-11-09.txt"
   },
   "doory": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/doory/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/doory/2026-11-09.txt"
   },
   "desigma": {
    "verified": true,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/desigma/2026-11-02.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/desigma/2026-11-09.txt"
   },
   "mausbot": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/mausbot/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/mausbot/2026-11-09.txt"
   },
   "mika": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/mika/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/mika/2026-11-09.txt"
   },
   "freefield": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/freefield/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/freefield/2026-11-09.txt"
   },
   "openjutsu": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/openjutsu/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/openjutsu/2026-11-09.txt"
   },
   "sheet": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/sheet/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/sheet/2026-11-09.txt"
   },
   "opentempl": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/opentempl/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/opentempl/2026-11-09.txt"
   },
   "folio": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/folio/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/folio/2026-11-09.txt"
   },
   "warmbly": {
    "verified": true,
@@ -1046,41 +1047,43 @@
   },
   "37studio": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/37studio/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/37studio/2026-11-09.txt"
   },
   "wavefunction": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/wavefunction/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/wavefunction/2026-11-09.txt"
   },
   "kensaku": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/kensaku/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/kensaku/2026-11-09.txt"
   },
   "geoinflow": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/geoinflow/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/geoinflow/2026-11-09.txt"
   },
   "kanzo": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/kanzo/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/kanzo/2026-11-09.txt"
   },
   "mintype": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/mintype/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/mintype/2026-11-09.txt"
   },
   "survival-llm": {
    "verified": true,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/survival-llm/2026-11-04.txt"
+   "checkedAt": "2026-11-09",
+   "snapshot": "data/snapshots/survival-llm/2026-11-09.txt"
   }
  },
  "dead": [],
  "hard": 0,
- "soft": []
+ "soft": [
+  "[max-age] mubert: newest snapshot 2026-10-22 is older than 14 days → shown as not yet verified"
+ ]
 }

@@ -1,0 +1,273 @@
+#SNAPSHOT {"url":"https://opencode.ai","finalUrl":"https://opencode.ai/","fetchedAt":"2026-11-09T03:47:42.248Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"4d6a1900f395e40b78fe69a42da83b4fbd2959702132e4d30fd5c4c84ab55923"}
+OpenCode | The open source coding agent for any model 
+ Skip to content
+ New
+ Create, install and share desktop plugins. See what's new in 2.2 
+ [ 0
+]
+ Docs
+ [ 0
+]
+ Product
+ [ 0
+]
+ Data
+ [ 0
+]
+ Console
+ [ 0
+]
+ Models
+ [ 0
+]
+ Subscriptions
+ [ 0
+]
+ Enterprise
+ [ 
+]
+ Changelog
+ [ 
+]
+ GitHub
+ (opens in a new tab)
+ English
+ 简体中文
+ Chinese, Simplified
+ 繁體中文
+ Chinese, Traditional
+ 한국어
+ Korean
+ Deutsch
+ German
+ Español
+ Spanish
+ Français
+ French
+ Italiano
+ Italian
+ Dansk
+ Danish
+ 日本語
+ Japanese
+ Polski
+ Polish
+ Русский
+ Russian
+ Українська
+ Ukrainian
+ العربية
+ Arabic
+ Norsk
+ Norwegian
+ Português (Brasil)
+ Portuguese, Brazil
+ ไทย
+ Thai
+ Türkçe
+ Turkish
+ [ 0
+]
+ Docs
+ [ 0
+]
+ Product
+ [ 0
+]
+ Data
+ [ 0
+]
+ Console
+ [ 0
+]
+ Models
+ [ 0
+]
+ Subscriptions
+ [ 0
+]
+ Enterprise
+ [ 
+]
+ Changelog
+ [ 
+]
+ GitHub
+ (opens in a new tab)
+ New
+ Create, install and share desktop plugins. See what's new in 2.2 
+ The open source coding agent
+ Start with free models or bring any of 200+ providers.
+ OpenCode works on your machine, and you can use it from your desktop, the terminal, your phone or your own code.
+ Desktop
+ Sessions, tabs, diffs, built-in browser, and extensions on macOS, Windows and Linux.
+ Terminal
+ A fast terminal UI that works in any shell, editor or remote server.
+ Mobile
+ Start, steer and approve sessions from your phone, wherever you are.
+ SDK
+ Drive OpenCode from your own scripts, CI jobs and tools.
+ Trusted by 22M+
+ developers
+ Trusted by 22M+
+ devs
+ Products
+ Desktop
+ Sessions, tabs, diffs, built-in browser, and extensions on macOS, Windows and Linux.
+ Download for Windows
+ Terminal
+ A fast terminal UI that works in any shell, editor or remote server.
+ Install 
+ New
+ Mobile
+ Start, steer and approve sessions from your phone, wherever you are.
+ Download for iPhone
+ SDK
+ Drive OpenCode from your own scripts, CI jobs and tools.
+ Read docs
+ What is OpenCode?
+ OpenCode is an open source coding agent. Use it in the desktop app, in the terminal, on your phone or from your own code with the SDK.
+ Read the docs
+. 
+ Any model
+ 200+ LLM providers through Models.dev, including local models
+ Any device
+ A desktop app, a terminal interface, a mobile app and an SDK for your tools
+ Multi-session Start multiple agents in parallel on the same project
+ Plugins Write plugins to hook into events and extend OpenCode with your own logic
+ MCP servers Connect local and remote MCP servers to give agents new tools
+ Custom agents Create specialized agents with their own prompts, models and tools
+ Agent skills Teach agents reusable workflows with SKILL.md files
+ Custom commands Turn repetitive tasks into slash commands you can run anytime
+ Permissions Choose which actions run automatically and which need your approval
+ Undo and redo Roll back recent changes to your files and conversation with /undo
+ Any model
+ 200+ LLM providers through Models.dev, including local models
+ Any device
+ A desktop app, a terminal interface, a mobile app and an SDK for your tools
+ Multi-session
+ Start multiple agents in parallel on the same project
+ Plugins
+ Write plugins to hook into events and extend OpenCode with your own logic
+ MCP servers
+ Connect local and remote MCP servers to give agents new tools
+ Custom agents
+ Create specialized agents with their own prompts, models and tools
+ Agent skills
+ Teach agents reusable workflows with SKILL.md files
+ Custom commands
+ Turn repetitive tasks into slash commands you can run anytime
+ Permissions
+ Choose which actions run automatically and which need your approval
+ Undo and redo
+ Roll back recent changes to your files and conversation with /undo
+ Get started
+ The easiest way to start is to download OpenCode
+ and use the free models
+. No account needed. For more, bring your own subscription
+ or use OpenCode Go
+.
+ 01
+ Download
+ Desktop, terminal or mobile.
+ Download for Windows
+ 02
+ Use free models
+ OpenCode comes with a set of free models. No account needed.
+ Free models 
+ 03
+ Add more models
+ Bring your own subscription, or use OpenCode Go's curated models from $10/month.
+ OpenCode Go 
+ Bring your own subscription
+ Use the subscriptions you already have.
+ Log in with ChatGPT Plus or Pro or GitHub Copilot. Or use an OpenCode subscription
+.
+ Bring your own tools
+ Connect the services you already use with MCP servers
+, hook into OpenCode with plugins
+, and teach agents your workflows with skills
+.
+ GitHub
+ Linear
+ Figma
+ Sentry
+ Notion
+ Slack
+ Supabase
+ Stripe
+ Open source
+ With over 220,000 GitHub stars, 1,000+ contributors, and over 20,000 commits, OpenCode is used and trusted by over 22M developers every month.
+ GitHub stars 2
+ 2
+ 6
+ K
+ Contributors 1
+ K
+ +
+ Monthly devs 2
+ 2
+ M
+ OpenCode contributors
+ MIT licensed (opens in a new tab)
+. Built in the open by Anomaly (opens in a new tab)
+ and 1,089 contributors (opens in a new tab)
+.
+ Star on GitHub 226K
+ , 225,524 stars
+ (opens in a new tab)
+ Fork on GitHub (opens in a new tab)
+ Contribute (opens in a new tab)
+ Console
+ Console
+ Everything you need for working with AI
+ High-quality inference for frontier and open-weight models, low-cost subscriptions with generous limits, and the tools your team needs to manage spend and collaborate effectively.
+ Start for free
+ [ 
+]
+ Community (opens in a new tab)
+ [ 
+]
+ Changelog 
+ [ 
+]
+ Press 
+ [ 
+]
+ Brand 
+ [ 
+]
+ Legal 
+ [ 
+]
+ English
+ English
+ 简体中文
+ 繁體中文
+ 한국어
+ Deutsch
+ Español
+ Français
+ Italiano
+ Dansk
+ 日本語
+ Polski
+ Русский
+ Українська
+ العربية
+ Norsk
+ Português (Brasil)
+ ไทย
+ Türkçe
+ Status: Degraded performance 
+ Status
+ (opens in a new tab)
+ © 2026 Anomaly
+ Drag a letter to move it. With the keyboard, press Space to pick up a letter, the arrow keys to move it and Space to drop it, or Alt and an arrow key to move it at once.
+ Like letters?
+ Check out the OpenCode font
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Organization","@id":"https://anoma.ly/#organization","name":"Anomaly","url":"https://anoma.ly","logo":"https://anoma.ly/apple-touch-icon.png","sameAs":["https://github.com/anomalyco","https://x.com/opencode","https://discord.gg/opencode"]}
+{"@context":"https://schema.org","@type":"WebSite","@id":"https://opencode.ai/#website","name":"OpenCode","url":"https://opencode.ai/","inLanguage":"en","publisher":{"@id":"https://anoma.ly/#organization"}}
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"OpenCode","description":"OpenCode is the open source coding agent that works where you do. Connect AI models from 200+ providers, including Claude, GPT and Gemini, or start free.","url":"https://opencode.ai/","image":"https://opencode.ai/og/home-8b8314ea59.png","applicationCategory":"DeveloperApplication","operatingSystem":"macOS, Windows, Linux","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"license":"https://opensource.org/licenses/MIT","publisher":{"@id":"https://anoma.ly/#organization"}}

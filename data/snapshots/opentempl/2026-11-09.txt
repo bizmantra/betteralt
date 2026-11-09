@@ -1,0 +1,52 @@
+#SNAPSHOT {"url":"https://opentempl.org","finalUrl":"https://opentempl.org/","fetchedAt":"2026-11-09T03:48:33.180Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"0f2ca0908fe0e8b406e768e191f085160e8432afe449dbde67bee90047263a01"}
+OpenTempl: free open source Canva alternative 
+ Design that’s free, open and yours.
+ Posters, posts, slides and menus. 337 templates, an editor that runs on your computer, and nothing behind a paywall.
+ Browse templates
+ Canva alternative
+ What OpenTempl is
+ OpenTempl is a free, open source (MIT) design app for posters, social media posts and slides, with 337 templates, that works offline and needs no account. It is an alternative to Canva for people who make their own designs and want to keep the files.
+ Price Free. No paid plan, trial or watermark. 
+ Templates 337 templates in 34 styles, from Swiss grid and riso zine to brutalist, Bauhaus and Y2K. Browse the styles
+. 
+ Offline and accounts Works offline after the first load. No account. Designs are saved on your device. 
+ Import and export Opens PowerPoint and PDF files. Exports PNG, SVG, PDF with bleed, PowerPoint, MP4 and GIF. 
+ Generate Optional images in 32 styles with your own OpenAI key. OpenAI bills you; OpenTempl takes nothing. 
+ Licence MIT. Made by Noah
+ in Stockholm. Not affiliated with Canva. 
+ Where it falls short
+ No team workspaces, no phone app and no CMYK output yet. A library of 337 templates, not millions. Version 0.1, one maintainer.
+ Questions
+ What is OpenTempl?
+ OpenTempl is a free, open source (MIT) design app for posters, social media posts, slides, menus and invitations, with 337 templates in 34 styles. It works offline and needs no account. It is an alternative to Canva.
+ Is OpenTempl really free?
+ Yes. There is no paid plan, trial or watermark, and every export format is included. If you use the optional Generate tab, OpenAI charges you directly for images, because it uses your own OpenAI key.
+ Is there an open source version of Canva?
+ OpenTempl is an open source design app for the same kind of work: posters, social posts, slides and printables, with templates. It is not a copy of Canva and it is not made by Canva. Penpot is another open source option, aimed more at interface design for product teams.
+ Does OpenTempl work offline?
+ Yes. After it has loaded once you can create, edit and export designs without internet. Fonts you have not used yet, icon and stock photo search, live sessions and the first download of the background removal model need a connection.
+ Do I need an account?
+ No. There is nothing to sign up for or sign in to. Designs are saved on your device.
+ How is OpenTempl different from Canva?
+ OpenTempl works offline, needs no account, has no paid tier and is open source. Canva has a much larger template and stock library, phone apps and team tools. OpenTempl is not affiliated with Canva.
+ Guides
+ Canva alternative
+, open source Canva
+, free Canva alternative
+ Offline
+, no account
+, Canva Pro features
+, Canva vs OpenTempl
+ Poster maker
+, Instagram posts
+, presentations
+, menus
+ ChatGPT poster prompts
+ and how to make a poster with ChatGPT
+ Facts
+, About
+, Download
+ OpenTempl is not affiliated with Canva. Canva is a trademark of its owner.
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://opentempl.org/#website","url":"https://opentempl.org/","name":"OpenTempl","inLanguage":"en","publisher":{"@id":"https://opentempl.org/#org"}},{"@type":"Organization","@id":"https://opentempl.org/#org","name":"OpenTempl","url":"https://opentempl.org/","logo":"https://opentempl.org/mark-512.png","founder":{"@id":"https://opentempl.org/#noah"},"sameAs":["https://x.com/fsconfig"]},{"@type":"Person","@id":"https://opentempl.org/#noah","name":"Noah","url":"https://x.com/fsconfig","sameAs":["https://x.com/fsconfig","https://github.com/noah-thing"]},{"@type":"SoftwareApplication","@id":"https://opentempl.org/#app","name":"OpenTempl","alternateName":["Open Templ"],"url":"https://opentempl.org/","image":"https://opentempl.org/app-icon-512.png","description":"OpenTempl is a free, open source (MIT) design app for posters, social media posts and slides, with 337 templates, that works offline and needs no account.","applicationCategory":"DesignApplication","operatingSystem":"Web browser; macOS, Windows and Linux desktop builds","isAccessibleForFree":true,"license":"https://opensource.org/licenses/MIT","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"author":{"@id":"https://opentempl.org/#noah"},"publisher":{"@id":"https://opentempl.org/#org"},"mainEntityOfPage":"https://opentempl.org/about","featureList":["337 templates in 34 styles","Drag and drop editor for posters, social posts, stories, slides, menus and invitations","Works offline after the first load","No account","Background removal that runs on your computer","Import PDF and PowerPoint, export PNG, SVG, PDF, PowerPoint, MP4 and GIF","Live editing through a share link, synced through an end to end encrypted relay","Optional image generation with your own OpenAI key"]},{"@type":"WebPage","@id":"https://opentempl.org/#page","url":"https://opentempl.org/","name":"OpenTempl: free open source Canva alternative","isPartOf":{"@id":"https://opentempl.org/#website"},"about":{"@id":"https://opentempl.org/#app"},"dateModified":"2026-11-02","inLanguage":"en"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is OpenTempl?","acceptedAnswer":{"@type":"Answer","text":"OpenTempl is a free, open source (MIT) design app for posters, social media posts, slides, menus and invitations, with 337 templates in 34 styles. It works offline and needs no account. It is an alternative to Canva."}},{"@type":"Question","name":"Is OpenTempl really free?","acceptedAnswer":{"@type":"Answer","text":"Yes. There is no paid plan, trial or watermark, and every export format is included. If you use the optional Generate tab, OpenAI charges you directly for images, because it uses your own OpenAI key."}},{"@type":"Question","name":"Is there an open source version of Canva?","acceptedAnswer":{"@type":"Answer","text":"OpenTempl is an open source design app for the same kind of work: posters, social posts, slides and printables, with templates. It is not a copy of Canva and it is not made by Canva. Penpot is another open source option, aimed more at interface design for product teams."}},{"@type":"Question","name":"Does OpenTempl work offline?","acceptedAnswer":{"@type":"Answer","text":"Yes. After it has loaded once you can create, edit and export designs without internet. Fonts you have not used yet, icon and stock photo search, live sessions and the first download of the background removal model need a connection."}},{"@type":"Question","name":"Do I need an account?","acceptedAnswer":{"@type":"Answer","text":"No. There is nothing to sign up for or sign in to. Designs are saved on your device."}},{"@type":"Question","name":"How is OpenTempl different from Canva?","acceptedAnswer":{"@type":"Answer","text":"OpenTempl works offline, needs no account, has no paid tier and is open source. Canva has a much larger template and stock library, phone apps and team tools. OpenTempl is not affiliated with Canva."}}]}]}

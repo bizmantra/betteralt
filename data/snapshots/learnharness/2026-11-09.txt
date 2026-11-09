@@ -1,0 +1,80 @@
+#SNAPSHOT {"url":"https://learnharness.ai","finalUrl":"https://learnharness.ai/","fetchedAt":"2026-11-09T03:48:28.927Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"3b5b51829f636f3f4462a246911322e2321b5df5ace54be7001661538b38e5f5"}
+LearnHarness | Agent harness for learning 
+LearnHarness
+ How it works
+ Download
+ 6.3k
+ Build strong, usable understanding, with your effort focused on the material rather than managing the learning process.
+ An agent harness
+ for learning
+ Download 
+ macOS
+ Windows
+ Linux
+ Free and open source. Use API keys or supported AI subscriptions.
+ I.
+ The idea
+ The best explanations and the best practice problems depend on what you already understand, and how you understand it.
+ LearnHarness builds up a detailed picture of that understanding. The agents use it to find where to begin, reason out a path to your goal, and adapt the teaching and practice as you learn.
+ The aim is not to remove the effort of learning. It is to allocate that effort better, so more of it goes into the thinking that builds understanding.
+ A detailed explanation of the full idea. ↗
+ An explanation, a prediction question with a thinking field, and the lesson map. 
+ II.
+ Teaching
+ i)
+ Probe
+ The agent probes the understanding your goal depends on: what you already know, how you reason about it, and where your understanding ends.
+ edge of your
+understanding
+ Does light travel
+in a straight line?
+ Double-slit
+experiment?
+ Photon
+self-interference?
+ What is
+a photon?
+ E = hf ?
+ ii)
+ Plan
+ The agent reasons out a minimal dependency tree from what you already understand to what you want to understand, shown as a lesson map.
+ iii)
+ Teach
+ Starting from what you already understand, the agent teaches one reasoning step at a time. The aim is for each step, and eventually the goal, to feel obviously true.
+ At each step, you predict the next move, the agent explains it, then checks your understanding. Errors and confusions surface immediately, so they can be resolved before later steps build on them.
+ predict
+ teach
+ check
+ The agent can call on subagents to research and fact-check, read PDFs, create diagrams, and build interactive demos.
+ III.
+ Practice
+ Following the reasoning and having the right ideas come to mind when needed are different abilities. Practice makes understanding usable by broadening and strengthening the cues for recall.
+ Problems adapt to target what needs strengthening: hard enough to require real struggle, but not so hard that you can’t make progress. Your thinking helps the agent see where the difficulty lies.
+ When you get stuck, the agent aims to give the smallest hint that unblocks your thinking without replacing it.
+ A ∧
+ B C 
+ B 
+ B 
+ A ∧
+ B C 
+ IV.
+ Graph
+ Teaching and practice need a detailed picture of your understanding. Not just what you understand, but how.
+ Propositions and reasoning chains are extracted from teaching sessions into one persistent record of what you’ve been taught. The format keeps a large body of understanding compact enough to share as context, while preserving how ideas connect.
+ The graph is a view of that record. Its purpose is context sharing between agents, so later sessions can build on what came before.
+ A persistent record shared as context between teaching and practice. 
+ V.
+ The terms
+ A free, open-source desktop app under AGPL-3.0. No LearnHarness subscription or usage markup. Learning records are local files. System prompts are visible and editable.
+ Use API keys or connect ChatGPT, GitHub Copilot, or Grok. A separately installed Claude Code CLI and custom OpenAI-compatible endpoints work too. Provider terms and limits apply. Claude Code handles its own authentication and billing.
+ The meter estimates known API costs, not subscription, CLI, or custom-endpoint charges. Context goes to your chosen provider or endpoint. Local storage does not mean offline processing.
+ Download LearnHarness
+ Connect a supported subscription, add an API key, or choose a configured CLI or custom endpoint. Select your models and start a session.
+ Dictation and web search are optional and use separate service keys.
+ Download 
+ macOS
+ Windows
+ Linux
+ AGPL-3.0
+ Source
+ © 2026 Amos Blomqvist

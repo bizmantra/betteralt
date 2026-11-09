@@ -1,0 +1,96 @@
+#SNAPSHOT {"url":"https://lmstudio.ai/pricing","finalUrl":"https://lmstudio.ai/pricing","fetchedAt":"2026-11-09T03:36:13.819Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"c25882645ae51c0dfb14b730ff31a8af96bb4c4c433e6bd8cdd0a855ab34bdee"}
+Bionic Pricing | LM Studio 
+ LM Studio
+ Models
+ Resources
+ Enterprise
+ Docs
+ Docs
+ Careers
+ Blog
+ Changelog
+ Developers
+ Pricing
+ Create account
+ Download
+ Download
+ Login
+ Pricing
+ Bionic cloud inference is US-hosted, with Zero Data Retention (ZDR)
+ Free
+ $ 0
+ Run local LLMs on your machine
+ Includes:
+ Bionic Agent
+ Run local LLMs using llama.cpp and MLX
+ State-of-the-art offline voice transcription
+ LM Link for up to 5 devices
+ Limited web search
+ Download Bionic
+ Bionic+
+ $ 20
+ USD / month
+ Private, US-hosted OSS models.
+ Everything in Free, and:
+ US-hosted open source models: Kimi K3, GLM 5.3, DeepSeek V4 Flash, and more
+ Discounted bulk tokens
+ Web search and page extraction
+ Get Bionic+
+ Pro
+ $ 100
+ USD / month
+ More included usage.
+ Everything in Bionic+, and:
+ 5× usage limits
+ Discounted bulk tokens
+ Early access to new features
+ Get Pro
+ Need centralized billing for your team?
+ Create an organization
+ Frequently asked questions
+ What is LM Studio Bionic?
+ LM Studio Bionic combines local AI features with optional cloud inference.
+ Can I use Bionic for free?
+ Yes. The Free plan includes Bionic Agent and local model support.
+ Can I continue running models locally?
+ Yes. Bionic supports local models alongside optional cloud models.
+ What does Zero Data Retention (ZDR) mean?
+ Zero Data Retention (ZDR) means your prompts and responses are not stored by the provider.
+ Does web search use Zero Data Retention (ZDR)?
+ Yes. Web search uses Zero Data Retention (ZDR). However, querying and processing data from the web always carries its own privacy and security risks. Be mindful of sensitive information in your queries and treat web content as untrusted.
+ What are cloud credits for?
+ Cloud credits cover usage beyond the allowance included with your plan.
+ Do you offer plans for teams?
+ Yes. Create an organization and choose between pay-as-you-go pooled credits or team seat-based plans.
+ Can I change my plan later?
+ You can manage your plan from your dashboard.
+ LM Studio
+ Product
+ Download the app
+ Models
+ LM Link
+ LM Studio Hub
+ Beta Releases
+ Changelog
+ Developer
+ Developer Docs
+ lmstudio-js
+ lmstudio-python
+ LM Studio CLI (lms)
+ llms.txt
+ Company
+ Careers
+ We&#x27;re Hiring!
+ Blog
+ RSS feed
+ Enterprise Solutions
+ Brand Guidelines
+ Trust Center
+ Legal
+ Terms
+ Privacy
+ Element Labs, Inc. © 2026
+ LinkedIn
+ GitHub
+ Discord
+ Twitter / X

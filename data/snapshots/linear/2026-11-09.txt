@@ -1,0 +1,433 @@
+#SNAPSHOT {"url":"https://linear.app/pricing","finalUrl":"https://linear.app/pricing","fetchedAt":"2026-11-09T03:47:38.031Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"38b580350b8317dac64a0507b00125bafb6c127a9ee6736a4188ca85dcf48541"}
+Pricing – Linear 
+ Skip to content →
+ Product
+ Resources
+ Customers
+ Pricing
+ Now
+ Contact
+ Docs
+ Open app
+ Log in
+ Sign up
+ Pricing
+ Free
+ $0
+ Free for everyone
+ Unlimited members
+ 2 teams
+ 250 issues
+ Agent platform
+ Linear Agent
+ Loops
+ Get started
+ Get started
+ Basic
+ $10 per user/month
+ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:calc(var(--number-flow-mask-height, 0.25em) / 2) 0}.symbol{white-space:pre} $
+ 1
+ 0
+ per user/month
+ $10 per user/month 
+ Billed yearly 
+ All Free features +
+ 5 teams
+ Unlimited issues
+ Unlimited file uploads
+ Admin roles
+ Get started
+ Get started
+ Business
+ $16 per user/month
+ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:calc(var(--number-flow-mask-height, 0.25em) / 2) 0}.symbol{white-space:pre} $
+ 1
+ 6
+ per user/month
+ $16 per user/month 
+ Billed yearly 
+ All Basic features +
+ Unlimited teams
+ Private teams and guests
+ Triage Intelligence
+ Code Intelligence
+ Linear Insights
+ Linear Asks
+ Zendesk and Intercom integrations
+ Get started
+ Get started
+ Contact sales
+ Enterprise
+ Custom
+ Annual billing only
+ All Business features +
+ Invoice/PO billing
+ SAML and SCIM
+ Granular admin controls
+ Enterprise-grade security
+ Advanced org modeling
+ Migration & onboarding support
+ Priority support
+ Account management
+ Contact sales
+ Trusted by more than 50,000 companies
+ Customer stories
+ →
+ Features
+ Free
+ Basic
+ Business
+ Enterprise
+ Change Plan Free Basic Business Enterprise 
+ Members
+ Unlimited 
+ Unlimited 
+ Unlimited 
+ Unlimited 
+ File upload
+ 10MB 
+ Unlimited 
+ Unlimited 
+ Unlimited 
+ Issues
+ 250 issues
+ Unlimited 
+ Unlimited 
+ Unlimited 
+ Teams
+ 2 teams
+ 5 teams
+ Unlimited 
+ Unlimited 
+ Core
+ Issues, projects, cycles, initiatives
+ Included
+ Included
+ Included
+ Included
+ Customer requests
+ Included
+ Included
+ Included
+ Included
+ API and webhook access
+ Included
+ Included
+ Included
+ Included
+ Import and export
+ Included
+ Included
+ Included
+ Included
+ Triage
+ Included
+ Included
+ Included
+ Included
+ Pulse
+ Included
+ Included
+ Included
+ Included
+ Issue sync
+ Included
+ Included
+ Included
+ Included
+ Diffs
+ Included
+ Included
+ Included
+ Included
+ Guided reviews
+ Not included
+ Included
+ Included
+ Included
+ Issue SLAs
+ Not included
+ Not included
+ Included
+ Included
+ Triage responsibility
+ Not included
+ Not included
+ Included
+ Included
+ Triage rules
+ Not included
+ Not included
+ Included
+ Included
+ Releases
+ Not included
+ Not included
+ 15 pipelines 
+ Unlimited 
+ Sub-initiatives
+ Not included
+ Not included
+ Not included
+ Included
+ AI and agent workflows
+ Agent platform
+ Included
+ Included
+ Included
+ Included
+ MCP access
+ Included
+ Included
+ Included
+ Included
+ Linear Agent
+ Included
+ Included
+ Included
+ Included
+ Cloud coding agent **
+ Included
+ Included
+ Included
+ Included
+ Loops **
+ Included
+ Included
+ Included
+ Included
+ Code Intelligence
+ Not included
+ Not included
+ Included
+ Included
+ Triage Intelligence
+ Not included
+ Not included
+ Included
+ Included
+ Integrations
+ Integrations
+ Included
+ Included
+ Included
+ Included
+ Microsoft Teams integration
+ Included
+ Included
+ Included
+ Multiple tenants 
+ Support integrations
+ Not included
+ Not included
+ Included
+ Included
+ Salesforce integration
+ Add-on
+ Not included
+ Not included
+ Not included
+ Included
+ Team management
+ Sub-teams
+ Not included
+ Not included
+ 1 level 
+ 5 levels 
+ Private teams
+ Not included
+ Not included
+ Included
+ Included
+ Guest accounts
+ Not included
+ Not included
+ Included
+ Included
+ Analytics & Reporting
+ Progress reports
+ Included
+ Included
+ Included
+ Included
+ Insights
+ Not included
+ Not included
+ Included
+ Included
+ Dashboards
+ Not included
+ Not included
+ Not included
+ Included
+ Linear Asks
+ Slack intake
+ Not included
+ Not included
+ Included
+ Included
+ Email intake
+ Not included
+ Not included
+ Included
+ Included
+ Web forms
+ Not included
+ Not included
+ Not included
+ Included
+ Multiple Slack workspaces
+ Not included
+ Not included
+ Not included
+ Included
+ Private Slack channels
+ Not included
+ Not included
+ Not included
+ Included
+ Per-channel configurations
+ Not included
+ Not included
+ Not included
+ Included
+ Security
+ SSO
+ Google 
+ Google 
+ Google 
+ Google + SAML 
+ Admin roles
+ Included
+ Included
+ Included
+ Included
+ Third-party app management
+ Not included
+ Included
+ Included
+ Included
+ Team owners
+ Not included
+ Not included
+ Included
+ Included
+ Advanced authentication
+ Not included
+ Not included
+ Included
+ Included
+ SCIM provisioning
+ Not included
+ Not included
+ Not included
+ Included
+ IP restrictions
+ Not included
+ Not included
+ Not included
+ Included
+ Domain claiming
+ Not included
+ Not included
+ Not included
+ Included
+ Audit log
+ Not included
+ Not included
+ Not included
+ Included
+ HIPAA compliance
+ Not included
+ Not included
+ Not included
+ Included
+ Support
+ Priority support
+ Not included
+ Not included
+ Not included
+ Included
+ Account manager
+ Not included
+ Not included
+ Not included
+ Included
+ Custom terms
+ Not included
+ Not included
+ Not included
+ Included
+ Uptime SLA
+ Not included
+ Not included
+ Not included
+ Included
+ Get started
+ Get started
+ Get started
+ Get started
+ Get started
+ Get started
+ or contact sales
+ Contact sales
+ ** Requires AI credits View docs 
+ Built for the future. Available today.
+ Get started
+ Contact sales
+ Open app
+ Download
+ Product
+ Intake
+ Plan
+ AI
+ Build
+ Pricing
+ Security
+ Features
+ Asks
+ Agents
+ Cloud Coding Agent
+ Customer Requests
+ Insights
+ Mobile
+ Integrations
+ Changelog
+ Company
+ About
+ Customers
+ Careers
+ Now
+ Method
+ Quality
+ Brand
+ Resources
+ Switch
+ Download
+ Documentation
+ Docs
+ Developers
+ Enterprise
+ Startups
+ Status
+ Legal
+ Connect
+ Contact us
+ Community
+ X (Twitter)
+ GitHub
+ YouTube
+ Legal
+ Privacy
+ Terms
+ Other Policies
+ DPA
+ AUP
+ Privacy
+ Terms
+ Other Policies
+ DPA
+ AUP
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"WebPage","url":"https://linear.app/pricing","primaryImageOfPage":"https://linear.app/api/og/generic?title=Pricing&v=5"}

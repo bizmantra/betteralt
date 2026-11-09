@@ -1,0 +1,261 @@
+#SNAPSHOT {"url":"https://studio.shaitrish.com","finalUrl":"https://studio.shaitrish.com/","fetchedAt":"2026-11-09T03:48:33.545Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"cf709d6e3e28c58664572b0f43972acdeee46759f702ed14a060a1eeff04f534"}
+37Studio: social media, managed without the managing 
+ 37Studio by Shaitrish 
+ How it works
+ What it makes
+ Assistant
+ Your AI
+ Open source
+ GitHub
+ Donate
+ FAQ
+ Download
+ Social media, managed without the managing
+ Videos made, posted and answered.
+ Turn a short brief into on-brand videos and posts, publish them everywhere and answer every message, on your own computer or server.
+ Download for Windows, Mac & Linux
+ GitHub 
+ New: desktop app for Windows and Linux
+, no Docker (preview)
+ Find us on
+ Product Hunt
+ Peerlist
+ Posts to
+ Free and open source
+ No monthly bill
+ Your Claude plan or your own keys
+ localhost:8080
+ Made in 37Studio BCS Mate app guide, Bangla voiceover 
+ 0 servers Runs on your PC, Mac or Linux
+ 9 platforms One click posts to all of them
+ 65 tools For the Assistant and your own AI agent
+ $0 to use MIT licensed; AI billed at cost
+ Watch the film
+ One brand's first week in 37Studio
+ Under three minutes, and every screen is the real app: BCS Mate's brand library, a new video, one click to four platforms, replies drafted in the Inbox, and the numbers that came back. Its 14 Reels got 413,406 views on Instagram in six days.
+ How it works
+ The real screens, step by step
+ Click a step to see that part of the app.
+ 01
+ Add your brand
+ Paste its website; it reads the brand.
+ 02
+ Check its knowledge
+ What it sells, prices and tone.
+ 03
+ Brief a video
+ A few questions. Footage is optional.
+ 04
+ Watch the agent work
+ It builds, checks and renders.
+ 05
+ Approve and post
+ Every account, a caption for each.
+ 06
+ Answer customers
+ One inbox, replies drafted.
+ localhost:8080
+ The brand library and design system, collected from the brand's website.
+ What it can make
+ Videos, posts and graphics, not just reels
+ Claude edits, HyperFrames renders. If it fits on a screen, it can move.
+ New autumn roast is in Order ahead → 
+ Reels, Shorts, TikTok 9:16
+ How it works in 60 seconds Explainer · motion graphics 
+ YouTube, explainers, thumbnails 16:9
+ This weekend
+ 20% off All classes 
+ Feed posts 1:1
+ Open day
+ Fri, 7 pm Free entry 
+ Portrait posts 4:5
+ Motion graphics Titles, charts, maps, 3D
+ Long video → reels A 2-hour class into ten
+ Captions Word by word, in brand
+ Podcast clips Names, quotes, lower-thirds
+ Promo ads Hook, offer, call to action
+ Explainers A speaker plus visuals
+ Thumbnails YouTube, course, book covers
+ Templates Reuse any finished look
+ Uses
+ Claude edits and writes 
+ Gemini images and clips 
+ ElevenLabs voice, sound, music 
+ Bring your own AI
+ Use the Claude plan you already pay for, or your own keys
+ No resold AI and no markup. Every video shows what it cost.
+ No API key needed
+ Claude Pro or Max
+ Run claude setup-token and paste the token in Settings.
+ Anthropic's terms apply to using a subscription in other apps. 
+ Pay as you go
+ Anthropic API key
+ Billed by Anthropic for what you use. The fully supported route.
+ Kimi · Qwen · GLM · DeepSeek
+ OpenCode
+ Frontier models strong at visual work, often for less.
+ Needs an OpenCode login. 
+ localhost:8080/#/settings
+ Settings → AI services. Encrypted on your computer, sent only to their own provider.
+ Features
+ A small agency's whole content desk
+ For agencies, shops, restaurants and coaching centres.
+ Aa
+ Brand library and design system
+ Logos, photos, fonts and exact colours from each website.
+ M T W T F S S 
+ Autopilot
+ Plan once; it makes each video and waits for your OK.
+ Post everywhere at once
+ Many accounts per brand, a caption per platform.
+ Is it in stock?
+ Yes! Ships today.
+ One inbox, replies drafted
+ From the knowledge base, in the customer's language.
+ $ per video, brand, month
+ Know what everything costs
+ Real AI cost, in your currency. No markup.
+ data/ on your disk
+ Private by design
+ Footage and messages stay with you. Keys encrypted.
+ Assistant and MCP
+ Run every client's social media by chatting
+ Ask the Assistant, or connect your own AI agent. Both use the same tools as every button.
+ Assistant
+ Claude Code
+ Claude Desktop
+ Cursor
+ 37Studio MCP 65 tools 
+ Brands
+ Campaigns
+ Videos
+ Publishing
+ Inbox
+ Costs
+ Connections
+ Asks before it deletes, publishes or replies to a customer.
+ claude mcp add --transport http 37studio http://localhost:8080/mcp 
+ localhost:8080/#/assistant
+ Autopilot
+ Content that keeps coming, with you in charge
+ Write a plan once: topic, days, time and accounts.
+Picks a new topic from the brief 
+Makes the video 3 h early 
+You approve one click 
+Posts on time e.g. 8 pm 
+ localhost:8080
+ You stay in control
+ Claude drafts overnight. Your team sends in the morning.
+ Your rules and tone
+ Facts from your knowledge base
+ Off, drafts or auto-reply
+ 11:40 pm A customer asks if the guide is in stock Meta holds it while the computer sleeps. 
+ 8:02 am 37Studio starts and drafts every reply
+ 8:10 am Your team sends them, one click each
+ localhost:8080
+ Made with 37Studio
+ BCS Mate's one-minute app guide
+ A real video for our own app, BCS Mate, made by the editor agent from a one-line brief.
+ Brief "Explain how users can use the guide to learn about all the features and how to use the BCS Mate app." 
+ Format Hook reel, 9:16, about a minute, Bangla 
+ Made from The brand library, app screen recordings, ElevenLabs voice and music 
+ Output 1080×1920 MP4, ready for Reels, Shorts and TikTok 
+ Open source
+ Free and open source. Never a monthly bill.
+ MIT licensed. Run it anywhere, read every line, send improvements back.
+ 37Studio $0
+ every feature 
+ + 
+ Claude Your plan
+ or API key 
+ + 
+ Gemini Optional
+ images, clips 
+ + 
+ ElevenLabs Optional
+ voice, music 
+ + 
+ Rendering $0
+ on your machine 
+ Unlimited brands and accounts
+ Updates when the app starts
+ No trial, no license key
+ Pull requests welcome
+ View on GitHub
+ Support it
+ Download
+ Two ways to run it
+ Both are free, keep everything on your computer and make the same videos. Pick the one that fits your computer.
+ New · preview
+ Desktop app
+ Runs directly on your computer, in its own window. No Docker.
+ Windows 10, 11
+ Linux
+ Download the app for Windows or Linux
+ Install it Start-menu installer or a .deb
+ Install the tools it lists Claude Code, ffmpeg, Node.js, Python
+ Add your Claude key then your first brand
+ Get the desktop app
+ No Docker
+ Mac coming later
+ Everything included
+ Docker app
+ Every tool comes bundled and updates on each start. Works on a Mac and on a server too.
+ Windows 10, 11
+ macOS
+ Linux
+ Your own server
+ Install Docker Desktop Free download
+ Download and unzip 37studio.zip, anywhere
+ Double-click start start.bat or start.command 
+ Add your Claude key then your first brand
+ Download 37Studio
+ Setup guide
+ 16 GB RAM
+ 3 GB first download
+ Running it around the clock? Use the cloud guide
+: one compose file with HTTPS and a password. Developer? Clone the repo and run docker compose up --build .
+ FAQ
+ Questions people ask
+ Is 37Studio free? Yes. It's free and open source under the MIT License: no trial, no license key and no paid tier. AI usage is separate and billed to your own Claude plan or Anthropic, Google and ElevenLabs accounts. If you'd rather have someone set it up for you, message us
+.
+ Can I contribute? Please do. The code is on GitHub
+: report bugs and ask for features in Issues, and send pull requests. The README explains how to run it from source.
+ Can I control how the AI replies? Yes, per brand. Choose off, drafts for approval or replies on their own; write rules for tone, sign-off, what never to promise and when to hand over to a person; and keep the knowledge base it answers from up to date. Facts only ever come from that knowledge base.
+ Do I need a server? No. Everything runs on your own Windows PC, Mac or Linux machine, inside Docker or, on Windows and Linux, as the desktop app
+. If you want replies and Autopilot running around the clock, you can also run it on your own Linux server with HTTPS and a password; the cloud guide
+ shows how. The only things that leave your computer are calls to the AI providers and the social platforms you connect.
+ What happens when my computer is off? Nothing is lost. Messenger and Instagram keep messages on Meta, and Meta retries WhatsApp messages for a while (a relay of your own keeps them 7 days). When 37Studio starts again it answers everything the platform still allows a reply to: messages from the last 24 hours and comments up to two days old. For round-the-clock replies, keep it on a computer that doesn't sleep, such as a Mac mini, or run it on a server.
+ Can I use my Claude subscription instead of an API key? Yes. Run claude setup-token in Claude Code on your computer and paste the token in Settings → AI services; the agent then works within your Pro or Max plan. Anthropic's terms govern using a subscription in other apps, so an Anthropic API key is the fully supported route.
+ Can I use my Runway, Kling or other video subscription? Not directly. Monthly plans for video tools such as Runway, Kling or Google AI Pro work only on their own websites; using a model from another app needs a separate API key that's billed on its own. Make the clip on their site, then upload it to a project or paste a Google Drive link, and the agent edits it like any other footage. For clips generated inside 37Studio, add a Gemini key. More video models are on our list.
+ When does the agent generate images, clips or voice? Only when the footage and the brand's library can't do the job, because every generation is billed. It tells you what it generated, and the cost shows on the project. On Autopilot it decides on its own. The budget in Settings caps Claude's spend per turn; generated media is billed on top, so keep an eye on the Costs page.
+ Does it only make videos? No. It also makes thumbnails, square and portrait posts, announcements and covers in each brand's look, and can generate images with Gemini. Videos post straight to every platform you connect; images download as PNG for now.
+ Which platforms can it post to? Facebook Pages, Instagram business accounts, YouTube, TikTok, LinkedIn, X, Pinterest boards, Bluesky and Mastodon, many accounts per brand. Bluesky and Mastodon connect with an app password or token. The others need a free developer app of your own, set up once by following the setup guide
+, including a Meta app for Facebook and Instagram. Until each platform reviews your app, YouTube keeps uploads private and TikTok allows only private posts or drafts. Threads only accepts videos from a public web address, which an app on your computer doesn't have; Meta removed posting to Groups and personal profiles; and Reddit and Snapchat have no usable API for posting videos.
+ Does WhatsApp work? Yes, in beta, for a number on the WhatsApp Business API. Meta delivers WhatsApp messages only to a public web address, so you give 37Studio one with a free Cloudflare Tunnel that opens only the webhook path; the connect guide
+ walks through it. Keeping the same number on the WhatsApp Business phone app at the same time needs Meta to approve your app as a Tech Provider, so use a number dedicated to the API.
+ Why is the first download so big? The Docker version is about 3 GB, once. It bundles every tool its AI agent works with, so you install nothing else: Claude Code and OpenCode, the HyperFrames video engine with its own Chrome for rendering, ffmpeg for cutting and encoding, Node.js, Python, and fonts for Bangla, English and emoji. Updates after that only download what changed. The desktop app
+ is a much smaller download, because it uses the tools you install on your computer instead.
+ Which languages does it work in? Any language Claude writes, from English and Spanish to Hindi and Bangla. Videos, voiceovers, captions and replies follow the language you choose, and replies follow the customer's language and script. Long recordings, like a 2-hour class, are transcribed on your own computer with an open Whisper model that knows about 100 languages: no per-minute fees, and the audio never leaves your PC.
+ Where is my data? Do you collect anything? Everything lives in a data folder next to the app on your computer (or your server): brands, footage, finished videos, messages and settings, with your keys encrypted. We don't collect it, and the app sends nothing to us. The privacy page
+ lists everything it sends anywhere, such as the update check to GitHub.
+ Make this week's videos on your own computer.
+ Free and open source. Download it, or read the code on GitHub first.
+ Download
+ View on GitHub
+ 37Studio by Shaitrish 
+ Made in Dhaka by Shaitrish
+, the team behind Course37, BCS Mate and Daily Exam.
+Open source under the MIT License
+.
+ Setup guide
+ Desktop app
+ GitHub
+ Donate
+ Privacy
+ Terms
+ Products
+ Contact
+ jahangir@shaitrish.com
+ +880 1635 191148
+ ×

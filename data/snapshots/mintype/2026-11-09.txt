@@ -1,0 +1,393 @@
+#SNAPSHOT {"url":"https://github.com/project59/mintype","finalUrl":"https://github.com/project59/mintype","fetchedAt":"2026-11-09T03:48:36.205Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"f0e6bf7a27e90c3ba258b59d473e45b8f48b2e3760edce5b2295349d4b7b34c8"}
+GitHub - project59/mintype: A free, zero-knowledge note taking app :) · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects, and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ project59
+ mintype
+ Repository navigation
+ Code
+ Issues
+ 3
+  ( 3 )
+ Pull requests
+ Discussions
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ mintype
+ Public
+ Sponsor
+ Notifications
+ You must be signed in to change notification settings
+ Fork 8
+  ( 8
+)
+ Star 96
+  ( 96
+)
+ You must be signed in to star a repository
+ About
+ A free, zero-knowledge note taking app :)
+ mintype.app
+ Topics
+ drawing
+ notes
+ pwa
+ reactjs
+ rich-text
+ whiteboard
+ Resources
+ Readme
+ AGPL-3.0 license
+ Activity
+ Custom properties
+ Stars
+ 96 stars
+ Watchers
+ 0 watching
+ Forks
+ 8 
+ forks
+ Report repository
+ main
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 24 Commits
+ 24 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .github
+ .github
+ docs
+ docs
+ images
+ images
+ public
+ public
+ scripts
+ scripts
+ src
+ src
+ .gitignore
+ .gitignore
+ LICENSE
+ LICENSE
+ README.md
+ README.md
+ index.html
+ index.html
+ package.json
+ package.json
+ parity.html
+ parity.html
+ postcss.config.js
+ postcss.config.js
+ tailwind.config.js
+ tailwind.config.js
+ vite.config.js
+ vite.config.js
+ View all files
+ Repository files navigation
+ README
+ AGPL-3.0 license
+ More items
+ Mintype: a free, zero-knowledge note-taking app
+ Open Mintype
+ ·
+ Docs
+ ·
+ Discussions
+ ·
+ Roadmap
+ ·
+ Discord
+ ·
+ Sponsor ❤️
+ Mintype is a notes app for documents and whiteboards. Everything is encrypted on your device before it is saved or synced, so only you can read your notes. It works offline, runs in any modern browser, and syncs free through your own Google Drive.
+ What's new in 2.0 🎉
+ Version 2.0 is a ground-up rework of the editor and whiteboard:
+ A brand-new whiteboard with an infinite canvas, sticky notes, shapes, drawing, connectors, grouping, images, and export.
+ A smoother, Markdown-based editor. Documents are now one continuous page instead of separate blocks, and they export cleanly to Markdown.
+ New blocks: sections, columns, tables, callouts, to-do lists, code, Google Maps, and YouTube. Type / to insert any of them.
+ QuickShare is back, with end-to-end encryption. Share a document or whiteboard with a link, and anyone who opens it can save a copy to their own workspace.
+ Better on phones, with bottom-sheet menus, a scrollable toolbar, and a tap menu for moving blocks.
+ More reliable Google Drive sync and import/export. 
+ See the full v2.0 release notes
+ for details.
+ Features
+ 🔒 Private by design
+ All notes are encrypted on your device (AES-GCM) before they are written to browser storage.
+ Notes unlock only with your password, which is never stored anywhere.
+ Notes are encrypted before they reach Google Drive. Open your Drive folder and you will see ciphertext.
+ Mark a page as sensitive to require your password again before it opens. This helps if you leave your device unattended.
+ QuickShare links carry their decryption key in the part of the URL that never reaches a server. Mintype only stores the encrypted file.
+ The privacy and security docs
+ explain exactly how this works, what is stored where, and what Mintype does not protect against.
+ ✍️ Documents
+ Rich text with fonts, sizes, colours, highlights, links, and page mentions ( @ ).
+ Blocks for callouts, collapsible coloured sections, 2–4 column layouts, tables, to-do lists, code with syntax highlighting, images, YouTube, and Google Maps.
+ Drag any block by its handle, or tap the handle on a phone to move, duplicate, or delete it.
+ Everything is stored as Markdown, so your notes stay portable.
+ 🖼️ Whiteboards
+ An infinite canvas with sticky notes, shapes, freehand drawing, arrows, groups, and images.
+ Markdown boxes put the full document editor onto the canvas: to-dos, callouts, tables, and more.
+ Follows the app's light or dark theme.
+ 📱 Works everywhere, even offline
+ A web app that works in any modern browser. Chrome and Firefox are recommended on desktop.
+ Install it as an app (PWA): use Chrome on Android or Safari on iOS for the most native feel.
+ Fully usable offline. Changes are queued and sync when you are back online.
+ Phones get every feature, with menus that open as easy-to-tap bottom sheets.
+ 🗂️ Simple organisation
+ A familiar workspace → page → sub-page structure.
+ Quick Notes for jotting things down on the go and organising later.
+ Favourites, a trash folder, drag-and-drop reordering, and moving pages between workspaces.
+ Search across documents and whiteboards.
+ Export workspaces as plain Markdown that keeps the page tree, and import them back, along with Obsidian vaults and Notion exports.
+ Light and dark mode.
+ FAQ
+ Is Mintype free?
+ Yes. Mintype is free to use and will stay free, including Google Drive sync. If you would like to support development, you can sponsor on GitHub
+ or buy me a coffee
+.
+ Is syncing secure?
+ Yes. Mintype syncs through your own Google Drive and runs entirely in your browser, so your notes never pass through Mintype's servers. Every note is encrypted before it reaches Google's APIs.
+ Who can read my notes?
+ Only you. Notes are encrypted with a key protected by your password and stored on your device and, optionally, in your Google Drive. Your password is never stored, not even on your device, and Mintype keeps no copy of your notes.
+ Do you collect any data?
+ There are no trackers. Mintype uses Supabase for accounts and Google APIs for Drive sync. If you create an account, we store your email and encrypted copies of your keys, so you can sign in easily on a new device. Your email is never shared with third parties. QuickShare stores only the encrypted file you choose to share.
+ Is it available on macOS, Linux, Windows, Android and iOS?
+ Yes. Mintype runs anywhere with a modern browser. Chrome and Firefox are recommended on desktop, Chrome on Android, and Safari on iOS (for PWA install).
+ Are native desktop or mobile apps planned?
+ A desktop version built on Electron is planned. It will save notes directly to disk instead of browser storage, so you can sync and back them up your own way (git, OneDrive, Syncthing, and so on). Native mobile apps are not currently planned, but may come if they become necessary for mobile-only features.
+ How can I get in touch or report a bug?
+ GitHub Issues
+ for bugs and feature requests
+ GitHub Discussions
+ for announcements and questions
+ Roadmap
+ Discord
+ Local development
+ Prerequisites
+ Node.js
+ 20.19 or newer, with npm
+ A modern browser (Chrome or Firefox)
+ Setup
+ git clone https://github.com/project59/mintype.git
+ cd
+ mintype
+npm install 
+ Create a .env file in the project root:
+ #
+ Required: the app will not start without these (placeholders are fine for offline-only use)
+VITE_SUPABASE_URL=http://localhost:54321
+VITE_SUPABASE_ANON_KEY=placeholder
+ #
+ Optional: needed for accounts, Google Drive sync and QuickShare
+VITE_BACKEND_URL=
+VITE_FRONTEND_URL=http://localhost:5173
+VITE_API_KEY=
+VITE_TLDRAW_LICENSE_KEY= 
+ Variable
+ Used for
+ VITE_SUPABASE_URL , VITE_SUPABASE_ANON_KEY 
+ Account sign-in (Supabase). Required to boot. Placeholders work if you only use local, offline notes.
+ VITE_BACKEND_URL 
+ The Mintype API server, used by Drive token refresh, key backup, profile settings, and QuickShare.
+ VITE_FRONTEND_URL 
+ Where Google sign-in redirects back to, usually your dev server URL.
+ VITE_API_KEY 
+ Google API key for Drive sync.
+ VITE_TLDRAW_LICENSE_KEY 
+ tldraw license for whiteboards on a deployed site; each deployment (dev site, production) sets its own key. Not needed on localhost .
+ Everything else works without a backend: creating a password, writing documents and whiteboards, search, and import/export all happen in the browser.
+ Run it
+ npm run dev 
+ Open the URL Vite prints (usually http://localhost:5173
+), click Enter Workspace , and choose New Setup to create a local password.
+ Useful commands
+ Command
+ What it does
+ npm run dev 
+ Start the dev server with hot reload
+ npm run build 
+ Build the production bundle into dist/ 
+ npm run preview 
+ Serve the production build locally
+ npm run lint 
+ Run ESLint
+ npm run check:markdown 
+ Round-trip test for the editor's Markdown parsing and serialisation
+ While the dev server is running, /parity.html compares how whiteboard Markdown boxes look when idle and while editing.
+ Project layout
+ src/
+ apps/ app router
+ pages/ page, workspace, QuickShare and settings screens
+ layouts/ app shell, auth and encryption (secure context)
+ render/editor/ TipTap editor, custom blocks and Markdown
+ render/whiteboard/ tldraw canvas and encrypted persistence
+ lib/ encrypted storage (IndexedDB) and the Drive sync engine
+ components/ shared UI, import/export, search, trash, QuickShare
+ drivesync/ Google Drive integration
+ Built with React, Vite, Tailwind CSS, TipTap
+, and tldraw
+. See AGENTS.md 
+ for in-depth architecture notes.
+ Contributing
+ Bug reports, feature requests, and small fixes are welcome through GitHub Issues
+. I'm not taking on dedicated contributors right now.
+ License
+ Mintype is licensed under the GNU Affero General Public License v3.0
+. Whiteboards use the tldraw SDK
+, which has its own license.
+ Additional permission under GNU AGPL version 3 section 7
+ If you modify this Program, or any covered work, by linking or combining it with the tldraw SDK (the tldraw and @tldraw/* packages, or a modified version of them), containing parts covered by the terms of the tldraw license
+, the licensors of this Program grant you additional permission to convey the resulting work. Corresponding Source for a non-source form of such a combination shall include the source code for the parts of the tldraw SDK used as well as that of the covered work.
+ This permission does not change the tldraw license itself: anyone running Mintype with tldraw must still meet its terms, including a license key for production deployments.
+ Support Mintype
+ Mintype is an independent project. If it is useful to you, please consider supporting it:
+ GitHub Sponsors
+ Buy Me a Coffee
+ Star History
+ About
+ A free, zero-knowledge note taking app :)
+ mintype.app
+ Topics
+ drawing
+ notes
+ pwa
+ reactjs
+ rich-text
+ whiteboard
+ Resources
+ Readme
+ AGPL-3.0 license
+ Activity
+ Custom properties
+ Stars
+ 96 stars
+ Watchers
+ 0 watching
+ Forks
+ 8 
+ forks
+ Report repository
+ Releases
+ Sponsor this project
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

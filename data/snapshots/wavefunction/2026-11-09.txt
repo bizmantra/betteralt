@@ -1,0 +1,169 @@
+#SNAPSHOT {"url":"https://www.wavefunction.si","finalUrl":"https://www.wavefunction.si/","fetchedAt":"2026-11-09T03:48:34.496Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"b5c6d099fc672b4823019b5b30936413a5feba730b0b2e9ac9bfc4cb22ffdece"}
+Wavefunction | Open-source coding agent for Mac 
+ Wavefunction
+ Why Wavefunction
+ How it works
+ Models
+ Privacy
+ Download
+ Minimal by design. 
+ Open source down to the prompt. 
+ A coding agent for your Mac. Keep talking while it works on several tasks at once.
+ Download for macOS
+ View source
+ Free and MIT licensed. Use local models, your own API keys or a ChatGPT sign-in.
+ Replay
+ Why Wavefunction
+ 0 1
+ Agent apps keep growing
+ Coding agents are turning into super apps, adding more with every release. Wavefunction goes the other way: less is more, simpler is better, and building comes first.
+ 0 2
+ Free to choose
+ Pick any model and switch whenever you like. Run models locally or require zero data retention. You’re never tied to one provider’s plans or limits.
+ 0 3
+ Open source, on the desktop
+ Most open-source agents shine in the terminal. Wavefunction is built to be a great desktop app: minimal, considered and fast, and open source down to the prompt.
+ Less is more
+ One agent. A conversation. More room to focus on your code.
+ Other apps : an interface crowded with tabs, sidebars, editor panels, and a terminal.
+ Wavefunction : a simple project sidebar with room for the conversation and composer.
+ Fewer sidebars. Fewer tabs.
+ Simple, clean, minimal interface. The conversation stays at the center.
+ Your browser, always
+ No built-in browser. Links open in your default browser, with the setup you already use.
+ Just a coding agent
+ No dots, bots, built-in apps of all kinds, or a million extra features. Just the tools to get things done.
+ Computer use in a container
+ Your own computer stays under your control. When the agent needs a desktop, it uses its own, in a local Docker container.
+ Optimized for parallel workflows
+ Keep the conversation going. Give it a task, then another, and another. Wavefunction splits the work across subagents, steers them as your plans change, and brings their work together.
+ New project
+ Projects
+ Acme
+ Billing dashboard
+ Billing API
+ Dashboard UI
+ Integration tests
+ Usage chart
+ Update the docs
+ Settings
+ Billing dashboard
+ Build a billing dashboard.
+ Starting three subagents for the API, interface, and tests, each in its own worktree.
+ Also add a usage chart.
+ On it. A fourth subagent takes the chart; the rest keep moving.
+ Use Stripe for the invoices.
+ Passed to Billing API. It’s adjusting without starting over.
+ All four tasks are ready to review.
+ Ask anything, anytime 
+ Replay
+ The conversation keeps flowing
+ Send the next task while the last one runs. Each new piece of work that can run on its own gets a subagent, and nothing waits its turn.
+ Parallel without collisions
+ Every chat starts on its own branch, and subagents that could touch the same files each get a worktree. Wavefunction reviews their changes and brings them together.
+ Steer while it works
+ Change your mind mid-task. Your message reaches the subagent already on it, so it adjusts without starting over.
+ Fork or rewind
+ Start a new chat from any message, or put the code and the conversation back to how they were.
+ Computer use that leaves your Mac alone
+ Other agents take over your mouse, keyboard and screen to get things done. Wavefunction gets a desktop of its own, so you keep working while it clicks. Watch it, or take control at any time.
+ Isolated desktop
+ 10:42
+ billing.example.com/invoices
+ Mar 2026
+ $1,240
+ Feb 2026
+ $1,180
+ Jan 2026
+ $1,215
+ Download report
+ Report-March.pdf
+ Downloads
+ Looking at the screen
+ Take control
+ Your Mac stays yours
+ It never moves your pointer, types on your keyboard or records your screen. Its desktop is a local Docker container with its own browser and files, and a file reaches your Mac only when the agent hands it over, to a folder you allowed.
+ Secure sign-ins
+ When a site needs your login, you sign in privately. The agent pauses and never sees what you type, and the chat stays signed in for next time.
+ Files in and out
+ Downloads come to your Mac in the folder you choose, and files you add are ready to upload.
+ Needs Docker Desktop and a model that can read images.
+ Bring your own model
+ Sign in with ChatGPT, use your own API keys, or run models on your Mac. Pick a model for each chat and switch whenever you like.
+ ChatGPT
+ Sign in with Plus or Pro
+ Anthropic
+ API key
+ Google Gemini
+ API key
+ OpenAI
+ API key
+ OpenRouter
+ API key
+ Vercel AI Gateway
+ API key
+ Ollama
+ On your Mac or your server
+ OpenAI-compatible
+ LM Studio and other servers
+ Secure and private
+ Use local models or require zero data retention from your provider.
+ Local models
+ Your provider
+ ZDR 
+ Open source, down to the prompt
+ Interested in contributing? We welcome new contributors.
+ View on GitHub
+ stoyan-stoyanov
+ /
+ wavefunction
+ Code
+ Issues
+ Pull requests
+ main ▾
+ <>
+ Code ▾
+ wavefunction
+ .agents
+ backend
+ frontend
+ skills
+ src-tauri
+ AGENTS.md
+ LICENSE
+ README.md
+ About
+ MIT license
+ Readme
+ Track every token and every dollar
+ Track token usage, cache usage, and provider-reported costs in one place. See what you use, what you spend, and how it changes over time.
+ Connectors and skills
+ MCP connectors
+ 70+ ready-made connectors, plus any MCP server you add.
+ acme-dashboard/
+ AGENTS.md
+ .agents/skills/
+ release/SKILL.md
+ migrations/SKILL.md
+ src/
+ package.json
+ Skills and instructions
+ It follows your AGENTS.md and loads SKILL.md skills from .agents, .codex and .opencode folders.
+ Frequently asked questions
+ Is Wavefunction free? Yes. Wavefunction is free and open source under the MIT license. You bring your own models or provider account; any model usage charges come from your provider.
+ Which models can I use? Sign in with ChatGPT, use an API key from OpenAI, Anthropic, Google Gemini, OpenRouter or Vercel AI Gateway, or run models locally through Ollama, LM Studio or another OpenAI-compatible server. Choose the model that fits each conversation.
+ How do I keep my work private? Your conversations and settings are stored on your computer. Use a local model to keep model inference local, or configure a provider with zero data retention. The models and connectors you choose determine which services receive your data.
+ How does parallel work happen? Describe what you want in one conversation. Wavefunction can split work across subagents, take follow-up instructions while they run, and bring their work back together. You can keep talking as the work moves forward.
+ Can I use my existing tools and instructions? Yes. Connect your tools through the built-in connector catalogue or add an MCP server. Wavefunction also reads your AGENTS.md instructions and loads SKILL.md skills, so it can work with the setup you already use.
+ Which platforms are supported? Wavefunction is currently available for macOS. Download the app, connect a model, and start a conversation.
+ Try Wavefunction today
+ Free and open source for macOS.
+ Download for macOS
+ View source
+ Wavefunction
+ GitHub
+ MIT License
+ Security
+
+#JSONLD (structured data published on the page, verbatim)
+[{"@context":"https://schema.org","@type":"WebSite","name":"Wavefunction","url":"https://www.wavefunction.si"},{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Wavefunction","description":"A minimal, open-source coding agent for your Mac. Keep talking while it works on several tasks at once, with any model, including local ones.","url":"https://www.wavefunction.si","downloadUrl":"https://www.wavefunction.si/download","applicationCategory":"DeveloperApplication","operatingSystem":"macOS","license":"https://github.com/stoyan-stoyanov/wavefunction/blob/main/LICENSE","sameAs":"https://github.com/stoyan-stoyanov/wavefunction","offers":{"@type":"Offer","price":0,"priceCurrency":"USD"}}]
