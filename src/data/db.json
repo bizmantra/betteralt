@@ -7137,6 +7137,458 @@
    "notes": {
     "summary": "Mac (Apple silicon, macOS 14+) and Windows 10 or 11. Set up while online: 20 minutes to about 2.5 hours depending on model size (the biggest is 80 GB). Library includes Wikipedia, WikiMed, MedlinePlus, CDC, Ready.gov and FEMA manuals."
    }
+  },
+  {
+   "slug": "craft-anything",
+   "name": "Craft Anything",
+   "url": "https://getartcraft.com/apps/craft-anything",
+   "category": "AI app builder",
+   "description": "Open-source desktop app that studies how a website, app or game works, then has a coding agent build your own version and checks it against the original until it is close.",
+   "whoFor": "Builders who want to recreate a site, app or game they admire, with evidence for every finding and approval before anything outside the rules",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT or Apache-2.0); the coding agent you connect is billed by its own provider",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://getartcraft.com/apps/craft-anything",
+    "lastChecked": "2026-11-11",
+    "currency": null,
+    "lastChangedAt": "2026-11-11"
+   },
+   "openSource": {
+    "repo": "https://github.com/storytold/craft-anything",
+    "stars": 26800,
+    "license": "Apache-2.0 or MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-11",
+    "setupDifficulty": null,
+    "licenseNote": "Dual-licensed MIT or Apache-2.0, at your option (README; LICENSE-MIT and LICENSE-APACHE)"
+   },
+   "status": "active",
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "Early alpha, from the ArtCraft family of apps. Clean-room mode (the default) works only from what a visitor can see; Deep mode reads code and files for your private use. 320 tools, each a CLI command and an MCP tool. For macOS, Windows, Linux and web."
+   }
+  },
+  {
+   "slug": "rea-video",
+   "name": "rea-video",
+   "url": "https://www.reavideo.ai",
+   "category": "AI video",
+   "description": "Open-source video breakdown tool: give it any video and it reports, shot by shot, whether it was filmed, AI-generated or coded, with prompts and a remake plan.",
+   "whoFor": "Creators and marketers who want to know how a reference ad or short was made and how to remake it",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (Apache-2.0); runs inside your AI coding agent",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://www.reavideo.ai/",
+    "lastChecked": "2026-11-11",
+    "currency": null,
+    "lastChangedAt": "2026-11-11"
+   },
+   "openSource": {
+    "repo": "https://github.com/JuneYaooo/rea-video",
+    "stars": 6550,
+    "license": "Apache-2.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-11",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "Runs inside Claude Code, Codex or another agent that can run commands; needs ffmpeg and Python 3.10+. Output is a summary, a remake plan split into what to film, generate and code, and an HTML report. An optional video-capable model (Gemini or Doubao) makes the calls more accurate."
+   }
+  },
+  {
+   "slug": "cicada",
+   "name": "Cicada",
+   "url": "https://cicada.indaloop.app/en/",
+   "category": "AI meeting notes",
+   "description": "Free, open-source app for live bilingual subtitles, structured meeting notes and two-way voice interpreting in any call or stream, without a bot joining the meeting.",
+   "whoFor": "People in cross-language calls, livestreams and meetings who want Otter-style notes plus live translation",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (Apache-2.0); on Windows, Linux, Android and Intel Macs you bring an AI service key, billed by that provider",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://cicada.indaloop.app/en/",
+    "lastChecked": "2026-11-11",
+    "currency": null,
+    "lastChangedAt": "2026-11-11"
+   },
+   "openSource": {
+    "repo": "https://github.com/wquguru/cicada",
+    "stars": 2139,
+    "license": "Apache-2.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-10",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "Listens to system audio, so it works with Zoom, Teams, Google Meet, Discord, YouTube and more. On Apple silicon Macs speech recognition runs on device. Mac (macOS 14.4+), Windows 10+, Ubuntu 22.04/24.04 and Android 10+."
+   }
+  },
+  {
+   "slug": "rerun",
+   "name": "Rerun",
+   "url": "https://rerun.build",
+   "category": "AI agent",
+   "description": "Open-source app for AI coworkers: describe the work and it builds a team of agents, each with its own computer, memory and skills, that ask before they send, pay or delete anything.",
+   "whoFor": "Small teams who want an always-on AI assistant team they can self-host on their own models or subscriptions",
+   "tags": [
+    "open source",
+    "freemium",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Self-hosted free (AGPL-3.0); Rerun Cloud: one plan, $29/mo (unlimited coworkers and seats, 500 credits a month) after a 5-day free trial (card required); Enterprise custom",
+    "fromUsdMonthly": 29,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://rerun.build/pricing",
+    "lastChecked": "2026-11-11",
+    "currency": "USD",
+    "lastChangedAt": "2026-11-11",
+    "fromBilling": "monthly"
+   },
+   "openSource": {
+    "repo": "https://github.com/rerun-build/rerun",
+    "stars": 1000,
+    "license": "AGPL-3.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-11",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "Self-hosting needs Docker, Node.js 22 and a Supabase project. Models: an API key, a Claude or ChatGPT subscription, or a local model via Ollama or LM Studio. The Cloud version adds templates, a hosted computer per workspace and premium integrations such as LinkedIn and WhatsApp."
+   }
+  },
+  {
+   "slug": "pinky",
+   "name": "Pinky",
+   "url": "https://github.com/DIYgod/pinky",
+   "category": "AI agent",
+   "description": "Free, open-source desktop app that lets Claude Code, Codex, Cursor or any MCP agent operate your real iPhone or Android phone while you watch, approve risky steps and take over.",
+   "whoFor": "People who want an AI agent to do tasks in phone apps, with payments and messages held for their approval",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (Apache-2.0); no account",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/DIYgod/pinky",
+    "lastChecked": "2026-11-11",
+    "currency": null,
+    "lastChangedAt": "2026-11-11"
+   },
+   "openSource": {
+    "repo": "https://github.com/DIYgod/pinky",
+    "stars": 1734,
+    "license": "Apache-2.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-11",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "Pre-alpha. For macOS, Windows and Linux; drives Android 10 to 17 and iPhones on iOS 17.4+. Banking, wallet and password apps are hidden from agents by default, and approvals are enforced by Pinky, not by the agent. A 16 to 22 MB download."
+   }
+  },
+  {
+   "slug": "poki",
+   "name": "Poki",
+   "url": "https://poki.bot",
+   "category": "AI agent",
+   "description": "Open-source agent and MCP server that operates a real iPhone like a person does, run from Claude Code, Codex, iMessage, Telegram or the terminal.",
+   "whoFor": "iPhone users and developers who want an AI agent to do tasks across iPhone apps without a jailbreak",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (AGPL-3.0); you bring your own model account or use your agent's subscription",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/JosssphZhou/poki",
+    "lastChecked": "2026-11-11",
+    "currency": null,
+    "lastChangedAt": "2026-11-11"
+   },
+   "openSource": {
+    "repo": "https://github.com/JosssphZhou/poki",
+    "stars": 935,
+    "license": "AGPL-3.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-11",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "Needs a Mac (macOS 14+), Node.js 24+, an iPhone on iOS 18+, a USB cable and a free Apple Account (signing lasts 7 days and needs renewal). Windows and Linux ports are community-maintained."
+   }
+  },
+  {
+   "slug": "ember",
+   "name": "Ember",
+   "url": "https://github.com/NYLLON-SOFTWARE/ember-cloudflare",
+   "category": "Collaboration",
+   "description": "Free, open-source team chat with rooms, threads, DMs, files, search and bots that runs on your own Cloudflare account, deployed in one click.",
+   "whoFor": "Small teams who want a Slack-style chat without per-person pricing or a 90-day history limit",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT); runs on your own Cloudflare account, billed at Cloudflare's prices",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/NYLLON-SOFTWARE/ember-cloudflare",
+    "lastChecked": "2026-11-11",
+    "currency": null,
+    "lastChangedAt": "2026-11-11"
+   },
+   "openSource": {
+    "repo": "https://github.com/NYLLON-SOFTWARE/ember-cloudflare",
+    "stars": 715,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-11",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "By its README, Cloudflare hosting is free for a small team, or $5 a month for the whole account on Workers Paid as you grow (not per person). Keeps every message and file (up to 250 MB each). Bots get Slack-compatible incoming webhooks. Optional @ember AI uses Workers AI's free models or Claude, GPT or Gemini through Cloudflare AI Gateway."
+   }
+  },
+  {
+   "slug": "phonon",
+   "name": "Phonon",
+   "url": "https://phonon.sh",
+   "category": "AI voice",
+   "description": "Open-source voice typing for Mac that runs fully on your computer: Parakeet transcribes and a small fine-tuned model cleans up what you meant to say.",
+   "whoFor": "Mac users who want a local Wispr Flow-style dictation app with no cloud step",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (GPL-3.0)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/Infatoshi/phonon",
+    "lastChecked": "2026-11-11",
+    "currency": null,
+    "lastChangedAt": "2026-11-11"
+   },
+   "openSource": {
+    "repo": "https://github.com/Infatoshi/phonon",
+    "stars": 384,
+    "license": "GPL-3.0",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-10",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "Apple silicon, macOS 14+. First launch downloads about 4.9 GB of models; after that it works offline. Claims about 65 ms from key-up to pasted text on an M4 Max. Windows is in beta and Linux a preview."
+   }
+  },
+  {
+   "slug": "gputaskman",
+   "name": "gputaskman",
+   "url": "https://github.com/shanselman/gputaskman",
+   "category": "Local AI",
+   "description": "Free, open-source terminal task manager for your GPU that shows which process uses GPU memory and breaks down a local LLM's weights, KV cache and buffers.",
+   "whoFor": "People running local AI models who want to know what is filling their graphics card's memory",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/shanselman/gputaskman",
+    "lastChecked": "2026-11-11",
+    "currency": null,
+    "lastChangedAt": "2026-11-11"
+   },
+   "openSource": {
+    "repo": "https://github.com/shanselman/gputaskman",
+    "stars": 1710,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-11",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "runsLocally": true,
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "By Scott Hanselman. Windows with NVIDIA or AMD, Linux and WSL, and macOS on Apple silicon; install from PyPI or a portable Windows ZIP. Early and experimental: model breakdowns are estimates."
+   }
+  },
+  {
+   "slug": "cinecode",
+   "name": "cinecode",
+   "url": "https://github.com/sarpstar/cinecode",
+   "category": "AI video",
+   "description": "Free, open-source skill that has Claude Code or Cursor write, build in code and score short films, YouTube videos, ads, explainers and music videos, ending in a finished MP4.",
+   "whoFor": "Creators who want animated videos made by an AI coding agent on their own computer, with no paid video service",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT); an optional narrator uses your own Gemini or ElevenLabs key",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/sarpstar/cinecode",
+    "lastChecked": "2026-11-11",
+    "currency": null,
+    "lastChangedAt": "2026-11-11"
+   },
+   "openSource": {
+    "repo": "https://github.com/sarpstar/cinecode",
+    "stars": 2069,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-03",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "Every frame is rendered from code in headless Chrome. You approve the first two scenes before the whole film is built. README in Turkish with English, Chinese and Japanese versions."
+   }
+  },
+  {
+   "slug": "opencut",
+   "name": "OpenCut",
+   "url": "https://opencut.app",
+   "category": "Video editing",
+   "description": "Free, open-source video editor for the web, desktop and mobile, built as an open alternative to CapCut.",
+   "whoFor": "Creators who want a free CapCut-style editor with no watermark or subscription",
+   "tags": [
+    "free",
+    "open source"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT)",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/OpenCut-app/OpenCut",
+    "lastChecked": "2026-11-11",
+    "currency": null,
+    "lastChangedAt": "2026-11-11"
+   },
+   "openSource": {
+    "repo": "https://github.com/OpenCut-app/OpenCut",
+    "stars": 98049,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-09-24",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "Being rewritten from the ground up (Rust core, plugins, an MCP server for AI agents, headless rendering); opencut.app still runs the classic version, and the rewrite lives at new.opencut.app."
+   }
+  },
+  {
+   "slug": "open-notebook",
+   "name": "Open Notebook",
+   "url": "https://www.open-notebook.ai",
+   "category": "Notes & knowledge",
+   "description": "Open-source, self-hosted alternative to Google NotebookLM: add PDFs, videos, audio and web pages, chat with them, search them and turn them into multi-speaker podcasts.",
+   "whoFor": "Researchers, students and professionals who want NotebookLM-style research notes on the AI model of their choice, kept private",
+   "tags": [
+    "free",
+    "open source",
+    "self-hostable"
+   ],
+   "pricing": {
+    "summary": "Free and open source (MIT), self-hosted; model usage billed by your provider",
+    "fromUsdMonthly": null,
+    "hasFreePlan": true,
+    "verified": true,
+    "sourceUrl": "https://github.com/lfnovo/open-notebook",
+    "lastChecked": "2026-11-11",
+    "currency": null,
+    "lastChangedAt": "2026-11-11"
+   },
+   "openSource": {
+    "repo": "https://github.com/lfnovo/open-notebook",
+    "stars": 41838,
+    "license": "MIT",
+    "licenseType": "open-source",
+    "archived": false,
+    "lastPush": "2026-11-08",
+    "setupDifficulty": null
+   },
+   "status": "active",
+   "firstPublished": "2026-11-11",
+   "contentUpdatedAt": "2026-11-11",
+   "notes": {
+    "summary": "Works with 20+ model providers, including OpenAI, Anthropic, Google, Mistral, Ollama and LM Studio. Podcasts take 1 to 4 speakers. Has a full REST API."
+   }
   }
  ],
  "anchors": [
@@ -7495,10 +7947,11 @@
     "tldv",
     "granola",
     "read-ai",
-    "whisper"
+    "whisper",
+    "cicada"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17",
+   "contentUpdatedAt": "2026-11-11",
    "reviewedBy": "rosh-k"
   },
   {
@@ -7508,10 +7961,11 @@
     "fathom",
     "tldv",
     "granola",
-    "read-ai"
+    "read-ai",
+    "cicada"
    ],
    "firstPublished": "2026-10-17",
-   "contentUpdatedAt": "2026-10-17",
+   "contentUpdatedAt": "2026-11-11",
    "reviewedBy": "rosh-k"
   },
   {
@@ -7628,10 +8082,11 @@
     "gemini",
     "grok",
     "deepseek",
-    "mausbot"
+    "mausbot",
+    "rerun"
    ],
    "firstPublished": "2026-10-18",
-   "contentUpdatedAt": "2026-11-04",
+   "contentUpdatedAt": "2026-11-11",
    "reviewedBy": "rosh-k"
   },
   {
@@ -7893,10 +8348,11 @@
     "filmcraft",
     "kdenlive",
     "descript",
-    "veed"
+    "veed",
+    "opencut"
    ],
    "firstPublished": "2026-10-21",
-   "contentUpdatedAt": "2026-10-21"
+   "contentUpdatedAt": "2026-11-11"
   },
   {
    "slug": "base44",

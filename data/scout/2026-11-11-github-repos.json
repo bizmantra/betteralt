@@ -1,0 +1,98 @@
+[
+ {
+  "archived": false,
+  "created": "2026-10-31T14:50:00Z",
+  "pushed": "2026-11-11T00:29:36Z",
+  "repo": "https://github.com/storytold/craft-anything",
+  "spdx": "Apache-2.0",
+  "stars": 26800
+ },
+ {
+  "archived": false,
+  "created": "2026-10-29T16:15:01Z",
+  "pushed": "2026-11-11T04:09:47Z",
+  "repo": "https://github.com/JuneYaooo/rea-video",
+  "spdx": "Apache-2.0",
+  "stars": 6550
+ },
+ {
+  "archived": false,
+  "created": "2026-11-01T05:41:23Z",
+  "pushed": "2026-11-10T16:34:38Z",
+  "repo": "https://github.com/wquguru/cicada",
+  "spdx": "Apache-2.0",
+  "stars": 2139
+ },
+ {
+  "archived": false,
+  "created": "2026-10-29T16:09:54Z",
+  "pushed": "2026-11-11T01:48:51Z",
+  "repo": "https://github.com/rerun-build/rerun",
+  "spdx": "AGPL-3.0",
+  "stars": 1000
+ },
+ {
+  "archived": false,
+  "created": "2026-11-06T16:53:14Z",
+  "pushed": "2026-11-11T04:20:37Z",
+  "repo": "https://github.com/DIYgod/pinky",
+  "spdx": "Apache-2.0",
+  "stars": 1734
+ },
+ {
+  "archived": false,
+  "created": "2026-11-05T15:04:31Z",
+  "pushed": "2026-11-11T04:21:02Z",
+  "repo": "https://github.com/JosssphZhou/poki",
+  "spdx": "AGPL-3.0",
+  "stars": 935
+ },
+ {
+  "archived": false,
+  "created": "2026-10-12T20:06:17Z",
+  "pushed": "2026-11-11T03:05:07Z",
+  "repo": "https://github.com/NYLLON-SOFTWARE/ember-cloudflare",
+  "spdx": "MIT",
+  "stars": 715
+ },
+ {
+  "archived": false,
+  "created": "2026-07-21T11:57:51Z",
+  "pushed": "2026-11-10T23:51:55Z",
+  "repo": "https://github.com/Infatoshi/phonon",
+  "spdx": "GPL-3.0",
+  "stars": 384
+ },
+ {
+  "archived": false,
+  "created": "2026-11-03T00:49:34Z",
+  "pushed": "2026-11-11T04:40:22Z",
+  "repo": "https://github.com/shanselman/gputaskman",
+  "spdx": "MIT",
+  "stars": 1710
+ },
+ {
+  "archived": false,
+  "created": "2026-11-03T10:08:16Z",
+  "pushed": "2026-11-03T15:21:18Z",
+  "repo": "https://github.com/sarpstar/cinecode",
+  "spdx": "MIT",
+  "stars": 2069
+ },
+ {
+  "archived": false,
+  "created": "2025-06-22T08:02:17Z",
+  "pushed": "2026-09-24T09:24:44Z",
+  "repo": "https://github.com/OpenCut-app/OpenCut",
+  "spdx": "MIT",
+  "stars": 98049
+ },
+ {
+  "archived": false,
+  "created": "2024-10-21T17:58:46Z",
+  "pushed": "2026-11-08T21:47:02Z",
+  "repo": "https://github.com/lfnovo/open-notebook",
+  "spdx": "MIT",
+  "stars": 41838
+ }
+]

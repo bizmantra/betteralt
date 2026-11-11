@@ -1,0 +1,303 @@
+#SNAPSHOT {"url":"https://github.com/OpenCut-app/OpenCut","finalUrl":"https://github.com/OpenCut-app/OpenCut","fetchedAt":"2026-11-11T04:43:10.075Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"d258d2c2c5cbc6ac7b83cc37ea38fd76f8067400855ed5e6c164fce52eca23ec"}
+GitHub - OpenCut-app/OpenCut: The open-source CapCut alternative · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects, and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ OpenCut-app
+ OpenCut
+ Repository navigation
+ Code
+ Issues
+ 289
+  ( 289 )
+ Pull requests
+ 97
+  ( 97 )
+ Only collaborators can create PRs
+ Discussions
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ OpenCut
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 9.8k
+  ( 9.8k
+)
+ Star 98k
+  ( 98k
+)
+ You must be signed in to star a repository
+ About
+ The open-source CapCut alternative
+ opencut.app
+ Topics
+ editor
+ oss
+ videoeditor
+ Resources
+ Readme
+ MIT license
+ Code of conduct
+ Code of conduct
+ Security policy
+ Security policy
+ Activity
+ Custom properties
+ Stars
+ 98.0k stars
+ Watchers
+ 461 watching
+ Forks
+ 9.8k 
+ forks
+ Report repository
+ main
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 1,599 Commits
+ 1,599 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .github
+ .github
+ .moon
+ .moon
+ .vscode
+ .vscode
+ apps
+ apps
+ brand/
+ marks
+ brand/
+ marks
+ changelog
+ changelog
+ crates/
+ media/
+ setup
+ crates/
+ media/
+ setup
+ .env.example
+ .env.example
+ .gitignore
+ .gitignore
+ .prototools
+ .prototools
+ .tokeignore
+ .tokeignore
+ Cargo.lock
+ Cargo.lock
+ Cargo.toml
+ Cargo.toml
+ LICENSE
+ LICENSE
+ README.md
+ README.md
+ bunfig.toml
+ bunfig.toml
+ moon.yml
+ moon.yml
+ View all files
+ Repository files navigation
+ README
+ Code of conduct
+ MIT license
+ Security
+ More items
+ OpenCut
+ A free and open source video editor for web, desktop, and mobile.
+ Status
+ OpenCut is being rewritten from the ground up. What's coming:
+ An Editor API
+ First-class third party plugins (made possible by a plugin-first architecture)
+ Desktop, mobile, and browser from one codebase (Rust core)
+ MCP server (for AI agents)
+ Headless mode (automation, batch rendering)
+ A scripting tab directly in the editor
+ You can still find the previous version at opencut-app/opencut-classic
+, which is the one to reach for today. opencut.app
+ still runs the classic version. The rewrite will live at new.opencut.app
+ until it's ready to take over.
+ Development
+ Install proto
+ if you haven't already:
+ Linux, macOS, WSL: 
+ bash <(
+curl -fsSL https://moonrepo.dev/install/proto.sh )
+ Windows (PowerShell): 
+ irm https: //
+moonrepo.dev /
+install /
+proto.ps1 |
+ iex 
+ If shims fail to run, allow local scripts for your user:
+ Set-ExecutionPolicy
+ -
+Scope CurrentUser RemoteSigned 
+ From the repo root:
+ proto use #
+ installs the tools pinned in .prototools
+ moon run web:dev #
+ localhost:5173
+moon run api:dev #
+ localhost:8787
+moon run desktop:dev #
+ see apps/desktop/README.md
+ Contributing
+ We're not set up to take outside contributions yet while the architecture is being designed. If you want to follow along, ask questions, or just hang out, join the Discord
+ or open an issue
+.
+ Sponsors
+ OpenCut is supported by companies that believe in open source creator tools.
+ fal.ai 
+: Generative image, video, and audio models all in one place.
+ Want your logo here? Reach out at sponsor@opencut.app
+.
+ License
+ MIT
+ About
+ The open-source CapCut alternative
+ opencut.app
+ Topics
+ editor
+ oss
+ videoeditor
+ Resources
+ Readme
+ MIT license
+ Code of conduct
+ Code of conduct
+ Security policy
+ Security policy
+ Activity
+ Custom properties
+ Stars
+ 98.0k stars
+ Watchers
+ 461 watching
+ Forks
+ 9.8k 
+ forks
+ Report repository
+ Releases
+ Packages
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

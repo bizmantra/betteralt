@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T04:11:16.892Z",
+ "generatedAt": "2026-11-11T04:44:55.129Z",
  "maxAgeDays": 14,
- "linkCheck": "227 links checked, 0 dead",
+ "linkCheck": "239 links checked, 0 dead",
  "tools": {
   "chatgpt": {
    "verified": true,
@@ -1079,6 +1079,66 @@
    "verified": true,
    "checkedAt": "2026-11-09",
    "snapshot": "data/snapshots/survival-llm/2026-11-09.txt"
+  },
+  "craft-anything": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/craft-anything/2026-11-11.txt"
+  },
+  "rea-video": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/rea-video/2026-11-11.txt"
+  },
+  "cicada": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/cicada/2026-11-11.txt"
+  },
+  "rerun": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/rerun/2026-11-11.txt"
+  },
+  "pinky": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/pinky/2026-11-11.txt"
+  },
+  "poki": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/poki/2026-11-11.txt"
+  },
+  "ember": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/ember/2026-11-11.txt"
+  },
+  "phonon": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/phonon/2026-11-11.txt"
+  },
+  "gputaskman": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/gputaskman/2026-11-11.txt"
+  },
+  "cinecode": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/cinecode/2026-11-11.txt"
+  },
+  "opencut": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/opencut/2026-11-11.txt"
+  },
+  "open-notebook": {
+   "verified": true,
+   "checkedAt": "2026-11-11",
+   "snapshot": "data/snapshots/open-notebook/2026-11-11.txt"
   }
  },
  "dead": [],

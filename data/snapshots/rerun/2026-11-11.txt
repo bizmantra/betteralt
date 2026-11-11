@@ -1,0 +1,311 @@
+#SNAPSHOT {"url":"https://rerun.build/pricing","finalUrl":"https://rerun.build/pricing","fetchedAt":"2026-11-11T04:43:08.547Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"6e59d8eb6b8cbb5172f65fb72fc5e057da9dd8fa0c2facdb32c5163c726f1a47"}
+Pricing | Rerun 
+ Rerun is now open source under AGPL-3.0
+ Star us on GitHub 
+ Rerun
+ Features
+ Use cases
+ Industries
+ Templates
+ Pricing
+ Community
+ Resources
+ Star
+ Start trial for $0
+ Pricing
+ One plan. Everything included.
+ Try Rerun free for 5 days. Then pick how many Coworkers you need, and invite your whole team.
+ Monthly
+ Yearly 
+-20%
+ Free trial
+ Put your first Coworkers to work and see what they can do.
+ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:1}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) 0}.symbol{white-space:pre} $
+ 0
+ :where(number-flow-react){line-height:1}number-flow-react > span{font-kerning:none;display:inline-block;padding:calc(round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) * 2) 0} $0
+ A card starts the trial and nothing is charged for 5 days. Cancel before and you pay nothing.
+Start your 5-day free trial
+ Free trial includes
+ Up to 3 Coworkers
+ to hand off your first tasks
+ Unlimited seats
+ to try it with your team
+ 350 credits free
+ to try it out
+ The same smart models
+ as Pro
+ Your data stays in a private, secured workspace
+ 3,000+ apps & MCPs
+ your Coworkers can work in
+ Connect your own AI subscription
+ or API key
+ Pro
+ For teams that put Coworkers to work every day.
+ :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:1}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) 0}.symbol{white-space:pre} $
+ 2
+ 9
+ :where(number-flow-react){line-height:1}number-flow-react > span{font-kerning:none;display:inline-block;padding:calc(round(nearest, calc(var(--number-flow-mask-height, 0.25em) / 2), 1px) * 2) 0} $29
+ /month
+ Get started
+ Everything in Free trial, plus
+ Unlimited Coworkers
+ working for you, side by side
+ Unlimited seats
+, no per-user fees
+ Manage your Coworkers with your whole team
+ 500 credits on us
+, every month
+ · Top up anytime
+ Smart models
+ for your hardest tasks
+ Put your business on Autopilot
+ Add-ons
+ LinkedIn
+ +$9
+/month
+ Full access to your account, just like you.
+ WhatsApp
+ +$9
+/month
+ Full access to your account, just like you.
+ Enterprise
+ For large organizations with their own requirements
+Everything in Rerun
+ Custom infrastructure
+Dedicated support
+SSO
+SLA
+ Contact sales
+ Custom pricing, tailored to your organization
+ Add-ons
+ Grow one piece at a time.
+ Add-ons are quantities on the plan you already have, not another tier. Take one when you need it, drop it when you do not.
+ Rerun credits +1,000 credits/mo
+ More credits for the models we host, on top of the plan.
+ $10 /month
+ Comparison
+ Why people switch to Rerun.
+ Claude takes on the tasks you hand it, on Claude models. Rerun runs your recurring work with a team of agents, on any model, your Claude plan included.
+ Compare Rerun with
+ Claude Cowork 
+ Ease of use
+ You brief each task and its schedule yourself.
+ Install an agent for each job, and it runs on its own from day one.
+ Get the job done
+ A task that needs a folder or an app on your computer only runs while it is on.
+ Keeps working when you’re away: Autopilot answers your agents within your rules.
+ Agent teamwork
+ One assistant takes on every task.
+ A team of specialists that talk to each other, with each task routed to the right one.
+ Collaboration
+ Each teammate works with their own Claude, from $20 a seat.
+ Invite your whole team at no extra cost: everyone sees the agents at work and can answer them.
+ Business
+ A general assistant for everything, from code to slide decks.
+ Built for business: 110+ agents for sales, inbox, invoices and reporting, and experts to build yours.
+ Flexibility
+ Claude models only.
+ Any model per agent, your Claude plan included.
+ Pricing
+ A plan per person: $20 on Pro, $25 a seat on Team, each with usage limits.
+ $29 a month for unlimited agents and a secured machine, and they can run on your Claude plan.
+ Claude Cowork vs Rerun, compared on ease of use, get the job done, agent teamwork, collaboration, business, flexibility, pricing 
+ Claude Cowork
+ Claude’s agent for tasks, now built into Claude
+ Rerun
+ Your AI team
+ Ease of use
+ You brief each task and its schedule yourself.
+ Install an agent for each job, and it runs on its own from day one.
+ Get the job done
+ A task that needs a folder or an app on your computer only runs while it is on.
+ Keeps working when you’re away: Autopilot answers your agents within your rules.
+ Agent teamwork
+ One assistant takes on every task.
+ A team of specialists that talk to each other, with each task routed to the right one.
+ Collaboration
+ Each teammate works with their own Claude, from $20 a seat.
+ Invite your whole team at no extra cost: everyone sees the agents at work and can answer them.
+ Business
+ A general assistant for everything, from code to slide decks.
+ Built for business: 110+ agents for sales, inbox, invoices and reporting, and experts to build yours.
+ Flexibility
+ Claude models only.
+ Any model per agent, your Claude plan included.
+ Pricing
+ A plan per person: $20 on Pro, $25 a seat on Team, each with usage limits.
+ $29 a month for unlimited agents and a secured machine, and they can run on your Claude plan.
+ Read the full Rerun vs Claude Cowork comparison 
+ Also compared
+ Rerun vs Manus
+ Rerun vs Grok Bot
+ Rerun vs Paperclip
+ Rerun vs Hermes Agent
+ Rerun vs OpenClaw
+ Rerun vs Zapier
+ Rerun vs Make
+ Rerun vs n8n
+ Rerun vs Lindy
+ Rerun vs Twin
+ Rerun vs Dust
+ Rerun vs Squad
+ Customers
+ Their 
+Coworkers
+ are already at work.
+ Real workspaces, in their own words.
+ Lucas Gonzalez
+ Founder at Vizion
+ Every page is reviewed three times before it reaches me. What I read is already clean. 
+ Numa Gonzalez
+ Founder at Passrel
+ 235 leads in two days, all scored. I set it up once in July and it has been running since. 
+ Jérôme Knops
+ Co-Founder at Edenio
+ I run my clients’ automations from one workspace now. Mine too: 17 LinkedIn posts a week and an article a day. 
+ Preslyn Muzola
+ Founder at LeadsField
+ We went from zero to 71 audited leads in a day. Honestly, the auditor agent is stricter than I am. 
+ Lucas Gonzalez
+ Founder at Vizion
+ Every page is reviewed three times before it reaches me. What I read is already clean. 
+ Lucas Gonzalez
+ Founder at Vizion
+ Every page is reviewed three times before it reaches me. What I read is already clean. 
+ Numa Gonzalez
+ Founder at Passrel
+ 235 leads in two days, all scored. I set it up once in July and it has been running since. 
+ Jérôme Knops
+ Co-Founder at Edenio
+ I run my clients’ automations from one workspace now. Mine too: 17 LinkedIn posts a week and an article a day. 
+ Preslyn Muzola
+ Founder at LeadsField
+ We went from zero to 71 audited leads in a day. Honestly, the auditor agent is stricter than I am. 
+ Lucas Gonzalez
+ Founder at Vizion
+ Every page is reviewed three times before it reaches me. What I read is already clean. 
+ Jérôme Knops
+ Co-Founder at Edenio
+ I run my clients’ automations from one workspace now. Mine too: 17 LinkedIn posts a week and an article a day. 
+ Preslyn Muzola
+ Founder at LeadsField
+ We went from zero to 71 audited leads in a day. Honestly, the auditor agent is stricter than I am. 
+ Lucas Gonzalez
+ Founder at Vizion
+ Every page is reviewed three times before it reaches me. What I read is already clean. 
+ Numa Gonzalez
+ Founder at Passrel
+ 235 leads in two days, all scored. I set it up once in July and it has been running since. 
+ Pricing FAQ
+ Questions about the bill.
+ What do I get for the base plan? Unlimited Coworkers, your own private machine in the cloud, unlimited seats and 500 credits every month, plus every app, every template and unlimited runs. There is no feature locked behind a higher tier.
+ Is there a free trial? Yes, 5 days with 3 coworkers and 350 credits. A card is required, $0 is charged today, and the plan starts on day 5. You build your first team, watch it work and decide afterwards. Cancel before the trial ends and nothing is charged.
+ Do you charge per task or per run? No. Your Coworkers can run every hour of every day for the same flat price, however many you build. Executions are never counted.
+ Can I use my own AI subscription or API keys? Yes. Plug in your Claude or ChatGPT subscription, your own API keys, or a local model, and the models cost you nothing on our side. The included credits are there for when you would rather not.
+ Where do my Coworkers actually run? On your own private computer in the cloud, one per workspace, where your Coworkers live and your data stays. Inside it you arrange them in Boxes, by team, by client or by project, as many as you like.
+ How do add-ons work? They are quantities on your existing subscription, not another plan. Add credits whenever you need them, and remove them the same way.
+ What happens when I remove an add-on? You keep what you paid for until the end of the billing period, and the smaller amount applies from the next invoice. Nothing is cut off mid-month.
+ Can I cancel anytime? Yes, in one click from your billing settings, with no notice period and nobody to email. Our refund policy spells out the rest.
+ Are taxes included in the price? Prices are shown excluding tax. VAT or sales tax, when it applies to your country, is calculated and added at checkout.
+ Do you offer Enterprise pricing? Yes. Dedicated or self-hosted infrastructure, SSO, an SLA and dedicated support, priced for your organization. Talk to us at help@rerun.build.
+2,000+ businesses run on Rerun
+ Hire Coworkers on the 
+ ChatGPT
+ Claude
+ ChatGPT
+ ChatGPT
+ plan you already pay for.
+1. Plug in your subscription 
+2. Set up your Coworkers
+3. Run your business with Coworkers
+ Start now for free
+ Start now for free
+ Rerun
+ Rerun
+ Rerun
+ Run your work on coworkers. Build them, watch them work, and keep your eyes on everything.
+ Star
+ Features
+ Coworkers
+ Coworker manager
+ Computer use
+ 3,000+ tools included
+ Human in the loop
+ Runs 24/7, in Europe
+ Second brain
+ Workspaces
+ Invite your whole team
+ Coworkers work together
+ Industries
+ Agency
+ Freelance
+ E-commerce
+ Real estate
+ Startup
+ SaaS
+ Legal & compliance
+ Recruiting & HR
+ Solutions
+ Agencies
+ E-commerce
+ SaaS
+ Sales
+ Recruiting
+ Real estate
+ Legal & compliance
+ Creators
+ Productivity
+ Other
+ Compare
+ Rerun vs Claude Cowork
+ Rerun vs Manus
+ Rerun vs Grok Bot
+ Rerun vs Paperclip
+ Rerun vs Hermes Agent
+ Rerun vs OpenClaw
+ Rerun vs Zapier
+ Rerun vs Make
+ Rerun vs n8n
+ Rerun vs Lindy
+ Rerun vs Twin
+ Rerun vs Dust
+ Rerun vs Squad
+ Guides
+ AI employees
+ AI agents for small business
+ AI employee cost
+ No-code AI agent builders
+ n8n alternatives
+ Personal AI agents
+ Hermes alternatives
+ Resources
+ Docs
+ GitHub
+ Pricing
+ Support
+ Templates
+ Compare
+ Blog
+ Find an expert
+ Become an expert
+ What&#x27;s new
+ Brand kit
+ Community
+ Affiliate Program
+ Partner badge
+ Legal
+ Terms of Service
+ Refund Policy
+ Acceptable Use
+ Creator Terms
+ Privacy Policy
+ Cookie Policy
+ DPA
+ Cookie settings
+ © 2026 Rerun by Reunit SA. All rights reserved.
+ English
+ Français
+ Español
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"SoftwareApplication","@id":"https://rerun.build/pricing#plan","name":"Rerun","description":"One Rerun plan from $29 a month: unlimited agents, unlimited seats, your own private machine, every app and unlimited runs. Free 5-day trial.","url":"https://rerun.build/pricing","image":"https://app.rerun.build/og/brand/pricing","applicationCategory":"BusinessApplication","operatingSystem":"Web","offers":{"@type":"Offer","priceCurrency":"USD","url":"https://rerun.build/pricing","availability":"https://schema.org/InStock","priceSpecification":{"@type":"UnitPriceSpecification","price":"29.00","priceCurrency":"USD","billingDuration":1,"billingIncrement":1,"unitCode":"MON","referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitCode":"MON"}}},"publisher":{"@type":"Organization","@id":"https://rerun.build#organization","name":"Rerun","legalName":"Reunit SA","alternateName":["Rerun AI","rerun.build"],"url":"https://rerun.build","logo":{"@type":"ImageObject","url":"https://rerun.build/logo.png","width":512,"height":512},"sameAs":["https://x.com/rerun_build","https://www.linkedin.com/company/rerunai","https://discord.gg/cJUUgdTg5p","https://www.producthunt.com/products/rerun-2"]}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://rerun.build"},{"@type":"ListItem","position":2,"name":"Pricing","item":"https://rerun.build/pricing"}]},{"@type":"FAQPage","@id":"https://rerun.build/pricing#faq","mainEntity":[{"@type":"Question","name":"What do I get for the base plan?","acceptedAnswer":{"@type":"Answer","text":"Unlimited Coworkers, your own private machine in the cloud, unlimited seats and 500 credits every month, plus every app, every template and unlimited runs. There is no feature locked behind a higher tier."}},{"@type":"Question","name":"Is there a free trial?","acceptedAnswer":{"@type":"Answer","text":"Yes, 5 days with 3 coworkers and 350 credits. A card is required, $0 is charged today, and the plan starts on day 5. You build your first team, watch it work and decide afterwards. Cancel before the trial ends and nothing is charged."}},{"@type":"Question","name":"Do you charge per task or per run?","acceptedAnswer":{"@type":"Answer","text":"No. Your Coworkers can run every hour of every day for the same flat price, however many you build. Executions are never counted."}},{"@type":"Question","name":"Can I use my own AI subscription or API keys?","acceptedAnswer":{"@type":"Answer","text":"Yes. Plug in your Claude or ChatGPT subscription, your own API keys, or a local model, and the models cost you nothing on our side. The included credits are there for when you would rather not."}},{"@type":"Question","name":"Where do my Coworkers actually run?","acceptedAnswer":{"@type":"Answer","text":"On your own private computer in the cloud, one per workspace, where your Coworkers live and your data stays. Inside it you arrange them in Boxes, by team, by client or by project, as many as you like."}},{"@type":"Question","name":"How do add-ons work?","acceptedAnswer":{"@type":"Answer","text":"They are quantities on your existing subscription, not another plan. Add credits whenever you need them, and remove them the same way."}},{"@type":"Question","name":"What happens when I remove an add-on?","acceptedAnswer":{"@type":"Answer","text":"You keep what you paid for until the end of the billing period, and the smaller amount applies from the next invoice. Nothing is cut off mid-month."}},{"@type":"Question","name":"Can I cancel anytime?","acceptedAnswer":{"@type":"Answer","text":"Yes, in one click from your billing settings, with no notice period and nobody to email. Our refund policy spells out the rest."}},{"@type":"Question","name":"Are taxes included in the price?","acceptedAnswer":{"@type":"Answer","text":"Prices are shown excluding tax. VAT or sales tax, when it applies to your country, is calculated and added at checkout."}},{"@type":"Question","name":"Do you offer Enterprise pricing?","acceptedAnswer":{"@type":"Answer","text":"Yes. Dedicated or self-hosted infrastructure, SSO, an SLA and dedicated support, priced for your organization. Talk to us at help@rerun.build."}}]}]}

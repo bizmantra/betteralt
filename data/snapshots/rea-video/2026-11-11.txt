@@ -1,0 +1,122 @@
+#SNAPSHOT {"url":"https://www.reavideo.ai/","finalUrl":"https://reavideo.ai/en/","fetchedAt":"2026-11-11T04:43:09.058Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"163ef9c06c3b63dabff98115b6ada812eefd30edd3a974695e849f5f246e6ab0"}
+AI Video Analyzer & Video to Prompt · rea-video 
+ Skip to content
+ reavideo.ai is the only official rea-video website. Third-party paid services do not represent us.
+ Read notice ↗
+ rea-video .
+ Video Breakdown Assistant 
+ Examples
+ Guides
+ Docs
+ Work with us
+ GitHub
+ Discord
+ 中文
+ Get started
+ AI video analyzer for creators
+ Turn reference videos into prompts and a shot list.
+ Analyze shots, captions, sound and effects with AI. Get a scene-by-scene breakdown, AI video prompts and practical steps to plan your own production.
+ View an example 
+ Install for free
+ Open source. Runs inside your AI coding assistant.
+ Live / Unboxing
+ AI / Music video
+ Mixed / Dialogue
+ 3D / Explainer
+ Hybrid / Product ad
+ Live / Unboxing
+ AI / Music video
+ Mixed / Dialogue
+ 3D / Explainer
+ Hybrid / Product ad
+ Live / Unboxing
+ AI / Music video
+ Mixed / Dialogue
+ 3D / Explainer
+ Hybrid / Product ad
+ Real references. Shot-by-shot insight.
+ Use with an AI coding assistant
+ Claude Code Codex Open source · Local workflow
+ reavideo.ai is the official site of the open-source rea-video project
+ One reference video. A plan you can follow.
+ Explore a real product-video breakdown alongside this explanation. See what to film, what to generate, and which captions and sounds to add separately.
+ 01
+ A shot list What to film · How to frame it
+ 02
+ What you need Footage · Captions · Sound
+ 03
+ Steps to follow Assets · Prompts · Steps
+ Explore the full workflow
+ PRODUCT PROMO / REPORT EXCERPT
+ 70 s / 12 shots
+ 00:00–00:08.87
+ #01
+Code-rendered
+ #08
+Still-image motion
+ #10
+Screen recording
+ Code-rendered Rebuild the interface and motion in code. The clip inside the player still needs source footage.
+ Explore the full breakdown ↗
+ What would you like to make?
+ All examples ↗
+ Code + screen recording
+ 70 s · 12 shots
+ Make a product video
+ A single code project can rebuild most of this promo. The embedded recordings still need real source material.
+ Mixed media
+ 19 s · 10 shots
+ Create a character dialogue
+ AI dialogue, code-built UI and a real screen recording share one timeline.
+ Live footage
+ 72 s · 29 shots
+ Film an unboxing
+ An overhead setup and room sound do the work. Review matters when platform compression obscures the evidence.
+ From reference video to prompts and a shot list
+ Video to prompt: turn reference shots into AI prompts
+ Video to storyboard: build a timed shot list
+ How to reverse engineer a video
+ AI video analyzer: what it reads in a finished video
+ Free shot list template download
+ Turn “how?” into a plan.
+ Bring a reference
+ Follow the setup guide, then give a local reference video to an AI coding assistant such as Claude Code or Codex.
+ Review the breakdown
+ Inspect each shot, text layer and audio cue, with evidence and uncertainty kept visible.
+ Leave with a plan
+ Get a material list and a route for every shot: film it, generate it, or build it in code.
+ New here? Start with the basics.
+ You do not need the technical vocabulary to explore a breakdown.
+ Read a complete example ↗
+ Do I need editing experience? Start with the example frames, shot list, and steps. They explain the approach; making your own video may still require learning filming or editing tools.
+ Does it create the finished video? Not currently. rea-video analyzes a reference and provides a production plan. You use filming, generation, and editing tools to make the final video.
+ What do I need? Can I upload here? You need a local video file and an AI assistant that can run command-line tools. This website offers examples and guides, not browser uploads. The docs explain setup.
+ Is it free? The rea-video core is open source and free to obtain. Your AI assistant or model provider may charge separately, depending on the service you choose.
+ Will it recover the exact original method? No guarantee. It infers techniques from visible evidence and flags uncertainty. The plan is not the creator’s original project file or prompt.
+ Start with the video you saved.
+ Explore an example first, or follow the docs to set it up in your AI coding assistant.
+ Follow the setup guide ↗
+ From reference to production plan.
+ Open-source core · Runs in your agent / CLI
+ GitHub
+ Discord
+ X
+ Email
+ Features
+ Templates
+ Work with us
+ About
+ Privacy
+ Terms
+ r
+ e
+ a
+ -
+ v
+ i
+ d
+ e
+ o
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://reavideo.ai/#website","url":"https://reavideo.ai/","name":"rea-video","alternateName":"ReaVideo","inLanguage":["en","zh-Hans"]},{"@type":"Organization","@id":"https://reavideo.ai/#org","name":"rea-video","url":"https://reavideo.ai/","logo":"https://reavideo.ai/favicon.svg","sameAs":["https://github.com/JuneYaooo/rea-video","https://x.com/yao_june12106","https://discord.gg/dZj8D3GqWT"]},{"@type":"WebPage","@id":"https://reavideo.ai/en/#webpage","url":"https://reavideo.ai/en/","name":"AI Video Analyzer & Video to Prompt","description":"Analyze reference videos with rea-video. Get shot-by-shot breakdowns, AI video prompts and a shot list with this open-source tool for AI coding assistants.","inLanguage":"en","isPartOf":{"@id":"https://reavideo.ai/#website"}},{"@type":"SoftwareApplication","name":"rea-video","url":"https://reavideo.ai/","applicationCategory":"MultimediaApplication","operatingSystem":"Windows, macOS, Linux (CLI)","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]}

@@ -1,0 +1,237 @@
+#SNAPSHOT {"url":"https://cicada.indaloop.app/en/","finalUrl":"https://cicada.indaloop.app/en/","fetchedAt":"2026-11-11T04:43:06.870Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"6925c2679865c294287bd58ea06c72166c4b6884f578dd0aa88c5c7c51130f7b"}
+Cicada: live subtitles, interpreting and meeting notes for any call or stream | Free for Mac, Windows, Linux and Android 
+ Cicada 
+ What it does
+ Get started
+ Download
+ FAQ
+ GitHub
+ English
+ Site language 
+简体中文
+English
+日本語
+한국어
+ Download free
+ Get started
+ Download
+Free and open source · Mac · Windows · Linux · Android
+ Cicada listens, speaks and remembers for you
+ Any call, any stream,
+no language barrier.
+ Understand. Speak up. Remember.
+ Download for Mac
+ Get started in three steps
+ Also for Windows
+ · Linux
+ · Android
+ · All downloads
+ Version 1.8.0 · What’s new
+ · View source
+ By @wquguru
+ · Source code and builds are public on GitHub
+ The iPhone app is on its way
+ Cicada runs on Mac, Windows and Linux computers and on Android phones. Send this page to your computer to download it for free.
+ Send to my computer
+ Runs on this phone
+ Translated subtitles for videos and streams, live notes, face-to-face interpreting, and importing recordings or videos. Needs Android 10 or later and an AI service such as Ling or OpenRouter.
+ Download for Android
+ Launch sync · 中文
+ Listen · 0:08
+ LIVE
+ L Lin
+ C Chen
+好，发布现在进展到哪了？
+ Okay, so where are we on the launch?
+嗯，我觉得三月三号能上线，只要设计周五之前确认。
+ I think we can ship March 3, if design signs off by Friday.
+好，那就这么定了。
+ Great, let’s lock that in.
+ Live notes Updating
+ Why move to March 3? Fishbone
+ Design Home page still in review
+ Payments Times out in sandbox
+ iOS tests 40% still to run
+ JP copy Not proofread yet
+ Click a branch to hear what was said
+ Decision Ship on March 3
+ To-do Design signs off by Fri Chen
+ Hold right ⌥ : speak English, they hear Chinese
+ Works with all of these—if your computer can play the sound, Cicada works with it
+ Tencent Meeting
+ Lark
+ DingTalk
+ WeCom
+ Zoom
+ Microsoft Teams
+ Google Meet
+ Webex
+ X Spaces
+ Discord
+ Telegram
+ YouTube Live
+ Twitch
+ Bilibili Live
+ Podcasts
+ Tencent Meeting
+ Lark
+ DingTalk
+ WeCom
+ Zoom
+ Microsoft Teams
+ Google Meet
+ Webex
+ X Spaces
+ Discord
+ Telegram
+ YouTube Live
+ Twitch
+ Bilibili Live
+ Podcasts
+ Teams and Meet have captions?
+ Only inside their own apps.
+ X Spaces, YouTube Live, Discord and podcasts don’t. Cicada listens to everything your computer plays, or to an in-person meeting room through your microphone: no bot joins the call, and nobody else installs anything.
+ Where it works
+ Built-in Only in that app’s own meetings
+ Cicada Any app, any web page, any stream, and in-person meeting rooms
+ Who has to agree
+ Built-in The host turns it on, often on a paid plan
+ Cicada You turn it on yourself; nobody else is affected
+ Can you speak up
+ Built-in Mostly captions only
+ Cicada Hold right ⌥ and speak; they hear their language
+ 01 · Live subtitles Understand
+ What others say turns into subtitles in your language as they speak. It works out which language they’re speaking. On the Mac, speech recognition runs entirely on your computer. On the Mac, Windows and Linux, Cicada can also listen to the meeting room, or to the room and the call together (macOS 26 on the Mac), marking each line In room or Online.
+ 02 · Interpreting Speak up
+ Hold right ⌥ (right Ctrl on Windows) and talk. When you let go, it’s translated into their language and spoken through a virtual microphone. Works in any app you can speak in.
+ See how it speaks for you ↓
+ 03 · Meeting notes Remember
+ Notes written while the meeting runs: key points, decisions and to-dos, with speakers separated by voice. Afterwards you keep a bilingual record, or import a recording or video to generate notes, exportable to Markdown, Word and SRT. Misheard names and terms are fixed as you go, and the spellings you use live in a word list for next time.
+ See what the meeting leaves behind ↓
+ Subtitles work everywhere; interpreting needs a place where you can speak, like a call or a Space. On the Mac, AI notes use a key from an AI service—Ling, OpenRouter, ZenMux, OpenAI or any compatible service; the Windows, Linux and Android apps also hand listening to that service, so they need one. Your own models work too: translation, voice and recognition can each use a different machine, and LAN addresses need no key. Ling gives ¥10 of free credit every month. Get started in three steps →
+ 02 · Interpreting You speak English, the room hears Chinese
+ Hold right ⌥ and talk. Let go and it’s translated and spoken into the meeting through a virtual mic. Nobody else installs anything.
+ Launch sync · 中文
+ Mic: BlackHole 2ch
+ L Lin
+ C Chen
+ You 
+ Listening to you… Translating Cicada is speaking for you 
+ I’ll send the final draft to design today.
+ 我今天就把终稿发给设计。
+ Hold to talk
+ right ⌥ 
+ You say
+I’ll send the final draft to design today.
+ Let go, it translates
+ 我今天就把终稿发给设计。 
+ Into the meeting
+Routed through the BlackHole 2ch virtual microphone, so everyone on Zoom, Teams, Tencent Meeting, or Lark can hear it.
+ Listen
+ 03 · Meeting notes After the meeting, a record you can go back to
+ Conclusions come first, reasons become a fishbone, and every line traces back to what was actually said.
+ 12 min · 中文 → English
+ Launch sync
+ Markdown
+ Word
+ SRT
+ Decision 
+ 1 Ship on March 3 if design signs off on the final draft by Friday
+ 2 Payment callback timeout fixed this week, Lin owns it
+ Why move to March 3? Fishbone
+ Design Home page still in review
+ Payments Times out in sandbox
+ iOS tests 40% still to run
+ JP copy Not proofread yet
+ Original 
+ 00:03
+ 嗯，我觉得三月三号能上线，只要设计周五之前确认。
+I think we can ship March 3, if design signs off by Friday.
+ 02:10
+ 支付回调在沙箱里还是会超时。
+The payment callback still times out in sandbox.
+ 04:10
+ 我来，这周修好。
+I’ll take it, it’ll be done this week.
+ Point at anything on the left to see the line it came from
+ Privacy and permissions
+ What each permission is for →
+ On your Mac On the Mac, audio becomes text on your computer
+ Recordings and meeting records stay on your own device. On the Mac, the only things sent out are the recognized text (for translation and notes) and, when you use interpreting, the few sentences you speak while holding the key; if you hand speech recognition to your own server, the meeting audio goes to that machine. The Windows, Linux and Android apps send what is said in short pieces to the AI service you chose.
+ Permissions Asked only when needed, optional where possible
+ On the Mac, system audio is for subtitles; the microphone records only while you hold the talk key or when “Listen to › Room” is selected; Input Monitoring only watches the right ⌥ (not needed with a key combination). On Mac, Windows and Android the notes window stays hidden when you share your screen.
+ Open No tracking, open source
+ It only connects to the translation service, the AI service you configure, the official download of the virtual microphone and GitHub. No analytics and no servers of our own. Installers can be checked against their SHA-256.
+ Roadmap
+ In order, and subject to change
+ Tell us what you need →
+ Next · Mac Record what I say What you say out loud in the meeting goes into the notes too
+ Proper signing and notarization Older Macs No more “Open Anyway” on first launch
+ Voice recognition Know people you meet often from one meeting to the next; voiceprints stay on your Mac
+ Notes without a key Written by an on-device model, or any AI service you choose
+ Later Android in the app stores No more installing the APK from a browser
+ iPhone Listening to the room, face-to-face interpreting and meeting records
+ Not planned 
+ FAQ 
+ Before you download
+ Didn’t find your question? Ask us on GitHub.
+ Requirements
+ Mac macOS 14.4+, Apple silicon / Intel 
+ Windows Windows 10 (2004)+, x64 / ARM64 
+ Linux Ubuntu 22.04 / 24.04 desktop 
+ Android Android 10+ 
+ On a Mac, Apple menu › About This Mac shows your system version and chip.
+ Ask a question →
+ Will it run on my Mac? You need macOS 14.4 or later. Intel Macs have no on-device speech model, so Ling&#x27;s Ming hears the meeting and a Ling key is required; the rest is about Apple silicon. macOS 26 uses the newer on-device speech recognizer, the most accurate; 14.4 to 15 use the system&#x27;s earlier one, a little weaker, which needs Dictation turned on in System Settings › Keyboard, with each language you want heard added to it.
+ What about Windows, Linux and phones? Windows 10 (2004) or later, the Ubuntu 22.04 / 24.04 desktop and Android 10 or later are all supported, with the same meeting records as the Mac. These apps also hand listening to the AI service, so they need Ling, OpenRouter, ZenMux or your own server; Windows and Linux can listen to the room too. On Linux the notes window shows up in screen sharing; on Android, interpreting is face to face through the speaker. The iPhone app is on its way.
+ Does it work with Teams, DingTalk, or Google Meet? If your computer can play the audio, Cicada supports it. That includes Tencent Meeting, Lark, DingTalk, WeCom, Zoom, Teams, Google Meet, Webex, Discord, and Telegram—plus browser-based meetings, livestreams, and podcasts. For live interpretation, set the microphone in your meeting app or browser to the virtual microphone (BlackHole 2ch on Mac, VB-Cable on Windows, or Cicada Microphone on Linux). On Android, the system blocks recording audio from meeting and call apps, so you need to put the call on speaker and select In person in Cicada. Regular videos and livestreams on your phone work directly.
+ Does it cost anything? Cicada is free and open source. On the Mac, live subtitles, translation and meeting records work without a key; AI notes and natural voices use your own Ling key, about ¥0.15–1 per hour of meeting. The Windows, Linux and Android apps need an AI service. Ling gives ¥10 of credit every month.
+ Will the other side know? No bot joins the call, and nobody else installs anything. When you share your screen on Mac, Windows or Android, the notes window stays out of the picture by default.
+ Is meeting audio uploaded? On the Mac, audio turns into text on your computer; only the recognized text leaves it, plus the few sentences you say while holding the talk key for interpreting. If you set Settings › AI Service › Speech recognition to Your service, the meeting audio goes to that machine. The Windows, Linux and Android apps send what is said in short pieces to the AI service you chose. Recordings stay on your own device.
+ Which languages does it support? On the Mac, any language its on-device speech recognition supports is detected; on the other platforms the AI service you chose recognizes it. Translations go into your system language by default. Natural interpreting voices cover English, Chinese, Japanese, Korean, German, French and Spanish.
+ Is what I say out loud recorded? For now, only what you say while holding the talk key. “Record what I say” is first on the roadmap.
+ Blocked on first launch? Cicada isn’t notarized by Apple or code-signed for Windows yet. On a Mac, go to System Settings › Privacy & Security and click “Open Anyway”; on Windows, click “More info › Run anyway”. Only once. Proper signing is on the roadmap.
+ What else does interpreting need? On the Mac, a virtual microphone, BlackHole: the first time you turn on interpreting, Cicada downloads it from the official source and installs it. On Windows, the free VB-Cable, which the guide helps you install. On Linux nothing: Cicada makes its own “Cicada Microphone”.
+ In your next meeting, Cicada listens , speaks and remembers for you.
+ They talk, you read subtitles in your language; you talk, they hear theirs; the meeting is turned into notes as it goes, and you keep a bilingual record. On Mac, Windows, Linux and Android.
+ Download for Mac
+ Send to my computer
+ Cicada 
+ Cicada hears every meeting, and speaks up for you.
+ Named for the insect that’s never quiet. Live subtitles, interpreting and AI meeting notes on Mac, Windows, Linux and Android. Free and open source.
+ Download for Mac
+ Mac · Windows · Linux · Android · All downloads
+ Product
+ Live subtitles
+ Interpreting
+ AI meeting notes
+ Changelog
+ Works with
+ Live captions for Zoom
+ Interpreting in Microsoft Teams
+ Translation in Google Meet
+ Live translation in X Spaces
+ Subtitles for YouTube Live
+ Translation in Discord voice
+ Help
+ Get started
+ FAQ
+ Roadmap
+ Report an issue
+ All releases
+ Open source & contact
+ GitHub
+ Apache-2.0 license
+ RSS (Chinese)
+ @wquguru on X
+ © 2026 Cicada · Apache-2.0
+ By @wquguru
+ 简体中文
+ · English · 日本語
+ · 한국어
+ App names mentioned here are trademarks of their owners and are used only to describe compatibility; Cicada is not affiliated with them.
+ Cicada
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "知了 Cicada", "alternateName": ["知了", "Cicada"], "inLanguage": "en", "description": "Live translated subtitles, interpreting and AI meeting notes on Mac, Windows, Linux and Android, for any call or stream.", "applicationCategory": "BusinessApplication", "operatingSystem": ["macOS 14.4", "Windows 10", "Ubuntu 22.04", "Android 10"], "softwareVersion": "1.8.0", "url": "https://cicada.indaloop.app/en/", "downloadUrl": "https://github.com/wquguru/cicada/releases/latest", "image": "https://cicada.indaloop.app/icon.png", "license": "https://www.apache.org/licenses/LICENSE-2.0", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "releaseNotes": "https://cicada.indaloop.app/changelog/", "codeRepository": "https://github.com/wquguru/cicada"}
+{"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": "en", "mainEntity": [{"@type": "Question", "name": "Will it run on my Mac?", "acceptedAnswer": {"@type": "Answer", "text": "You need macOS 14.4 or later. Intel Macs have no on-device speech model, so Ling's Ming hears the meeting and a Ling key is required; the rest is about Apple silicon. macOS 26 uses the newer on-device speech recognizer, the most accurate; 14.4 to 15 use the system's earlier one, a little weaker, which needs Dictation turned on in System Settings › Keyboard, with each language you want heard added to it."}}, {"@type": "Question", "name": "What about Windows, Linux and phones?", "acceptedAnswer": {"@type": "Answer", "text": "Windows 10 (2004) or later, the Ubuntu 22.04 / 24.04 desktop and Android 10 or later are all supported, with the same meeting records as the Mac. These apps also hand listening to the AI service, so they need Ling, OpenRouter, ZenMux or your own server; Windows and Linux can listen to the room too. On Linux the notes window shows up in screen sharing; on Android, interpreting is face to face through the speaker. The iPhone app is on its way."}}, {"@type": "Question", "name": "Does it work with Teams, DingTalk, or Google Meet?", "acceptedAnswer": {"@type": "Answer", "text": "If your computer can play the audio, Cicada supports it. That includes Tencent Meeting, Lark, DingTalk, WeCom, Zoom, Teams, Google Meet, Webex, Discord, and Telegram—plus browser-based meetings, livestreams, and podcasts. For live interpretation, set the microphone in your meeting app or browser to the virtual microphone (BlackHole 2ch on Mac, VB-Cable on Windows, or Cicada Microphone on Linux). On Android, the system blocks recording audio from meeting and call apps, so you need to put the call on speaker and select In person in Cicada. Regular videos and livestreams on your phone work directly."}}, {"@type": "Question", "name": "Does it cost anything?", "acceptedAnswer": {"@type": "Answer", "text": "Cicada is free and open source. On the Mac, live subtitles, translation and meeting records work without a key; AI notes and natural voices use your own Ling key, about ¥0.15–1 per hour of meeting. The Windows, Linux and Android apps need an AI service. Ling gives ¥10 of credit every month."}}, {"@type": "Question", "name": "Will the other side know?", "acceptedAnswer": {"@type": "Answer", "text": "No bot joins the call, and nobody else installs anything. When you share your screen on Mac, Windows or Android, the notes window stays out of the picture by default."}}, {"@type": "Question", "name": "Is meeting audio uploaded?", "acceptedAnswer": {"@type": "Answer", "text": "On the Mac, audio turns into text on your computer; only the recognized text leaves it, plus the few sentences you say while holding the talk key for interpreting. If you set Settings › AI Service › Speech recognition to Your service, the meeting audio goes to that machine. The Windows, Linux and Android apps send what is said in short pieces to the AI service you chose. Recordings stay on your own device."}}, {"@type": "Question", "name": "Which languages does it support?", "acceptedAnswer": {"@type": "Answer", "text": "On the Mac, any language its on-device speech recognition supports is detected; on the other platforms the AI service you chose recognizes it. Translations go into your system language by default. Natural interpreting voices cover English, Chinese, Japanese, Korean, German, French and Spanish."}}, {"@type": "Question", "name": "Is what I say out loud recorded?", "acceptedAnswer": {"@type": "Answer", "text": "For now, only what you say while holding the talk key. “Record what I say” is first on the roadmap."}}, {"@type": "Question", "name": "Blocked on first launch?", "acceptedAnswer": {"@type": "Answer", "text": "Cicada isn’t notarized by Apple or code-signed for Windows yet. On a Mac, go to System Settings › Privacy & Security and click “Open Anyway”; on Windows, click “More info › Run anyway”. Only once. Proper signing is on the roadmap."}}, {"@type": "Question", "name": "What else does interpreting need?", "acceptedAnswer": {"@type": "Answer", "text": "On the Mac, a virtual microphone, BlackHole: the first time you turn on interpreting, Cicada downloads it from the official source and installs it. On Windows, the free VB-Cable, which the guide helps you install. On Linux nothing: Cicada makes its own “Cicada Microphone”."}}]}

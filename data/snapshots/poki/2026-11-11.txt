@@ -1,0 +1,473 @@
+#SNAPSHOT {"url":"https://github.com/JosssphZhou/poki","finalUrl":"https://github.com/JosssphZhou/poki","fetchedAt":"2026-11-11T04:43:08.623Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"5a7d4e0b3052da955e8786f7aaac4cc78fd5f6618aa562dea380b7c7f08ac8ee"}
+GitHub - JosssphZhou/poki: Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware. · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects, and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ JosssphZhou
+ poki
+ Repository navigation
+ Code
+ Issues
+ 6
+  ( 6 )
+ Pull requests
+ 16
+  ( 16 )
+ Discussions
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ poki
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 176
+  ( 176
+)
+ Star 935
+  ( 935
+)
+ You must be signed in to star a repository
+ About
+ Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.
+ poki.bot
+ Topics
+ ai-agents
+ automation
+ ios
+ iphone
+ mcp
+ model-context-protocol
+ Resources
+ Readme
+ AGPL-3.0 license
+ Code of conduct
+ Code of conduct
+ Contributing
+ Contributing
+ Security policy
+ Security policy
+ Activity
+ Stars
+ 935 stars
+ Watchers
+ 3 watching
+ Forks
+ 176 
+ forks
+ Report repository
+ main
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 722 Commits
+ 722 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .github
+ .github
+ agent
+ agent
+ bin
+ bin
+ deploy
+ deploy
+ desktop
+ desktop
+ docs
+ docs
+ native
+ native
+ skills
+ skills
+ src
+ src
+ test
+ test
+ third_party
+ third_party
+ .gitignore
+ .gitignore
+ .gitmodules
+ .gitmodules
+ AGENTS.md
+ AGENTS.md
+ CHANGELOG.md
+ CHANGELOG.md
+ CODE_OF_CONDUCT.md
+ CODE_OF_CONDUCT.md
+ CONTRIBUTING.md
+ CONTRIBUTING.md
+ HANDOFF.md
+ HANDOFF.md
+ INSTALL-IPHONE.md
+ INSTALL-IPHONE.md
+ LICENSE
+ LICENSE
+ README.es.md
+ README.es.md
+ README.ja.md
+ README.ja.md
+ README.ko.md
+ README.ko.md
+ README.md
+ README.md
+ README.zh-CN.md
+ README.zh-CN.md
+ README.zh-TW.md
+ README.zh-TW.md
+ SECURITY.md
+ SECURITY.md
+ THIRD_PARTY_NOTICES.md
+ THIRD_PARTY_NOTICES.md
+ package-lock.json
+ package-lock.json
+ package.json
+ package.json
+ View all files
+ Repository files navigation
+ README
+ Code of conduct
+ Contributing
+ AGPL-3.0 license
+ Security
+ More items
+ Poki uses your iPhone like you do
+ English | 简体中文
+ | 繁體中文
+ | 日本語
+ | 한국어
+ | Español
+ poki.bot
+ Poki keyboard
+ On the native path Poki types through its own keyboard panel at a person's pace, without
+reading the screen while it types. The panel has no keys and is not a keyboard for people:
+it shows while Poki types and has a Take Over button. Nothing is pasted unless you choose
+Paste in Advanced. See docs/poki-keyboard.md
+.
+ Quick start
+ Poki on your iPhone
+ Tell your agent:
+ Install Poki on my iPhone from https://github.com/JosssphZhou/poki
+ The agent follows the install-poki skill
+ and runs bin/install-iphone.mjs , which does every step it can by itself. You only do what iOS asks of you: type your Apple Account into a Poki Setup window on the Mac, tap Trust and turn on Developer Mode on the iPhone, trust the developer, and open Poki. When Poki first opens it asks for Automation Mode: tap Continue and enter the iPhone passcode. If you cancel, turn Poki on again to be asked again. The agent tells you each one in a sentence when it comes up. A free Apple Account works.
+ Requires macOS 14+, Node.js 24+, iOS 18+, a USB data cable, an Apple Account, and a compatible VPN/proxy app on the iPhone that routes 10.7.0.1 back to it, such as Karing or Shadowrocket configured through Poki's Setup instructions. Xcode is not required. Free Apple Account signing lasts 7 days and needs renewal. Enable UI Automation in the iPhone's Developer settings and configure model access in Poki. With an older Poki Setup and no Xcode, the agent asks you to finish model-key and connection setup manually and reports those checks as unverified until you confirm them.
+ No Node.js 24, or on Windows? The same prompt works once Poki Setup is installed: the agent then uses the command line tool inside Poki Setup. Poki Setup's own menu also copies a prompt for your agent (Poki > Copy Prompt for Your Agent on a Mac, Settings > Use an agent on Windows).
+ Prefer clicking through it yourself? Download Poki Setup for macOS or Windows (contributed by @ZhehanZhang
+) from the Alpha release
+ and follow its window.
+ Poki MCP for your agent
+ Let your agent install it. Copy this to your agent:
+ Install https://github.com/JosssphZhou/poki following its root AGENTS.md, including the MCP skill, and stop whenever you need me to act.
+ Poki MCP. Already using Claude Code, Codex, or another MCP client? Connect Poki MCP and use your own subscription. No extra model account needed.
+ Start the server and keep it running:
+ git clone https://github.com/JosssphZhou/poki.git
+ cd
+ poki
+./bin/setup
+npm start 
+ Requires macOS 15 or later, full Xcode, Rust, Node.js 24+, and ffmpeg. ./bin/setup checks for missing dependencies. The initial build takes a few minutes.
+ Poki targets macOS. For Linux, see the community port poki-for-linux
+ ( #16
+), maintained outside this repo.
+ Poki MCP on Windows: community port at scy7796/poki-for-windows
+ (maintained by its author, not tested by us).
+ Prebuilt macOS arm64 package
+ Download poki-v0.1.1-macos-arm64.tar.gz from the release and run:
+ tar -xzf poki-v0.1.1-macos-arm64.tar.gz
+ cd
+ poki-v0.1.1
+npm ci --no-audit --no-fund
+npm start 
+ The package includes the native bridge and idevice tools. You do not need Rust or ./bin/setup . You still need macOS on Apple Silicon, full Xcode, Node.js 24+, Python 3, and ffmpeg. Register your MCP client and install the optional Agent as described below.
+ In another terminal, from the same directory, register the MCP server:
+ claude mcp add --scope user poki-mcp -- node "
+ $PWD
+/src/stdio.mjs "
+ #
+ Claude Code
+codex mcp add poki-mcp -- node "
+ $PWD
+/src/stdio.mjs "
+ #
+ Codex
+ Poki Agent. For Poki's standalone terminal agent or messaging channels, keep npm start running and open another terminal in the same directory. Install the agent, add its command to this terminal's path, and sign in:
+ npm ci --prefix agent
+ export
+ PATH= "
+ $PWD
+/bin: $PATH
+ "
+poki login
+poki status 
+ Poki Agent uses GPT-6.1 Terra ( gpt-6.1-terra ) with low reasoning by default. We recommend keeping it: it is the fastest setup we have tested for phone tasks. Override it with POKI_AGENT_MODEL ; see Run Poki Agent
+.
+ For a physical iPhone, pair it with your Mac over USB first. See Physical iPhone setup
+.
+ Update with ./bin/poki update . Set POKI_NO_UPDATE_CHECK=1 to disable the daily anonymous GitHub release check. See Update
+ for the request URL, restart steps, and prebuilt packages.
+ Try a task
+ With Poki Agent, one connected iPhone is selected automatically. With multiple devices, add --device '<device UUID>' .
+ node bin/call.mjs list_devices #
+ Find your device UUID
+poki "
+Search esp32 in Chrome and summarize the top result "
+ Note: Poki controls your real iPhone. If you ask it to send messages or make payments, it will. Screen contents are sent to your configured model service.
+ Gets faster with use: Poki Agent remembers past tasks and runs them faster on repeat.
+ Channels: After configuring an authorized channel, start it with poki imessage or poki telegram 
+. See Poki Agent
+ for setup.
+ MCP clients: Claude Code, Codex, and any client supporting mcpServers JSON.
+ Physical iPhone support has been verified only on iPhones using the Chinese interface. Physical devices support portrait orientation only. App container export and direct links to Settings subpages are unavailable. See verification and known limits
+.
+ Docs
+ Topic
+ Read
+ Installation, other MCP clients, and troubleshooting
+ Install guide
+ Poki Agent, models, iMessage, and Telegram
+ Run Poki Agent
+ MCP tool reference
+ Tool behavior
+ Environment variables and sessions
+ Configuration
+ USB pairing, Developer Mode, and Wi-Fi
+ Physical iPhone setup
+ Test results, known limits, and disclaimers
+ Verification
+ Bridge architecture
+ Native bridge
+ and simulator adapter
+ Roadmap
+ poki.bot
+ Roadmap
+ Star History
+ Core contributors
+ ZhehanZhang 
+The great co-creator of Poki.
+ igc110 
+Found why taps on a physical iPhone were slow in #10
+; the fix that followed made them about a third faster.
+ edge369 
+Made Poki run on a router in #14
+, so Telegram can drive the iPhone with the Mac powered off; #15
+, #17
+ and #19
+ followed.
+ carrotciallo 
+Ported Poki to Linux and tested it on a physical iPhone over USB, LAN and Tailscale in #16
+; the README now points to it.
+ guangtouge82 
+Traced failing touches on a physical iPhone to a missing display service in #18
+; Poki now says nothing was sent and points to prepare-device.
+ Dreaminmaster 
+Fixed a corrupt cached route that aborted unrelated Agent tasks ( #21
+, #22
+), then let the Agent reuse its post-action screen read in #37
+.
+ PeterKingXu1s 
+Reported in #25
+ that a natural-language stop request did not interrupt an iMessage task; Poki now replies to mid-task messages and points to /stop.
+ ScottH1122 
+Reproduced two Agent bugs in #27
+ and #28
+, disabled controls offered as tap targets and partly failed batches losing their trace; both are fixed.
+ jiahuipaung 
+Fixed in #34
+ a RemotePairing connection that died when the iPhone's LAN address changed ( #30
+); a real iPhone reconnected in 768 ms.
+ scy7796 
+Fixed taps that failed every time over RemotePairing from a Windows host in #39
+; 5 of 5 taps then worked.
+ foshanfm 
+Ran an insurance-terms check on a real iPhone over Tailscale in #42
+; the report shaped clearer USB errors and a per-session transport switch.
+ xiaweiyi713 
+Recorded demo videos of Poki driving a real iPhone, so new visitors can see what it does before installing anything.
+ Thanks
+ Thanks to everyone who opened an issue or pull request. Your feedback and fixes make Poki better.
+ ZhehanZhang 
+ carrotciallo 
+ Dreaminmaster 
+ edge369 
+ foshanfm 
+ guangtouge82 
+ igc110 
+ jiahuipaung 
+ kilingzhang 
+ makirqi-alt 
+ mawenhao1028 
+ PeterKingXu1s 
+ ScottH1122 
+ scy7796 
+ wanghao-SunSky 
+ windywendyday 
+ xiaweiyi713 
+ zcyoung2000 
+ Zeno6898 
+ zqy5608 
+ Disclaimer
+ Poki is an independent open source project. It is not affiliated with, or endorsed by, Apple, OpenAI, or the makers of any app or website it operates. iPhone is a trademark of Apple Inc.
+ Automating third-party apps and websites may violate their terms of service. Decide for yourself whether to use Poki with a given service. You are responsible for what it does on your device and accounts, including messages it sends, changes it makes, and any account restrictions that result.
+ Poki is provided "as is", without warranty, as set out in the AGPL-3.0 license.
+ License
+ Poki is open source under the AGPL-3.0-only license
+.
+ Copyright (c) 2026 Joseph Zhou and contributors. Open-source dependencies retain their respective licenses; see THIRD_PARTY_NOTICES.md
+. To contribute, see CONTRIBUTING.md
+.
+ Acknowledgments
+ Open source acknowledgments: pi
+ | idevice
+ | idb
+ | BlueBubbles
+ | Hermes Agent
+ | MCP SDK
+ | sharp
+ | FFmpeg
+ About
+ Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.
+ poki.bot
+ Topics
+ ai-agents
+ automation
+ ios
+ iphone
+ mcp
+ model-context-protocol
+ Resources
+ Readme
+ AGPL-3.0 license
+ Code of conduct
+ Code of conduct
+ Contributing
+ Contributing
+ Security policy
+ Security policy
+ Activity
+ Stars
+ 935 stars
+ Watchers
+ 3 watching
+ Forks
+ 176 
+ forks
+ Report repository
+ Releases
+ Packages
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.
