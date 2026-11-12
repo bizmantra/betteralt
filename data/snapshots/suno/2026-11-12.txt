@@ -1,0 +1,314 @@
+#SNAPSHOT {"url":"https://suno.com/pricing","finalUrl":"https://suno.com/pricing","fetchedAt":"2026-11-12T03:48:55.165Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"6608dfe7b41bac92f1653a8e7fe4c3cd848577a907bf48b94577420ac7bb4c8c"}
+Suno | Pricing 
+ Log in
+ Open App
+ Start making music for free
+ Plans for every creator
+ FAQs
+ You&#x27;ve got questions. We&#x27;ve got answers.
+ What are the differences between model versions?
+ What are the Standard and Pro features?
+ Do I get commercial use rights to my songs?
+ What happens if I exhaust my monthly credits?
+ Can I upgrade or downgrade my plan?
+ 0:00
+ --:--
+ Monthly 
+ Annual save 20%
+ Free
+ Our starter plan.
+ $0
+ /month
+ Sign Up
+ Included
+ Access to our free models
+ Included
+ 50 credits per day
+ Included
+ Standard features only
+ Included
+ Upload up to 8 min of audio
+ Included
+ Shared creation queue
+ Not included
+ No monthly song downloads
+ Not included
+ No commercial rights
+ Not included
+ No add-on credit purchases
+ Not included
+ No stem separation
+ Pro
+ Most Popular
+ Access to our best models and editing tools.
+ $8
+ /month
+ Saves $24 by billing yearly!
+ Taxes calculated at checkout
+ Subscribe
+ Included
+ Access to our best models
+ Included
+ 2,500 credits per month
+ Included
+ 20 song downloads per month
+ Included
+ Commercial use rights
+ Included
+ Standard + Pro features
+ Included
+ 2 stem separation types (Auto; Split from mix)
+ Included
+ Early access to new features
+ Included
+ Ability to purchase additional credits and downloads
+ Included
+ Priority queue; up to 10 songs at once
+ Included
+ Record, upload, and create with your own voice
+ Included
+ Create custom models
+ Premier
+ Best Value
+ Maximum credits and every feature unlocked.
+ $24
+ /month
+ Saves $72 by billing yearly!
+ Taxes calculated at checkout
+ Subscribe
+ Included
+ Access to Suno Studio - now with MIDI, effects, automation, and design-your-own-plugins
+ Included
+ 10,000 credits per month
+ Included
+ 60 song downloads per month
+ Included
+ Access to our best models
+ Included
+ Commercial use rights
+ Included
+ Standard + Pro features (personas and advanced editing)
+ Included
+ 3 stem separation types (Auto; Split from mix and Advanced split)
+ Included
+ Upload up to 30 min of audio
+ Included
+ Add new vocals or instrumentals to existing songs
+ Included
+ Early access to new features
+ Included
+ Ability to purchase additional credits and downloads
+ Included
+ Priority queue; up to 10 songs at once
+ Included
+ Record, upload, and create with your own voice
+ Included
+ Create custom models
+ FAQs
+ Compare plans
+ Need More?
+ Credits included in subscriptions do not carry over from day to day or month to month. Purchased top up credits do not expire, but require an active subscription to use. See the terms of service
+ for limitations on commercial use. Email us at [email protected]
+ with any questions.
+ Compare Suno plans
+ Free Plan
+ Pro Plan
+ Most Popular
+ Premier Plan
+ Best Value
+ SONG GENERATION
+ Available models
+ Best free model (v6-mini)
+ Advanced models (v6 and v6-wild)
+ Advanced models (v6 and v6-wild)
+ Commercial rights
+ Not included
+ Included
+ Included
+ Concurrent generations
+ Generate multiple songs at once — priority queues let you create much faster
+ 4 in a Shared queue
+ 10 in a Priority queue
+ 10 in a Priority queue
+ Add-on credits
+ Not available
+ Available to purchase
+ Available to purchase
+ CREATION FEATURES
+ Suno Studio
+ Your complete creative workspace. Generate stems, layer sounds, and edit seamlessly.
+ Not included
+ Not included
+ Included
+ Remix songs (extend, cover, adjust speed)
+ Extend the length or change the genre of a song
+ Included
+ Included
+ Included
+ Co-write with Suno
+ Co-write with Suno to generate lyrics using our classic model
+ Included
+ Included
+ Included
+ Upload Audio
+ Upload audio to edit or remix
+ Up to 8 minutes
+ Up to 30 minutes
+ Up to 30 minutes
+ Voices
+ Save a consistent vocalist and vibe to create new songs
+ Not included
+ Included
+ Included
+ Add vocals
+ Add a vocal track to an existing instrumental
+ Not included
+ Included
+ Included
+ Add instrumental
+ Add an instrumental track to an existing acappella
+ Not included
+ Included
+ Included
+ Inspire
+ Select a playlist to guide the sound of a new generation
+ Not included
+ Included
+ Included
+ Magic Song Descriptions
+ Enhance your style tags using smart descriptions
+ Not included
+ Included
+ Included
+ Custom Models
+ Tune custom versions of v6 using your own audio
+ Not included
+ Included
+ Included
+ EDITING FEATURES
+ Basic editing (crop, fade)
+ Not included
+ Included
+ Included
+ Advanced editing (replace or add section)
+ Recreate or reimagine any part of your song by replacing or adding new sections
+ Not included
+ Included
+ Included
+ Extract Stems
+ Download individual instrumental layers (like vocals, drums, bass) from your song
+ Not included
+ Included
+ Included
+ ACCESS
+ Early access to new features
+ Not included
+ Included
+ Included
+ Free Plan
+ Pro Plan
+ Most Popular
+ Premier Plan
+ Best Value
+ SONG GENERATION
+ Available models
+ Best free model (v6-mini)
+ Advanced models (v6 and v6-wild)
+ Advanced models (v6 and v6-wild)
+ Commercial rights
+ Not included
+ Included
+ Included
+ Concurrent generations
+ Generate multiple songs at once — priority queues let you create much faster
+ Generate multiple songs at once — priority queues let you create much faster
+ 4 in a Shared queue
+ 10 in a Priority queue
+ 10 in a Priority queue
+ Add-on credits
+ Not available
+ Available to purchase
+ Available to purchase
+ CREATION FEATURES
+ Suno Studio
+ Your complete creative workspace. Generate stems, layer sounds, and edit seamlessly.
+ Your complete creative workspace. Generate stems, layer sounds, and edit seamlessly.
+ Not included
+ Not included
+ Included
+ Remix songs (extend, cover, adjust speed)
+ Extend the length or change the genre of a song
+ Extend the length or change the genre of a song
+ Included
+ Included
+ Included
+ Co-write with Suno
+ Co-write with Suno to generate lyrics using our classic model
+ Co-write with Suno to generate lyrics using our classic model
+ Included
+ Included
+ Included
+ Upload Audio
+ Upload audio to edit or remix
+ Upload audio to edit or remix
+ Up to 8 minutes
+ Up to 30 minutes
+ Up to 30 minutes
+ Voices
+ Save a consistent vocalist and vibe to create new songs
+ Save a consistent vocalist and vibe to create new songs
+ Not included
+ Included
+ Included
+ Add vocals
+ Add a vocal track to an existing instrumental
+ Add a vocal track to an existing instrumental
+ Not included
+ Included
+ Included
+ Add instrumental
+ Add an instrumental track to an existing acappella
+ Add an instrumental track to an existing acappella
+ Not included
+ Included
+ Included
+ Inspire
+ Select a playlist to guide the sound of a new generation
+ Select a playlist to guide the sound of a new generation
+ Not included
+ Included
+ Included
+ Magic Song Descriptions
+ Enhance your style tags using smart descriptions
+ Enhance your style tags using smart descriptions
+ Not included
+ Included
+ Included
+ Custom Models
+ Tune custom versions of v6 using your own audio
+ Tune custom versions of v6 using your own audio
+ Not included
+ Included
+ Included
+ EDITING FEATURES
+ Basic editing (crop, fade)
+ Not included
+ Included
+ Included
+ Advanced editing (replace or add section)
+ Recreate or reimagine any part of your song by replacing or adding new sections
+ Recreate or reimagine any part of your song by replacing or adding new sections
+ Not included
+ Included
+ Included
+ Extract Stems
+ Download individual instrumental layers (like vocals, drums, bass) from your song
+ Download individual instrumental layers (like vocals, drums, bass) from your song
+ Not included
+ Included
+ Included
+ ACCESS
+ Early access to new features
+ Not included
+ Included
+ Included

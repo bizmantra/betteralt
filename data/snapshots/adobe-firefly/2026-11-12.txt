@@ -1,0 +1,374 @@
+#SNAPSHOT {"url":"https://www.adobe.com/products/firefly/plans.html?country=US","finalUrl":"https://www.adobe.com/products/firefly/plans.html?country=US","fetchedAt":"2026-11-12T03:39:17.937Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"1ba8340547a063a066988948d139d00dd59a5016b1b5562cf3de3bf3652b0d94"}
+Limited-time offer. Save up to 60% on select Firefly plans for the first 6 months. Ends Dec 6.
+Skip to main content
+Content Creation
+Adobe Firefly
+Image
+Video
+Audio
+Workflows
+Compare Plans
+Go to Firefly
+Sign in
+Content creation
+Plans to create in new ways.
+Choose the plan that’s right for you.
+Individuals
+Students and teachers
+Business
+Firefly Free
+Free daily generations
+Free
+Get free daily generations to quickly create images, video, and audio.
+Creative AI
+Limited free daily generations for images and video
+Limited access to top AI models from Adobe, Google, OpenAI, and more
+Workflows
+Image and video editors for precise control
+Firefly Boards for ideation
+Get started
+Firefly Standard
+Starter plan
+US$9.99/mo
+Get 2,000 credits to generate up to 400 images and 20 five-second videos. 
+Creative AI
+2,000 monthly generative credits
+Access to top AI models from Adobe, Google, OpenAI, and more
+2 concurrent generations
+Workflows
+Image and video editors for precise control
+Firefly Boards for ideation
+Free trial
+Buy now
+Firefly Pro
+Frictionless generation — save 50%
+Regularly at
+US$19.99/mo
+Alternatively at
+US$9.99/mo
+Save 50% for the first 6 months. Get 4,000 credits to generate up to 800 images and 40 five-second videos. Ends Dec 6.
+See terms
+Creative AI
+4,000 monthly generative credits
+Unlimited image generations on select models for the first year
+4 concurrent generations
+Workflows
+Image and video editors for precise control
+Firefly Boards for ideation
+Save now
+Free trial
+Firefly Pro Plus
+Creation at scale — save 60%
+Regularly at
+US$49.99/mo
+Alternatively at
+US$19.99/mo
+Save 60% for the first 6 months. Get 10,000 credits to generate up to 2,000 images and 100 five-second videos. Ends Dec 6.
+See terms
+Creative AI
+10,000 monthly generative credits
+Unlimited image generations on all models (1K/2K) for the first year
+Unlimited video generations on select models for the first year
+6 concurrent generations
+Workflows
+Image and video editors for precise control
+Firefly Boards for ideation
+Firefly Graph (beta) to build AI-integrated workflows
+Save now
+Free trial
+Compare plans
+Free daily generations
+Firefly Free
+Free
+Get started
+Starter plan
+Firefly Standard
+US$9.99/mo
+Free trial
+Frictionless generation
+Firefly Pro
+Regularly at
+US$19.99/mo 
+Alternatively at
+US$9.99/mo
+Save 50% for the first 6 months. Ends Dec 6. See terms
+Buy now
+Creation at scale
+Firefly Pro Plus
+Regularly at
+US$49.99/mo 
+Alternatively at
+US$19.99/mo
+Save 60% for the first 6 months. Ends Dec 6. See terms
+Buy now
+Creative AI
+Firefly Free
+Firefly Standard
+Firefly Pro
+Firefly Pro Plus
+Generative credits
+Limited
+2,000
+ per month
+4,000
+ per month
+10,000
+ per month
+Unlimited generations with select Firefly image models for AI features like Generative Fill
+not a feature
+primary feature
+primary feature
+primary feature
+Access to leading AI models from Adobe, Google, OpenAI, and more
+Limited
+primary feature
+Unlimited generations on select models, including Nano Banana 2 (1K), Flux.2 Pro, and more, for the first year
+Unlimited generations on all image models (1K/2K) and select video models, including Kling 2.5 Turbo, Nano Banana Pro (1K/2K), Nano Banana 2 (1K/2K), and more, for the first year
+Concurrent generations
+1
+2
+4
+6
+Generate 5-second videos
+Limited
+Up to 
+20
+Up to 
+40
+Up to 
+100
+Translate audio and video
+Limited
+Up to 
+6
+ minutes
+Up to 
+13
+ minutes
+Up to 
+100
+Generate sound effects
+Limited
+Up to 
+200
+Up to 
+400
+Up to 
+1,000
+Generate music
+Limited
+Up to 
+100
+ minutes
+Up to 
+200
+ minutes
+Up to 
+500
+ minutes
+Workflows
+Adobe apps and perks
+Not ready to buy a plan? Start creating for free.
+You don't need a plan to get free daily generations for images, video, and audio, with access to popular models like Nano Banana and Luma Ray 3.14.
+Get started
+Out of credits. Not ideas.
+If you’ve used up your generative credits, explore credit add-on plans to keep creating in your favorite apps like Adobe Firefly. Generate even more images, videos, and text effects.
+Learn more
+Questions? We have answers.
+How much does Adobe Firefly cost?
+Adobe Firefly offers a free plan with limited daily generations, plus four paid tiers:
+Adobe Firefly Standard: US$9.99/mo — 2,000 generative credits
+Adobe Firefly Pro: US$19.99/mo — 4,000 generative credits
+Adobe Firefly Pro Plus: US$49.99/mo — 10,000 generative credits
+Adobe Firefly Premium: US$199.99/mo — 50,000 generative credits plus unlimited Adobe Firefly Video Model access
+All paid plans include unlimited standard image and vector generations. Generative credits are used for premium features such as video, audio, and partner model outputs.
+Is there a free version of Adobe Firefly?
+What are generative credits, and how do they work?
+What features do Adobe Firefly plans include?
+Which Adobe Firefly plan is best for individual creators?
+Which Adobe Firefly plan is best for teams and businesses?
+Why should I choose Adobe Firefly over other AI generators?
+Can I use my Adobe Firefly generative credits across other Adobe apps?
+What happens when I run out of generative credits on my Adobe Firefly plan?
+Are Adobe Firefly outputs safe for commercial use?
+What does “commercial use” mean?
+For individuals & small business
+Creative AI
+Photography
+Design and illustration
+Video and animation
+PDF
+3D
+Elements Family
+Stock images and video
+View all products
+For medium & large business
+Personalization at scale
+Content supply chain
+Unified customer experience
+Creativity and production
+B2B GTM orchestration
+View all products
+For organizations
+Education
+Nonprofits
+Government
+Startups
+Support
+Help Center
+Download and install
+Adobe Community
+Adobe Learn
+Medium and large business support
+Contact
+Chat with sales
+Request information
+Adobe
+Log into your account
+About
+Careers
+Events
+Newsroom
+Corporate responsibility
+Investor Relations
+Supply chain
+Trust Center
+Integrity
+Adobe for All
+Adobe Blog
+Featured products
+Acrobat Reader
+Firefly
+Adobe Express
+Photoshop
+Change region
+© 2026 Adobe Inc. Adobe. All rights reserved.
+Privacy
+Terms of Use
+Cookie preferences
+Do not sell or share my personal information
+Site Map
+AdChoices
+
+#JSONLD (structured data published on the page, verbatim)
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.adobe.com/products/firefly/plans.html#webpage",
+      "url": "https://www.adobe.com/products/firefly/plans.html",
+      "publisher": {
+        "@id": "https://www.adobe.com/#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.adobe.com/#organization",
+      "name": "Adobe",
+      "url": "https://www.adobe.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg",
+        "contentUrl": "https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does Adobe Firefly cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adobe Firefly offers a free plan with limited daily generations, plus four paid tiers: Adobe Firefly Standard: US$9.99/mo — 2,000 generative credits\n          Adobe Firefly Pro: US$19.99/mo — 4,000 generative credits\n          Adobe Firefly Pro Plus: US$49.99/mo — 10,000 generative credits\n          Adobe Firefly Premium: US$199.99/mo — 50,000 generative credits plus unlimited Adobe Firefly Video Model access All paid plans include unlimited standard image and vector generations. Generative credits are used for premium features such as video, audio, and partner model outputs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a free version of Adobe Firefly?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Adobe has a free plan where users receive free daily generations to try Adobe Firefly. If you need more than what’s included in your plan, you will need a paid subscription to continue generating."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are generative credits, and how do they work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Generative credits are tokens you use to generate AI content across Adobe Firefly and Adobe Creative Cloud apps. Adobe Firefly plans include a monthly allocation of generative credits that reset each billing cycle and do not roll over. Learn more about generative credits."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What features do Adobe Firefly plans include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All paid Adobe Firefly plans include unlimited access to standard generative AI features like Generate Image, Generative Fill, Generative Expand, and Text to Vector. Premium features, including Generate Video, Generate Sound Effects, Translate Audio, Generate Speech, Generate Music, and access to partner AI models from Google, OpenAI, and others use generative credits from your monthly allocation. Higher tier Adobe Firefly plans include more credits and additional perks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which Adobe Firefly plan is best for individual creators?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adobe Firefly Standard at US$9.99/mo is the best plan for individual creators who primarily need AI image and vector generation, offering unlimited standard generations and 2,000 generative credits for occasional video or audio work. If you regularly create AI video content or need access to Adobe Photoshop on web and mobile and Adobe Express, the Adobe Firefly Pro plan offers additional credits and includes both apps. Your best choice depends on how frequently you use premium features like video generation, audio translation, and partner models."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which Adobe Firefly plan is best for teams and businesses?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adobe Firefly Premium at US$199.99/moper license is the best plan for teams and businesses producing high volumes of content, offering 50,000 generative credits and unlimited access to the Adobe Firefly Video Model and standard generations. For organizations already using Adobe Creative Cloud, Creative Cloud Pro for teams at US$99.99/moper license includes 4,000 generative credits and access to 20+ Creative Cloud apps. Enterprise customers can also access Adobe Firefly Custom Models and IP indemnification through enterprise-specific plans. Learn more about Adobe Firefly Custom Models."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why should I choose Adobe Firefly over other AI generators?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adobe Firefly combines commercially safe AI models, IP-friendly training data, built-in content credentials, and deep integration with industry-leading Adobe Creative Cloud apps. Unlike standalone AI generators, Adobe Firefly gives you a seamless path from AI generation to professional production — plus access to top partner models from Google, OpenAI, and others, all in one place."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use my Adobe Firefly generative credits across other Adobe apps?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, generative credits from your Adobe Firefly plan can be used for creative AI features across Adobe Creative Cloud apps, including Photoshop, Illustrator, Premiere, Lightroom, and Adobe Express. Credits are shared across the Adobe Firefly web app, mobile app, and compatible desktop apps within your plan. Your credits reset monthly on your billing date and do not roll over. Learn more in the generative credits FAQ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens when I run out of generative credits on my Adobe Firefly plan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "When you run out of generative credits, you can wait for your monthly reset, upgrade to a higher Adobe Firefly plan, or apply a credit add-on plan to your existing subscription, starting at 2,000 credits. On any paid Adobe Firefly plan, you still have unlimited access to standard generative features even after your generative credits are exhausted. Adobe will not charge you for additional credits unless you choose to purchase them."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Adobe Firefly outputs safe for commercial use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Outputs from Adobe Firefly AI models are safe for commercial use. Adobe Firefly models are trained on licensed content and public domain content where copyright has expired, and Adobe automatically attaches content credentials for transparency. You’re responsible for determining whether content generated by partner models is appropriate for your project. Eligible enterprise customers can also receive IP indemnification for select Adobe Firefly outputs. Learn more about Adobe Firefly for enterprise."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does “commercial use” mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Commercial use refers to any type of usage that generates commercial activity for you, your brand, or your business — for example, selling products, creating print and digital promotional materials, or using content in the sale of goods and services. Outputs generated with Adobe Firefly AI models can be used for commercial purposes. Adobe Firefly models are trained on licensed content and public domain content, giving creators confidence when using outputs in commercial projects."
+          }
+        }
+      ],
+      "@id": "https://www.adobe.com/products/firefly/plans.html#faq",
+      "isPartOf": {
+        "@id": "https://www.adobe.com/products/firefly/plans.html#webpage"
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+#SNAPSHOT {"url":"https://www.librechat.ai","finalUrl":"https://www.librechat.ai/","fetchedAt":"2026-11-12T03:38:38.601Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"a2471d2a03bf6c82bcc385730990c458faab982c1fea0f1e2ba1f5be2fcbdc62"}
+LibreChat - The Open-Source AI Platform 
+ Skip to main content
+ LibreChat is joining ClickHouse to power the open-source Agentic Data Stack
+. Learn more ↗
+ LibreChat
+ Docs
+ Blog
+ Changelog
+ Search ⌘ K 
+ Star on GitHub
+ 47k
+ The Open-Source
+ AI Platform
+ LibreChat brings together all your AI conversations in one unified, customizable interface
+ Get Started 
+ Try Demo 
+ Trusted by companies worldwide
+ Everything you need
+ From everyday questions to ambitious projects, all in one workspace.
+ 01
+ Agents
+ Build specialized agents with your files, tools, reusable skills, and delegated subtasks.
+ Learn more 
+ 02
+ Models
+ Bring leading AI providers and local models together in one workspace.
+ Learn more 
+ OpenAI
+ Google
+ AWS Bedrock
+ Mistral AI
+ Ollama
+ Groq
+ APIpie
+ Cohere
+ Fireworks AI
+ Hugging Face
+ LiteLLM
+ Moonshot AI
+ NeurochainAI
+ Portkey AI
+ Together AI
+ vLLM
+ OpenAI
+ Google
+ AWS Bedrock
+ Mistral AI
+ Ollama
+ Groq
+ APIpie
+ Cohere
+ Fireworks AI
+ Hugging Face
+ LiteLLM
+ Moonshot AI
+ NeurochainAI
+ Portkey AI
+ Together AI
+ vLLM
+ Anthropic
+ Azure OpenAI
+ xAI
+ DeepSeek
+ OpenRouter
+ Anyscale
+ Cloudflare Workers AI
+ Databricks
+ Helicone
+ Lemonade
+ Apple MLX
+ NEAR AI Cloud
+ Perplexity
+ ShuttleAI
+ TrueFoundry
+ Vultr Cloud Inference
+ Anthropic
+ Azure OpenAI
+ xAI
+ DeepSeek
+ OpenRouter
+ Anyscale
+ Cloudflare Workers AI
+ Databricks
+ Helicone
+ Lemonade
+ Apple MLX
+ NEAR AI Cloud
+ Perplexity
+ ShuttleAI
+ TrueFoundry
+ Vultr Cloud Inference
+ 03
+ Artifacts
+ Turn conversations into interactive apps, diagrams, and documents.
+ Learn more 
+ Projects
+ Keep related conversations organized in personal project workspaces.
+ Skills
+ Give agents reusable instructions, references, and workflows.
+ Subagents
+ Delegate focused work to specialized agents with their own context.
+ Code Interpreter
+ Execute code in multiple languages in an isolated environment
+ MCP
+ Connect to any tool or service with Model Context Protocol support
+ Memory
+ Persistent context across conversations so your AI remembers you
+ Web Search
+ Give any model live internet access with built-in search and reranking
+ Message Search
+ Find messages and topics across your conversation history.
+ Authentication
+ Enterprise-ready SSO with OAuth, SAML, LDAP, and two-factor auth
+ Open source, community driven
+ Join thousands of developers and organizations building with LibreChat
+ GitHub 
+ Discord 
+ GitHub Stars 47k 
+ Container Downloads 61.8M 
+ Contributors 424 
+ Start building with LibreChat
+ Get up and running in minutes with our quickstart guide
+ Quickstart Guide 
+ About
+ About
+ Contact Us
+ Features
+ Resources
+ Changelog
+ Roadmap
+ Demo
+ Status
+ Documentation
+ Get Started
+ Local Install
+ Remote Install
+ Blog
+ Blog
+ Blog Authors
+ Newsletter
+ Subscribe
+ Unsubscribe
+ Legal
+ Terms of Service
+ Privacy policy
+ Cookie policy
+ LibreChat
+ © 2026 LibreChat
+
+#JSONLD (structured data published on the page, verbatim)
+[{"@context":"https://schema.org","@type":"Organization","name":"LibreChat","url":"https://www.librechat.ai","logo":"https://www.librechat.ai/android-chrome-512x512.png","description":"The Open-Source AI Platform.","sameAs":["https://github.com/LibreChat-AI/LibreChat","https://discord.librechat.ai"]},{"@context":"https://schema.org","@type":"WebSite","name":"LibreChat","url":"https://www.librechat.ai","description":"The Open-Source AI Platform.","publisher":{"@type":"Organization","name":"LibreChat","url":"https://www.librechat.ai"}},{"@context":"https://schema.org","@type":"SoftwareApplication","name":"LibreChat","applicationCategory":"DeveloperApplication","operatingSystem":"Web, Linux, macOS, Windows, Docker","url":"https://www.librechat.ai","description":"LibreChat brings together all your AI conversations in one unified, customizable, open-source interface.","license":"https://github.com/LibreChat-AI/LibreChat/blob/main/LICENSE","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]

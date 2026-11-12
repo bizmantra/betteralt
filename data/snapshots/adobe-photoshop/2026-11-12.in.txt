@@ -1,0 +1,249 @@
+#SNAPSHOT {"url":"https://www.adobe.com/products/photoshop/plans.html","finalUrl":"https://www.adobe.com/products/photoshop/plans.html","fetchedAt":"2026-11-12T03:49:31.925Z","method":"playwright","region":"in","currency":"INR","http":200,"sha256":"8ea7d86ce9ca30eb67e4d0a58f67cc5415393c1d9ec9173bf84662292b76bfc9"}
+01:06:40:29
+Ends in 1 day
+Limited time! Save 55% or more on Creative Cloud Pro for individuals, students and teams. Ends 13 Nov.
+See offers
+Skip to main content
+Creativity & Design
+Photoshop
+Features
+Mobile
+Compare Plans
+Free Trial Details
+Sign in
+Home
+Adobe Creative Cloud
+Adobe Photoshop
+Compare Plans
+Photoshop
+Compare Photoshop plans.
+Get Photoshop by itself or as part of a multi-app plan. The choice is yours.
+Individuals
+Students and teachers
+Business
+60% Off
+Photoshop
+Photoshop on desktop, web and mobile plus the Adobe Express Premium plan.
+Save 18% for the first year on Photoshop on desktop, web, iPhone and iPad Photoshop plus generative AI features. Pay 
+Regularly at
+₹733.96/mo 
+Alternatively at
+₹599.00/moincl. GST for the first year and ₹733.96/moincl. GST thereafter. New subscribers only.See terms
+Regularly at
+₹733.96/mo 
+Alternatively at
+₹599.00/moincl. GST
+Annual, billed monthly
+Free trial
+Buy now
+Firefly Pro
+Get Photoshop on web and mobile, plus 4,000 credits for creative AI.
+Regularly at
+₹1,596.54/mo 
+Alternatively at
+₹797.15/moincl. GST
+Annual, billed monthly
+Free trial
+Buy now
+Photography
+Save 6% for the first year on Photoshop and Lightroom, including generative AI features. Pay ₹599.00/moincl. GST for the first year and ₹638.38/moincl. GST thereafter. New subscribers only. See terms
+Regularly at
+₹638.38/mo 
+Alternatively at
+₹599.00/moincl. GST
+Annual, billed monthly
+Free trial
+Save today
+60% off
+Creative Cloud Pro
+Save 63% on 20+ apps including Photoshop, plus creative AI for images, video, and audio. Ends Nov 13. First year only. See terms.
+Regularly at
+₹2,714.00/mo 
+Alternatively at
+₹999.00/moincl. GST
+Annual, billed monthly
+Free trial
+Save now
+Adobe Photoshop on desktop
+Adobe Photoshop on web and mobile
+Best for
+Individuals
+Individuals
+Individuals
+Individuals
+7-day free trial
+Price
+Regularly at
+₹733.96/mo 
+Alternatively at
+₹599.00/moincl. GST
+Regularly at
+₹1,596.54/mo 
+Alternatively at
+₹797.15/moincl. GST
+Regularly at
+₹638.38/mo 
+Alternatively at
+₹599.00/moincl. GST
+Regularly at
+₹2,714.00/mo 
+Alternatively at
+₹999.00/moincl. GST
+Cloud storage
+100GB
+100GB
+1TB
+100GB
+Generative credits
+25 monthly
+4,000 monthly
+1,000 monthly
+4,000 monthly
+Standard AI features like Generative Fill
+Access with generative credits
+Unlimited access
+Access with generative credits
+Unlimited access
+Premium AI features like Text to Video
+Access with generative credits
+Access with generative credits
+Access with generative credits
+Access with generative credits
+Access to top models from Adobe, Google, OpenAI, and more
+Adobe Express Premium plan
+Lightroom
+20+ desktop and mobile apps
+20,000+ fonts
+1 million+ free photos, drawings, video clips, audio clips, and templates
+Tutorials
+Questions? We have answers.
+How much does Photoshop cost?
+Is there a free version of Photoshop?
+Can I buy Photoshop outright?
+What is a license and how does it work?
+For individuals & small business
+Creative AI
+Photography
+Design and illustration
+Video and animation
+PDF
+3D
+Elements Family
+Stock images and video
+View all products
+For medium & large business
+Personalization at scale
+Content supply chain
+Unified customer experience
+Creativity and production
+B2B GTM orchestration
+View all products
+For organizations
+Education
+Nonprofits
+Government
+Startups
+Support
+Help Center
+Download and install
+Adobe Community
+Adobe Learn
+Medium and large business support
+Contact
+Chat with sales
+Request information
+Adobe
+Log into your account
+About
+Careers
+Events
+Newsroom
+Corporate responsibility
+Investor Relations
+Supply chain
+Trust Center
+Integrity
+Adobe for All
+Adobe Blog
+Featured products
+Acrobat Reader
+Firefly
+Adobe Express
+Photoshop
+Change region
+Copyright © 2026 Adobe. All rights reserved./
+Privacy/
+Terms of Use/
+Cookie preferences/
+Do not sell or share my personal information/
+Site Map/
+AdChoices
+
+#JSONLD (structured data published on the page, verbatim)
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.adobe.com/products/photoshop/plans.html#webpage",
+      "url": "https://www.adobe.com/products/photoshop/plans.html",
+      "publisher": {
+        "@id": "https://www.adobe.com/#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.adobe.com/#organization",
+      "name": "Adobe",
+      "url": "https://www.adobe.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg",
+        "contentUrl": "https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        [
+          {
+            "@type": "Question",
+            "name": "\n      \n        How much does Photoshop cost?\n      \n    ",
+            "acceptedAnswer": {
+              "text": "Several Creative Cloud plans include Photoshop. As a standalone app, it is available for Regularly at ₹733.96/mo Alternatively at ₹599.00/moincl. GST for the Annual, billed monthly plan or with annual billing at ₹21,070.08/yrincl. GST. Both options provide access to all the latest Photoshop features and updates, plus 100GB of cloud storage. It is also available as part of the Creative Cloud Photography plan for ₹1,596.54/moincl. GST or as part of the Creative Cloud Pro plan for Regularly at ₹2,714.00/mo Alternatively at ₹999.00/moincl. GST (Regularly at ₹30,656.40/yr Alternatively at ₹10,999.00/yrincl. GST prepaid).",
+              "@type": "Answer"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "\n      \n        Is there a free version of Photoshop?\n      \n    ",
+            "acceptedAnswer": {
+              "text": "Yes, you can download a 7-day free trial of Photoshop. The free trial is the official, full version of the app. It includes all the features and updates in the latest version of Photoshop. Your trial will automatically convert to a paid Creative Cloud membership after 7 days, unless you cancel before then.",
+              "@type": "Answer"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "\n      \n        Can I buy Photoshop outright?\n      \n    ",
+            "acceptedAnswer": {
+              "text": "No. Photoshop is available only through a Creative Cloud subscription that you pay for either monthly or annually. You can subscribe to Photoshop alone or choose a plan with multiple apps.",
+              "@type": "Answer"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "\n      \n        What is a license and how does it work?\n      \n    ",
+            "acceptedAnswer": {
+              "text": "When you purchase a product from Adobe, a license represents your right to use the product and any included services. For example, a Photoshop for teams license gives one person the ability to install the app on two or more computers, activate and remain signed in to the app on up to two computers, and use the app on one computer at a time.",
+              "@type": "Answer"
+            }
+          }
+        ]
+      ],
+      "@id": "https://www.adobe.com/products/photoshop/plans.html#faq",
+      "isPartOf": {
+        "@id": "https://www.adobe.com/products/photoshop/plans.html#webpage"
+      }
+    }
+  ]
+}
