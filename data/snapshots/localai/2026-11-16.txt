@@ -1,0 +1,284 @@
+#SNAPSHOT {"url":"https://localai.io","finalUrl":"https://localai.io/","fetchedAt":"2026-11-16T03:31:41.905Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"fef9c54e0d962009ace0bc55415959fb8a160b9936ee275ab9ff2f15539ebf12"}
+LocalAI: your own AI, on your own hardware Skip to content
+ Features
+ Add-ons
+ Models
+ Docs
+ Blog
+ Download
+ GitHub, 50,265 stars
+ ★ 50,265
+ Get started
+ New Office, Sandbox, Team and add-ons (development builds)
+ &rarr;
+ Your own AI, on your own hardware.
+ Ready to work
+ for you.
+ LocalAI runs open models on your own machine. Chat, work with your files, make Office documents and connect your chat apps. Free and open source.
+ Files, Office and chat apps: in development builds, coming in the next release.
+ Get started
+ See what is new
+ $
+ curl -sSL https://localai.io/install.sh | sh copy
+ Or a container
+, the desktop app
+ or Kubernetes
+. Then open http://localhost:8080 .
+ CPU or GPU NVIDIA, AMD, Intel and Apple
+ 17 own engines Written by the team, mostly in C++
+ Your server Files stay on your hardware
+ MIT licence Open since March 2023, 50,265 stars
+ Chat
+ Talk. Then it works
+.
+ Chat with an open model that runs on your own hardware. Ask it to read a file, make a table or write a report.
+ Save agents. Each one has its own model, skills and memory.
+ Ask for an image, a sound or a spoken line. The result is saved in Files.
+ The assistant can propose a memory. You confirm it before it is kept.
+ In development builds, coming in the next release.
+ See Chat &rarr;
+ Chat docs &rarr;
+ Chat
+ Illustration 
+ Summarise the attached report and list the open questions.
+ read file
+ report.pdf
+ Here is a short summary. I found three open questions at the end.
+ Ask anything
+ &uarr; 
+ Files and Sandbox
+ Files in. Python in a box
+.
+ Put a spreadsheet in Files and ask for a chart. The Sandbox runs Python on it and saves the result in Files.
+ Your files stay on your server, and an agent can read and search them.
+ The sandbox has no internet unless an admin allows it.
+ Every change is listed in History, with an Undo button.
+ Sandbox is an add-on. An admin installs it once.
+ In development builds, coming in the next release.
+ See Sandbox &rarr;
+ See Files &rarr;
+ Sandbox
+ Illustration 
+ python
+ network off
+ import
+ pandas as
+ pd
+df = pd.read_excel( "data.xlsx"
+)
+df.plot().figure.savefig( "chart.png"
+) 
+ chart.png
+ Saved in Files. Listed in History, with Undo.
+ Office
+ A sentence becomes a document
+.
+ Ask in a chat. LocalAI makes real Word, Excel, PowerPoint and PDF files and saves them in Files.
+ Reads a spreadsheet and writes the report around it.
+ Shows a preview in the chat. The file opens in Office.
+ Makes and reads PDF files. It does not edit them.
+ Office is an add-on. An admin installs it once.
+ In development builds, coming in the next release.
+ See Office &rarr;
+ Office docs &rarr;
+ Chat
+ Illustration 
+ Turn the spreadsheet into a two-page report with one chart.
+ Done. I saved the report in Files.
+ report.docx
+ Saved in Files.
+ Open
+ History
+ Share
+ Team
+ One server. Your whole team
+.
+ Each person has a login and their own chats. An admin chooses what each person can use.
+ An admin turns features on or off for each person.
+ Shared folders give the team files in common.
+ Admins can read all chats.
+ In development builds, coming in the next release.
+ See Team &rarr;
+ Users and sharing &rarr;
+ Admin, users
+ Illustration 
+ Person
+ Chat
+ Office
+ Pages
+ A Admin
+ B User
+ C User
+ Collections
+ Ask your documents
+.
+ Collections index PDF, text, Markdown and web pages. An agent finds the passages by meaning.
+ An agent searches a collection only when you name it.
+ Add files or a web address as a source.
+ With user accounts, an admin turns Collections on for each person.
+ In development builds, coming in the next release.
+ See Collections &rarr;
+ Knowledge docs &rarr;
+ Knowledge
+ Illustration 
+ Search a collection
+ ⌕ 
+ PDF
+ Web page
+ Markdown
+ Home, pages and triggers
+ A Home that keeps
+ itself current.
+ Ask for a small page and pin it to Home. Widgets show your data. A trigger can start a run on a schedule, or when a file arrives.
+ The assistant proposes a page. You confirm it, then it is saved to your files.
+ Home takes up to three page tiles and twelve widgets.
+ A schedule trigger runs at most once every five minutes.
+ Pages and Triggers are off for new users until an admin turns them on.
+ In development builds, coming in the next release.
+ See Pages &rarr;
+ Home docs &rarr;
+ Home
+ Illustration 
+ List 
+ Trend 
+ Page 
+ Trigger Every weekday
+ New file in a folder
+ Add-ons and chat apps
+ Add what you need. Text it from your phone
+.
+ Add-ons bring Office, Sandbox, Tables and more. Others connect an agent to Slack, Telegram and Discord.
+ You see what an add-on may do before it installs, and you choose.
+ A chat app connection is bound to one agent.
+ The agent answers from your Files.
+ An admin installs add-ons and turns on connectors.
+ In development builds, coming in the next release.
+ See Add-ons &rarr;
+ See Connectors &rarr;
+ Add-on library
+ Illustration 
+ Office Word, Excel, PDF and PowerPoint.
+ Install
+ Sandbox Python and shell, isolated.
+ Install
+ Tables Data the assistant can read.
+ Install
+ Calendar A calendar inside LocalAI.
+ Install
+ You see what an add-on may do before it installs.
+ Models
+ Open models, your hardware
+.
+ Pick a model from the gallery. LocalAI installs it and picks an engine that fits your machine.
+ It runs on a CPU. A GPU makes it faster.
+ Engines download the first time a model needs one.
+ The team wrote 17 of the engines itself.
+ See Models &rarr;
+ See the engines &rarr;
+ Model gallery
+ Illustration 
+ Chat model engine picked for you
+ Speech model engine picked for you
+ Image model engine picked for you
+ Builds your machine can run are ranked first.
+ Everything new
+.
+ Each card opens the page that says how to use it.
+ Office
+ Word, Excel, PowerPoint and PDF from a sentence.
+ In development builds
+ Docs &rarr;
+ Files
+ Upload, share folders, use them in a chat.
+ In development builds
+ Docs &rarr;
+ Sandbox
+ Python and shell in an isolated box.
+ In development builds
+ Docs &rarr;
+ Team
+ A login per person. Admins choose features.
+ In development builds
+ Docs &rarr;
+ Collections
+ Search your documents by meaning.
+ In development builds
+ Docs &rarr;
+ Home and pages
+ Widgets, small pages and triggers.
+ In development builds
+ Docs &rarr;
+ Chat apps
+ Slack, Telegram and Discord.
+ In development builds
+ Docs &rarr;
+ Add-ons
+ Install tools, apps and services.
+ In development builds
+ Docs &rarr;
+ Models
+ A gallery. An engine that fits your machine.
+ Docs &rarr;
+ MCP and API
+ OpenAI and Anthropic APIs. MCP tools.
+ Docs &rarr;
+ Get started
+ Install in a minute
+.
+ macOS app, Linux script, Docker or Kubernetes. Backends download the first time a model needs one.
+ Get started
+ All downloads
+ Script
+ Docker
+ Kubernetes
+ shell
+ copy
+ Script
+ $
+ curl -sSL https://localai.io/install.sh | sh
+ $
+ local-ai run qwen3-4b
+ # the API and the web UI are on http://localhost:8080
+ Docker
+ $
+ docker run -p 8080:8080 --name local-ai -ti localai/localai:latest
+ # Podman works the same way
+ Kubernetes
+ $
+ helm repo add go-skynet https://go-skynet.github.io/helm-charts/
+ $
+ helm install local-ai go-skynet/local-ai
+ # or: kubectl apply -f https://localai.io/install/kubernetes.yaml
+ More: containers and GPU images
+, the desktop app (Linux and macOS)
+, Linux
+, Helm chart
+, build from source
+ The script, the macOS app and the latest container image give version 4.12.1. Office, Sandbox, Team and add-ons need a development build or a newer release.
+ Ready to work
+ for you.
+ localai.io
+ Get started
+ Your own AI, on your own hardware. Free and open source under the MIT licence.
+ Product
+ Features
+ Add-ons
+ Models
+ Engines
+ Learn
+ Get started
+ Download
+ Documentation
+ Blog
+ Community
+ GitHub
+ Discord
+ X
+ Hugging Face
+ Sponsor
+ &copy; 2026 LocalAI
+ MIT licence
+ localai.io
+ GitHub
+ Discord
+ Edit this page

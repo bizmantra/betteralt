@@ -1,12 +1,19 @@
 {
- "at": "2026-11-09T03:48:39.362Z",
- "total": 227,
+ "at": "2026-11-16T03:31:56.898Z",
+ "total": 239,
  "failed": [
   {
    "slug": "tabnine",
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "languagetool",
+   "region": "in",
+   "pass": false,
+   "reason": "no ₹ amounts on page",
    "method": "playwright"
   },
   {
@@ -17,17 +24,17 @@
    "method": "playwright"
   },
   {
-   "slug": "adobe-express",
-   "region": "us",
-   "pass": false,
-   "reason": "too short (0 chars, http 0)",
-   "method": "playwright"
-  },
-  {
    "slug": "capcut",
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "udio",
+   "region": "us",
+   "pass": false,
+   "reason": "too short (0 chars, http 200)",
    "method": "playwright"
   },
   {
@@ -52,13 +59,6 @@
    "method": "playwright"
   },
   {
-   "slug": "gorgias",
-   "region": "us",
-   "pass": false,
-   "reason": "no $ amounts on page",
-   "method": "playwright"
-  },
-  {
    "slug": "quizlet",
    "region": "us",
    "pass": false,
@@ -66,10 +66,24 @@
    "method": "playwright"
   },
   {
-   "slug": "framer",
+   "slug": "gorgias",
+   "region": "us",
+   "pass": false,
+   "reason": "no $ amounts on page",
+   "method": "playwright"
+  },
+  {
+   "slug": "shopify-magic",
    "region": "in",
    "pass": false,
-   "reason": "no ₹ amounts on page",
+   "reason": "too short (0 chars, http 0)",
+   "method": "playwright"
+  },
+  {
+   "slug": "webflow",
+   "region": "us",
+   "pass": false,
+   "reason": "too short (0 chars, http 0)",
    "method": "playwright"
   }
  ]
