@@ -1,9 +1,9 @@
-# Gate report 2026-11-16T03:51:48.746Z
+# Gate report 2026-11-18T04:39:05.488Z
 
-- tools: 224, verified after gate: 208
-- links: 239 links checked, 0 dead
+- tools: 236, verified after gate: 218
+- links: 251 links checked, 0 dead
 - hard violations: 0
-- soft findings: 4
+- soft findings: 6
 
 ## Hard
 - none
@@ -13,3 +13,5 @@
 - [max-age] pitch: newest snapshot 2026-10-29 is older than 14 days → shown as not yet verified
 - [max-age] soundraw: newest snapshot 2026-10-29 is older than 14 days → shown as not yet verified
 - [max-age] mubert: newest snapshot 2026-10-22 is older than 14 days → shown as not yet verified
+- [max-age] dovetail: newest snapshot 2026-11-02 is older than 14 days → shown as not yet verified
+- [max-age] openseo: newest snapshot 2026-11-02 is older than 14 days → shown as not yet verified

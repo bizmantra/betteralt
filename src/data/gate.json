@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-16T03:51:48.746Z",
+ "generatedAt": "2026-11-18T04:39:05.488Z",
  "maxAgeDays": 14,
- "linkCheck": "239 links checked, 0 dead",
+ "linkCheck": "251 links checked, 0 dead",
  "tools": {
   "chatgpt": {
    "verified": true,
@@ -733,9 +733,10 @@
    "snapshot": "data/snapshots/productboard/2026-11-16.txt"
   },
   "dovetail": {
-   "verified": true,
+   "verified": false,
    "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/dovetail/2026-11-02.txt"
+   "snapshot": "data/snapshots/dovetail/2026-11-02.txt",
+   "reason": "stale"
   },
   "miro": {
    "verified": true,
@@ -954,9 +955,10 @@
    "snapshot": "data/snapshots/hob/2026-11-16.txt"
   },
   "openseo": {
-   "verified": true,
+   "verified": false,
    "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/openseo/2026-11-02.txt"
+   "snapshot": "data/snapshots/openseo/2026-11-02.txt",
+   "reason": "stale"
   },
   "gridcraft": {
    "verified": true,
@@ -1142,6 +1144,66 @@
    "verified": true,
    "checkedAt": "2026-11-16",
    "snapshot": "data/snapshots/open-notebook/2026-11-16.txt"
+  },
+  "yogurt": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/yogurt/2026-11-18.txt"
+  },
+  "handy": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/handy/2026-11-18.txt"
+  },
+  "open-code-review": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/open-code-review/2026-11-18.txt"
+  },
+  "freebuff": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/freebuff/2026-11-18.txt"
+  },
+  "edge0": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/edge0/2026-11-18.txt"
+  },
+  "agentes-chat": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/agentes-chat/2026-11-18.txt"
+  },
+  "agentrun": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/agentrun/2026-11-18.txt"
+  },
+  "hikaku": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/hikaku/2026-11-18.txt"
+  },
+  "lastbook": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/lastbook/2026-11-18.txt"
+  },
+  "phone-use": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/phone-use/2026-11-18.txt"
+  },
+  "boring-marketing-skills": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/boring-marketing-skills/2026-11-18.txt"
+  },
+  "kitesurf": {
+   "verified": true,
+   "checkedAt": "2026-11-18",
+   "snapshot": "data/snapshots/kitesurf/2026-11-18.txt"
   }
  },
  "dead": [],
@@ -1150,6 +1212,8 @@
   "[max-age] invideo: newest snapshot 2026-10-29 is older than 14 days → shown as not yet verified",
   "[max-age] pitch: newest snapshot 2026-10-29 is older than 14 days → shown as not yet verified",
   "[max-age] soundraw: newest snapshot 2026-10-29 is older than 14 days → shown as not yet verified",
-  "[max-age] mubert: newest snapshot 2026-10-22 is older than 14 days → shown as not yet verified"
+  "[max-age] mubert: newest snapshot 2026-10-22 is older than 14 days → shown as not yet verified",
+  "[max-age] dovetail: newest snapshot 2026-11-02 is older than 14 days → shown as not yet verified",
+  "[max-age] openseo: newest snapshot 2026-11-02 is older than 14 days → shown as not yet verified"
  ]
 }

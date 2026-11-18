@@ -1,0 +1,98 @@
+[
+ {
+  "archived": false,
+  "created": "2026-11-10T20:01:01Z",
+  "pushed": "2026-11-18T04:00:44Z",
+  "repo": "https://github.com/FrigadeHQ/yogurt",
+  "spdx": "MIT",
+  "stars": 2052
+ },
+ {
+  "archived": false,
+  "created": "2025-02-13T02:42:29Z",
+  "pushed": "2026-11-16T04:01:38Z",
+  "repo": "https://github.com/cjpais/Handy",
+  "spdx": "MIT",
+  "stars": 39128
+ },
+ {
+  "archived": false,
+  "created": "2026-05-18T02:16:36Z",
+  "pushed": "2026-11-18T03:57:45Z",
+  "repo": "https://github.com/alibaba/open-code-review",
+  "spdx": "Apache-2.0",
+  "stars": 53865
+ },
+ {
+  "archived": false,
+  "created": "2024-07-09T21:21:56Z",
+  "pushed": "2026-11-18T04:29:23Z",
+  "repo": "https://github.com/CodebuffAI/freebuff",
+  "spdx": "Apache-2.0",
+  "stars": 14220
+ },
+ {
+  "archived": false,
+  "created": "2026-09-08T13:41:47Z",
+  "pushed": "2026-11-18T03:52:08Z",
+  "repo": "https://github.com/Edge0-AI/Edge0",
+  "spdx": "Apache-2.0",
+  "stars": 12001
+ },
+ {
+  "archived": false,
+  "created": "2026-11-09T00:50:28Z",
+  "pushed": "2026-11-18T04:06:35Z",
+  "repo": "https://github.com/agentes-chat/agentes-chat",
+  "spdx": "AGPL-3.0",
+  "stars": 1691
+ },
+ {
+  "archived": false,
+  "created": "2026-09-23T00:27:34Z",
+  "pushed": "2026-11-18T04:30:01Z",
+  "repo": "https://github.com/Parcha-ai/agentrun",
+  "spdx": "Apache-2.0",
+  "stars": 1213
+ },
+ {
+  "archived": false,
+  "created": "2026-11-14T14:06:05Z",
+  "pushed": "2026-11-14T20:36:06Z",
+  "repo": "https://github.com/hikaku-io/hikaku-extension",
+  "spdx": "Apache-2.0",
+  "stars": 408
+ },
+ {
+  "archived": false,
+  "created": "2026-11-12T23:49:03Z",
+  "pushed": "2026-11-18T03:25:03Z",
+  "repo": "https://github.com/Immortal-Protocols/lastbook",
+  "spdx": "MIT",
+  "stars": 1860
+ },
+ {
+  "archived": false,
+  "created": "2026-11-07T01:28:30Z",
+  "pushed": "2026-11-15T00:50:24Z",
+  "repo": "https://github.com/lxe/phoneuse",
+  "spdx": "MIT",
+  "stars": 684
+ },
+ {
+  "archived": false,
+  "created": "2026-11-16T15:09:46Z",
+  "pushed": "2026-11-17T22:53:58Z",
+  "repo": "https://github.com/boringmarketer/boring-marketing-skills",
+  "spdx": "MIT",
+  "stars": 552
+ },
+ {
+  "archived": false,
+  "created": "2026-09-30T08:51:43Z",
+  "pushed": "2026-11-17T20:56:32Z",
+  "repo": "https://github.com/cloudflare/kitesurf",
+  "spdx": "Apache-2.0",
+  "stars": 2285
+ }
+]

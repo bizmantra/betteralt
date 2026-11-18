@@ -1,0 +1,90 @@
+#SNAPSHOT {"url":"https://lastbook.org/","finalUrl":"https://lastbook.org/","fetchedAt":"2026-11-18T04:37:34.657Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"d8ba60c83c6f169777c313a3eb98d50f8f49ba64793d3e411a9cf22aa31b0175"}
+Lastbook — Everything you need to survive and rebuild society. 
+ Skip to content
+ Lastbook
+ Open source ↗
+ Lastbook
+ Everything you need to survive and rebuild society.
+Free, local, offline and private. It’s for Mac, Windows and Linux computers, not iPhone, iPad or Android. Open lastbook.org on your computer. 
+ Download for Mac
+ 28.4 MB · Apple M1 or newer · macOS 14+
+ Download for Windows
+ 105 MB · Windows 10 or 11, 64-bit
+ Download for Linux
+ Ubuntu 24.04 or 26.04 · Intel/AMD 64-bit
+ Open source. Built by the community.
+ Build with us on GitHub
+ ☆
+ 748 stars
+ ↗
+ Free, local, private.
+ AI
+ Free. Local. Private.
+ Gemma 4 26B A4B
+ Maps
+ Free. Local. Private.
+ 258,000+ searchable places
+ W Water
+ + Medical
+ F Fire stations
+ ⌂ Shelters
+ Videos
+ Free. Local. Private.
+ 2,324 videos
+ First aid & health
+ Wounds, illness and emergency care.
+ Safe drinking water
+ Find, filter, treat and store water.
+ Food & preservation
+ Grow, prepare and preserve your food.
+ Critical repairs
+ Tools, equipment and shelter repairs.
+ Power & energy
+ Generators, solar and electrical basics.
+ Emergency preparedness
+ Plan for outages, disasters and evacuation.
+ Lastbook is open source.
+ Help us improve it.
+ Improve the app
+ Code, design and accessibility.
+ Grow the library
+ Recommend resources and help review guides.
+ Try it. Tell us.
+ Report bugs and share what you need.
+ Questions
+ Will it run on my computer? 
+ On a Mac, you need Apple Silicon (M1 or newer) and macOS 14 Sonoma or newer. Intel Macs are not supported. To check: Apple menu > About This Mac . Chip should say Apple M1 or later (M2, M3 and so on), and macOS should be 14 or higher.
+ On Windows, you need Windows 10 or 11, 64-bit. To check: Settings > System > About . System type should say 64-bit.
+ Lastbook doesn’t run on phones or tablets.
+ How much space do I need? 
+ Choose Small (7.7 GB), Medium (67.5 GB), or All (about 388 GB). Local AI adds about 17 GB. Your selected state map and address index add more, with sizes shown in setup. Mac setup checks free space before downloading.
+ Does it need the internet? 
+ Internet is needed to download the app, library and optional AI. Once setup finishes, reading, maps, videos and AI work offline.
+ What is Chat? 
+ Chat uses the optional local Gemma model to answer questions from your library and link to its sources. It is available in the Mac, Windows and Linux apps.
+ Is the medical information checked? 
+ It comes from published guides, such as Hesperian, the World Health Organization and the Red Cross. Lastbook itself is not clinically reviewed, and it doesn’t replace trained care. In an emergency, call 911 if you can.
+ Is there a bigger library? 
+ Yes. Small (7.7 GB) and Medium (67.5 GB) are available. All (about 388 GB) is also available. Mac setup shows the available choices.
+ Something else? 
+ Email hello@lastbook.org
+.
+ Set it up now, while you have internet and power.
+ Then it’s ready when you need it. Free for Mac, Windows and Linux.
+ Download for Mac
+ Download for Windows
+ Download for Linux
+ Mac 1.1.11 · 28.4 MB · Windows 1.1.11 · 105 MB · Linux 1.1.11 · 29.9 MB
+ Buying guide
+ Practical gear for first aid, water, food and repairs.
+ Purchases through our affiliate links help support Lastbook. Shopping is optional, and the app is free.
+ Explore the buying guide
+ Not clinically reviewed. Lastbook doesn’t replace trained care. In an emergency, call 911 if you can.
+ Download
+ What’s in the library
+ Buying guide
+ Privacy
+ Credits and licences
+ Check your download
+ hello@lastbook.org
+ Lastbook · 13 November 2026 · This site has no cookies and no tracking. Third-party licences are listed in Credits.
