@@ -1,0 +1,361 @@
+#SNAPSHOT {"url":"https://writer.com/plans/","finalUrl":"https://writer.com/plans/","fetchedAt":"2026-11-19T03:32:34.218Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"89d29f4b2859ab6865b47b70e20bac6037f414a560160af0fb559e23b6052aaf"}
+WRITER plans 
+ Skip to content
+ Request a demo
+ Product 
+ Updated playbook hub
+ The AI playbooks 10x marketers run
+ Explore the hub →
+ Agent
+ Overview
+ WRITER Agent executes complex work across systems
+ Agent orchestration
+ Create Playbooks for multi-step workflows with natural language
+ Agent management
+ Monitor adoption, scale what works, and govern agents
+ Connectors
+ Integrate with your stack of business apps and tools
+ Platform
+ Enterprise Brain
+ Ground agents in team decisions, brand guidelines, and compliance
+ Models
+ Flagship LLM for enterprise work
+ Trust & security
+ Security, privacy, compliance, and AI governance
+ Solutions 
+ New! 2026 edition
+ The business leader&#x27;s guide to agentic AI in 2026
+ Download now →
+ Industries
+ Financial services
+ Healthcare & life sciences
+ Retail & consumer goods
+ Technology
+ Departments
+ Marketing
+ Sales
+ Support
+ Research
+ Plans
+ Customers
+ Resources 
+ New webinar
+ The marketing operating model behind BetterHelp
+ Watch Now →
+ Resources
+ Writer’s Room blog
+ Engineering blog
+ Guides
+ Podcast: Humans of AI
+ Resources
+ Events & webinars
+ AI ROI calculator
+ AI playbook hub
+ WRITER Academy
+ Log in
+ Request a demo
+ Plans & Pricing
+ Empower your entire organization to transform work with agentic AI
+ Starter
+ For fast-moving teams kickstarting AI exploration
+ Try for free
+ 14-day free trial. No credit card required.
+ What’s included in Starter:
+ Up to 5 users
+ WRITER Agent — one interface for chat and automation
+ Create and run up to 5 Playbooks
+ 1 team Personality profile
+ Basic connectors
+ Enterprise
+ Built for large organizations scaling agentic workflows with control, and compliance
+ Contact sales
+ Everything in Starter, plus:
+ As many users, teams, and free collaborators as needed
+ Unrestricted number of playbooks, routines, and cross-team workflows
+ Advanced orchestration, approvals, and admin controls
+ Full Knowledge Graph capabilities with unrestricted connectors
+ Departmental brand and voice profiles
+ Full interoperability with your systems and LLMs
+ Granular agent governance, observability, and auditability
+ Priority enterprise support and AI program management
+ World-class companies trust WRITER
+ Compare plans and features
+ Starter
+ Enterprise
+ Try for free
+ Contact sales
+ Intelligent interface
+ WRITER Agent
+ Yes
+ Yes
+ Multi-modal outputs
+ Yes
+ Yes
+ Canvas editing
+ Yes
+ Yes
+ Control Center
+ Limited Access
+ Full Access
+ Agent Builder
+ No
+ Yes
+ Workflow engine
+ Users included
+ Up to 5 users
+ As many as needed
+ Build access
+ Required for all users
+ As many as needed
+ Run access
+ No
+ Yes
+ Playbooks
+ 5
+ Unlimited
+ Scheduled routines
+ Up to 3
+ Unlimited
+ Chained workflows
+ No
+ Yes
+ Sharable playbooks
+ Team-only
+ Cross-team
+ Agent Library
+ 100+ prebuilt agents
+ Full access with admin curation
+ Data and Context
+ WRITER Knowledge Graph
+ No
+ As many as needed
+ Storage
+ No
+ 50 GB in a single graph
+ Basic connectors
+ Yes
+ Yes
+ Advanced connectors
+ No
+ Yes
+ Industry-specific connectors
+ No
+ Yes
+ Enterprise data sources
+ No
+ Yes
+ Active connectors
+ Up to 3
+ Unlimited
+ Website allow / block lists
+ No
+ Yes
+ API access
+ Yes
+ Expanded rate limits
+ Agent Intelligence
+ Code execution
+ Yes
+ Yes
+ Browser automation & takeover
+ Yes
+ Yes
+ Presentation generator
+ Yes
+ Yes
+ Browser automation
+ Yes
+ Yes
+ Deployments & hosting
+ Yes
+ Yes
+ File generation
+ Yes
+ Yes
+ Image analysis
+ Yes
+ Yes
+ Image generation
+ Yes
+ Yes
+ Data analysis
+ Yes
+ Yes
+ Web search
+ Yes
+ Yes
+ Domain-specific models
+ No
+ Yes
+ Model flexibility
+ WRITER default models
+ Works with preferred LLMs
+ Brand voice & personality
+ Team default
+ Yes
+ Guardrails
+ Basic
+ Advance
+ Custom skills
+ No
+ Yes
+ Governance
+ Agent observability
+ No
+ Yes
+ Audit logs
+ No
+ Yes
+ Knowledge and connector access controls
+ No
+ Yes
+ Integration with third party guardrails
+ No
+ Yes
+ Role-based access
+ No
+ Yes
+ Customisable roles and permissions
+ For 1 team
+ Yes
+ Multi-factor-authentication
+ No
+ Yes
+ SAML SSO
+ No
+ Yes
+ SCIM provisioning
+ No
+ Yes
+ Team & org-level policies
+ For 1 team
+ Yes
+ Admin reporting
+ Basic
+ Yes
+ Brand controls
+ No
+ Yes
+ Service hours
+ No
+ Available as add-ons
+ Security and compliance
+ Data privacy
+ Yes
+ Yes
+ 256-bit AES and SSL/TLS encryption
+ Yes
+ Yes
+ DPA for GDPR and CCPA compliance
+ Yes
+ Yes
+ Fully managed platform deployment and scaling
+ Yes
+ Yes
+ BAA for HIPAA compliance
+ No
+ Yes
+ SOC 2 Type II
+ No
+ Report available upon request
+ LLM technical report
+ No
+ Report available upon request
+ Customer support and onboarding
+ Email support
+ Observable bugs
+ Yes
+ WRITER Academy
+ Yes
+ Yes
+ Technical onboarding support
+ No
+ Yes
+ Quarterly onsite reviews
+ No
+ Yes
+ Ongoing platform support & scaling
+ No
+ Yes
+ Visibility into product roadmap
+ No
+ Yes
+ AI program management
+ No
+ Yes
+ FAQs
+ Frequently asked questions
+ General
+ Security
+ Billing
+ What is WRITER Agent? 
+ WRITER Agent is a single intelligent interface that turns complex, multi-step work into repeatable, automated workflows. Different from a chat-only AI assistant, WRITER Agent can orchestrate and execute work across teams and systems, while operating within org-level rules and compliance requirements.
+ How is WRITER different from chatbots or copilots? 
+ AI chat is great for individual productivity, and simple tasks, but WRITER helps organizations execute and run workflows. Playbooks, routines, data grounding, and governance make WRITER capable of producing consistent, compliant, on-brand work at scale — not just one-off outputs.
+ How does WRITER’s pricing work? 
+ Starter offers monthly or annual per-seat plans with fixed credit limits. Enterprise includes regular seats, and unlimited free users, plus optional solution packs and services as you grow.
+ How does WRITER keep outputs on-brand and compliant? 
+ Personality profiles, style guides, and data grounding ensure every deliverable reflects your brand and rules — automatically. Teams stay consistent without extra review cycles.
+ Can WRITER work with our systems and data? 
+ Yes. WRITER connects to the tools where work happens so playbooks can use real, up-to-date information. This enables automation that’s reliable, contextual, and measurable.
+ How secure is WRITER? 
+ WRITER is the only end-to-end platform for scaling agentic AI in the enterprise. We adhere to global privacy laws and industry-recognized security standards with measures to help you meet your compliance obligations, including GDPR, HIPAA, SOC 2 Type II, and PCI. HIPAA and SOC 2 Type II compliance certifications and reports are available upon request for Enterprise plans.
+ What does WRITER do with my data? 
+ With WRITER, you retain full ownership of your data, and we take a zero data retention approach. By default, we don’t train or improve our models on customer data. Some AI providers use customer data to test or optimize their models and services, often requiring customers to opt out of training on their data or upgrade to a paid plan to avoid training.
+ What’s the difference between Pro and Lite seats? 
+ Pro seats are the standard paid WRITER seat type. They give users full access to create, customize, and automate workflows with extended usage capacity. Lite seats are only available on Enterprise plans as a way for new or invited users to try the WRITER platform. Lite seat users can view and run existing playbooks and use WRITER Agent in a limited capacity per month. Additional usage beyond the limited capacity will require an upgrade to a pro seat.
+ How do I cancel my plan or reduce the number of seats? 
+ To cancel a paid plan, open “Org settings” in the left panel, go to “Billing”, and select “Cancel plan” for the account you’re logged into.
+ What’s the refund policy? 
+ If you cancel your plan before the next renewal cycle, you will retain access to paid features until the end of your current subscription period. When your subscription expires, you will lose access to paid features and all data associated with those features. We reserve the right to approve refunds on a case-by-case basis, but we are not obligated to give a refund in any circumstance.
+ I am a nonprofit. Do you offer any discounts? 
+ WRITER offers a 20% discount on the Starter and Enterprise plans to non-profits and educational institutions. Email [email protected]
+ using your non-profit or .edu email address to get your discount code.
+ What payment methods do you support? 
+ WRITER supports all major credit cards and debit cards. Unfortunately, we do not support ACH, offline invoicing, or PayPal at this time.
+ We need to change the number of people in our team. How will that work? 
+ To update the number of users in your plan, go to the billing section of your admin console, and click “Manage Plan”. Only the billing admin has the ability to add or remove users.
+ Contact sales
+ Close
+ Make WRITER part of your team
+ Request a demo
+ Try for free
+ Product
+ Models
+ WRITER Agent
+ Control Center
+ Enterprise Brain
+ WRITER for Slack
+ Request a demo
+ AI marketing consultation
+ Resources
+ Guides
+ AI blog
+ SEO AEO GEO
+ Engineering blog
+ Enterprise AI agents
+ Marketing AI ROI calculator
+ Company
+ About
+ Careers
+ Partners
+ Legal hub
+ Newsroom
+ Contact us
+ Support
+ Status
+ Help center
+ Trust center
+ AI Academy
+ Developer docs
+ Get the latest updates about enterprise AI
+ Subscribe to Writer’s Brief
+ © 2026 WRITER
+ LinkedIn
+ X
+ Manage settings
+ Terms
+ Privacy
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https:\/\/schema.org","@graph":[{"@id":"https:\/\/writer.com\/plans\/","@type":["WebPage","FAQPage"],"url":"https:\/\/writer.com\/plans\/","name":"WRITER plans","isPartOf":{"@id":"https:\/\/writer.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/writer.com\/plans\/#primaryimage"},"image":{"@id":"https:\/\/writer.com\/plans\/#primaryimage"},"thumbnailUrl":"https:\/\/writer.com\/wp-content\/uploads\/2024\/03\/Group_ac7abc.svg","datePublished":"2025-12-09T19:11:59+00:00","dateModified":"2026-11-13T09:47:08+00:00","description":"Compare WRITER plans and empower your entire organization to transform work with agentic AI. Start a 14-day free trial, or contact sales.","breadcrumb":{"@id":"https:\/\/writer.com\/plans\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/writer.com\/plans\/"]}],"headline":"Frequently asked questions","mainEntity":[{"@type":"Question","name":"What is WRITER Agent?","acceptedAnswer":{"@type":"Answer","text":"WRITER Agent is a single intelligent interface that turns complex, multi-step work into repeatable, automated workflows. Different from a chat-only AI assistant, WRITER Agent can orchestrate and execute work across teams and systems, while operating within org-level rules and compliance requirements."}},{"@type":"Question","name":"How is WRITER different from chatbots or copilots?","acceptedAnswer":{"@type":"Answer","text":"AI chat is great for individual productivity, and simple tasks, but WRITER helps organizations execute and run workflows. Playbooks, routines, data grounding, and governance make WRITER capable of producing consistent, compliant, on-brand work at scale — not just one-off outputs."}},{"@type":"Question","name":"How does WRITER’s pricing work?","acceptedAnswer":{"@type":"Answer","text":"Starter offers monthly or annual per-seat plans with fixed credit limits. Enterprise includes regular seats, and unlimited free users, plus optional solution packs and services as you grow."}},{"@type":"Question","name":"How does WRITER keep outputs on-brand and compliant?","acceptedAnswer":{"@type":"Answer","text":"Personality profiles, style guides, and data grounding ensure every deliverable reflects your brand and rules — automatically. Teams stay consistent without extra review cycles."}},{"@type":"Question","name":"Can WRITER work with our systems and data?","acceptedAnswer":{"@type":"Answer","text":"Yes. WRITER connects to the tools where work happens so playbooks can use real, up-to-date information. This enables automation that’s reliable, contextual, and measurable."}},{"@type":"Question","name":"How secure is WRITER?","acceptedAnswer":{"@type":"Answer","text":"WRITER is the only end-to-end platform for scaling agentic AI in the enterprise. We adhere to global privacy laws and industry-recognized security standards with measures to help you meet your compliance obligations, including GDPR, HIPAA, SOC 2 Type II, and PCI. HIPAA and SOC 2 Type II compliance certifications and reports are available upon request for Enterprise plans."}},{"@type":"Question","name":"What does WRITER do with my data?","acceptedAnswer":{"@type":"Answer","text":"With WRITER, you retain full ownership of your data, and we take a zero data retention approach. By default, we don’t train or improve our models on customer data. Some AI providers use customer data to test or optimize their models and services, often requiring customers to opt out of training on their data or upgrade to a paid plan to avoid training."}},{"@type":"Question","name":"What’s the difference between Pro and Lite seats?","acceptedAnswer":{"@type":"Answer","text":"Pro seats are the standard paid WRITER seat type. They give users full access to create, customize, and automate workflows with extended usage capacity. Lite seats are only available on Enterprise plans as a way for new or invited users to try the WRITER platform. Lite seat users can view and run existing playbooks and use WRITER Agent in a limited capacity per month. Additional usage beyond the limited capacity will require an upgrade to a pro seat."}},{"@type":"Question","name":"How do I cancel my plan or reduce the number of seats?","acceptedAnswer":{"@type":"Answer","text":"To cancel a paid plan, open “Org settings” in the left panel, go to \"Billing\", and select \"Cancel plan\" for the account you’re logged into."}},{"@type":"Question","name":"What’s the refund policy?","acceptedAnswer":{"@type":"Answer","text":"If you cancel your plan before the next renewal cycle, you will retain access to paid features until the end of your current subscription period. When your subscription expires, you will lose access to paid features and all data associated with those features. We reserve the right to approve refunds on a case-by-case basis, but we are not obligated to give a refund in any circumstance."}},{"@type":"Question","name":"I am a nonprofit. Do you offer any discounts?","acceptedAnswer":{"@type":"Answer","text":"WRITER offers a 20% discount on the Starter and Enterprise plans to non-profits and educational institutions. Email support@WRITER.com using your non-profit or .edu email address to get your discount code."}},{"@type":"Question","name":"What payment methods do you support?","acceptedAnswer":{"@type":"Answer","text":"WRITER supports all major credit cards and debit cards. Unfortunately, we do not support ACH, offline invoicing, or PayPal at this time."}},{"@type":"Question","name":"We need to change the number of people in our team. How will that work?","acceptedAnswer":{"@type":"Answer","text":"To update the number of users in your plan, go to the billing section of your admin console, and click \"Manage Plan\". Only the billing admin has the ability to add or remove users."}}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/writer.com\/plans\/#primaryimage","url":"https:\/\/writer.com\/wp-content\/uploads\/2024\/03\/Group_ac7abc.svg","contentUrl":"https:\/\/writer.com\/wp-content\/uploads\/2024\/03\/Group_ac7abc.svg"},{"@type":"BreadcrumbList","@id":"https:\/\/writer.com\/plans\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"WRITER","item":"https:\/\/writer.com\/"},{"@type":"ListItem","position":2,"name":"WRITER plans"}]},{"@type":"WebSite","@id":"https:\/\/writer.com\/#website","url":"https:\/\/writer.com\/","name":"WRITER","description":"Reach the frontier of enterprise growth","publisher":{"@id":"https:\/\/writer.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/writer.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/writer.com\/#organization","name":"WRITER","url":"https:\/\/writer.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/writer.com\/#\/schema\/logo\/image\/","url":"https:\/\/writer.com\/wp-content\/uploads\/2023\/08\/writer.png","contentUrl":"https:\/\/writer.com\/wp-content\/uploads\/2023\/08\/writer.png","width":720,"height":720,"caption":"WRITER"},"image":{"@id":"https:\/\/writer.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/x.com\/Get_Writer","https:\/\/www.linkedin.com\/company\/getwriter","https:\/\/www.youtube.com\/channel\/UC281-zvPEcDSUJecVImA-KA","https:\/\/en.wikipedia.org\/wiki\/Writer_Inc."],"description":"WRITER is where the world’s leading enterprises orchestrate AI-powered work. With WRITER’s end-to-end platform, teams can build, activate, and supervise AI agents that are grounded in their company’s data and fueled by WRITER’s enterprise-grade LLMs. From faster product launches to deeper financial research to better clinical trials, companies are quickly transforming their most important business processes for the AI era in partnership with WRITER.","email":"hello@writer.com","telephone":"+1 (415) 275-1883","legalName":"Writer, Inc.","numberOfEmployees":{"@type":"QuantitativeValue","minValue":"201","maxValue":"500"}}]}

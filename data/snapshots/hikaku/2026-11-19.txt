@@ -1,0 +1,199 @@
+#SNAPSHOT {"url":"https://hikaku.io/","finalUrl":"https://hikaku.io/","fetchedAt":"2026-11-19T03:35:40.091Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"3412256d964a6b510455bf2598654ef5d8d86ac5ff18f2328757d8ef85962fd1"}
+Hikaku: free AI image detector for Chrome, Edge and Firefox 
+ Skip to content
+ Hikaku
+ How it works
+ Privacy
+ Guides
+ GitHub
+ Get Hikaku
+ Check for AI images
+ as you browse.
+ Hikaku flags signs of AI generation in images and video. Open a flag to see why. Everything is checked on your device.
+ Get Hikaku
+ View on GitHub
+ Free for Chrome, Edge & Firefox · Open source, Apache-2.0
+ Hikaku on a real listings page. The address is changed, and a model score is an estimate, not proof. 
+ See why something was flagged.
+ A small tag appears on flagged images and videos. Hover over it for a summary, or click to see the details. You can switch to a small dot in settings.
+ The details show whether the file declares AI use in its metadata or a detection model found it AI-like. To check an image yourself, right-click it and choose Inspect for AI generation .
+ You can also ask for a second model’s opinion from the image details.
+ A flag isn’t proof.
+ Hikaku can flag real photos and miss generated images. Use a result as a reason to look closer.
+ Read about accuracy
+ Flags appear as you scroll
+ Images near your screen are checked automatically, and flagged ones get an outline and a tag.
+ Click the tag for the evidence
+ See which check fired, how sure the model is, and the file details.
+ Most real photos stay quiet
+ A landscape photo from r/EarthPorn: no AI signals found. Real photos can still be flagged sometimes.
+ Get Hikaku for your browser
+ Chrome & Edge
+ For Chrome and Edge 116 or later.
+ Download for Chrome & Edge
+ How to install 
+ Download the ZIP file and unzip it.
+ Open your browser’s Extensions page: chrome://extensions or edge://extensions .
+ Turn on Developer mode , choose Load unpacked , and select the unzipped Hikaku folder containing manifest.json .
+ Firefox
+ For desktop Firefox 140 or later.
+ Download for Firefox
+ Firefox installation options
+ Version 0.1.0 is an early release, installed manually. The visual model downloads approximately 199–393 MB on first use, then stays cached in your browser. The popup shows download progress.
+ Your images stay on your device.
+ Images and video frames are checked in your browser. Hikaku has no accounts, analytics, or browsing-history collection. You don’t need to send your photos to a detection service.
+ Hikaku fetches media from the site you’re already viewing. Detection models download from Hugging Face once and are cached locally. Your browsing data is not included with that download.
+ Read the privacy policy
+ What the results can tell you
+ Hikaku checks both file metadata and the image itself. Metadata declarations are editable, and a model’s score isn’t a probability that an image is AI-generated. Neither check can give a reliable answer for every image.
+ Film scans, renders, and product photos can trigger false flags. Video checks are experimental. Face swaps and small edits to real photos are not reliably detected.
+ See the published test results 
+ Historical SwinV2 uint8 test on Reddit images 
+ Model-scored images
+ Flagged
+ Rate
+ AI-labelled
+ 152 / 234
+ 65.0%
+ Real-labelled
+ 15 / 237
+ 6.3%
+ 548 images in total. Labels come from subreddits and may be wrong. Including skipped images, 152 of 240 AI-labelled images were flagged. This does not establish accuracy across the web. The saved video benchmark flagged 4 of 18 AI-labelled videos.
+ Read the benchmark, method, and model comparison
+ Built in the open.
+ Hikaku is free software under the Apache-2.0 license. The extension and its benchmark are public on GitHub, so you can read exactly what runs in your browser, check how the accuracy numbers were measured, and suggest changes.
+ hikaku-extension
+ The browser extension: every check, the model setup, and the build.
+ hikaku-bench
+ The test images and scripts behind the accuracy numbers, so you can rerun them.
+ Star or fork on GitHub
+ Report a wrong flag
+ How to contribute
+ A few more questions
+ How does it check an image? Hikaku reads file metadata such as Content Credentials (C2PA), IPTC source types, and generator tags, then checks eligible images with an on-device visual model. File declarations and model estimates stay separate. A filter skips likely screenshots and flat graphics. Images smaller than 160 pixels on their shortest side are also skipped.
+ Will it slow down my browser? The first visual check includes a model download and initialization. After loading, the project has measured roughly 70–200 ms per image on a GPU and 0.5–1 second on a CPU; actual speed varies by device and image. Hikaku checks media near the viewport and caches results. You can turn the visual model off in settings and use metadata checks alone.
+ What does the second opinion do? It runs another detection model and shows its result alongside the first. The model downloads once when you request it (23 MB). The models can disagree; the second model does not cancel a flag from the first.
+ What do Balanced and Strict mean? Balanced flags explicit AI declarations in metadata and high-scoring visual-model estimates. Strict only flags explicit metadata declarations. Strict does not verify signatures or guarantee that a declaration is true.
+ How can I report a mistake? Open the image details, use Copy JSON, and submit a detection report
+. Review the copied result before posting it publicly: it can contain image URLs and metadata. Reports of false flags and missed images both help.
+ Hikaku · Free and open source · Apache-2.0
+ GitHub
+ Source code
+ Guides
+ Privacy
+ Report a problem
+
+#JSONLD (structured data published on the page, verbatim)
+[
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "@id": "https://hikaku.io/#app",
+      "name": "Hikaku",
+      "alternateName": "Hikaku AI image detector",
+      "description": "Free, open-source browser extension that flags AI-generated images and video on web pages and shows the evidence for each flag. It reads Content Credentials (C2PA), IPTC and generator metadata first, then runs an on-device AI-image detection model. Images and video frames are analyzed on the user’s device; they are never uploaded for analysis.",
+      "url": "https://hikaku.io/",
+      "applicationCategory": "BrowserApplication",
+      "applicationSubCategory": "AI image detection",
+      "operatingSystem": "Google Chrome 116+, Microsoft Edge 116+, Mozilla Firefox 140+",
+      "softwareVersion": "0.1.0",
+      "isAccessibleForFree": true,
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "license": "https://www.apache.org/licenses/LICENSE-2.0",
+      "downloadUrl": "https://github.com/hikaku-io/hikaku-extension/releases/latest",
+      "image": "https://hikaku.io/assets/og.png",
+      "screenshot": [
+        "https://hikaku.io/assets/screens/hero-shot.webp",
+        "https://hikaku.io/assets/screens/step-flag.webp",
+        "https://hikaku.io/assets/screens/step-details.webp",
+        "https://hikaku.io/assets/screens/step-real.webp"
+      ],
+      "featureList": [
+        "Reads Content Credentials (C2PA) and IPTC \"AI-generated\" labels",
+        "Detects generator tags and embedded prompts (Midjourney, DALL-E, Firefly, Stable Diffusion, ComfyUI)",
+        "On-device AI-image detection model (WebGPU or WebAssembly)",
+        "Checks video, including streamed video, by sampling frames",
+        "Checks animated GIF and WebP",
+        "Explains every flag with its signals and sources",
+        "No uploads, no account, no tracking"
+      ],
+      "publisher": {
+        "@id": "https://hikaku.io/#org"
+      },
+      "sameAs": [
+        "https://github.com/hikaku-io/hikaku-extension"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "@id": "https://hikaku.io/#org",
+      "name": "Hikaku",
+      "url": "https://hikaku.io/",
+      "logo": "https://hikaku.io/assets/icon128.png",
+      "sameAs": [
+        "https://github.com/hikaku-io"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "@id": "https://hikaku.io/#website",
+      "name": "Hikaku",
+      "url": "https://hikaku.io/",
+      "inLanguage": "en",
+      "publisher": {
+        "@id": "https://hikaku.io/#org"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How does it check an image?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hikaku reads file metadata such as Content Credentials (C2PA), IPTC source types, and generator tags, then checks eligible images with an on-device visual model. File declarations and model estimates stay separate. A filter skips likely screenshots and flat graphics. Images smaller than 160 pixels on their shortest side are also skipped."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will it slow down my browser?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The first visual check includes a model download and initialization. After loading, the project has measured roughly 70–200 ms per image on a GPU and 0.5–1 second on a CPU; actual speed varies by device and image. Hikaku checks media near the viewport and caches results. You can turn the visual model off in settings and use metadata checks alone."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does the second opinion do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It runs another detection model and shows its result alongside the first. The model downloads once when you request it (23 MB). The models can disagree; the second model does not cancel a flag from the first."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What do Balanced and Strict mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Balanced flags explicit AI declarations in metadata and high-scoring visual-model estimates. Strict only flags explicit metadata declarations. Strict does not verify signatures or guarantee that a declaration is true."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I report a mistake?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Open the image details, use Copy JSON, and submit a detection report. Review the copied result before posting it publicly: it can contain image URLs and metadata. Reports of false flags and missed images both help."
+          }
+        }
+      ]
+    }
+  ]

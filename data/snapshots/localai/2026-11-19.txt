@@ -1,0 +1,231 @@
+#SNAPSHOT {"url":"https://localai.io","finalUrl":"https://localai.io/","fetchedAt":"2026-11-19T03:35:23.664Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"21899fe80607607dd15318e6c0a8efa43f2e0c0b60c10820a3cd968b6f28e341"}
+LocalAI: your own AI, on your own hardware Skip to content
+ Features
+ Add-ons
+ Models
+ Docs
+ Blog
+ Download
+ GitHub, 50,388 stars
+ ★ 50,388
+ Get started
+ LocalAI 5.0 is out: Projects, the desktop app, Office, Sandbox, Team, Pages and add-ons. Read the release post
+ Your own AI, on your own hardware.
+ Run open models for chat, images, speech and video on your own machines. The API speaks the OpenAI and Anthropic formats. Your team gets chats, files and documents on top, and the assistant can write and run code.
+ Open source under the MIT licence. 50,000+ stars on GitHub
+.
+ Get started
+ See what is new
+ $
+ curl -sSL https://localai.io/install.sh | sh copy
+ Download for your system
+ macOS, Apple silicon
+ LocalAI.dmg
+ Linux x86-64
+ LocalAI-Launcher-x86_64.AppImage
+ Linux ARM64
+ LocalAI-Launcher-arm64.AppImage
+ Not for your system? Use the container
+ or the install script
+. All releases
+ Windows, Android and iPhone: coming soon.
+ Or a container
+, the desktop app
+ or Kubernetes
+. Then open http://localhost:8080 .
+ Watch the film
+ 42 seconds. We made this film with LocalAI: the pictures, the voices and the music.
+ CPU or GPU NVIDIA, AMD, Intel and Apple
+ 18 engines we wrote C++ and GGML, with no Python at inference
+ OpenAI-compatible Also Anthropic and ElevenLabs formats
+ MIT licence Open since March 2023, 50,388 stars
+ One API
+ Change the base URL
+. Keep your client.
+ Any OpenAI client works. The same server also does speech, images, video and music.
+ Try the API &rarr;
+ API docs &rarr;
+ python
+ copy
+ 1
+ from openai import OpenAI
+ 2
+ client = OpenAI(
+ base_url="http://localhost:8080/v1" ,
+ api_key="none")
+ 3
+ chat = client.chat.completions.create(
+ model="gemma-4-e2b-it-qat-q4_0",
+ messages=[{"role": "user", "content": "Hello"}])
+ 4
+ print(chat.choices[0].message.content)
+ 5
+ text = client.audio.transcriptions.create(
+ model="whisper-1", file=open("meeting.mp3", "rb")).text
+ 6
+ print(text) 
+ Both models come from the gallery. For the second call, install whisper-1 from the gallery.
+ Every kind of model
+ Text, images, video, music and voice
+.
+ Install a model from the gallery and call it from your code.
+ Text and vision: chat, tool calls, image understanding, object detection.
+ Generate images, video and music.
+ Speech to text, text to speech, embeddings and a reranker.
+ See every modality &rarr;
+ What models can do &rarr;
+ One API
+ Text and vision chat, tools
+ Images and video generate
+ Music and sound generate
+ Speech say, transcribe
+ Search embed, rerank
+ Workspace
+ Give it your files. Get documents
+ back.
+ Chat with a model, give it your files and get documents back.
+ Your files stay on your server. Share folders, and undo any change.
+ Ask in one sentence, get a Word, Excel, PowerPoint or PDF file.
+ A Sandbox runs Python on your files. It has no network by default.
+ Knowledge searches your documents by meaning.
+ Office and Sandbox are add-ons. An admin installs them once.
+ See Files &rarr;
+ See Office &rarr;
+ See Sandbox &rarr;
+ Files
+ Reports Folder
+ Team Shared
+ notes.md Markdown
+ budget.xlsx Excel
+ Team
+ One server. Your whole team
+.
+ Each person has a login, chats and files. An admin chooses what each person can use.
+ Share folders, saved agents and Knowledge collections with one person or with everyone.
+ Turn features on or off for each person.
+ See Team &rarr;
+ Users and sharing &rarr;
+ Admin, users
+ Person
+ Chat
+ Office
+ Pages
+ A Admin
+ B User
+ C User
+ Projects
+ Keep the work, its files and its notes
+ together.
+ A project groups chats around one folder, with files and notes that its chats read.
+ The model proposes a note. You confirm it before it is saved.
+ Make an agent from a project, or share the folder with a teammate.
+ See Projects &rarr;
+ Projects docs &rarr;
+ Models and hardware
+ Open models, your hardware
+.
+ LocalAI installs the model and downloads the backend for your CPU or GPU.
+ Runs on a plain CPU. NVIDIA, AMD, Intel and Apple GPUs make it faster.
+ Run it on a laptop, a server, in a container or on Kubernetes. Distributed mode spreads models over several machines.
+ More than 80 backends, from llama.cpp to vLLM. We wrote 18 of them.
+ See Models &rarr;
+ See the engines &rarr;
+ Model gallery
+ Chat model engine picked for you
+ Speech model engine picked for you
+ Image model engine picked for you
+ Builds your machine can run are ranked first.
+ Everything new
+.
+ Projects
+ Files, notes and agents for one piece of work.
+ Docs &rarr;
+ Desktop app
+ Install and run LocalAI from a window.
+ Docs &rarr;
+ Office
+ Ask in one sentence, get a Word, Excel, PowerPoint or PDF file.
+ Docs &rarr;
+ Sandbox
+ Python and shell in an isolated box.
+ Docs &rarr;
+ Team
+ A login per person. Admins choose features.
+ Docs &rarr;
+ Add-ons
+ Programs an admin installs to give chats new tools, such as Office files or a Python sandbox.
+ Docs &rarr;
+ Get started
+ Install with one command
+.
+ Install a server with a script, Docker or Kubernetes, or use the desktop app. Backends download the first time a model needs one.
+ Desktop app
+ Download for your system
+ macOS, Apple silicon
+ LocalAI.dmg
+ Linux x86-64
+ LocalAI-Launcher-x86_64.AppImage
+ Linux ARM64
+ LocalAI-Launcher-arm64.AppImage
+ Not for your system? Use the container
+ or the install script
+. All releases
+ Windows, Android and iPhone: coming soon.
+ Each file has a .sha256 file on the latest release
+. There is no build for Intel Macs. Desktop app guide
+ Get started
+ All downloads
+ Script
+ Docker
+ Kubernetes
+ shell
+ copy
+ Script
+ $
+ curl -sSL https://localai.io/install.sh | sh
+ $
+ local-ai
+ # open http://localhost:8080 and install a model from there
+ Docker
+ $
+ docker run -p 8080:8080 --name local-ai -ti localai/localai:latest
+ # Podman works the same way
+ Kubernetes
+ $
+ helm repo add go-skynet https://go-skynet.github.io/helm-charts/
+ $
+ helm install local-ai go-skynet/local-ai
+ # or: kubectl apply -f https://localai.io/install/kubernetes.yaml
+ More: containers and GPU images
+, the desktop app (Linux and macOS)
+, Linux
+, Helm chart
+, build from source
+ The install script and the latest image give 5.0.0.
+ One command to install
+.
+ localai.io
+ Get started
+ Your own AI, on your own hardware. Free and open source under the MIT licence.
+ Product
+ Features
+ Add-ons
+ Models
+ Engines
+ Learn
+ Get started
+ Download
+ Documentation
+ Blog
+ Community
+ GitHub
+ Discord
+ X
+ Hugging Face
+ Sponsor
+ &copy; 2026 LocalAI
+ MIT licence
+ localai.io
+ GitHub
+ Discord
+ Edit this page

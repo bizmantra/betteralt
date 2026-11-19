@@ -1,0 +1,286 @@
+#SNAPSHOT {"url":"https://www.comfy.org","finalUrl":"https://comfy.org/","fetchedAt":"2026-11-19T03:32:08.608Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"75147b467cd12628ee4b6bc693f425fbfb5bd2868a3d5253a29936039c67b531"}
+Comfy - Professional Control of Visual AI Comfy Agent can now build workflows inside ComfyUI.
+ Try It for Free 
+ Hub
+ Products
+ Enterprise
+ Pricing
+ Company
+ Sign in
+ 148K
+ DOWNLOAD DESKTOP
+ DESKTOP
+ TRY CLOUD FOR FREE
+ TRY FREE
+ Sign in
+ , which must stay overflow:
+ visible for reka-ui's dialog scroll lock). 's clip does not
+ contain overflow once is visible, because the root propagates
+ body overflow to the viewport; clipping keeps the page from
+ exceeding the viewport width. --> Professional Control
+ of Visual AI
+ Get started for free 
+ 3D ANGLE 
+ Horizontal angle Vertical angle Zoom 
+ COLOR 
+ HUE
+ SATURATION
+ OUTPUT
+ Professional Control
+ of Visual AI
+ 3D ANGLE 
+ Horizontal angle Vertical angle Zoom 
+ COLOR 
+ HUE
+ SATURATION
+ OUTPUT
+ Get started for free 
+ CLOUD
+ Run your ComfyUI setup from anywhere. 
+ Create, edit, and run workflows in your browser with your team’s custom nodes and models. Comfy Cloud manages the GPU infrastructure, so you can focus on the work instead of maintaining a separate setup for every artist.
+ Learn more 
+ 00:00
+ 00:00
+ AGENT
+ The first agent for craft 
+ Bring characters and imagined worlds into the same creative workflow. The agent helps shape the look, explore a scene, and compare generation results. Made by one artist in 100 hours with Comfy Agent. 
+ Learn more 
+ Try on Cloud 
+ ROUTER
+ One API for frontier media models. 
+ Integrate frontier image, video, 3D and audio models once. Then choose the provider for each job for better availability and prices.
+ Python
+ TypeScript
+ cURL
+ from
+ comfy_sdk 
+ import
+ Comfy
+ client 
+ =
+ Comfy
+ (api_key
+ =
+ "comfyui-..."
+ )
+ result 
+ =
+ client
+ .
+ models
+ .
+ run
+ (
+ "openai/gpt-image-2"
+ ,
+ {
+ "prompt"
+ : 
+ "aerial view of a neon coral reef at dusk"
+ },
+ )
+ Learn more 
+ Get API key 
+ Python
+ TypeScript
+ cURL
+ from
+ comfy_sdk 
+ import
+ Comfy
+ client 
+ =
+ Comfy
+ (api_key
+ =
+ "comfyui-..."
+ )
+ result 
+ =
+ client
+ .
+ models
+ .
+ run
+ (
+ "openai/gpt-image-2"
+ ,
+ {
+ "prompt"
+ : 
+ "aerial view of a neon coral reef at dusk"
+ },
+ )
+ MiniMax
+Commercial License 
+ Comfy is the only official reseller of MiniMax commercial-use licenses, for running MiniMax models locally on your own hardware. Full commercial rights to your outputs, fine-tuning and LoRA training, and client and downstream work included.
+ Learn more 
+ TRY H3 ON COMFY CLOUD 
+ Only official reseller 
+ Audio and music included 
+ Available globally 
+ FEATURED · STAFF PICK
+ Product Advertisement Video
+ Rob
+ Product
+ Video
+ FEATURED · STAFF PICK
+ Qwen-Image 2.1: Text to Image
+ Open Weights
+ Text to Image
+ FEATURED · STAFF PICK
+ MiniMax H3: Reference to Video
+ ComfyUI
+ Video
+ Reference to Video
+ FEATURED · STAFF PICK
+ MiniMax H3: Text to Video
+ ComfyUI
+ Text to Video
+ Video
+ FEATURED · STAFF PICK
+ Topaz: Image Enhance Bloom 2
+ ComfyUI
+ API
+ Image Upscale
+ FEATURED · STAFF PICK
+ FLUX 3 Video: Text to Video
+ ComfyUI
+ Partner Nodes
+ Text to Video
+ HOW
+ WORKS
+ Connect models, processing steps, and outputs on a canvas where every decision is visible and every step is inspectable.
+ Full Control with Nodes
+ Build powerful AI pipelines by connecting nodes on an infinite canvas. Every model, parameter, and processing step is visible and adjustable.
+ Describe what you want and Comfy Agent builds and runs the workflow for you.
+ Run Comfy workflows and models from your own app with one API.
+ Download Desktop
+ Comfy Agent
+ Build powerful AI pipelines by connecting nodes on an infinite canvas. Every model, parameter, and processing step is visible and adjustable.
+ Describe what you want and Comfy Agent builds and runs the workflow for you.
+ Run Comfy workflows and models from your own app with one API.
+ Explore Comfy Agent
+ Comfy API
+ Build powerful AI pipelines by connecting nodes on an infinite canvas. Every model, parameter, and processing step is visible and adjustable.
+ Describe what you want and Comfy Agent builds and runs the workflow for you.
+ Run Comfy workflows and models from your own app with one API.
+ Explore Comfy API
+ Industries
+ Powered by 60,000+ nodes, thousands of workflows, and a community that builds faster than any one company could.
+ VFX & Animation
+ Advertising & Creative Studios
+ Gaming
+ eCommerce & Fashion
+ EXPLORE WORKFLOWS 
+ Get started in minutes
+ Go as deep as you want to.
+ 1
+ Download or Sign up
+ Download Desktop
+ or 
+ Try Cloud for free
+ .
+ 2
+ Load a workflow
+ Start from ComfyUI Workflows
+ or build your own.
+ 3
+ Generate & Iterate
+ Run, adjust, scale when you're ready.
+ The AI creation
+engine for complete control
+ Comfy
+Desktop
+ Run ComfyUI on your own hardware.
+ LEARN MORE 
+ Comfy
+Cloud
+ The full power of ComfyUI from anywhere.
+ LEARN MORE 
+ Developer
+Platform
+ Deploy and scale ComfyUI workflows.
+ LEARN MORE 
+ Comfy
+Enterprise
+ Enterprise-grade infrastructure for the creative engine inside your organization.
+ LEARN MORE 
+ Customer Stories
+ See ComfyUI
+in the real world
+ Videos & case studies from teams and artists building with ComfyUI
+ WATCH STORY 
+ SEE CUSTOMER STORIES 
+ GitHub (opens in new tab) 
+ Discord (opens in new tab) 
+ X (opens in new tab) 
+ YouTube (opens in new tab) 
+ LinkedIn (opens in new tab) 
+ Instagram (opens in new tab) 
+ Products
+ Comfy Desktop 
+ Comfy Cloud 
+ Developer Platform 
+ Comfy Router 
+ Comfy Enterprise 
+ Managed Builds 
+ Pricing 
+ Features
+ Comfy MCP 
+ Comfy Agent 
+ Comfy CLI 
+ Supported Models 
+ Models
+ ComfyUI Models 
+ ChatGPT Images 2.6 
+ Fish Audio 
+ FLUX 3 
+ FLUX 3 Image Klein 
+ Gemini Omni 1.2 Flash 
+ HeyGen Avatar 6 
+ Krea 3 
+ LTX 2.5 
+ LTX VFX Features 
+ MiniMax Commercial License 
+ MiniMax H3 
+ MiniMax H3 Image 
+ MiniMax Music 3 
+ Nano Banana 2.1 
+ Nvidia VFX 
+ Qwen-Image 2.1 
+ Seedance 2.5 Flash 
+ Seedream 5.5 
+ Wan 3.0 
+ Wan Animate 2 
+ Resources
+ Learning 
+ Customer Stories 
+ Workflows 
+ Forward Deployed Creatives 
+ Blog 
+ Docs 
+ Affiliate Program 
+ Changelog 
+ Company
+ About 
+ Careers 
+ Brand 
+ Terms of Service 
+ Enterprise MSA 
+ Privacy Policy 
+ Trust & Safety 
+ Contact
+ Sales 
+ Support 
+ Cloud Status 
+ Press 
+ The open standard for visual AI
+ English
+ 简体中文
+ 日本語
+ San Francisco, USA
+ © 2026 Comfy Org
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://comfy.org/#organization","name":"Comfy Org","url":"https://comfy.org","logo":{"@type":"ImageObject","url":"https://comfy.org/web-app-manifest-512x512.png","width":512,"height":512},"description":"Comfy is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output.","contactPoint":{"@type":"ContactPoint","contactType":"customer support","email":"support@comfy.org","url":"https://comfy.org/contact/"},"sameAs":["https://github.com/Comfy-Org","https://x.com/ComfyUI","https://www.youtube.com/@ComfyOrg","https://discord.com/invite/comfyorg","https://www.instagram.com/comfyui/","https://www.reddit.com/r/comfyui/","https://www.linkedin.com/company/comfyui","https://www.wikidata.org/wiki/Q130598554"]},{"@type":"WebSite","@id":"https://comfy.org/#website","name":"Comfy","alternateName":["Comfy Org","comfy.org"],"url":"https://comfy.org","publisher":{"@id":"https://comfy.org/#organization"}},{"@type":"WebPage","@id":"https://comfy.org/#webpage","url":"https://comfy.org/","name":"Professional Control of Visual AI","description":"Comfy is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output.","isPartOf":{"@id":"https://comfy.org/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://media.comfy.org/website/comfy.webp"},"mainEntity":{"@id":"https://comfy.org/#software"},"inLanguage":"en"},{"@type":"SoftwareApplication","@id":"https://comfy.org/#software","name":"ComfyUI","url":"https://comfy.org","applicationCategory":"MultimediaApplication","operatingSystem":"Windows, macOS, Linux","author":{"@id":"https://comfy.org/#organization"},"publisher":{"@id":"https://comfy.org/#organization"},"sameAs":["https://www.wikidata.org/wiki/Q127798647","https://en.wikipedia.org/wiki/ComfyUI","https://www.g2.com/products/comfyui"],"mainEntityOfPage":"https://comfy.org/","isBasedOn":{"@id":"https://comfy.org/#sourcecode"},"offers":{"@type":"Offer","price":0,"priceCurrency":"USD","seller":{"@id":"https://comfy.org/#organization"}}},{"@type":"SoftwareSourceCode","@id":"https://comfy.org/#sourcecode","name":"ComfyUI","codeRepository":"https://github.com/Comfy-Org/ComfyUI","programmingLanguage":"Python","targetProduct":{"@id":"https://comfy.org/#software"},"author":{"@id":"https://comfy.org/#organization"}}]}

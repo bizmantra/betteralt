@@ -1,0 +1,342 @@
+#SNAPSHOT {"url":"https://github.com/FrigadeHQ/yogurt","finalUrl":"https://github.com/FrigadeHQ/yogurt","fetchedAt":"2026-11-19T03:35:39.912Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"7fd0b22b12d56cb311d37c87e1695d8a7b9ee803027117fb96ce5e236c5a7730"}
+GitHub - FrigadeHQ/yogurt: Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux. · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects, and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ FrigadeHQ
+ yogurt
+ Repository navigation
+ Code
+ Issues
+ 39
+  ( 39 )
+ Pull requests
+ 15
+  ( 15 )
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ yogurt
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 168
+  ( 168
+)
+ Star 2.4k
+  ( 2.4k
+)
+ You must be signed in to star a repository
+ About
+ Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
+ yogurt.so
+ Topics
+ ai-meeting-assistant
+ ai-notetaker
+ electron
+ granola-alternative
+ linux
+ llama-cpp
+ local-ai
+ local-first
+ macos
+ mcp
+ meeting-minutes
+ meeting-notes
+ offline-first
+ open-source
+ privacy
+ speech-to-text
+ transcription
+ whisper
+ whisper-cpp
+ windows
+ Resources
+ Readme
+ MIT license
+ Activity
+ Custom properties
+ Stars
+ 2.4k stars
+ Watchers
+ 6 watching
+ Forks
+ 168 
+ forks
+ Report repository
+ main
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 338 Commits
+ 338 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .github/
+ workflows
+ .github/
+ workflows
+ app
+ app
+ catalog
+ catalog
+ docs
+ docs
+ packages/
+ picker
+ packages/
+ picker
+ patches
+ patches
+ site
+ site
+ .gitignore
+ .gitignore
+ .npmrc
+ .npmrc
+ .nvmrc
+ .nvmrc
+ LICENSE
+ LICENSE
+ README.md
+ README.md
+ THIRD_PARTY_NOTICES.md
+ THIRD_PARTY_NOTICES.md
+ package.json
+ package.json
+ pnpm-lock.yaml
+ pnpm-lock.yaml
+ pnpm-workspace.yaml
+ pnpm-workspace.yaml
+ tsconfig.base.json
+ tsconfig.base.json
+ View all files
+ Repository files navigation
+ README
+ MIT license
+ More items
+ Private AI meeting notes. A free, open-source alternative to Granola.
+ Download for Mac
+ · Windows
+ · Linux
+ Yogurt records your calls without adding a bot to the meeting.
+ macOS 14.4+ (Apple Silicon) · Windows 10 2004+ (x64) · Ubuntu 22.04+ or similar (x64 AppImage) · 8 GB memory 
+ yogurt.so
+ · Help
+ · Build and run locally
+ · MIT license
+ Made by Frigade
+.
+ What it does
+ Live transcripts. Yogurt records calls and turns speech into text as you talk.
+ Meeting summaries. Yogurt writes up the conversation and any notes you add.
+ Private by default. Your audio, transcripts and AI processing stay on your computer.
+ Free and open source. You can use Yogurt without an account.
+ Who said what. Yogurt names speakers from Zoom, Teams and Meet on Mac, Windows and Linux.
+ Languages. Multi-language mode transcribes 99 languages, follows each side of the call in its own language, and keeps up when someone switches languages mid-meeting.
+ Recording reminders. Yogurt offers to record when a supported call starts.
+ Answers with sources. Yogurt answers questions across meetings and links to the source.
+ Folders and search. You can find meetings by folder, title, notes or transcript.
+ Copy and export. You can copy notes or transcripts, or save both as Markdown.
+ Local MCP server. When you turn this on, apps on your computer can read your notes, transcripts, saved audio and each meeting's calendar details (attendees' names and emails).
+ Automatic stop. By default, Yogurt stops recording when it detects that your call has ended.
+ Watch the demo
+ yogurt-demo.mp4
+ How it works
+ Record. Start recording your microphone and call audio; you can add your own notes.
+ Transcribe. Yogurt uses whisper.cpp and, on supported Macs, Apple SpeechAnalyzer.
+ Summarize and ask. A local open-weight model runs through llama.cpp.
+ Meeting data stays local; Yogurt goes online for model downloads and update checks.
+ Where your meetings, recordings, settings and models are stored 
+ Mac uses ~/Library/Application Support/Yogurt .
+ Windows uses %APPDATA%\Yogurt .
+ Linux uses ~/.config/Yogurt , or $XDG_CONFIG_HOME/Yogurt if set.
+ FAQ
+ What kind of computer do I need? 
+ A Mac with Apple silicon and macOS 14.4 or newer, a 64-bit PC with Windows 10 (version 2004) or newer, or a 64-bit Linux computer with Ubuntu 22.04 or newer. Each needs at least 8 GB of memory. If your computer is too slow, Yogurt tells you during setup. On Windows and Linux, you connect your calendar with a private calendar link.
+ Does Yogurt join my meetings? 
+ No. Yogurt records your microphone and the sound playing on your computer. No bot joins the call, so let the other people on the call know you’re recording.
+ Are recordings saved? 
+ Audio is saved by default, and you can turn this off for future meetings in Settings.
+ Is Yogurt free? 
+ Yes. Yogurt is free and open source under the MIT license. No account is needed.
+ Does Yogurt work offline? 
+ Yes. After a one-time download of the AI models, transcription and summaries run locally on your computer.
+ How much does setup download? 
+ It depends on your computer. Yogurt sets up transcription first, then downloads the notes models selected for your computer. Recording works once setup finishes, and notes and questions work offline once the notes model is in.
+ How do I connect my assistant app? 
+ In Settings → AI apps , turn on access, copy the helper command, and add it as a local MCP server in your assistant app. Access is off by default. The app can read your meetings (including their calendar details: the event, and attendees' names and emails), notes and transcripts, but cannot change them. It may send what it reads to its own online model. Turn access off in Yogurt to stop further reads.
+ Can other apps read my notes through MCP? 
+ Access is off until you enable it in Settings → AI apps . Apps get read-only access to meetings (with their calendar event and attendees' names and emails), notes and transcripts. Mac and Linux use a socket in your profile folder with 0600 permissions, so only your user account can open it. Windows uses a named pipe with a new random name each launch, stored only in your profile folder. There is no per-app token, so any app running under your account can read while access is on. Settings shows connected apps by their self-reported names.
+ Which AI models does Yogurt use? 
+ Transcription uses Whisper through whisper.cpp, with large-v3-turbo or a smaller model depending on your computer. On supported Macs, Apple SpeechAnalyzer supplies live words while Whisper produces the saved transcript. Summaries and answers use a local open-weight model from the Gemma 4, gpt-oss or Qwen3 families, chosen for your hardware and run through llama.cpp. The app uses Electron and needs no account.
+ Which languages does Yogurt support? 
+ Pick Multi-language in Settings → Language → Spoken language to transcribe 99 languages. You can also switch from the English menu in a note’s footer before or during recording. English only is the default, and it’s the fastest and most accurate choice for English meetings.
+ In Multi-language mode, you and the other side of the call can each speak your own language, and Yogurt follows along when someone switches languages mid-meeting. Summaries follow the meeting’s main language, or the one you pick in Settings → Summary language . Answers in Ask follow your question’s language. Settings also offers 32 app languages.
+ Which call apps does Yogurt work with? 
+ You can record calls in any app because Yogurt captures your microphone and system audio. Call detection covers Zoom, Teams and Meet. On Mac, Yogurt can also read their speaker names with Accessibility permission, when the call app shows who is speaking.
+ How does Yogurt know a call has started? 
+ It checks which apps are using your microphone. For browser calls, it also checks the tab title or a nearby calendar event with a call link. This triggers an offer to record; recording starts only when you choose to.
+ How do I connect my calendar? 
+ On Mac, allow Calendar access in Settings. Yogurt reads the calendars already on your computer and lets you choose which ones to show. You do not sign into a calendar account in Yogurt.
+ Build from source
+ See Build and run locally
+ for setup, tests and installer builds.
+ License
+ MIT
+ · Copyright 2026 Frigade.
+ About
+ Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
+ yogurt.so
+ Topics
+ ai-meeting-assistant
+ ai-notetaker
+ electron
+ granola-alternative
+ linux
+ llama-cpp
+ local-ai
+ local-first
+ macos
+ mcp
+ meeting-minutes
+ meeting-notes
+ offline-first
+ open-source
+ privacy
+ speech-to-text
+ transcription
+ whisper
+ whisper-cpp
+ windows
+ Resources
+ Readme
+ MIT license
+ Activity
+ Custom properties
+ Stars
+ 2.4k stars
+ Watchers
+ 6 watching
+ Forks
+ 168 
+ forks
+ Report repository
+ Releases
+ Packages
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.
