@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T03:42:12.933Z",
+ "generatedAt": "2026-11-19T21:18:36.951Z",
  "maxAgeDays": 14,
  "linkCheck": "251 links checked, 0 dead",
  "tools": {
@@ -88,8 +88,8 @@
   },
   "windsurf": {
    "verified": true,
-   "checkedAt": "2026-11-16",
-   "snapshot": "data/snapshots/windsurf/2026-11-16.txt"
+   "checkedAt": "2026-11-20",
+   "snapshot": "data/snapshots/windsurf/2026-11-20.txt"
   },
   "github-copilot": {
    "verified": true,
@@ -568,10 +568,9 @@
    "snapshot": "data/snapshots/aiva/2026-11-19.txt"
   },
   "mubert": {
-   "verified": false,
-   "checkedAt": "2026-10-22",
-   "snapshot": "data/snapshots/mubert/2026-10-22.txt",
-   "reason": "stale"
+   "verified": true,
+   "checkedAt": "2026-11-20",
+   "snapshot": "data/snapshots/mubert/2026-11-20.txt"
   },
   "audiocraft": {
    "verified": true,
@@ -733,10 +732,9 @@
    "snapshot": "data/snapshots/productboard/2026-11-19.txt"
   },
   "dovetail": {
-   "verified": false,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/dovetail/2026-11-02.txt",
-   "reason": "stale"
+   "verified": true,
+   "checkedAt": "2026-11-20",
+   "snapshot": "data/snapshots/dovetail/2026-11-20.txt"
   },
   "miro": {
    "verified": true,
@@ -765,8 +763,8 @@
   },
   "devin": {
    "verified": true,
-   "checkedAt": "2026-11-16",
-   "snapshot": "data/snapshots/devin/2026-11-16.txt"
+   "checkedAt": "2026-11-20",
+   "snapshot": "data/snapshots/devin/2026-11-20.txt"
   },
   "manus": {
    "verified": false,
@@ -789,8 +787,8 @@
   },
   "krea": {
    "verified": true,
-   "checkedAt": "2026-11-09",
-   "snapshot": "data/snapshots/krea/2026-11-09.txt"
+   "checkedAt": "2026-11-20",
+   "snapshot": "data/snapshots/krea/2026-11-20.txt"
   },
   "logseq": {
    "verified": true,
@@ -955,10 +953,9 @@
    "snapshot": "data/snapshots/hob/2026-11-19.txt"
   },
   "openseo": {
-   "verified": false,
-   "checkedAt": "2026-11-02",
-   "snapshot": "data/snapshots/openseo/2026-11-02.txt",
-   "reason": "stale"
+   "verified": true,
+   "checkedAt": "2026-11-20",
+   "snapshot": "data/snapshots/openseo/2026-11-20.txt"
   },
   "gridcraft": {
    "verified": true,
@@ -1046,10 +1043,9 @@
    "snapshot": "data/snapshots/folio/2026-11-19.txt"
   },
   "warmbly": {
-   "verified": false,
-   "checkedAt": "2026-11-04",
-   "snapshot": "data/snapshots/warmbly/2026-11-04.txt",
-   "reason": "stale"
+   "verified": true,
+   "checkedAt": "2026-11-20",
+   "snapshot": "data/snapshots/warmbly/2026-11-20.txt"
   },
   "37studio": {
    "verified": true,
@@ -1212,10 +1208,6 @@
  "soft": [
   "[max-age] invideo: newest snapshot 2026-10-29 is older than 14 days → shown as not yet verified",
   "[max-age] pitch: newest snapshot 2026-10-29 is older than 14 days → shown as not yet verified",
-  "[max-age] soundraw: newest snapshot 2026-10-29 is older than 14 days → shown as not yet verified",
-  "[max-age] mubert: newest snapshot 2026-10-22 is older than 14 days → shown as not yet verified",
-  "[max-age] dovetail: newest snapshot 2026-11-02 is older than 14 days → shown as not yet verified",
-  "[max-age] openseo: newest snapshot 2026-11-02 is older than 14 days → shown as not yet verified",
-  "[max-age] warmbly: newest snapshot 2026-11-04 is older than 14 days → shown as not yet verified"
+  "[max-age] soundraw: newest snapshot 2026-10-29 is older than 14 days → shown as not yet verified"
  ]
 }

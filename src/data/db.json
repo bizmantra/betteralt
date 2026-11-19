@@ -524,15 +524,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Pro $20/mo; Max $200/mo; Teams $80/mo plus $40/mo per full user",
+    "currency": "USD",
+    "fromBilling": "monthly",
     "fromUsdMonthly": 20,
     "hasFreePlan": true,
-    "verified": true,
+    "lastChangedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
     "sourceUrl": "https://devin.ai/pricing",
-    "lastChecked": "2026-11-16",
-    "currency": "USD",
-    "lastChangedAt": "2026-10-17",
-    "fromBilling": "monthly"
+    "summary": "Free plan; Pro $20/mo; Max $200/mo; Teams $80/mo (flat)",
+    "verified": true
    },
    "openSource": null,
    "status": "renamed",
@@ -3580,15 +3580,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Creator $14/mo ($11.67/mo billed annually); Pro $39/mo ($32.49/mo billed annually); Ultra $89/mo ($62.50/mo billed annually), replacing the old Business plan",
-    "fromUsdMonthly": 11.67,
-    "hasFreePlan": true,
-    "verified": true,
-    "sourceUrl": "https://mubert.com/render/pricing",
-    "lastChecked": "2026-10-22",
     "currency": "USD",
-    "lastChangedAt": "2026-10-22",
-    "fromBilling": "annual"
+    "fromBilling": "monthly",
+    "fromUsdMonthly": 14,
+    "hasFreePlan": true,
+    "lastChangedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
+    "sourceUrl": "https://mubert.com/render/pricing",
+    "summary": "Free plan; Creator $14/mo (Black Friday annual promo: $8.17/mo billed $98 for the first year); Pro $39/mo (Black Friday annual promo: $22.75/mo billed $273 for the first year); Ultra $89/mo (Black Friday annual promo: $43.75/mo billed $525 for the first year)",
+    "verified": true
    },
    "openSource": null,
    "status": "active",
@@ -4627,18 +4627,18 @@
    "description": "AI customer-insights and research repository.",
    "whoFor": "Product researchers and PMs",
    "tags": [
-    "freemium",
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; paid plans on pricing page",
-    "fromUsdMonthly": null,
-    "hasFreePlan": true,
-    "verified": true,
+    "currency": "USD",
+    "fromBilling": "annual",
+    "fromUsdMonthly": 400,
+    "hasFreePlan": false,
+    "lastChangedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
     "sourceUrl": "https://dovetail.com/pricing/",
-    "lastChecked": "2026-11-02",
-    "currency": null,
-    "lastChangedAt": "2026-10-17"
+    "summary": "No free plan; 30-day trial; Bronze $4,800/yr for the platform, plus credits at 15c each; Silver and Gold (price not published)",
+    "verified": true
    },
    "openSource": null,
    "status": "active",
@@ -4834,15 +4834,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Pro $20/mo; Max $200/mo; Teams $80/mo + $40/mo per dev seat",
+    "currency": "USD",
+    "fromBilling": "monthly",
     "fromUsdMonthly": 20,
     "hasFreePlan": true,
-    "verified": true,
+    "lastChangedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
     "sourceUrl": "https://devin.ai/pricing",
-    "lastChecked": "2026-11-16",
-    "currency": "USD",
-    "lastChangedAt": "2026-10-18",
-    "fromBilling": "monthly"
+    "summary": "Free plan; Pro $20/mo; Max $200/mo; Teams $80/mo (flat)",
+    "verified": true
    },
    "openSource": null,
    "status": "active",
@@ -4991,15 +4991,15 @@
     "paid"
    ],
    "pricing": {
-    "summary": "Free plan; Pro $21/mo; Max $63/mo; Business $160/mo",
-    "fromUsdMonthly": 21,
-    "hasFreePlan": true,
-    "verified": true,
-    "sourceUrl": "https://www.krea.ai/pricing",
-    "lastChecked": "2026-11-09",
     "currency": "USD",
-    "lastChangedAt": "2026-10-18",
-    "fromBilling": "monthly"
+    "fromBilling": "monthly",
+    "fromUsdMonthly": 9,
+    "hasFreePlan": true,
+    "lastChangedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
+    "sourceUrl": "https://www.krea.ai/pricing",
+    "summary": "Free plan; Basic $9/mo (Black Friday annual promo: $5/mo billed yearly); Pro $42/mo (Black Friday annual promo: $21/mo billed yearly); Max $140/mo (Black Friday annual promo: $42/mo billed yearly); Business $200/mo (Black Friday annual promo: $96/mo billed yearly)",
+    "verified": true
    },
    "openSource": null,
    "status": "active",
@@ -6165,15 +6165,15 @@
     "self-hostable"
    ],
    "pricing": {
+    "currency": "USD",
+    "fromBilling": "monthly",
     "fromUsdMonthly": 10,
     "hasFreePlan": true,
-    "verified": true,
+    "lastChangedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
     "sourceUrl": "https://openseo.so/pricing",
-    "lastChecked": "2026-11-02",
-    "currency": "USD",
-    "lastChangedAt": "2026-10-28",
-    "fromBilling": "monthly",
-    "summary": "Self-host free (MIT); Base $10/mo; Pro $30/mo; Agency $200/mo (hosted plans, each includes monthly usage credit)"
+    "summary": "Self-host free (MIT); Base $10/mo; Pro $30/mo; Agency $100/mo (hosted plans, each includes monthly usage credit)",
+    "verified": true
    },
    "openSource": {
     "repo": "https://github.com/every-app/open-seo",
@@ -6842,19 +6842,19 @@
    "whoFor": "Founders, agencies and sales teams who find Instantly or Apollo too expensive",
    "tags": [
     "open source",
-    "freemium",
-    "self-hostable"
+    "self-hostable",
+    "paid"
    ],
    "pricing": {
-    "summary": "Free plan (warm up to 10 mailboxes); Starter $23/mo, Grow $71/mo, Business $263/mo (billed annually); Enterprise custom; self-host free (Apache-2.0)",
-    "fromUsdMonthly": 23,
-    "hasFreePlan": true,
-    "verified": true,
-    "sourceUrl": "https://warmbly.com/pricing",
-    "lastChecked": "2026-11-04",
     "currency": "USD",
-    "lastChangedAt": "2026-11-04",
-    "fromBilling": "annual"
+    "fromBilling": "annual",
+    "fromUsdMonthly": 23,
+    "hasFreePlan": false,
+    "lastChangedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
+    "sourceUrl": "https://warmbly.com/pricing",
+    "summary": "14-day trial for new workspaces (no free plan for new workspaces); Starter $23/mo, Grow $71/mo, Business $263/mo billed annually; from $29/mo paying monthly; Enterprise custom; self-host free (Apache-2.0)",
+    "verified": true
    },
    "openSource": {
     "repo": "https://github.com/warmbly/warmbly",
@@ -9495,6 +9495,132 @@
     "before": "data/snapshots/kling/2026-11-16.txt",
     "after": "data/snapshots/kling/2026-11-19.txt",
     "note": "Introductory offers changed (Standard -7%, Pro -8% vs the old first-month price) and now run for 3 months instead of 1. Ongoing prices unchanged at $8.80 and $32.56 per month. Page lists USD and its structured data carries priceCurrency USD."
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "slug": "devin",
+   "kind": "plan change",
+   "old": "Free plan; Pro $20/mo; Max $200/mo; Teams $80/mo + $40/mo per dev seat",
+   "new": "Free plan; Pro $20/mo; Max $200/mo; Teams $80/mo (flat)",
+   "sourceUrl": "https://devin.ai/pricing",
+   "id": "2026-11-20-devin",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Teams",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/devin/2026-11-16.txt",
+    "after": "data/snapshots/devin/2026-11-20.txt",
+    "note": "The per-seat add-on is gone. The page now says Teams is self-serve at a flat $80/month, with Pro $20/mo and Max $200/mo unchanged. A free plan is still listed."
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "slug": "windsurf",
+   "kind": "plan change",
+   "old": "Free plan; Pro $20/mo; Max $200/mo; Teams $80/mo plus $40/mo per full user",
+   "new": "Free plan; Pro $20/mo; Max $200/mo; Teams $80/mo (flat)",
+   "sourceUrl": "https://devin.ai/pricing",
+   "id": "2026-11-20-windsurf",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Teams",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/windsurf/2026-11-16.txt",
+    "after": "data/snapshots/windsurf/2026-11-20.txt",
+    "note": "Same Cognition pricing page as Devin. The per-seat add-on is gone; Teams is now a flat $80/month. Pro $20/mo and Max $200/mo are unchanged. A free plan is still listed."
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "slug": "krea",
+   "kind": "price increase",
+   "old": "Free plan; Pro $21/mo; Max $63/mo; Business $160/mo",
+   "new": "Free plan; Basic $9/mo; Pro $42/mo; Max $140/mo; Business $200/mo (Black Friday annual promo: Basic $5/mo, Pro $21/mo, Max $42/mo, Business $96/mo billed yearly)",
+   "sourceUrl": "https://www.krea.ai/pricing",
+   "id": "2026-11-20-krea",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Basic, Pro, Max, Business",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/krea/2026-11-09.txt",
+    "after": "data/snapshots/krea/2026-11-20.txt",
+    "note": "List prices on the page are now Basic $9, Pro $42, Max $140 and Business $200 per month (Business remains listed; the old $160 and $63 amounts are gone). The Yearly toggle is in a Black Friday promotion (up to 70–75% off) and shows those list prices struck through next to Basic $5, Pro $21, Max $42 and Business $96 per month billed yearly. A monthly toggle also showed additional struck-through discounts on Pro and Max today, but those monthly promo amounts are not in the stored static snapshot, so they are not in the published summary. Page amounts are in USD."
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "slug": "openseo",
+   "kind": "price decrease",
+   "old": "Self-host free (MIT); Base $10/mo; Pro $30/mo; Agency $200/mo (hosted plans, each includes monthly usage credit)",
+   "new": "Self-host free (MIT); Base $10/mo; Pro $30/mo; Agency $100/mo (hosted plans, each includes monthly usage credit)",
+   "sourceUrl": "https://openseo.so/pricing",
+   "id": "2026-11-20-openseo",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Agency",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/openseo/2026-11-02.txt",
+    "after": "data/snapshots/openseo/2026-11-20.txt",
+    "note": "Agency dropped from $200/mo to $100/mo. Base $10/mo and Pro $30/mo are unchanged. The usage credit included with Agency also dropped from $240 to $120 a month (these are included-usage figures, not annual plan prices). A Yearly (2 months free) toggle is on the page; those yearly totals were not in the stored static snapshot (default monthly view) and are not published in the summary."
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "slug": "warmbly",
+   "kind": "plan change",
+   "old": "Free plan (warm up to 10 mailboxes); Starter $23/mo, Grow $71/mo, Business $263/mo (billed annually)",
+   "new": "14-day trial for new workspaces (no free plan for new workspaces); Starter $23/mo, Grow $71/mo, Business $263/mo billed annually; from $29/mo paying monthly; Enterprise custom; self-host free (Apache-2.0)",
+   "sourceUrl": "https://warmbly.com/pricing",
+   "id": "2026-11-20-warmbly",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Free / Starter",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/warmbly/2026-11-04.txt",
+    "after": "data/snapshots/warmbly/2026-11-20.txt",
+    "note": "The hosted free plan is no longer offered to new workspaces; the page now leads with a 14-day free trial, no card needed. The FAQ says a new workspace gets 14 days free, then a paid plan from $29 a month, and that workspaces that already had the free plan keep it. Self-hosting is still free (Apache 2.0). Yearly prices on the default view are unchanged at Starter $23, Grow $71 and Business $263 per month billed yearly (20% off). The page states prices are in US dollars. Monthly toggle prices were also read in a browser today (Starter $29, Grow $89, Business $329) but only the “from $29” monthly starting price is in the stored static snapshot."
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "slug": "dovetail",
+   "kind": "plan change",
+   "old": "Free plan; paid plans on pricing page",
+   "new": "No free plan; 30-day trial; Bronze $4,800/yr for the platform, plus credits at 15c each",
+   "sourceUrl": "https://dovetail.com/pricing/",
+   "id": "2026-11-20-dovetail",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Free / Bronze",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/dovetail/2026-11-02.txt",
+    "after": "data/snapshots/dovetail/2026-11-20.txt",
+    "note": "The free plan is no longer listed. The page now shows Bronze, Silver and Gold, with Bronze priced at $4,800 a year for the platform plus credits at 15c each, billed annually. Silver and Gold have no public price. Gold includes a 30-day free trial. Amounts are in USD."
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "slug": "mubert",
+   "kind": "intro promo change",
+   "old": "Creator $14/mo ($11.67/mo billed annually); Pro $39/mo ($32.49/mo billed annually); Ultra $89/mo ($62.50/mo billed annually)",
+   "new": "Free plan; Creator $14/mo (Black Friday annual promo: $8.17/mo billed $98 for the first year); Pro $39/mo (Black Friday annual promo: $22.75/mo billed $273 for the first year); Ultra $89/mo (Black Friday annual promo: $43.75/mo billed $525 for the first year)",
+   "sourceUrl": "https://mubert.com/render/pricing",
+   "id": "2026-11-20-mubert",
+   "region": "US",
+   "currency": "USD",
+   "plan": "Creator, Pro, Ultra",
+   "type": "vendor_change",
+   "evidence": {
+    "before": "data/snapshots/mubert/2026-10-22.txt",
+    "after": "data/snapshots/mubert/2026-11-20.txt",
+    "note": "Regular monthly prices are unchanged at Creator $14, Pro $39 and Ultra $89. The previous regular annual rates ($11.67, $32.49 and $62.50 per month) are not on the page today. The default yearly view is a Black Friday first-year promo: Creator $8.17/mo billed $98, Pro $22.75/mo billed $273, Ultra $43.75/mo billed $525, with the regular monthly prices shown struck through. A free Ambassador plan is still listed. Page amounts are in USD."
    }
   }
  ],

@@ -1,0 +1,685 @@
+#SNAPSHOT {"url":"https://mubert.com/render/pricing","finalUrl":"https://mubert.com/render/pricing","fetchedAt":"2026-11-19T21:10:39.722Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"af12eeff79059907f4886882263cc4be27ce22b00bc7eb11c3a272103fad7110"}
+Mubert Subscription - Buy Royalty-Free Music | Mubert Render Black Friday
+ Up to 50% off
+ Up to 50% off annual plans
+ for your first year
+ Get the deal
+ Products 
+ Pricing
+ Blog
+ FAQ
+ What&#x27;s New
+ Eng
+ Log In
+ Sign Up 
+ Create
+ Generate
+ Chat to Music
+ From an image
+ By reference
+ Music catalog
+ Genres
+ Moods
+ BPM
+ Playlists
+ Themes
+ Instruments
+ Your audio
+ Vocal Remover
+ New
+ Stem Splitter
+ New
+ Copyright Checker
+ Cast
+ podcast editor
+ Fuse
+ music for video
+ Library
+ My Tracks
+ Splits
+ API
+ Premium
+ - 50 %
+ Pricing
+ Monthly
+ Annual -50%
+ Black Friday ends in
+ Ambassador
+ Non-commercial
+ Free
+ Chat2Music
+ AI v2
+ Limited
+ MusicGen
+ AI v1
+ 25 tracks/mo
+ Fixed duration
+ 5 MP3 downloads/mo
+ Track Editor trial
+ Commercial Usage
+ FREE BONUS:
+ Copyright Checker
+ Stem splitter · 20 min/mo
+ Start free
+ Black Friday
+ Creator
+ Non-commercial
+ $ 8.17
+ /mo
+ $ 14
+ - 41 %
+ / month
+ Billed $98 for the first year
+ Chat2Music
+ AI v2
+ Full
+ MusicGen
+ AI v1
+ 100 tracks/mo
+ Up to 10 min
+ 50 downloads/mo
+ Track Editor trial
+ Commercial Usage
+ FREE BONUS:
+ Copyright Checker
+ Stem splitter · 200 min/mo
+ Get Creator
+ Black Friday
+ Pro
+ Monetized content & ads
+ $ 22.75
+ /mo
+ $ 39
+ - 41 %
+ / month
+ Billed $273 for the first year
+ Chat2Music
+ AI v2
+ Full
+ MusicGen
+ AI v1
+ 500 tracks/mo
+ Up to 25 min
+ ∞ downloads
+ Full Track Editor
+ Commercial Usage
+ FREE BONUS:
+ Copyright Checker
+ Stem splitter · 600 min/mo
+ Podcast Editor Trial
+ Video Finisher Trial
+ Get Pro
+ Black Friday
+ Ultra
+ Clients, apps & games
+ $ 43.75
+ /mo
+ $ 89
+ - 50 %
+ / month
+ Billed $525 for the first year
+ Chat2Music
+ AI v2
+ Full
+ MusicGen
+ AI v1
+ 1,000 tracks/mo
+ Up to 60 min
+ ∞ downloads
+ Full Track Editor
+ Commercial Usage
+ FREE BONUS:
+ Copyright Checker
+ Stem splitter · 1,400 min/mo
+ Podcast Editor Trial
+ Video Finisher Trial
+ Get Ultra
+ Music API
+ For App Developers & Enterprise
+ Explore API
+ All functions included
+ Fast Generation
+ Commercial Licenses
+ Extended Duration
+ Disclaimer
+ All payments are non-refundable
+ Tracks cannot be sold or commercially distributed
+ Tracks cannot be published on music streaming platforms (Spotify, Apple Music, Deezer, YouTube Music, etc.)
+ Tracks cannot be registered in any Content ID systems (e.g., YouTube Content ID)
+ Tracks cannot be uploaded or distributed via music libraries or stock platforms
+ Tracks cannot be redistributed as standalone music content
+ Compare plans
+ Choose your plan according to your monetization and scale
+ Ambassador
+ Non-commercial
+ Free
+ Start free
+ Creator
+ Non-commercial
+ $ 8.17
+ /mo
+ $ 14
+ - 41 %
+ / month
+ Get Creator
+ Pro
+ Monetized content & ads
+ $ 22.75
+ /mo
+ $ 39
+ - 41 %
+ / month
+ Get Pro
+ Ultra
+ Clients, apps & games
+ $ 43.75
+ /mo
+ $ 89
+ - 50 %
+ / month
+ Get Ultra
+ Limits & workflow
+ Commercial usage
+ Not included
+ Not included
+ Included
+ Included
+ Generations / month
+ 25
+ 100
+ 500
+ 1,000
+ Generations / day
+ 30 min/day
+ No daily limit
+ No daily limit
+ No daily limit
+ Music downloads / month
+ 5
+ 50
+ Included, unlimited
+ Included, unlimited
+ Simultaneous music downloads
+ Not included
+ Included
+ Included
+ Included
+ Max generated track length
+ Fixed presets
+ Up to 10 min
+ Up to 25 min
+ Up to 60 min
+ Music download queue
+ Not included
+ Fast
+ Priority
+ Priority
+ License certificate
+ Included
+ Included
+ Included
+ Included
+ Audible watermark
+ Included
+ Not included
+ Not included
+ Not included
+ Music export & audio quality
+ Music download formats
+ MP3
+ WAV (lossless) + MP3
+ WAV (lossless) + MP3
+ WAV (lossless) + MP3
+ Attribution required
+ Included
+ Not included
+ Not included
+ Not included
+ Generation & library
+ Staff Picks Library
+ 12,000 tracks
+ 12,000 tracks
+ 12,000 tracks
+ 12,000 tracks
+ Chat2Music AI v2
+ Limited
+ Included
+ Included
+ Included
+ Text to Music AI v1
+ Included
+ Included
+ Included
+ Included
+ Image to Music AI v1
+ Included
+ Included
+ Included
+ Included
+ Mood, Genre & BPM
+ Included
+ Included
+ Included
+ Included
+ Track editing
+ Quick Remix
+ Included
+ Included
+ Included
+ Included
+ Regenerate stems
+ Included
+ Included
+ Included
+ Included
+ Remove stems
+ Included
+ Included
+ Included
+ Included
+ Change track duration
+ Trial only
+ Included
+ Included
+ Included
+ Full Track Editor
+ 3 trial versions / month
+ 10 trial versions / month
+ Included
+ Included
+ Maximum full-editor result length
+ Up to 3 min
+ Up to 10 min
+ Up to 25 min
+ Up to 60 min
+ Edit track structure
+ Trial
+ Trial
+ Included
+ Included
+ Add / remove sections
+ Trial
+ Trial
+ Included
+ Included
+ Regenerate sections
+ Trial
+ Trial
+ Included
+ Included
+ Edit stems within sections
+ Trial
+ Trial
+ Included
+ Included
+ Change BPM
+ Trial
+ Trial
+ Included
+ Included
+ Change key
+ Trial
+ Trial
+ Included
+ Included
+ Vocal Remover & Stem Splitter
+ Vocal Remover / Acapella
+ Vocals + instrumental
+ Vocals + instrumental
+ Vocals + instrumental
+ Vocals + instrumental
+ Remove or isolate stem
+ Included
+ Included
+ Included
+ Included
+ Split the whole track · 4 stems
+ Vocals, Drums, Bass, Other
+ Vocals, Drums, Bass, Other
+ Vocals, Drums, Bass, Other
+ Vocals, Drums, Bass, Other
+ Split the whole track · 6 stems
+ Not included
+ Not included
+ Vocals, Drums, Bass, Guitar, Piano, Other
+ Vocals, Drums, Bass, Guitar, Piano, Other
+ Audio processing / month
+ 20 min/month
+ 200 min/month
+ 600 min/month
+ 1,400 min/month
+ Max uploaded audio length
+ 10 min
+ 20 min
+ 30 min
+ 60 min
+ Download full results
+ Included
+ Included
+ Included
+ Included
+ Accepted audio uploads
+ MP3, WAV, FLAC, M4A
+ MP3, WAV, FLAC, M4A
+ MP3, WAV, FLAC, M4A
+ MP3, WAV, FLAC, M4A
+ Splitter export formats
+ MP3
+ MP3, WAV
+ MP3, WAV
+ MP3, WAV
+ Source and results available for
+ 24 hours
+ 7 days
+ 7 days
+ 7 days
+ Tools & one-time bonuses
+ Copyright Checker
+ Included
+ Included
+ Included
+ Included
+ Video Finisher (Fuse)
+ Not included
+ Not included
+ Tools Plus
+ Tools Max
+ Podcast Editor (Cast)
+ Not included
+ Not included
+ Tools Plus
+ Tools Max
+ One-time Tools bonus period
+ Not included
+ Not included
+ 30 days monthly
+90 days annual
+ 30 days monthly
+90 days annual
+ Licensing for Render music
+ Personal use, non-commercial
+ Included
+ Included
+ Included
+ Included
+ Social media, non-commercial
+ Included
+ Included
+ Included
+ Included
+ Podcasts & streams, non-commercial
+ Included
+ Included
+ Included
+ Included
+ Promoted / boosted posts
+ Not included
+ Included
+ Included
+ Included
+ Monetized content / channels
+ Not included
+ Not included
+ Included
+ Included
+ Digital ads
+ Not included
+ Not included
+ Included
+ Included
+ Client / freelance work
+ Not included
+ Not included
+ Not included
+ Included
+ Agency work
+ Not included
+ Not included
+ Not included
+ Included
+ Music in finished apps, games & services
+ Not included
+ Not included
+ Not included
+ Included
+ Sub-licensing
+ Not included
+ Not included
+ Not included
+ Included
+ Standalone release to streaming services
+ Not included
+ Not included
+ Not included
+ Not included
+ Content ID registration
+ Not included
+ Not included
+ Not included
+ Not included
+ Standalone resale or stock redistribution
+ Not included
+ Not included
+ Not included
+ Not included
+ Support
+ Email support
+ Not included
+ Included
+ Included
+ Included
+ Priority support
+ Not included
+ Not included
+ Included
+ Included
+ Free
+ Start free
+ $ 8.17
+ /mo
+ $ 14
+ - 41 %
+ / month
+ Get Creator
+ $ 22.75
+ /mo
+ $ 39
+ - 41 %
+ / month
+ Get Pro
+ $ 43.75
+ /mo
+ $ 89
+ - 50 %
+ / month
+ Get Ultra
+ FAQ
+ Choose your plan according to your monetization and scale
+ Which plan should I choose?
+ Choose by the tools, volume and rights you need. Free lets you try music generation and audio separation. Creator adds higher limits and WAV exports. Pro adds more processing, the full Track Editor and commercial rights for Mubert-generated music. Ultra adds the largest allowances and rights for client work, apps and games. For uploaded audio, compare processing minutes and maximum file length; publishing rights depend on the recording you upload.
+ What’s the difference between Creator and Pro?
+ Creator includes 100 generations, 50 music downloads and 10 editor trial versions per month, with generated tracks up to 10 minutes. It also includes 200 audio-processing minutes, uploaded files up to 20 minutes and four-stem separation. 
+ Pro includes 500 generations, unlimited music downloads, generated tracks up to 25 minutes, the full Track Editor, 600 processing minutes, uploaded files up to 30 minutes and six-stem separation. Both plans include WAV exports. Pro also adds monetization and digital-ad rights for Mubert-generated music and a one-time Tools Plus bonus for Fuse
+ and Cast
+.
+ What does Ultra add to Pro?
+ Ultra increases monthly generations to 1,000 and audio processing to 1,400 minutes. Both generated tracks and uploaded files can be up to 60 minutes long. It also adds rights for client and agency work and music in finished apps or games, plus a one-time Fuse
+ + Cast
+ Max bonus.
+ How is AI Music Chat different from Text → Music?
+ Text2Music generates music from a single prompt. AI Music Chat better interprets the context of your brief, offers two demos to compare, and lets you develop your chosen direction through feedback without repeating the original request.
+ Can I use AI Music Chat for free?
+ Yes, after signing up. Ambassador and paid plans use the same AI Music Chat system. On Ambassador, chat access has a limited allowance and a 5-hour cooldown once it is used up. Your monthly track and download limits still apply.
+ Does AI Music Chat include every editing feature?
+ Available edits depend on your plan. Ambassador includes 3 Full Track Editor trial edits per month, and Creator includes 10. These allowances also apply when you request those edits in Chat. Pro and Ultra include Full Track Editor access within their generation limits.
+ How do Chat demos and track generations count toward my limits?
+ The initial pair of demos uses your chat allowance without deducting track generations. Creating a standalone track or a new edited version uses one Render generation. Chat usage and monthly track and download limits are separate.
+ Does the 5-hour cooldown reset my monthly limits?
+ The cooldown restores free chat usage. Monthly track and download limits reset on their own schedule.
+ Are Vocal Remover and Stem Splitter included in my plan?
+ Yes. Monthly processing allowances are 20 minutes on Free , 200 on Creator , 600 on Pro and 1,400 on Ultra . All plans include four-stem separation; Pro and Ultra also include six stems. Free exports MP3; paid plans also support WAV exports. Processed results remain available for 24 hours on Free and seven days on paid plans. Uploaded source files are removed from active processing storage after processing.
+ Can I try the full Track Editor before paying?
+ Yes. On Ambassador, registered users can create 3 trial versions per month. Creator includes 10 per month. You can change the structure, sections, stems, duration, BPM and key. Each generated trial version also uses one generation from your monthly allowance. Your original track stays unchanged.
+ What is the Fuse + Cast bonus?
+ Pro includes one-time access to Tools Plus; Ultra includes Tools Max. The bonus lasts 30 days with a monthly Render purchase or 90 days with an annual purchase. One Tools plan covers both Fuse
+ and Cast
+ , with its own features, credits, limits and licence, separate from Render.
+ Can I use Mubert music commercially?
+ Creator is intended for non-commercial content. Commercial usage and monetization require Pro or Ultra depending on the use case.
+ Can I publish generated tracks to Spotify or other music streaming services?
+ No. Mubert tracks cannot be redistributed as standalone music or registered in Content ID systems. They can be licensed as music used within eligible content and projects according to the selected plan.
+ What happens if I cancel my subscription?
+ You cannot use previously generated tracks in new projects after the subscription ends. Projects published while the relevant subscription was active can remain published and continue to be monetized according to their existing license.
+ When does the bonus start, and will I be charged?
+ The bonus starts when you activate it. There is no activation deadline, extra payment or additional payment-card requirement. The bonus does not automatically start or renew a paid Tools subscription.
+ Will renewing or upgrading Render give me another bonus?
+ The bonus is once per account. Renewing Render does not restart it.
+If you upgrade from Pro to Ultra before activating the bonus, it changes to Max with the duration for your selected billing period. If the bonus is already active, Plus changes to Max for the remaining time; the end date stays the same. Upgrading after an expired bonus does not give you another one.
+ Do annual Render plans have annual generation limits?
+ No. Music generations, music downloads, editor trial versions and audio processing allowances are monthly on annual plans too. The Fuse + Cast bonus is a single 90-day period.
+ What if I receive a copyright claim?
+ Mubert music is royalty-free, but false-positive claims may occasionally happen. The license certificate supplied with the downloaded track can be used to confirm your right to use it.
+ Are payments refundable?
+ Payments are generally non-refundable because access to digital content is provided immediately. If a user selected the wrong plan and wants to upgrade, they can contact Support.
+ Do stem downloads use my music download allowance?
+ No. The music download allowance applies to Mubert music. Vocal Remover and Stem Splitter use processing minutes instead. Once a result is ready, you can download its parts or export them again during the storage period without using extra processing minutes or music downloads.
+ Royalty-free music catalog
+ Genres
+ Disco Music
+ Techno Music
+ Bass
+ Folk Music
+ Trance Music
+ Dubstep
+ Drum&#x27;n&#x27;Bass Music
+ EDM Music
+ Hip-Hop Music
+ Pop Music
+ and more
+ Moods
+ Sensual
+ Energizing
+ Sad Music
+ Celebration
+ Calm Music
+ Heroic
+ Tense
+ Beautiful Music
+ Dreamy Music
+ Joyful
+ and more
+ BPM
+ 174
+ 120
+ 98
+ 70
+ 105
+ 87
+ 125
+ 80
+ 126
+ 90
+ and more
+ Playlists
+ GTA VI — Background Music
+ GTA VI — Tension, Suspense & Stealth
+ GTA VI — Action & Chases
+ Beauty Vlogs
+ Music for Presentations
+ Soft Music
+ Lo-Fi Vibes
+ Work Flow
+ Emotive Instrumentals
+ Background Music
+ and more
+ Themes
+ Detective
+ Cinematic
+ Documentary
+ Action
+ Corporate
+ Advertising
+ Art
+ Nature
+ Tutorial
+ Podcast
+ and more
+ Artists
+ glowingpalace
+ otres
+ khoza
+ pulsarum
+ 25slap1
+ ntechnique
+ nixtra
+ subcat
+ khozyaskij
+ alexkova
+ and more
+ Instruments
+ Ethnic Percussion
+ Synths
+ Bells
+ Piano
+ Drums
+ Keys
+ Electric Guitar
+ Pads
+ Acoustic Guitar
+ Image to Music
+ Text to Music
+ Mubert Render
+ Render
+ Pricing
+ License
+ Use Cases
+ How it works
+ Track Editor
+ Mubert API
+ API
+ Pricing
+ Documentation
+ Use Cases
+ Tools
+ Vocal Remover
+ Acapella Extractor
+ Instrumental Maker
+ Karaoke Maker
+ Stem Splitter
+ Drum Remover
+ Guitar Remover
+ Bass Remover
+ Isolate Drums
+ Isolate Bass
+ Isolate Piano
+ Mubert Fuse
+ Youtube Copyright Checker
+ DMCA Twitch Checker
+ Instagram Reels Checker
+ TikTok Sound Checker
+ Facebook Copyright Checker
+ Other Products
+ Mubert for Streamers
+ Mubert for Business
+ About
+ Blog
+ FAQ
+ About
+ Contacts
+ Generate infinite music streams in 150+ moods and themes. Perfect for IRL, gaming, or creator streams that need non-stop, DMCA-free music.
+ Mubert Inc
+8 The Green Dover
+Delaware US 19901
+ business@mubert.com
+ Eng
+ © 2016 – 2026 , Mubert Inc. All music broadcasted on *.mubert.com domains is generated (created, composed, recorded) by Artificial Intelligence (algorithm, software, program) owned by Mubert® Inc and licensed by Mubert® Inc only for personal use. All rights are reserved. Public reproduction, recording, distribution of this music is prohibited.
+ Terms of Use
+ Privacy Policy
+ DMCA Policy
+ We use cookies.
+ Details
+ OK
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://mubert.com/render","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://mubert.com/render/pricing","name":"Pricing"}}]}
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Mubert Render","url":"https://mubert.com/render","applicationCategory":"MultimediaApplication","applicationSubCategory":"AI music generator","operatingSystem":"Web","description":"Mubert Render generates royalty-free music with AI from a text prompt, an image, or a genre, mood and length. What each plan allows is listed on the pricing page.","offers":[{"@type":"Offer","name":"Ambassador (monthly)","description":"Non-commercial","price":"0.00","priceCurrency":"USD","category":"subscription","url":"https://mubert.com/render/pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"0.00","priceCurrency":"USD","unitText":"month","billingDuration":"P1M"}},{"@type":"Offer","name":"Creator (monthly)","description":"Non-commercial","price":"14.00","priceCurrency":"USD","category":"subscription","url":"https://mubert.com/render/pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"14.00","priceCurrency":"USD","unitText":"month","billingDuration":"P1M"}},{"@type":"Offer","name":"Creator (yearly)","description":"Non-commercial","price":"140.00","priceCurrency":"USD","category":"subscription","url":"https://mubert.com/render/pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"140.00","priceCurrency":"USD","unitText":"year","billingDuration":"P1Y"}},{"@type":"Offer","name":"Pro (monthly)","description":"Monetized content & ads","price":"39.00","priceCurrency":"USD","category":"subscription","url":"https://mubert.com/render/pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"39.00","priceCurrency":"USD","unitText":"month","billingDuration":"P1M"}},{"@type":"Offer","name":"Pro (yearly)","description":"Monetized content & ads","price":"390.00","priceCurrency":"USD","category":"subscription","url":"https://mubert.com/render/pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"390.00","priceCurrency":"USD","unitText":"year","billingDuration":"P1Y"}},{"@type":"Offer","name":"Ultra (monthly)","description":"Clients, apps & games","price":"89.00","priceCurrency":"USD","category":"subscription","url":"https://mubert.com/render/pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"89.00","priceCurrency":"USD","unitText":"month","billingDuration":"P1M"}},{"@type":"Offer","name":"Ultra (yearly)","description":"Clients, apps & games","price":"750.00","priceCurrency":"USD","category":"subscription","url":"https://mubert.com/render/pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"750.00","priceCurrency":"USD","unitText":"year","billingDuration":"P1Y"}}],"publisher":{"@type":"Organization","@id":"https://mubert.com/#org","name":"Mubert","url":"https://mubert.com"}}
