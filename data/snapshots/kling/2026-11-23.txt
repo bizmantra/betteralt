@@ -1,0 +1,300 @@
+#SNAPSHOT {"url":"https://app.klingai.com/global/membership/membership-plan","finalUrl":"https://kling.ai/app/membership/membership-plan","fetchedAt":"2026-11-23T03:39:41.603Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"c90a356b796274e17ccb5dda2cdaae400f6cf7a55ab6795e2a37beb2d984b8c7"}
+Kling AI Membership Membership Plan
+Home
+Generate
+Canvas
+Assets
+Sign In
+Enter a referral code to upgrade +10%
+Purchase Credits
+Buy Gift Card
+10
+Days
+04
+Hrs
+20
+Mins
+19
+Secs
+Yearly
+Limited-Time 50% Off
+Monthly
+Limited-Time 35% Off
+One-Time
+Business
+Standard
+$
+6.5
+ / First 3 Months
+$10
+35% Off
+$6.5/month for the First 3 Months, then $8.8/month.
+One-time offer. Cancel anytime.
+660
+Credits/month
+100 Credits = $0.98
+35% Off the First 3 Months
+Model Benefits
+Kling 4.0 – HDR
+Free
+Kling Image 4.0 - 8K
+40% Off
+VIDEO 2.6 - Voice Control
+Free
+Element AI Multi-Shot
+Daily 3 Free Uses
+Creative Benefits
+Daily Free Credits for Subscribers
+Queue unlimited tasks
+Fast-track generation
+1080p/4K Video Generation
+Brand watermark removal
+Generated content is for commercial use
+Pro
+$
+24
+ / First 3 Months
+$37
+35% Off
+$24/month for the First 3 Months, then $32.56/month.
+One-time offer. Cancel anytime.
+3000
+Credits/month
+100 Credits = $0.80
+35% Off the First 3 Months
+Model Benefits
+Kling 4.0 – HDR
+Free
+Kling Image 4.0 - 8K
+40% Off
+VIDEO 2.6 - Voice Control
+Free
+Element AI Multi-Shot
+Daily 3 Free Uses
+Creative Benefits
+Daily Free Credits for Subscribers
+Queue unlimited tasks
+Fast-track generation
+1080p/4K Video Generation
+Brand watermark removal
+Generated content is for commercial use
+Priority access to new features
+Premier
+$
+135
+ / First 3 Months
+$207
+35% Off
+$135/month for the First 3 Months, then $181.99/month.
+One-time offer. Cancel anytime.
+8K
+18K
+28K
+38K
+18000
+Credits/month
+100 Credits = $0.75
+35% Off the First 3 Months
+Model Benefits
+Kling 4.0 – HDR
+Free
+Kling Image 4.0 - 8K
+40% Off
+VIDEO 2.6 - Voice Control
+Free
+Element AI Multi-Shot
+Daily 3 Free Uses
+Creative Benefits
+Daily Free Credits for Subscribers
+Queue unlimited tasks
+Fast-track generation
+1080p/4K Video Generation
+Brand watermark removal
+Generated content is for commercial use
+Priority access to new features
+Ultra+
+$
+402
+ / First 3 Months
+$619
+35% Off
+$402/month for the First 3 Months, then $544.99/month.
+One-time offer. Cancel anytime.
+57000
+Credits/month
+100 Credits = $0.71
+35% Off the First 3 Months
+Model Benefits
+Kling 4.0 – HDR
+Free
+Kling Image 4.0 - 8K
+40% Off
+VIDEO 2.6 - Voice Control
+Free
+Element AI Multi-Shot
+Daily 3 Free Uses
+Creative Benefits
+Daily Free Credits for Subscribers
+Queue unlimited tasks
+Fast-track generation
+1080p/4K Video Generation
+Brand watermark removal
+Generated content is for commercial use
+Priority access to new features
+Beta test invite (if applicable)
+Key Features
+Kling 4.0 & 4.0 Flash
+Dynamic motion, Omni Reference, native 30s generation, multi-keyframes: every idea into production-ready video.
+Try Now
+Kling Image 4.0
+Native 8K realism, powerful text rendering, coherent image sets, long-form visuals: pro creation across industries.
+Try Now
+Kling 3.0 & 3.0 Omni
+Synchronized audio-video, smart storyboarding, element reference — consistency, precise prompt adherence.
+Try Now
+Kling Motion Control
+Recreate complex movement and accurate facial expression based on advanced motion capture technology
+Try Now
+Subscription Comparison
+Yearly
+Limited-Time 50% Off
+Monthly
+Limited-Time 35% Off
+Basic
+$
+0
+Free
+Standard
+$
+6.5
+ / First 3 Months
+$10
+35% Off
+35% Off the First 3 Months
+Pro
+$
+24
+ / First 3 Months
+$37
+35% Off
+35% Off the First 3 Months
+Premier
+$
+135
+ / First 3 Months
+$207
+35% Off
+8K
+18K
+28K
+38K
+35% Off the First 3 Months
+Ultra+
+$
+402
+ / First 3 Months
+$619
+35% Off
+35% Off the First 3 Months
+Basic Benefits
+Daily Free Credits for Subscribers
+-
+Monthly Credits included
+-
+660
+3000
+18000
+57000
+Price per 100 Credits
+-
+$0.98
+$0.80
+$0.75
+$0.71
+Video Generation Benefits
+Kling 4.0 - HDR
+-
+Free
+Free
+Free
+Free
+VIDEO 2.6 - Voice Control
+Free
+Free
+Free
+Free
+Element AI Multi-Shot
+Daily 3 Free Uses
+Daily 3 Free Uses
+Daily 3 Free Uses
+Daily 3 Free Uses
+1080p/4K Video Generation
+-
+Element Creation Quantity
+30
+50
+150
+150
+500
+Max Videos per Generation
+1
+4
+4
+4
+4
+Image Generation Benefits
+Kling Image 4.0 - 8K
+-
+40% Off
+40% Off
+40% Off
+40% Off
+4K Image Generation
+-
+Image upscaling
+-
+Creative Benefits
+Unlimited multi-track generation
+-
+Exclusive accelerating access
+-
+Generated content is for commercial use
+-
+Brand watermark removal
+-
+Priority access to new features
+-
+-
+Beta test invite (if applicable)
+-
+-
+-
+-
+More Comparison
+FAQ
+Q1What are the benefits of a Kling AI Subscription?
+When you subscribe to Kling AI, you'll receive benefits in three categories:
+● Monthly Credits: During your subscription, you'll receive Monthly Credits each billing cycle. Higher subscription tiers include more Monthly Credits and offer a lower cost per Credit, providing better overall value. During promotional periods, subscribers may also receive bonus Credits.
+● Model Discounts: During promotional periods, subscribers can enjoy discounts on eligible models, allowing you to use them for fewer Credits.
+● Creation Benefits: Subscribers gain access to exclusive creative features, including a dedicated generation queue, unlimited concurrent generation tasks, 4K video generation, and more, helping you complete your creative projects more effectively.
+Q2What are Credits?
+Q3How can I get Credits?
+Q4What if my Subscription is still active but I've used all my Credits?
+Q5How long are Credits valid?
+Q6In what order are Credits used?
+Q7How can I request an invoice?
+Q8Can I use content generated by Kling AI for commercial purposes?
+Q9What happens to my Subscription benefits if I switch plans after subscribing?
+Q10What happens when my Subscription expires?
+Q11How do I turn off auto-renewal or cancel my Subscription?
+Claim limited-time free credits and enjoy subscriber-only benefits in your personal workspace.
+Experience high-resolution video generation at 4K/1080p and image generation at 4K/8K.
+Bonus Inspiration Credits are available on Kling AI platforms only
+Sign In to Claim Gift
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://kling.ai/app/membership/membership-plan#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Kling AI","item":"https://kling.ai"},{"@type":"ListItem","position":2,"name":"App","item":"https://kling.ai/app"},{"@type":"ListItem","position":3,"name":"Kling AI Membership Membership Plan","item":"https://kling.ai/app/membership/membership-plan"}]}
+{"@context":"https://schema.org","@type":"Organization","@id":"https://kling.ai#organization","url":"https://kling.ai","logo":{"@type":"ImageObject","url":"https://s15-kling.klingai.com/kos/s101/nlav112918/kling-web/kling-logo-payment-en.png"},"name":"Kling AI","description":"Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.","email":"support@klingai.com"}
+{"@context":"https://schema.org","@type":"WebSite","@id":"https://kling.ai#website","name":"Kling AI","alternateName":["Kling","kling.ai"],"url":"https://kling.ai","publisher":{"@id":"https://kling.ai#organization"}}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://kling.ai/app/membership/membership-plan#webpage","url":"https://kling.ai/app/membership/membership-plan","name":"Kling AI: Membership Plans, Benefits & Account Options","description":"Compare Kling AI pricing and subscription plans from Basic to Ultra. Find the right plan for your AI video and image creation needs.","isPartOf":{"@id":"https://kling.ai#website"},"publisher":{"@id":"https://kling.ai#organization"},"about":{"@type":"Service","name":"Kling AI membership"},"audience":"AI video creators, designers, marketers, and creative teams","mainEntity":{"@id":"https://kling.ai/app/membership/membership-plan#offers"}}
+{"@context":"https://schema.org","@type":"OfferCatalog","@id":"https://kling.ai/app/membership/membership-plan#offers","name":"Kling AI Membership Plans","url":"https://kling.ai/app/membership/membership-plan","itemListElement":[{"@type":"Offer","name":"Kling AI VIP Monthly Membership","price":"6.5","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Pro Monthly Membership","price":"24","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Premier Monthly Membership","price":"60","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Premier Monthly Membership","price":"135","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Premier Monthly Membership","price":"209","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Premier Monthly Membership","price":"278","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Ultra+ Monthly Membership","price":"402","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI VIP Yearly Membership","price":"60","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Pro Yearly Membership","price":"222","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Premier Yearly Membership","price":"552","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Premier Yearly Membership","price":"1242","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Premier Yearly Membership","price":"1932","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Premier Yearly Membership","price":"2568","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Ultra+ Yearly Membership","price":"3714","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI VIP Weekly Membership","price":"1.19","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Team Pro Monthly Membership","price":"98","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}},{"@type":"Offer","name":"Kling AI Team Pro Yearly Membership","price":"732","priceCurrency":"USD","url":"https://kling.ai/app/membership/membership-plan","availability":"https://schema.org/InStock","seller":{"@id":"https://kling.ai#organization"}}]}

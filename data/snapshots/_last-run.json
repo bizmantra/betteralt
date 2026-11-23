@@ -1,5 +1,5 @@
 {
- "at": "2026-11-19T03:35:41.313Z",
+ "at": "2026-11-23T03:41:50.067Z",
  "total": 251,
  "failed": [
   {
@@ -31,14 +31,14 @@
    "method": "playwright"
   },
   {
-   "slug": "replika",
+   "slug": "kindroid",
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",
    "method": "playwright"
   },
   {
-   "slug": "kindroid",
+   "slug": "replika",
    "region": "us",
    "pass": false,
    "reason": "no $ amounts on page",
@@ -62,7 +62,7 @@
    "slug": "quizlet",
    "region": "us",
    "pass": false,
-   "reason": "too short (156 chars, http 403)",
+   "reason": "too short (128 chars, http 403)",
    "method": "playwright"
   }
  ]

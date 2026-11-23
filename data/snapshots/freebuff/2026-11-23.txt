@@ -1,0 +1,94 @@
+#SNAPSHOT {"url":"https://freebuff.com/plans","finalUrl":"https://freebuff.com/plans","fetchedAt":"2026-11-23T03:41:48.072Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"94b60ce7d0ccac9f2421a53adda584b2d7b24394317d3502b79b42aa53392003"}
+Freebuff Plans: Free and paid plans 
+ Skip to content
+ Advertise
+ GitHub
+ Start building 
+ More room to build
+ One plan for desktop, web, and terminal
+ Monthly
+ Yearly Save 22%
+ For crypto and more local payment options, choose Yearly, then Pay once.
+ Free
+ $0
+ / month
+ No card required
+ 30 hours refilled daily
+ Unlimited messages per session
+ Per day
+ DeepSeek V4.1 Flash 15 hrs 
+ or DeepSeek V4.1 Flash Fast 10 hrs 
+ Start for free 
+ Starter
+ $ 8
+ / month
+ 50 hours refilled daily
+ 30 hours monthly bonus
+ Unlimited messages per session
+ Unlocks GPT-6 Luna, Muse Spark 1.3, Claude Haiku 5.5, Muse Ember, GPT-6.1 Terra
+ Per day
+ DeepSeek V4.1 Flash 25 hrs 
+ or DeepSeek V4.1 Flash Fast 16 hrs 
+ Get Starter 
+ Plus
+ $ 25
+ / month
+ 80 hours refilled daily
+ 50 hours monthly bonus
+ Unlimited messages per session
+ Unlocks GPT-6 Luna, Muse Spark 1.3, Claude Haiku 5.5, Muse Ember, GPT-6.1 Terra
+ Per day
+ DeepSeek V4.1 Flash 40 hrs 
+ or DeepSeek V4.1 Flash Fast 26 hrs 
+ Get Plus 
+ Pro
+ $ 60
+ / month
+ 130 hours refilled daily
+ 100 hours monthly bonus
+ Unlimited messages per session
+ Unlocks GPT-6 Luna, Muse Spark 1.3, Claude Haiku 5.5, Muse Ember, GPT-6.1 Terra
+ Per day
+ DeepSeek V4.1 Flash 65 hrs 
+ or DeepSeek V4.1 Flash Fast 43 hrs 
+ Get Pro 
+ Hours per day by model
+ Estimated hours a day when you use one model
+ Free
+ Starter
+ Plus
+ Pro
+ DeepSeek V4.1 Flash Fast 17 hrs 
+ DeepSeek V4.1 Flash 25 hrs 
+ GPT-6 Luna 12 hrs 
+ Muse Spark 1.3 17 hrs 
+ Claude Haiku 5.5 · 100k context 8 hrs 
+ Muse Ember 8 hrs 
+ Beam 1.0 Unlimited 
+ Nemotron 3.5 Lightning Unlimited 
+ Glyph Cluster Unlimited 
+ Promotional
+ GPT-6.1 Terra 1 hr 
+ DeepSeek V4.1 Flash Slow 51 hrs 
+ Solar Pro 4 Unlimited 
+ Solar Mini 4 Unlimited 
+ You can use any mix of models. Promotional prices are temporary, and any price may change. Accounts created before November 3 keep their other models until those are retired.
+ How does usage work? Usage is measured in hours. An hour on DeepSeek V4.1 Flash Slow uses one hour; other models show a multiplier, so an hour on a 3x model uses three. Each session lasts an hour, with unlimited messages in that hour.
+ Your daily hours reset at midnight in your local timezone. The monthly bonus covers extra usage. Unused daily hours do not roll over; an unused bonus is replaced by the next bonus, including on an upgrade.
+ A plan bought before Nov 8, 11:59 PM PT keeps its current daily hours and monthly bonus for as long as it stays subscribed, including through an upgrade. If a plan ends, a new one comes with the usage on sale at that time.
+ Displayed allowances are for full access. Sign in to confirm your account’s allowance.
+ What if I cancel? Monthly cancellation ends your plan and perks immediately, with no proration or refund. Yearly cancellation stops the next renewal; access continues through the paid year, with no automatic refund. Pay once never renews.
+ What can change during beta? Model costs and usage allowances may change. A price change does not affect a running session. Every plan will continue to include more in model usage than its price.
+ Fair-use limits apply. A session may pause or stop even with allowance remaining.
+ Blog
+ Trust
+ Terms
+ Privacy
+ Light
+ Dark
+ Shine
+ Match system
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Organization","name":"Freebuff","url":"https://freebuff.com","logo":"https://freebuff.com/brand/freebuff-mark.png","sameAs":["https://github.com/CodebuffAI/codebuff","https://codebuff.com"]}
+{"@context":"https://schema.org","@type":"WebSite","name":"Freebuff","url":"https://freebuff.com","description":"Code, build and deploy apps, and chat with AI for free. Work in your browser, desktop or terminal with Freebuff."}

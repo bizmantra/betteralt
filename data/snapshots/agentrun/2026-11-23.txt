@@ -1,0 +1,436 @@
+#SNAPSHOT {"url":"https://agentrun.ai/","finalUrl":"https://agentrun.ai/","fetchedAt":"2026-11-23T03:41:48.431Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"e36e975177f25ffb5fed078f10c13ab4a07f0d94bf72ab42eb3d39c47f76c261"}
+AgentRun: Open-source AI agent management | agent.run() 
+ Skip to content
+ Platform 
+ Bring your agents
+ Model choice
+ Self-improving layer
+ Durability & compute
+ Control plane
+ GitHub
+ Docs
+ Blog
+ Changelog
+ AgentRun Cloud
+ Get started
+ AGENT.RUN() / GET STARTED
+ ×
+ Set up AgentRun
+with your agent.
+ Follow the AgentRun quickstart with your coding agent. Open the prompt in an app, or copy it into your terminal agent.
+ Copy instructions
+ Download Markdown
+ # Set up AgentRun
+Read https://agentrun.ai/SKILL.md and follow it to set up AgentRun for me. Ask me where AgentRun should run before you install or deploy anything.
+ Platform quickstart
+ Read the source
+ Supercharge
+ your agents
+ AgentRun is the open agent OS for your existing agents. Built-in self-improvement, durable execution and control over all your agents. You choose the harness, models and compute.
+ Get started
+ Explore on GitHub
+ Open source. Self-host or use AgentRun Cloud
+.
+ Works with your stack
+ Claude Code
+ Codex
+ Pi
+ OpenCode
+ Claude
+ GPT
+ Gemini
+ Particle-1
+ Composio
+ MCP
+ Parallel
+ Firecrawl
+ Exa
+ OpenRouter
+ Docker
+ Daytona
+ Modal
+ E2B
+ Agent37
+ Morph
+ Cloudflare
+ Fly Machines
+ Orgo
+ Phone harness
+ Browserbase
+ Kernel
+ Local Chrome
+ boxd
+ Claude Code
+ Codex
+ Pi
+ OpenCode
+ Claude
+ GPT
+ Gemini
+ Particle-1
+ Composio
+ MCP
+ Parallel
+ Firecrawl
+ Exa
+ OpenRouter
+ Docker
+ Daytona
+ Modal
+ E2B
+ Agent37
+ Morph
+ Cloudflare
+ Fly Machines
+ Orgo
+ Phone harness
+ Browserbase
+ Kernel
+ Local Chrome
+ boxd
+ Backed by
+ Y
+ Y Combinator
+ Meet AgentRun.
+ THE PLATFORM IN 30 SECONDS
+ Watch the AgentRun platform film.
+ 01
+ PLATFORM
+ Your choice of harness.
+One platform around it.
+ Your harness handles reasoning and tool use. AgentRun manages its runs, workspace, recovery, and learning through one API.
+ Any supported harness. One platform for every run.
+ Replay ↻
+ Pi
+ Claude Code
+ Codex
+ OpenCode
+ Create and run an agent
+ TypeScript
+ Python
+ research.ts
+ Copy full example
+ const agent = await client.agents.create({
+ definition: {
+ name: "Research assistant",
+ instructions: "Research requests. Cite sources.",
+ harness: "pi",
+ learning: true,
+ tools: ["web_search", "web_fetch"],
+ },
+});
+await client.runs.start(agent.agent_id, {
+ input: { content: "Research acme.com" },
+ max_cost_usd: 1,
+}); 
+ Install with npm i @parcha/agentrun-client .
+ Install with pip install parcha-agentrun .
+ Set AGENTRUN_BASE_URL and AGENTRUN_API_KEY for your deployment.
+ The same client manages every run.
+ Pi, Claude Code, Codex, and OpenCode. Tools and integrations depend on your harness and server configuration.
+ Platform documentation →
+ 02
+ YOUR EXISTING AGENTS
+ Your agents.
+No lock-in.
+ Connect the Claude Code and Codex setups you already use. Keep your project instructions, tools, MCP servers and sign-in. Start new runs and follow their work from one control plane.
+ Connect your existing agents →
+ YOUR EXISTING PROJECTS
+ Claude Code 
+ CLAUDE.md · .claude/
+ Instructions, skills & tools
+ Codex 
+ AGENTS.md · profiles
+ Instructions, skills & tools
+ ONE CONTROL PLANE
+ ›
+ AgentRun
+ Start runs
+ Inspect activity
+ Learn from work
+ Your setup stays yours
+ The work runs in your original project.
+Your configuration stays in your hands. 
+ { }
+ Keep your agent logic portable.
+ Define agents, skills and workflows in ordinary files you can version and keep.
+ ↗
+ Keep your options open.
+ Choose your harness, model providers and compute. Build on your own stack.
+ </>
+ Own the platform, too.
+ Apache-2.0 licensed. Self-host on your infrastructure, with source you can inspect.
+ 03
+ SELF-LEARNING
+ Make your agents smarter 
+and cheaper with every run.
+ Repeated steps become reusable skills and tested workflows. Later runs reuse what works instead of planning it all again.
+ Learn from each run.
+ AgentRun turns repeated steps into proposed skills and workflows.
+ Test before reusing.
+ Proposals are checked and graded before they are accepted.
+ Reuse what worked.
+ Later runs spend fewer tokens on repeated planning and tool discovery.
+ Learning stays with the agent that learned it.
+ Explore self-improvement →
+ Learning documentation →
+ Turn repeated work into a workflow.
+ Tested steps. Less repeated reasoning.
+ Saved workflow. Ready for the next run.
+ AgentRun workflow UI
+ SEC training · Oct 2026
+ 04
+ MODEL CHOICE
+ The right model.
+For every agent.
+ Bring your own keys. Choose a model for each agent through your provider, OpenRouter or a compatible model gateway. Your agents don’t have to depend on one model company.
+ Choose your models →
+ >_
+ Your agent 
+ Your keys
+ Claude
+ GPT
+ Gemini
+ Particle-1
+ Direct providers
+ OpenRouter
+ Compatible gateways
+ Model availability follows your harness and provider. 
+ 05
+ COMPUTE
+ Give your agents
+the right compute.
+ Keep the agent loop separate from the computer doing the work. Connect your provider once; AgentRun handles commands, files, and cleanup through one API.
+ Lightweight sandboxes
+ Run quick scripts, inspect files, and generate small reports.
+ Development environments
+ Install dependencies, build, and test code in an isolated Linux environment.
+ High-resource sandboxes
+ Configure more CPU and memory for larger datasets and batch processing.
+ Choose your compute provider. Keep the same agent API. 
+ Connect your compute
+ Set up your compute →
+ Docker
+ Daytona
+ Modal
+ E2B
+ Agent37
+ Morph
+ Cloudflare
+ Fly Machines
+ Orgo
+ Phone harness
+ Browserbase
+ Kernel
+ Local Chrome
+ boxd
+ 06
+ DURABLE EXECUTION
+ Keep your progress.
+Even when a run stops.
+ AgentRun saves the conversation, files, and completed tool results. After an interruption, recover the run from saved state instead of rebuilding its context.
+ One recovery layer
+ Keep the same recovery API across harnesses. No need to rebuild persistence around each one.
+ Saved work
+ Keep completed tool results alongside the conversation and workspace.
+ Restart recovery
+ A new process reopens the saved state and continues the run.
+ Continue a stopped run
+ TypeScript client
+ import { AgentRun } from "@parcha/agentrun-client";
+const client = new AgentRun();
+// A stopped run keeps its conversation and files.
+await client.runs.message("your-run-id", {
+ content: "Continue with the saved context.",
+});
+const run = await client.runs.wait("your-run-id");
+console.log(run.status, run.result); 
+ New turn. Same conversation and files.
+ Copy code
+ Continue from saved history.
+ Replay ↻
+ What recovery preserves 
+ Crash recovery resumes an unfinished turn from recorded state. The example above shows a deliberate stop: a follow-up starts a new turn with the saved conversation and files. Cancelled runs cannot continue.
+ The data directory must survive the restart. Recovery reuses recorded results for the same tool call. A newly requested tool call has a new key and may repeat an external action. Use idempotency keys or reconciliation for external actions.
+ Explore durable agents →
+ Sandbox setup →
+ Recovery docs →
+ 07
+ RUN INSPECTION
+ Inspect every run.
+Understand every step.
+ Follow model requests and tool calls in one timeline. Inspect recorded tool inputs, outputs and errors, then see where the time, tokens and estimated cost went.
+ THE RUN, STEP BY STEP
+ See what happened.
+ And when.
+ Follow model requests and tool calls on the same timeline. See work that ran in parallel, find a failed call, and open the details behind it.
+ DEV TOOLS / CALL TIMELINE EXAMPLE RUN
+ TOKENS, CACHE & COST
+ Know where the
+ tokens went.
+ Inspect each model request's input, output and cache usage alongside its recorded cost. See what was reused and what the model generated.
+ REQUEST DETAILS / TOKEN BREAKDOWN EXAMPLE RUN
+ TOOL INPUTS & OUTPUTS
+ Go straight to
+ what went wrong.
+ Open a tool call to inspect its recorded arguments, result preview and timing. Read the returned error when a call fails, with secrets removed from the preview.
+ CALL DETAILS / RESULT PREVIEW EXAMPLE RUN
+ Explore the control plane →
+ PLATFORM FEATURES
+ Give your agents everything they need to get work done.
+ Connect tools. Recover interrupted runs. Reuse checked workflows.
+ Learn from completed runs
+ Compile repeated work into workflows, check them against prior runs, and reuse the ones that pass.
+ Read the docs →
+ Choose your agent harness
+ Choose Pi, Claude Code, Codex, or OpenCode. Keep the same API for agents and runs.
+ Read the docs →
+ Pick up where runs left off
+ Recover interrupted runs with saved conversation, files, and recorded tool results.
+ Read the docs →
+ Connect the tools your agents need
+ Connect built-in tools and remote MCP servers, with explicit tool access for each agent.
+ Read the docs →
+ Keep the files your agents create
+ Give each run its own files. Upload inputs, inspect outputs, and continue with saved work.
+ Read the docs →
+ Run it on your infrastructure
+ Run the Apache-2.0 platform on your own machine or server with your own model keys.
+ Read the docs →
+ PLATFORM COMPARISON
+ Why AgentRun?
+ Choose your harness. Own your infrastructure. Turn repeated work into reusable skills and tested workflows.
+ Included
+ Not offered
+ Partial / different scope
+ Not documented
+ Scroll to compare platforms →
+ What you get
+ Open source AgentRun
+ Anthropic Claude Managed Agents
+ OpenAI Agents API
+ Google Cloud Gemini Enterprise Agent Platform
+ Open source & self-hostable Full platform, including the console
+ Apache 2.0
+ Managed service
+ Managed service
+ Managed service
+ One API across harnesses Choose how your agents run
+ Pi · Claude Code
+Codex · OpenCode
+ Claude only
+ Codex only
+ Custom integration
+ Learns skills & workflows From completed runs
+ Built-in, evaluated learning
+ Memory learning
+Preview
+ Not documented
+ Skill optimization
+Experimental
+ Durable execution Recover interrupted work
+ Built-in recovery
+ Durable sessions
+ Durable sessions
+ Opt-in resume
+ Run multiple agents Manage concurrent work
+ Shared API & console
+ Agent teams
+ Parallel subagents
+ Multi-agent workflows
+ Compares the named platforms.
+ Checked November 7, 2026 
+ 08
+ DEPLOYMENT
+ Open source.
+Or hosted for you.
+ Learning, recovery, and the console are all open source. Run AgentRun with your own API keys, or choose a hosted deployment.
+ Self-hosted
+ Run AgentRun on your machine or server. Bring your own model API keys and keep control of your agents and data.
+ Self-learning and reusable workflows
+ Run history and recovery
+ Agent management console
+ Set up AgentRun
+ Free under Apache-2.0 · View on GitHub
+ Cloud
+ Choose hosted AgentRun from the team at Grep. Build and run your agents while we manage the infrastructure.
+ Hosted AgentRun deployment
+ No server to maintain
+ Start in the Cloud console
+ Get started
+ Infrastructure managed by the Grep team.
+ Enterprise
+ Work with the Grep team to plan an AgentRun deployment around your infrastructure, access requirements, and support needs.
+ Deployment planning
+ Security and access review
+ Team onboarding and support
+ Talk to sales
+ Discuss your requirements with our team.
+ Built by the team behind Grep AI
+, whose platform powers business process agents at Worldpay, IG.com, Citizens, and Airwallex. Self-host AgentRun with your own keys, or let us host it on AgentRun Cloud.
+ FAQ
+ Frequently asked questions
+ How learning works, where the savings come from, and what stays under your control.
+ What does AgentRun add to my agent harness? 
+ AgentRun is the platform around your chosen harness. Define agents, run them through a common API, and manage their revisions, run history, recovery, and learning in one place. The harness still handles the agent’s reasoning and tool use.
+ Explore the platform
+ Is AgentRun open source? How does it relate to Grep? 
+ AgentRun is open source under Apache-2.0, built by the team behind Grep. Learning, recovery, and the console are included. You can self-host with your own model API keys; model and infrastructure costs are yours. Grep is our managed platform for business agents. AgentRun Cloud is our hosted AgentRun offering, and is optional when you self-host.
+ AgentRun on GitHub
+ · About Grep
+ How does self-learning work? 
+ When learning is enabled, the agent reflects on its runs and proposes notes, reusable skills, and workflow drafts. Accepted changes are versioned and available to later runs, so repeated steps can be reused instead of planned again. This updates the agent’s saved knowledge and procedures, not the model’s weights.
+ How learning works
+ How does that reduce token usage? 
+ An agent can spend tokens rediscovering an API, planning the same request, or deciding how to validate a result. Reusing a skill or workflow can skip that repeated reasoning. The agent still uses models and tools where needed. Potential savings come from reducing repeated work.
+ Reusable skills and workflows
+ How much will I save? 
+ Savings depend on how much work repeats. The launch post reported a 90% cost reduction for one compliance workload. Results vary, and reflection and grading also add cost. Measure total spend and answer quality on your own workload, including the cost of learning.
+ Launch example
+ · Learning costs
+ What happens when a decision is uncertain? 
+ You define the threshold and the fallback in your workflow. Uncertain results can go to an agent for further investigation or trigger escalation for review. A confidence score is a routing signal, not a guarantee of accuracy. Choose thresholds using evaluated examples and the consequences of getting the decision wrong.
+ Confidence and fallback
+ · Interpreting scores
+ Do I need Jev to use AgentRun? 
+ No. Jev is an optional integration for focused decisions in workflows you author, such as choosing a category or returning a score. Agents and self-learning work without it. Automatically learned workflows currently use supported model and tool steps; they do not automatically turn into Jev decisions.
+ Jev integration
+ · Learned workflow support
+ Do I have to turn my whole agent into a workflow? 
+ No. Keep open-ended tasks agentic and make repeatable steps reusable. Workflows can include agent investigation at defined points, so you can automate routine paths while deciding how exceptions should be handled. You control where a workflow continues, retries, or asks for help.
+ See a workflow with agent investigation
+ How are learned changes checked? 
+ Proposals pass structural checks and an AI grader before they can be reused. Changes that widen trust, loosen checks, or direct money or data require owner approval. You can inspect changes, edit notes, or retire learned material. These checks help filter proposals; you still need to evaluate results on your tasks.
+ Validation and approval
+ Which harnesses can I use? 
+ Pi, Claude Code through the Claude Agent SDK, Codex, and OpenCode. Choose a harness in your AgentRun agent definition while keeping shared run management and learning. Each harness needs its own configuration, and available models and tools can differ.
+ Harness setup
+ Can I run AgentRun on my own infrastructure? 
+ Yes. Self-host the open-source platform locally or on your own server and bring your model API keys. Agent definitions, runs, and learned material live in your configured data directory. Model calls and hosted browser sessions still go to the providers you configure.
+ Self-hosting instructions
+ Open-source AI agent management from Parcha Labs, makers of GREP.ai.
+ Built by
+ AgentRun
+ Self-improving layer
+ Durability & compute
+ Control plane
+ AgentRun Cloud
+ Developers
+ Documentation
+ Run your first agent
+ Examples
+ GitHub
+ Company
+ Grep AI
+ About Grep
+ Blog
+ FAQ
+ Contact sales
+ © 2026 Parcha Labs, Inc.
+ Privacy
+ Terms of service
+ Open-source license
+ Cookie settings
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://agentrun.ai/#parcha-labs","name":"Parcha Labs","sameAs":"https://github.com/Parcha-ai"},{"@type":"WebSite","@id":"https://agentrun.ai/#website","name":"AgentRun","url":"https://agentrun.ai/","publisher":{"@id":"https://agentrun.ai/#parcha-labs"}},{"@type":"SoftwareApplication","@id":"https://agentrun.ai/#software","name":"AgentRun","url":"https://agentrun.ai/","sameAs":"https://github.com/Parcha-ai/agentrun","description":"Manage AI agents across Claude Code, Codex, Pi and OpenCode. AgentRun adds a shared control plane, durable runs and self-improvement. Open source from Parcha Labs.","applicationCategory":"DeveloperApplication","author":{"@id":"https://agentrun.ai/#parcha-labs"},"downloadUrl":"https://agentrun.ai/docs/quickstart"}]}

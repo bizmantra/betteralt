@@ -1,0 +1,502 @@
+#SNAPSHOT {"url":"https://github.com/alibaba/open-code-review","finalUrl":"https://github.com/alibaba/open-code-review","fetchedAt":"2026-11-23T03:41:48.731Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"1429593a94d2bc9473e32ba5fe88200053e4e45c516755fdb112626126eddeb7"}
+GitHub - alibaba/open-code-review: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects, and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ alibaba
+ open-code-review
+ Repository navigation
+ Code
+ Issues
+ 142
+  ( 142 )
+ Pull requests
+ 203
+  ( 203 )
+ Discussions
+ Actions
+ Projects
+ Security and quality
+ 1
+  ( 1 )
+ Insights
+ More items
+ open-code-review
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 4.6k
+  ( 4.6k
+)
+ Star 55.5k
+  ( 55.5k
+)
+ You must be signed in to star a repository
+ About
+ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+ open-codereview.ai
+ Topics
+ agent
+ agent-skills
+ code-review
+ code-review-assistant
+ harness
+ repository-level-context
+ Resources
+ Readme
+ Apache-2.0 license
+ Code of conduct
+ Code of conduct
+ Contributing
+ Contributing
+ Security policy
+ Security policy
+ Activity
+ Custom properties
+ Stars
+ 55.5k stars
+ Watchers
+ 159 watching
+ Forks
+ 4.6k 
+ forks
+ Report repository
+ main
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 908 Commits
+ 908 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .agents/
+ plugins
+ .agents/
+ plugins
+ .claude-plugin
+ .claude-plugin
+ .claude/
+ commands
+ .claude/
+ commands
+ .github
+ .github
+ .kimi-plugin
+ .kimi-plugin
+ .opencodereview
+ .opencodereview
+ acp
+ acp
+ bin
+ bin
+ cmd/
+ opencodereview
+ cmd/
+ opencodereview
+ docs/
+ i18n
+ docs/
+ i18n
+ examples
+ examples
+ extensions
+ extensions
+ imgs
+ imgs
+ internal
+ internal
+ npm
+ npm
+ pages
+ pages
+ plugins/
+ open-code-review
+ plugins/
+ open-code-review
+ scripts
+ scripts
+ skills
+ skills
+ .gitattributes
+ .gitattributes
+ .gitignore
+ .gitignore
+ .npmignore
+ .npmignore
+ AGENTS.md
+ AGENTS.md
+ ASSURANCE_CASE.md
+ ASSURANCE_CASE.md
+ CLAUDE.md
+ CLAUDE.md
+ CODE_OF_CONDUCT.md
+ CODE_OF_CONDUCT.md
+ CONTRIBUTING.md
+ CONTRIBUTING.md
+ GOVERNANCE.md
+ GOVERNANCE.md
+ LICENSE
+ LICENSE
+ Makefile
+ Makefile
+ README.md
+ README.md
+ ROADMAP.md
+ ROADMAP.md
+ action.yml
+ action.yml
+ go.mod
+ go.mod
+ go.sum
+ go.sum
+ install.ps1
+ install.ps1
+ install.sh
+ install.sh
+ package.json
+ package.json
+ View all files
+ Repository files navigation
+ README
+ Code of conduct
+ Contributing
+ Apache-2.0 license
+ Security
+ More items
+ OpenCodeReview
+ English | 简体中文
+ | 日本語
+ | 한국어
+ | Русский
+ | Türkçe
+ What is Open Code Review?
+ Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assistant — over the past two years, it has served tens of thousands of developers and identified millions of code defects. After thorough validation at massive scale, we incubated it into an open source project for the community. Simply configure a model endpoint to get started.
+ It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates structured review comments with line-level precision. The agent can read full file contents, search the codebase, inspect other changed files for context, and produce deep reviews — not just surface-level diff feedback. Beyond diff review, ocr scan reviews entire files for auditing unfamiliar codebases or directories that have no meaningful diff.
+ Visit the official website
+ for more details.
+ Benchmark
+ Compared to general-purpose agents (Claude Code), Open Code Review achieves significantly higher Precision and F1 with the same underlying model, while consuming only ~1/9 of the tokens and completing reviews faster. Note that its Recall is lower than general-purpose agents — a deliberate trade-off favoring precision over noise.
+ A real-world code review benchmark built from 50 popular open-source repositories, 200 real Pull Requests, and 10 programming languages — cross-validated by 80+ senior engineers ( 1,505 annotated ground-truth issues).
+ Explore the AACR-Bench dataset on Hugging Face
+.
+ Metric
+ What it measures
+ Why it matters
+ F1 
+ Harmonic mean of precision and recall
+ Best single number for overall review quality
+ Precision 
+ Proportion of reported issues that are real defects
+ Higher = fewer false alarms to triage
+ Recall 
+ Proportion of real defects that are found
+ Higher = fewer issues slip through review
+ Avg Time 
+ Wall-clock time per review
+ Matters for CI pipeline latency
+ Avg Token 
+ Total tokens consumed per review
+ Directly impacts API cost
+ Why Open Code Review?
+ The Problem with General-Purpose Agents
+ If you've used general-purpose agents like Claude Code with Skills for code review, you've likely encountered these pain points:
+ Incomplete coverage — On larger changesets, agents tend to "cut corners," selectively reviewing only some files and missing others.
+ Position drift — Reported issues frequently don't match the actual code location, with line numbers or file references drifting off target.
+ Unstable quality — Natural-language-driven Skills are hard to debug, and review quality fluctuates significantly with minor prompt variations.
+ The root cause: a purely language-driven architecture lacks hard constraints on the review process.
+ Core Design: Deterministic Engineering × Agent Hybrid
+ Open Code Review's core philosophy is to combine deterministic engineering with an agent, each handling what it does best.
+ Deterministic Engineering — Hard Constraints 
+ For review steps that must not go wrong , engineering logic — not the language model — guarantees correctness:
+ Precise file selection — Determines exactly which files need review and which should be filtered, ensuring no important change is missed.
+ Smart file bundling — Groups related files into a single review unit (e.g., message_en.properties and message_zh.properties are bundled together). Each bundle runs as a sub-agent with isolated context — a divide-and-conquer strategy that stays stable on very large changesets and naturally supports concurrent review.
+ Fine-grained rule matching — Matches review rules to each file's characteristics, keeping the model's attention sharply focused and eliminating information noise at the source. Compared to purely language-driven rule guidance, template-engine-based rule matching is more stable and predictable.
+ External positioning and reflection modules — Independent comment-positioning and comment-reflection modules systematically improve both the location accuracy and content accuracy of AI feedback.
+ Agent — Dynamic Decision-Making 
+ The agent's strengths are concentrated where they matter most — dynamic decisions and dynamic context retrieval:
+ Scenario-tuned prompts — Prompt templates deeply optimized for code review, improving effectiveness while reducing token consumption.
+ Scenario-tuned toolset — Distilled from deep analysis of tool-call traces in large-scale production data — including call frequency distributions, per-tool repetition rates, and the impact of new tools on the overall call chain — resulting in a purpose-built toolset that is more stable and predictable for code review than a generic agent toolkit.
+ How to Use
+ Prerequisites
+ Operating system: Windows, macOS, or Linux.
+ Git >= 2.41 — Open Code Review relies on Git for diff generation, code search, and repository operations.
+ Agent Skills
+ Use the skills in Claude Code, Codex, Cursor, Kimi Code, or another agent that supports Agent Skills and can run local commands. Both modes require Git >= 2.41 and the ocr CLI ; only native mode requires an OCR model provider.
+ 1. Install the Skills
+ Run in the project you want to review, then select the skills you need and your agent in the installer:
+ npx skills add alibaba/open-code-review 
+ The skills guide your agent to install ocr if it is missing, subject to your environment's permissions. You can also install it ahead of time with npm install -g @alibaba-group/open-code-review . Prefer a plugin or manual installation? See the agent-specific setup guide
+, or copy the desired folders from skills/ 
+ into your agent's skill directory.
+ 2. Choose a Review Mode
+ Native mode
+ Delegation mode
+ Skill
+ open-code-review 
+ open-code-review-delegate 
+ Who reviews?
+ OCR's specialized review agent and pipeline
+ Your current coding agent, following OCR's review pipeline and guardrails
+ Model and authentication
+ OCR's own provider configuration
+ Your host agent's existing model and authentication
+ Choose it when
+ You have a model endpoint for OCR and want its full review pipeline
+ You have no separate API key, or want to use your existing agent subscription/setup
+ No separate key? Start with delegation mode. It skips OCR provider setup, not the host agent's own authentication, usage limits, or costs. A host-agent subscription is not automatically an API credential for native mode. In delegation mode, OCR's CLI and skill together provide the review pipeline and guardrails: file selection, rule resolution, coverage requirements, and structured reporting. The host agent performs analysis, positioning, and reporting within that workflow; it does not run OCR's full native pipeline.
+ For native mode, configure a provider once with ocr config provider and ocr config model . Authentication depends on the provider; see Configuration
+.
+ CLI
+ Install
+ npm install -g @alibaba-group/open-code-review 
+ After installation, the ocr command is available globally.
+ For other installation methods (install script, GitHub Release binary, from source), see Installation
+.
+ Quick Start
+ 1. Configure LLM 
+ You must configure an LLM before reviewing code, unless you use Delegation Mode
+.
+ OCR calls the model: ocr review , the /open-code-review:review command, and the open-code-review skill use OCR's own provider configuration, not your Claude Code Team/Pro subscription login. Authentication requirements depend on the provider; see Configuration
+.
+ The host agent calls the model: the /open-code-review:delegate-review command and the open-code-review-delegate skill use the host agent's configured model and authentication. No separate LLM configuration or credentials are needed in OCR. See the Claude Code install steps
+.
+ ocr config provider #
+ Select a built-in provider or add a custom one
+ocr config model #
+ Pick a model for the active provider
+ The interactive UI guides you through provider selection, API key entry, and model configuration, then automatically tests connectivity.
+ For CLI setup, environment variables, custom providers, and other advanced configuration, see Configuration
+.
+ 2. Review 
+ cd
+ your-project
+ #
+ Workspace mode — review all staged, unstaged, and untracked changes
+ocr review
+ #
+ Current branch — review changes since it diverged from main (--to defaults to HEAD)
+ocr review --from main
+ #
+ Branch range — reviews feature-branch's changes since it diverged from main (merge-base mode)
+ocr review --from main --to feature-branch
+ #
+ Single commit
+ocr review --commit abc123
+ #
+ Resume an interrupted range or commit review
+ocr session list
+ocr review --from main --to feature-branch --resume <
+session-id >
+ #
+ Full-file scan — review whole files instead of a diff (no git history needed)
+ocr scan #
+ scan the entire repository
+ocr scan --path internal/agent #
+ scan a directory or specific files
+ocr scan --resume <
+session-id >
+ #
+ resume an interrupted full-file scan
+ #
+ Save results to a file (recommended for AI host agents)
+ocr review --format json --output result.json
+ #
+ Delegation mode — let your AI coding agent perform the review itself
+ #
+ OCR handles file selection and rule resolution; no LLM configuration needed
+ocr delegate preview
+ocr delegate rule src/main.go src/handler.go 
+ Documentation
+ Full documentation lives at open-codereview.ai/docs
+ :
+ Quickstart
+ — install and run your first review
+ Installation
+ — all platforms and package managers
+ CLI Reference
+ — every command and flag
+ Review Rules
+ — customize review rules with path filtering and targeting
+ Configuration
+ — config keys and environment variables
+ MCP Server
+ — extend the review agent with external tools
+ Coding Agent Integrations — choose the platform you use
+ Claude Code
+ — install a plugin with review slash commands
+ Codex
+ — install a plugin with callable review skills
+ Cursor
+ — install a plugin with portable review skills
+ Kimi Code
+ — install a plugin with review slash commands and skills
+ OpenCode
+ — install native review tools and slash commands
+ QCA Forward
+ — run delegation mode with the QCA host model and a ready-to-publish template
+ Skill-compatible agents
+ — install the portable agent skill
+ Review Execution Modes — after integration, choose which LLM performs the review
+ Default (OCR-managed)
+ — OCR runs the review using its configured LLM
+ Delegation Mode
+ — your coding agent runs the review using its own LLM; no OCR API key required
+ CI/CD Integration
+ — GitHub Actions, GitLab CI, GitFlic CI, and Gerrit integration
+ Session Viewer
+ — browse and replay review sessions in browser, mark comments as fixed or ignored and hide them while you work through the findings
+ Telemetry
+ — OpenTelemetry integration for observability
+ FAQ
+ — common questions and troubleshooting
+ Contributing
+ This project exists thanks to all the people who contribute. See CONTRIBUTING.md
+ for development setup, coding guidelines, and how to submit pull requests.
+ License
+ Apache-2.0
+ — Copyright 2026 Alibaba
+ About
+ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+ open-codereview.ai
+ Topics
+ agent
+ agent-skills
+ code-review
+ code-review-assistant
+ harness
+ repository-level-context
+ Resources
+ Readme
+ Apache-2.0 license
+ Code of conduct
+ Code of conduct
+ Contributing
+ Contributing
+ Security policy
+ Security policy
+ Activity
+ Custom properties
+ Stars
+ 55.5k stars
+ Watchers
+ 159 watching
+ Forks
+ 4.6k 
+ forks
+ Report repository
+ Releases
+ Used by
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

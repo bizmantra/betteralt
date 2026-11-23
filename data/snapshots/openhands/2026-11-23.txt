@@ -1,0 +1,132 @@
+#SNAPSHOT {"url":"https://www.all-hands.dev/pricing","finalUrl":"https://www.openhands.dev/pricing","fetchedAt":"2026-11-23T03:40:47.472Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"40dbef73ae3f2067e3549836c59aac0ebe87de56c31ed4d62b85b8bd3924f4bf"}
+OpenHands Pricing Product
+ ▾
+ Enterprise
+ Pricing
+ Community
+ Resources
+ ▾
+ Get OpenHands
+ Product
+ Agent Canvas
+ Cloud
+ Agent Control Plane
+ SDK
+ Enterprise
+ Pricing
+ Community
+ Resources
+ Learn
+ Docs
+ Manifesto
+ Blog
+ Benchmarks
+ Trust Center
+ Company
+ Press
+ Careers
+ About
+ Contact
+ 94.1K
+ Talk to us
+ Talk to us
+ Get OpenHands
+ Get OpenHands
+ 94.1K
+ Talk to us
+ Talk to us
+ Get OpenHands
+ Get OpenHands
+ Menu
+ Close
+ Start free. Scale on your terms.
+ Open Source
+ Free
+ Open source and free to self-host.
+ For individual developers building and running AI agents locally or in the cloud.
+ Open source (MIT)
+ Runs on your laptop or shared VM
+ Single user / shared identity
+ Bring your own LLM key
+ Use any agent (Codex, Claude, etc.)
+ Automations
+ Download
+ Download
+ Teams
+ $500/month
+ 10 users included (+$50/mo per seat)
+ For teams bringing AI agents into shared workflows, with enterprise capabilities.
+ 10 users included
+ Self-hosted
+ Multi-user identity & RBAC
+ Bring your own LLM key
+ Use any agent (Codex, Claude, etc.)
+ Built-in Integrations
+ Automations
+ Budgeting controls
+ SSO / SAML
+ Start free trial
+ Start free trial
+ Enterprise
+ Custom pricing
+ Built for secure, governed AI at enterprise scale.
+ For larger organizations scaling AI agents across teams with dedicated support.
+ Everything in Teams
+ Unlimited seats
+ Unlimited users
+ Enterprise agreement
+ Standard or Premium Support
+ Customer success manager
+ Contact Us
+ Contact Us
+ Whether you’re building agents on your own or deploying them across an organization, OpenHands scales with you. Start with open source, share workflows across your team, or choose Enterprise for larger deployments and dedicated support.
+ Open Source
+ Teams
+ Enterprise
+ Price
+ Free
+ $500/mo, 10 users included (30-day trial)
+ Custom
+ Seats
+ Shared identity
+ 10 users included (+$50/mo per seat)
+ Custom
+ Organizations
+ —
+ 1
+ Unlimited
+ Deployment
+ Local Self-hosted
+ Self-hosted
+ Self-hosted
+ Automations
+ Bring your own LLM
+ Use 3rd-party agents (Claude, Codex, etc.)
+ MCP & secrets
+ User identity & RBAC
+ —
+ SAML / SSO
+ —
+ Budgeting & usage
+ —
+ Built-in OAuth integrations
+ Select MCP only
+ Enterprise agreement
+ —
+ —
+ Support
+ Open source community
+ Best effort email
+ SLA-based response times
+ Customer success
+ —
+ —
+ The Teams plan is capped at 5,000 sessions per month. Enterprise usage remains uncapped.
+ Building the open standard for autonomous software development.
+ OpenHands is the foundation for secure, transparent, model-agnostic coding agents - empowering every software team to build faster with full control.
+ Join The Community
+ Join The Community
+ ©  2026
+ OpenHands - All rights reserved
+ Privacy Policy
+ Contact
