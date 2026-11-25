@@ -1,0 +1,114 @@
+[
+ {
+  "archived": false,
+  "created": "2025-12-09T23:35:00Z",
+  "pushed": "2026-11-25T03:03:01Z",
+  "repo": "https://github.com/diggerhq/opencomputer",
+  "spdx": "Apache-2.0",
+  "stars": 1733
+ },
+ {
+  "archived": false,
+  "created": "2026-02-19T18:00:49Z",
+  "pushed": "2026-11-24T19:54:49Z",
+  "repo": "https://github.com/vercel-labs/agent-desktop",
+  "spdx": "Apache-2.0",
+  "stars": 26535
+ },
+ {
+  "archived": false,
+  "created": "2026-05-11T09:40:38Z",
+  "pushed": "2026-11-25T04:26:41Z",
+  "repo": "https://github.com/nexu-io/openmotion",
+  "spdx": "Apache-2.0",
+  "stars": 16075
+ },
+ {
+  "archived": false,
+  "created": "2026-08-13T06:28:56Z",
+  "pushed": "2026-11-25T04:06:28Z",
+  "repo": "https://github.com/elie222/rakazo",
+  "spdx": "Apache-2.0",
+  "stars": 9715
+ },
+ {
+  "archived": false,
+  "created": "2026-11-19T10:00:43Z",
+  "pushed": "2026-11-24T13:27:46Z",
+  "repo": "https://github.com/iamajmeena/neonclipping",
+  "spdx": "AGPL-3.0",
+  "stars": 2508
+ },
+ {
+  "archived": false,
+  "created": "2026-11-14T07:38:20Z",
+  "pushed": "2026-11-24T20:10:32Z",
+  "repo": "https://github.com/haziqahmedqasmi/PeakCut",
+  "spdx": "MIT",
+  "stars": 1907
+ },
+ {
+  "archived": false,
+  "created": "2026-11-13T17:02:31Z",
+  "pushed": "2026-11-25T04:14:10Z",
+  "repo": "https://github.com/Forward-Future/scarlet",
+  "spdx": "MIT",
+  "stars": 700
+ },
+ {
+  "archived": false,
+  "created": "2026-11-19T04:34:09Z",
+  "pushed": "2026-11-24T15:39:03Z",
+  "repo": "https://github.com/replit/amuse",
+  "spdx": "Apache-2.0",
+  "stars": 161
+ },
+ {
+  "archived": false,
+  "created": "2026-11-21T06:54:24Z",
+  "pushed": "2026-11-25T03:00:50Z",
+  "repo": "https://github.com/w01fb0ss/PiBot",
+  "spdx": "Apache-2.0",
+  "stars": 564
+ },
+ {
+  "archived": false,
+  "created": "2026-11-13T23:25:01Z",
+  "pushed": "2026-11-24T21:08:19Z",
+  "repo": "https://github.com/usetuff/tuff",
+  "spdx": "AGPL-3.0",
+  "stars": 209
+ },
+ {
+  "archived": false,
+  "created": "2026-11-20T23:39:20Z",
+  "pushed": "2026-11-25T01:58:39Z",
+  "repo": "https://github.com/bluesky-social/diderot",
+  "spdx": "Apache-2.0",
+  "stars": 54
+ },
+ {
+  "archived": false,
+  "created": "2026-11-15T17:30:43Z",
+  "pushed": "2026-11-15T18:50:13Z",
+  "repo": "https://github.com/davidondrej/superbot",
+  "spdx": "MIT",
+  "stars": 442
+ },
+ {
+  "archived": false,
+  "created": "2026-11-10T11:21:52Z",
+  "pushed": "2026-11-24T02:02:54Z",
+  "repo": "https://github.com/fabwaseem/firevoice",
+  "spdx": "MIT",
+  "stars": 5
+ },
+ {
+  "archived": false,
+  "created": "2024-04-15T21:02:29Z",
+  "pushed": "2026-11-25T04:38:45Z",
+  "repo": "https://github.com/firecrawl/firecrawl",
+  "spdx": "AGPL-3.0",
+  "stars": 209100
+ }
+]

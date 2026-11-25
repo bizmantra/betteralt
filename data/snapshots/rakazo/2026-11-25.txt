@@ -1,0 +1,150 @@
+#SNAPSHOT {"url":"https://rakazo.com/pricing","finalUrl":"https://rakazo.com/pricing","fetchedAt":"2026-11-25T04:42:32.624Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"ba28cfd5868b3a02ea9159c028440665befb78b80b4e8dbc8393549d15dd9124"}
+Pricing · Rakazo Skip to content
+ rakazo
+ Open in new tab
+ Copy wordmark as SVG
+ Brand kit
+ Download
+ Docs
+ Integrations
+ Pricing
+ ★
+ 9.7k
+ Get started
+ Download
+ Docs
+ Integrations
+ Pricing
+ GitHub
+ Pricing
+ Self-hosted
+ Free
+ Open source, Apache-2.0
+ Your server or your own computer
+ Bot computers in Docker or a sandbox
+ Any model you connect
+ Self-hosting guide
+ Your model
+ $15/mo
+ $12/mo billed yearly
+ Hosted by us
+ Claude, ChatGPT, or any API key
+ Bot computer included
+ 7-day free trial
+ Start free trial
+ Rakazo credits From $20/mo · Model usage with no markup, plus computer hours
+ Get started
+ Compare plans
+ Self-hosted
+ Free
+ Standard
+ $15/mo
+ Pro
+ $49/mo
+ Max
+ $99/mo
+ Ultra
+ $199/mo
+ Rakazo credits
+ From $20/mo
+ Any model
+ Our catalog Credits cover the models Rakazo offers
+ Sandbox
+ Your computer or any of 13 Your own computer through the desktop app, or Docker, Kubernetes, Incus, Boat, Boxd, CreateOS, Daytona, E2B, InstaBox, Novita, Railway, Wuying, Apple container
+ Included
+ Included
+ Included
+ Included
+ Included
+ Model usage
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Credits Charged at the provider's price, with no markup
+ Integrations and MCP
+ Bot computer A computer your bot can use to run code, edit files, and browse.
+ Unlimited
+ Included $5 in computer time a month. Counts only while your bot uses its computer, which most work doesn't need. It pauses when idle.
+ 4× the allowance $20 in computer time a month. Counts only while your bot uses its computer, which most work doesn't need. It pauses when idle.
+ 8× the allowance $40 in computer time a month. Counts only while your bot uses its computer, which most work doesn't need. It pauses when idle.
+ 24× the allowance $120 in computer time a month. Counts only while your bot uses its computer, which most work doesn't need. It pauses when idle.
+ Included Your computer allowance grows with your monthly plan. Counts only while your bot uses its computer, which most work doesn't need. It pauses when idle.
+ EU hosting
+ Your choice
+ Free trial
+ 7 days Includes $3 in computer time
+ 7 days Includes $3 in computer time
+ 7 days Includes $3 in computer time
+ 7 days Includes $3 in computer time
+ Open source
+ Self-host
+ Start trial
+ Start trial
+ Start trial
+ Start trial
+ Get started
+ Managed dedicated hosting $300/month · We set up and maintain your team’s private Rakazo server.
+ Learn more
+ Managed dedicated hosting
+ $300/month
+ We run Rakazo for your team on its own server.
+ A server only your team uses
+ We set it up, update it, and keep it running
+ Reachable only over your private network
+ Single sign-on, audit log, and encryption at rest
+ Any model you connect
+ Email us
+ rakazo
+ English English
+ Deutsch
+ 한국어
+ 简体中文
+ 日本語
+ Español
+ Français
+ Português (Brasil)
+ Nederlands
+ Русский
+ Türkçe
+ עברית
+ हिन्दी
+ 繁體中文
+ Polski
+ © 2026 Inbox Zero Inc.
+ Apache-2.0
+ Product
+ Black Friday
+ Download
+ Docs
+ Self-hosted
+ Enterprise
+ Sandboxes
+ Integration platforms
+ Voice providers
+ AI agent cost calculator
+ Submit a plugin
+ Changelog
+ GitHub
+ Alternatives
+ Grok Bot
+ Muse
+ Dots
+ Instinct
+ Hermes
+ Claude Duet
+ Hark
+ OpenClaw
+ All
+ Company
+ Blog
+ About
+ Brand
+ Affiliates
+ Support
+ Privacy
+ Terms
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"SoftwareApplication","@id":"https://rakazo.com/#software","name":"Rakazo","url":"https://rakazo.com/","applicationCategory":"BusinessApplication","applicationSubCategory":"AI agent platform","isAccessibleForFree":true,"codeRepository":"https://github.com/elie222/rakazo","license":"https://github.com/elie222/rakazo/blob/main/LICENSE","provider":{"@type":"Organization","@id":"https://rakazo.com/#organization","name":"Rakazo","url":"https://rakazo.com/"},"offers":[{"@type":"Offer","name":"Self-hosted","url":"https://rakazo.com/pricing/","price":"0","priceCurrency":"USD"},{"@type":"Offer","name":"Standard","url":"https://rakazo.com/pricing/","price":"15","priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":"15","priceCurrency":"USD","billingDuration":"P1M","unitCode":"MON"}},{"@type":"Offer","name":"Pro","url":"https://rakazo.com/pricing/","price":"49","priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":"49","priceCurrency":"USD","billingDuration":"P1M","unitCode":"MON"}},{"@type":"Offer","name":"Max","url":"https://rakazo.com/pricing/","price":"99","priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":"99","priceCurrency":"USD","billingDuration":"P1M","unitCode":"MON"}},{"@type":"Offer","name":"Ultra","url":"https://rakazo.com/pricing/","price":"199","priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":"199","priceCurrency":"USD","billingDuration":"P1M","unitCode":"MON"}},{"@type":"Offer","name":"Rakazo credits","url":"https://rakazo.com/pricing/","description":"Model usage with no markup, plus computer hours","priceSpecification":{"@type":"UnitPriceSpecification","minPrice":"20","priceCurrency":"USD","billingDuration":"P1M","unitCode":"MON"}}]}]}

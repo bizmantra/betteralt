@@ -1,0 +1,331 @@
+#SNAPSHOT {"url":"https://opencomputer.dev","finalUrl":"https://opencomputer.dev/","fetchedAt":"2026-11-25T04:42:31.977Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"d1a91d3c0a51b551d9f387f5a301d0fb9d8ecdca9e07a8cece656a0700d555d2"}
+The open source alternative to Devin. – OpenComputer 
+@Computer · active
+ How it works
+ Self-hosting
+ Pricing
+ Docs
+ 672
+ Add @
+Computer to Slack
+Read the launch post →
+ The open source 
+ alternative to Devin.
+ Blazing fast cloud coding agents in Slack. Self‑host on your own cloud, or use ours.
+ Add @
+Computer to Slack
+ Star on GitHub 
+ 672
+ Talk to founders
+ Apache-2.0 ·
+ Self-host on AWS, Azure or Google Cloud
+ Bring your own subscription:
+ Claude Pro or Max
+ ChatGPT Plus or Pro
+or an API key
+ No subscription? Use ours at cost.
+ Thread
+ # payments
+ I
+ Igor
+ 11:51 AM
+ @
+Computer
+, a customer was charged twice when Stripe retried a webhook. Find out why and fix it.
+ 👀
+2
+ 2 replies 
+ oc
+ Computer
+ APP
+ 11:51 AM
+ ✓
+ Read webhooks/stripe.ts · Wrote a failing test
+ The handler charges on every delivery, so a retry charges again. Now it records each event id and skips the ones it has seen.
+ oc
+ Computer
+ APP
+ 11:52 AM
+ Fix double charge on webhook retry
+ #252
+ Retried events are skipped by id. The new test replays one delivery twice.
+ ✓
+ lint
+ ✓
+ typecheck
+ ✓
+ tests
+ +38
+ −4
+ 🙏
+1
+ Reply…
+Also send to #payments 
+ Computer
+ is typing
+ runs on your own cloud
+#payments · Thursday, 11:51–11:52 AM 
+ 9:06
+ Reminder email for skipped invites
+ 9:41
+ Empty state for new projects
+ 10:04
+ Add CSV export to invoices
+ 10:17
+ Quote commas in CSV rows
+ 11:52
+ Fix double charge on webhook retry
+ 2:31
+ Move invite step to the end
+ 3:08
+ Dark mode for the editor
+ 4:13
+ Black upgrade button on pricing
+ 9:06
+ Reminder email for skipped invites
+ 9:41
+ Empty state for new projects
+ 10:04
+ Add CSV export to invoices
+ 10:17
+ Quote commas in CSV rows
+ 11:52
+ Fix double charge on webhook retry
+ 2:31
+ Move invite step to the end
+ 3:08
+ Dark mode for the editor
+ 4:13
+ Black upgrade button on pricing
+ FIG. 01
+Self-hosting
+ Turn any VM into a multiplayer coding agent.
+ Self-hosted, it runs on one VM per organization in your Azure, AWS or Google Cloud account. The VM connects out to the gateway and needs no open inbound ports.
+ Many sessions on one VM.
+ Each thread gets its own session and its own copy of your repositories. One VM can often run hundreds at once.
+ Disk first, then git.
+ Sessions write state to the VM's disk, then persist it to a git store. Another VM can pick up the same session, so you scale out by adding VMs.
+ Sandboxes only for heavy work.
+ A session moves to a sandbox for a heavy build or a preview environment, not on every turn.
+ Self-hosting guide →
+ Source on GitHub →
+ Slack
+ @computer <task>
+ events
+ Your VM
+ Gateway
+ Slack, web, API, CLI
+ host agent takes work
+ Host agent
+ Takes work from the gateway, runs a session per thread
+ Claude Code
+ session
+ Runner
+ Codex
+ session
+ Runner
+ OpenCode
+ session
+ Runner
+ Local disk
+ State written here first
+ persist
+ Git-backed store
+ Durable session copies
+ delegate
+ Optional
+ External sandbox
+ Heavy builds, preview environments
+ hundreds of sessions, one VM
+self-hosted · how it works 
+ Benchmark
+ Slack message to first push in 24 seconds.
+ As fast as Claude Code on your laptop, and twice as fast as other cloud coding agents on the same task.
+ Read the benchmark →
+ OpenComputer
+ 24s
+ Replicas
+ 53s
+ Capy
+ 55s
+ Hoplite
+ 69s
+ Devin
+ 72s
+ FIG. 02
+It’s fast. Really, really fast.
+ Doesn’t make you wait.
+ It answers while the question is still on your mind.
+ Replies stream in as they are written.
+ Shows every file it opens and every command it runs.
+ UI changes come with a screenshot and a preview link.
+Dana
+Computer
+ 4:12 PM
+ 4:13 PM
+ Thread
+ # web
+ D
+ Dana
+ 4:12 PM
+ @
+Computer
+ pricing card should look more like this, the upgrade button gets lost 
+ upgrade
+ sketch.png 
+ oc
+ Computer
+ APP
+ 4:13 PM
+ ✓
+ Read PricingCard.tsx · Edit +6 −3 · Screenshot
+ before →
+ full width, black 
+ Opened #231
+.
+ ●
+ Checks running
+ 🚀
+2
+ 🙏
+1
+ Reply…
+Also send to #web 
+ Computer
+ is typing
+ started from a sketch
+#web · Tuesday, 4:12–4:13 PM 
+ FIG. 03
+For the team
+ Built for multiplayer.
+ Everyone in the thread sees the work and can reply to it.
+ Anyone in the thread can give it direction, not only the person who asked.
+ Conventions one person explains apply to everyone's later requests.
+ The thread records who asked for each change, what changed and why.
+Mira
+Igor
+Utpal
+Computer
+ Wed 2:31 PM
+ Thu 9:06 AM
+ Thread
+ M
+ I
+ U
+# onboarding
+ M
+ Mira
+ 2:31 PM
+ @
+Computer
+, new users skip the invite step. Can we make it the last step instead of the first?
+ 4 replies 
+ oc
+ Computer
+ APP
+ 2:31 PM
+ ✓
+ Edit src/onboarding/steps.ts
+ Moved it to the end. Preview is up on the branch.
+ I
+ Igor
+ 2:40 PM
+ keep the skip link, some teams are solo
+Thursday 
+ U
+ Utpal
+ 9:05 AM
+ @
+Computer
+, lots of teams still skip it. Add a reminder email a few days after signup.
+ oc
+ Computer
+ APP
+ 9:06 AM
+ ✓
+ Edit src/emails/inviteReminder.tsx
+ Added on the same branch, so it only goes to teams that used Igor's skip link.
+ ✅
+3
+ Reply…
+Also send to #onboarding 
+ Utpal
+ is typing
+ picked up the next morning
+#onboarding · three people, two days 
+Pricing
+ Start free. Grow as you ship.
+ Try it free for 3 days. Then pick a plan for your whole Slack workspace: you pay for work minutes only. Bring your own model, or use ours at cost. We're fast, so your minutes go further.
+ Your model
+ Your subscription
+ Your API key
+ Our tokens
+ If your plan hits its limit
+ Switch to our tokens
+ Wait for the reset
+ @
+Computer keeps working on our tokens at API prices, no markup, and switches back to your subscription when its limit resets. We tell you in the thread when it switches.
+ Your team works
+ 2,000 work minutes a month
+ You pay
+ $20 / month
+ $0 for the model, on your Claude or ChatGPT plan
+ Pro, 2,000 minutes included
+ Trial
+ Free 3 days
+ 600 work minutes
+ No card. Includes $10 of our model tokens. Ends at 600 minutes or day 3, whichever comes first.
+ Start free trial
+ Pro
+ $20 / month
+ 2,000 work minutes a month
+ A team handing off fixes every day.
+ Choose Pro
+ Max
+ $200 / month
+ 25,000 work minutes a month
+ Several teams, all day, every channel.
+ Choose Max
+ Enterprise
+ Custom
+ Over 60,000 work minutes a month
+ Volume pricing and a direct line to the founders.
+ Contact us
+ Self-hosted
+ Free, on your own cloud.
+ Apache-2.0. You pay your cloud and your model provider, not us.
+ Self-hosting guide →
+ Plans cover the whole workspace. Past your plan's minutes, each extra minute is $0.01, paid from prepaid credits: packs of $10, $50, $200, with optional auto top-up. Nothing is billed after the fact. Models are yours at no charge from us, or ours at API prices with no markup, also from credits.
+ What's a work minute?
+ The clock runs while it works
+ From the moment @
+Computer picks up your message to its reply: reading code, running commands, builds and tests. Metered by the second.
+ Waiting is free
+ Time between messages, idle threads and time spent waiting on you to review costs nothing. Two threads working at once count as two. Your serverless agents draw on the same minutes.
+ Why minutes go further
+ Workspaces resume warm. Your repo, dependencies and build caches are already there, so a minute goes on your work, not on cloning and reinstalling.
+ Ship your next change from Slack.
+ Add it to Slack, then mention @
+Computer in any channel.
+ Add @
+Computer to Slack
+ Talk to founders
+ Or run it yourself: self-hosting guide
+ · source on GitHub
+ © 2026 OpenComputer
+ Docs
+ Compare
+ GitHub
+Computer is typing
+ Set in Inter, Geist Mono and Newsreader. Drawn in a Slack thread.
+ Hold ⌥ to inspect
+ Inspect
+ Press g for the grid
+ Grid
+ @
+Computer
+ @
+Computer
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://opencomputer.dev/#website","name":"OpenComputer","url":"https://opencomputer.dev/","description":"The background agent cloud. Full Linux VM sandboxes with hardware-level isolation, checkpoint and fork, and runtime resizing.","publisher":{"@id":"https://opencomputer.dev/#organization"}},{"@type":"Organization","@id":"https://opencomputer.dev/#organization","name":"OpenComputer","url":"https://opencomputer.dev/","logo":"https://opencomputer.dev/favicon.ico","description":"OpenComputer is a cloud for AI agents: a managed runtime for agents defined as code, and full Linux VMs for agents to work in.","legalName":"DGGR Inc.","address":{"@type":"PostalAddress","streetAddress":"535 Mission Street, 14th Floor","addressLocality":"San Francisco","addressRegion":"CA","postalCode":"94105","addressCountry":"US"},"parentOrganization":{"@type":"Organization","name":"Digger","legalName":"DGGR Inc.","url":"https://digger.dev/"},"sameAs":["https://github.com/diggerhq/opencomputer"],"contactPoint":[{"@type":"ContactPoint","contactType":"customer support","email":"utpal@opencomputer.dev","url":"https://opencomputer.dev/contact/","availableLanguage":"en"}]},{"@type":"SoftwareApplication","@id":"https://opencomputer.dev/#software","name":"OpenComputer","url":"https://opencomputer.dev/","description":"Build and deploy AI agents that run on their own computers: durable sessions, schedules, webhooks and managed credentials, on full Linux VMs with hardware-level isolation.","applicationCategory":"DeveloperApplication","operatingSystem":"Linux","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","description":"Free tier; usage-based pricing at https://opencomputer.dev/pricing.md"},"publisher":{"@id":"https://opencomputer.dev/#organization"},"softwareHelp":{"@type":"CreativeWork","url":"https://docs.opencomputer.dev/"}}]}

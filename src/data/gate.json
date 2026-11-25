@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-23T03:55:54.152Z",
+ "generatedAt": "2026-11-25T04:43:37.379Z",
  "maxAgeDays": 14,
- "linkCheck": "251 links checked, 0 dead",
+ "linkCheck": "266 links checked, 0 dead",
  "tools": {
   "chatgpt": {
    "verified": true,
@@ -1201,6 +1201,81 @@
    "verified": true,
    "checkedAt": "2026-11-23",
    "snapshot": "data/snapshots/kitesurf/2026-11-23.txt"
+  },
+  "opencomputer": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/opencomputer/2026-11-25.txt"
+  },
+  "agent-desktop": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/agent-desktop/2026-11-25.txt"
+  },
+  "openmotion": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/openmotion/2026-11-25.txt"
+  },
+  "rakazo": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/rakazo/2026-11-25.txt"
+  },
+  "neonclipping": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/neonclipping/2026-11-25.txt"
+  },
+  "peakcut": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/peakcut/2026-11-25.txt"
+  },
+  "scarlet": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/scarlet/2026-11-25.txt"
+  },
+  "amuse": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/amuse/2026-11-25.txt"
+  },
+  "pibot": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/pibot/2026-11-25.txt"
+  },
+  "tuff": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/tuff/2026-11-25.txt"
+  },
+  "diderot": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/diderot/2026-11-25.txt"
+  },
+  "superbot": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/superbot/2026-11-25.txt"
+  },
+  "firevoice": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/firevoice/2026-11-25.txt"
+  },
+  "firecrawl": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/firecrawl/2026-11-25.txt"
+  },
+  "foolscap": {
+   "verified": true,
+   "checkedAt": "2026-11-25",
+   "snapshot": "data/snapshots/foolscap/2026-11-25.txt"
   }
  },
  "dead": [],

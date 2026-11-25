@@ -1,0 +1,936 @@
+#SNAPSHOT {"url":"https://github.com/nexu-io/openmotion","finalUrl":"https://github.com/nexu-io/openmotion","fetchedAt":"2026-11-25T04:42:34.424Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"e27b135997551ea96ce7f1c8f7cec64d18839cd6ab8c50abebf7b99a51d9a8a2"}
+GitHub - nexu-io/openmotion: The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy. · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects, and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ nexu-io
+ openmotion
+ Repository navigation
+ Code
+ Issues
+ 46
+  ( 46 )
+ Pull requests
+ 82
+  ( 82 )
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ openmotion
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 1.6k
+  ( 1.6k
+)
+ Star 16.1k
+  ( 16.1k
+)
+ You must be signed in to star a repository
+ About
+ The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.
+ open-design.ai/motion/
+ Topics
+ agent-skills
+ ai
+ ai-agents
+ animation
+ claude-code
+ codex
+ deepseek-harness
+ dsh
+ dsh-plugin
+ ffmpeg
+ generative-ai
+ html
+ javascript
+ local-first
+ mcp
+ motion-graphics
+ openmotion
+ typescript
+ video-editing
+ video-generation
+ Resources
+ Readme
+ Apache-2.0 license
+ Contributing
+ Contributing
+ Activity
+ Custom properties
+ Stars
+ 16.1k stars
+ Watchers
+ 49 watching
+ Forks
+ 1.6k 
+ forks
+ Report repository
+ main
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 815 Commits
+ 815 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .agents
+ .agents
+ .codex-plugin
+ .codex-plugin
+ .github
+ .github
+ deploy
+ deploy
+ desktop
+ desktop
+ docs
+ docs
+ examples
+ examples
+ gateway
+ gateway
+ integrations/
+ dsh
+ integrations/
+ dsh
+ library
+ library
+ mcp-ui
+ mcp-ui
+ packages
+ packages
+ scripts
+ scripts
+ shared
+ shared
+ skills
+ skills
+ src
+ src
+ studio
+ studio
+ template-library
+ template-library
+ templates
+ templates
+ tests
+ tests
+ tracking
+ tracking
+ web
+ web
+ workers/
+ install-guide
+ workers/
+ install-guide
+ .dockerignore
+ .dockerignore
+ .env.development
+ .env.development
+ .gitattributes
+ .gitattributes
+ .gitignore
+ .gitignore
+ .lfsconfig
+ .lfsconfig
+ .mcp.json
+ .mcp.json
+ AGENTS.md
+ AGENTS.md
+ CHANGELOG.md
+ CHANGELOG.md
+ CLAUDE.md
+ CLAUDE.md
+ CONTRIBUTING.md
+ CONTRIBUTING.md
+ CONTRIBUTING.zh-CN.md
+ CONTRIBUTING.zh-CN.md
+ LICENSE
+ LICENSE
+ README.REVERSE-ENGINEERING.md
+ README.REVERSE-ENGINEERING.md
+ README.md
+ README.md
+ README.zh-CN.md
+ README.zh-CN.md
+ design-projects.ts
+ design-projects.ts
+ drizzle.config.ts
+ drizzle.config.ts
+ hyperframes.ts
+ hyperframes.ts
+ install.md
+ install.md
+ install.sh
+ install.sh
+ marketplace.example.json
+ marketplace.example.json
+ package-lock.json
+ package-lock.json
+ package.json
+ package.json
+ prism-templates.ts
+ prism-templates.ts
+ repository-media.json
+ repository-media.json
+ review-comments.ts
+ review-comments.ts
+ server.ts
+ server.ts
+ template-catalog.ts
+ template-catalog.ts
+ template-library.ts
+ template-library.ts
+ tsconfig.backend.json
+ tsconfig.backend.json
+ tsconfig.cloud.json
+ tsconfig.cloud.json
+ View all files
+ Repository files navigation
+ README
+ Contributing
+ Apache-2.0 license
+ More items
+ The open-source Claude Motion & CapCut alternative 
+ Install
+ · Agents
+ · Use cases & remakes
+ · Why OpenMotion
+ · Setup & architecture
+ · Community
+ English · 简体中文
+ · 日本語
+ OpenMotion
+ OpenMotion is a full-stack agentic video studio and an open-source alternative to Claude Motion and CapCut . Upload a reference video or paste a social video link to recreate it with your own brand kit and copy .
+ 🎬 Full-stack video recreation. Code video with HTML. Your agent breaks down the reference, rebuilds its shots and transitions, and generates missing assets. Edit the timing in Studio and render an MP4 from the same project.
+ 🔑 BYOA — Bring Your Own Agent. BYOK — Bring Your Own Keys. OpenMotion is free and open source. Recreate videos in your local agent
+ with your own API keys. Supported agents include Claude Code, Codex, and WorkBuddy.
+ 🧩 OpenMotion introduces Motion.md , a Markdown format for shot order, timing and transitions. Use it to share how a brand film works, shot by shot.
+ 🎛️ Images, video, music and voice. Create artwork with GPT Image 2.6, add a shot with Seedance 2.5, score it with Suno and narrate it with Eleven v4. Explore the models and providers
+.
+ Install from ChatGPT Marketplace
+ One-click installation. No manual configuration required. Once installed, create motion videos from scratch, recreate reference videos, or start from a template—all in your conversation.
+ Install OpenMotion in ChatGPT →
+ Install in your agent
+ Install the main Skill with the Skills CLI
+:
+ npx skills add nexu-io/openmotion --skill openmotion 
+ Then ask your agent: Use OpenMotion to connect Cloud MCP, then help me make a video. The Skill connects directly to the hosted Streamable HTTP /mcp endpoint via OAuth 2.1 without installing a local runtime, and reuses an existing working connection. Installing the Skill alone copies instructions; it does not yet connect MCP.
+ Copy this instruction into your agent to connect OpenMotion Cloud MCP:
+ Read https://github.com/nexu-io/openmotion/blob/main/docs/install.md and follow the instructions to connect OpenMotion in the current agent.
+ After OAuth authorization, the agent opens the cloud template library and shows the localized welcome followed by three curated project-preview cards via a native MCP App, self-contained HTML document, DSH card, or text fallback. Each onboarding samples three distinct entries from the curated pool of four without waiting for native MCP tool reload or fetching remote reference films for inline previews. Preview a card, choose Recreate template , then send your brief to start creating. Cloud MCP connection guide
+ · Onboarding reply rules
+ Legacy local source & npm installation (optional)
+ Cloud MCP setup above is the default Agent connection path. For self-hosted deployments see deploy/README.md
+. Legacy local source/stdio setup and published npm application recipes remain archived for explicit local use:
+ Read https://releases.open-design.ai/motion and follow the instructions to install and connect the published npm application in the current agent.
+ Archived legacy local source & npm guide
+ · npm installation and diagnostics
+. Published npm versions can lag behind this checkout.
+ Run the repository locally
+ Use Git, npm and Node.js 26.11.1:
+ git -c filter.lfs.process= -c filter.lfs.smudge= -c filter.lfs.required=false clone --depth 1 --single-branch --branch main https://github.com/nexu-io/openmotion.git
+ cd
+ openmotion
+npm ci
+npm run build:studio
+npm start 
+ Open the actual studioUrl or previewUrl printed at startup, then choose Template library . Studio and MCP read the templates in this checkout. To connect your agent to this same copy, follow source setup and MCP configuration
+. Clone size and optional media
+ Start from an existing project
+ Import a HyperFrames project ZIP into OpenMotion to continue editing its composition and local assets. Compress the project folder, open All projects → Import projects , then select the imported copy to edit in Studio or with your Agent. Import creates an independent copy and requires a supported native project structure.
+ Step-by-step import guide, required files and compatibility
+ 22 local agents · Choose your agent
+ 🎞️ Use cases and remake examples
+ Explore product demos, brand films, talking-head videos and more. The previews below show reference videos.
+ Browse the full template library →
+ — Find more templates, full videos, Motion.md and recreation instructions.
+ AI recuts & revisions
+ OpenAI · Build a story from multiple scenes 
+Connect different scenes around one narrative idea, then expand into a broader montage.
+ View template
+ Anthropic · Recut a making-of collage 
+Layer clips and screenshots in sequence, keeping the main title readable above them.
+ View template
+ Product launches & demos
+ Notion · Show a problem, then the solution 
+Move from crowded tasks to coordinated agents; adapt the sequence to your own product.
+ View template
+ OpenAI · Turn demand into a product reveal 
+Build momentum with overlapping requests, then reveal the app in one clear beat.
+ View template
+ Brand films & motion
+ Kimi · Connect worlds through motion 
+Use code strips, offset slices and transitions to connect a series of brand scenes.
+ View template
+ Slack · Rebuild a brand mark 
+Break a mark into simple shapes and reassemble it with your own colors and name.
+ View template
+ Explainers & tutorials
+ Anthropic · Explain a connected workflow 
+Follow one question through data, actions and slides, keeping the context visible.
+ View template
+ Stripe · Show an approval step by step 
+Carry the same request from a conversation to phone confirmation with clear visual continuity.
+ View template
+ Data stories & charts
+ OpenAI · Turn complex ideas into diagrams 
+Transform one geometric diagram into the next using shared points and connecting lines.
+ View template
+ Anthropic · Make results progressively visible 
+Move from an overview to individual findings, then show the action taken for each result.
+ View template
+ Music & art visuals
+ ElevenLabs · Visualize a song taking shape 
+Connect the prompt, sections and tempo to a waveform and the finished piece.
+ View template
+ Deezer · Animate a music poster 
+Keep the headline steady while flowing waves add rhythm around it.
+ View template
+ AI talking-head edits
+ Build a clear story around a speaker, with readable captions, screen inserts and animated keywords. Use these references to find a style for your own recording.
+ 🎓 Teach & explain
+ 6 essential skills to transform your career 
+Numbered points + kinetic keywords
+ Reference · @careerwithriya 
+ What's the best AI tool right now? 
+Presenter + floating tool cards
+ Reference · Dan Martell 
+ 10 Days of AI Basics, Day 1 
+A personal lesson + readable captions
+ Reference · @harpercarrollai 
+ 🖥️ Show the workflow
+ 5 tools I use every day 
+Desk-side story + workflow inserts
+ Reference · Ali Abdaal 
+ Tool demo with callouts 
+Presenter + screens + callouts
+ Reference · @john.tagudin 
+ Top 5 plugins to install in Claude 
+A spoken list + supporting screenshots
+ Reference · @aiwithsachi 
+ 🎬 Tell a story, show a product
+ The Founder Experiments, Ep. 1 
+Founder diary + everyday B-roll
+ Reference · @khris.sheer 
+ AI creator with product 
+Product story + proof + picture-in-picture
+ Reference · @ugc.rachelll 
+ Stop Paying for 5 AI Tools 
+Product tutorial + live demonstration
+ Reference · Kevin Stratvert 
+ ✨ Why OpenMotion
+ 1. A full-stack agentic video studio
+ Code video with HTML. OpenMotion uses HTML, CSS and JavaScript to describe scenes, typography, layout, transitions and timing. Recorded footage, generated clips, images, music and voice-over become media inside the composition. The same project opens in Studio and renders to MP4.
+ Write it. Watch it. Change it. Render it. Ask your agent to replace the product, tighten the hook, add a presenter, change the captions or try another ending. It edits the project source; you review the result in the visual editor. Local MCP clients use the project tools, while agents with shell access can follow the Skills and pinned CLI workflow. Agent setup
+ · Native composition guide
+ · Example HTML project
+ If historical media are unavailable, an Agent restore is refused before changing the project. The editor shows a dismissible error with the affected file paths and confirms that the current project is unchanged.
+ Review your video, arrange clips and export from the same Studio workspace.
+ What you can change in Studio
+ In the Studio
+ What you can do today
+ Story and timeline 
+ Import and arrange media; have the agent trim, reorder and revise against a script or confirmed timecodes
+ Motion and captions 
+ Author animated type, transitions, callouts, charts and captions around your content
+ Media and sound 
+ Import your material and generate images, video, music and TTS voice-over through the built-in model integrations
+ Image revision 
+ Generate candidates with a reference-capable image model and adopt a replacement while preserving timing and animation
+ Preview and versions 
+ Review in Studio, edit by hand or with your agent, and return to the project for the next revision
+ Export and source 
+ Render a fixed version to MP4 and retain the HTML, CSS, JavaScript and media
+ “Keep the reveal we approved. Replace the middle scene with this screen recording, tighten the opening using these timecodes, and hold our final CTA for two more seconds.”
+ Projects and versions
+ From a reference clip to an editable remake
+ Break down the reference. Pick a sequence. Record its shot order, transitions and sound cues in Motion.md, and mark what you want to replace.
+ Rebuild the shots. Your agent rebuilds the HTML scenes using your brand kit, copy and visuals, then arranges them on an editable timeline in Studio.
+ Compare the cuts. Watch the same moment in the original and the remake. Adjust the timing, movement and sound, then play the sequence through.
+ Export and share. Render the MP4 and keep the HTML source and media. To share a project others can adapt, include its Motion.md, a preview and assets you can redistribute. Project contribution checklist
+ 2. Free and open source. Use your local agent and bring your own keys.
+ Choose your agent. WorkBuddy, Codex, Claude Code and DeepSeek Harness have installation instructions. Other buttons open the shared MCP and CLI setup.
+ Bring your own…
+ Make it work for your video
+ 🤖 Agent — BYOA 
+ Connect your existing local agent through Skills and MCP, with CLI access where supported. Keep your preferred client, account and working context.
+ 🔑 Keys — BYOK 
+ Connect supported media-provider API keys in Model Settings. Choose models for images, video, music and TTS; supported local media integrations can use your existing agent login.
+ 🎨 Brand and material 
+ Add your logo, fonts, screenshots, camera footage, script and music. Keep identity and approved assets in the Brand Kit section of Motion.md.
+ 🧩 Starting resources 
+ Browse references, motion components, templates and community Skills. Pick a direction, give the source or reference to your agent, and make it yours.
+ The OpenMotion creation pipeline is open source: Skills, project tools, model integrations, Studio and rendering. Run it locally, inspect the implementation and extend the parts you need. OpenMotion charges no software subscription or per-render fee for this local workflow. You can also work with your own footage, images and audio without invoking media-generation APIs.
+ Provider credentials stay in your workspace, separate from the video project. Your agent and media providers bill any subscriptions or usage to your own accounts. Agent setup and compatibility
+ 3. 300+ Motion.md guides for video recreation
+ OpenMotion introduces Motion.md : a Markdown format for shot order, timing, transitions and the assets you can replace. The online library brings reference videos and their motion guides into the same detail page.
+ The Brand Kit section records your identity, voice and approved product facts; the Design section can reference an independent DESIGN.md for visual rules. Keep the reference’s motion and pacing while making the result recognizably yours.
+ To share an industry or brand system, use the Motion Package v0.2 draft
+ and authoring toolkit
+. A package combines the design and motion documents with materials, declared dependencies and optional SKILL.md . The included recipe demonstrates two content presets; automatic Studio import and rendered fidelity remain separate from package validation.
+ Find a template, then make it yours
+ Browse by reference brand, use case and video type , or search for a specific idea. A template detail page brings together the preview, visual style, production notes and Motion.md download. Choose Recreate template in Studio to copy a prompt for your agent.
+ Reference-only entries start a reconstruction workflow. When editable source is available, your agent can adapt the project directly.
+ Browse the template library
+ 4. Multimodal generation: images, video, music and speech
+ BYOK makes your multimodal accounts part of the video workflow. Add your supported provider keys in Model Settings , choose your models, and generate images, video, music and speech through the Studio's Model Gateway . Preview candidates and adopt the results into the same project your agent and Studio edit. The supported local image path can reuse your existing agent login.
+ Connect fal.ai in Model Settings and refresh its catalog to find GPT Image 2.6, Nano Banana 2.1, FLUX.3, Seedance 2.5, Kling 4.0, Wan 3.0 and Eleven v4. The presets below also appear before you refresh.
+ Make what the video needs
+ Built-in model catalog examples
+ Bring it into your film
+ 🖼️ Images 
+ Codex Image; Nano Banana 2 via Atlas Cloud; FLUX Schnell via fal.ai
+ Brand visuals, scene artwork and supporting images; reference-based editing with Codex Image or an OpenDesign account image model that supports edits
+ 🎬 Video 
+ Seedance 2.0 via Atlas Cloud; Wan 2.2 via fal.ai
+ Generated shots and B-roll to combine with your footage and motion
+ 🎵 Music 
+ Suno v4 via Atlas Cloud
+ A soundtrack built around your mood and creative brief
+ 🎙️ TTS / voice-over 
+ Kokoro via fal.ai
+ Narration from your approved script, placed alongside the visuals and music
+ “Use the Brand Kit section of our Motion.md and our approved script. Generate artwork for the opening, a video insert, background music and TTS narration. Add the selected results to the recreated project, align the sound and visuals, then show me the full cut.”
+ Model catalog
+ · Provider setup and endpoints
+ 🛠️ Setup and technical documentation
+ When choosing or replacing media, creation workflows share a material sourcing policy
+: reuse suitable supplied assets, prefer original sources for established subjects, and create original/supporting visuals as needed. Explicit user constraints and each workflow’s supported scope still apply.
+ Install from source
+ For agent-led installation, use the installation instruction above
+. To run from source, follow the steps below.
+ After a successful Agent connection or setup, open the template library in the current conversation without creating a project. Browse and preview first; choose Recreate template or Open and edit to create an independent editable copy. See the cloud onboarding reply rules
+ and archived local source/npm guide
+.
+ During video creation and editing, the chat stays free of preview areas. OpenMotion presents the editable Studio when the final video is ready to preview, then shows one final-video preview
+ after MP4 export and verification. Host-native playback takes priority; Codex embeds the video in the final reply. The optional MCP App player is used only when the host cannot preview the video, never alongside another preview of the same export. Native-host acceptance of an installed build remains separate.
+ If MCP tools are missing or fail to connect, use the installed connection diagnosis and recovery guide
+ to inspect the actual host configuration and verify the original workspace before continuing.
+ Use Git, npm and Node.js 26.11.1 . Source-based preview and export also need Chrome/Chromium and FFmpeg/FFprobe. Runtime setup
+ git -c filter.lfs.process= -c filter.lfs.smudge= -c filter.lfs.required=false clone --depth 1 --single-branch --branch main https://github.com/nexu-io/openmotion.git
+ cd
+ openmotion
+npm ci
+npm run build:studio
+npm start 
+ Full reference videos and optional template archives download through Git LFS only when requested. README images/GIFs and built-in templates remain available directly. See clone size and optional media downloads
+.
+ Open the studioUrl or previewUrl printed by npm start , then open Template library . Startup reuses a compatible service for the same workspace or selects an available local port. The service keeps running in the background after the launcher exits.
+ Select a template and choose Recreate template to copy the instruction for your agent. Keep projects and credentials outside the checkout; MOTION_DATA_DIR selects the workspace.
+ Source checkouts load templates from library/templates/catalog/ . The local Studio and MCP use the same files; openmotion_list_templates returns a searchable local index, and openmotion_get_template returns local guide content and absolute source paths. Imported large images and videos retain existing CMS links; new contribution media can use Git LFS. Local edits appear on the next catalog read.
+ The plugin root is this checkout: .codex-plugin/plugin.json loads its skills/ and .mcp.json , which launches the root mcp.ts . Start stdio with npm run mcp or use an absolute path in manual MCP configuration
+. Local template workflow
+.
+ Bring it into your agent
+ For Codex with plugin support, run from the checkout:
+ bash scripts/install-motion.command 
+ WorkBuddy · Import the OpenMotion connector in WorkBuddy or add its mcp.json as a custom MCP server. Ask WorkBuddy to list the available video templates. WorkBuddy setup
+ Claude Code · Connect this source checkout through the manual MCP configuration
+, then run /mcp to check the connection.
+ DeepSeek · Work with the editable HTML project from the terminal in DeepSeek TUI. For DeepSeek Harness, connect the OpenMotion MCP tools with the Cordis configuration. DeepSeek Harness setup
+ The installer uses locally built packages. Windows test packages
+ Try an online template:
+ Use OpenMotion to recreate the template at this detail-page URL with my brand kit and copy. Keep the motion and pacing, then open the editable result in Studio for review.
+ To start from a video instead, supply your reference and use the recreation brief
+. If your host cannot open Studio beside the conversation, use the returned local project link.
+ Skills, MCP and CLI
+ The main Skill, plugin and MCP server are named openmotion ; Tools, specialist Skills and resources use openmotion_* , openmotion-* and openmotion:// . Old Tool/resource names remain compatibility aliases; retired Skill entries are removed. Use openmotion or openmotion-* Skill names and refresh host discovery after upgrading. See naming and installation compatibility
+.
+ Discover the main Skill and optional specialist workflows from GitHub with the Skills CLI
+:
+ npx skills add nexu-io/openmotion --list
+npx skills add nexu-io/openmotion --skill openmotion-director openmotion-production openmotion-template-to-video openmotion-recreate openmotion-video-to-template 
+ This copies instructions; it does not install the runtime or register MCP. Keep the shared documentation available and connect the app separately, or use the integrated local installer above.
+ Skill
+ Use it for
+ openmotion
+ Setup, first use and selecting the right video workflow
+ openmotion-recreate
+ Reconstructing a reference video and comparing the result
+ openmotion-template-to-video
+ Adapting an existing editable template
+ openmotion-director
+ Original films, narrative, movement, sound and creative review
+ openmotion-video-to-template
+ Producing a portable reusable template
+ openmotion-production
+ Scoped edits, preview, checks, troubleshooting and export
+ Connect a local agent · Follow the installation guide for your client. Use the configuration below in clients with local stdio MCP support. In a shell-based agent, open the project directory and use the local engine CLI
+ to preview and render the HTML scenes. For the published npm application, run openmotion setup --host <agent-name> (for example opencode ); setup installs the app and Skills and returns the exact launcher entry to add. Other local Agents
+ {
+ "mcpServers"
+: {
+ "openmotion"
+: {
+ "command"
+: "
+/absolute/path/to/node "
+,
+ "args"
+: [ "
+--experimental-strip-types "
+, "
+/absolute/openmotion/mcp.ts "
+],
+ "env"
+: { "MOTION_DATA_DIR"
+: "
+/absolute/openmotion-data "
+ }
+ }
+ }
+} 
+ The twenty-two public MCP names (including one asset compatibility alias and four Design Studio HTML tools) cover template discovery and details, Skill discovery and reading, project creation and reading, editing, preview, media import and BYOK generation, reusable asset versions, project management and ZIP sharing, export, version restoration, cancellation, and Design Studio HTML projects, annotations and Open Design round-trip. Shared workflow and engine guides are available through MCP resources. Tool contract
+ Find a template with openmotion_list_templates , inspect it with openmotion_get_template , then create an editable copy with openmotion_create_project . Template catalog
+ Use npm start for the app and npm run mcp for stdio. Shell-capable agents can inspect and render with the pinned engine CLI returned by the runtime; managed edits retain project revision checks. Native authoring
+ From a reference to an editable project
+ Study the reference
+ Rebuild for your story
+ Hook and narrative — what appears first, what follows, what earns the reveal
+ Your promise, product facts and call to action
+ Shot structure — framing, camera movement, layers and visual hierarchy
+ Your UI, footage, logo and supporting images
+ Motion and pacing — entrances, transitions, easing and reading holds
+ The same motion intent, adjusted to your content
+ Typography and identity — type hierarchy, color and composition
+ Your fonts, palette and words, recorded in Motion.md’s Brand Kit section
+ Sound and rhythm — speech timing, music cues and emphasis
+ Your voice, supplied music and sound direction
+ Supply the clip and timecodes if your agent cannot open the social link. Start from the reference with the recreation workflow
+, or use the template workflow
+ when you already have editable source.
+ Use OpenMotion to reverse-engineer the attached reference for our brand.
+Study: the opening hook, shot order, typography, transitions and sound cues.
+Keep: the product reveal and camera rhythm in the selected segment.
+Replace: the logo, UI, claims, copy and end card with our supplied materials.
+Generate: missing images, video, background music and TTS narration using
+our configured models, following our brand and approved script.
+Build an editable project. Open it in Studio and compare matching moments
+with the reference. Explain any remaining differences. After review,
+export an MP4 and retain the source for the next edit.
+ Send the template to your agent
+ Watch the reference video. Expand Visual style or Production notes for details, or choose Download motion.md to save the guide.
+ Choose Show instruction to read the prompt, then Recreate template to copy it. Paste it into your agent with your brand kit and creative brief.
+ Open the project your agent creates in Studio to edit and export.
+ System architecture
+ Editing the timeline in Studio and asking your agent to change a shot both update the same HTML project. The local TypeScript service manages media and revisions. A browser-based rendering engine exports the selected version to MP4.
+ How the modules work together
+ Edits made through the project tools include a revision check so an outdated request cannot overwrite newer work. Generated media enters the project when you select it. Each export uses the version saved when the job starts. The exporter checks the file specifications, and you can play the cut to review the picture, sound and timing.
+ Read the full architecture and roadmap as text 
+ CREATIVE INPUT
+Reference video + brand kit + script + media
+ |
+ v
+COMMUNITY KNOWLEDGE
+Motion.md + BRANDKIT.md + Skills + templates + components
+ |
+ +-------------+------------------+
+ v v
+BYOA: YOUR LOCAL AGENT OPENMOTION STUDIO
+DeepSeek Harness / Codex / React 19 + TypeScript + Vite
+Claude Code / other local hosts Tailwind CSS + Zustand
+Skills + host analysis tools CodeMirror + Dockview
+ | media / preview / timeline
+ | stdio MCP | local HTTP
+ | 9 public project tools |
+ +------------------+-------------+
+ v
+LOCAL APPLICATION Node.js + TypeScript + node:http
+Sessions / project files / assets / revisions / export jobs
+ | |
+ v v
+BYOK: MODEL GATEWAY VIDEO AS CODE
+Your keys / accounts / model routing HTML scenes + media + Studio data
+Discovery / generation jobs HTML + CSS + JavaScript + GSAP
+ | ^
+ v |
+MODEL ADAPTERS |
+Codex Image / Atlas Cloud / fal.ai |
+Images / Video / Music / TTS |
+ | |
+ v |
+Generated candidates -> preview / select -> adopt into the project
+ |
+ v
+RENDER AND VERIFY
+Selected project version -> HTML render engine + Chromium -> FFmpeg / FFprobe
+ |
+ v
+DELIVERY TODAY
+MP4 + editable source + media + version and export evidence
+ |
+ .----------------------'
+ v
+COMING: PUBLISH TO EVERY PLATFORM
+Platform connectors -> release review -> scheduling -> performance feedback
+ |
+ v
+COMING: KNOWLEDGE FEEDBACK
+Version-linked outcomes -> team memory / RAG -> evaluated Skill improvements
+ BYOA connects your existing Agent client; the Assets workspace supports direct model generation and reusable media. BYOK connects your supported model accounts. Studio and the local service manage the editable work, while provider credentials remain outside project files. The public phase-one MCP surface contains eighteen names: nine project tools, two template catalog tools, two Skill library tools, a project archive tool, a project management tool, one BYOK media-use tool and two names for the same workspace asset capability . Configure provider keys in Studio, then use openmotion_media_use for model discovery and media generation through the local Gateway service. Use openmotion_assets_use ( openmotion_assets remains compatible) to upload, inspect or generate reusable assets, retain versions and import a chosen version into a film. Asset library guide
+. Keys remain in the service; the public MCP contract does not include publishing.
+ Stack and source map
+ Layer
+ Technology
+ Start reading
+ Studio and editor UI 
+ React 19, TypeScript 5.9, Vite 6, Tailwind CSS 4, Zustand, CodeMirror and Dockview
+ Studio source
+ · Motion app
+ · Editor development
+ Application runtime 
+ Node.js 26.11.1 in CI, native HTTP, TypeScript execution and local files/JSON
+ server.ts
+ · workspace service
+ · Session architecture
+ Agent integration 
+ Local stdio MCP, five core Skills and generated host adapters
+ MCP HTTP
+ · Tool dispatcher
+ · Adapter generation
+ Multimodal generation 
+ Codex media adapter, Atlas Cloud predictions, fal.ai queue integration and persisted generation jobs
+ Gateway service
+ · Provider adapters
+ · Model catalog
+ Composition and motion 
+ HTML/CSS/JS, GSAP, a pinned composition engine and native timeline/history
+ Engine integration
+ · Template source
+ · Version history
+ Rendering and media 
+ Chromium, Puppeteer Core, FFmpeg and FFprobe
+ Render service
+ · Export verifier
+ · Native runtime lock
+ Creative knowledge 
+ Markdown, source packages, presets and comparison evidence
+ Motion.md
+ · Core Skills
+ · Community Library
+ Release history 
+ Stable version descriptions and published release records
+ Changelog
+ · GitHub Releases
+ Validation and packaging 
+ Node test runner, Vitest, Studio checks, npm lockfiles and explicit distribution lists
+ Tests
+ · Studio tests
+ · CI
+ · Container build
+ Publishing and learning — Coming 
+ Platform adapters, scheduling, version-linked feedback and retrieval; implementation still to be designed
+ Studio vision
+ Dependency pins live in package.json
+, package-lock.json
+ and the runtime lock
+. Models and third-party libraries retain their own terms; the application is Apache-2.0.
+ Choose a layer and build with us
+ If you work on…
+ A useful contribution
+ Entry point
+ Frontend and interaction 
+ Improve timeline editing, media generation controls, accessibility or preview behavior
+ Studio
+ · Media generator
+ AI and model infrastructure 
+ Add a provider adapter or model preset using the shared job and media flow
+ Gateway design
+ · Provider adapters
+ Agents and developer tools 
+ Improve a host adapter, Skill, resource guide or project-tool workflow
+ Agent adapters
+ · MCP contract
+ Motion and creative coding 
+ Share a component, native template or Motion.md package with an actual remix
+ Components
+ · Entry checklist
+ Video and rendering 
+ Improve export reliability, media handling or reproducible validation
+ Engine notes
+ · Export verifier
+ Social publishing 
+ Help design the Coming connector layer: account access, release review, scheduling and version mapping
+ Publishing direction
+ · Discuss a proposal
+ Start with the local setup
+, choose one layer, and follow CONTRIBUTING.md
+ and AGENTS.md
+. Keep user projects and credentials outside the checkout and preserve dependency pins and upstream licenses.
+ Product architecture
+ · Studio development
+ · Model Gateway
+ · Contribution guide
+ Platform versions and publishing
+ Make a separate composition for each aspect ratio, review the cut in Studio and export an MP4 for manual upload.
+ Version to request
+ What to adapt
+ Portrait short — for destinations such as Reels, Shorts, TikTok or Xiaohongshu
+ Hook, large readable type, framing and the placement of captions
+ Landscape film — for a product page, launch or YouTube video
+ UI detail, wider compositions and time to explain
+ Square feed cut — for a social campaign
+ A compact composition, headline and clear closing message
+ Channel connections, scheduled publishing and performance feedback are planned.
+ Studio roadmap and collaboration concept
+ Area
+ Available today
+ Direction
+ Recreate and edit 
+ Agent-led reference reconstruction, template adaptation, editable projects and MP4 export
+ More evaluated recreation cases and repeatable comparisons
+ Brand and knowledge 
+ Motion.md with its Brand Kit section, Skills and source packages
+ Personal/team memory, RAG and evaluated Skill improvements
+ People and agents 
+ Handoffs on the same local project
+ Timeline comments, shared review and collaborative editing
+ Multimodal creation 
+ Built-in image, video, music and TTS integrations; generation, candidate selection and timeline adoption
+ Integrated search across footage, images, voices, music and Avatar services
+ Publish to every platform — Coming 
+ Authored aspect-ratio variants and MP4 handoff
+ Platform connectors, release review, scheduling, automatic reframing and social presets
+ Feedback 
+ Human review and saved project versions
+ Version-linked performance data and recurring production tasks
+ Concept preview of planned collaboration. No release date announced. Studio vision
+ · Knowledge and feedback
+ 🤝 Share the video. Share how you made it.
+ Share a remake, a reusable template or a Motion.md that captures the rhythm of a film. Include the reference and your editable project so another creator can try the same cut with their own footage.
+ Contribution
+ What to include
+ A recreation 
+ Reference and creator, your brief, editable project, preview, comparison and remaining differences
+ A template or component 
+ Working source, editable choices, assets, preview and attribution
+ A Skill or design system 
+ The method, keep/change rules and an example of what you actually ran
+ Brand Kit content for Motion.md 
+ Identity, accurate product facts and approved assets within the creative specification
+ Agent support or editor improvements 
+ A focused change with reproducible validation
+ Library entry checklist
+ · Contribute
+ · Report an issue
+ · Contributors
+ · Media kit
+ This repository was renamed from nexu-io/html-anything to nexu-io/openmotion 
+.
+ OpenMotion website
+ · OpenDesign Go
+ · Discord
+ · Feishu
+ · X @OpenDesignDevs
+ · X @OpenDesignHQ
+ · YouTube
+ Star OpenMotion on GitHub 
+ Acknowledgements
+ The template previews come from the current online catalog. Detail pages identify the reference brand; preview sources and hashes
+ record the assets used here. Agent and model marks
+ OpenMotion is licensed under Apache-2.0
+. Third-party code, templates, media and fonts retain their own licenses and attribution.
+ Source
+ Connection
+ OpenDesign
+ Develops OpenMotion and provides its UI foundations, resource structure, brand direction and Apache-2.0 HTML design templates, design systems, Skills, craft guides and scenario task profiles; design system
+, design library notices
+ and Motion showcase
+ Hyperframes
+ HTML-to-video composition, Studio and rendering foundations, pinned to 0.9.7; creator references, external adaptation demonstrations and component source; engine notes
+, template notices
+ and catalog provenance
+ MotionGit
+ / adunext
+ Kinetic Tech source packaged as Presenter Tech; license and attribution
+ Hypit
+ Inspiration for agent-led viral-video cloning and editable variants; no runtime imported here
+ rea-video
+ Reference analysis and case studies for live-action unboxing
+ and characters, code and screen footage
+; showcase attribution
+, no runtime imported here
+ OpenAI · Codex Originals
+ External brand-film inspiration; official campaign still and outbound viewing link
+ DeepSeek Harness
+ / Super-agent prototype
+ Agent extensibility and continuing-task inspiration; the prototype is separate from OpenMotion's current runtime
+ Claude Motion / CapCut / ChatCut
+ / OpenChatCut
+ Product references for agent-led creation, approachable AI editing and continued revision
+ OpusClip
+ Product reference for distribution and external scheduling
+; no built-in connector
+ GSAP
+ / FFmpeg
+ Animation and media dependencies with versions retained in package.json
+ and the runtime lock
+ Asset sources
+ · Skills page covers
+ · Additional showcase sources
+ · Font notices
+ · Studio license
+ The former HTML Anything application is preserved on the legacy branch
+. See the repository migration guide
+ for the active branch and distribution boundaries.
+ Star History
+ Offline snapshot
+ About
+ The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.
+ open-design.ai/motion/
+ Topics
+ agent-skills
+ ai
+ ai-agents
+ animation
+ claude-code
+ codex
+ deepseek-harness
+ dsh
+ dsh-plugin
+ ffmpeg
+ generative-ai
+ html
+ javascript
+ local-first
+ mcp
+ motion-graphics
+ openmotion
+ typescript
+ video-editing
+ video-generation
+ Resources
+ Readme
+ Apache-2.0 license
+ Contributing
+ Contributing
+ Activity
+ Custom properties
+ Stars
+ 16.1k stars
+ Watchers
+ 49 watching
+ Forks
+ 1.6k 
+ forks
+ Report repository
+ Releases
+ Packages
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

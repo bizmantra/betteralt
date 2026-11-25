@@ -1,0 +1,42 @@
+#SNAPSHOT {"url":"https://foolscap.works/","finalUrl":"https://foolscap.works/","fetchedAt":"2026-11-25T04:42:50.397Z","method":"playwright","region":"us","currency":"EUR","http":200,"sha256":"deb6df10ff6f5b97dd709a9d07b9ad88d2c6ddb919e92d53e4b8931ec3e702e7"}
+Foolscap
+Forum
+Sign in
+Your book, alive as you write it.
+A writing app that reads as you write and picks out your book's structure: its characters, ideas, threads, what's left hanging. It never writes a word for you. It is made to strengthen your writing and thinking, not to do them for you.
+Your writing is encrypted, and never used to train AI.
+Get started
+WHAT FOOLSCAP FINDS
+Three things it noticed in The Hound of the Baskervilles.
+FACTS THAT DON'T AGREE
+Where the heir has been
+Sir Henry is said to have been farming in Canada, but the earlier account has him last heard of in America.
+“he had been farming in Canada”
+The Problem
+LEFT OPEN
+The dog never described
+Holmes deduces a curly-haired spaniel from the tooth marks; when the dog arrives, nothing confirms it.
+“it is a curly-haired spaniel”
+Mr. Sherlock Holmes
+WHAT'S WORKING
+The repetition of running
+The repeated “running” turns the footprints into a scene of terror, and the rhythm builds to the fall.
+“running desperately, running for his life”
+The Problem
+See the whole reading →
+HOW IT WORKS
+Bring in your draft, or write in it. Word, Scrivener, Google Docs (as .docx), Markdown, a whole Obsidian vault.
+Foolscap reads it. Facts that don't agree between chapters, threads you raise and never settle, passages a reader may stumble on, who is who, each pointed at your own words.
+You decide. Take a point up, set it aside, or call it deliberate. Foolscap never writes or rewrites a word of your book.
+YOUR BOOK STAYS YOURS
+Never used to train any AI, by us or by anyone we work with.
+Nobody at Foolscap reads it. It is encrypted where it is kept.
+Make a book private, and nothing of it is sent to any AI.
+Take all of it with you, or delete it, whenever you like.
+Everything that is kept, and why →
+WHAT IT COSTS
+Free to start: bring in a draft and see what Foolscap finds. Writer, for a book you are working on, €12 a month; Author, for more than one, €29 a month.
+Get a free reading of your draft
+Privacy
+Terms
+Contact
