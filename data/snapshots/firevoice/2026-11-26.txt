@@ -1,0 +1,623 @@
+#SNAPSHOT {"url":"https://firevoice.fabwaseem.com","finalUrl":"https://firevoice.fabwaseem.com/","fetchedAt":"2026-11-26T03:37:34.361Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"5ac737084f5b341e1f2c78c9336218055eeae904293182d16cb6f80a53689b0b"}
+FireVoice: natural voices that run on your own computer 
+ Skip to content
+ New
+ Start dictating by saying “Hey FireVoice”
+ FireVoice
+ How it works
+ Features
+ Voice studio
+ Privacy
+ FAQ
+ Sign in
+ Download for Windows
+New · Start with “Hey FireVoice”
+ Stop typing. Start talking. 
+ Speak in any app and FireVoice writes it out, clean and punctuated, right where your cursor is. Free, and it runs on your own computer.
+ Download for Windows
+ See how it works 
+Free
+Windows, Mac & Linux
+Works offline
+ New message
+ To
+ S
+Sam
+ Subject
+ Thursday
+ Hi Sam,
+ Can we move the meeting to Thursday? 
+Filler removed
+Repeat fixed
+Punctuation added
+ Send
+ Team chat
+ Channels
+ # general
+ # design
+ # launch
+ # random
+ # design
+ L
+ Lena
+ 10:24
+ New mockups are up. Thoughts?
+ The new mockups look great. Ship it! 
+Filler removed
+Repeat fixed
+Punctuation added
+ sync.ts — Editor
+ sync.ts
+ api.ts
+ 1
+ import
+ { fetchJson, wait } from
+ "./api"
+;
+ 2
+ 3
+ // Retry the request three times before showing an error. 
+ 4
+ export async function
+ sync
+ (url: string) {
+ 5
+ for
+ ( let
+ i = 0
+; i < 3
+; i++) {
+ 6
+ try
+ { return await
+ fetchJson
+(url); }
+ 7
+ catch
+ { await
+ wait
+( 500
+ * i); }
+ 8
+ }
+ 9
+ showError
+( "Could not sync"
+);
+Filler removed
+Repeat fixed
+Capital added
+ Notes
+ Weekend plans
+ Reading list
+ Gift ideas
+ Recipes
+ Weekend plans
+ Edited just now
+ Check the weather
+Ask Mia about Sunday lunch
+ Book the train for Friday morning and pack the charger. 
+Filler removed
+Repeat fixed
+Full stop added
+ um 
+ so 
+ can 
+ we 
+ move 
+ the 
+ the 
+ meeting 
+ to 
+ uh 
+ Thursday 
+ Works in every app you type in
+ Slack
+ Gmail
+ Outlook
+ Word
+ Google Docs
+ Notion
+ VS Code
+ Cursor
+ ChatGPT
+ Claude
+ Discord
+ WhatsApp
+ Teams
+ Obsidian
+ Excel
+ Figma
+ Terminal
+ Slack
+ Gmail
+ Outlook
+ Word
+ Google Docs
+ Notion
+ VS Code
+ Cursor
+ ChatGPT
+ Claude
+ Discord
+ WhatsApp
+ Teams
+ Obsidian
+ Excel
+ Figma
+ >_
+Terminal
+ Slack
+ Gmail
+ Outlook
+ Word
+ Google Docs
+ Notion
+ VS Code
+ Cursor
+ ChatGPT
+ Claude
+ Discord
+ WhatsApp
+ Teams
+ Obsidian
+ Excel
+ Figma
+ >_
+Terminal
+ Slack
+ Gmail
+ Outlook
+ Word
+ Google Docs
+ Notion
+ VS Code
+ Cursor
+ ChatGPT
+ Claude
+ Discord
+ WhatsApp
+ Teams
+ Obsidian
+ Excel
+ Figma
+ >_
+Terminal
+ Why speak
+ Write at the speed you think. 
+ You already know what you want to say. FireVoice keeps up with you, tidies it as you go, and puts it wherever you are writing.
+ Nearly 4× faster than typing
+ Most people type about 40 words a minute and speak about 150 . Here is one minute of each.
+ 3.75×
+ more words in the same minute, without touching the keyboard
+ 0: 60
+ / 1:00
+ Words written
+Keyboard · 40 wpm
+ 40
+ words
+ Thanks for sending the draft over so quickly. I read it on the train this morning and I think the structure works well. The opening could be shorter, and the second section needs one clear example, maybe the story from 
+Voice · 150 wpm
+ 150
+ words
+ Thanks for sending the draft over so quickly. I read it on the train this morning and I think the structure works well. The opening could be shorter, and the second section needs one clear example, maybe the story from the workshop. Could we also move the budget table to the end? Let me know when the next version is ready and I will look at it straight away. If it helps, I can call you this afternoon to go through the changes together. Thanks for sending the draft over so quickly. I read it on the train this morning and I think the structure works well. The opening could be shorter, and the second section needs one clear example, maybe the story from the workshop. Could we also move the budget table to the end? Let me know when the next version is ready and I will look at 
+ Your time back
+ Move the slider to how much you write in a day.
+ Words you write a day 2,000 
+ Time saved
+ ≈  13
+ hours saved a month
+ That is about 20 working days a year.
+ words a day × 22 workdays × (1/ 40 − 1/ 150 ) minutes a word
+ This computer
+ 0 bytes
+ of your voice uploaded
+ Speech turns into text on your own computer. It works offline, too.
+ Slack
+ Gmail
+ Word
+ Notion
+ VS Code
+ Docs
+ Teams
+ Discord
+ Excel
+ Every app
+ If it has a text box, FireVoice can write in it. Email, chat, documents, code.
+ How it works
+ Three steps. No typing. 
+ Press a shortcut or say the words, talk, and finished writing appears in the app you are in. Here is one dictation, step by step.
+ 01
+ Speak
+ 02
+ FireVoice tidies
+ 03
+ It’s in
+ Hold Ctrl + Win or say “Hey FireVoice”, then talk the way you would to a friend. Ums are fine.
+ Start dictating
+Ctrl
+ +
+Win
+ or say
+ “Hey FireVoice”
+ What it hears
+Listening
+ um  
+ so  
+ the  
+ the  
+ review  
+ moves  
+ to  
+ next  
+ week  
+ uh  
+ can  
+ you  
+ tell  
+ Priya  
+ Your words
+ um
+ so
+ the
+ the 
+ review 
+ moves 
+ to 
+ next 
+ week 
+ uh
+ can 
+ you 
+ tell 
+ Priya 
+ T
+he review moves to next week 
+ .
+ C
+an you tell Priya 
+ ?
+ Said: 14 words
+ →
+ Written: 10 words
+ On this computer
+ Fixes
+ 4 of 4
+ Filler removed
+ um, so, uh
+ Repeat fixed
+ the the → the
+ Punctuation added
+ full stop, question mark
+ Capitals added
+ The, Can
+ Team chat · #design
+ Inserted
+ Lena: When is the review?
+ The review moves to next week. Can you tell Priya? 
+ Message #design 
+ Mail · Re: Review
+ Inserted
+ Hi team,
+ The review moves to next week. Can you tell Priya? 
+ Send
+ Docs · Plan
+ Inserted
+ Next steps
+ The review moves to next week. Can you tell Priya? 
+ 01
+Speak
+ Hold Ctrl + Win or say “Hey FireVoice”, then talk the way you would to a friend. Ums are fine.
+ 02
+FireVoice tidies
+ Filler words and repeats drop out; punctuation and capitals go in. All on your computer.
+ 03
+It’s in
+ The finished text lands where your cursor is, in any app, and the pill turns into a green tick.
+ Features
+ Built for the way you talk. 
+ Everything dictation should have done all along, in one small pill.
+ “Hey FireVoice”
+ tell Sam I’m on my way
+ S
+ Sam Carter
+ Slack
+ Are you still coming?
+ I’m on my way, Sam.
+ Say “Hey FireVoice”
+ Works with accents
+ Teach it your voice 
+ 0 /5
+ Just say “Hey FireVoice”
+ No keys to press. Say it, then say what you want written, in any app. It wakes for your accent too.
+ Your words 3
+ Search words
+ Nguyen New
+ also heard as Win
+ New yen
+ Siobhan
+ also heard as Shivon
+ Shavon
+ Kubernetes
+ spelled and said your way
+ FireVoice
+ also heard as Fireboys
+ Siobhan moved the Kubernetes demo
+ Hear it
+ It learns your words
+ Names and terms are spelled your way when you dictate, and said right by the voices.
+ “my address”
+ Typed for you
+ Alex Morgan
+ 18 Willow Lane
+ Bristol BS1 5TR
+ United Kingdom
+ my email
+ sign-off
+ meeting link
+ Snippets
+ Say a short cue and get the long text: your address, your sign-off, a link.
+ Email
+ Chat
+ Notes
+ You said: “uh tell Priya the deck is late, it’s ready Friday, sorry”
+ In Gmail
+ Hi Priya,
+The deck is running late. It will be ready on Friday.
+Best, Alex
+ In Slack
+ Hey Priya, the deck’s running late. It’ll be ready Friday, sorry!
+ In Notes
+ • Deck for Priya: running late
+• Ready by Friday
+ Writes for where it goes
+ The same words, tidied to suit an email, a chat or your notes.
+ English
+ Español
+ Deutsch
+ Français
+ हिन्दी
+ اردو
+ Can we move the meeting to Thursday?
+ ¿Podemos mover la reunión al jueves?
+ Können wir das Meeting auf Donnerstag verschieben?
+ Peut-on déplacer la réunion à jeudi ?
+ क्या हम मीटिंग गुरुवार को कर सकते हैं?
+ کیا ہم میٹنگ جمعرات کو کر سکتے ہیں؟
+ Detects the language you speak
+ English
+ Español
+ Deutsch
+ Français
+ हिन्दी
+ اردو
+ Any language
+ Speak the language you think in. FireVoice notices and writes it.
+Dictation
+ Open 
+ Words this week
+ 0
+ 212 dictations
+ Time saved
+ 0h 0m
+ against typing
+ Words a minute
+ 0
+ 3.7× typing
+ Streak
+ 0 days
+ in a row
+ Words per day
+ Mon
+ Tue
+ Wed
+ Thu
+ Fri
+ Sat
+ Sun
+ Where it went
+ Slack
+ 1,904
+ Gmail
+ 1,377
+ VS Code
+ 862
+ Notion
+ 669
+ Your day, in numbers
+ Words dictated, time saved against typing, how fast you speak and your streak, on Home.
+ Search your dictations
+ Today
+ S
+ Running five minutes late, start without me.
+ 9:41
+ G
+ Hi Priya, the deck will be ready by Friday.
+ 9:12
+ C
+ Retry the upload when the network is back.
+ 8:57
+ Yesterday
+ N
+ Deck outline: the problem, a demo, next steps.
+ 17:20
+ S
+ Lunch at one? The new place on Mill Street.
+ 12:04
+ History you can search
+ Everything you dictated, by day. Find that sentence from Tuesday in a second.
+ Privacy
+ Your voice never leaves your computer.
+ FireVoice listens, writes and speaks on your own computer. What you say and what it writes never pass through a server, so there is nothing to upload and nothing to wait for.
+ Cloud
+ servers, someone else’s computer
+ Nothing goes here
+ Your computer
+Works offline
+ Microphone
+ you speak
+ Speech engine
+ hears the words
+ Clean-up
+ drops the ums, adds punctuation
+ Your app
+ text where the cursor is
+ “um so the deck is uh late”
+ The deck is late.
+ Runs on your computer
+ Speech, clean-up and voices all happen locally, on your own machine.
+ Works offline
+ Pull the cable and keep dictating. Nothing waits on a server.
+ No audio, text or files uploaded
+ What you say, what it writes and the files you open stay with you.
+ You choose what’s shared
+ Anonymous usage statistics are optional: FireVoice asks once, and you can turn them off in Settings. Never your words.
+ Read the privacy policy 
+ Voice studio
+ Plus a whole voice studio. 
+ Natural speech in a library of voices, your own voice cloned from a short sample, voices designed from a few words, dialogue, dubbing and captions. All of it on your computer.
+ Voice studio
+ Text to speech
+ Voice cloning
+ Voice design
+ Dialogue
+ Dubbing
+ Voice changer
+ Sound effects
+ Transcription & captions
+ On your computer
+ Every tool runs locally. A recent NVIDIA graphics card makes it fastest; it also runs on the processor.
+ FireVoice
+ /
+ Text to speech
+ Text to speech
+ Type or paste anything and hear it read in a natural voice, from a library of voices.
+ Here, in the quiet of your own computer, a brand new voice takes its very first breath. 
+ 87 characters
+ English
+ Atticus 
+ Inferno Studio
+ Speed 1.0×
+ Generate
+ 0: 06
+ WAV · 48 kHz
+ Hear the voices
+ Real clips, made by FireVoice on a home computer.
+ Titan
+ Movie trailer
+ trailer
+ “ In a world where every voice lives in someone else&#x27;s cloud... one app keeps yours exactly where it belongs. ”
+ 0: 07
+ Atticus
+ Documentary
+ documentary
+ “ Here, in the quiet of your own computer, a brand new voice takes its very first breath. ”
+ 0: 06
+ Rosemary
+ Bedtime story
+ bedtime
+ “ Once upon a time, a little computer learned to tell stories. And it never told a soul. ”
+ 0: 05
+ Viktor
+ Villain
+ dramatic
+ “ You want my voice? Then you&#x27;ll have to come and take it... from my hard drive. ”
+ 0: 04
+ Roxy
+ Radio DJ
+ excited
+ “ Good morning! It&#x27;s seven a.m., you&#x27;re tuned in to FireVoice, and nothing you say ever leaves this room! ”
+ 0: 06
+ Wren
+ Whisper
+ asmr
+ “ Shh... nobody is listening. Not even the cloud. ”
+ 0: 05
+ Monty
+ Deadpan
+ deadpan
+ “ Oh great. Another app that works offline, costs nothing per word, and sounds human. I&#x27;m thrilled. ”
+ 0: 06
+ Dex
+ Sports commentator
+ sports
+ “ And she writes the whole email without touching the keyboard! Unbelievable! What a dictation! ”
+ 0: 04
+ FAQ
+ Questions, answered. 
+ The short answers about how FireVoice works, what it needs and what stays on your computer.
+ Still curious?
+ Send us a message
+ Download for Windows
+ Does it work in every app? 
+ Almost everywhere you can type. FireVoice puts the finished text where your cursor is, so it works in email, chat, documents, browsers and code editors: Slack, Gmail, Word, Notion, VS Code and the rest. The one exception is a window running as administrator, which Windows keeps apart from other programs.
+ How is it different from the dictation built into Windows? 
+ Built-in dictation writes down what you said, word for word. FireVoice writes what you meant: it drops the ums and uhs, repeated words and false starts, adds punctuation and capitals, and tidies the text to suit where it goes, so an email reads like an email and a chat like a chat. You can also start it by saying "Hey FireVoice", teach it names and terms in the Dictionary, and keep snippets for text you use often.
+ Does it work with my accent or language? 
+ Yes. FireVoice detects the language you speak and works in many languages, with all kinds of accents. Add the names and terms you use to the Dictionary and it spells them right. "Teach it your voice" helps "Hey FireVoice" learn how you say it.
+ Does anything I say leave my computer? 
+ No. Speech recognition, the writing clean-up and the voices all run on your own computer, so what you say and write is never uploaded. If you agree when FireVoice asks, it shares usage statistics: which features you use, details about the app and your computer, and your approximate location. Never what you say or write. You can turn that off at any time in Settings, Privacy.
+ Is it free? 
+ Yes. FireVoice is free for everyone right now. There is no card to enter and nothing to unlock.
+ Do I need an account? 
+ No. An account is optional, and everything on your computer works without one.
+ What computer do I need? 
+ A Windows PC, a Mac with Apple Silicon (M1 or newer, macOS 11 or later), or a Linux computer. Dictation runs on the processor, and faster with a graphics card. For the voice studio, a recent NVIDIA graphics card makes it fastest; without one it still runs on the processor, just slower.
+ Does it work offline? 
+ Yes. Because everything runs on your computer, once FireVoice has downloaded what it needs, you can dictate and make voices without an internet connection.
+ Can it start with my computer? 
+ Yes. FireVoice starts when you sign in to your computer (Windows, Mac or Linux) and waits quietly in the tray or menu bar, ready for the shortcut or "Hey FireVoice". You can turn that off in Settings.
+ How do I start dictating? 
+ Press the shortcut or say "Hey FireVoice", then speak in any program. The pill glows with your voice and turns into a green tick when the words go in. Choose whether the text is typed as you speak or all at once when you stop. Your first dictation comes with a short guided tour.
+ Is there a Mac version? 
+ Yes, for Macs with Apple Silicon (M1 or newer) on macOS 11 or later. The first time, open it with right-click > Open, because it is not yet signed by Apple. When you first dictate, allow the microphone, and allow FireVoice under Privacy & Security > Accessibility so it can type into other apps.
+ What else can it do? 
+ FireVoice is also a voice studio: natural text to speech in a library of voices, your own voice cloned from a short sample, new voices designed from a description, dialogue between several speakers, dubbing into other languages, a voice changer, sound effects, and transcription with captions you can save as SRT.
+ Your next email is one sentence away. 
+ FireVoice is free. Install it, press the shortcut, and talk.
+ Download for Windows
+ Windows, macOS and Linux · Free
+ To: Sam
+ Re: Launch draft
+ Thanks Sam, the draft looks great. Let&#x27;s send it to the team on Friday.
+ One app, two things
+ Dictation
+ Speak in any program; clean, finished text goes in.
+ See how 
+ Voice studio
+ Natural voices, cloning, dubbing and transcription.
+ Hear them 
+ Get FireVoice
+ Windows installer
+ Windows MSI
+ macOS (Apple Silicon)
+ Linux AppImage
+ Linux .deb
+ Linux .rpm
+ Every release
+ Product
+ How it works
+ Features
+ Voice studio
+ FAQ
+ Account
+ Sign in
+ Create an account
+ Your account
+ FireVoice
+ Privacy
+ Send feedback
+ Get notified
+ Hear about new features and releases, by email.
+ Pro features
+ News
+ Email Notify me
+ FireVoice
+ © FireVoice. Made to run on your own computer.
+ Privacy
+ Feedback
+ Releases
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Does it work in every app?","acceptedAnswer":{"@type":"Answer","text":"Almost everywhere you can type. FireVoice puts the finished text where your cursor is, so it works in email, chat, documents, browsers and code editors: Slack, Gmail, Word, Notion, VS Code and the rest. The one exception is a window running as administrator, which Windows keeps apart from other programs."}},{"@type":"Question","name":"How is it different from the dictation built into Windows?","acceptedAnswer":{"@type":"Answer","text":"Built-in dictation writes down what you said, word for word. FireVoice writes what you meant: it drops the ums and uhs, repeated words and false starts, adds punctuation and capitals, and tidies the text to suit where it goes, so an email reads like an email and a chat like a chat. You can also start it by saying \"Hey FireVoice\", teach it names and terms in the Dictionary, and keep snippets for text you use often."}},{"@type":"Question","name":"Does it work with my accent or language?","acceptedAnswer":{"@type":"Answer","text":"Yes. FireVoice detects the language you speak and works in many languages, with all kinds of accents. Add the names and terms you use to the Dictionary and it spells them right. \"Teach it your voice\" helps \"Hey FireVoice\" learn how you say it."}},{"@type":"Question","name":"Does anything I say leave my computer?","acceptedAnswer":{"@type":"Answer","text":"No. Speech recognition, the writing clean-up and the voices all run on your own computer, so what you say and write is never uploaded. If you agree when FireVoice asks, it shares usage statistics: which features you use, details about the app and your computer, and your approximate location. Never what you say or write. You can turn that off at any time in Settings, Privacy."}},{"@type":"Question","name":"Is it free?","acceptedAnswer":{"@type":"Answer","text":"Yes. FireVoice is free for everyone right now. There is no card to enter and nothing to unlock."}},{"@type":"Question","name":"Do I need an account?","acceptedAnswer":{"@type":"Answer","text":"No. An account is optional, and everything on your computer works without one."}},{"@type":"Question","name":"What computer do I need?","acceptedAnswer":{"@type":"Answer","text":"A Windows PC, a Mac with Apple Silicon (M1 or newer, macOS 11 or later), or a Linux computer. Dictation runs on the processor, and faster with a graphics card. For the voice studio, a recent NVIDIA graphics card makes it fastest; without one it still runs on the processor, just slower."}},{"@type":"Question","name":"Does it work offline?","acceptedAnswer":{"@type":"Answer","text":"Yes. Because everything runs on your computer, once FireVoice has downloaded what it needs, you can dictate and make voices without an internet connection."}},{"@type":"Question","name":"Can it start with my computer?","acceptedAnswer":{"@type":"Answer","text":"Yes. FireVoice starts when you sign in to your computer (Windows, Mac or Linux) and waits quietly in the tray or menu bar, ready for the shortcut or \"Hey FireVoice\". You can turn that off in Settings."}},{"@type":"Question","name":"How do I start dictating?","acceptedAnswer":{"@type":"Answer","text":"Press the shortcut or say \"Hey FireVoice\", then speak in any program. The pill glows with your voice and turns into a green tick when the words go in. Choose whether the text is typed as you speak or all at once when you stop. Your first dictation comes with a short guided tour."}},{"@type":"Question","name":"Is there a Mac version?","acceptedAnswer":{"@type":"Answer","text":"Yes, for Macs with Apple Silicon (M1 or newer) on macOS 11 or later. The first time, open it with right-click > Open, because it is not yet signed by Apple. When you first dictate, allow the microphone, and allow FireVoice under Privacy & Security > Accessibility so it can type into other apps."}},{"@type":"Question","name":"What else can it do?","acceptedAnswer":{"@type":"Answer","text":"FireVoice is also a voice studio: natural text to speech in a library of voices, your own voice cloned from a short sample, new voices designed from a description, dialogue between several speakers, dubbing into other languages, a voice changer, sound effects, and transcription with captions you can save as SRT."}}]}
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"FireVoice","applicationCategory":"MultimediaApplication","operatingSystem":"Windows, macOS, Linux","description":"Expressive text to speech, voice cloning, dictation in any program, dialogue, dubbing and transcription. FireVoice runs on your own computer, so nothing you write or say is uploaded.","downloadUrl":"https://github.com/fabwaseem/firevoice/releases/latest"}

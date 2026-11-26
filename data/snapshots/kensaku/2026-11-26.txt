@@ -1,0 +1,445 @@
+#SNAPSHOT {"url":"https://github.com/yjid/kensaku","finalUrl":"https://github.com/yjid/kensaku","fetchedAt":"2026-11-26T03:37:23.375Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"ed1d88ee3c28b3753b8afa9e5d3290594ef558978d00547f52b3faf92dfb1f30"}
+GitHub - yjid/kensaku: Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access. · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects, and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ yjid
+ kensaku
+ Repository navigation
+ Code
+ Issues
+ 7
+  ( 7 )
+ Pull requests
+ 2
+  ( 2 )
+ Discussions
+ Actions
+ Projects
+ Security and quality
+ 5
+  ( 5 )
+ Insights
+ More items
+ kensaku
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 125
+  ( 125
+)
+ Star 1.9k
+  ( 1.9k
+)
+ You must be signed in to star a repository
+ About
+ Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.
+ Topics
+ ai-agents
+ desktop
+ desktop-search
+ file-search
+ full-text-search
+ launcher
+ local-first
+ mcp
+ ocr
+ open-source
+ privacy
+ rust
+ search
+ semantic-search
+ tauri
+ windows
+ Resources
+ Readme
+ MIT license
+ Code of conduct
+ Code of conduct
+ Contributing
+ Contributing
+ Security policy
+ Security policy
+ Activity
+ Stars
+ 1.9k stars
+ Watchers
+ 6 watching
+ Forks
+ 125 
+ forks
+ Report repository
+ master
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 653 Commits
+ 653 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .github
+ .github
+ .vscode
+ .vscode
+ assets
+ assets
+ cli
+ cli
+ docs
+ docs
+ marketing
+ marketing
+ public
+ public
+ src-tauri
+ src-tauri
+ src
+ src
+ tools
+ tools
+ .gitattributes
+ .gitattributes
+ .gitignore
+ .gitignore
+ CHANGELOG.md
+ CHANGELOG.md
+ CODE_OF_CONDUCT.md
+ CODE_OF_CONDUCT.md
+ LICENSE
+ LICENSE
+ Makefile
+ Makefile
+ README.md
+ README.md
+ SECURITY.md
+ SECURITY.md
+ bun.lock
+ bun.lock
+ index.html
+ index.html
+ install.ps1
+ install.ps1
+ install.sh
+ install.sh
+ package.json
+ package.json
+ reset.ps1
+ reset.ps1
+ tsconfig.json
+ tsconfig.json
+ tsconfig.node.json
+ tsconfig.node.json
+ vite.config.ts
+ vite.config.ts
+ View all files
+ Repository files navigation
+ README
+ Code of conduct
+ Contributing
+ MIT license
+ Security
+ More items
+ Kensaku 検索
+ Find anything on your computer, the way you remember it. 
+ You don't remember the filename. You remember what was inside.
+ The PDF about database indexing, saved as notes-final-2.pdf .
+ The log line from the failed deploy, somewhere in a folder of logs.
+ The screenshot with a CUDA error, which has no useful name at all.
+ Type what you remember. Kensaku searches names, text inside files, and meaning, then highlights the match. Press Enter to open it.
+ Kensaku runs on Windows, macOS, and Linux. It's free, open source (MIT), and nothing leaves your machine.
+ Try this
+ invoice ext:pdf modified:30d 
+ screenshots from last week 
+ the PDF about indexing 
+ timeout content:"connection reset" 
+ Why it's different
+ Most file search tools only look at names. Kensaku also reads inside your files, locally and instantly.
+ Kensaku
+ Everything
+ Listary
+ PowerToys Run
+ Filename search
+ ✅
+ ✅
+ ✅
+ ✅
+ Text inside PDF, Word, EPUB and more
+ ✅
+ ❌
+ ❌
+ ❌
+ Text inside screenshots (OCR)
+ ✅
+ ❌
+ ❌
+ ❌
+ Chinese, Japanese, Korean text
+ ✅
+ ❌
+ ❌
+ ❌
+ Search by meaning
+ ✅
+ ❌
+ ❌
+ ❌
+ Your AI agents can search it (MCP)
+ ✅
+ ❌
+ ❌
+ ❌
+ Features
+ Fast. About 100,000 files in a few milliseconds. Results update as you type.
+ Reads everything. PDFs, Office files, email, ebooks, 50+ code and data formats, and text in images.
+ Understands you. Typos are fine. Say "big videos from last month" or "last Tuesday" and it gets it.
+ A launcher that gets out of the way. Keep it in the tray, summon it with a keystroke, and open with Enter. Prefer a normal window? Switch to desktop app mode in Settings.
+ Preview before you open. Press Space to look at PDFs, images, and text.
+ Your AI agents get eyes. Claude, Cursor, and other MCP clients can search your index. Read-only, local, no cloud.
+ Private. No account, no telemetry, no cloud search. Your index stays on your computer.
+ Looks good. Light and dark themes, in English, Simplified Chinese, and Russian.
+ Power user? Use the query language
+ type:pdf invoice ext:md in:"~/Notes" modified:7d
+size:>10mb path:"client/2026" lang:rust
+name:resume content:"timeout" -draft
+ Full reference: docs/USAGE.md
+.
+ Install
+ Linux or macOS 
+ curl -fsSL https://github.com/yjid/kensaku/releases/latest/download/install.sh |
+ sh 
+ Windows 
+ powershell -
+ExecutionPolicy ByPass -
+c "
+irm https://github.com/yjid/kensaku/releases/latest/download/install.ps1 | iex "
+ Both install per user, so no admin prompt. Want to read the script first? Download it, check it, then run it with --dry-run . Manual downloads, system-wide installs, and uninstall steps are in docs/INSTALL.md
+.
+ First run: pick the folders to index, choose your exclusions, and pick launcher or desktop mode. Search works while the first scan runs.
+ macOS note: builds aren't notarized yet, so the first launch may need System Settings → Privacy & Security → Open Anyway .
+ Build from source
+ git clone https://github.com/yjid/kensaku
+ cd
+ kensaku
+bun install
+bun run tauri build 
+ You'll need Rust (stable), Bun 1.1 or later, and your platform's webview libraries. Details are in docs/INSTALL.md
+.
+ Command line and AI agents
+ kensaku-cli ships with every release.
+ kensaku-cli search "
+docker error "
+kensaku-cli search "
+invoice "
+ --ext pdf --since 30d
+kensaku-cli search "
+resume "
+ --json 
+ To connect an MCP client, add this to its config:
+ {
+ "mcpServers"
+: {
+ "kensaku"
+: { "command"
+: "
+kensaku-cli "
+, "args"
+: [ "
+mcp "
+] }
+ }
+} 
+ Agents get read-only access and can't change your files. Guide: docs/AGENTS.md
+.
+ Speed
+ On a 100,000-file index on Windows 11, a name search averages 18 ms, and about 3 ms with a tuned thread count. The in-memory file list for 100,000 files takes about 12 MB. Full method, hardware, and caveats are in docs/BENCHMARKS.md
+.
+ Privacy
+ Search queries and file contents never leave your machine.
+ The only outbound requests are update checks and optional OCR or model downloads.
+ Hidden files, common build folders, and key files like .pem and .key are skipped by default.
+ The index contains file names and extracted text, so don't sync it to a shared folder.
+ Full details: docs/PRIVACY.md
+ and SECURITY.md
+.
+ Good to know
+ Windows builds are code-signed. macOS builds aren't signed or notarized yet.
+ Thumbnails are shown for images only. Documents and code show file-type icons.
+ Windows gets the most real-world testing so far. macOS and Linux feedback is especially welcome.
+ Stuck on something? docs/TROUBLESHOOTING.md
+ and docs/FAQ.md
+ cover the common ones.
+ What's next
+ A glass theme and more customization. Vote
+ Launch apps too. Type "term", open Terminal. Vote
+ Optional internet search, off by default and kept separate from local results. Vote
+ macOS signing and notarization. Vote
+ Find similar images and related files. Vote
+ Ideas with real use cases get built first. Share yours in Discussions
+.
+ Contributing
+ Kensaku is young and built by people who wanted a better launcher. Ways to help:
+ Break it. Bug reports with steps to reproduce are the most useful thing you can send.
+ Add a format. docs/EXTRACTORS.md
+ shows how.
+ Improve search. Ranking, typo handling, and translations.
+ For developers, the quick loop is bun install , make dev , and make test . The full guide is in docs/CONTRIBUTING.md
+. Found a security issue? Report it privately through SECURITY.md
+.
+ If Kensaku saves you time, a star helps other people find it.
+ If Kensaku saves you time, a star helps other people find it.
+ ⭐ Star Kensaku on GitHub
+ Star history
+ About
+ Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.
+ Topics
+ ai-agents
+ desktop
+ desktop-search
+ file-search
+ full-text-search
+ launcher
+ local-first
+ mcp
+ ocr
+ open-source
+ privacy
+ rust
+ search
+ semantic-search
+ tauri
+ windows
+ Resources
+ Readme
+ MIT license
+ Code of conduct
+ Code of conduct
+ Contributing
+ Contributing
+ Security policy
+ Security policy
+ Activity
+ Stars
+ 1.9k stars
+ Watchers
+ 6 watching
+ Forks
+ 125 
+ forks
+ Report repository
+ Releases
+ Packages
+ Used by
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

@@ -1,0 +1,345 @@
+#SNAPSHOT {"url":"https://instatic.com","finalUrl":"https://instatic.com/","fetchedAt":"2026-11-26T03:37:13.039Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"805ea5629535b64c4df0ef237b63c867c7f069de6d22be0bc1e670760d9e0e0d"}
+Instatic: Agentic CMS your run yourself 
+ Skip to content
+ instatic
+ Product
+ Pro
+ Templates
+ Docs
+ Changelog
+ 9.1k
+ Match the system theme
+ Light theme
+ Dark theme
+ Get Pro
+ Menu
+ The agentic CMS
+ you run yourself
+ Start on the canvas or give your agent a brief. You can edit what it builds, from the layout of a page to the way it uses your data.
+ Get Instatic Pro
+ €17
+ $19
+ a month
+ Deploy free on Railway
+ Explore a page on the canvas
+ Layers
+ section
+ .hero
+ div
+ .hero-copy
+ h3
+ .title
+ p
+ .lead
+ div
+ .actions
+ a
+ .button
+ a
+ .link
+ figure
+ .photo
+ img
+ Markup
+ <section class="hero">
+ <div class="hero-copy">
+ <h3 class="title">Bread worth getting up for.</h3>
+ <p class="lead">
+ Baked through the night, on the counter from seven.
+ </p>
+ <div class="actions">
+ <a class="button" href="/menu">See the menu</a>
+ <a class="link" href="/visit">Find us</a>
+ </div>
+ </div>
+ <figure class="photo">
+ <img
+ src="shared/img/example/loaf.webp"
+ alt="A round sourdough loaf on a wooden board"
+ width="1200"
+ height="900"
+ loading="lazy"
+ decoding="async">
+ </figure>
+ </section> 
+ Page
+ Bread worth getting up for.
+ Baked through the night, on the counter from seven.
+ See the menu
+ Find us
+ The layer tree, markup and preview show the same section of a page.
+ Select a layer to highlight its HTML and the part of the page it controls.
+ What you can build with Instatic
+ Design
+ Build
+ Collaborate
+ Manage
+ Members
+ Mailing
+ Publish
+ Extend
+ Design the layout
+ Edit desktop and phone layouts side by side. A change on one canvas shows up on the others, so you can see where a layout needs an adjustment.
+ Set a shared design system
+ Use Core Framework to define colours, type and spacing once, then use those settings across your site. coreframework.com
+ Build a colour palette
+ Choose a base colour and Instatic generates its tints and shades.
+ Build the page
+ Reuse components across pages
+ Make a section a reusable component. Give each instance its own content, then update the shared layout in one place.
+ Repeat a layout with a loop
+ Design one item and repeat it for each entry in a collection. A loop can also use pages, media or data from a plugin.
+ Collect form submissions
+ Add fields to a form. Instatic creates a table for the responses and stores them in your database.
+ Bring an existing site into the editor
+ Super Import turns a static site into editable pages, classes, design tokens and media. Review conflicts before you import. You can undo the whole import in one step.
+ MCP server and CLI
+ Connect Claude Code, Cursor or Codex over MCP to edit a page with you in the visual editor.
+ /_instatic/mcp Use the CLI to call the CMS API directly, including operations outside the MCP tool set. Give your agent permission to edit a page, check its mobile layout or test a link from the command line.
+ instatic api lookup "pages" 
+ Work together
+ Edit the same page together
+ Two people can edit the same paragraph at once. Each person can undo their own changes.
+ Give your agent a site branch
+ Let your agent try a change on a branch while you keep working. Open its draft in the editor to make adjustments, or share a preview link with someone who needs to see it.
+ Follow a teammate’s cursor
+ See which block someone has selected and follow their edits on the canvas.
+ Review changes before publishing
+ Compare the draft and the current page side by side. Leave a comment on a change or merge the branch when you’re ready to publish.
+ Organise your content
+ Define your own collections
+ Choose the fields each entry needs. Use the Data workspace to filter and sort records, then publish them individually or in batches.
+ Manage your media
+ Organise files in folders and see which pages use them. Replace a file in place to update it wherever it appears.
+ Control editor access
+ Choose what each role can do. Two-factor sign-in protects accounts, and sensitive actions prompt you to confirm your identity.
+ Schedule publication
+ Keep an entry in draft while you work. Publish it when it’s ready or set a date for it to go live.
+ Manage member access
+ Find a member
+ Look up a member’s account to see when they joined and which content they can access.
+ Protect content with tags
+ Choose which tags unlock a page. Here, the Reader tag opens a private library. Set an expiry date when access should end.
+ Choose who can join
+ Open registration to everyone or send individual invitations. Invited members can set their password on your site.
+ Use one account across apps
+ Let members sign in with a password or an emailed link. Connect another app through OAuth so they can use the same account there.
+ Send account emails
+ Write the emails your site sends
+ Preview an invitation or password reset before it goes out. Instatic sends it through your email provider and records delivery in the activity log.
+ Publish your changes
+ Instatic serves public pages with fixed content as HTML files. When a page depends on who’s visiting, it can load their content on request.
+ Static files
+ Cached pages
+ Dynamic sections
+ Size images for each screen
+ Instatic creates WebP versions of uploaded images. It uses srcset and sizes to help the browser choose a size that fits the layout.
+ Deploy to your own server
+ Railway
+ offers a one-click deployment. You can also run Instatic on your own host with Docker.
+ Extend the CMS
+ Connect another service
+ Bring data from a service you already use into the CMS. A plugin can make that data available to your pages or add a place to manage it in the editor.
+ Write your own plugin
+ Use the SDK to add a canvas module, build an admin page or run a job on a schedule.
+ Routes
+ Admin pages
+ Storage
+ Scheduled jobs
+ Canvas modules
+ Loop sources
+ Media adapters
+ Choose what a plugin can access
+ Review permissions before installation. You decide which hosts a plugin can contact and whether its code can run in the admin window.
+ What you get with Instatic Pro
+ Pro adds a desktop app, a library of reusable sections and direct support from the people who build Instatic.
+ Instatic Desktop
+ Run a site on your Mac or Windows PC and preview it in the built-in browser. When you’re ready, choose which changes to send to your live site.
+ Choose and switch CMS versions per site
+ Save database snapshots and restore an earlier version
+ Export a site with its uploads and settings
+ Review and sync selected pages, styles and records
+ Get Instatic Pro
+ €17
+ $19
+ a month
+ Build with the Instatic Library
+ Start with an element, a section or a whole page. Drag sections onto your canvas, then apply a kit to change colours, type and spacing across your site.
+ 1,500 sections
+ 357 pages
+ 18 section types
+ Salinas sea salt
+ Kestrel SaaS
+ Brume bathhouse
+ Wide Margin illustration agency
+ Undertone conference
+ Tuck café
+ Setomi omakase
+ Vela House field lodge
+ Quist portfolio
+ Círculo Cero circus school
+ Amble mobile app
+ Morrow House florist
+ Afterimage optician
+ Balnagour golf links
+ Nape salon
+ Detent watch tools
+ Open Seat supper club
+ Pelagic Room aquarium studio
+ Get help from the developers
+ Describe what you’re working on in a support ticket. It goes directly to the people who build Instatic.
+ Official plugins in development
+ These five plugins will be included in Pro as they’re released.
+ Commerce
+ Coming soon
+ Customer Support
+ Coming soon
+ Analytics
+ Coming soon
+ Remote backups
+ Coming soon
+ SSO
+ Coming soon
+ Choose your plan
+ Monthly
+ Yearly
+ €
+ Euros
+ $
+ US dollars
+ Open source
+ €0
+ $0
+ Free, MIT licensed
+ Unlimited users and sites
+ Visual editor, content, media, forms and roles
+ Real-time collaboration and branches
+ Built-in agent, MCP server and CLI
+ Sandboxed plugin system
+ Host on Railway or run your own Docker instance
+ Deploy on Railway
+ View on GitHub
+ Instatic Pro
+ 2 months free
+ €17
+ $19
+ €170
+ $190
+ per month
+ per year
+ About €14.17
+ $15.83
+ a month
+ One person
+ Instatic Desktop for macOS and Windows
+ 38 templates and the section library
+ Ticket support from the team
+ Access to official plugins as they’re released
+ Get Instatic Pro
+ Team
+ €144
+ $156
+ per seat a month
+ a year
+ About €12
+ $13
+ per seat a month
+ Seats One seat fewer
+ One seat more
+ Team starts at 3 seats.
+ 3 seats
+ Everything in Pro, for every seat
+ One bill for the whole team
+ Add and remove seats any time
+ Priority support
+ Get Instatic Team
+ Prices before tax. VAT is added at checkout where it applies.
+ Pro and Team cover unlimited client sites while your plan is active. The sites you build keep working if you cancel. The free CMS includes collaboration.
+ Who builds Instatic?
+ We built Motion.page
+ and Core Framework
+ for people who design websites. With Instatic, we brought the visual editor, content tools and publisher into one CMS you can run yourself.
+ Questions about Instatic
+ What is Instatic?
+ Instatic is an open-source visual CMS you run on your own server. You design the site and define its content. Your agent can work on the same pages and data through MCP or the CLI, and you can add custom features with plugins.
+ Is Instatic free?
+ Yes. The CMS is free and MIT licensed. The visual editor, collaboration, branches, built-in agent, MCP server and CLI are all included.
+ What does Instatic Pro add?
+ Pro includes Instatic Desktop for macOS and Windows, 38 templates, the section library and support tickets. Official plugins are included as they ship. Choose Pro for one person or Team for three or more seats.
+ Where can I run it?
+ Deploy to Railway in one click, or run the Docker image on a host you choose. Instatic stores your content in SQLite or Postgres and keeps uploaded files on your server.
+ Can I build a members-only site?
+ Yes. Members can sign in with a password or an emailed link. You can restrict pages by access tag and show each person their own content. On this site, customers use their account to find downloads and check support tickets.
+ Can my team edit together?
+ Yes. You can edit a page with someone else and see their cursor and selection. For changes you want to review first, work on a branch and share a preview link before merging.
+ Can I bring the site I already have?
+ Yes, if you have the static files. Super Import brings the HTML, CSS, images and fonts into the editor. You can review conflicts before it creates any pages.
+ How can my agent work on the site?
+ Use the built-in agent with your own model, or connect an external agent through MCP or the CLI. MCP lets the agent work in your open editor. The CLI uses a service account to call the CMS API directly. Your agent can create a branch, edit a page and test the result while the editor is closed.
+ Start a site
+with Instatic.
+ Get Instatic Pro
+ €17
+ $19
+ a month
+ Deploy free on Railway
+ Get Instatic Pro
+ Close checkout
+ Instatic Pro · yearly
+ €170 a year
+ Change
+ Plan 
+ Billing Monthly
+ Yearly
+ Currency € Euro
+ $ US dollar
+ Seats One seat fewer
+ One seat more
+ Add more seats any time.
+ Your details
+ Email 
+ Your sign-in link and receipt go here.
+ Country Choose your country Austria Belgium Canada Czechia Denmark Estonia Finland France Germany Ireland Italy Netherlands Norway Poland Portugal Slovakia Spain Sweden Switzerland United Kingdom United States Australia 
+ Postal code optional
+ EU VAT number optional
+ Enter your business VAT number for reverse charge where eligible.
+ Order summary
+ Instatic Pro, 1 year €170 
+ Tax Choose a country 
+ Payment
+ Card details go straight to Stripe, our payment provider. Instatic never sees them. Paying creates an Instatic account for your checkout email if you don’t already have one.
+ Cancel any time
+ Covers unlimited client sites
+ Total today
+ €170
+ Prices before tax until you choose a country.
+ Pay and subscribe
+ By subscribing, you agree to the terms and conditions
+. Read our privacy policy
+.
+ You&#x27;re in.
+ Your plan is ready. Your receipt and a sign-in link are on their way.
+ 1
+ Open the sign-in link
+ It&#x27;s in your inbox, next to the receipt. It signs you in to your account; no password needed.
+ 2
+ Install Instatic Desktop
+ Sign in with the same email on first launch. Your account lists the downloads.
+ Go to your account
+ Back to the page
+ instatic
+ GitHub
+ Docs
+ Changelog
+ License (MIT)
+ Terms
+ Privacy
+ Withdraw from contract here
+ €
+ Euros
+ $
+ US dollars
+ © 2026 Instatic
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://instatic.com/#org","name":"Instatic","url":"https://instatic.com/","logo":"https://instatic.com/logo.svg","sameAs":["https://github.com/corebunch/instatic"]},{"@type":"WebSite","@id":"https://instatic.com/#site","name":"Instatic","url":"https://instatic.com/","publisher":{"@id":"https://instatic.com/#org"},"inLanguage":"en"},{"@type":"SoftwareApplication","@id":"https://instatic.com/#app","name":"Instatic","softwareVersion":"1.0","applicationCategory":"DeveloperApplication","applicationSubCategory":"Content management system","operatingSystem":"Linux, macOS, Windows (Docker); Instatic Desktop for macOS and Windows","description":"Build and edit your site with an AI agent in a self-hosted visual CMS. Work on the canvas, connect your content and extend Instatic with your own plugins.","license":"https://opensource.org/licenses/MIT","url":"https://instatic.com/","downloadUrl":"https://github.com/corebunch/instatic","publisher":{"@id":"https://instatic.com/#org"},"offers":[{"@type":"Offer","name":"Open source","price":"0","priceCurrency":"EUR","url":"https://github.com/corebunch/instatic"},{"@type":"Offer","name":"Open source","price":"0","priceCurrency":"USD","url":"https://github.com/corebunch/instatic"},{"@type":"Offer","name":"Instatic Pro, monthly","price":"17","priceCurrency":"EUR","url":"https://instatic.com/#pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"17","priceCurrency":"EUR","billingDuration":1,"unitCode":"MON","valueAddedTaxIncluded":false}},{"@type":"Offer","name":"Instatic Pro, yearly","price":"170","priceCurrency":"EUR","url":"https://instatic.com/#pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"170","priceCurrency":"EUR","billingDuration":1,"unitCode":"ANN","valueAddedTaxIncluded":false}},{"@type":"Offer","name":"Instatic Team, per seat, yearly","price":"144","priceCurrency":"EUR","url":"https://instatic.com/#pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"144","priceCurrency":"EUR","billingDuration":1,"unitCode":"ANN","valueAddedTaxIncluded":false,"referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"seat"}},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":3,"maxValue":50,"unitText":"seat"}},{"@type":"Offer","name":"Instatic Pro, monthly","price":"19","priceCurrency":"USD","url":"https://instatic.com/#pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"19","priceCurrency":"USD","billingDuration":1,"unitCode":"MON","valueAddedTaxIncluded":false}},{"@type":"Offer","name":"Instatic Pro, yearly","price":"190","priceCurrency":"USD","url":"https://instatic.com/#pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"190","priceCurrency":"USD","billingDuration":1,"unitCode":"ANN","valueAddedTaxIncluded":false}},{"@type":"Offer","name":"Instatic Team, per seat, yearly","price":"156","priceCurrency":"USD","url":"https://instatic.com/#pricing","priceSpecification":{"@type":"UnitPriceSpecification","price":"156","priceCurrency":"USD","billingDuration":1,"unitCode":"ANN","valueAddedTaxIncluded":false,"referenceQuantity":{"@type":"QuantitativeValue","value":1,"unitText":"seat"}},"eligibleQuantity":{"@type":"QuantitativeValue","minValue":3,"maxValue":50,"unitText":"seat"}}]},{"@type":"FAQPage","@id":"https://instatic.com/#faq","mainEntity":[{"@type":"Question","name":"What is Instatic?","acceptedAnswer":{"@type":"Answer","text":"Instatic is an open-source visual CMS you run on your own server. You design the site and define its content. Your agent can work on the same pages and data through MCP or the CLI, and you can add custom features with plugins."}},{"@type":"Question","name":"Is Instatic free?","acceptedAnswer":{"@type":"Answer","text":"Yes. The CMS is free and MIT licensed. The visual editor, collaboration, branches, built-in agent, MCP server and CLI are all included."}},{"@type":"Question","name":"What does Instatic Pro add?","acceptedAnswer":{"@type":"Answer","text":"Pro includes Instatic Desktop for macOS and Windows, 50+ templates, the section library and support tickets. Official plugins are included as they ship. Choose Pro for one person or Team for three or more seats."}},{"@type":"Question","name":"Where can I run it?","acceptedAnswer":{"@type":"Answer","text":"Deploy to Railway in one click, or run the Docker image on a host you choose. Instatic stores your content in SQLite or Postgres and keeps uploaded files on your server."}},{"@type":"Question","name":"Can I build a members-only site?","acceptedAnswer":{"@type":"Answer","text":"Yes. Members can sign in with a password or an emailed link. You can restrict pages by access tag and show each person their own content. On this site, customers use their account to find downloads and check support tickets."}},{"@type":"Question","name":"Can my team edit together?","acceptedAnswer":{"@type":"Answer","text":"Yes. You can edit a page with someone else and see their cursor and selection. For changes you want to review first, work on a branch and share a preview link before merging."}},{"@type":"Question","name":"Can I bring the site I already have?","acceptedAnswer":{"@type":"Answer","text":"Yes, if you have the static files. Super Import brings the HTML, CSS, images and fonts into the editor. You can review conflicts before it creates any pages."}},{"@type":"Question","name":"How can my agent work on the site?","acceptedAnswer":{"@type":"Answer","text":"Use the built-in agent with your own model, or connect an external agent through MCP or the CLI. MCP lets the agent work in your open editor. The CLI uses a service account to call the CMS API directly. Your agent can create a branch, edit a page and test the result while the editor is closed."}}]}]}

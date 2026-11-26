@@ -1,0 +1,2188 @@
+#SNAPSHOT {"url":"https://itsaplan.dev","finalUrl":"https://itsaplan.dev/","fetchedAt":"2026-11-26T03:37:14.885Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"44e7761c574e870be9eba3e0542ae3b2d52f7ee10db76dadd29299b747f7051b"}
+Open Source Issue Tracker Where AI Agents Take Work 
+ It’s a Plan
+Features
+Compare
+Resources
+ Pricing
+ Changelog
+ AI agents
+ Delegate issues to AI agents on the model you choose.
+ Views
+ See the same issues as a board, table, timeline or calendar.
+ Docs
+ Write specs in the same project as the issues.
+ Notes
+ Brainstorm on sticky notes next to the issues.
+ Dashboards
+ See where the project stands and its projected finish date.
+ Initiatives
+ Know early if a goal will slip.
+ Cycles
+ Plan sprints of any length and carry over what is left.
+ Browse all features 
+ vs Linear
+ Self-hosted, with no per-seat price
+ vs Plane
+ AI agents on your own server
+ vs Jira
+ Self-hosted, after Data Center ends
+ vs Asana
+ Self-hosted, with no per-user price
+ Templates
+ Project templates from other teams
+ Integrations
+ Services your AI agents can work in
+ Blog
+ Project guides and product news
+ Use cases
+ Set up for your kind of team
+ 2.7k
+ Get more with Pro
+ Navigation
+ Product
+ Features
+ Templates
+ Integrations
+ Blog
+ Pricing
+ Changelog v1.13.0
+ Use cases
+ IT help desk
+ Open-source maintainers
+ Compare
+ vs Linear
+ vs Plane
+ vs Jira
+ vs Asana
+ Sign in
+ GitHub 2.7k
+ An issue tracker where AI agents
+ take the work you assign them.
+ The open source, self-hosted alternative to Linear and Jira. Give an agent an issue the way you give it to a teammate, then review what it did.
+ Start free →
+ Get more with Pro
+ 57
+ contributors
+ 2.7k
+ stars on GitHub
+ For PM
+ Board 
+ Table
+ Timeline
+ Calendar
+ For agents
+ Delegation
+ Mentions
+ Schedules
+ AI chat
+ Workflows Pro
+ All
+ Roadmap
+ This week 
+ New view
+ Backlog 12
+ BCN-31
+ bug: Heartbeat check marks a monitor down one interval too early
+ 4h
+ Nov 4
+Bug
+checks
+needs triage
+ Created Oct 24 · Updated Oct 24
+ BCN-24
+ Alert only when a quorum of regions sees the failure
+ 4h
+ Dec 4
+Feature
+checks
+alerts
+ Created Oct 24 · Updated Oct 24
+ BCN-25
+ Region picker in the monitor form
+ 4h
+ Dec 11
+Feature
+web-ui
+ Created Oct 24 · Updated Oct 24
+ BCN-26
+ RFC-004: WebAssembly plugin API for custom checks
+ 4h
+ Nov 20
+Research
+checks
+ Created Oct 24 · Updated Oct 24
+ MV
+ BCN-28
+ DNS record check (A, AAAA, MX, TXT)
+ 4h
+ Nov 13
+Feature
+checks
+help wanted
+ Created Oct 24 · Updated Oct 24
+ Todo 7
+ In Progress 2 / 4
+ BCN-11
+ Status page: custom domains with automatic TLS
+ 4h
+ Oct 25
+Feature
+status-page
+deploy
+ Created Oct 24 · Updated Oct 24
+ MV
+ BCN-12
+ Status page: email subscribers for incident updates
+ 4h
+ Oct 25
+Feature
+status-page
+alerts
+ Created Oct 24 · Updated Oct 24
+ SI
+ In Review 2
+ BCN-10
+ Status page v2: new public page layout
+ 4h
+ Oct 24
+Feature
+web-ui
+ Subtasks 1 / 3
+ BCN-17
+ 90-day uptime bars component
+ BCN-18
+ Incident timeline component
+ BCN-19
+ Lighthouse budget: page under 1 s on slow 3G
+ Created Oct 24 · Updated Oct 24
+ SI
+ BCN-13
+ Rate limit the public API per API key
+ 4h
+ Oct 22
+Feature
+api
+security
+ Created Oct 24 · Updated Oct 24
+ Done 9
+ BCN-1
+ Helm: support an external PostgreSQL via existingSecret
+ 4h
+ Oct 3
+Feature
+deploy
+ Created Oct 24 · Updated Oct 24
+ MV
+ BCN-2
+ Helm: HorizontalPodAutoscaler for check workers
+ 4h
+ Oct 6
+Feature
+deploy
+ Created Oct 24 · Updated Oct 24
+ SI
+ BCN-3
+ bug: Slack alerts are sent twice after a worker restart
+ 4h
+ Oct 5
+Bug
+alerts
+ Created Oct 24 · Updated Oct 24
+ MV
+ BCN-4
+ Check TLS certificate expiry and warn 14 days ahead
+ 4h
+ Oct 9
+Feature
+checks
+ Created Oct 24 · Updated Oct 24
+ SI
+ BCN-5
+ docs: Kubernetes install guide
+ 4h
+ Oct 10
+Task
+docs
+ Created Oct 24 · Updated Oct 24
+ MV
+ Kanban
+ Table
+ Timeline
+ Calendar
+ Board
+ Columns
+ State 
+ Swimlanes
+ No grouping 
+ Ordering
+ Manual 
+ Show
+ Empty columns
+ Links
+ Subtasks
+ As separate cards
+ Inside parent card
+ Start collapsed
+ Card properties
+ ID
+ State
+ Priority
+ Type
+ Assignee
+ Delegate
+ Initiative
+ Cycle
+ Labels
+ Story points
+ Time estimate
+ Start date
+ Due date
+ Created
+ Updated
+ Time in status
+ All
+ Roadmap
+ This week 
+ New view
+ Title 
+ Priority 
+ Labels 
+ Start 
+ Due 
+ Assignee 
+ Backlog 12
+ bug: Heartbeat check marks a monitor down one interval too early
+ High
+checks
+needs triage
+ Nov 2
+ Nov 4
+ -
+ Alert only when a quorum of regions sees the failure
+ High
+checks
+alerts
+ Nov 16
+ Dec 4
+ -
+ Region picker in the monitor form
+ Medium
+web-ui
+ Dec 7
+ Dec 11
+ -
+ RFC-004: WebAssembly plugin API for custom checks
+ Medium
+checks
+ Nov 9
+ Nov 20
+ MV
+ Add work item
+ Todo 7
+ chore: release v0.9.0
+ High
+ Oct 24
+ Oct 25
+ MV
+ bug: Dark mode: incident badges have low contrast
+ Low
+web-ui
+good first issue
+ Oct 23
+ Oct 24
+ -
+ Add a CONTRIBUTING.md section on running the e2e suite
+ Medium
+docs
+good first issue
+ Oct 22
+ Oct 24
+ -
+ Add work item
+ In Progress 2
+ Status page: custom domains with automatic TLS
+ High
+status-page
+deploy
+ Oct 20
+ Oct 25
+ MV
+ Status page: email subscribers for incident updates
+ Medium
+status-page
+alerts
+ Oct 21
+ Oct 25
+ SI
+ Add work item
+ Kanban
+ Table
+ Timeline
+ Calendar
+ Rows
+ Grouping
+ State 
+ Sub-grouping
+ No grouping 
+ Ordering
+ Manual 
+ Show
+ Empty groups
+ Links
+ Subtasks
+ As separate rows
+ Inside parent row
+ Start collapsed
+ Columns Drag to reorder
+ Priority
+ Labels
+ Start date
+ Due date
+ Assignee
+ ID
+ State
+ Type
+ Delegate
+ Initiative
+ Cycle
+ Story points
+ Time estimate
+ Created
+ Updated
+ Time in status
+ Custom field
+ All
+ Roadmap
+ This week 
+ New view
+ October 2026
+ November 2026
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ Backlog 12
+ BCN-31
+ bug: Heartbeat check marks a monitor down one interval too early
+ bug: Heartbeat check marks a monitor down one interval too early
+ Add work item
+ Todo 7
+ BCN-14
+ chore: release v0.9.0
+ chore: release v0.9.0
+ BCN-15
+ bug: Dark mode: incident badges have low contrast
+ bug: Dark mode: incident badges have low contrast
+ BCN-16
+ Add a CONTRIBUTING.md section on running the e2e suite
+ Add a CONTRIBUTING.md section on running the e2e suite
+ BCN-20
+ CI: test the upgrade path from 0.8 and 0.9 to main
+ CI: test the upgrade path from 0.8 and 0.9 to main
+ BCN-21
+ Prototype: run a check from a remote region agent
+ Prototype: run a check from a remote region agent
+ Add work item
+ In Progress 2
+ BCN-11
+ Status page: custom domains with automatic TLS
+ Status page: custom domains with automatic TLS
+ BCN-12
+ Status page: email subscribers for incident updates
+ Status page: email subscribers for incident updates
+ Add work item
+ In Review 2
+ BCN-10
+ Status page v2: new public page layout
+ Status page v2: new public page layout
+ BCN-13
+ Rate limit the public API per API key
+ Rate limit the public API per API key
+ Add work item
+ Kanban
+ Table
+ Timeline
+ Calendar
+ Scale
+ Week
+ Month
+ Quarter
+ Rows
+ Grouping
+ State 
+ Sub-grouping
+ No grouping 
+ Groups start collapsed
+ Show
+ Empty groups
+ Links
+ Subtasks
+ As separate rows
+ Inside parent row
+ Start collapsed
+ Columns Drag to reorder
+ State
+ Type
+ Delegate
+ Initiative
+ Cycle
+ Story points
+ Time estimate
+ Created
+ Updated
+ Time in status
+ Custom field
+ All
+ Roadmap
+ This week 
+ New view
+ No due date 3
+BCN-29
+ Retry failed webhooks with backoff
+BCN-30
+ Export monitors as YAML
+BCN-32
+ Status page in dark mode
+ October 2026
+ Today
+ Mon
+ Tue
+ Wed
+ Thu
+ Fri
+ Sat
+ Sun
+ 28
+ 29
+ 30
+ 1
+ 2
+ 3
+ Helm: support an external PostgreSQL via existingSecret
+ 4
+ 5
+ bug: Slack alerts are sent twice after a worker restart
+ 6
+ Helm: HorizontalPodAutoscaler for check workers
+ 7
+ 8
+ 9
+ Check TLS certificate expiry and warn 14 days ahead
+ Upgrade Go to 1.25 and refresh dependencies
+ 10
+ docs: Kubernetes install guide
+ 11
+ 12
+ 13
+ 14
+ 15
+ bug: Response-time chart shows UTC instead of the browser time zone
+ 16
+ Webhook delivery: retry with exponential backoff
+ 17
+ Freeze the public REST API as /api/v1
+ 18
+ 19
+ 20
+ 21
+ 22
+ Rate limit the public API per API key
+ 23
+ 24
+ bug: Dark mode: incident badges have low contrast
+ Add a CONTRIBUTING.md section on running the e2e suite
+ Status page v2: new public page layout
+ 25
+ chore: release v0.9.0
+ Status page: custom domains with automatic TLS
+ Status page: email subscribers for incident updates
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ CI: test the upgrade path from 0.8 and 0.9 to main
+ 1
+ 2
+ 3
+ devcontainer: one-command dev environment
+ 4
+ bug: Heartbeat check marks a monitor down one interval too early
+ 5
+ 6
+ Prototype: run a check from a remote region agent
+ 7
+ 8
+ Kanban
+ Table
+ Timeline
+ Calendar
+ Mode
+ Month
+ By day
+ By week
+ Dates
+ Place by
+ Due date 
+ Week starts on
+ Monday 
+ All
+ Roadmap
+ This week 
+ New view
+ No due date 3
+BCN-29
+ Retry failed webhooks with backoff
+BCN-30
+ Export monitors as YAML
+BCN-32
+ Status page in dark mode
+ Oct 12 – Nov 8, 2026
+ Today
+ Week 42
+ Oct 12 – Oct 18
+ Mon 12
+ Tue 13
+ Wed 14
+ Thu 15
+BCN-9
+ bug: Response-time chart shows UTC instead of the browser time zone
+ Fri 16
+BCN-8
+ Webhook delivery: retry with exponential backoff
+ Sat 17
+BCN-7
+ Freeze the public REST API as /api/v1
+ Sun 18
+ Week 43
+ Oct 19 – Oct 25
+ Mon 19
+ Tue 20
+ Wed 21
+ Thu 22
+BCN-13
+ Rate limit the public API per API key
+ Fri 23
+ Sat 24
+BCN-15
+ bug: Dark mode: incident badges have low contrast
+BCN-16
+ Add a CONTRIBUTING.md section on running the e2e suite
+BCN-10
+ Status page v2: new public page layout
+ Sun 25
+BCN-14
+ chore: release v0.9.0
+BCN-11
+ Status page: custom domains with automatic TLS
+BCN-12
+ Status page: email subscribers for incident updates
+ Week 44
+ Oct 26 – Nov 1
+ Mon 26
+ Tue 27
+ Wed 28
+ Thu 29
+ Fri 30
+ Sat 31
+BCN-20
+ CI: test the upgrade path from 0.8 and 0.9 to main
+ Sun 1
+ Week 45
+ Nov 2 – Nov 8
+ Mon 2
+ Tue 3
+BCN-23
+ devcontainer: one-command dev environment
+ Wed 4
+BCN-31
+ bug: Heartbeat check marks a monitor down one interval too early
+ Thu 5
+ Fri 6
+BCN-21
+ Prototype: run a check from a remote region agent
+ Sat 7
+ Sun 8
+ Kanban
+ Table
+ Timeline
+ Calendar
+ Mode
+ Month
+ By day
+ By week
+ Columns
+ Weeks on screen
+ 4 
+ Split by day
+ Dates
+ Place by
+ Due date 
+ Week starts on
+ Monday 
+ All
+ Roadmap
+ This week 
+ New view
+ No due date 3
+BCN-29
+ Retry failed webhooks with backoff
+BCN-30
+ Export monitors as YAML
+BCN-32
+ Status page in dark mode
+ Oct 19 – Oct 25, 2026
+ Week 43
+ Today
+ Mon
+ 19
+ Tue
+ 20
+ Wed
+ 21
+ Thu
+ 22
+BCN-13
+ Rate limit the public API per API key
+ Fri
+ 23
+ Sat
+ 24
+BCN-15
+ bug: Dark mode: incident badges have low contrast
+BCN-16
+ Add a CONTRIBUTING.md section on running the e2e suite
+BCN-10
+ Status page v2: new public page layout
+ Sun
+ 25
+BCN-14
+ chore: release v0.9.0
+BCN-11
+ Status page: custom domains with automatic TLS
+BCN-12
+ Status page: email subscribers for incident updates
+ Kanban
+ Table
+ Timeline
+ Calendar
+ Mode
+ Month
+ By day
+ By week
+ Columns
+ Days on screen
+ 7 
+ Dates
+ Place by
+ Due date 
+ Week starts on
+ Monday 
+ Beacon
+ BCN
+ Inbox
+ Dashboards
+ Work items
+ Initiatives
+ Cycles
+ Docs
+ Notes
+ AI Team
+ Schedules
+ Workflows
+ AI Agents
+ Agent runs
+ Configuration
+ Members
+ Notifications
+ Project settings
+ Beacon
+ Issues
+ BCN-58
+ BCN-58
+ Customer charged twice after a plan change
+ Dana from Northwind moved to the annual plan on Nov 3 and was charged for both plans. She asks for a refund of the second charge.
+ Activity
+ All 7
+ Comments 3
+ History 4
+ Work log 0
+ Agent runs
+ Status Newest
+ Triage
+ finished working on the issue
+ 2 min ago
+ Triage
+ 3 min ago
+ The switch to the annual plan on Nov 3 charged the card for both plans. I set the priority to High and linked BCN-41, the same case from October. @ Priya Nair
+ the refund of $240 is ready for your approval.
+ Triage
+ set priority to High
+ 5 min ago
+ Triage
+ picked up the issue
+ 7 min ago
+ Maya Chen
+ delegated to Triage
+ 9 min ago
+ Maya Chen
+ added label Billing
+ 9 min ago
+ State
+ State
+ In Progress
+ Priority
+ High
+ People
+ Assignee
+ PN
+Priya Nair
+ Delegate
+Triage
+ Watching
+ MC
+ SI
+ Planning
+ Cycle
+ Cycle 12
+ Due date
+ Nov 21
+ Labels
+Billing
+Support
+ Assignee
+ PN
+Priya Nair
+ Delegate
+Triage
+ Delegate to…
+ No delegate
+ Triage
+ Writer
+ Researcher
+ Coder
+ SI
+ Beacon
+ BCN
+ Inbox
+ Dashboards
+ Work items
+ Initiatives
+ Cycles
+ Docs
+ Notes
+ AI Team
+ Schedules
+ Workflows
+ AI Agents
+ Agent runs
+ Configuration
+ Members
+ Notifications
+ Project settings
+ Beacon
+ Issues
+ BCN-58
+ BCN-58
+ Customer charged twice after a plan change
+ Dana from Northwind moved to the annual plan on Nov 3 and was charged for both plans. She asks for a refund of the second charge.
+ Activity
+ All 7
+ Comments 3
+ History 4
+ Work log 0
+ Agent runs
+ Status Newest
+ PN
+ Priya Nair
+ 12 min ago
+ @ Writer
+ draft a reply to Dana: we refund the second charge today, and her next invoice is right.
+ Writer
+ 10 min ago
+ Draft: “Hi Dana, we found the double charge and refunded $240 today. Your invoice on December 3 shows the annual plan only. Sorry for the trouble.”
+ Triage
+ 31 min ago
+ The refund of $240 is ready for your approval, @ Priya Nair
+.
+ State
+ State
+ In Progress
+ Priority
+ High
+ People
+ Assignee
+ PN
+Priya Nair
+ Delegate
+Triage
+ Watching
+ MC
+ SI
+ Planning
+ Cycle
+ Cycle 12
+ Due date
+ Nov 21
+ Labels
+Billing
+Support
+ PN
+ Draft a reply to Dana. @
+ ⌘ ↵ to send
+ Comment
+ Writer
+ @ writer
+ Triage
+ @ triage
+ Researcher
+ @ researcher
+ Maya Chen
+ @ maya
+ Sam Ito
+ @ sam
+ Beacon
+ BCN
+ Inbox
+ Dashboards
+ Work items
+ Initiatives
+ Cycles
+ Docs
+ Notes
+ AI Team
+ Schedules
+ Workflows
+ AI Agents
+ Agent runs
+ Configuration
+ Members
+ Notifications
+ Project settings
+ Beacon
+ AI Team
+ Schedules
+ Schedules
+ Run agent tasks on a recurring schedule.
+ New schedule
+ Task
+ Schedule
+ Next run
+ Last run
+ Actions
+ Daily triage
+ Triage
+ Every weekday at 9:00 AM
+ UTC
+ Nov 18, 2026, 9:00 AM UTC
+Succeeded
+ Nov 17, 2026, 9:00 AM UTC
+ Review handoff
+ Writer
+ Issue enters In Review
+ Starts after 10 min
+ When an issue enters the state
+Succeeded
+ Nov 17, 2026, 11:30 AM UTC
+ Release notes draft
+ Writer
+ Every Friday at 4:00 PM
+ UTC
+ Nov 20, 2026, 4:00 PM UTC
+Succeeded
+ Nov 13, 2026, 4:00 PM UTC
+ Weekly support summary
+ Triage
+ Every Monday at 8:00 AM
+ UTC
+ Nov 23, 2026, 8:00 AM UTC
+Succeeded
+ Nov 16, 2026, 8:00 AM UTC
+ Uptime report
+ Researcher
+ Every day at 9:00 AM
+ UTC
+ Paused
+ No runs yet
+ New schedule
+ Choose an agent, describe the task, and set when it should run.
+ Name
+ Release notes draft
+ Agent
+ Writer
+ Runs
+ On a schedule
+ Task
+ Draft release notes from the issues done this week.
+ The agent receives this task on every run.
+ Schedule (UTC)
+ Every Friday at 4:00 PM
+ Cancel
+ Create schedule
+ Beacon
+ BCN
+ Inbox
+ Dashboards
+ Work items
+ Initiatives
+ Cycles
+ Docs
+ Notes
+ AI Team
+ Schedules
+ Workflows
+ AI Agents
+ Agent runs
+ Configuration
+ Members
+ Notifications
+ Project settings
+ Beacon
+ Issues
+ All issues
+ In Progress 3
+ BCN-58
+ Customer charged twice after a plan change
+ BCN-61
+ Status page shows the wrong time zone
+ BCN-57
+ Launch email for the status page
+ MC
+ Todo 5
+ BCN-62
+ Invoice shows the old company name
+ PN
+ BCN-63
+ Add a second admin to a workspace
+ SI
+ BCN-55
+ Help article for custom domains
+ BCN-60
+ Uptime report for October
+ BCN-64
+ Refund policy page for annual plans
+ MC
+ AI chat
+ Support import 
+ Weekly summary
+ support-requests.xlsx
+ Make an issue for each open request. Skip the closed ones.
+ 10:42
+ Used 2 tools 
+ The sheet has 14 requests, 3 of them closed. Subject becomes the title and Urgency the priority.
+ support-requests.xlsx
+ 14 rows
+ Import
+ Subject title
+ Urgency priority
+ Charged twice after a plan change
+ High
+ Invoice shows the old company name
+ Medium
+ Cannot add a second admin
+ High
+ Message Triage…
+ Triage 
+ 8.4k
+ Beacon
+ BCN
+ Inbox
+ Dashboards
+ Work items
+ Initiatives
+ Cycles
+ Docs
+ Notes
+ AI Team
+ Autopilot
+ Schedules
+ Workflows
+ Workflow runs
+ AI Agents
+ Agent runs
+ Configuration
+ Members
+ Notifications
+ Project settings
+ Workflows
+ Refund replies
+On
+ Run history
+ Run 
+ Save
+ An issue enters Todo
+ Trigger
+ Draft the reply
+ Writer
+ Draft a reply to the customer from the refund policy.
+Done
+Failed
+Send back
+ Check the reply
+ Triage
+ Check the reply against the refund policy.
+Done
+Failed
+Send back
+ Send back · up to 2
+ Run history
+ Running now
+ # 42 · BCN-66 Order 4821 refund
+ 3 minutes ago
+ History
+ # 41 · BCN-64 Charged twice
+ 1 hour ago
+ # 40 · BCN-59 Refund after trial
+ 3 hours ago
+ # 39 · BCN-52 Yearly plan refund
+ 5 hours ago
+ # 38 · BCN-49 Order 4790 refund
+ 8 hours ago
+ Running for 3m 12s
+ Run #42 · enters Todo · Started by Maya Chen’s change · Nov 5, 9:12 AM
+ Cost so far $0.42 
+ Tokens so far 27.9K 
+ Agent runs 4 
+ Steps
+ Tokens
+ Cost
+ Took
+ enters Todo
+ Draft the reply
+ round 1
+ 14.2K
+ $0.21
+ 1m 48s
+ Check the reply
+ round 1
+ 5.8K
+ $0.09
+ 36s
+ Draft the reply
+ round 2
+ 7.9K
+ $0.12
+ 52s
+ Check the reply
+ round 2
+ Step name
+ Check the reply
+ Agent
+ Triage
+ Task
+ Check the reply against the refund policy. Send it back with notes if a fact is wrong.
+ Transitions
+ Done
+ Ends here
+ Failed
+ Fails the run
+ Send back
+ Draft the reply
+ Up to 2
+times a run
+ The agent approves to go on, or sends the work back with notes. Past the limit, the step fails.
+ 14 languages
+ English 
+ Українська 
+ Русский 
+ 简体中文 
+ 繁體中文 
+ العربية 
+ فارسی 
+ Français 
+ Italiano 
+ Português 
+ Bahasa Indonesia 
+ Español 
+ 한국어 
+ Türkçe 
+ English 
+ Українська 
+ Русский 
+ 简体中文 
+ 繁體中文 
+ العربية 
+ فارسی 
+ Français 
+ Italiano 
+ Português 
+ Bahasa Indonesia 
+ Español 
+ 한국어 
+ Türkçe 
+ Move
+ Switch trackers without stopping work
+ The import reads your old tracker over its API and runs in the background. Pause it, resume it or cancel it, and watch each issue, comment and attachment come over.
+ Back to project
+ Project
+ General
+ Workflow
+ States
+ Issue types
+ Labels
+ Custom fields
+ Issue templates
+ Configuration
+ Automation
+ Actions
+ Webhooks
+ Forms
+ Repositories
+ Import/Export
+ Beacon
+ Project settings
+ Import/Export
+ Import/Export
+ Import issues from another tracker, or export this project&#x27;s data as JSON.
+ Export as JSON
+ Plane
+ Linear
+ Trello
+ Jira PRO
+ Asana PRO
+ Import from Linear
+ Enter a Linear personal API key to load the teams and projects it can see.
+ Connect Linear
+ Change
+ Pick a team and project
+ Mobile · Mobile app
+ Change
+ 3
+ Review and import
+ Imports
+ Each import runs in the background. You can pause, resume, or cancel it until it finishes.
+ Web app 
+ Linear · Nov 19, 10:42 AM
+ Running
+ Pause
+ Cancel
+ Issues
+ 214 / 412
+ Comments
+ 1,093 / 2,310
+ Labels
+ 18 / 18
+ States
+ 6 / 6
+ Cycles
+ 9 / 9
+ Attachments
+ 0 / 87
+ 3
+ Review and import
+ State mapping
+ Backlog
+ Backlog 
+ Todo
+ Unstarted 
+ In Progress
+ Started 
+ Done
+ Completed 
+ Canceled
+ Canceled 
+ Comments by people who aren&#x27;t project members
+ Import 
+ Start import
+ “Give
+ the
+ routine
+ work
+ to
+ your
+ agents.
+ Keep
+ the
+ decisions
+ with
+ your
+ team.”
+ Andrii Poluosmak
+ Founder
+ Team 002
+ Team 001
+ “ At ORIGIN MEALS, our teams and AI agents use It’s a Plan to get work done faster. We manage tasks, documentation, and sprints in one shared workspace. It’s helped us automate while keeping ownership and progress visible, and has become a core part of how we run our business. ” Khalid Aqeeli
+ Co-Founder , ORIGIN MEALS
+ originmeals.sa ↗
+ Checked
+ Trusted by
+ Tell us about your team 
+ Integrate
+ Manage your projects from Claude, ChatGPT or Gemini
+ Ask your chat to create issues, assign them or build a report. Developers also get an API and webhooks.
+ MCP server
+ Over 200 tools on the same API.
+ $ claude mcp add --transport http plan \
+ https://api.itsaplan.dev /mcp
+ Added HTTP MCP server plan
+ > Take PLAN-132.
+ ●
+ plan - get_issue_by_number
+ PLAN-132 · Rate-limit the importer · High
+ ●
+ plan - update_issue
+ moved to In Progress, assigned to you
+ REST API
+ One call per action the UI has.
+ $ curl https://api.itsaplan.dev /projects/PLAN/issues \
+ -H "Authorization: Bearer $PLAN_KEY"
+ [ 
+ { 
+ " key "
+ : 
+ " PLAN-132 "
+ , 
+ " title "
+ : 
+ " Rate-limit the importer "
+ , 
+ " priority "
+ : 
+ " high "
+ },
+ ...
+]
+ Webhooks
+ Your URL gets a POST when an issue changes.
+ issue.state_changed 
+ Git
+ A merged pull request moves its issue to done.
+ Fixes PLAN-132 
+ API docs
+ Every route and its fields, on your instance.
+ /docs 
+ Run
+ Run agents on the AI you already pay for
+ Your API key from any of 150+ providers, or your Claude Code or Codex subscription.
+ Internal
+ The no-code way. Set it up in the app and it runs on your instance.
+ Runs on your instance 
+ Model 150+ providers, your key 
+ Skills write, upload or import from GitHub 
+ Tools 
+16 integrations, 141 tools 
+ Memory remembers the thread 
+ Built on Mastra
+, TypeScript framework 
+ External
+ Runs on your machine, where the code already is.
+ Runs on your laptop or a VPS 
+ Model your CLI’s model, on your plan 
+ Skills the ones your CLI already has 
+ Tools 
+16 integrations, 141 tools 
+ Memory resume the session in your terminal 
+ Works with Claude Code
+ , Codex
+ , Copilot
+ and 5 more
+ Antigravity CLI
+ opencode
+ Pi
+ Oh My Pi
+ Mastra Code
+ or your own command
+ AGENTS
+ No AI credits to buy. Models, skills, tools, schedules and runners in detail.
+ How AI agents work 
+ “ itsaplan.dev replaced @linear for my homelab in one afternoon. it feels way better for personal-scale agent task management and organization. ” SG
+ Shaheen Gandhi
+ @visigoth
+ on X
+ Who it&#x27;s for
+ Agents for any kind of work, not only code
+ Start with a board, and add an agent when there is work to hand off.
+ Work order · ENG-214
+ Software teams
+ Agent Claude Code Starts Assigned to the agent The PM writes the issue, an agent writes the code, an engineer reviews it.
+ In review
+ Work order · BLOG-31
+ Content and marketing
+ Agent Writer Starts Every day at 9:00 AM Editors get a first draft every morning.
+ In review
+ Work order · APP-88
+ Solo founders
+ Agent Planner Starts Linked issues One person and a team of agents. You approve what they ship.
+ Approved
+ Work order · NW-12
+ Agencies and studios
+ Agent Status Bot Starts Every Friday at 4:00 PM Each client sees only their project. An agent writes the Friday report.
+ In review
+ Work order · HELP-305
+ Support desks
+ Agent Triage Bot Starts A web form Every request becomes an issue, sorted before you open it.
+ Triaged
+ Work order · SOC-57
+ Social media
+ Agent Social Bot Starts Every Monday at 9:00 AM Next week’s posts are ready on Monday. You only approve them.
+ Approved
+ PRO
+ Up to 91 % cheaper than Linear and Asana. $ 240 a year for the whole team, any number of people.
+ See what Pro adds 
+ Manage
+ Goals 
+ Cycles
+ Dashboards
+ Roles
+ Know early if a goal will slip
+ Put issues under one goal with a date. It shows if the work keeps up with the time.
+ Public status page launch
+Active
+ MC
+Maya Chen
+ High
+ Sep 1, 2026
+ Dec 4, 2026
+ Labels
+At risk
+ 14 / 22
+ Overview
+ Progress
+ Issues
+ Progress
+ Backlog
+ 2
+ Todo
+ 3
+ In Progress
+ 3
+ Done
+ 14
+ Canceled
+ 1
+ Timeline
+At risk
+ Started Sep 1, 2026 
+ Target Dec 4, 2026 
+ Remaining 17d left 
+ Time elapsed
+ 82 %
+ Work done
+ 64 %
+ In progress · 3
+ BCN-226
+ Status page custom domains
+ LP
+ BCN-231
+ Launch email to customers
+ PN
+ BCN-233
+ Help article: publish your status page
+ SI
+ Activity
+ Sam Ito
+ moved from In Progress to Done BCN-219
+ · 2 hours ago
+ Priya Nair
+ moved from Todo to In Progress BCN-231
+ · 5 hours ago
+ Leo Park
+ linked to Public status page launch BCN-235
+ · 1 day ago
+ Maya Chen
+ assigned to Sam Ito BCN-233
+ · 2 days ago
+ Leo Park
+ moved from Todo to In Progress BCN-226
+ · 3 days ago
+ Dana Okafor
+ linked to Public status page launch BCN-236
+ · 1 week ago
+ Maya Chen
+ set target date to Dec 4, 2026 · 1 month ago
+ Maya Chen
+ set status to Active · 2 months ago
+ Maya Chen
+ set priority to High · 2 months ago
+ Maya Chen
+ created the initiative · 2 months ago
+ Health
+ Compares work done against time elapsed. Updates automatically.
+ On track
+ Work is keeping pace with the schedule.
+ At risk
+ Work is slipping behind the schedule.
+ Off track
+ Work is well behind, or the target date has passed.
+ No update
+ Not enough data yet: no issues or no target date.
+ How it&#x27;s calculated 
+ Work done
+ completed / (total - canceled)
+ Time elapsed
+ (now - start) / (target - start)
+ How far work trails time
+ On track
+ up to 10% behind
+ At risk
+ 10-25% behind
+ Off track
+ over 25% behind
+ Close a sprint and start the next one in one step
+ Unfinished issues move into the next sprint. Finished ones stay on the old sprint, so it still shows what it delivered.
+ Sprint 13
+Active
+ Oct 19 – Nov 1
+ Launch the public status page
+ 12 / 19
+ Edit
+ Move 7 unfinished issues
+ Finish cycle
+ Start next cycle today
+ Delete
+ Todo 4
+ BCN-44
+ Help center article: set up a status page
+ 3h
+ Oct 29
+Task
+docs
+ Created Oct 24 · Updated Oct 24
+ PN
+ BCN-47
+ Record a two-minute demo video
+ 4h
+Task
+launch
+ Created Oct 24 · Updated Oct 24
+ LP
+ BCN-49
+ Reply template for status page questions
+ 1h
+Task
+support
+ Created Oct 24 · Updated Oct 24
+ SI
+ In Progress 2
+ BCN-45
+ Email to customers about the launch
+ 2h
+ Oct 28
+Task
+launch
+ Created Oct 24 · Updated Oct 24
+ MC
+ BCN-10
+ Status page v2: new public page layout
+ 8h
+ Oct 28
+Feature
+status-page
+ Created Oct 24 · Updated Oct 24
+ MV
+ In Review 1
+ BCN-46
+ Press kit: screenshots and logo files
+ 3h
+Task
+launch
+ Created Oct 24 · Updated Oct 24
+ LP
+ Done 12
+ BCN-42
+ Launch webinar: book the date and the speakers
+ 2h
+Task
+launch
+ Created Oct 24 · Updated Oct 24
+ MC
+ BCN-43
+ Pricing page: add the status page plan
+ 3h
+Task
+status-page
+ Created Oct 24 · Updated Oct 24
+ SI
+ BCN-17
+ 90-day uptime bars component
+ 6h
+Feature
+status-page
+ Created Oct 24 · Updated Oct 24
+ MV
+ Start the next cycle today
+ Sprint 13 closes today and you can&#x27;t reopen it. Sprint 14 starts today and still ends on Nov 15. 7 unfinished issues move to it. Finished and canceled issues stay on Sprint 13.
+ Cancel
+ Start next cycle
+ Build the dashboard your team needs
+ Add any of 11 widgets, drag them into place and size them on the grid. Save it, and everyone on the project sees the same dashboard.
+ Overview
+ Launch
+ Support
+ Agents
+ New dashboard
+ Add widget
+ Discard
+ Save dashboard
+ Issue count
+ New
+ 150
+ Open
+ 58
+ In progress
+ 13
+ Backlog
+ 31
+ Throughput
+ Last 12 weeks
+ Aug 31
+ Sep 7
+ Sep 14
+ Sep 21
+ Sep 28
+ Oct 5
+ Oct 12
+ Oct 19
+ Oct 26
+ Nov 2
+ Nov 9
+ Nov 16
+ Created
+ Closed
+ Breakdown
+ By state
+ Backlog
+ 31
+ Todo
+ 14
+ In Progress
+ 9
+ In Review
+ 4
+ Done
+ 86
+ Canceled
+ 6
+ Pulse
+ Whole project · By day
+ 1,707 events · 399 active Less More
+ Recent issues
+ Newest first
+ BCN-162
+ Launch email: final review
+ High
+ Nov 17
+ BCN-161
+ Status page shows the old logo on phones
+ Urgent
+ Nov 17
+ BCN-160
+ Reply to Acme about custom domains
+ Medium
+ Nov 16
+ BCN-159
+ Webinar slides: the pricing part
+ Medium
+ Nov 16
+ BCN-158
+ Help article: set up email alerts
+ Low
+ Nov 13
+ BCN-157
+ Press kit: a customer quote
+ Medium
+ Nov 13
+ BCN-156
+ Invoice export leaves out the tax ID
+ High
+ Nov 12
+ BCN-155
+ Translate the onboarding emails
+ Nov 11
+ BCN-154
+ Pricing page: annual plan wording
+ Low
+ Nov 10
+ Activity feed
+ All activity
+ Sam Ito
+ changed the status of
+ BCN-160
+ Nov 17, 14:05
+ Maya Chen
+ created
+ BCN-162
+ Nov 17, 11:42
+ Writer
+ commented on
+ BCN-157
+ Nov 17, 10:18
+ Priya Nair
+ changed the assignee of
+ BCN-156
+ Nov 16, 17:30
+ Leo Park
+ changed the due date of
+ BCN-159
+ Nov 16, 15:02
+ Maya Chen
+ added a label to
+ BCN-161
+ Nov 16, 12:47
+ Sam Ito
+ changed the priority of
+ BCN-156
+ Nov 16, 09:20
+ Priya Nair
+ commented on
+ BCN-155
+ Nov 13, 16:11
+ Issue count
+ New
+ 150
+ Open
+ 58
+ In progress
+ 13
+ Backlog
+ 31
+ Throughput
+ Last 12 weeks
+ Aug 31
+ Sep 7
+ Sep 14
+ Sep 21
+ Sep 28
+ Oct 5
+ Oct 12
+ Oct 19
+ Oct 26
+ Nov 2
+ Nov 9
+ Nov 16
+ Created
+ Closed
+ Breakdown
+ By state
+ Backlog
+ 31
+ Todo
+ 14
+ In Progress
+ 9
+ In Review
+ 4
+ Done
+ 86
+ Canceled
+ 6
+ Pulse
+ Whole project · By day
+ 1,707 events · 399 active Less More
+ Recent issues
+ Newest first
+ BCN-162
+ Launch email: final review
+ High
+ Nov 17
+ BCN-161
+ Status page shows the old logo on phones
+ Urgent
+ Nov 17
+ BCN-160
+ Reply to Acme about custom domains
+ Medium
+ Nov 16
+ BCN-159
+ Webinar slides: the pricing part
+ Medium
+ Nov 16
+ BCN-158
+ Help article: set up email alerts
+ Low
+ Nov 13
+ BCN-157
+ Press kit: a customer quote
+ Medium
+ Nov 13
+ BCN-156
+ Invoice export leaves out the tax ID
+ High
+ Nov 12
+ BCN-155
+ Translate the onboarding emails
+ Nov 11
+ BCN-154
+ Pricing page: annual plan wording
+ Low
+ Nov 10
+ Activity feed
+ All activity
+ Sam Ito
+ changed the status of
+ BCN-160
+ Nov 17, 14:05
+ Maya Chen
+ created
+ BCN-162
+ Nov 17, 11:42
+ Writer
+ commented on
+ BCN-157
+ Nov 17, 10:18
+ Priya Nair
+ changed the assignee of
+ BCN-156
+ Nov 16, 17:30
+ Leo Park
+ changed the due date of
+ BCN-159
+ Nov 16, 15:02
+ Maya Chen
+ added a label to
+ BCN-161
+ Nov 16, 12:47
+ Sam Ito
+ changed the priority of
+ BCN-156
+ Nov 16, 09:20
+ Priya Nair
+ commented on
+ BCN-155
+ Nov 13, 16:11
+ Add widgets
+ Drag a widget onto the dashboard.
+ Search widgets
+ All
+ Issues
+ AI agents & webhooks
+ Issues 7
+ Issue count
+ Number of issues that match a filter, such as open bugs
+ Added
+ Breakdown
+ Issues split by state, priority, type, assignee or delegate
+ Throughput
+ Issues created and closed each week
+ Burnup
+ Total and completed issues by day, with a projected finish date
+ Pulse
+ Heatmap of project activity by hour, day or week
+ Recent issues
+ Newest or recently updated issues that match a filter
+ Activity feed
+ Latest changes to issues and who made them
+ AI agents & webhooks 4
+ Agent runs
+ Latest runs and their status, such as failed or queued
+ Agent health
+ Success rate and failed runs of all agents over a chosen period
+ Webhook health
+ Delivery results and endpoints turned off after failures in a row
+ Agent workload
+ For each agent: open delegated issues and successful runs
+ 1 widget added
+ Remove last added
+ Close
+ Decide who can do what in each project
+ Give each person and AI agent a role in each project. You build a role by ticking what it may read, create, edit and delete.
+ Beacon
+ BCN
+ Inbox
+ Dashboards
+ Work items
+ Initiatives
+ Cycles
+ Docs
+ Notes
+ AI Team
+ Schedules
+ Workflows
+ AI Agents
+ Agent runs
+ Configuration
+ Members
+ Notifications
+ Project settings
+ Beacon
+ Configuration
+ Members
+ Members
+ People with access to this project.
+ Add member
+ All
+ People
+ AI agents
+ Search members
+ Member
+ Role
+ Timezone
+ Joined
+ Actions
+ MC
+ Maya Chen
+ @maya · [email protected]
+ Owner 
+ Europe/Berlin
+ Oct 2, 09:14 AM
+ PN
+ Priya Nair
+ @priya · [email protected]
+ Contributor 
+ Asia/Kolkata
+ Oct 3, 11:40 AM
+ SI
+ Sam Ito
+ @sam · [email protected]
+ Reviewer 
+ Asia/Tokyo
+ Oct 8, 04:05 PM
+ Triage
+ AI Agent
+ Contributor 
+ Oct 10, 10:22 AM
+ Writer
+ AI Agent
+ Viewer 
+ Oct 12, 02:31 PM
+ Coder
+ AI Agent
+ Contributor 
+ Oct 15, 09:03 AM
+ Edit role
+ Name
+ Contributor
+ Resource
+ Read
+ Create
+ Edit
+ Delete
+ Work items
+ Work items
+ Initiatives
+ Cycles
+ AI
+ AI agents
+ Agent schedules
+ Cancel
+ Save role
+ Deploy
+ One click, or your own server
+ Start on Railway in one click, or run one command on your own server. Your data stays where you put it.
+ Fast Deploy PRO
+ about 5 min, updates in one click →
+Railway Recommended
+ one click, every secret generated →
+ Docker Compose
+ docker compose up -d →
+ Coolify
+ paste docker-compose.coolify-images.yml →
+ Kubernetes
+ helm install itsaplan charts/itsaplan -f values.yaml →
+ Pricing
+ Ten people on Linear pay $1,920, on Jira pay $950, on Asana pay $2,999 or on Plane pay $720 a year.
+ Ten people on Linear
+ pay $1,920 a year.
+ Ten people on Jira
+ pay $950 a year.
+ Ten people on Asana
+ pay $2,999 a year.
+ Ten people on Plane
+ pay $720 a year.
+ It&#x27;s a Plan Pro: $240
+.
+ Give whole processes to your agents, within budgets you set. Cancel any time and it keeps running as the free edition, with all your data.
+ It&#x27;s a Plan
+Community
+ Self-hosted · AGPL-3.0
+ C01
+ Issues, views, cycles
+ yes
+ C02
+ Docs and dashboards
+ yes
+ C03
+ AI agents
+ yes
+ C04
+ REST API, MCP server
+ yes
+ C05
+ People and projects
+ unlimited
+ C06
+ Workspaces
+ one per person
+ C07
+ Sign-in
+ OIDC, SCIM
+ Seats 
+unlimited
+ Total / year
+ $0.00
+ Deploy Community
+ Free forever. Any number of people.
+ It&#x27;s a Plan
+Pro license
+ Self-hosted · 1 domain
+ L01
+ Community features
+ all
+ L02
+ Fast Deploy, Jira and Asana import
+ new
+ L03
+ Workspaces with SSO and SCIM
+ unlimited
+ L04
+ Workspace dashboard, audit log
+ full
+ L05
+ Agent workflows, schedules, HTTP tools
+ new
+ L06
+ Agent analytics and budgets
+ yes
+ L07
+ Public forms
+ yes
+ L08
+ More features
+ in development
+ Seats 
+unlimited forever
+ Total / year
+ $240.00
+ See what Pro adds →
+ Secure checkout with 
+ Per seat against flat
+ What 10 people pay a year
+ 10
+ 25
+ 50
+ 100
+ List prices, billed yearly, checked in October 2026. Linear
+ and Asana
+ run only in their own cloud; Jira
+ no longer sells its self-managed edition.
+ Asana Advanced
+ $ 2,999
+ Pro is 91% cheaper
+ Linear Business
+ $ 1,920
+ Pro is 87% cheaper
+ Jira Standard
+ $ 950
+ Pro is 74% cheaper
+ Plane Pro
+ $ 720
+ Pro is 66% cheaper
+ It&#x27;s a Plan Pro
+ $ 240
+ flat
+ Product Hunt
+ 5.0 out of 5
+ Every review so far gives five stars.
+ Leave a review
+ All reviews →
+ “ …each agent has its own account ”
+ They can pick up tickets, update their progress, leave comments, and assign work to each other. Skragus
+ Runs a team of AI agents →
+ “ …issue delegation to the level that It’s A Plan does ”
+ I was using the Linear free plan but ran into the issue max. I converted to Plane… Scott
+ Moved from Linear and Plane →
+ “ It’s an amazing product ”
+ I was testing all kinds of issue trackers for many years and now there’s finally a product that’s self-hostable, not restricted in the number of seats and is pleasant to use. Balázs Pári
+ Tried many trackers before →
+ Everything else
+ 55 features.
+ 42 of them free.
+ Everything without a PRO
+ mark is in Community, free under AGPL-3.0.
+ Track 13
+ Shape the work and read where it stands.
+ Workflow & WIP limits
+ Issue types & custom fields
+ Labels, priorities, estimates
+ Time tracking
+ Subtasks & checklists
+ Blocks, relates, duplicates
+ Cycles
+ Initiatives
+ Board, table, timeline, calendar
+ Saved views & filters
+ Bulk edit & templates
+ Configurable dashboards
+ Workspace dashboard
+ PRO
+ Collaborate 9
+ Threads, docs, and notes on the issues.
+ Comments & @mentions
+ Docs with revisions
+ Docs co-editing
+ Attachments
+ Notes boards
+ Watchers
+ Notification inbox
+ Email, Slack & Telegram alerts
+ Public links
+ Automate 14
+ Agents and schedules for the routine work.
+ Hosted & external agents
+ Any model provider
+ Agent chat
+ Skills & GitHub import
+ Agent tools
+ Agent schedules
+ Agent traces & usage
+ Quick actions
+ Auto-archive
+ Agent workflows
+ PRO
+ Event schedules
+ PRO
+ HTTP tools
+ PRO
+ Runs by person & trigger
+ PRO
+ AI budgets
+ PRO
+ Connect 8
+ Everything the tracker talks to.
+ REST API & webhooks
+ MCP server
+ Pull requests from 5 forges
+ Import from Linear, Plane & Trello
+ Live refresh
+ 14 languages
+ Public forms
+ PRO
+ Import from Jira and Asana
+ PRO
+ Control 11
+ Who gets in, and what they may do.
+ Roles & permissions
+ Google & OIDC sign-in
+ Passkeys & magic links
+ SCIM provisioning
+ Allowed email domains
+ Instance admin
+ Unlimited workspaces
+ PRO
+ SSO per workspace
+ PRO
+ SCIM per workspace
+ PRO
+ Email domains per workspace
+ PRO
+ Audit log
+ PRO
+ Changelog
+ What shipped recently
+ View all releases 
+ Next release
+5 changes on main
+New
+Choose the order of pinned Docs pages
+Improved
+Give agent answers readable typography
+Fixed
+Let the Docs home scroll on small screens
+Improved
+Grant role permissions in order
+Fixed
+Keep Tailwind from reading the obfuscated Pro code as classes PRO
+New
+Choose the order of pinned Docs pages
+Improved
+Give agent answers readable typography
+Fixed
+Let the Docs home scroll on small screens
+Improved
+Grant role permissions in order 
+Fixed
+Keep Tailwind from reading the obfuscated Pro code as classes PRO
+ v1.13.0
+ NOV 24, 2026 /
+ Latest
+ + 4
+ Workflow improvements, Agents run workflows, Exa tools for agents, Repository issues on the board, New Docs, AI chat and agent…
+ v1.12.0
+ NOV 19, 2026 
+ + 5
+ Asana import, More events in the audit log, Color themes, Comment reactions, Agent runs in the background from the API and MCP…
+ v1.11.0
+ NOV 14, 2026 
+ + 8
+ Jira import, HTTP tools for agents, Calendar by day and by week, Subtasks up to 8 levels deep, File previews, Push…
+ v1.10.0
+ NOV 5, 2026 
+ + 11
+ Agent workflows, Project templates and a public gallery, Agent run queues and limits, System roles, Private views and your own…
+ Give your first issue to an agent today
+ Try the free edition on your computer with one setup command.
+ Start free →
+ Get more with Pro
+ Or deploy to Railway in one click
+ AGPL-3.0 · No per-seat fees · Use your own AI key or subscription
+ It’s a Plan
+ The open-source issue tracker where AI agents take the work you assign them. Self-host it instead of Linear or Jira.
+ croffasia/itsaplan
+ Features
+ AI agents
+ Views
+ Docs
+ Notes
+ Dashboards
+ Initiatives
+ Cycles
+ All features
+ Pro
+ Pro edition
+ Fast Deploy
+ Account
+ Compare
+ vs Linear
+ vs Plane
+ vs Jira
+ vs Asana
+ Deploy
+ Self-hosting
+ Railway
+ Docker Compose
+ Coolify
+ Kubernetes
+ Resources
+ Changelog
+ Blog
+ Templates
+ Integrations
+ IT help desk
+ Open-source maintainers
+ Jira Data Center EOL
+ Telemetry
+ GitHub issues
+ © 2026 It’s a Plan · AGPL-3.0 licensed
+ Privacy Policy
+ Terms of Service
+ Cookie settings
+ itsaplan.dev
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"SoftwareApplication","@id":"https://itsaplan.dev/#software","name":"It's a Plan","alternateName":["itsaplan","ItsAPlan","itsaplan.dev"],"description":"It's a Plan (itsaplan.dev) is an open-source, self-hosted issue tracker with built-in AI agents. Issues, boards, initiatives, dashboards and per-role permissions, plus a REST API, webhooks and an MCP server, released under AGPL-3.0.","applicationCategory":"DeveloperApplication","applicationSubCategory":"Issue tracker","operatingSystem":"Docker, Linux, macOS, Windows","url":"https://itsaplan.dev","license":"https://www.gnu.org/licenses/agpl-3.0.html","isAccessibleForFree":true,"codeRepository":"https://github.com/croffasia/itsaplan","programmingLanguage":"TypeScript","offers":[{"@type":"Offer","name":"Community","price":"0","priceCurrency":"USD"},{"@type":"Offer","name":"Pro","url":"https://itsaplan.dev/pro","price":"240","priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":"240","priceCurrency":"USD","billingDuration":"P1Y"}},{"@type":"Offer","name":"Pro","url":"https://itsaplan.dev/pro","price":"24","priceCurrency":"USD","priceSpecification":{"@type":"UnitPriceSpecification","price":"24","priceCurrency":"USD","billingDuration":"P1M"}}],"featureList":["Self-hosted on your own server and database","AI agents you can assign issues to","Agent skills, tools and recurring schedules","Boards, table, timeline and calendar views with saved filters","Initiatives that group issues under one goal","Configurable dashboards","Custom roles and per-role permissions","REST API, webhooks and an MCP server"],"publisher":{"@id":"https://itsaplan.dev/#organization"}},{"@type":"Organization","@id":"https://itsaplan.dev/#organization","name":"It's a Plan","alternateName":["itsaplan","ItsAPlan","itsaplan.dev"],"description":"The project behind It's a Plan (itsaplan.dev), an open-source, self-hosted issue tracker with AI agents, released under AGPL-3.0.","url":"https://itsaplan.dev","logo":"https://itsaplan.dev/icon.svg","sameAs":["https://github.com/croffasia/itsaplan"]},{"@type":"WebSite","@id":"https://itsaplan.dev/#website","name":"It's a Plan","alternateName":["itsaplan","ItsAPlan","itsaplan.dev"],"url":"https://itsaplan.dev","publisher":{"@id":"https://itsaplan.dev/#organization"}}]}

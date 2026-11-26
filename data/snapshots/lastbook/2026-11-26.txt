@@ -1,0 +1,233 @@
+#SNAPSHOT {"url":"https://lastbook.org/","finalUrl":"https://lastbook.org/","fetchedAt":"2026-11-26T03:37:31.234Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"c34eca5d037d87293cc5083e6abbe17884260b875ce3236bf1b0973e4f0bee55"}
+Lastbook — Everything you need to survive and rebuild society. 
+ Skip to content
+ Lastbook
+ Download
+ Community
+ GitHub ↗
+ Lastbook
+ Everything you need to survive and rebuild society. Built by the users.
+ Free, local, offline and private.
+ Download for 
+Mac
+ Download for 
+Windows
+ Download for 
+Linux
+ Help build Lastbook We're building Lastbook together. We need you.
+ →
+ Built together.
+ Every day, we ship a new build with work from the community.
+ Find a way to help →
+ All releases 
+ 1.1.18 · Latest 
+ 1.1.17 
+ 1.1.16 
+ 1.1.13 
+ 1.1.12 
+ 1.1.11 
+ Latest release notes
+ ↗
+ ←
+ →
+ Recover interrupted library switches
+ By @domfahey ↗
+ 1.1.18
+ Set up Lastbook without a local map
+ By @Razsoriginal ↗
+ 1.1.18
+ Updated PDF reader on Mac
+ By @zkr99 ↗
+ 1.1.18
+ Keep the page you opened most recently
+ By @domfahey ↗
+ 1.1.18
+ Update Lastbook from your Mac
+ By @wonderdawg ↗
+ 1.1.17
+ Contribute from the desktop sidebar
+ By @wonderdawg ↗
+ 1.1.17
+ Mark videos as watched
+ By @shahzad-eth ↗
+ 1.1.17
+ Filter Chat sources by type
+ By @nskpaun ↗
+ 1.1.17
+ Simplified Chinese in Lastbook
+ By @LXD-8 ↗
+ 1.1.16
+ Turn PDF pages with arrow keys
+ By @gnqgpsr495-ui ↗
+ 1.1.16
+ See which library files are only in iCloud
+ By @gnqgpsr495-ui ↗
+ 1.1.16
+ Keep download progress when the file still matches
+ By @ModeEric ↗
+ 1.1.16
+ A simpler first screen for Chat
+ By Ryzord Solutions ↗
+ 1.1.13
+ Search offline encyclopedias from Chat
+ By @nexdotworks ↗
+ 1.1.13
+ Mac Setup counts space like Finder
+ By Matt Gennings ↗
+ 1.1.13
+ Chat reads tables row by row
+ By Airye ↗
+ 1.1.13
+ “Not breathing” finds urgent help first
+ By @sarzgit ↗
+ 1.1.13
+ Find guides for AEDs and heart attacks
+ By Jon Komet ↗
+ 1.1.13
+ “loadshedding”
+ Guide search understands Pakistani terms
+ By @ahmedasad89-design ↗
+ 1.1.13
+ Find the freezing and house fire guides
+ By Seb the Canadian ↗
+ 1.1.13
+ Cleaner video transcripts that keep numbers
+ By @TheTradoor ↗
+ 1.1.13
+ Address search handles Ct and NE
+ By @vb12341 ↗
+ 1.1.13
+ Linux detects shared memory on Apple silicon
+ By @joshuaswarren ↗
+ 1.1.13
+ See where Lastbook looks for your files
+ By Johnathan Bevers ↗
+ 1.1.13
+ Videos at your own pace
+ By Mohammad Ali Sayyed ↗
+ 1.1.12
+ Guides one click away
+ By Gonzalo Fuentes ↗
+ 1.1.12
+ Readable tables in Chat
+ By Ryzord Solutions ↗
+ 1.1.12
+ Better downloads for big libraries
+ By @alexlanghart ↗
+ 1.1.12
+ “hydro is out”
+ Guide search recognizes Canadian terms
+ By Seb the Canadian ↗
+ 1.1.12
+ Setup waits out busy servers
+ By @verata-veritatis ↗
+ 1.1.12
+ Search addresses with ZIP+4
+ By @A-Corner ↗
+ 1.1.12
+ Keep your map through Repair
+ By Gonzalo Fuentes ↗
+ 1.1.12
+ Find warnings written in capitals
+ By @Lutif ↗
+ 1.1.12
+ Settings and About in the sidebar
+ By Ryzord Solutions ↗
+ 1.1.11
+ © OpenStreetMap contributors
+ Find a dentist offline
+ By @okburkard1 ↗
+ 1.1.11
+ Guides for hurricanes, tornadoes and thunderstorms
+ By @wgl444 ↗
+ 1.1.11
+ Apartment and high-rise guides
+ By Conner ↗
+ 1.1.11
+ Search recognizes “torch” and “rubbish”
+ By Johnathan Bevers ↗
+ 1.1.11
+ Guide search recognizes terms used in India
+ By @deepanshu-chauhan-delphic ↗
+ 1.1.11
+ A heat exhaustion video in First Aid
+ By @sarzgit ↗
+ 1.1.11
+ Videos explain why a format can’t play
+ By Johnathan Bevers ↗
+ 1.1.11
+ Stay up to date
+ New releases and what the community built.
+ Email address 
+ Subscribe
+ Unsubscribe anytime. Privacy
+ Free, local, private.
+ AI
+ Free. Local. Private.
+ Gemma 4 26B A4B
+ Maps
+ Free. Local. Private.
+ 258,000+ searchable places
+ W Water
+ + Medical
+ F Fire stations
+ ⌂ Shelters
+ Videos
+ Free. Local. Private.
+ 2,324 videos
+ First aid & health
+ Wounds, illness and emergency care.
+ Safe drinking water
+ Find, filter, treat and store water.
+ Food & preservation
+ Grow, prepare and preserve your food.
+ Critical repairs
+ Tools, equipment and shelter repairs.
+ Power & energy
+ Generators, solar and electrical basics.
+ Emergency preparedness
+ Plan for outages, disasters and evacuation.
+ Questions
+ Will it run on my computer? 
+ On a Mac, you need Apple Silicon (M1 or newer) and macOS 14 Sonoma or newer. Intel Macs are not supported. To check: Apple menu > About This Mac . Chip should say Apple M1 or later (M2, M3 and so on), and macOS should be 14 or higher.
+ On Windows, you need Windows 10 or 11, 64-bit. To check: Settings > System > About . System type should say 64-bit.
+ Lastbook doesn’t run on phones or tablets.
+ How much space do I need? 
+ Choose Small (7.7 GB), Medium (67.5 GB), or All (about 388 GB). Local AI adds about 17 GB. Your selected state map and address index add more, with sizes shown in setup. Mac setup checks free space before downloading.
+ Does it need the internet? 
+ Internet is needed to download the app, library and optional AI. Once setup finishes, reading, maps, videos and AI work offline.
+ What is Chat? 
+ Chat uses the optional local Gemma model to answer questions from your library and link to its sources. It is available in the Mac, Windows and Linux apps.
+ Is the medical information checked? 
+ It comes from published guides, such as Hesperian, the World Health Organization and the Red Cross. Lastbook itself is not clinically reviewed, and it doesn’t replace trained care. In an emergency, call 911 if you can.
+ Is there a bigger library? 
+ Yes. Small (7.7 GB) and Medium (67.5 GB) are available. All (about 388 GB) is also available. Mac setup shows the available choices.
+ Something else? 
+ Email [email protected]
+.
+ Set it up now, while you have internet and power.
+ Then it’s ready when you need it. Free for Mac, Windows and Linux.
+ Download for Mac
+ Download for Windows
+ Download for Linux
+ Mac 1.1.17 · 29.2 MB · Windows 1.1.17 · 105 MB · Linux 1.1.17 · 30.1 MB
+ Buying guide
+ Practical gear for first aid, water, food and repairs.
+ Purchases through our affiliate links help support Lastbook. Shopping is optional, and the app is free.
+ Explore the buying guide
+ Stay up to date
+ New releases and what the community built.
+ Email address 
+ Subscribe
+ Unsubscribe anytime. Privacy
+ Not clinically reviewed. Lastbook doesn’t replace trained care. In an emergency, call 911 if you can.
+ Community
+ Download
+ What’s in the library
+ Buying guide
+ Privacy
+ Credits and licences
+ Check your download
+ [email protected]
+ Follow us on Twitter
+ Lastbook · 13 November 2026 · This site has no cookies and no tracking. Third-party licences are listed in Credits.

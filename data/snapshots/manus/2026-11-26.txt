@@ -1,0 +1,189 @@
+#SNAPSHOT {"url":"https://manus.im/pricing","finalUrl":"https://manus.im/pricing","fetchedAt":"2026-11-26T03:36:48.469Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"728944860e13b08c4a58be1abe2225a67eecac448799bc4d211546cbe41994df"}
+Features
+Solutions
+Resources
+Events
+Business
+Pricing
+English
+Get started
+Up to 33% off this Black Friday
+Ends in
+5
+days
+0
+1
+:
+2
+3
+:
+1
+2
+Manus Pricing Plans
+Monthly
+Annually · Save up to 33%
+Free
+$
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+/ month
+Try Manus on simple tasks
+Get started
+300 credits / day
+Get started with:
+Research, websites and slides
+Manus 2.0 Lite
+3 tasks at once · 2 automations
+Pro
+25% OFF
+$100
+$
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+/ month
+$900 for the first year, then $1,000/year
+For everyday productivity
+Get started
+20,000 credits / month
+Everything in Free, plus:
+Access to Manus 2.0 and 2.0 Max
+Custom domains for websites
+Wide Research across hundreds of sources
+Advanced image and video generation
+Manus Flex: bring your own keys
+20 tasks at once · 20 automations
+Max
+33% OFF
+$200
+$
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+/ month
+$1,600 for the first year, then $2,000/year
+Run your work and business
+Get started
+40,000 credits / month
+Everything in Pro, plus:
+Pay as you go when credits run out
+Early access to beta features
+Priority support
+What people do with Manus Max
+Website
+A product launch site
+Video
+A short ad for your brand
+Research
+Cited market research
+Slides
+A quarterly review
+Manus Plans for Teams & Enterprise
+Flexible plans for teams of all sizes — from startups to enterprise.
+Get Team
+Learn more
+Security and Compliance
+Enterprise-grade security and industry-standard certifications.
+Having a problem? Go to Help center.
+Less structure,
+more intelligence.
+Product
+Pricing
+Web app
+AI design
+AI slides
+AI image generator
+AI music generator
+Video
+Wide Research
+Slack integration
+All models
+Cue
+More features
+Resources
+Download
+Blog
+Docs
+Updates
+Help center
+Trust center
+API
+Team plan
+Startups
+Playbook
+Brand assets
+Community
+Events
+Fellows
+Compare
+VS ChatGPT
+VS Lovable
+VS Replit
+Download
+Mobile app
+Desktop app
+My Browser
+Business
+Team plan
+SSO
+API
+Company
+About us
+Careers
+For media
+Terms of service
+Privacy policy
+© 2026 Manus AI
+English

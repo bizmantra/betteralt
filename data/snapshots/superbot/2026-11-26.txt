@@ -1,0 +1,278 @@
+#SNAPSHOT {"url":"https://github.com/davidondrej/superbot","finalUrl":"https://github.com/davidondrej/superbot","fetchedAt":"2026-11-26T03:37:34.551Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"04fb3d0e788bf7afb31f16a0cded0a105eeebe9393537391a0292f5e279d92d0"}
+GitHub - davidondrej/superbot: Open-source, self-hosted Grok Bot alternative · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects, and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ davidondrej
+ superbot
+ Repository navigation
+ Code
+ Issues
+ 2
+  ( 2 )
+ Pull requests
+ 2
+  ( 2 )
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ superbot
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 129
+  ( 129
+)
+ Star 445
+  ( 445
+)
+ You must be signed in to star a repository
+ About
+ Open-source, self-hosted Grok Bot alternative
+ Resources
+ Readme
+ MIT license
+ Activity
+ Stars
+ 445 stars
+ Watchers
+ 6 watching
+ Forks
+ 129 
+ forks
+ Report repository
+ main
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 25 Commits
+ 25 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .agents/
+ skills
+ .agents/
+ skills
+ .claude
+ .claude
+ deploy
+ deploy
+ docs
+ docs
+ grok-bot-internals
+ grok-bot-internals
+ server
+ server
+ web
+ web
+ .env.example
+ .env.example
+ .gitignore
+ .gitignore
+ AGENTS.md
+ AGENTS.md
+ Cargo.lock
+ Cargo.lock
+ Cargo.toml
+ Cargo.toml
+ LICENSE
+ LICENSE
+ README.md
+ README.md
+ View all files
+ Repository files navigation
+ README
+ MIT license
+ More items
+ A team of AI Bots that work for you. Each one has a name, a job, memory, and a real computer. 
+ Open source. Self-hosted on your VPS. Runs on the coding agent you already use.
+ An open-source alternative to Grok Bot. Not affiliated with xAI or X. "Grok" is a trademark of xAI.
+ You message Bots like teammates. They finish work end to end and only ask you when they need approval.
+ What you get
+ A team of Bots : named teammates, each with one job, its own chat, and its own memory.
+ Memory that grows : Bots save your rules and preferences as plain files. Ask "What do you remember about me?"
+ Routines : run a Bot on a schedule. Bots create their own cron jobs.
+ Bot to Bot : Bots ask each other for help and pass work along.
+ Any agent : Claude Code, Codex, or Pi, through one small adapter each.
+ Approvals (soon) : Bots pause and ask before risky actions.
+ Also planned: computer use (Bots drive the browser and GUI apps), skills, and Slack.
+ How it works
+ You talk to SuperBot , your main Bot.
+ It hands work to focused Bots, like Developer, Researcher, or Inbox.
+ Each Bot runs on the agent you picked for it.
+ They all share one Linux computer on your VPS. Files and sign-ins stick around between tasks.
+ Meet the bots
+ Every Bot gets a robot. Pick one of 12 shapes and 11 colors when you create it.
+ Quick start
+ cargo build --release #
+ makes target/release/botd and target/release/botctl
+cp .env.example .env #
+ fill it in
+ set
+ -a ;
+ .
+ ./.env ;
+ set
+ +a
+./target/release/botd 
+ Then open the web app and say hi to SuperBot. Install and log in to the agent CLIs you want ( claude , codex , pi ) as the same user that runs botd .
+ Deploying on a VPS: see Backend
+.
+ Harness agnostic
+ Bots run on the coding agent you choose:
+ Claude Code CLI (first)
+ Codex CLI
+ Pi Agent
+ Grok Build (planned) 
+ Hermes Agent (planned) 
+ Each harness plugs in through one small adapter. Everything else stays the same.
+ Built in Rust
+ As much as possible is Rust: the server, adapters, and CLI. That means speed, low memory use, and one small binary to self-host. Web code is used only where the browser needs it.
+ The architecture we're replicating
+ Our rough guess at how Grok Bot works under the hood: one shared Linux VM per account, and every Bot gets its own little world on it. Based on what a Grok Bot told us about its own VM. Not official.
+ Details: VM specs
+ and running many Bots on one VM
+.
+ Docs
+ Grok Bot reference
+: what we are rebuilding.
+ Architecture
+: the plan and open decisions.
+ Backend
+: how the server works, and how to run and deploy it.
+ Status
+ Early. Chat with Bots on Claude Code, Codex, or Pi works, with memory, routines, and Bot to Bot. Approvals and computer use are next.
+ License
+ MIT
+ About
+ Open-source, self-hosted Grok Bot alternative
+ Resources
+ Readme
+ MIT license
+ Activity
+ Stars
+ 445 stars
+ Watchers
+ 6 watching
+ Forks
+ 129 
+ forks
+ Report repository
+ Releases
+ Packages
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

@@ -1,0 +1,671 @@
+#SNAPSHOT {"url":"https://warmbly.com/pricing","finalUrl":"https://warmbly.com/pricing/","fetchedAt":"2026-11-26T03:37:22.148Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"c6a772e949c07c20305b7112e156bc013181b77c3fd66b231b4d6b1a461ed61f"}
+Pricing: Unlimited Mailboxes and Warmup | Warmbly 
+ (or the link service's own dub_id after a short link); once the partner
+ script below has recorded the click, its id replaces both in the address
+ bar as wb_click and is carried in links like the parameters above. Until
+ then via itself is carried, so the next page records it. No cookie: a
+ signup on a later, unlinked visit is not credited.
+ --> asks the partner program to record the
+ click and swaps via for the click id (wb_click) in the address bar, so a
+ reload records nothing twice. One request, made by this browser so the
+ click carries its own location; no cookie, no third-party script. A
+ failed request leaves via in place for the next page to retry, and a
+ click into the dashboard waits briefly for one still in flight.
+ --> Warmbly
+ Product 
+ Product
+ Warmup
+ Build sender reputation before you send.
+ Campaigns
+ Sequences with follow-ups and A/B tests.
+ Unified inbox
+ Every reply from every mailbox in one place.
+ Analytics
+ Sends, replies, bounces and inbox placement.
+ CRM
+ Turn interested replies into deals.
+ API & webhooks
+ Build on Warmbly with REST and webhooks.
+ Automations
+ When a reply lands, open the deal, post to Slack or update your CRM.
+ Explore automations 
+ Use cases 
+ Use cases
+ Founders
+ Outreach without risking your own domain.
+ Agencies
+ Many clients and domains in one account.
+ Sales teams
+ Spread sending across reps and mailboxes.
+ Recruiters
+ Candidate outreach from personal mailboxes.
+ Fundraising
+ A focused investor sequence that lands.
+ The deliverability handbook
+ How warmup, inbox placement and sender reputation fit together.
+ Read the handbook 
+ Deliverability
+ Pricing
+ Blog
+ Docs
+ 1.1k
+ Log in
+ Get started
+ so fixed positioning is viewport-relative,
+ not clipped by the header's backdrop-filter containing block) --> Warmbly
+ Product
+ Automations
+ When a reply lands, open the deal, post to Slack or update your CRM.
+ Warmup
+ Build sender reputation before you send.
+ Campaigns
+ Sequences with follow-ups and A/B tests.
+ Unified inbox
+ Every reply from every mailbox in one place.
+ Analytics
+ Sends, replies, bounces and inbox placement.
+ CRM
+ Turn interested replies into deals.
+ API & webhooks
+ Build on Warmbly with REST and webhooks.
+ Use cases
+ The deliverability handbook
+ How warmup, inbox placement and sender reputation fit together.
+ Founders
+ Outreach without risking your own domain.
+ Agencies
+ Many clients and domains in one account.
+ Sales teams
+ Spread sending across reps and mailboxes.
+ Recruiters
+ Candidate outreach from personal mailboxes.
+ Fundraising
+ A focused investor sequence that lands.
+ Deliverability
+ Pricing
+ Blog
+ Docs
+ Star on GitHub · 1.1k
+ Join the Discord
+ Log in
+ Get started
+ Pricing
+ Pay for the email you send.
+ Start with a 14-day free trial, no card needed. Every paid plan has unlimited mailboxes and unlimited warmup, and plans differ in how much cold email you can send a day and in what your team needs around it.
+ Monthly
+ Yearly
+ Save 20%
+ Starter
+ For small teams starting cold outreach.
+ $ 23
+ / month, billed yearly
+ 150
+ cold emails a day , up to 4,500 a month
+ Get started
+ Grow
+ For teams sending from many mailboxes.
+ $ 71
+ / month, billed yearly
+ 3,000
+ cold emails a day , up to 90,000 a month
+ Get started
+ Business
+ Most popular
+ For established teams at real volume.
+ $ 263
+ / month, billed yearly
+ 15,000
+ cold emails a day , up to 450,000 a month
+ Get started
+ Enterprise
+ Custom volume, contract and support.
+ Custom
+ 15,000+
+ cold emails a day
+ Talk to sales
+ Compare plans
+Swipe for every plan
+ Compare plans
+ Starter
+ For small teams starting cold outreach.
+ $ 23
+ / month
+ billed yearly
+ Get started
+ Grow
+ For teams sending from many mailboxes.
+ $ 71
+ / month
+ billed yearly
+ Get started
+ Business
+ Most popular
+ For established teams at real volume.
+ $ 263
+ / month
+ billed yearly
+ Get started
+ Enterprise
+ Custom volume, contract and support.
+ Custom
+ volume-based
+ Talk to sales
+ Sending
+ Cold emails a day
+ 150
+ 3,000
+ 15,000
+ 15,000+
+ Mailboxes
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Limit per mailbox
+ 50 a day, adjustable
+ 50 a day, adjustable
+ 50 a day, adjustable
+ 50 a day, adjustable
+ A sign-in address no other customer uses
+ –
+ –
+ Deliverability
+ Warmup in the premium pool
+ Unlimited
+ Unlimited
+ Unlimited
+ Unlimited
+ Inbox placement tests
+ Suppression and one-click unsubscribe
+ Outreach
+ Sequences with branching
+ Unified inbox with reply labels
+ Automations
+ Team and platform
+ CRM with pipelines, deals and tasks
+ –
+ API and signed webhooks
+ –
+ Team roles and audit log
+ –
+ –
+ Single sign-on
+ –
+ –
+ –
+ Support
+ Community
+ Email
+ Priority
+ Dedicated
+ Prices in US dollars. Taxes are calculated from your billing address and shown before you pay.
+ For agencies.
+ Every client on one plan.
+ No per-client fees and no limit on clients. Instead of a daily cap per workspace, every client sends from one monthly pool, so a quiet week for one client is volume another can use. Each mailbox still keeps its own daily cap, spacing and warmup ramp.
+ Agency
+ For agencies running outreach for a handful of clients or dozens.
+ $ 199
+ / month, billed yearly
+ 150,000
+ sends a month, shared by every client
+ Unlimited clients, no per-client fee
+ The CRM, the API and signed webhooks in every client workspace
+ Staff added to every client
+ Your logo, colour and portal domain on client pages
+ $10 of shared AI each month
+ Top-up packs: 50,000 sends for $85
+ Get started
+ Agency Pro
+ Full white-label
+ For agencies that sell outreach under their own brand.
+ $ 479
+ / month, billed yearly
+ 500,000
+ sends a month, shared by every client
+ Everything in Agency
+ Team roles and the audit log in every client workspace
+ No “Powered by Warmbly” on client pages
+ Sending kept apart from other customers
+ $30 of shared AI each month
+ Top-up packs: 50,000 sends for $60
+ Get started
+ Agency Scale
+ For agencies sending at the largest volumes.
+ Custom
+ 1,000,000+
+ sends a month, shared by every client
+ Everything in Agency Pro
+ Pool sized to your volume
+ Contract and support
+ Talk to sales
+ Top-up packs are one-off and count for the current billing period. How agencies use Warmbly
+.
+ Cost per client
+ The more clients you run, the less each one costs. Prices follow the monthly and yearly switch at the top of the page.
+ Clients
+ 10
+ clients
+ −
+ +
+ Agency
+ $19.90
+ per client a month
+ 15,000
+ shared sends a month per client, on average
+ Grow for each client, 3,000 a day $710 
+ Agency for every client $199 
+ $511 a month less with Agency, $6,132 a year
+ Agency Pro
+ $47.90
+ per client a month
+ 50,000
+ shared sends a month per client, on average
+ Grow for each client, 3,000 a day $710 
+ Agency Pro for every client $479 
+ $231 a month less with Agency Pro, $2,772 a year
+ This page’s own prices, a month at the yearly rate
+. Each client is matched with the cheapest regular plan whose daily cap covers an even share of the pool, counting every one of 30 days: Starter sends 150 a day, Grow 3,000 and Business 15,000. A regular plan’s unused days don’t carry over, while an agency pool is shared across clients and the whole month. Agency Pro also keeps sending apart from other customers, which regular plans include only on Business.
+ Included on every agency plan
+ Unlimited client workspaces
+ No limit on clients and no fee per client. Each keeps its own mailboxes, contacts, campaigns and inbox.
+ Staff in every client
+ Your team is added to each client as it joins, with a role that follows their agency role.
+ One shared monthly pool
+ Every client sends from the same pool, so a quiet week for one is volume another can use.
+ Caps per client
+ Hold any client to a monthly share of the pool or of the AI balance, or pause it with a cap of 0.
+ Shared AI balance
+ Clients spend their own balance first, then the agency’s, and you can move balance to a client.
+ Warmup in the premium pool
+ Every mailbox warms on the same ramp and health rules, and warmup never draws on the send pool.
+ Client connect links
+ Clients connect their own mailboxes from a link, so their passwords never reach you.
+ Shareable client reports
+ Branded report links and embeds, or a summary emailed to the client every week or month.
+ A cross-client inbox
+ Conversations from every client in one list, filtered by client, unread, needs reply or positive.
+ Copy campaigns between clients
+ Build a campaign once and copy it, with its steps, settings and templates, to up to 10 clients at a time.
+ A portal in your own look
+ Your colours, font, logo and sign-in page on a client dashboard at your own domain, on connect links and reports, and in embeds for your site.
+ Agency API keys
+ One key reaches every client, so one integration serves them all without a key per workspace.
+ Self-hosting? Your own instance gets every agency feature for free, with no cap on the pool and no charge for AI.
+ In every paid plan.
+ The whole product, at any volume.
+ Starter and Business send different amounts of mail, but both warm every mailbox, catch every reply and protect every list the same way.
+ AK 
+ alex@northwind.dev
+ Google Workspace
+ active
+ Overview
+ Deliverability
+ Analytics
+ Warmup 
+ Sending
+ Settings
+ Warming up
+ Day 14 of the ramp · premium pool
+ Pause
+ Today
+ Sending 18 of 23 · day 14
+ Warmup reputation
+ Premium pool
+ Healthy
+ Daily volume
+Sent
+Target
+ Day 1
+ Today
+ Warmup activity
+Live
+ Sent to dana@helio.gen
+ Google Workspace
+ Landed in the inbox
+ from ravi@stratech.io
+ Replied to lena@sprucebio.com
+ Thread of 3
+ Sent to max@quarry.co
+ Microsoft 365
+ Landed in the inbox
+ from kai@orbitlabs.io
+ Sent to dana@helio.gen
+ Google Workspace
+ Landed in the inbox
+ from ravi@stratech.io
+ Replied to lena@sprucebio.com
+ Thread of 3
+ Sent to max@quarry.co
+ Microsoft 365
+ Landed in the inbox
+ from kai@orbitlabs.io
+ Unlimited warmup in the premium pool
+ Every mailbox trades real email with other inboxes, starting at 10 a day and growing by one a day to 40, for as long as it stays connected.
+ Inbox
+ 7
+ Compose
+ Search all mail
+ Today
+ Maya Lopez
+ now
+ Re: Quick question about Brightline
+ Can you share pricing for 20 seats?
+Interested
+ Jenna Carter
+ 4m
+ Re: Quick question about Acme
+ Thursday 10am ET works for me.
+Interested
+ Aman Patel
+ 22m
+ Automatic reply: Following up
+ I am out of the office until the 14th.
+Out of office
+ Lina Park
+ 1h
+ Re: Quick question about Helio
+ Does this work with Outlook too?
+Question
+ Karim Salah
+ 2h
+ Re: Following up
+ Please take me off your list.
+Unsubscribe
+ Ravi Shah
+ 3h
+ Re: Quick question about Stratech
+ Send me a few times next week.
+Interested
+ Re: Quick question about Acme
+ 2 messages
+ ·
+ alex@northwind.dev
+Interested
+ AK
+ Alex Kim
+ Hi Jenna, saw Acme just opened a Berlin office…
+ Mon
+ JC
+ Jenna Carter
+ jenna@acme.io
+ to alex@northwind.dev
+ 4m
+ Thanks for reaching out. Thursday 10am ET works for me, can you send over an invite?
+ Perfect, I just sent an invite for Thursday at 10am ET.
+ Reply as alex@northwind.dev
+ Send
+ One inbox for every reply
+ Replies from all your mailboxes arrive in one place, already labeled as interested, out of office, a question or an unsubscribe.
+ AK 
+ alex@northwind.dev
+ Overview
+ Warmup
+ Sending
+ Settings 
+ Sending limits
+ Maximum cold emails per day
+ 50
+ 120
+ emails / day
+ Shared ceiling across all campaigns, not a daily target. Default 50, adjustable.
+ Well above the 30–50/day safe band for cold outreach. Caps this high need a warmed, established mailbox.
+ Minimum gap
+ 600
+ seconds
+ Smallest delay between two sends from this mailbox, currently 10 min.
+ 50 a day per mailbox, adjustable
+ Each mailbox sends up to 50 cold emails a day, spaced out across its working day. Raise it once the mailbox has earned it.
+ Quick question about Acme
+Completed
+ From alex@northwind.dev
+ · 20 seed inboxes
+ Inbox
+ 17
+ 85%
+ Gmail tabs
+ 2
+ 10%
+ Spam
+ 1
+ 5%
+ By provider
+ Google
+ 80%
+ Microsoft
+ 86%
+ Yahoo
+ 100%
+ Inbox placement tests
+ Send a step to seed inboxes and see whether it lands in the inbox, a tab or spam, provider by provider.
+ Suppression list
+ Add
+ Entries
+ 214
+ lena@sprucebio.com
+ One-click unsubscribe from the mail client
+ Unsubscribed
+ Just now
+ karim@stratech.io
+ Replied asking to stop
+ Unsubscribed
+ Oct 8
+ info@quarry.co
+ Mailbox does not exist
+ Bounced
+ Oct 7
+ @northwind.dev
+ Our own domain
+ Added by hand
+ Sep 30
+ ravi@helio.gen
+ Marked as spam
+ Spam complaint
+ Sep 28
+ @acme.io
+ Existing customer
+ Added by hand
+ Sep 21
+ Suppression and one-click unsubscribe
+ Unsubscribes, bounces and complaints stop mail across the whole workspace, and campaigns carry a one-click unsubscribe header by default.
+ Settings
+ Plan, payment, invoices.
+ Account
+ Profile
+ Notifications
+ Security
+ Workspace
+ Members
+ Sending
+ Billing
+ Limits
+ Developers
+ Webhooks
+ OAuth apps
+ Billing
+ Plan, payment and invoices for Acme.
+ Manage billing
+ Overview 
+ Plans
+ AI & credits
+ Payment
+ Subscription
+ Business
+ Active
+ For established teams that need higher limits and advanced features.
+ Price
+ $3,156
+ per year
+ Renews
+ October 1, 2027
+ in 357 days
+ Daily sends
+ 15,000
+ across the workspace
+ Change plan
+ Payment method
+ Invoices
+ Request a limit increase
+ Usage and limits
+ Request an increase 
+ Sends today
+ 6412
+ / 15,000
+ Campaign emails sent today against the workspace's daily allowance
+ Mailboxes
+ 38 / 15,000
+ Fair use: one mailbox for every send a day your plan includes
+ API calls, last 24h
+ 8,241 / unmetered
+ Requests made with API keys during the rolling 24-hour window
+ Sends in the last month
+ 171,204 / unmetered
+ Campaign emails sent during the rolling one-month window
+ Invoice history
+ Billing portal
+ Oct 1, 2026
+ $3,156.00
+ Paid
+ PDF
+ Oct 1, 2025
+ $3,156.00
+ Paid
+ PDF
+ Your plan, in Settings.
+ Nothing to work out.
+ The billing page shows your plan, when it renews and how much of today’s send allowance is used, counted against the limits the server actually enforces. Invoices and the card on file are one click away.
+ Switching Moving to another plan is prorated and takes effect straight away. 
+ Cancelling The plan stays active to the end of the period you paid for. Mailboxes, warmup and settings are kept. 
+ One limit Need more of one thing without changing plan? Ask from Settings > Limits. 
+ Invoices Your legal name and tax ID go on every invoice, and PDF receipts are in the billing portal. 
+ Cloud or self-hosted?
+ Same platform. The difference is the pool.
+ Warmup works by writing to other real mailboxes. On Warmbly Cloud that is a large shared pool. On your own server it is only the mailboxes you connect there.
+ Accounts
+ 5 mailboxes
+ Starter
+ Mailboxes
+ 5 / unlimited
+ Warming in the shared premium pool
+ alex@northwind.dev
+ Warming
+ 18 /40
+ sam@northwind.io
+ Warming
+ 14 /40
+ mia@northwind.dev
+ Warming
+ 12 /40
+ ops@northwind.co
+ Warming
+ 11 /40
+ jon@northwind.dev
+ Warming
+ 10 /40
+ Warmbly Cloud
+ From $29
+ Unlimited mailboxes warming in the shared premium pool, with replies and spam rescue, alongside sending, the inbox and the CRM. We run it, update it and support it. The better choice when deliverability matters.
+ Get started 
+ install.sh
+ $
+ curl -fsSL https://warmbly.com/install.sh | sh
+ Warmbly installer
+ ✓
+ Docker found
+ ?
+ Hostname or IP › outreach.northwind.dev
+ ?
+ Schedule a backup? › Yes
+ ✓
+ Images pulled
+ ✓
+ backend, worker and tracking healthy
+ Ready at https://outreach.northwind.dev
+ warmbly/warmbly
+ Apache 2.0 · Go, Rust, Elixir, React
+ Self-hosted
+ Free
+ The whole platform under Apache 2.0, on your own servers, with unlimited mailboxes. Warmup only pairs the mailboxes on your instance, with no shared pool, so it does far less for deliverability. Best for teams that want to own the whole stack. Community supported.
+ curl -fsSL https://warmbly.com/install.sh | sh 
+ Questions. 
+ Pricing, answered.
+ Something else? Email team@warmbly.com
+.
+ Do you charge per email sent? 
+ No. Each plan includes a daily send budget. Unused volume doesn’t carry over to the next day.
+ Is warmup charged separately? 
+ No. Warmup is unlimited on every paid plan and runs in the premium pool.
+ Is there really no mailbox limit? 
+ Mailboxes are unlimited on every paid plan under fair use: one mailbox for every email a day your plan includes, so Grow holds 3,000 and Business 15,000. If you need more, ask from the connect dialog and we usually answer within a business day.
+ Is there a free trial? 
+ Yes. A new workspace gets 14 days free with no card: two mailboxes warming in the free pool, 20 cold emails a day, the unified inbox and campaigns. Each owner gets one trial, on their first workspace. After it, connecting and warming mailboxes needs a paid plan, from $29 a month, and nothing you set up is deleted. Workspaces that already had the free plan keep it.
+ Can I pay for warmup only? 
+ Not any more. The Warmup plan is no longer sold, and workspaces already on it keep it while they stay subscribed. Every paid plan includes unlimited warmup in the premium pool.
+ What does self-hosting cost? 
+ Nothing. Warmbly is Apache 2.0, free to run on your own servers and fully functional on its own. Its warmup only pairs the mailboxes on your own instance, with no shared pool, and self-hosted instances do not link to the Warmbly Cloud pool. If deliverability is what you need, Warmbly Cloud is the better choice. Self-hosting suits experienced operators who want to own the whole stack: Warmbly does not support self-hosted instances, and help comes from the community on Discord.
+ Is there a charge per seat? 
+ No. Add as many teammates as you like. Roles and the audit log come with Business.
+ Do you charge per client for agencies? 
+ No. An agency plan covers every client workspace, with no limit on clients. Clients share one monthly send pool instead of a daily cap each, and you can add 50,000-send top-up packs when it runs low.
+ Can I pay yearly? 
+ Yes, with 20% off. Use the switch at the top of this page.
+ Can I buy as a business? 
+ Yes. Add your legal name and tax ID at checkout. They appear on your invoices, and reverse charge is applied where the rules allow it. Taxes are calculated from your billing address and shown before you pay.
+ What is your refund policy? 
+ A full refund within 14 days of a paid purchase if Warmbly didn’t work for you.
+ Do you have startup pricing? 
+ 50% off Grow for a year for pre-seed and seed companies from YC, Antler, EF, Techstars and similar programmes.
+ Try it free for 14 days.
+ Two mailboxes warming and 20 cold emails a day, no card needed. Every paid plan then includes unlimited mailboxes and unlimited warmup in the premium pool.
+ Get started 
+ Talk to sales
+ Warmbly
+ The deliverability platform for cold email. Warm your inboxes, send at scale, keep your reputation clean.
+All systems operational
+ Product
+ Warmup
+ Sending engine
+ Unified inbox
+ Campaigns
+ Automations
+ Analytics
+ CRM
+ API & Webhooks
+ Integrations
+ Changelog
+ Use cases
+ Founders
+ Agencies
+ Sales teams
+ Recruiters
+ Fundraising
+ Learn
+ Email warmup guide
+ Deliverability handbook
+ SPF, DKIM, DMARC
+ Cold email rules
+ Inbox placement
+ Warmup pools
+ Reputation recovery
+ Glossary
+ Company
+ About
+ Blog
+ Contact
+ Brand
+ Trust
+ Legal
+ Terms
+ Privacy
+ © 2026 Warmbly. Mindroot Ltd · company no. 16543299 · 71-75 Shelton Street, London WC2H 9JQ.
+ github.com/warmbly/warmbly
+ ·
+ Discord
+ ·
+ RSS
+ ·
+ Open source.
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Organization","@id":"https://warmbly.com#org","name":"Warmbly","legalName":"Mindroot Ltd","url":"https://warmbly.com","logo":"https://warmbly.com/web-app-manifest-512x512.png","image":"https://warmbly.com/og-image.jpg","description":"Warmbly pricing from $29 a month with unlimited mailboxes and unlimited warmup on every paid plan. Free to self-host, and 20% off yearly.","email":"team@warmbly.com","foundingDate":"2024","address":{"@type":"PostalAddress","streetAddress":"71-75 Shelton Street","addressLocality":"London","addressRegion":"England","postalCode":"WC2H 9JQ","addressCountry":"GB"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer support","email":"team@warmbly.com","availableLanguage":["en"]}],"identifier":"Companies House 16543299","sameAs":["https://github.com/warmbly/warmbly"]}
+{"@context":"https://schema.org","@type":"WebSite","name":"Warmbly","url":"https://warmbly.com","publisher":{"@id":"https://warmbly.com#org"}}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you charge per email sent?","acceptedAnswer":{"@type":"Answer","text":"No. Each plan includes a daily send budget. Unused volume doesn’t carry over to the next day."}},{"@type":"Question","name":"Is warmup charged separately?","acceptedAnswer":{"@type":"Answer","text":"No. Warmup is unlimited on every paid plan and runs in the premium pool."}},{"@type":"Question","name":"Is there really no mailbox limit?","acceptedAnswer":{"@type":"Answer","text":"Mailboxes are unlimited on every paid plan under fair use: one mailbox for every email a day your plan includes, so Grow holds 3,000 and Business 15,000. If you need more, ask from the connect dialog and we usually answer within a business day."}},{"@type":"Question","name":"Is there a free trial?","acceptedAnswer":{"@type":"Answer","text":"Yes. A new workspace gets 14 days free with no card: two mailboxes warming in the free pool, 20 cold emails a day, the unified inbox and campaigns. Each owner gets one trial, on their first workspace. After it, connecting and warming mailboxes needs a paid plan, from $29 a month, and nothing you set up is deleted. Workspaces that already had the free plan keep it."}},{"@type":"Question","name":"Can I pay for warmup only?","acceptedAnswer":{"@type":"Answer","text":"Not any more. The Warmup plan is no longer sold, and workspaces already on it keep it while they stay subscribed. Every paid plan includes unlimited warmup in the premium pool."}},{"@type":"Question","name":"What does self-hosting cost?","acceptedAnswer":{"@type":"Answer","text":"Nothing. Warmbly is Apache 2.0, free to run on your own servers and fully functional on its own. Its warmup only pairs the mailboxes on your own instance, with no shared pool, and self-hosted instances do not link to the Warmbly Cloud pool. If deliverability is what you need, Warmbly Cloud is the better choice. Self-hosting suits experienced operators who want to own the whole stack: Warmbly does not support self-hosted instances, and help comes from the community on Discord."}},{"@type":"Question","name":"Is there a charge per seat?","acceptedAnswer":{"@type":"Answer","text":"No. Add as many teammates as you like. Roles and the audit log come with Business."}},{"@type":"Question","name":"Do you charge per client for agencies?","acceptedAnswer":{"@type":"Answer","text":"No. An agency plan covers every client workspace, with no limit on clients. Clients share one monthly send pool instead of a daily cap each, and you can add 50,000-send top-up packs when it runs low."}},{"@type":"Question","name":"Can I pay yearly?","acceptedAnswer":{"@type":"Answer","text":"Yes, with 20% off. Use the switch at the top of this page."}},{"@type":"Question","name":"Can I buy as a business?","acceptedAnswer":{"@type":"Answer","text":"Yes. Add your legal name and tax ID at checkout. They appear on your invoices, and reverse charge is applied where the rules allow it. Taxes are calculated from your billing address and shown before you pay."}},{"@type":"Question","name":"What is your refund policy?","acceptedAnswer":{"@type":"Answer","text":"A full refund within 14 days of a paid purchase if Warmbly didn’t work for you."}},{"@type":"Question","name":"Do you have startup pricing?","acceptedAnswer":{"@type":"Answer","text":"50% off Grow for a year for pre-seed and seed companies from YC, Antler, EF, Techstars and similar programmes."}}]}

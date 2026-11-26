@@ -1,0 +1,445 @@
+#SNAPSHOT {"url":"https://github.com/w01fb0ss/PiBot","finalUrl":"https://github.com/w01fb0ss/PiBot","fetchedAt":"2026-11-26T03:37:34.365Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"83c6bf7d6afc3ca330c8ae05a030502ada498eb5b4781b5ad8787a1982b5d164"}
+GitHub - w01fb0ss/PiBot: Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi. · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects, and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ w01fb0ss
+ PiBot
+ Repository navigation
+ Code
+ Issues
+ 6
+  ( 6 )
+ Pull requests
+ 1
+  ( 1 )
+ Discussions
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ PiBot
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 88
+  ( 88
+)
+ Star 603
+  ( 603
+)
+ You must be signed in to star a repository
+ About
+ Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.
+ pibot.space
+ Topics
+ agent
+ ai-agent
+ ai-agents
+ ai-assistant
+ android
+ automation
+ chatgpt
+ coding-agent
+ computer-use
+ desktop-app
+ electron
+ llm
+ local-first
+ mcp
+ multi-agent
+ ollama
+ openai
+ privacy
+ self-hosted
+ typescript
+ Resources
+ Readme
+ Apache-2.0 license
+ Code of conduct
+ Code of conduct
+ Contributing
+ Contributing
+ Security policy
+ Security policy
+ Activity
+ Stars
+ 603 stars
+ Watchers
+ 2 watching
+ Forks
+ 88 
+ forks
+ Report repository
+ main
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 85 Commits
+ 85 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .github
+ .github
+ .vscode
+ .vscode
+ apps
+ apps
+ design/
+ canvas
+ design/
+ canvas
+ docs
+ docs
+ packages
+ packages
+ patches
+ patches
+ scripts
+ scripts
+ sdk/
+ plugin-sdk
+ sdk/
+ plugin-sdk
+ tests
+ tests
+ tools
+ tools
+ .editorconfig
+ .editorconfig
+ .gitattributes
+ .gitattributes
+ .gitignore
+ .gitignore
+ .npmrc
+ .npmrc
+ .nvmrc
+ .nvmrc
+ AGENTS.md
+ AGENTS.md
+ CLAUDE.md
+ CLAUDE.md
+ CODE_OF_CONDUCT.md
+ CODE_OF_CONDUCT.md
+ CONTRIBUTING.md
+ CONTRIBUTING.md
+ LICENSE
+ LICENSE
+ NOTICE
+ NOTICE
+ README.ja.md
+ README.ja.md
+ README.md
+ README.md
+ README.zh-CN.md
+ README.zh-CN.md
+ SECURITY.md
+ SECURITY.md
+ THIRD_PARTY_NOTICES
+ THIRD_PARTY_NOTICES
+ biome.json
+ biome.json
+ package.json
+ package.json
+ pnpm-lock.yaml
+ pnpm-lock.yaml
+ pnpm-workspace.yaml
+ pnpm-workspace.yaml
+ tsconfig.base.json
+ tsconfig.base.json
+ tsconfig.json
+ tsconfig.json
+ vitest.config.ts
+ vitest.config.ts
+ vitest.workspace.ts
+ vitest.workspace.ts
+ View all files
+ Repository files navigation
+ README
+ Code of conduct
+ Contributing
+ Apache-2.0 license
+ Security
+ More items
+ Pi Bot
+ An open-source, local-first AI agent team for your desktop. Named AI Bots work on your own
+computer: chat with one or put several in a group chat, and they plan, run commands, edit files,
+browse the web and use your computer, while every risky step waits for your approval. Runs on
+macOS, Windows and Linux, with an Android app. Built on the pi
+agent kernel.
+ ▶ Watch the 60-second video
+ · Download
+ · User guide
+ · Online docs
+ English
+ · 中文
+ · 日本語
+ Pi Bot is a desktop app in which a team of named Bots works on your own computer. You chat with a
+Bot directly or put several in a group chat, give them a working folder, and they plan, run
+commands, edit files and hand work to each other, while every risky step waits for your approval.
+The "brain" runs on your machine too: chats, files, memory and keys stay local, and only the
+model provider you choose sees the prompts you send.
+ Website and downloads: https://pibot.space
+ · User guide: docs/guide
+ · Online docs: https://pibot.space/en/guides/
+ What it does
+ Bots and roles. Create Bots with a name, a role (developer, researcher, writer, translator,
+…), their own model, skills, permissions and memory.
+ Direct and group chats. A group has a coordinator that plans, hands steps to members and
+collects the results; you confirm the plan before it runs.
+ Working folders and changes. Bots work inside folders you choose. Every change is listed,
+reviewable and, on macOS, restorable from automatic checkpoints.
+ Approvals and permissions. Every tool call goes through one policy engine. Commands run in
+a sandbox ( @anthropic-ai/sandbox-runtime 
+),
+and approvals, commands and anything sent outward are written to an audit log.
+ Routines and to-dos. Scheduled, folder-triggered and connection-triggered tasks.
+ Connections. Apps, MCP servers, skills and knowledge bases.
+ Models. Local models through Ollama, OpenRouter, your own API keys, and supported
+subscription sign-ins.
+ More devices, optional. An Android app, runners on other computers or servers, a relay you
+can host yourself, and use from editors over ACP.
+ Pi Bot runs on macOS 13 Ventura or later, Windows 10 / 11 and 64-bit Linux. It has no telemetry,
+and Pi Bot's own servers never receive your chats or files. Besides the model provider you choose,
+it connects only for update checks, the websites and searches your Bots use, and features you turn
+on (phone, runners, connections), each explained first. See
+ docs/privacy
+ for every outbound connection.
+ Install
+ Download the desktop app from https://pibot.space
+, then follow
+ Getting started
+.
+ Build from source
+ Requirements: Node from .nvmrc 
+ and pnpm 12.
+ git clone https://github.com/w01fb0ss/PiBot.git
+ cd
+ PiBot
+nvm use
+pnpm install
+pnpm dev #
+ start the desktop app in development
+ Set PIBOT_DATA_DIR to keep development data apart from an installed Pi Bot. Other commands:
+ Command
+ Purpose
+ pnpm check 
+ Frozen install, typecheck, lint, policy matrix and tests
+ pnpm check:changed [base] 
+ The same checks limited to what changed
+ pnpm verify 
+ check , build, renderer smoke test and the end-to-end acceptance suites
+ pnpm build 
+ electron-vite build (no installer)
+ Repository layout
+ Path
+ Contents
+ apps/desktop 
+ The Electron app (main process, renderer, packaging)
+ apps/mobile 
+ The Android app (React Native + Expo)
+ apps/relay 
+ The relay for phone and runner connections (Cloudflare Worker)
+ apps/runner , apps/cli 
+ The headless runner and command-line entry
+ apps/plugins 
+ Bundled plugins (MCP and/or skills)
+ packages/teams/builtin 
+ The roles and groups bundled for offline use; the full role library is pibot-roles
+ packages/* 
+ The brain and its capabilities, in five layers; see AGENTS.md
+ docs/guide , docs/privacy 
+ User guide and outbound-connection notes
+ tests , tools 
+ End-to-end suites, the fake model and development tools
+ The agent kernel is pi
+, pinned as an npm dependency and
+used only in packages/agent . The brain does not depend on Electron, so the same code runs
+headless.
+ Contributing
+ Issues and pull requests are welcome. Please read CONTRIBUTING.md
+ and the rules
+in AGENTS.md
+ first; report security problems as described in
+ SECURITY.md
+, not in public issues.
+ Contributors
+ Thank you to everyone who has contributed to Pi Bot. See the
+ contribution activity
+ on GitHub.
+ @w01fb0ss
+ @agooll
+ @juemimgcd
+ @eltociear
+ Thanks also to @rajnishmanitiwari
+, whose pull request
+ #25
+ independently arrived at the same fix as
+ #21
+.
+ Star History
+ License
+ Apache License 2.0
+. See NOTICE
+ and
+ THIRD_PARTY_NOTICES
+ for attributions.
+ About
+ Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.
+ pibot.space
+ Topics
+ agent
+ ai-agent
+ ai-agents
+ ai-assistant
+ android
+ automation
+ chatgpt
+ coding-agent
+ computer-use
+ desktop-app
+ electron
+ llm
+ local-first
+ mcp
+ multi-agent
+ ollama
+ openai
+ privacy
+ self-hosted
+ typescript
+ Resources
+ Readme
+ Apache-2.0 license
+ Code of conduct
+ Code of conduct
+ Contributing
+ Contributing
+ Security policy
+ Security policy
+ Activity
+ Stars
+ 603 stars
+ Watchers
+ 2 watching
+ Forks
+ 88 
+ forks
+ Report repository
+ Releases
+ Packages
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

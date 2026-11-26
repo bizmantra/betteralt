@@ -1,0 +1,173 @@
+#SNAPSHOT {"url":"https://usetuff.com/pricing","finalUrl":"https://usetuff.com/pricing","fetchedAt":"2026-11-26T03:37:33.778Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"ff2c9174a08a8bde413940259a80ec18ee31938927902de2eeaf3e5607fc9032"}
+Pricing — Tuff: one price for the workspace, not per seat 
+ Features
+ AI agents
+ Pricing
+ FAQ
+ Sign in
+ Start free
+ Pricing
+ One price for the workspace, not per seat
+ Each plan has a ceiling on people and storage. You only move up when you go past it.
+ Duo
+ For two people
+getting started.
+ Free
+ Forever
+ Start for free
+ 2 people
+ 250 MB of files
+ No AI agents
+ Projects, tasks and boards
+ Chat and direct messages
+ Docs and files
+ Announcements
+ Time tracking
+ Two-way GitHub sync
+ Team
+ The plan
+most teams pick.
+ $25
+ Per month
+ Start with Team
+ Or pay once: lifetime on AppSumo ↗
+ 10 people
+ 25 GB of files
+ AI agents over MCP
+ Projects, tasks and boards
+ Chat and direct messages
+ Docs and files
+ Announcements
+ Time tracking
+ Two-way GitHub sync
+ Company
+ For a company
+of up to a hundred.
+ $99
+ Per month
+ Start with Company
+ 100 people
+ 100 GB of files
+ AI agents over MCP
+ Projects, tasks and boards
+ Chat and direct messages
+ Docs and files
+ Announcements
+ Time tracking
+ Two-way GitHub sync
+ Unlimited
+ Any team size.
+No limits.
+ $299
+ Per month
+ Start with Unlimited
+ Any number of people
+ 1 TB of files
+ AI agents over MCP
+ Projects, tasks and boards
+ Chat and direct messages
+ Docs and files
+ Announcements
+ Time tracking
+ Two-way GitHub sync
+ Every paid plan starts with a 3-day free trial
+. Prices in US dollars, plus tax where it applies. Cancel any time. 14-day refund
+ on your first payment.
+ Run Tuff on your own server
+ Tuff is open source and free to self-host, with no limit on people or projects. Deploy it on Railway in one click, or run it anywhere with Docker.
+ Deploy on Railway
+ Run it with Docker
+ Savings
+ See what you’d save
+ Slack and a project tool charge for every person. Tuff charges for the workspace.
+ −
+ People +
+ Slack Pro
+ Business+
+ Asana
+ Notion
+ Linear
+ None
+ Per month
+ Per-seat stack
+Slack Pro + Asana
+ Flat price
+Tuff Company
+ Priced
+ Per person
+ Per workspace
+ People
+ 50
+ 50
+ Monthly¹
+ $1,112
+ $99
+ Yearly
+ $13,344
+ $1,188
+ You’d save 2 
+ $12,156
+ a year
+ FAQ
+ FAQs
+ Your questions answered
+ Can’t find what you’re looking for? Look in Tuff Help
+ or write to [email protected]
+.
+ Pricing
+ Is it really not priced per seat?
+ Yes. You pay one price for the workspace. Each plan has a ceiling on people and storage, and you only move up when you go past it.
+ What happens when we grow past our plan?
+ Nothing is deleted and nobody is removed. You can’t add more people or files until you move to a bigger plan or make room.
+ Can I cancel any time?
+ Yes, in the workspace’s settings. Your plan stays until the end of the period you paid for, then the workspace goes back to Duo. You can get a full refund within 14 days of your first payment — refund policy
+.
+ Bring your team into one place
+ Tasks, docs, chat and your AI agents — at one flat price. Free for two people, no card needed.
+ Start for free
+ Tuff is a project management app for teams and their AI agents.
+ Tuff
+ Features
+ Pricing
+ Help
+ App Store
+ Agent board (free)
+ For
+ Product teams
+ Agencies
+ Studios
+ Compare
+ vs Basecamp
+ vs Asana
+ vs Linear
+ vs Slack
+ vs ClickUp
+ vs Trello
+ vs Notion
+ vs monday.com
+ Alternatives
+ To Basecamp
+ To Asana
+ To Linear
+ To Slack
+ To ClickUp
+ To Trello
+ To Notion
+ To monday.com
+ Company
+ About
+ Changelog
+ Contact
+ Terms
+ Privacy
+ Refunds
+ 1. Monthly list prices per person in US dollars, from each company’s pricing page in October 2026: Slack Pro $8.75, Business+ $18, Asana Starter $13.49, Notion Plus $12. Linear lists only its yearly price, $10. Before tax.
+ 2. Against the Tuff plan that fits your team size, at its monthly price.
+ © 2026 Tuff. All rights reserved.
+ English
+ Français
+System status
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Tuff","alternateName":"Tuff project management","url":"https://usetuff.com","applicationCategory":"BusinessApplication","operatingSystem":"Web, iOS, Android, macOS, Windows","description":"Tuff is a project management app for teams and their AI agents: tasks, chat and docs in one place, at one flat price for the whole team — not per seat.","offers":[{"@type":"Offer","name":"Duo","price":"0","priceCurrency":"USD","description":"For two people getting started. 2 people, 250 MB of files."},{"@type":"Offer","name":"Team","price":"25","priceCurrency":"USD","description":"The plan most teams pick. 10 people, 25 GB of files."},{"@type":"Offer","name":"Company","price":"99","priceCurrency":"USD","description":"For a company of up to a hundred. 100 people, 100 GB of files."},{"@type":"Offer","name":"Unlimited","price":"299","priceCurrency":"USD","description":"Any team size. No limits. Any number of people, 1 TB of files."}],"downloadUrl":"https://apps.apple.com/app/id6827503722"}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is it really not priced per seat?","acceptedAnswer":{"@type":"Answer","text":"Yes. You pay one price for the workspace. Each plan has a ceiling on people and storage, and you only move up when you go past it."}},{"@type":"Question","name":"What happens when we grow past our plan?","acceptedAnswer":{"@type":"Answer","text":"Nothing is deleted and nobody is removed. You can’t add more people or files until you move to a bigger plan or make room."}},{"@type":"Question","name":"Can I cancel any time?","acceptedAnswer":{"@type":"Answer","text":"Yes, in the workspace’s settings. Your plan stays until the end of the period you paid for, then the workspace goes back to Duo. You can get a full refund within 14 days of your first payment — refund policy."}}]}

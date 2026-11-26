@@ -1,0 +1,150 @@
+#SNAPSHOT {"url":"https://openwebui.com","finalUrl":"https://openwebui.com/","fetchedAt":"2026-11-26T03:33:29.131Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"f852f6a18da13848a9bcb0b0254825189e26fa40a60bf049e655fcdbbb0610bd"}
+Open WebUI: Self-Hosted AI Platform 
+ Product
+ Open WebUI
+ Private AI for your organization. A complete workspace for agents on your own
+ machine.
+ Sovereign AI
+ On-premises, in your cloud, or fully air-gapped.
+ Open Terminal
+ A computer for your AI agents.
+ Resources
+ Resources
+ Stories, updates, and guides from Open WebUI.
+ Blog
+ News and ideas from the team.
+ Docs
+ Get started and explore the documentation.
+ Switch
+ Make the case, run a pilot, and plan your rollout.
+ Community
+ Explore what the community is building.
+ Customers
+ See how teams use Open WebUI.
+ Careers
+ Join the Open WebUI team.
+ Community
+ Customers
+ Sign In
+ Open WebUI
+ The freedom AI stack.
+ Run AI on your own terms. Connect any model, extend with code, and protect what matters
+ without compromise. Your models, your data, your machine, wherever you open it.
+ Get Open WebUI 
+ Join the community 543K+ members
+ Looking for Enterprise? Talk to our team →
+ Freedom is self-hosted. Your AI, running on your own ground, wherever you are.
+ The self-hosted AI interface.
+ Open WebUI is the platform for running AI on your own terms. Connect to any model, local
+ or cloud. Extend with Python. Share what you build, run what others share. Yours to keep,
+ wherever you take it.
+ Learn more 
+ Explore Open Terminal 
+ The network
+ 494M+
+ downloads
+ 543K+
+ community members
+ 160K+
+ GitHub stars
+ A home for AI, at any scale.
+ Built for you
+ Every model, every conversation, and every tool in one place. Connect to Ollama, OpenAI,
+ Anthropic, or anything compatible. Run locally, in the cloud, or both. Data stays exactly
+ where it belongs.
+ Documentation 
+ Built for scale
+ From startups to global enterprises. SSO, RBAC, audit logs, data residency, and on-premises
+ or air-gapped deployment for regulated industries. One platform. Complete control. No
+ compromises.
+ Explore Sovereign AI 
+ The path to this door is yours to walk, and yours to share. Run AI on your own hardware, and
+ it grows with you, wherever you take it. 
+ Community
+ 542,617 members sharing what they've built.
+ Models, skills, tools, functions, discussions, and reviews, all created by the community and
+ available to everyone. Browse, install, contribute. Everything at openwebui.com.
+ Explore the community 
+ A library belongs to everyone who walks in. Everything on these shelves was made by someone,
+ and left for whoever comes next. 
+ Full toolkit
+ Everything AI offers. Available now.
+ Voice, vision, retrieval, generation, search. Extend with Python. Ready from day one.
+ Models
+ Any persona, any configuration
+ Skills
+ Reusable instructions and supporting files
+ Tools
+ RAG, search, execution
+ Functions
+ Python pipelines
+ Our mission
+ “Open WebUI is being built so everyone can run AI for themselves.
+ Not rent it. Not depend on it. Own it. Self-sufficient, adaptable, and ready for wherever
+ humanity goes,
+ from a laptop to the stars.
+ ”
+ Get started
+ Explore the cosmos
+ Wherever you are.
+ pip 
+ Docker 
+ $
+ pip install open-webui
+ One command. 60 seconds. No account required. Run it anywhere.
+ View on GitHub 
+ Enterprise options 
+ From the blog
+ November 19, 2026
+ Open WebUI v0.13.4: AI that does the work, not just answers
+ Ask for a chart and get one you can click, make a video from a picture, and hand whole jobs to agents like Claude Code and Codex, from any device.
+ November 18, 2026
+ Introducing Terminals: a computer for everyone on your team in Open WebUI
+ Terminals runs a sandboxed computer for each person, chat, or model in Open WebUI, on your own servers, inside limits IT sets once.
+ November 18, 2026
+ What is Open Terminal, the computer your model works on in Open WebUI
+ Open Terminal gives the model in Open WebUI a real computer to run commands, edit files, and use coding agents on. What it is, and how to set it up from scratch.
+ View all articles 
+ A clear path from interest to everyday use.
+ Make the case, run a focused pilot, and plan your rollout. Our four-part guide helps you
+ bring Open WebUI to your organization.
+ Explore the switch guide 
+ Product
+ Open Terminal
+ Documentation
+ Alternatives
+ Changelog
+ Solutions
+ Sovereign AI
+ Defense
+ Government
+ Healthcare
+ Education
+ Finance
+ Legal
+ Enterprise
+ Community
+ Leaderboard
+ Model Reviews
+ Discord
+ GitHub
+ Company
+ Customers 
+ Whitepaper 
+ Careers 
+ We're hiring! 
+ Blog 
+ Contact 
+ openwebui
+ © 2026 Open WebUI. All rights reserved.
+ Terms
+ Privacy
+ Cookie settings
+ We use optional analytics to improve our websites, and advertising cookies on this site. Privacy Policy
+.
+ Accept
+ Reject
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"WebSite","name":"Open WebUI Community","url":"https://openwebui.com","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://openwebui.com/search?q={search_term_string}"},"query-input":"required name=search_term_string"}}
+{"@context":"https://schema.org","@type":"Organization","name":"Open WebUI","url":"https://openwebui.com","logo":"https://openwebui.com/logo.png","sameAs":["https://github.com/open-webui/open-webui","https://twitter.com/OpenWebUI","https://discord.gg/5rJgQTnV4s"]}

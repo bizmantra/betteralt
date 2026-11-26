@@ -1,0 +1,282 @@
+#SNAPSHOT {"url":"https://github.com/lxe/phoneuse","finalUrl":"https://github.com/lxe/phoneuse","fetchedAt":"2026-11-26T03:37:31.938Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"6c641705667ba0d109ccaec76bdb388f81c614d8ca5d442f2c3d90b3d9577882"}
+GitHub - lxe/phoneuse: See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents. · GitHub 
+ Skip to content
+ Navigation Menu
+ Sign in
+ Products 
+ Platform
+ GitHub
+ Repository hosting, code review, and collaboration
+ Copilot
+ AI coding agent for tasks, projects, and automated work
+ Build & Ship
+ Actions
+ CI/CD and automation
+ Code Quality
+ Quality analysis, fixes, and enforcement
+ Codespaces
+ Cloud development environments
+ Secure
+ Code Security
+ Vulnerability detection and remediation
+ Secret Protection
+ Secret scanning and leak prevention
+ All Features
+ Developers 
+ Learn
+ Documentation
+ Training
+ Certifications
+ Build
+ Build with Copilot
+ Customize Copilot
+ Integrations
+ Explore
+ Trending repos
+ GitHub Sponsors
+ Developer articles
+ Changelog
+ Changelog
+ Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+ Businesses 
+ By Stage
+ Enterprises
+ Team
+ Startups
+ Nonprofits
+ By Industry
+ Healthcare
+ Financial services
+ Manufacturing
+ Government
+ See all industries
+ Evaluate GitHub
+ Why GitHub
+ Customer Stories
+ Business insights
+ Trust Center
+ Add-ons
+ GitHub Advanced Security
+ Enterprise-grade code security
+ Copilot for business
+ Enterprise-grade AI features
+ Premium Support
+ Enterprise-grade 24/7 support
+ Resources 
+ Learn & Connect
+ Documentation
+ Resource center
+ Blog
+ Events & webinars
+ Community Forum
+ Customer Stories
+ Integrations
+ Support
+ Customer support
+ Training
+ GitHub Status
+ Company
+ About
+ Partners
+ Changelog
+ GitHub Universe
+ GitHub Universe
+ The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+ Pricing
+ Search
+ / 
+ Sign in
+ Sign up
+ Appearance settings
+ You signed in with another tab or window. Reload
+ to refresh your session.
+ You signed out in another tab or window. Reload
+ to refresh your session.
+ You switched accounts on another tab or window. Reload
+ to refresh your session.
+ Dismiss alert 
+ lxe
+ phoneuse
+ Repository navigation
+ Code
+ Issues
+ 6
+  ( 6 )
+ Pull requests
+ Actions
+ Projects
+ Security and quality
+ Insights
+ More items
+ phoneuse
+ Public
+ Notifications
+ You must be signed in to change notification settings
+ Fork 68
+  ( 68
+)
+ Star 717
+  ( 717
+)
+ You must be signed in to star a repository
+ About
+ See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.
+ Resources
+ Readme
+ MIT license
+ Activity
+ Stars
+ 717 stars
+ Watchers
+ 3 watching
+ Forks
+ 68 
+ forks
+ Report repository
+ master
+ Branches
+ Tags
+ Go to file
+ Code
+ Open more actions menu
+ Latest commit
+ History
+ 436 Commits
+ 436 Commits
+ Folders and files
+ Name
+ Name
+ Last commit message
+ Last commit date
+ .github/
+ workflows
+ .github/
+ workflows
+ bin
+ bin
+ bridge
+ bridge
+ docs
+ docs
+ ios
+ ios
+ mac
+ mac
+ packaging
+ packaging
+ phoneuse
+ phoneuse
+ relay
+ relay
+ scripts
+ scripts
+ shortcuts
+ shortcuts
+ site
+ site
+ skill
+ skill
+ tests
+ tests
+ tools
+ tools
+ touchlab
+ touchlab
+ windows
+ windows
+ .gitattributes
+ .gitattributes
+ .gitignore
+ .gitignore
+ ARCHITECTURE.md
+ ARCHITECTURE.md
+ LICENSE
+ LICENSE
+ README.md
+ README.md
+ pyproject.toml
+ pyproject.toml
+ View all files
+ Repository files navigation
+ README
+ MIT license
+ More items
+ Phone Use
+ phoneuse.tech
+ · Download
+ Let your AI agent, or you, use your iPhone from your computer. Your iPhone's screen
+shows up in a window, and Claude Code, Codex and other agents can tap and type on it,
+with your permission. No jailbreak and no cable.
+ Phone Use is alpha software. Please report what breaks
+.
+ Install
+ Download Phone Use for your computer from the
+ latest release
+:
+ Linux: PhoneUse-<version>-x86_64.flatpak , then
+ flatpak install --user ./PhoneUse-<version>-x86_64.flatpak 
+ Mac (macOS 15 or later): PhoneUse-<version>-mac.dmg . Drag Phone Use to Applications.
+The Mac app needs the bridge
+.
+ Windows: from source for now, see docs/WINDOWS.md
+.
+ Install the Phone Use iPhone app from the
+ App Store
+.
+ Open Phone Use on your computer. It walks you through the rest: connecting the
+keyboard and mouse, pairing the iPhone app, and starting Screen Mirroring.
+ Your iPhone and your computer need to be on the same Wi-Fi.
+ Use it
+ Yourself: click Open iPhone. Click to tap, drag to swipe, scroll with your mouse
+wheel, and type on your keyboard.
+ With an agent: click Connect Claude Code in the app. Phone Use can ask you on your
+iPhone before an agent takes control, and you can take over at any time.
+ The bridge
+ The bridge is a small board that joins your Wi-Fi and acts as your iPhone's keyboard
+and mouse, so your computer's Bluetooth stays free. Buy a
+ LilyGO T-Display
+ and flash it from the Linux
+app (Bridge › Flash LilyGO T-Display). docs/BRIDGE.md
+ has the other
+ways to flash it and how it works.
+ More
+ Running from source
+ and Windows
+ How it works
+ The iPhone app and its API
+ The website
+ · Privacy policy
+ Contributors
+ License
+ MIT
+ About
+ See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.
+ Resources
+ Readme
+ MIT license
+ Activity
+ Stars
+ 717 stars
+ Watchers
+ 3 watching
+ Forks
+ 68 
+ forks
+ Report repository
+ Releases
+ Packages
+ Contributors
+ Languages
+ Footer
+ &copy; 2026 GitHub, Inc.
+ Footer navigation
+ Terms
+ Privacy
+ Security
+ Status
+ Community
+ Docs
+ Contact
+ Manage cookies
+ Do not share my personal information
+ You can’t perform that action at this time.

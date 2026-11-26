@@ -1,0 +1,1035 @@
+#SNAPSHOT {"url":"https://www.krea.ai/pricing","finalUrl":"https://www.krea.ai/pricing","fetchedAt":"2026-11-26T03:36:36.658Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"066b1d7b2377beba692fd8b59c66ce18d84519a63031e383d402d28de752687d"}
+Krea Pricing | AI Creative Tools for Everyone 
+ App
+ Features 
+ Plugins 
+ Image
+ Image Generator
+ Video
+ Video Generator
+ Upscaler
+ API
+ MCP
+ Pricing 
+ Enterprise
+ svg]:px-3 rounded-full hover:bg-primary-100 gap-0 border-[0.5px] border-black/20 bg-white text-black!" type="button"> Sign up for free 
+ svg]:px-3 rounded-full bg-primary-800 hover:bg-primary-850 text-white" type="button"> Log in 
+ Create
+ Krea Agent New
+ Describe it, Agent makes it
+ Image 
+ Krea 3, Nano Banana & more
+ Video 
+ Seedance, Kling, Veo & more
+ Image to Video 
+ Animate any photo with AI
+ AI Voice 
+ Voiceovers from any script
+ Realtime 
+ Instant renders as you draw
+ 3D Objects 
+ Models from text or images
+ Edit & enhance
+ Image Editor 
+ Edit any image with words
+ Upscaler 
+ Images and video up to 22K
+ Motion Transfer 
+ Animate any character
+ Video Face Swap 
+ Swap faces and characters in videos
+ Lipsync 
+ Sync any video to any audio
+ Build & customize
+ Nodes 
+ Chain models into workflows
+ Train 
+ Teach Krea your style
+ Moodboards 
+ Steer style with references
+ Mini apps 
+ Community-made tools
+ New model
+ Krea 3
+ Our most advanced image model. Photoreal, editorial, on-brand.
+ Try Krea 3 
+ 20+ AI tools for images, video, 3D and audio in one app.
+ Open Krea 
+ svg]:px-3 rounded-full hover:bg-primary-100 gap-0 border-[0.5px] border-black/20 bg-white text-black!" type="button"> Sign up for free 
+ svg]:px-3 rounded-full bg-primary-800 hover:bg-primary-850 text-white" type="button"> Log in 
+ App
+ Image Generation
+ Video Generation
+ Upscale & Enhance
+ Mini Apps
+ MCP
+ Plugins Plugins
+ Photoshop
+ Generate and edit images in Photoshop.
+ After Effects
+ Create and animate in After Effects.
+ Illustrator
+ Generate artwork and vectorize it in Illustrator.
+ Premiere Pro
+ Generate video inside your timeline.
+ DaVinci Resolve
+ Create cinematic video in DaVinci Resolve.
+ Blender
+ Create images and video for your 3D scenes.
+ Rhino
+ Build models and render your viewports in Rhino.
+ ChatGPT
+ Create with Krea directly in your chats.
+ All Krea plugins 
+ Create
+ Krea Agent New
+ Describe it, Agent makes it
+ Image 
+ Krea 3, Nano Banana & more
+ Video 
+ Seedance, Kling, Veo & more
+ Image to Video 
+ Animate any photo with AI
+ AI Voice 
+ Voiceovers from any script
+ Realtime 
+ Instant renders as you draw
+ 3D Objects 
+ Models from text or images
+ Edit & enhance
+ Image Editor 
+ Edit any image with words
+ Upscaler 
+ Images and video up to 22K
+ Motion Transfer 
+ Animate any character
+ Video Face Swap 
+ Swap faces and characters in videos
+ Lipsync 
+ Sync any video to any audio
+ Build & customize
+ Nodes 
+ Chain models into workflows
+ Train 
+ Teach Krea your style
+ Moodboards 
+ Steer style with references
+ Mini apps 
+ Community-made tools
+ Seedance 2.5 up to 75% off
+ 04
+ Hours
+ 23
+ Minutes
+ 23
+ Seconds
+ Final
+ hours,
+ up
+ to
+ 75% off
+ Black
+ Friday
+ ·
+ The
+ best
+ Seedance
+ 2.5
+ price
+ on
+ the
+ market
+ Expiring in
+ 04
+ Hours
+ 23
+ Minutes
+ 23
+ Seconds
+ Pick your plan
+ Monthly svg]:pointer-events-none h-4.5 gap-1 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 bg-action border-transparent text-white"> 25% off 
+ Yearly svg]:pointer-events-none h-4.5 gap-1 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 bg-action border-transparent text-white"> 70% off 
+ Need help choosing a plan? 
+ Model Licensing
+ Looking for API?
+ Basic
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge text-[12px] leading-none bg-blue-600 text-white"> 40% off 
+ 5,000 units / month
+ ~200 Nano Banana 2.1 generations
+ ~16 Seedance 2.5 videos
+ $9 
+ $5 /month
+ svg]:px-8 font-book h-10 w-full justify-center rounded-full text-sm active:scale-[0.99] bg-primary-200 text-primary-900 dark:bg-white/15 dark:text-white" type="button"> Get Basic 
+ Save $48
+ compared to monthly 
+ Black Friday model prices
+ Black Friday
+ Seedance 2.5
+ Kling 4.0
+ Krea 3
+ GPT Image 2.6
+ Nano Banana Pro
+ Krea 3 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Krea Agent 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ All image models 
+ Selected video models 
+ All 3D & lipsync models 
+ LoRA training (50 images) 
+ Image upscaling up to 22K 
+ Krea Nodes 
+ App Builder 
+ Early access to new features 
+ Commercial license 
+ Bulk discounts on compute unit packs 
+ Unlimited relaxed generations 
+ Expanded concurrency and queueing 
+ svg]:pointer-events-none h-4.5 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 mt-4 max-w-full min-w-0 gap-1 border-transparent bg-blue-600 text-white cursor-pointer transition-colors hover:bg-blue-700 invisible"> Promo placeholder
+ svg]:pointer-events-none has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] rounded-full [a&]:hover:bg-primary/80 h-auto max-w-full flex-none items-center justify-center gap-1.5 border-0 text-center text-sm leading-tight font-medium whitespace-normal shadow-none bg-transparent px-0 py-0 text-white [&>svg]:size-3 [&>svg]:shrink-0 [&>svg]:fill-current"> Most popular
+ Pro
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge text-[12px] leading-none bg-white text-blue-600"> 50% off 
+ 20,000 units / month
+ ~803 Nano Banana 2.1 generations
+ ~65 Seedance 2.5 videos
+ $42 
+ $21 /month
+ svg]:px-8 font-book h-10 w-full justify-center rounded-full text-sm active:scale-[0.99] bg-action text-white dark:bg-white dark:text-black" type="button"> Get Pro 
+ Save $168
+ compared to monthly 
+ Black Friday model prices
+ Black Friday
+ Seedance 2.5
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -60% 
+ Kling 4.0
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -20% 
+ Krea 3
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -25% 
+ GPT Image 2.6
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -20% 
+ Nano Banana Pro
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -45% 
+ Krea 3 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Krea Agent 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ All image models 
+ All video models 
+ All 3D & lipsync models 
+ LoRA training (50 images) 
+ Image upscaling up to 22K 
+ Krea Nodes 
+ App Builder 
+ Early access to new features 
+ Commercial license 
+ Bulk discounts on compute unit packs 
+ Unlimited relaxed generations 
+ Expanded concurrency and queueing 
+ svg]:pointer-events-none h-4.5 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 mt-4 max-w-full min-w-0 gap-1 border-transparent bg-blue-600 text-white cursor-pointer transition-colors hover:bg-blue-700 invisible"> Promo placeholder
+ Max
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge text-[12px] leading-none bg-blue-600 text-white"> 70% off 
+ 60,000 units / month
+ ~2,410 Nano Banana 2.1 generations
+ ~197 Seedance 2.5 videos
+ 40k 
+ 60k 
+ 80k 
+ 100k 
+ $140 
+ $42 /month
+ svg]:px-8 font-book h-10 w-full justify-center rounded-full text-sm active:scale-[0.99] bg-action text-white dark:bg-white dark:text-black" type="button"> Get Max 
+ Save $756
+ compared to monthly 
+ Black Friday model prices
+ Black Friday
+ Seedance 2.5
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -75% 
+ Kling 4.0
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -50% 
+ Krea 3
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -50% 
+ GPT Image 2.6
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -45% 
+ Nano Banana Pro
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -65% 
+ Krea 3 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Krea Agent 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ All image models 
+ All video models 
+ All 3D & lipsync models 
+ Unlimited LoRA training (2,000 images) 
+ Image upscaling up to 22K 
+ Krea Nodes 
+ App Builder 
+ Early access to new features 
+ Commercial license 
+ Bulk discounts on compute unit packs 
+ Unlimited relaxed generations 
+ Expanded concurrency and queueing 
+ svg]:pointer-events-none h-4.5 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 mt-4 max-w-full min-w-0 gap-1 border-transparent bg-blue-600 text-white cursor-pointer transition-colors hover:bg-blue-700 invisible"> Promo placeholder
+ See all features 
+ For Teams and Enterprises
+ SOC 2
+ Business
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge text-[12px] leading-none bg-blue-600 text-white"> 52% off 
+ 80k units /month
+ ~3,214 Nano Banana 2.1 generations
+ ~262 Seedance 2.5 videos
+ 20k 
+ 40k 
+ 80k 
+ 160k 
+ 240k 
+ 400k 
+ 500k 
+ 750k 
+ 1M 
+ 1.5M 
+ $200 
+ $96 /month
+ svg]:px-8 font-book bg-primary-200 text-primary-900 dark:bg-white dark:text-black h-10 w-full justify-center gap-0.5 rounded-full text-sm active:scale-[0.99]" type="button"> Try Business 
+ Krea 3 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Krea Agent 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Up to 50 seats included 
+ Business Terms of Service 
+ Share private Node Apps with your workspace 
+ Custom user roles and permissions 
+ Fine-grained controls for model access 
+ Commercial license 
+ Unlimited relaxed generations 
+ Unlimited LoRA training (2,000 images) 
+ Custom Terms of Service 
+ SAML Single Sign-On (SSO) 
+ Priority support with SLA 
+ Per-member spend limits 
+ Indemnification 
+ SOC 2 
+ Image concurrency
+ Unlimited
+ Video concurrency
+ Unlimited
+ Images per LoRA
+ 2000
+ Enterprise
+ Custom pricing
+ svg]:px-8 font-book h-10 w-full justify-center rounded-full bg-white text-sm text-black active:scale-[0.99]" type="button"> Contact Sales 
+ Krea 3 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Krea Agent 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Custom seat count 
+ Share private Node Apps with your workspace 
+ Custom user roles and permissions 
+ Fine-grained controls for model access 
+ Commercial license 
+ Unlimited relaxed generations 
+ Custom Terms of Service 
+ SAML Single Sign-On (SSO) 
+ Priority support with SLA 
+ Per-member spend limits 
+ Indemnification 
+ SOC 2 
+ Slack connect 
+ Custom compute packages 
+ Audit logs svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full bg-background [a&]:hover:bg-muted ml-1 border-amber-500/30 text-xs text-amber-400"> SOON 
+ Image concurrency
+ Unlimited
+ Video concurrency
+ Unlimited
+ Images per LoRA
+ Custom
+ Final
+ hours,
+ up
+ to
+ 75% off
+ Black
+ Friday
+ ·
+ The
+ best
+ Seedance
+ 2.5
+ price
+ on
+ the
+ market
+ Expiring in
+ 04
+ Hours
+ 23
+ Minutes
+ 23
+ Seconds
+ For Individual Creators
+ Basic
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge text-[12px] leading-none bg-blue-600 text-white"> 40% off 
+ 5,000 units / month
+ ~200 Nano Banana 2.1 generations
+ ~16 Seedance 2.5 videos
+ $9 
+ $5 /month
+ svg]:px-8 font-book h-10 w-full justify-center rounded-full text-sm active:scale-[0.99] bg-primary-200 text-primary-900 dark:bg-white/15 dark:text-white" type="button"> Get Basic 
+ Save $48
+ compared to monthly 
+ Black Friday model prices
+ Black Friday
+ Seedance 2.5
+ Kling 4.0
+ Krea 3
+ GPT Image 2.6
+ Nano Banana Pro
+ Krea 3 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Krea Agent 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ All image models 
+ Selected video models 
+ All 3D & lipsync models 
+ LoRA training (50 images) 
+ Image upscaling up to 22K 
+ Krea Nodes 
+ App Builder 
+ Early access to new features 
+ Commercial license 
+ Bulk discounts on compute unit packs 
+ Unlimited relaxed generations 
+ Expanded concurrency and queueing 
+ svg]:pointer-events-none h-4.5 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 mt-4 max-w-full min-w-0 gap-1 border-transparent bg-blue-600 text-white cursor-pointer transition-colors hover:bg-blue-700 invisible"> Promo placeholder
+ svg]:pointer-events-none has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] rounded-full [a&]:hover:bg-primary/80 h-auto max-w-full flex-none items-center justify-center gap-1.5 border-0 text-center text-sm leading-tight font-medium whitespace-normal shadow-none bg-transparent px-0 py-0 text-white [&>svg]:size-3 [&>svg]:shrink-0 [&>svg]:fill-current"> Most popular
+ Pro
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge text-[12px] leading-none bg-white text-blue-600"> 50% off 
+ 20,000 units / month
+ ~803 Nano Banana 2.1 generations
+ ~65 Seedance 2.5 videos
+ $42 
+ $21 /month
+ svg]:px-8 font-book h-10 w-full justify-center rounded-full text-sm active:scale-[0.99] bg-action text-white dark:bg-white dark:text-black" type="button"> Get Pro 
+ Save $168
+ compared to monthly 
+ Black Friday model prices
+ Black Friday
+ Seedance 2.5
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -60% 
+ Kling 4.0
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -20% 
+ Krea 3
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -25% 
+ GPT Image 2.6
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -20% 
+ Nano Banana Pro
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -45% 
+ Krea 3 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Krea Agent 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ All image models 
+ All video models 
+ All 3D & lipsync models 
+ LoRA training (50 images) 
+ Image upscaling up to 22K 
+ Krea Nodes 
+ App Builder 
+ Early access to new features 
+ Commercial license 
+ Bulk discounts on compute unit packs 
+ Unlimited relaxed generations 
+ Expanded concurrency and queueing 
+ svg]:pointer-events-none h-4.5 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 mt-4 max-w-full min-w-0 gap-1 border-transparent bg-blue-600 text-white cursor-pointer transition-colors hover:bg-blue-700 invisible"> Promo placeholder
+ Max
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge text-[12px] leading-none bg-blue-600 text-white"> 70% off 
+ 60,000 units / month
+ ~2,410 Nano Banana 2.1 generations
+ ~197 Seedance 2.5 videos
+ 40k 
+ 60k 
+ 80k 
+ 100k 
+ $140 
+ $42 /month
+ svg]:px-8 font-book h-10 w-full justify-center rounded-full text-sm active:scale-[0.99] bg-action text-white dark:bg-white dark:text-black" type="button"> Get Max 
+ Save $756
+ compared to monthly 
+ Black Friday model prices
+ Black Friday
+ Seedance 2.5
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -75% 
+ Kling 4.0
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -50% 
+ Krea 3
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -50% 
+ GPT Image 2.6
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -45% 
+ Nano Banana Pro
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -65% 
+ Krea 3 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Krea Agent 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ All image models 
+ All video models 
+ All 3D & lipsync models 
+ Unlimited LoRA training (2,000 images) 
+ Image upscaling up to 22K 
+ Krea Nodes 
+ App Builder 
+ Early access to new features 
+ Commercial license 
+ Bulk discounts on compute unit packs 
+ Unlimited relaxed generations 
+ Expanded concurrency and queueing 
+ svg]:pointer-events-none h-4.5 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 mt-4 max-w-full min-w-0 gap-1 border-transparent bg-blue-600 text-white cursor-pointer transition-colors hover:bg-blue-700 invisible"> Promo placeholder
+ See all features 
+ For Teams and Enterprises
+ SOC 2
+ Business
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge text-[12px] leading-none bg-blue-600 text-white"> 52% off 
+ Secure and collaborative workspace for growing teams
+ 80k units /month
+ ~3,214 Nano Banana 2.1 generations
+ ~262 Seedance 2.5 videos
+ 20k 
+ 40k 
+ 80k 
+ 160k 
+ 240k 
+ 400k 
+ 500k 
+ 750k 
+ 1M 
+ 1.5M 
+ $200 
+ $96 /month
+ svg]:px-8 font-book h-10 w-[225px] shrink-0 justify-center rounded-full bg-primary-200 text-sm font-medium text-primary-900 transition-colors duration-200 active:scale-[0.99] dark:bg-white dark:text-black" type="button"> Try Business 
+ Krea 3 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Krea Agent 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Up to 50 seats included 
+ Business Terms of Service 
+ Share private Node Apps with your workspace 
+ Custom user roles and permissions 
+ Fine-grained controls for model access 
+ Commercial license 
+ Unlimited relaxed generations 
+ Unlimited LoRA training (2,000 images) 
+ Custom Terms of Service 
+ SAML Single Sign-On (SSO) 
+ Priority support with SLA 
+ Per-member spend limits 
+ Indemnification 
+ SOC 2 
+ Image concurrency
+ Unlimited
+ Video concurrency
+ Unlimited
+ Images per LoRA
+ 2000
+ Enterprise
+ Enterprise-grade security with dedicated support, access to Krea's educational services and admin features for scale
+ Custom pricing
+ svg]:px-8 font-book h-10 w-[225px] shrink-0 justify-center rounded-full bg-white text-sm font-medium text-black active:scale-[0.99]" type="button"> Contact Sales 
+ Krea 3 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Krea Agent 
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted bg-muted text-foreground ml-1 inline-flex h-[18px] items-center justify-center rounded-sm border-0 px-1.5 py-0 text-[10px] leading-none font-medium"> NEW 
+ Custom seat count 
+ Share private Node Apps with your workspace 
+ Custom user roles and permissions 
+ Fine-grained controls for model access 
+ Commercial license 
+ Unlimited relaxed generations 
+ Custom Terms of Service 
+ SAML Single Sign-On (SSO) 
+ Priority support with SLA 
+ Per-member spend limits 
+ Indemnification 
+ SOC 2 
+ Slack connect 
+ Custom compute packages 
+ Audit logs svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full bg-background [a&]:hover:bg-muted ml-1 border-amber-500/30 text-xs text-amber-400"> SOON 
+ Image concurrency
+ Unlimited
+ Video concurrency
+ Unlimited
+ Images per LoRA
+ Custom
+ Have an offer code? Enter it to see your discount before checkout.
+ textarea]:h-auto has-[>[data-align=inline-start]]:[&>input]:ps-2 has-[>[data-align=inline-end]]:[&>input]:pe-2 has-[>[data-align=block-start]]:h-auto has-[>[data-align=block-start]]:flex-col has-[>[data-align=block-start]]:[&>input]:pb-3 has-[>[data-align=block-end]]:h-auto has-[>[data-align=block-end]]:flex-col has-[>[data-align=block-end]]:[&>input]:pt-3 has-[[data-slot=input-group-control]:focus-visible]:border-ring has-[[data-slot=input-group-control]:focus-visible]:ring-ring/50 has-[[data-slot=input-group-control]:focus-visible]:ring-[3px] has-[[data-slot][aria-invalid=true]]:ring-destructive/20 has-[[data-slot][aria-invalid=true]]:border-destructive dark:has-[[data-slot][aria-invalid=true]]:ring-destructive/40 h-11 rounded-full ps-2 @2xl:w-80"> kbd]:rounded-[calc(var(--radius)-5px)] [&>svg:not([class*='size-'])]:size-4 order-last pe-3 has-[>button]:me-[-0.45rem] has-[>kbd]:me-[-0.35rem]"> svg]:px-2.5 rounded-full px-4" type="submit" data-size="sm"> Redeem 
+ Find the best plan for you
+ Tell us what you make and how much, and we'll match you to the plan that fits.
+ 1
+ What are you here to make?
+ Select all that apply
+ Social media videos
+ Talking-avatar videos
+ UGC & product video ads
+ Marketing product photos
+ Cinematic videos
+ Personal projects
+ 2
+ How much content each month?
+ About 581 units per video and 78 per image 
+ Premium quality
+ ~40 Kling 4.0 videos
+ 23,240 units
+ ~60 Nano Banana Pro images
+ 4,680 units
+ 3
+ Need anything else?
+ Add features to match your workflow
+ svg]:px-2.5 rounded-full" type="button" id="bits-s300" aria-haspopup="menu" aria-expanded="false" data-state="closed" data-dropdown-menu-trigger=""> Add features 
+ Monthly 
+ Yearly Save up to 70%
+ svg]:pointer-events-none has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] rounded-full [a&]:hover:bg-primary/80 h-auto max-w-full flex-none items-center justify-center gap-1.5 border-0 text-center text-sm leading-tight font-medium whitespace-normal shadow-none bg-transparent px-0 py-0 text-white [&>svg]:size-3 [&>svg]:shrink-0 [&>svg]:fill-current"> Recommended
+ Max
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge text-[12px] leading-none bg-white text-blue-600"> 70% off 
+ 40,000 units / month
+ ~1,607 Nano Banana 2.1 generations
+ ~131 Seedance 2.5 videos
+ 40k 
+ 60k 
+ 80k 
+ 100k 
+ $94 
+ $28 /month
+ svg]:px-8 font-book h-10 w-full justify-center rounded-full text-sm active:scale-[0.99] bg-[#ff5541] text-white dark:bg-white dark:text-black" type="button"> Get Max 
+ Save $504
+ compared to monthly 
+ Black Friday model prices
+ Black Friday
+ Seedance 2.5
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -75% 
+ Kling 4.0
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -50% 
+ Krea 3
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -50% 
+ GPT Image 2.6
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -45% 
+ Nano Banana Pro
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full [a&]:hover:bg-primary/80 saving-badge bg-blue-600 text-[12px] leading-none text-white tabular-nums"> -65% 
+ Unlimited LoRA training (2,000 images) 
+ Bulk discounts on compute unit packs 
+ Unlimited relaxed generations 
+ Expanded concurrency and queueing 
+ Expected monthly usage
+ 27.9K of 40K units
+ Compute top-ups
+ One-time packs, added to your balance right away
+ Compute units are valid for 90 days
+ 100,000 compute units
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full bg-foreground/6 text-foreground dark:bg-foreground/10 [a&]:hover:bg-foreground/10 dark:[a&]:hover:bg-foreground/15"> Best value 
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full bg-foreground/6 text-foreground dark:bg-foreground/10 [a&]:hover:bg-foreground/10 dark:[a&]:hover:bg-foreground/15 tabular-nums"> -29% 
+ ~328
+ Seedance 2.5
+ videos
+ ~1,282
+ Nano Banana Pro
+ images
+ $249.50 $176.99
+ $1.77 / 1K units
+ 100K
+ 150K
+ 200K
+ 250K
+ 300K
+ 350K
+ 400K
+ 450K
+ 500K
+ svg]:px-3 rounded-full self-end @xl/top-ups:shrink-0" type="button"> Sign in required 
+ 50,000 compute units
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full bg-foreground/6 text-foreground dark:bg-foreground/10 [a&]:hover:bg-foreground/10 dark:[a&]:hover:bg-foreground/15 tabular-nums"> -28% 
+ ~164
+ Seedance 2.5
+ videos
+ ~641
+ Nano Banana Pro
+ images
+ $124.75 $89.99
+ $1.80 / 1K units
+ svg]:px-3 rounded-full col-start-2 row-start-2 mt-6 self-end justify-self-end" type="button"> Sign in required 
+ 24,000 compute units
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full bg-foreground/6 text-foreground dark:bg-foreground/10 [a&]:hover:bg-foreground/10 dark:[a&]:hover:bg-foreground/15 tabular-nums"> -25% 
+ ~78
+ Seedance 2.5
+ videos
+ ~307
+ Nano Banana Pro
+ images
+ $59.88 $44.99
+ $1.87 / 1K units
+ svg]:px-3 rounded-full col-start-2 row-start-2 mt-6 self-end justify-self-end" type="button"> Sign in required 
+ 10,000 compute units
+ svg]:pointer-events-none h-4.5 gap-1 px-[7px] text-[11px] leading-4 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 rounded-full bg-foreground/6 text-foreground dark:bg-foreground/10 [a&]:hover:bg-foreground/10 dark:[a&]:hover:bg-foreground/15 tabular-nums"> -20% 
+ ~32
+ Seedance 2.5
+ videos
+ ~128
+ Nano Banana Pro
+ images
+ $24.95 $19.99
+ $2.00 / 1K units
+ svg]:px-3 rounded-full col-start-2 row-start-2 mt-6 self-end justify-self-end" type="button"> Sign in required 
+ 5,000 compute units
+ ~16
+ Seedance 2.5
+ videos
+ ~64
+ Nano Banana Pro
+ images
+ $12.00
+ $2.40 / 1K units
+ svg]:px-3 rounded-full col-start-2 row-start-2 mt-6 self-end justify-self-end" type="button"> Sign in required 
+ 2,000 compute units
+ ~6
+ Seedance 2.5
+ videos
+ ~25
+ Nano Banana Pro
+ images
+ $4.99
+ $2.50 / 1K units
+ svg]:px-3 rounded-full col-start-2 row-start-2 mt-6 self-end justify-self-end" type="button"> Sign in required 
+ Credits are added instantly after purchase and expire after 90 days.
+ Compare Plans in Detail
+ See detailed comparisons across different areas of our platform.
+ Compare plans
+ Select plans to compare
+ 3 plans max
+ Basic 
+ Pro 
+ Max 
+ Basic
+ $5.25 /mo
+ Pro
+ $21 /mo
+ Max
+ $42 /mo
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action text-primary-900 min-h-0 items-center gap-4 rounded-md py-0 text-base leading-6 font-medium shadow-none transition-opacity hover:no-underline focus-visible:ring-[3px] dark:text-white [&[data-state=open]_.comparison-mobile-accordion-chevron]:rotate-180" id="bits-s337" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> Video Generation
+ Generation counts. Settings are shown when relevant.
+ Video concurrency
+ 2
+ 4
+ 8
+ Seedance 2.5
+ 5s, 720p, no video reference
+ ~5 videos
+ ~23 videos
+ ~46 videos
+ MiniMax H3
+ 5s, no reference images
+ ~10 videos
+ ~41 videos
+ ~83 videos
+ LTX-2 19B
+ 5s, 512p
+ ~148 videos
+ ~592 videos
+ ~1,184 videos
+ View 51 more
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action text-primary-900 min-h-0 items-center gap-4 rounded-md py-0 text-base leading-6 font-medium shadow-none transition-opacity hover:no-underline focus-visible:ring-[3px] dark:text-white [&[data-state=open]_.comparison-mobile-accordion-chevron]:rotate-180" id="bits-s343" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> Image Generation
+ Generation counts. Settings are shown when relevant.
+ Image concurrency
+ 4
+ 8
+ Unlimited
+ Krea 3
+ ~277 images
+ ~1,111 images
+ ~2,222 images
+ Krea 2 Large
+ 277 images
+ 1,111 images
+ 2,222 images
+ Nano Banana Pro
+ 1K
+ ~64 images
+ ~257 images
+ ~514 images
+ GPT Image 2.6 Sunburst
+ ~39 images
+ ~157 images
+ ~314 images
+ View 43 more
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action text-primary-900 min-h-0 items-center gap-4 rounded-md py-0 text-base leading-6 font-medium shadow-none transition-opacity hover:no-underline focus-visible:ring-[3px] dark:text-white [&[data-state=open]_.comparison-mobile-accordion-chevron]:rotate-180" id="bits-s349" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> Features & Access
+ Access to Krea 3
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted inline-flex h-[18px] items-center justify-center rounded-sm border-0 bg-emerald-500/10 px-1.5 py-0 text-[10px] leading-none font-semibold text-emerald-400"> NEW 
+ Access to Krea Agent
+ svg]:pointer-events-none gap-1 has-data-[icon=inline-end]:pr-[2.5px] has-data-[icon=inline-end]:pl-[5.5px] has-data-[icon=inline-start]:pr-[5.5px] has-data-[icon=inline-start]:pl-[2.5px] [&>svg]:size-3 border-border [a&]:hover:bg-muted inline-flex h-[18px] items-center justify-center rounded-sm border-0 bg-emerald-500/10 px-1.5 py-0 text-[10px] leading-none font-semibold text-emerald-400"> NEW 
+ Krea 3 Ultra mode
+ Access to image models
+ Access to video models
+ Limited
+ Access to LoRA Training
+ Access to real-time models
+ Access to 3D models
+ Access to lipsync models
+ Max images per LoRA
+ 50
+ 50
+ 2000
+ Access to Krea Nodes
+ Access to App Builder
+ Early access to new features
+ Commercial license
+ Business Terms of Service
+ Indemnification
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action text-primary-900 min-h-0 items-center gap-4 rounded-md py-0 text-base leading-6 font-medium shadow-none transition-opacity hover:no-underline focus-visible:ring-[3px] dark:text-white [&[data-state=open]_.comparison-mobile-accordion-chevron]:rotate-180" id="bits-s365" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> Other Models
+ Realtime
+ 45,000 images
+ 180,000 images
+ 360,000 images
+ Enhancer
+ 625 images
+ 2,500 images
+ 5,000 images
+ Train LoRA
+ 5 trainings
+ 21 trainings
+ 43 trainings
+ Edit
+ 1,666 images
+ 6,666 images
+ 13,333 images
+ 3D
+ 100 models
+ 400 models
+ 800 models
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action text-primary-900 min-h-0 items-center gap-4 rounded-md py-0 text-base leading-6 font-medium shadow-none transition-opacity hover:no-underline focus-visible:ring-[3px] dark:text-white [&[data-state=open]_.comparison-mobile-accordion-chevron]:rotate-180" id="bits-s369" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> Usage & Compute Units
+ Buy extra compute
+ Discounts on extra compute
+ Discounts on compute units
+ Unlimited on selected models
+ Rollovers on compute units
+ High priority queues
+ Unlimited LoRA trainings
+ Priority support
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action text-primary-900 min-h-0 items-center gap-4 rounded-md py-0 text-base leading-6 font-medium shadow-none transition-opacity hover:no-underline focus-visible:ring-[3px] dark:text-white [&[data-state=open]_.comparison-mobile-accordion-chevron]:rotate-180" id="bits-s385" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> Workspace & Admin
+ SAML Single Sign-On (SSO)
+ Multiple Seats per workspace
+ Collaboration Features
+ Admin roles
+ Model access control
+ On-Demand Usage
+ Advanced Usage Analytics
+ Per-member spend limits
+ Slack connect
+ Audit logs
+ Get Basic
+ Get Pro
+ Get Max
+ Annual
+ Save 70% with annual
+ Save 70% with annual
+ Basic
+ $5.25 /month
+ Upgrade
+ Pro
+ $21 /month
+ Upgrade
+ Max
+ $42 /month
+ Upgrade
+ Business
+ $96 /month
+ Try Business
+ Enterprise
+ Custom
+ Contact us
+ Video Generation
+ Generation counts. Settings are shown when relevant.
+ Video concurrency
+ 2
+ 4
+ 8
+ Unlimited
+ Unlimited
+ Seedance 2.5
+ 5s, 720p, no video reference
+ ~5 videos
+ ~23 videos
+ ~46 videos
+ ~23 videos
+ Custom
+ MiniMax H3
+ 5s, no reference images
+ ~10 videos
+ ~41 videos
+ ~83 videos
+ ~41 videos
+ Custom
+ LTX-2 19B
+ 5s, 512p
+ ~148 videos
+ ~592 videos
+ ~1,184 videos
+ ~592 videos
+ Custom
+ View 51 more
+ Image Generation
+ Generation counts. Settings are shown when relevant.
+ Image concurrency
+ 4
+ 8
+ Unlimited
+ Unlimited
+ Unlimited
+ Krea 3
+ ~277 images
+ ~1,111 images
+ ~2,222 images
+ ~1,111 images
+ Custom
+ Krea 2 Large
+ 277 images
+ 1,111 images
+ 2,222 images
+ 1,111 images
+ Custom
+ Nano Banana Pro
+ 1K
+ ~64 images
+ ~257 images
+ ~514 images
+ ~257 images
+ Custom
+ GPT Image 2.6 Sunburst
+ ~39 images
+ ~157 images
+ ~314 images
+ ~157 images
+ Custom
+ View 43 more
+ Features & Access
+ Other Models
+ Usage & Compute Units
+ Workspace & Admin
+ Frequently Asked Questions
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action hover-supported:group-hover:opacity-60 min-h-0 items-center gap-5 py-0 text-base leading-[1.2] font-medium tracking-[-0.02em] shadow-none transition-opacity will-change-transform hover:no-underline focus-visible:rounded-md @xl:min-h-[4rem] @xl:gap-4 @xl:py-6 @xl:text-xl @xl:leading-normal @xl:tracking-normal [&[data-state=open]_svg]:rotate-180" id="bits-s402" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> What's the difference between plans? 
+ Free plan is for basic use with pay-as-you-go compute units. Basic, Pro, and Max are individual plans with increasing compute units, concurrency, and features like commercial license and priority jobs. Business is for teams: one flat price includes up to 50 members, and every member gets full benefits including usage analytics, commercial license, and priority email support. Enterprise offers custom seat counts with custom compute packages, dedicated support, SAML Single Sign-On (SSO), and advanced analytics. 
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action hover-supported:group-hover:opacity-60 min-h-0 items-center gap-5 py-0 text-base leading-[1.2] font-medium tracking-[-0.02em] shadow-none transition-opacity will-change-transform hover:no-underline focus-visible:rounded-md @xl:min-h-[4rem] @xl:gap-4 @xl:py-6 @xl:text-xl @xl:leading-normal @xl:tracking-normal [&[data-state=open]_svg]:rotate-180" id="bits-s406" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> How do compute units work? 
+ Workspaces share a pool of compute units that can be allocated across all members. Business plans offer flexible packs from 20k to 1.5M units per month at discounted rates. Enterprise plans have custom packages with volume discounts. You can monitor usage per member and set individual limits in Business plans. 
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action hover-supported:group-hover:opacity-60 min-h-0 items-center gap-5 py-0 text-base leading-[1.2] font-medium tracking-[-0.02em] shadow-none transition-opacity will-change-transform hover:no-underline focus-visible:rounded-md @xl:min-h-[4rem] @xl:gap-4 @xl:py-6 @xl:text-xl @xl:leading-normal @xl:tracking-normal [&[data-state=open]_svg]:rotate-180" id="bits-s410" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> How do credit rollovers work? 
+ Basic, Pro, and Max plans allocate compute units monthly and they do not roll over. Business and Enterprise plans allow unused compute credits to roll over to the next billing period with customizable rollover periods. Contact our sales team to learn more. 
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action hover-supported:group-hover:opacity-60 min-h-0 items-center gap-5 py-0 text-base leading-[1.2] font-medium tracking-[-0.02em] shadow-none transition-opacity will-change-transform hover:no-underline focus-visible:rounded-md @xl:min-h-[4rem] @xl:gap-4 @xl:py-6 @xl:text-xl @xl:leading-normal @xl:tracking-normal [&[data-state=open]_svg]:rotate-180" id="bits-s414" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> What is SAML SSO and why do I need it? 
+ SAML Single Sign-On (SSO) allows members to access Krea using their existing company credentials (Google Workspace, Microsoft Azure AD, Okta, etc.). This improves security, simplifies user management, ensures compliance with corporate IT policies, and provides centralized access control. Available in Enterprise plans. 
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action hover-supported:group-hover:opacity-60 min-h-0 items-center gap-5 py-0 text-base leading-[1.2] font-medium tracking-[-0.02em] shadow-none transition-opacity will-change-transform hover:no-underline focus-visible:rounded-md @xl:min-h-[4rem] @xl:gap-4 @xl:py-6 @xl:text-xl @xl:leading-normal @xl:tracking-normal [&[data-state=open]_svg]:rotate-180" id="bits-s418" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> How does billing work? 
+ Plans are billed monthly or yearly with centralized payment management. All members' usage is consolidated into a single invoice, and compute units are shared across the entire workspace. You can choose between different compute packs based on your needs, and unused units expire at the end of each billing cycle. 
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action hover-supported:group-hover:opacity-60 min-h-0 items-center gap-5 py-0 text-base leading-[1.2] font-medium tracking-[-0.02em] shadow-none transition-opacity will-change-transform hover:no-underline focus-visible:rounded-md @xl:min-h-[4rem] @xl:gap-4 @xl:py-6 @xl:text-xl @xl:leading-normal @xl:tracking-normal [&[data-state=open]_svg]:rotate-180" id="bits-s422" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> What support options are available? 
+ Free includes community support via Discord. Business plans include priority email support with faster response times. Enterprise plans include dedicated support, a dedicated account manager, and custom onboarding. 
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action hover-supported:group-hover:opacity-60 min-h-0 items-center gap-5 py-0 text-base leading-[1.2] font-medium tracking-[-0.02em] shadow-none transition-opacity will-change-transform hover:no-underline focus-visible:rounded-md @xl:min-h-[4rem] @xl:gap-4 @xl:py-6 @xl:text-xl @xl:leading-normal @xl:tracking-normal [&[data-state=open]_svg]:rotate-180" id="bits-s426" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> Do plans include a commercial license? 
+ Yes, Basic, Pro, Max, Business, and Enterprise plans include a commercial license that allows you to use all generated content for commercial purposes without restrictions. This includes images, videos, and other AI-generated assets for marketing, advertising, products, and client work. 
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action hover-supported:group-hover:opacity-60 min-h-0 items-center gap-5 py-0 text-base leading-[1.2] font-medium tracking-[-0.02em] shadow-none transition-opacity will-change-transform hover:no-underline focus-visible:rounded-md @xl:min-h-[4rem] @xl:gap-4 @xl:py-6 @xl:text-xl @xl:leading-normal @xl:tracking-normal [&[data-state=open]_svg]:rotate-180" id="bits-s430" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> Can I switch between plans? 
+ Yes, you can upgrade or downgrade your plan at any time. Changes take effect immediately and billing is prorated. When upgrading, you'll only pay the difference for the remainder of your billing cycle. When downgrading, credits will be applied to future invoices. 
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action hover-supported:group-hover:opacity-60 min-h-0 items-center gap-5 py-0 text-base leading-[1.2] font-medium tracking-[-0.02em] shadow-none transition-opacity will-change-transform hover:no-underline focus-visible:rounded-md @xl:min-h-[4rem] @xl:gap-4 @xl:py-6 @xl:text-xl @xl:leading-normal @xl:tracking-normal [&[data-state=open]_svg]:rotate-180" id="bits-s434" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> Is Business plan seat-based or team-based? 
+ Business plan is team-based. You pay for the compute pack you choose, and up to 50 members are included at no extra cost per member. Every member automatically receives all Business plan features and entitlements. All members share the workspace's compute units from your chosen pack. Teams that need more than 50 seats should talk to us about Enterprise. 
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action hover-supported:group-hover:opacity-60 min-h-0 items-center gap-5 py-0 text-base leading-[1.2] font-medium tracking-[-0.02em] shadow-none transition-opacity will-change-transform hover:no-underline focus-visible:rounded-md @xl:min-h-[4rem] @xl:gap-4 @xl:py-6 @xl:text-xl @xl:leading-normal @xl:tracking-normal [&[data-state=open]_svg]:rotate-180" id="bits-s438" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> How do I add or remove members? 
+ Workspace administrators can add or remove members through the settings dashboard. New members receive an invitation email and gain immediate access once they accept. Removed members lose access to workspace resources but retain their personal accounts and any personal creations. 
+ svg]:-rotate-45 focus-visible:border-action focus-visible:ring-action hover-supported:group-hover:opacity-60 min-h-0 items-center gap-5 py-0 text-base leading-[1.2] font-medium tracking-[-0.02em] shadow-none transition-opacity will-change-transform hover:no-underline focus-visible:rounded-md @xl:min-h-[4rem] @xl:gap-4 @xl:py-6 @xl:text-xl @xl:leading-normal @xl:tracking-normal [&[data-state=open]_svg]:rotate-180" id="bits-s442" aria-expanded="false" aria-disabled="false" data-state="closed" data-orientation="vertical" data-accordion-trigger="" tabindex="0"> What happens if we exceed our compute units? 
+ Free accounts get free compute units at signup — once they're used up, you'll need to upgrade to a paid plan. Business plans allow you to purchase additional compute packs or upgrade to a higher tier — adding more members doesn't increase your cost. Enterprise plans have auto top-ups that ensure uninterrupted service with volume discounts on additional usage. 
+ Still have questions?
+ Our team is here to help you choose the right plan for your organization.
+ svg]:px-3 rounded-full bg-primary-900 hover:bg-primary-800 h-12 px-7 font-semibold text-white dark:bg-white dark:text-black dark:hover:bg-white/90" type="button"> Contact Sales 
+ Create
+ AI Image Generator
+ AI Video Generator
+ Image to Video
+ AI Drama Generator
+ Krea Agent
+ New
+ Ad Studio
+ New
+ Sketch to Image
+ AI Character Generator
+ 3D Model Generator
+ T-Shirt Design Maker
+ Polaroid Photo Generator
+ Video Models
+ Seedance 2.5
+ Kling 4
+ Kling AI
+ Veo 3.1
+ MiniMax H3
+ MiniMax H3 Max
+ Wan 3.0
+ Runway
+ All Video Models
+ Edit
+ AI Image Editor
+ Image to Image
+ AI Hairstyle Changer
+ AI Clothes Changer
+ Face Swap
+ Video Face Swap
+ Remove Text from Image
+ Object Remover
+ Photo to Cartoon
+ Change Lighting
+ Motion Transfer
+ Lip Sync
+ Image Models
+ Krea 3
+ New
+ Krea 2
+ Nano Banana Pro
+ ChatGPT Images 2
+ FLUX 3
+ Seedream 5.0 Pro
+ All Image Models
+ Enhance
+ Photo Enhancer
+ Image Upscaler
+ Video Upscaler
+ Background Remover
+ AI Vectorizer
+ Unblur Image
+ Colorize Photo
+ All AI Apps
+ Solutions
+ Architecture
+ Interior Design
+ Gaming
+ All Solutions
+ Krea
+ Pricing
+ Enterprise
+ All Models
+ API
+ MCP
+ Plugins
+ Resources
+ Blog
+ Guides
+ Academy
+ Customer Stories
+ Krea Alternatives
+ Release Notes
+ Ask AI about Krea
+ Ask ChatGPT about Krea
+ Ask Claude about Krea
+ Ask Gemini about Krea
+ Ask Perplexity about Krea
+ Ask Grok about Krea
+ © 2026 Krea
+ Terms
+ Privacy
+ Security
+ Subprocessors
+ Careers
+ Press
+ Documentation
+ X
+ LinkedIn
+ Instagram
+ Reddit
+ YouTube
+ Discord
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Product","name":"Krea","description":"AI creative tools for everyone","image":"https://s.krea.ai/og/og-default-v2.webp","brand":{"@type":"Brand","name":"Krea AI"},"offers":[{"@type":"Offer","name":"Free Plan","description":"Free plan - 100 compute units per day","availability":"https://schema.org/InStock","price":"0","priceCurrency":"USD","priceValidUntil":"2027-11-26"},{"@type":"Offer","name":"Individual Basic","description":"For individual creators - 5,000 compute units per month","availability":"https://schema.org/InStock","price":"9","priceCurrency":"USD","priceValidUntil":"2027-11-26"},{"@type":"Offer","name":"Individual Pro","description":"For individual creators - 20,000 compute units per month","availability":"https://schema.org/InStock","price":"35","priceCurrency":"USD","priceValidUntil":"2027-11-26"},{"@type":"Offer","name":"Individual Max","description":"For individual creators - 60,000 compute units per month","availability":"https://schema.org/InStock","price":"105","priceCurrency":"USD","priceValidUntil":"2027-11-26"},{"@type":"Offer","name":"Business","description":"For teams - 80,000 compute units per month, up to 50 members included","availability":"https://schema.org/InStock","price":"200","priceCurrency":"USD","priceValidUntil":"2027-11-26"}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What's the difference between plans?","acceptedAnswer":{"@type":"Answer","text":"Free plan is for basic use with pay-as-you-go compute units. Basic, Pro, and Max are individual plans with increasing compute units, concurrency, and features like commercial license and priority jobs. Business is for teams: one flat price includes up to 50 members, and every member gets full benefits including usage analytics, commercial license, and priority email support. Enterprise offers custom seat counts with custom compute packages, dedicated support, SAML Single Sign-On (SSO), and advanced analytics."}},{"@type":"Question","name":"How do compute units work?","acceptedAnswer":{"@type":"Answer","text":"Workspaces share a pool of compute units that can be allocated across all members. Business plans offer flexible packs from 20k to 1.5M units per month at discounted rates. Enterprise plans have custom packages with volume discounts. You can monitor usage per member and set individual limits in Business plans."}},{"@type":"Question","name":"How do credit rollovers work?","acceptedAnswer":{"@type":"Answer","text":"Basic, Pro, and Max plans allocate compute units monthly and they do not roll over. Business and Enterprise plans allow unused compute credits to roll over to the next billing period with customizable rollover periods. Contact our sales team to learn more."}},{"@type":"Question","name":"What is SAML SSO and why do I need it?","acceptedAnswer":{"@type":"Answer","text":"SAML Single Sign-On (SSO) allows members to access Krea using their existing company credentials (Google Workspace, Microsoft Azure AD, Okta, etc.). This improves security, simplifies user management, ensures compliance with corporate IT policies, and provides centralized access control. Available in Enterprise plans."}},{"@type":"Question","name":"How does billing work?","acceptedAnswer":{"@type":"Answer","text":"Plans are billed monthly or yearly with centralized payment management. All members' usage is consolidated into a single invoice, and compute units are shared across the entire workspace. You can choose between different compute packs based on your needs, and unused units expire at the end of each billing cycle."}},{"@type":"Question","name":"What support options are available?","acceptedAnswer":{"@type":"Answer","text":"Free includes community support via Discord. Business plans include priority email support with faster response times. Enterprise plans include dedicated support, a dedicated account manager, and custom onboarding."}},{"@type":"Question","name":"Do plans include a commercial license?","acceptedAnswer":{"@type":"Answer","text":"Yes, Basic, Pro, Max, Business, and Enterprise plans include a commercial license that allows you to use all generated content for commercial purposes without restrictions. This includes images, videos, and other AI-generated assets for marketing, advertising, products, and client work."}},{"@type":"Question","name":"Can I switch between plans?","acceptedAnswer":{"@type":"Answer","text":"Yes, you can upgrade or downgrade your plan at any time. Changes take effect immediately and billing is prorated. When upgrading, you'll only pay the difference for the remainder of your billing cycle. When downgrading, credits will be applied to future invoices."}},{"@type":"Question","name":"Is Business plan seat-based or team-based?","acceptedAnswer":{"@type":"Answer","text":"Business plan is team-based. You pay for the compute pack you choose, and up to 50 members are included at no extra cost per member. Every member automatically receives all Business plan features and entitlements. All members share the workspace's compute units from your chosen pack. Teams that need more than 50 seats should talk to us about Enterprise."}},{"@type":"Question","name":"How do I add or remove members?","acceptedAnswer":{"@type":"Answer","text":"Workspace administrators can add or remove members through the settings dashboard. New members receive an invitation email and gain immediate access once they accept. Removed members lose access to workspace resources but retain their personal accounts and any personal creations."}},{"@type":"Question","name":"What happens if we exceed our compute units?","acceptedAnswer":{"@type":"Answer","text":"Free plan includes a daily compute allowance that refills every day — once it's used up, you'll need to wait for the next refill or upgrade to a paid plan. Business plans allow you to purchase additional compute packs or upgrade to a higher tier — adding more members doesn't increase your cost. Enterprise plans have auto top-ups that ensure uninterrupted service with volume discounts on additional usage."}}]}

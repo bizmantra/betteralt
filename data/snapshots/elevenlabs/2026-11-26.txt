@@ -1,0 +1,382 @@
+#SNAPSHOT {"url":"https://elevenlabs.io/pricing","finalUrl":"https://elevenlabs.io/pricing","fetchedAt":"2026-11-26T03:34:00.151Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"4123fbab7b434c9e33a3248a8604eb33c8c4fd711cd566a8a2bbf54aa2188881"}
+ElevenLabs Pricing | Black Friday Sale: Save up to 55% &)]:tw-overflow-x-hidden"> 
+ Black Friday
+ Up to 55% off
+ Get up to 55% off
+ Ends December 1
+ Get the offer
+ First month for $1
+ Get your first month for only $1
+ Ends December 1
+ Subscribe
+ strong]:tw-font-normal tw-text-gray-600"> Introducing Eleven v4
+ Meet Eleven v4, our most emotive model yet.
+ Discover
+ Skip to content
+ Products
+ Solutions
+ Customers
+ Resources
+ Enterprise
+ Pricing
+ Log in
+ Sign up
+ Contact sales
+ Log in
+ Sign up
+ ElevenLabs Black Friday pricing Up to 55% off
+ ElevenCreative
+ Creative
+ ElevenAgents
+ Agents
+ ElevenAPI
+ API
+ ElevenCreative
+ Creative
+ ElevenAgents
+ Agents
+ ElevenAPI
+ API
+ Yearly billing
+ Monthly billing Yearly billing 
+ Free
+ $0
+ /mo
+ Build for free
+ Text to Speech
+ Speech to Text
+ Sound Effects
+ Voice Design
+ Music
+ Productions
+ Image
+ 3 Projects in Studio
+ 10k credits
+ per month
+ Starter
+ Billed yearly, $60 a year
+ regular price
+ $6 , now
+ $5
+ /mo
+ 2 months free
+ Billed monthly
+ $1
+ first month
+ Then $6 per month
+ Choose Starter
+ Everything in free, plus
+ Commercial License
+ Instant Voice Cloning
+ 20 Projects in Studio
+ Music commercial use
+ Dubbing Studio
+ Image & Video
+ 30k credits
+ per month
+ Creator
+ Black Friday
+ Billed yearly, $99 for the first year, then $220 a year · Black Friday
+ Until Dec 1
+ $8.25
+ /mo first year
+ Then regular price 
+ $22 , now
+ $18.33/mo
+ Billed monthly
+ $11
+ first month
+ Then $22 per month
+ Choose Creator
+ Everything in Starter, plus
+ Professional Voice Cloning
+ Additional Credits
+ 121k credits
+ per month
+ Pro
+ Black Friday
+ Billed yearly, $445.50 for the first year, then $990 a year · Black Friday
+ Until Dec 1
+ $37.13
+ /mo first year
+ Then regular price 
+ $99 , now
+ $82.50/mo
+ Billed monthly
+ $99
+ /mo
+ Choose Pro
+ Everything in Creator, plus
+ 44.1kHz PCM audio output via API
+ 192kbps quality audio
+ 600k credits
+ per month
+ For
+Businesses
+ Scale
+ Billed yearly, $2,990 a year
+ regular price
+ $299 , now
+ $249.17
+ /mo
+ 2 months free
+ Billed monthly
+ $299
+ /mo
+ Choose Scale
+ Everything in Pro, plus
+ 3 Workspace seats
+ Team Collaboration
+ 3 Professional Voice Clones
+ 1.8M credits
+ per month
+ 3 seats
+ Business
+ Billed yearly, $9,900 a year
+ regular price
+ $990 , now
+ $825
+ /mo
+ 2 months free
+ Billed monthly
+ $990
+ /mo
+ Choose Business
+ Everything in Scale, plus
+ Low-latency TTS as low as 5c/minute
+ 10 Professional Voice Clones
+ 10 Workspace seats
+ 6M credits
+ per month
+ 10 seats
+ Enterprise
+ Custom pricing
+ Contact us
+ Everything in Business, plus
+ Custom terms & assurance around DPA/SLAs
+ BAAs for HIPAA customers
+ Custom SSO
+ More seats and voices
+ Elevated concurrency limits
+ Fully managed dubbing with Productions
+ Significant discounts at scale
+ Priority support
+ Custom number of credits and seats
+ Prices exclude all taxes, levies and duties.
+ Calculate your costs based on your usage needs
+ Yearly billing
+ Monthly billing Yearly billing 
+ Startup Grants Program
+ Build intelligent, real-time conversational AI agents into your new product or startup for free with an ElevenLabs Grant.
+ 12 Months free
+ To build, launch & test
+ 33M Characters
+ Valid for 12 months
+ Learn more
+ Compare plans
+ Text to Speech
+ Voice Cloning & Design
+ Image & Video
+ Speech to Text
+ Music
+ Sound Effects
+ Voice Changer
+ Studio
+ Voice Isolator
+ Automatic Dubbing
+ Dubbing Studio
+ Productions
+ Free
+ Starter
+ Creator
+ Pro
+ Scale
+ Business
+ Free
+ Free Starter Creator Pro Scale Business 
+ Text to Speech (UI)
+ Minutes included
+ Extra minute
+ Commercial use
+ Eleven v4 model
+ Eleven v3 model
+ Languages
+ Custom voice slots
+ Instant Voice Cloning
+ Professional Voice Cloning
+ Audio quality
+ WAV / PCM 44.1 kHz
+ Concurrent requests
+ Limited use
+ ~ 10
+ ~ $0.36
+ Limited
+ 74
+ Limited
+ 3
+ Limited
+ 128 kbps, 44.1kHz
+ Limited
+ 2
+ ~ 30
+ ~ $0.20
+ 74
+ 10
+ 128 kbps, 44.1kHz
+ 3
+ ~ 121
+ ~ $0.18
+ 74
+ 30
+ 1
+ 128 & 192 kbps, 44.1kHz
+ 5
+ ~ 600
+ ~ $0.17
+ 74
+ 160
+ 1
+ 128 & 192 kbps, 44.1kHz
+ 10
+ ~ 1,800
+ ~ $0.17
+ 74
+ 660
+ 3
+ 128 & 192 kbps, 44.1kHz
+ 15
+ ~ 6,000
+ ~ $0.17
+ 74
+ 2,200
+ 10
+ 128 & 192 kbps, 44.1kHz
+ 25
+ FAQs
+ When does the ElevenCreative Black Friday sale end?
+ The ElevenLabs Black Friday and Cyber Monday sale ends on December 1st. Until then, eligible customers can save up to 55% when they choose an annual plan. Creator annual costs $99 for the year. Pro newcomers also get the full 55% off, while people already paying monthly for Pro get 50% off if they move to annual billing.
+ How much does each ElevenCreative plan cost and what is included?
+ On ElevenCreative
+, Free is $0 with 10,000 credits. Starter is $6 per month with 30,000 credits, Creator $22 with 121,000, Pro $99 with 600,000, Scale $299 with 1,800,000 credits, and Business $990 with 6,000,000 credits. Enterprise
+ is custom. Credits are shared across all products. Free to Pro include 1 Full seat, Scale 3 seats and Business 10, and every plan adds 20 Basic seats. First-month offers (Starter $1, Creator $11) can be used once.
+ Which ElevenCreative plan suits a small team?
+ Starter to Pro include 1 Full seat plus 20 Basic seats. Scale ($299 per month, 1,800,000 credits) includes 3 seats, and Business ($990, 6,000,000 credits) includes 10. Add up the credit costs of the products you use and pick the plan that covers it. Enterprise offers custom terms and volume discounts.
+ How many credits does each ElevenCreative product use?
+ Text to Speech
+ uses 1 credit per character. Speech to Text
+ uses 330 per minute. Eleven Music
+ uses about 900 per minute, and the exact cost varies by plan and is shown before you generate. Sound Effects
+ use 200 per generation or 40 per second with manual duration. Voice Changer
+ and Voice Isolator
+ use 1,000 per minute. Dubbing
+ uses 2,000 to 13,500 per minute depending on the product (see the dubbing FAQ). Image
+ & Video
+ cost is shown before you generate.
+ How do text characters and credits work for Text to Speech?
+ On the website, every model costs 1 credit per character. Through the API
+, Eleven v4
+, v3, and Multilingual v2 also cost 1 credit, while Turbo, Flash, and v3 Conversational models cost 0.5. In the web app, a single generation can run to 10,000 characters on Eleven v4 and 5,000 on other models.
+ How much does AI dubbing cost?
+ Dubbing is billed per source minute for each target language. In the app, automatic dubbing uses 2,000 credits per minute with a watermark or 3,000 without. Dubbing in ElevenCreative uses 5,000 or 10,000, and Dubbing v2 uses 13,500. Enterprise pricing is custom.
+ How much do Image & Video generations cost on ElevenLabs?
+ Image & Video is included from Starter upward and uses shared credits. Free includes images only, up to 3 per day. Cost varies by model, resolution, and length and is shown before you generate. API use needs Pro or above.
+ When do my ElevenLabs credits reset, do they roll over, and can I top up?
+ Credits reset each billing cycle, starting the day you subscribed. On paid plans, unused credits roll over for up to two months, up to 2x your quota (balance capped at 3x). Rollover ends if you downgrade or cancel and does not apply to Free. Pay-as-you-go top-ups are separate and expire 12 months after purchase. Your balance is on the subscription page.
+ Do you offer annual billing and what does it cost?
+ ElevenLabs offers annual billing with two months free. Annual prices are $60 (Starter), $220 (Creator), $990 (Pro), $2,990 (Scale), and $9,900 (Business), which is $5, $18.33, $82.50, $249.17, and $825 per month. Until December 1, 2026, Black Friday lowers the first-year price of Creator and Pro.
+ Am I charged for every generation and can I regenerate for free?
+ Credits are charged per generation and not per download. On the website, you’re able to get 2 free regenerations within 2 hours if the text, voice, and model stay the same. This does not apply to ElevenAPI or Enterprise workspaces.
+ What happens if I upgrade, downgrade, or cancel my subscription?
+ Moving to a higher plan restarts your billing cycle straight away, and any credits you haven't used carry over into the new allowance. Moving down or cancelling keeps your current plan running until the cycle ends. After that your workspace drops to Free and leftover paid credits are lost. You can cancel whenever you like.
+ What payment methods and currencies does ElevenLabs accept?
+ Pay by credit card, Apple Pay, or Google Pay. UPI is also available in India, where charges are in INR, while all other customers pay in USD. Choose monthly or yearly billing. Prepaid cards cannot be used directly. Prices exclude taxes, levies, and duties, which are added at checkout.
+ The all-in-one AI creative platform for content at scale
+ Talk to sales
+ Sign up
+ English 
+ ElevenCreative
+ Text to Speech
+ Speech to Text
+ Voice Changer
+ Text to Sound Effects
+ Voice Cloning
+ Voice Isolator
+ AI Music Generator
+ Studio
+ Voice Design
+ AI Voice Generator
+ AI Image Generator
+ AI Video Generator
+ Ads Engine
+ ElevenAgents
+ Voice Agents
+ Conversational AI
+ Integrations
+ Telecommunications
+ Financial Services
+ Healthcare
+ Government
+ Technology
+ Retail & E-commerce
+ Travel & Hospitality
+ Customer Support
+ Chatbots
+ ElevenAPI
+ API Reference
+ Agents API
+ Speech Engine
+ Dubbing API
+ Text to Speech API
+ Speech to Text API
+ Sound Effects API
+ Music API
+ API Key
+ Resources
+ Blog
+ Iconic Marketplace
+ Impact Program
+ Startup Grants
+ Help Center
+ Webinars
+ Docs
+ Enterprise
+ Trust Center
+ India
+ Socials
+ X 
+ ElevenLabs
+ ElevenCreative
+ Developers
+ LinkedIn 
+ ElevenLabs
+ ElevenCreative
+ GitHub
+ YouTube
+ Discord
+ TikTok
+ Instagram
+ Facebook
+ Reddit
+ Company
+ About
+ Careers
+ Safety
+ Brand & Press Kit
+ ElevenLabs Summit
+ Policies 
+ Terms
+ Privacy
+ EU Digital Services Act (DSA)
+ Modern Slavery Policy
+ CCPA Notice
+ EU-US DPF Policy
+ AI Transparency
+ Human Rights Statement
+ Cookie Settings
+ Voice chat
+ Voice chat
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://elevenlabs.io#organization","name":"ElevenLabs","url":"https://elevenlabs.io","logo":{"@type":"ImageObject","url":"https://elevenlabs.io/favicon.ico","caption":"ElevenLabs logo"},"description":"Powering the best enterprises, creators, and developers. From ElevenAgents for customer experience, ElevenCreative for content creation, to the leading AI voice generator.","foundingDate":"2022","address":{"@type":"PostalAddress","streetAddress":"169 Madison Ave #2484","addressLocality":"New York","addressRegion":"NY","postalCode":"10016","addressCountry":"US"},"sameAs":["https://x.com/elevenlabs","https://x.com/ElevenCreative","https://x.com/ElevenLabsDevs","https://www.linkedin.com/company/elevenlabsio","https://www.linkedin.com/showcase/elevencreativeio/","https://github.com/elevenlabs","https://www.youtube.com/@elevenlabs","https://discord.gg/elevenlabs","https://www.tiktok.com/@elevenlabs","https://www.instagram.com/elevenlabs","https://www.facebook.com/elevenlabsio/","https://www.reddit.com/r/ElevenLabs/","https://en.wikipedia.org/wiki/ElevenLabs","https://profile.google.com/@elevenlabs","https://www.wikidata.org/wiki/Q116798355"],"founder":[{"@type":"Person","name":"Mati Staniszewski","jobTitle":"Co-Founder","alumniOf":"Imperial College London","knowsAbout":["artificial intelligence","voice synthesis","text to speech","voice cloning","audio AI","speech to text"],"sameAs":["https://www.linkedin.com/in/matiii/","https://x.com/mati"]},{"@type":"Person","name":"Piotr Dabkowski","jobTitle":"Co-Founder & Research","alumniOf":"University of Oxford","knowsAbout":["machine learning","deep learning","speech synthesis","audio AI","voice cloning","speech to text"],"sameAs":["https://www.linkedin.com/in/piotr-dabkowski-50222bba","https://x.com/dabkowski_piotr"]}],"brand":[{"@id":"https://elevenlabs.io/creative#elevencreative"},{"@id":"https://elevenlabs.io/agents#elevenagents"},{"@id":"https://elevenlabs.io/api#elevenapi"}]},{"@type":"WebSite","@id":"https://elevenlabs.io#website","url":"https://elevenlabs.io","name":"ElevenLabs","publisher":{"@id":"https://elevenlabs.io#organization"},"inLanguage":"en"},{"@type":["Organization","Brand"],"@id":"https://elevenlabs.io/creative#elevencreative","name":"ElevenCreative","url":"https://elevenlabs.io/creative","description":"ElevenCreative is ElevenLabs's AI content creation platform, providing Text to Speech, Speech to Text, Voice Cloning, Voice Design, Dubbing, Sound Effects, and Music generation in 70+ languages.","parentOrganization":{"@id":"https://elevenlabs.io#organization"}},{"@type":["Organization","Brand"],"@id":"https://elevenlabs.io/agents#elevenagents","name":"ElevenAgents","url":"https://elevenlabs.io/agents","description":"ElevenAgents is ElevenLabs's voice agent platform for customer experience, sales, and operations. Build, deploy, and manage AI voice agents that handle inbound and outbound calls, with sub-500ms latency and 70+ languages.","parentOrganization":{"@id":"https://elevenlabs.io#organization"}},{"@type":["Organization","Brand"],"@id":"https://elevenlabs.io/api#elevenapi","name":"ElevenAPI","url":"https://elevenlabs.io/api","description":"ElevenAPI gives developers programmatic access to ElevenLabs's voice and audio AI: Text to Speech, Speech to Text, Voice Cloning, Voice Design, Voice Agents, Music, Sound Effects, and Dubbing. REST API and SDKs for Python, JavaScript, and more.","parentOrganization":{"@id":"https://elevenlabs.io#organization"}}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://elevenlabs.io/pricing#webpage","url":"https://elevenlabs.io/pricing","name":"Pricing","inLanguage":"en","isPartOf":{"@id":"https://elevenlabs.io#website"},"mainEntity":{"@id":"https://elevenlabs.io/pricing#softwareapplication"},"breadcrumb":{"@id":"https://elevenlabs.io/pricing#breadcrumbs"}},{"@type":"BreadcrumbList","@id":"https://elevenlabs.io/pricing#breadcrumbs","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://elevenlabs.io"},{"@type":"ListItem","position":2,"name":"ElevenCreative","item":"https://elevenlabs.io/creative"},{"@type":"ListItem","position":3,"name":"Pricing","item":"https://elevenlabs.io/pricing"}]},{"@type":"SoftwareApplication","@id":"https://elevenlabs.io/pricing#softwareapplication","name":"Pricing","url":"https://elevenlabs.io/pricing","applicationCategory":"MultimediaApplication","operatingSystem":"Web, iOS, Android","softwareVersion":"Eleven v3","additionalProperty":[{"@type":"PropertyValue","name":"AgenticContext","value":"Override per page. Generic SoftwareApplication fallback used when no product template fits."}],"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","ratingCount":303264,"bestRating":"5","worstRating":"1"},"publisher":{"@id":"https://elevenlabs.io/creative#elevencreative"}}]}
+{"@context":"https://schema.org","@graph":[{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"When does the ElevenCreative Black Friday sale end?","acceptedAnswer":{"@type":"Answer","text":"The ElevenLabs Black Friday and Cyber Monday sale ends on December 1st. Until then, eligible customers can save up to 55% when they choose an annual plan. Creator annual costs $99 for the year. Pro newcomers also get the full 55% off, while people already paying monthly for Pro get 50% off if they move to annual billing."}},{"@type":"Question","name":"How much does each ElevenCreative plan cost and what is included?","acceptedAnswer":{"@type":"Answer","text":"On \u003ca href=\"/creative\">ElevenCreative\u003c/a>, Free is $0 with 10,000 credits. Starter is $6 per month with 30,000 credits, Creator $22 with 121,000, Pro $99 with 600,000, Scale $299 with 1,800,000 credits, and Business $990 with 6,000,000 credits. \u003ca href=\"/enterprise\">Enterprise\u003c/a> is custom. Credits are shared across all products. Free to Pro include 1 Full seat, Scale 3 seats and Business 10, and every plan adds 20 Basic seats. First-month offers (Starter $1, Creator $11) can be used once."}},{"@type":"Question","name":"Which ElevenCreative plan suits a small team?","acceptedAnswer":{"@type":"Answer","text":"Starter to Pro include 1 Full seat plus 20 Basic seats. Scale ($299 per month, 1,800,000 credits) includes 3 seats, and Business ($990, 6,000,000 credits) includes 10. Add up the credit costs of the products you use and pick the plan that covers it. Enterprise offers custom terms and volume discounts."}},{"@type":"Question","name":"How many credits does each ElevenCreative product use?","acceptedAnswer":{"@type":"Answer","text":"\u003ca href=\"/text-to-speech\">Text to Speech\u003c/a> uses 1 credit per character. \u003ca href=\"/speech-to-text\">Speech to Text\u003c/a> uses 330 per minute. \u003ca href=\"/music\">Eleven Music\u003c/a> uses about 900 per minute, and the exact cost varies by plan and is shown before you generate. \u003ca href=\"/sound-effects\">Sound Effects\u003c/a> use 200 per generation or 40 per second with manual duration. \u003ca href=\"/voice-changer\">Voice Changer\u003c/a> and \u003ca href=\"/voice-isolator\">Voice Isolator\u003c/a> use 1,000 per minute. \u003ca href=\"/dubbing-studio\">Dubbing\u003c/a> uses 2,000 to 13,500 per minute depending on the product (see the dubbing FAQ). \u003ca href=\"/image\">Image\u003c/a> & \u003ca href=\"/video\">Video\u003c/a> cost is shown before you generate."}},{"@type":"Question","name":"How do text characters and credits work for Text to Speech?","acceptedAnswer":{"@type":"Answer","text":"On the website, every model costs 1 credit per character. Through the \u003ca href=\"/api\">API\u003c/a>, \u003ca href=\"/v4\">Eleven v4\u003c/a>, v3, and Multilingual v2 also cost 1 credit, while Turbo, Flash, and v3 Conversational models cost 0.5. In the web app, a single generation can run to 10,000 characters on Eleven v4 and 5,000 on other models."}},{"@type":"Question","name":"How much does AI dubbing cost?","acceptedAnswer":{"@type":"Answer","text":"Dubbing is billed per source minute for each target language. In the app, automatic dubbing uses 2,000 credits per minute with a watermark or 3,000 without. Dubbing in ElevenCreative uses 5,000 or 10,000, and Dubbing v2 uses 13,500. Enterprise pricing is custom."}},{"@type":"Question","name":"How much do Image & Video generations cost on ElevenLabs?","acceptedAnswer":{"@type":"Answer","text":"Image & Video is included from Starter upward and uses shared credits. Free includes images only, up to 3 per day. Cost varies by model, resolution, and length and is shown before you generate. API use needs Pro or above."}},{"@type":"Question","name":"When do my ElevenLabs credits reset, do they roll over, and can I top up?","acceptedAnswer":{"@type":"Answer","text":"Credits reset each billing cycle, starting the day you subscribed. On paid plans, unused credits roll over for up to two months, up to 2x your quota (balance capped at 3x). Rollover ends if you downgrade or cancel and does not apply to Free. Pay-as-you-go top-ups are separate and expire 12 months after purchase. Your balance is on the subscription page."}},{"@type":"Question","name":"Do you offer annual billing and what does it cost?","acceptedAnswer":{"@type":"Answer","text":"ElevenLabs offers annual billing with two months free. Annual prices are $60 (Starter), $220 (Creator), $990 (Pro), $2,990 (Scale), and $9,900 (Business), which is $5, $18.33, $82.50, $249.17, and $825 per month. Until December 1, 2026, Black Friday lowers the first-year price of Creator and Pro."}},{"@type":"Question","name":"Am I charged for every generation and can I regenerate for free?","acceptedAnswer":{"@type":"Answer","text":"Credits are charged per generation and not per download. On the website, you’re able to get 2 free regenerations within 2 hours if the text, voice, and model stay the same. This does not apply to ElevenAPI or Enterprise workspaces."}},{"@type":"Question","name":"What happens if I upgrade, downgrade, or cancel my subscription?","acceptedAnswer":{"@type":"Answer","text":"Moving to a higher plan restarts your billing cycle straight away, and any credits you haven't used carry over into the new allowance. Moving down or cancelling keeps your current plan running until the cycle ends. After that your workspace drops to Free and leftover paid credits are lost. You can cancel whenever you like."}},{"@type":"Question","name":"What payment methods and currencies does ElevenLabs accept?","acceptedAnswer":{"@type":"Answer","text":"Pay by credit card, Apple Pay, or Google Pay. UPI is also available in India, where charges are in INR, while all other customers pay in USD. Choose monthly or yearly billing. Prepaid cards cannot be used directly. Prices exclude taxes, levies, and duties, which are added at checkout."}}]}]}

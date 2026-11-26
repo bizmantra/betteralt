@@ -1,0 +1,523 @@
+#SNAPSHOT {"url":"https://diderot.dev","finalUrl":"https://diderot.dev/","fetchedAt":"2026-11-26T03:37:33.687Z","method":"fetch","region":"us","currency":"USD","http":200,"sha256":"1eec0e000bbe96f8716d0545daf362576e727635dae453d1bcd13e88a649c619"}
+Diderot: ask what your team's coding agents did, and why Skip to content
+ Diderot
+ How it works
+ Quickstart
+ Docs
+ GitHub
+ Ask what your team's coding agents did, and why.
+ A coding agent's session holds what nothing else records: the commands it ran, what they printed, what it tried and abandoned, and why. Diderot is an open-source server you run. It indexes those sessions alongside your team's chat, issues and docs, searches all of it over several rounds, and answers with citations.
+ Run the quickstart
+ Read the docs
+ Coding-agent sessions 
+ Claude Code, Codex and other harnesses
+ Chat 
+ Slack, Discord
+ Issues 
+ Linear
+ Wiki 
+ Notion
+ Support desk 
+ Zendesk
+ Docs folder 
+ Any folder of Markdown files
+ Answers in Slack, Discord, your shell, MCP, an HTTP API 
+ Models Yours, chosen per job
+ Prompts Yours, edited and versioned in the browser 
+ Runs on Your Postgres and Qdrant, as one Go server 
+ License MIT or Apache-2.0. No paid edition
+ How a session becomes searchable
+ See Agent-session ingest
+.
+ A session can run for hours. Diderot summarizes each chunk and the whole session, embeds both summaries, and keeps the transcript. A question finds the right ten minutes and gets back the command as it was typed. Sessions arrive from the diderot client on each person's machine, or from an uploader of your own.
+ Pause animation 1 A session's transcript, cut into chunks
+ 2 Each chunk summarized and embedded, then the whole session
+ Tomás's session Claude Code · 1 h 34 min · 212 records prompt
+ agent
+ tool call
+ output
+ Session summary
+ Moves store-14 to the new provider. The old group had no disk layout for the box; with the right group, RAID1 came up at /data. Resync finished before cutover.
+ [0.31, −0.12, 0.44, …]
+ Chunk 1
+ Reads the migration runbook and the inventory. [0.08, 0.27, −0.33, …]
+ Chunk 2
+ The old provider's group has no disk layout for this box. Sets the instance type and the new group. [−0.21, 0.40, 0.02, …]
+ Chunk 3
+ prepare succeeds. /dev/md127 is RAID1 on both NVMe drives, mounted at /data, resyncing. [0.12, −0.48, 0.07, …]
+ Chunk 4, new
+ Resync finished. Copies the data and cuts over. [0.36, 0.05, −0.19, …]
+ 3 A question lands on the nearest summary
+ “Did Tomás hit any issues setting up RAID on the new box?” [0.11, −0.45, 0.09, …]
+ nearest: chunk 3
+ 4 expand returns that chunk's records, as recorded
+ $ cat /proc/mdstat
+md127 : active raid1 nvme1n1[1] nvme0n1[0]
+ [2/2] [UU] resync = 4.8%
+$ df -h /data
+/dev/md127 3.5T 25G 3.5T 1% /data 
+ Memory an agent searches, instead of a file it loads
+ A memory file such as CLAUDE.md or AGENTS.md is loaded into the context window at the start of every session, whether the task needs it or not. Someone has to keep it short enough to fit, and it lives in one repository or on one machine.
+ Diderot keeps agent sessions alongside your team's chat, issues and docs in Postgres and Qdrant. Corpus text enters an agent's context window only when the agent calls a tool: retrieve for the passages that match a question, expand for up to 64 KiB of the transcript, thread, issue or page behind a hit. A new session can find what an earlier one did, yours or a colleague's, within what the caller may read.
+ Six examples
+ What a teammate ran into, from his agent session
+ diderot App
+ Messages
+ I
+ Ingrid 10:01 PM
+ when migrating store-14, did Tomás bump into any issues setting up raid on the new provider's box?
+ diderot App
+ 10:03 PM
+ No RAID creation failure is recorded in Tomás's store-14 migration. There was a configuration gotcha beforehand: the new box needed instance_type=metal-nvme-2x and membership in store_west_newdc , rather than the old provider's group, to resolve the correct disk layout. He began the migration with both set. agent session, 9 November
+ After prepare succeeded, the recorded checks showed /dev/md127 , RAID1 across nvme0n1 and nvme1n1 , both members healthy ( [UU] ), mounted as a 3.5T XFS filesystem at /data . The only RAID-related delay noted was the initial resync, about five hours remaining at that check. By 11 November it had finished, before cutover. verification output
+ What Diderot did
+ retrieve “store-14 migration Tomás RAID setup issues”, across every source at once
+ agent session
+ Tomás, 9 and 12 November: moving store-14 to the new provider
+ Slack
+ #ops-deploys, 9 November: “Started migrating store-14”
+ retrieve five narrower searches of Tomás's agent sessions, by his email, 9 to 13 November
+ agent session
+ expand three stretches of his session
+ agent session
+ Why the scripts are split, from the sessions that reviewed the change
+ $ 
+diderot ask "In the app repo, why are lexicons:install ('lex install') and lexicons:verify ('lex install --ci') separate scripts, with verification in an explicit CI step instead of postinstall? Find the implementing PR or discussion."
+ Because the app commits its lexicons, so there is nothing to fetch at install time. Install-time work is pure codegen, and lex install --ci is only a drift check on files already in git, which belongs in the PR gate. package.json
+, lint.yml
+ The first draft followed the upstream README literally and chained lex install --ci && lex build into postinstall. Priya's Claude session
+ By the version reviewed and landed, three weeks later, verify had moved out to a lexicons:verify entry in the lint matrix. Priya's later Claude session
+ The same reviews spell out the cost of loading postinstall: it runs on every install without --ignore-scripts , including the Docker image build, so a broken vendored lexicon would fail pnpm install outright. That's tolerable for lex build (deterministic, offline, needed for the tree to compile) and not for a network-resolving verification. I didn't find a written-up design doc; the rationale I can cite lives in the PR reviews.
+ What Diderot did
+ code_search the two scripts and postinstall in the app repo
+ code
+ retrieve “move lex install --ci out of postinstall into an explicit CI step”, in agent sessions, Slack, Linear and Notion
+ agent session
+ Priya's sessions on the lexicon codegen PR and its reviews
+ retrieve four narrower searches of agent sessions, one by Priya's email
+ agent session
+ expand two stretches of those sessions
+ agent session
+ code_read package.json and the lint workflow, as they stand today
+ code
+ A PagerDuty alert, traced to a reboot an agent had scheduled
+ Thread #alerts
+ P
+ PagerDuty App
+ 11:04 PM
+ Triggered #4312: auth-gateway routed HTTP 500 count above 500
+ 2 replies
+ diderot App
+ 11:07 PM
+ Likely cause: a scheduled auth-gateway database failover/reboot, with lingering connection-pool recovery problems. Impact was real but already subsiding at 07:04:56 UTC; recovery was not complete. Kofi's agent session launched a background job for 07:00 UTC, rebooting analytics first and then the main production database. That closely matches PostgreSQL startup errors beginning at 07:02:48 UTC, but the job's output and the provider's events still need checking before calling causation confirmed. Scheduled reboot evidence
+ Impact. 684 HTTP 500s of 328,350 eligible requests (0.208%) in ten minutes. Session refresh dominated: 579 failures, 84.7% of the counted 500s. By 07:04:56 the trailing minute had fallen to 5 of 31,012. Improving, not yet recovered. auth-gateway dashboard
+ Supporting evidence. 07:02:48.750: “Connection terminated unexpectedly.” From 07:02:48.781: PostgreSQL 57P03, “the database system is starting up.” 07:03:26: main-pool queues of roughly 200 to 1,000 on almost every host. Every host kept the same revision throughout, so an application rollout is less supported. Telemetry
+ Safe next checks. Confirm the scheduled reboot actually ran. Require sustained recovery: per-host queues near baseline and no new database timeouts, not merely a cleared alert.
+ Possibly related agent work. Kofi, production database migration, session last active 05:02 UTC. Applied new database parameters and launched the 07:00 UTC analytics-then-main failover reboot job. This directly touches the failing dependency. Agent session
+ diderot App
+ 11:07 PM
+ @Kofi
+ is this related to the work you're doing? Production database migration
+ What Diderot did
+ investigate_observability hands the alert to an investigator, which queries Grafana: impact by route, error fraction, onset, what changed
+ metrics
+ list agent sessions active in the 24 hours before the alert
+ agent session
+ retrieve six searches of agent sessions from the previous 24 hours, including “auth-gateway database reboot” and “parameters pending reboot”
+ agent session
+ expand five stretches of the session that set up the reboot job
+ agent session
+ One rundown from Slack, agent sessions, Linear and a postmortem
+ Thread #ops
+ L
+ Lena 2:40 PM
+ @diderot
+ can you give a rundown of the scylla repair actions that started on October 12?
+ 1 reply
+ diderot App
+ 2:43 PM
+ It started as a catch-up repair after discovering there was no recurring Scylla repair process. It exposed substantial replica drift, ran into a file-descriptor incident and a separate crash, and ended with manual repairs of both main clusters plus a weekly scheduler. 
+ 12 Oct, first repair. Emeka flagged the missing process and began a one-node-at-a-time manual pass. The first run, on db1.dc1, completed all but one of about 30,000 token ranges and synchronized more than 300 million row copies. #ops thread
+ 13 Oct, stopped after FD exhaustion. db15.dc1 hit “Too many open files” while processing repair work and shut down CQL and gossip. The repair chain was stopped, and traffic failed over to dc2. Emeka's agent session
+, incident report
+ 14 Oct, a separate crash. Three dc1 nodes segfaulted. The likely trigger was the consistency checker's MUTATION_FRAGMENTS queries hitting a known row-cache bug, not repair streaming itself. Core-dump handling prolonged the node outages to 14 to 28 minutes. incident report
+ 14 to 15 Oct, resumed with safeguards. Repairs restarted with FD and latency auto-abort guards and finished dc1. #ops, 15 October
+ Outcome. Both clusters' one-off repairs finished. The replacement for the missing process is a resumable systemd-timer scheduler: one cluster-wide job at a time, retries, health guards, a fixed daily window, one cluster on each of two days a week. OPS-412
+ What Diderot did
+ retrieve “Scylla repair actions started October 12”, across every source at once
+ Slack
+ #ops, 12 to 15 October: the repair thread, “dc1 scylla repair finished successfully”
+ agent session
+ Emeka, 16 October: the scheduled-repair plan and its reviews
+ Linear
+ OPS-412 and two follow-ups on the weekly repair
+ retrieve Slack alone, 12 to 17 October (30 results)
+ Slack
+ expand OPS-412 and three Slack threads
+ Linear
+ Slack
+ retrieve two searches of agent sessions for those days, one by Emeka's email
+ agent session
+ code_read the incident report in the infra repo
+ code
+ Follow-ups from two people in one thread, including a source check
+ Thread #ops
+ B
+ Bea 12:01 PM
+ @diderot
+ Can you give me the start and end times, in Pacific time, for the last search deployment, please?
+ 5 replies
+ diderot App
+ 12:03 PM
+ The last search deployment ran today, Aug 19, from 11:12:41 AM to 11:32:06 AM PDT , about 19 minutes 25 seconds .
+ Those boundaries are the first search-specific Ansible action through the final host's last Docker Compose task.
+ B
+ Bea 12:02 PM
+ @diderot
+ where are the ansible or configuration used during this recent deploy
+ diderot App
+ 12:06 PM
+ The search deployment Ansible and config lives in the infra repo under pop/ :
+ Playbook: pop/search.yaml
+ targets the search group and invokes the role.
+ Production inventory: pop/inventories/pop/00-search
+, five hosts in each of dc1 and dc2.
+ Deployed version: group_vars/search.yaml
+ currently pins 9c41e2a , matching the version observed after this deployment.
+ Deployment tasks: tasks/main.yaml
+ renders the env file and compose.yaml ; tasks/start.yaml
+ starts the Compose services sequentially.
+ The telemetry didn't expose the controller-side command or exact commit used, but its Ansible task names, hosts, generated file locations and resulting image version match these paths.
+ D
+ Dara 12:16 PM
+ I was about to say I didn't think diderot could figure this out. cc @diderot
+ what's your source for the exact deploy timing?
+ diderot App
+ 12:19 PM
+ Fair call: this wasn't sourced from a canonical deploy record . I inferred the interval from target-side Ansible output in Loki's systemd-journal streams:
+ {job="systemd-journal",
+ agent_hostname=~"search[1-5]\\.dc[12]",
+ unit=~"session-.*\\.scope"}
+|~ "(search|Docker compose)" 11:12:41.062 AM PDT: first search-specific action, Ansible creating the log directory on search1.dc1. Generic Ansible setup began 1.417 seconds earlier.
+ 11:32:06.051 AM PDT: last target-side Compose log on search5.dc1.
+ Application logs corroborated one restart for each of 40 containers across ten hosts. The final container reported search is ready at 11:32:13.192 AM PDT.
+ So I overstated it as exact “deploy timing.” More accurately, 11:12:41 to 11:32:06 was the inferred Ansible-operation span ; if completion means final application readiness, the observed end was 11:32:13 AM. There was no controller-side recap or explicit deployment-complete event in the telemetry.
+ What Diderot did
+ For Bea's question
+ retrieve “most recent search deployment start time end time”, once in Slack and once in agent sessions
+ Slack
+ agent session
+ investigate_observability hands it to the investigator: find the most recent completed deployment and say which definition of start and end was used
+ metrics
+ For Bea's follow-up
+ retrieve “search deployment August 19 Ansible playbook inventory version”, in agent sessions and in Slack
+ agent session
+ Slack
+ code_search eight searches of the infra repo for the role, inventory and variables
+ code
+ code_read the playbook, the tasks, the defaults, the two templates, the inventory and its group variables
+ code
+ expand the “deploying search now” thread in #ops
+ Slack
+ For Dara's challenge
+ investigate_observability re-runs the log queries and reports the labels and the first and last lines matched
+ metrics
+ The notice was only a screenshot of an email
+ #team-infra 
+ Tuesday, September 29th
+ N
+ Noor 11:06 AM
+ looking at the infra@ inbox
+ Screenshot at 11.05.48.png
+ Inbox · infra@
+ !
+You have an unresolved abuse case that requires immediate attention
+ Case #48213 on your account is still unresolved. To avoid service interruption, resolve it now: it will be suspended automatically within the next 24 hours.
+ Affected zone media-origin 
+ Resolve abuse case
+ Today
+ N
+ Noor 9:12 PM
+ @diderot
+ what did that abuse notice from the CDN in the infra@ inbox say? which zone was it about, and what was the deadline?
+ 1 reply
+ diderot App
+ 9:13 PM
+ The notice said abuse case #48213 was still unresolved and required immediate attention to avoid service interruption.
+ Zone: media-origin 
+ Deadline: resolve it immediately or face automatic suspension “within the next 24 hours.” 
+ That's from the email screenshot you shared from the infra@ inbox on September 29
+. The screenshot doesn't show the email's sent time, so it doesn't establish an exact cutoff timestamp.
+ What Diderot did
+ retrieve “CDN abuse notice infra@ inbox zone deadline”, across every source at once
+ image
+ #team-infra, 29 September: text read from a screenshot of the notice
+ Slack
+ #ops: older messages about the CDN
+ support desk
+ five tickets, none matching
+ expand the message the screenshot is attached to
+ Slack
+ image
+ Drawn from real Diderot sessions, with names and identifying details changed.
+ Several rounds of retrieval, not one search
+ Diderot's first move is one search across every source. Each source is ranked on its own and the best few results of each come back together, so a runbook or an issue is not buried under a busy chat. Then it works in rounds: retrieve in one source for more, list for everything matching a filter, expand for the full thread, page, issue or stretch of a session around a hit. It answers when every claim rests on something it has read, and cites it.
+ If you connect them, it can also search your code, search the web, call the read-only tools of MCP servers you connect in the admin UI, and hand an investigation of your telemetry to a separate investigator. Slack, Discord, the shell, MCP and the HTTP API all run this same loop.
+ One place to ask
+ See Design: sources
+.
+ The answer to a real question is usually spread across chat, the tracker, the wiki and agent sessions. Instead of asking a Slack assistant, then a Linear one, then grepping transcripts, you ask one corpus that holds all of it.
+ Coding-agent sessions The transcripts you send it, from Claude Code, Codex and other harnesses. 
+ Slack Messages and threads in the channels the bot is in, with their images and PDF, DOCX and XLSX attachments. 
+ Discord The channels you choose, with their threads and forum posts. 
+ Linear Issues and their comments. 
+ Notion The page trees you choose. 
+ Zendesk Tickets, their comments and Help Center articles. 
+ A folder of Markdown files A docs repository, runbooks, a handbook. 
+ Images too. AI vision reads what is inside your images, so screenshots, charts and scanned documents are searchable by their content.
+ Your models, your prompts
+ See Inference providers
+ and Prompts
+.
+ Every job takes the model you give it
+ Diderot ships with no model and starts with none configured. In the admin UI you add a provider: OpenAI, Anthropic, or anything that speaks OpenAI's API, such as a gateway or a local Ollama or vLLM. Diderot lists the provider's models, and you choose one for each job: answering, embedding, summarizing sessions, describing images. Each is tested before it is saved, and there is no configuration file for any of it. One install can mix a hosted model for answers with a local one for embeddings.
+ Every prompt is yours to change
+ The instructions Diderot sends to a model are named prompts in one catalog: how Ask researches, how it writes for Slack, how it summarizes a session, describes an image and investigates an alert. You edit them in the browser. Changes collect in a draft, shown line by line against the live text, and go live together as one version with a note. Any earlier version can be made live again, and an optional note about your organization tells Ask where your team keeps things.
+ MIT or Apache-2.0, one edition
+ Diderot is open source under the MIT or Apache-2.0 license, at your choice. The whole codebase is in the repository
+, and there is no paid edition.
+ For coding agents
+ See The diderot command
+ and MCP endpoint
+.
+ To connect your coding agents, install the diderot client on your own machine and give it a server's URL. It signs in, registers Diderot's MCP server with the coding agents you name, and installs the skill that teaches them when and how to use it:
+ brew install bluesky-social/tap/diderot
+ diderot setup https://diderot.example.com \
+ --harness claude-code,codex
+ diderot doctor
+ diderot ask "What did we decide about the billing migration?"
+ setup Knows Claude Code, Codex, Cursor, OpenCode and Pi. It works out how to sign in from the URL: an API token, or OAuth in your browser when the server or a gateway in front of it publishes MCP authorization metadata, as a Diderot server in oidc mode does. It changes only the diderot entry in each agent's configuration, and running it again is safe. 
+ doctor Checks the connection, the sign-in and everything setup configured. It changes nothing. 
+ ask Asks from the shell and prints the answer with its citations. --session asks a follow-up in the same conversation. 
+ sessions On a terminal, after sign-in, setup checks that the server takes sessions from your account, lists the Claude Code and Codex session directories it finds on your machine, and offers to ship them. If the server does not, it asks nothing and installs nothing. Yes installs a background service under your own account, a launchd agent on macOS or a systemd user unit on Linux. It converts each session on your machine and sends the whole transcript to that server, unredacted, with images left out. diderot sessions install does the same later, and uninstall removes the service. Sessions are stored but not searchable until an administrator has chosen a model for both session-summary jobs on the server's Models page. 
+ Without Homebrew, download the release archive
+ for Linux or macOS and check it against the release's checksums.txt , or build it with go install github.com/bluesky-social/diderot@latest . The download holds only the client commands setup , doctor , ask and sessions ; the server's commands are in the container image. Off a terminal every command prints one JSON object, so scripts and agents can drive it.
+ The MCP server underneath
+ Everything setup , doctor and ask do goes through the server's MCP endpoint, /mcp , which every install serves over streamable HTTP with the same bearer token the HTTP API takes. Any other MCP client can point at it directly. It has the tools Ask itself uses, retrieve , list and expand , plus attachment , which returns an image or a document's extracted text, and ask , which returns a full cited answer. ask runs as an MCP task, so it needs a client that implements the MCP Tasks extension; the other four work in any client. Each call sees what the caller's identity may see.
+ Without MCP, the same token works on the plain HTTP API: POST /v1/ask , /v1/retrieve , /v1/list and /v1/expand-chunk .
+ In Slack and Discord
+ See Slack app setup
+ and Discord
+.
+ Mention Diderot in a channel and it answers in a thread; message it directly and it answers there. A thread or a direct message is one conversation, so a follow-up carries the earlier questions with it, whoever asks. Slack and Discord run on the same engine, each in its own idiom.
+ Thread #platform
+ L
+ Lena 2:31 PM
+ @diderot
+ which services still read from the old queue?
+ 👀 1
+ diderot is working…
+ Stop
+ In Slack: 👀 on the question, a working status with Stop, then ✅ when the answer is posted. #api-help
+ webhook retries give up after 5 
+ N
+ Noor Today at 4:17 PM
+ @Diderot
+ is there a way to raise the webhook retry limit?
+ Diderot APP
+ Today at 4:17 PM
+ Working on it…
+ Stop
+ In Discord: a thread from the question, and a placeholder with Stop that the answer replaces. Thread #billing
+ Summarize thread
+ Summarize privately
+ diderot App
+ 9:40 AM
+ Summary 
+The thread settled how long deleted receipt uploads are kept: soft-deleted, then purged after 180 days, because a card dispute can arrive up to 120 days after the charge. The nightly export does not yet filter deleted rows.
+ Action Items 
+ 📌 @Tomás: add the deleted_at filter to the export
+ 📌 @Jun: confirm 180 days with the auditors
+ Summarize a thread from the message menu, for everyone or only for you. In Slack, what people pinned with 📌 becomes the action items. #general
+ /ask question what changed in 2.3?
+ private True
+ Diderot APP
+ Today at 9:02 AM
+ Failed webhook events can be replayed for seven days, and retries are logged per attempt. #announcements, 2.3 release notes
+ Only you can see this
+ /ask in any Discord channel or direct message, with private to keep the answer to yourself. 
+ It connects out. Slack over Socket Mode and Discord over its gateway, so neither needs a public URL for Diderot. You create the Slack app from the manifest in the repository and the Discord bot in Discord's developer portal.
+ You choose where it reads and where it answers. In Slack it reads the channels its bot is in: invite the bot and it backfills that channel's history, then keeps up. In Discord it reads the channels you choose. An administrator turns Ask on or off per channel, and in Discord it is off until turned on.
+ An answer in a channel uses only what that channel can read. A private Slack channel's messages reach only its members, matched by email. An answer in a Discord channel draws on that channel, the server's other open channels and public content; a direct message or a private /ask draws on public content and the channels the asker can read in Discord.
+ Slack has a few things of its own. A direct message starts with four questions you set in the app's manifest, and knows which channel you have open. Scheduled reports go to a channel. A PagerDuty alert gets an investigation in its own thread and as a note on the incident, once you enable the PagerDuty connector and give Ask a Grafana tool connection.
+ Administration
+ See Setup
+.
+ You set up and run an install from the browser, at /admin : a setup checklist, connectors and their channels, the model for each job, versioned prompts, scheduled reports, failures and jobs, an audit log of every administrator action, and every Ask conversation with the tool calls behind its answer.
+ Fixture data. 
+ Try it on one machine
+ See the full Quickstart
+, including troubleshooting.
+ The quickstart runs Postgres, Qdrant, a local embedding model and the server with Docker Compose. You need Docker Engine 25 or later with Compose v2.24.4 or later, about 4 GB of memory for Docker, about 9 GB of free disk, and an API key for OpenAI, Anthropic or another provider. With no other source, it can index Diderot's own documentation, so there is something to ask about.
+ Start it. It needs no settings file and no key yet. The first run builds the server image and downloads the embedding model, which takes a few minutes.
+ git clone https://github.com/bluesky-social/diderot.git
+ cd
+ diderot
+ docker compose -f compose.quickstart.yaml up -d --wait
+ Open http://localhost:9091/admin and sign in as admin / admin . On Models , add your provider with its key and the bundled local embedder; Diderot lists their models, and you choose one for embeddings and one for each job.
+ Finish the setup checklist: name your organization, turn on a source (a folder of Markdown files needs no account) and go live. One step replaces the admin account.
+ Ask. Connectors sync in the background, and each item is searchable as soon as the embedder has processed it. The local embedder takes a few minutes to index Diderot's docs. Ask answers 503 for a moment after the server starts: retry.
+ export
+ DIDEROT_TOKEN
+ =
+ "
+ $(
+docker compose -f compose.quickstart.yaml run --rm -T init cat /keys/api-token )
+ "
+ curl -sS http://localhost:9091/v1/ask \
+ -H "Authorization: Bearer 
+ $DIDEROT_TOKEN
+ "
+ \
+ -H 'Content-Type: application/json'
+ \
+ -d '{"question": "How do I add a source to Diderot?"}'
+ Connect your coding agents. Install the diderot client ( other ways to install it
+); in the same shell, setup registers the server with them and installs the agent skill:
+ brew install bluesky-social/tap/diderot
+ printf
+ %s "
+ $DIDEROT_TOKEN
+ "
+ |
+ diderot setup http://localhost:9091 \
+ --harness claude-code --token-stdin
+ diderot doctor
+ diderot ask "How do I add a source to Diderot?"
+ To ship your own Claude Code and Codex sessions too, turn on session push and choose a model for both session-summary jobs on Models , as the Quickstart's Agent sessions
+ describes, then run diderot sessions install .
+ Any other MCP client points at http://localhost:9091/mcp with the token as a bearer credential.
+ The quickstart listens on 127.0.0.1 only. Ask sends each question, and the corpus text it reads to answer it, to the model provider you added.
+ How it is built
+ See Design
+ and Adding a source
+.
+ Connectors read each source, by live events, periodic sync, HTTP push or a folder scan, depending on the source.
+ The events sink writes one row per message, page, issue or session, idempotent on source and external ID. It skips content that has not changed, so nothing is embedded twice.
+ Postgres is the source of truth: events, chunks, settings, prompts and every Ask conversation.
+ The embedder cuts each event into chunks, embeds them through your embedding model, and marks a chunk embedded only after its vector is written. A vision model describes each image and transcribes its text; the embedder embeds that description, not the pixels.
+ Qdrant holds the vectors, with each chunk's permission scope in its payload.
+ Surfaces : a mention or direct message in Slack or Discord, the MCP server at /mcp , and POST /v1/ask . All run the same loop.
+ Ask calls retrieve , list and expand , plus any optional tools you enabled, until it can answer. retrieve searches Qdrant; list , expand and the text of every hit come from Postgres, which checks each event's scope a second time.
+ Model providers are the endpoints you add in the admin UI, called by the embedder and by Ask. Each request goes to the provider its model names, with that provider's key.
+ Retrieval is vector-only: Diderot embeds the question and Qdrant returns the nearest chunks the caller may see. A search across several sources ranks each source on its own and returns the best few of each. There is no reranker and no keyword index. When a question contains an exact handle (a Slack permalink, a Linear issue key, a session ID), Diderot reads that record directly instead of searching.
+ A source of your own is one Go package and one registration line.
+ Running it for a team
+ See Running in production
+, with a complete Kubernetes example, and the configuration reference
+.
+ The server One image runs the HTTP API, the browser UI, the MCP endpoint and the background workers. It is distroless, runs as a non-root user, and comes for linux/amd64 and linux/arm64 . Each release is published at ghcr.io/bluesky-social/diderot ; to run a change of your own, build it with the repository's Dockerfile . 
+ Postgres 14 or later Holds every event, setting, sealed secret and conversation. The server applies its own migrations when it starts. Connect directly or through a session-mode pooler. 
+ Qdrant Holds the vectors, over gRPC, with optional TLS and an API key. It needs no backup: Postgres can rebuild it, at the cost of embedding the whole corpus again, and searches find less until that finishes. 
+ Model providers At least an embedding model and a model for Ask, added on the Models page once the server is up. Each request goes to the provider its model names, with that provider's key and no other. 
+ Object storage, optionally An S3-compatible bucket, if you want image captions and PDF, DOCX and XLSX extraction. Without one, attachments are not indexed. 
+ An identity provider, or not OIDC bearer tokens from your IdP, static tokens, or a loopback-only mode with no auth. The browser UI signs in through your IdP, sits behind an authenticating proxy, or signs in locally. 
+ What each job needs from a provider
+ Job
+ Needs a model served over
+ Embeddings (indexing, and every question)
+ An OpenAI-compatible /embeddings endpoint
+ Ask
+ The OpenAI Responses API or the Anthropic Messages API
+ Conversation titles
+ The OpenAI Responses API
+ Agent-session summaries
+ The Anthropic Messages API, the OpenAI Responses API or OpenAI-compatible Chat Completions, with a model that answers a forced tool call
+ Image captions, PDF extraction, thread summaries
+ OpenAI-compatible Chat Completions
+ A job runs only if some provider you added speaks its protocol; there is no fallback between providers. So with only Anthropic, conversations have no titles, and embeddings need a second provider, such as a local embedding server.
+ Replicas
+ Every replica serves the UI, retrieval, and Ask over the API and MCP. Work that must run once per deployment runs on an elected leader, chosen by a Kubernetes Lease or a Postgres advisory lock: the Slack connection and its answers, the embedder, and every connector's sync. More replicas add a standby for that work, not capacity for it.
+ The server exposes health and readiness endpoints, and Prometheus metrics on a port of their own. During a rolling update, the old release runs against the new schema. The project does not guarantee that this works.
+ Security, privacy and limits
+ See Authentication and authorization
+ and Known limits
+.
+ Who can read what
+ Diderot stamps every event with one scope when it ingests it. Every search filters on the caller's scopes, in the vector query and again when the text is read from Postgres. The server computes those scopes from where the question was asked; the model never chooses them.
+ Scope
+ Content
+ Who can read it
+ public 
+ Anonymously readable content
+ Everyone
+ internal 
+ Notion pages, Linear issues, documents from a folder of Markdown files, and agent sessions that are not owner-only
+ Every authenticated caller
+ slack-channel:<id> 
+ Messages in one Slack channel
+ Anyone, for a public channel; its members, for a private one
+ owner:<email> 
+ An owner-only agent session, or a one-to-one DM with the bot
+ Its owner
+ corpus:zendesk 
+ Support tickets, and Help Center articles that are not public
+ Holders of a grant in your policy file
+ discord-channel:<id> 
+ Messages in one Discord channel
+ Whoever you choose for that channel, every signed-in user or the groups your policy file names; asked in Discord, whoever can read the channel there
+ Over the API and MCP, a caller gets their own set; private channels come from their Slack memberships, matched by email and cached for five minutes. An answer posted in a Slack channel is read by everyone there, so it draws only on public and internal content, public channels, and that channel's own history, whoever asked. A policy file can narrow that further for a channel.
+ What leaves, and where to
+ Model providers. Each Ask question, with the conversation so far and the corpus text its searches returned, private Slack messages included. A short title for each new conversation. Text to embed, unless the embedding model is local. Session transcripts, images, PDF pages and Slack threads, when you turn on summaries, captions, extraction and thread summaries.
+ The services you connect. The APIs of the connectors you enable; Tavily, if you turn on web search; your Sourcebot, for code search; and the servers of your tool connections.
+ Your own infrastructure. Postgres, Qdrant, your object storage and your identity provider, wherever you run them. The quickstart's one other outbound connection is the first-start download of its embedding model from Hugging Face.
+ What it does
+ Keeps credentials separate. The API and MCP share one bearer credential. A browser credential is never accepted on either, and an API or MCP credential is never a browser session.
+ Seals pasted secrets. Diderot encrypts connector secrets entered in the admin UI with AES-256-GCM under a key you hold, or reads them from environment variables.
+ Audits administrators. Each state-changing action in the admin UI is recorded with the actor's email, its target and its outcome.
+ Admits Ask's MCP tools read-only. An administrator ticks the tools Ask may call on each tool connection. A ticked tool attaches only if it is in a reviewed read-only set or the server marks it read-only, unless the connection explicitly allows otherwise.
+ Hides events with no scope. If Diderot cannot determine an event's scope, no one can read it until it is stamped.
+ What it does not do
+ Mirror source permissions. Access rules inside Notion and Linear are not carried over: every signed-in user can read what you index from them, and Linear's private teams are not indexed. For people asking outside Discord, Discord's roles are not copied either: you choose who may read each channel when you index it. Every signed-in user can also read an agent session unless its owner marks it owner-only.
+ Redact. Neither the server nor the diderot client redacts a session: the client converts it and sends the whole transcript, images left out, and the server stores, summarizes, embeds and shows what arrives. Strip secrets before a session is sent, or leave a directory out with diderot sessions install --exclude .
+ Hide conversations from administrators. An administrator can read every Ask conversation in the admin UI.
+ Terminate TLS. Every listener speaks plain HTTP, and the metrics port has no authentication.
+ Rerank or match keywords. Retrieval is vector-only.
+ Know who a Discord user is. Discord gives a bot no email, so a question asked in Discord draws only on public content and the Discord channels its audience can read.
+ Serve more than one Slack workspace. 
+ Match a person whose email differs between your IdP and Slack. Email is the identity key.
+ Ship a Helm chart. You adapt the Kubernetes example.
+ Undo a migration, or delete one source's data on request.
+ To report a vulnerability, email security@bsky.app rather than opening a public issue.
+ Questions
+ Can I use it without Slack? Yes. Each source is turned on separately, the setup checklist needs only one, and the MCP server and HTTP API are on every install. So a deployment can index Notion, Linear, a folder of Markdown files or agent sessions and answer over MCP alone. Scheduled reports and PagerDuty investigations are delivered through Slack, and wait while it is off.
+ How do agent sessions get in? The diderot client sends them, or an uploader of your own does. On a terminal, after sign-in, diderot setup checks that the server takes sessions from your account, lists the Claude Code and Codex session directories on your machine, and offers to ship them. Yes installs a background service that converts each session there and sends the whole transcript to your server, with images left out and nothing redacted. A Diderot you run for yourself needs no other collector. An uploader of your own can push session files to the HTTP endpoint instead, in the format the agent writes: Claude Code, Codex, ATIF or Hugging Face session traces. Either way the server needs session push turned on, and sessions are stored but not searchable until an administrator has chosen a model for both session-summary jobs on the Models page, one that passes each job's test. Everyone who can sign in can read a session unless its owner chooses Only me for it on their sessions page. See The diderot command
+ and Agent-session ingest
+.
+ Does Slack need to reach my server? No. Diderot connects out to Slack over Socket Mode, so the server needs no public URL. The one inbound webhook is PagerDuty's, on a port of its own. That listener is always open, and answers 404 unless you turn PagerDuty investigations on.
+ What happens to questions asked while it is down? Messages sent while Diderot is down are read when it comes back, by the sync that backs up live events. A mention is answered only if Slack delivers it again: with Slack's Delayed Events setting on, questions asked during a short outage are answered too. See Keeping it running
+.
+ What will it spend on model calls? Each Ask question is one model call per round of searching and reading, up to a limit you set (8 by default), plus one to write the answer. Every new or changed chunk, and every question, is one embedding input. The readiness check sends a request of a few tokens on an interval, and each is billed. The admin UI shows the tokens and cost of every conversation.
+ How do I size it? Postgres holds one row per item and one chunk row for about every 1,000 characters of text. Qdrant holds one point per chunk, with the quantized vectors and the search graph in memory. The server's memory depends on load more than on the corpus: concurrent Ask turns, PDF extraction, image captions and pushed sessions. See Sizing
+.
+ How do I back it up? Back up Postgres, the key that seals pasted secrets, and the attachments bucket if you use one. Qdrant needs no backup, because it is rebuilt from Postgres, but the rebuild embeds the whole corpus again. See Backup and restore
+.
+ Can I change the prompts? Yes, in the admin UI. All model instructions are one catalog. Changes collect in one draft shared by administrators and go live together as one new version with a note, and any earlier version can be made live again. When a new Diderot release ships different prompt text, a "Shipped text" tab lists what differs and you tick what to take. A conversation keeps the version it started with. Tool descriptions are the exception: they live beside the tools, in the code. See Prompts
+.
+ How stable is it? Diderot is under active development and compatibility across versions is not guaranteed: the MCP tools, the HTTP API, schemas and settings change together. Breaking changes are called out in the release notes and in Upgrading
+. Database migrations run when the server starts and cannot be undone: to go back across a release that has one, restore the backup you took before upgrading.
+ Diderot
+ An open-source project from Bluesky, licensed under MIT or Apache-2.0, at your choice.
+ Named for Denis Diderot, who edited the Encyclopédie and put an asterisk at the head of the articles he supplied as its editor.
+ Documentation
+ Quickstart
+ Running in production
+ Design
+ Authentication
+ All documentation
+ Project
+ Source on GitHub
+ Releases
+ Contributing
+ Security policy
+ These pages ship no JavaScript and load nothing from other sites.

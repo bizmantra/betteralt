@@ -1,4 +1,4 @@
-# Gate report 2026-11-25T04:43:37.379Z
+# Gate report 2026-11-26T03:38:40.412Z
 
 - tools: 251, verified after gate: 236
 - links: 266 links checked, 0 dead

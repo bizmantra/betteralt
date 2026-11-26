@@ -1,0 +1,362 @@
+#SNAPSHOT {"url":"https://dovetail.com/pricing/","finalUrl":"https://dovetail.com/pricing/","fetchedAt":"2026-11-26T03:36:36.400Z","method":"playwright","region":"us","currency":"USD","http":200,"sha256":"84a3e8de1df2bf8e837387e6fcfed2c8f3cbee5e18bd0ec84aaa478d792f8492"}
+Skip to content
+ASK. NEVER GUESS.
+INTRODUCING DIGITAL TWINS →
+Product
+Solutions
+Resources
+Enterprise
+Customers
+Pricing
+Log in
+Book a demo
+Turn customer context into your competitive edge
+Every customer conversation holds a signal. Dovetail One brings them together as the shared customer context layer your teams and agents can act on.
+THE BEST NEVER GUESS
+Choose your
+plan
+Bronze
+For startups and small teams to turn customer feedback into business outcomes.
+5 users
+Coming soon
+WHAT’S INCLUDED
+$4,800 a year for the platform, plus credits at 15c each
+More than 40 integrations to bring every customer interaction into a live system of record
+MCP to bring customer context into your AI tools
+Channels to turn large volumes of feedback into evidence-backed ideas
+Agents to automate work, from monitoring signals to routing the next action to the right people
+Digital Twins to pressure-test ideas, run sales role plays, and talk to synthetic personas
+Chat to ask questions across your customer feedback in plain language with cited answers
+Projects to analyze customer calls, recordings, docs, and surveys
+Pay by card, billed annually
+Silver
+For businesses putting customer context to work across multiple teams.
+25+ users
+Talk to sales
+EVERYTHING IN BRONZE, PLUS
+Workspace context so Chat and Agents answer in your company’s terms
+Folders, workspace tags, fields, and templates to standardize work across teams
+Contacts enrichment and segments to see the accounts, revenue, and customer groups behind your feedback
+User and security controls so you can open up access without putting customer data at risk
+Access control and user groups to manage access by team
+Single sign-on (SSO)
+Custom subdomain
+Pay by invoice
+Priority support
+Gold
+For enterprises equipping every team and agent with customer context.
+100+ users
+Talk to sales
+EVERYTHING IN SILVER, PLUS
+AI-redaction to protect sensitive data in text, audio, and video
+Your choice of LLM provider and custom data retention
+SCIM provisioning that syncs access with your identity provider
+Custom reporting to monitor workspace usage and drive collaboration
+Custom contracts and security reviews, and a dedicated customer success manager
+30-day free trial
+Additional users available on Silver and Gold plans. Gold includes a 30-day free trial. Learn more
+One platform for every team
+ puts customer context to work across your business, with four packages, each purpose-built for a different use case.
+Voice of Customer
+Turn high volumes of tickets, surveys, and reviews into trends you can track, act on, and close the loop on with the customers who raised them.
+Product and Design
+Make roadmap decisions backed by evidence from every touchpoint, then push them straight into Linear, Figma, and AI coding tools.
+User Research
+Cut synthesis from weeks to days with AI, and build a searchable repository where every insight traces back to evidence.
+Revenue Intelligence
+Turn every sales and customer success conversation into shared intelligence, and role play calls with Digital Twins.
+READ CUSTOMER STORY
+“For us, the value of Dovetail is efficiency. And with the AI features, it means we can extract more value from the existing customer data that we already have. It’s very powerful and has changed the way we work.”
+Renato Leite
+Head of Research Ops, Itaú Unibanco
+30hrs
+Weekly time saved per user
+A full workweek back, every week. Powered by AI analysis.
+Download the Forrester Total Economic Impact™ Study
+Bronze
+Silver
+Gold
+Talk to sales
+Turn every customer
+interaction into context
+Connect more than 40 feedback sources into a live system of record. Each data point is processed once and turned into context your teams and agents use.
+Native integrations
+Connect support tickets, sales calls, surveys, reviews, and your CRM once, and feedback flows in automatically.
+Gold:
+Workspace Sources
+One system of record, with every ticket, call, and review stored once and reused across Dovetail.
+Gold:
+Multimodal processing
+Text, documents, audio, and video, cleaned up and enriched so they’re ready the moment they land.
+Gold:
+Transcription
+Transcribe calls and recordings in any language, with speakers matched to real names.
+Gold:
+Semantic indexing
+Find any piece of feedback by meaning, the moment it lands.
+Gold:
+Public API and CLI
+Build custom integrations for sources without a native connector.
+Gold:
+Translation
+Get summaries in your team’s language, whatever language the feedback is in.
+Gold:
+Contacts enrichment
+See who said what, their account value, and their segment.
+Gold:
+Find feedback patterns,
+ranked by impact
+Give every team a shared, prioritized view of customer needs, and a clear path to act on.
+Channels
+Organize high volumes of feedback into themes automatically, so patterns surface as they form.
+Gold:
+Ideas
+Identify recurring themes, ranked by how often they emerge.
+Gold:
+Projects
+Analyze interviews in depth, with highlights, tags, and multimedia reports.
+Gold:
+Summaries
+Get clear summaries in the frameworks your team already uses.
+Gold:
+Dashboards
+Make customer trends visible alongside key business metrics.
+Gold:
+Highlight reels
+Share the moments that make the case.
+Gold:
+Segments
+Focus on the customers that matter most, by plan, industry, or any customer group.
+Gold:
+Workspace structure
+Keep every team organized the same way, with folders, workspace tags, fields, and templates.
+Gold:
+Put customer context
+in every prompt
+Ask anything about your customers in plain language and get cited answers, in Dovetail or the AI tools your team already uses.
+Chat
+Ask questions across all your feedback and get answers with citations back to the source, with Fast and Deep research modes.
+Gold:
+Digital Twins
+Talk to evidence-based models of your customers and segments in real time, by text or voice, to pressure-test ideas and practice calls.
+Gold:
+Search
+Find the exact quote, theme, or account signal you need, by meaning or keyword.
+Gold:
+Dovetail in Slack and Microsoft Teams
+Ask Chat or a Digital Twin from Slack or Teams, even without a Dovetail account.
+Gold:
+Dovetail MCP
+Connect Claude, Copilot, Codex, Cursor, and Atlassian Rovo to one shared customer context.
+Gold:
+External MCP connectors
+Combine customer feedback with Salesforce, Notion, Hex, Canva, and more, in Chat and Agents.
+Gold:
+Workspace context
+Set guardrails once, with workspace context, custom prompts, and reusable skills.
+Gold:
+Go from feedback to
+shipped code faster
+Let AI Agents handle the recurring work, then push decisions into the tools where work ships, with the evidence attached.
+Agents
+Automate recurring work, from monitoring signals and finding patterns across conversations to routing the next action to the right people.
+Gold:
+Outbound integrations
+Push Ideas to Linear, Jira, Figma, and AI coding tools like Claude and Cursor, with the customer evidence attached.
+Gold:
+Docs
+Turn a Chat answer into a PRD, report, or strategy doc, with every citation attached.
+Gold:
+Team collaboration
+Make decisions next to the evidence, with comments, mentions, and shareable links.
+Gold:
+Control who sees what,
+at enterprise scale
+Give every team access to customer context without putting customer data at risk, with identity controls, redaction, and predictable spend.
+Certifications and compliance
+SOC 2 Type II, ISO 27001, ISO 42001, and GDPR.
+Gold:
+Customer data never trains models
+Generative AI runs in a private environment. Customer data never trains models, on every plan.
+Gold:
+Usage and billing visibility
+Track usage and credits in Settings → Billing, top up anytime, and manage user and credit overages.
+Gold:
+User and security controls
+Give admins control over who joins the workspace, what each person can do, and how data is protected.
+Gold:
+Custom subdomain
+Give your workspace its own address.
+Gold:
+Single sign-on
+Give everyone one secure login through your identity provider.
+Gold:
+User groups
+Manage access by team, not person by person.
+Gold:
+Content-based access control
+Control who sees what, with every answer checked against each person’s access.
+Gold:
+Data residency
+Choose the US, Europe, or Australia for hosting and processing.
+Gold:
+Audit log
+See who did what across your workspace.
+Gold:
+HIPAA
+Gold:
+Add-on
+SCIM provisioning
+Keep access in sync with your identity provider as people start and leave.
+Gold:
+AI redaction
+Blur faces and redact names, emails, and phone numbers the moment data lands.
+Gold:
+Choice of LLM provider
+Decide which models process your data.
+Gold:
+Custom data retention
+Set retention periods that match your policies.
+Gold:
+Visit the Trust Center
+Build customer context
+with expert support
+From workspace setup and onboarding to ongoing guidance, our team is here to help.
+Priority support
+Fast answers from experts when your team needs them.
+Gold:
+Pay by invoice
+Pay the way your finance team prefers.
+Gold:
+Dovetail Deploy
+Get a defined outcome, like a configured workspace or a historical data import, delivered by Dovetail experts.
+Gold:
+Add-on
+Custom contracts and security reviews
+Terms built around your procurement process, and expert help through your security review.
+Gold:
+Dedicated customer success manager
+A partner who guides rollout and adoption across every team.
+Gold:
+READ CUSTOMER STORY
+“Every time a stakeholder does a search and finds something interesting from our repository—that kind of smile or that look of surprise or that wow moment, that realization that customer insights are actually important. That’s how I measure the ROI of Dovetail.”
+Kevonte Mitchell
+Staff UX Researcher, Okta
+66%
+Faster shipping
+Faster from discovery to delivery—without sacrificing quality.
+Download the Forrester Total Economic Impact™ Study
+Pay only for the work
+that gets done
+Bring in feedback, query Chat, or run AI Agents. Track every credit in your usage dashboard.
+Get an estimate
+WHICH AI-POWERED FEATURES USE CREDITS
+HOW IT’S MEASURED
+Turning raw feedback into customer context
+Every call, ticket, survey, and review is transcribed, translated, summarized, classified, enriched, and indexed, once.
+1 credit
+PER DATA POINT
+Redacting sensitive data
+Remove personal information from text, audio, and video automatically.
+1 credit
+PER REDACTED DATA POINT
+Getting answers and automating work
+Query Chat, talk to a Digital Twin out loud, or automate work with Agents. A quick question costs less than a deep analysis.
+Variable
+PER TASK, BASED ON COMPLEXITY
+You stay in control
+Learn how credits work
+Review usage and your credit balance anytime in Settings → Billing.
+Add users or top up credits in the app, available immediately.
+Work past your limits with credit overages, on by default, billed monthly.
+The best never guess
+The
+best
+never
+guess
+Give every team and AI agent the customer context they need to do their best work. Start a free 30-day trial of Dovetail One Gold, or talk to us about the right plan.
+Book a demo
+Start a free trial
+FAQs
+Can’t find the answer here? Contact support
+How does Dovetail One pricing work?
+Dovetail One pricing has three parts: the platform, the users who can access your workspace, and credits, a shared AI usage balance for data processing and AI features. All three are billed together, annually. Credits are 15c each on every plan. Bronze is $4,800 a year for the platform and 5 users, paid by card. For Silver and Gold, talk to sales.
+What uses credits?
+Processing a data point uses 1 credit. That covers everything Dovetail does to it, from transcription and translation to classification, CRM enrichment, and indexing for semantic search. Chat responses, Digital Twin responses, and agent runs use credits based on the work needed to complete the task.
+How are redaction credits counted?
+Redaction uses 1 credit per data point, on top of the 1 credit used to process it. A transcript or recording is one data point, so redacting it uses 1 credit no matter how many redactions it has or how long the recording is. Suggested redactions you don’t apply don’t use credits.
+Do actions that fail or are canceled use credits?
+No. Credits are only used when an action finishes successfully. If a recording can’t be transcribed, an import is canceled, or you stop a Chat response before it’s complete, it doesn’t use credits. If Dovetail tries again after an error, the action only uses credits once.
+Does Dovetail in Slack and Teams use credits?
+Yes. Chat responses in Slack and Teams use credits from your workspace’s balance, including answers to questions from people who aren’t Dovetail users.
+What happens when we use all our contracted credits?
+Credit overages are on by default, so your workspace keeps working and additional credits are billed monthly, with no overage penalty. Workspace admins can turn overages off in Settings, and then data processing, Chat, agents, and Digital Twins stop until more credits are available.
+Do unused credits roll over?
+No. Credits are valid for the length of your contract, usually one year. Unused credits expire at the end of the contract and don’t roll over at renewal.
+Can we set credit budgets per user or feature?
+No. Credits are a single balance shared by the whole workspace. Every user can use Chat, agents, Digital Twins, and Channels, and all usage draws from the same balance.
+Can we change our users or credits during the contract?
+Bronze comes with a fixed number of users (5). On Silver and Gold, add users in the app whenever you need them, and they’re available immediately. Silver and Gold can also turn on user overages. On every plan, you can top up credits in the app at any time. You can’t reduce users or credits below your contracted amount until renewal. Admins count toward your number of users.
+PLATFORM
+Digital Twins
+NEW
+Channels 2.0
+Agents
+Dashboards
+BETA
+Projects
+Chat
+Docs
+Deploy
+Enterprise
+Customers
+Pricing
+ROLES
+Designer
+Researcher
+Product Manager
+Customer Experience
+Sales & CS
+Marketing
+USE CASES
+Voice of Customer
+Product Research
+Research Repository
+RESOURCES
+Blog
+Changelog
+Community
+Events
+Help centre
+Academy
+Live Demos
+CUSTOMERS
+Breville
+Okta
+Atlassian
+Canva
+Itaú Unibanco
+Zapier
+AWS
+CNH
+CONTACT
+Request a demo
+Contact sales
+COMPANY
+Careers
+Trust center
+Log in
+Book a demo
+© 2026 DOVETAIL RESEARCH PTY. LTD.
+COOKIE PREFERENCES
+LEGAL & PRIVACY
+FOLLOW US
+1
+
+#JSONLD (structured data published on the page, verbatim)
+{"@context":"https://schema.org","@type":"Organization","@id":"https://dovetail.com/#organization","description":"Dovetail One is the customer context layer for every team and AI agent. An AI-native customer intelligence platform, it ingests, organizes, and analyzes customer interaction data from calls, tickets, surveys, reviews, and research, then serves cited context to people and AI tools.","knowsAbout":["Customer context","Customer intelligence","AI agents","Digital twins","Model Context Protocol","Customer feedback analysis"],"legalName":"Dovetail Research Pty Ltd","location":{"@type":"PostalAddress","streetAddress":"Level 1, 276 Devonshire St","addressLocality":"Surry Hills","addressRegion":"NSW","postalCode":"2010","addressCountry":"AU"},"logo":{"@type":"ImageObject","url":"https://dovetail.com/logo.png"},"name":"Dovetail","sameAs":["https://www.crunchbase.com/organization/dovetail-app","https://www.g2.com/products/dovetail-research-pty-ltd-dovetail","https://www.trustradius.com/products/dovetail-user-research","https://twitter.com/hidovetail","https://www.linkedin.com/company/heydovetail/","https://www.youtube.com/channel/UCzST15vRd4wZ3wuR6PDutMA","https://www.facebook.com/hidovetail","https://instagram.com/hidovetail"],"url":"https://dovetail.com","contactPoint":[{"@type":"ContactPoint","contactType":"customer service","url":"https://docs.dovetail.com/"}]}
+{"@context":"https://schema.org","@type":"WebSite","@id":"https://dovetail.com/#website","description":"Dovetail One is the customer context layer for every team and AI agent. An AI-native customer intelligence platform, it ingests, organizes, and analyzes customer interaction data from calls, tickets, surveys, reviews, and research, then serves cited context to people and AI tools.","name":"Dovetail","url":"https://dovetail.com","publisher":{"@id":"https://dovetail.com/#organization"}}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://dovetail.com/pricing/#webpage","url":"https://dovetail.com/pricing/","name":"Pricing | Dovetail One","description":"Dovetail One pricing: one customer context layer for every team and AI agent, priced by platform, users, and shared credits. Start a free 30-day trial.","isPartOf":{"@id":"https://dovetail.com/#website"},"about":{"@id":"https://dovetail.com/pricing/#software"},"breadcrumb":{"@id":"https://dovetail.com/pricing/#breadcrumb"},"inLanguage":"en"}
+{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://dovetail.com/pricing/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Dovetail","item":"https://dovetail.com/"},{"@type":"ListItem","position":2,"name":"Pricing"}]}
+{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://dovetail.com/pricing/#software","name":"Dovetail","url":"https://dovetail.com","applicationCategory":"BusinessApplication","applicationSubCategory":"Customer intelligence platform","operatingSystem":"Web","description":"Dovetail brings every customer conversation into one connected source of customer context, then analyzes it, answers questions with cited evidence, and carries what you learn into the work.","publisher":{"@id":"https://dovetail.com/#organization"},"provider":{"@id":"https://dovetail.com/#organization"},"featureList":["Native integrations with more than 40 sources including Salesforce, Workspace Sources, multimodal processing, transcription and translation, semantic indexing, contacts enrichment, and a public API and CLI","Channels, Ideas ranked by frequency with accounts and revenue attached, Segments, Projects, summaries, Dashboards, workspace structure, and highlight reels","Chat with Fast and Deep research modes, Digital Twins, search, and workspace context","Dovetail in Slack and Microsoft Teams, Dovetail MCP for Claude, Copilot, Codex, Cursor, and Atlassian Rovo, and external MCP connectors","Agents, outbound integrations to Linear, Jira, Figma, Claude, and Cursor, Docs, and team collaboration","Customer data never trains models, user and security controls, custom subdomain, single sign-on, SCIM provisioning, user groups, content-based access control, AI redaction, data residency in the US, Europe, or Australia, choice of LLM provider, custom data retention, and audit log","SOC 2 Type II, ISO 27001, ISO 42001, and GDPR, with HIPAA available as a Gold add-on","Dovetail Deploy, priority support, pay by invoice, custom contracts and security reviews, and a dedicated customer success manager","A shared credit pool for AI work and data processing, with usage tracking, top-ups, and overages"],"offers":[{"@type":"Offer","name":"Dovetail One Bronze","description":"For startups and small teams to turn customer feedback into business outcomes. $4,800 a year for the platform, plus credits at 15c each. 5 users, more than 40 integrations, MCP for your AI tools, Channels, Agents, Digital Twins, Chat with cited answers, and Projects. Pay by card, billed annually.","price":"4800","priceCurrency":"USD","url":"https://dovetail.com/pricing/","category":"Subscription","availability":"https://schema.org/InStock","seller":{"@id":"https://dovetail.com/#organization"}},{"@type":"Offer","name":"Dovetail One Silver","description":"For businesses putting customer context to work across multiple teams. Everything in Bronze, plus 25+ users, workspace context, folders, workspace tags, fields, and templates, contacts enrichment and segments, user and security controls, access control and user groups, single sign-on (SSO), a custom subdomain, pay by invoice, and priority support.","url":"https://dovetail.com/pricing/","category":"Subscription","availability":"https://schema.org/InStock","seller":{"@id":"https://dovetail.com/#organization"}},{"@type":"Offer","name":"Dovetail One Gold","description":"For enterprises equipping every team and agent with customer context. Everything in Silver, plus 100+ users, AI-redaction, your choice of LLM provider, custom data retention, SCIM provisioning, custom reporting, custom contracts and security reviews, and a dedicated customer success manager.","url":"https://dovetail.com/pricing/","category":"Subscription","availability":"https://schema.org/InStock","seller":{"@id":"https://dovetail.com/#organization"}},{"@type":"Offer","name":"Free 30-day Dovetail One Gold trial","description":"Start a free 30-day trial of Dovetail One Gold.","url":"https://dovetail.com/auth/create-workspace","category":"Free trial","price":"0","priceCurrency":"USD","availability":"https://schema.org/InStock","seller":{"@id":"https://dovetail.com/#organization"}}],"potentialAction":{"@type":"CommunicateAction","name":"Talk to sales","target":{"@type":"EntryPoint","urlTemplate":"https://dovetail.com/contact-sales/","actionPlatform":["https://schema.org/DesktopWebPlatform","https://schema.org/MobileWebPlatform"]}}}
+{"@context":"https://schema.org","@type":"FAQPage","description":"Dovetail One pricing: one customer context layer for every team and AI agent, priced by platform, users, and shared credits. Start a free 30-day trial.","mainEntity":[{"@type":"Question","name":"How does Dovetail One pricing work?","acceptedAnswer":{"@type":"Answer","text":"Dovetail One pricing has three parts: the platform, the users who can access your workspace, and credits, a shared AI usage balance for data processing and AI features. All three are billed together, annually. Credits are 15c each on every plan. Bronze is $4,800 a year for the platform and 5 users, paid by card. For Silver and Gold, talk to sales."}},{"@type":"Question","name":"What uses credits?","acceptedAnswer":{"@type":"Answer","text":"Processing a data point uses 1 credit. That covers everything Dovetail does to it, from transcription and translation to classification, CRM enrichment, and indexing for semantic search. Chat responses, Digital Twin responses, and agent runs use credits based on the work needed to complete the task."}},{"@type":"Question","name":"How are redaction credits counted?","acceptedAnswer":{"@type":"Answer","text":"Redaction uses 1 credit per data point, on top of the 1 credit used to process it. A transcript or recording is one data point, so redacting it uses 1 credit no matter how many redactions it has or how long the recording is. Suggested redactions you don’t apply don’t use credits."}},{"@type":"Question","name":"Do actions that fail or are canceled use credits?","acceptedAnswer":{"@type":"Answer","text":"No. Credits are only used when an action finishes successfully. If a recording can’t be transcribed, an import is canceled, or you stop a Chat response before it’s complete, it doesn’t use credits. If Dovetail tries again after an error, the action only uses credits once."}},{"@type":"Question","name":"Does Dovetail in Slack and Teams use credits?","acceptedAnswer":{"@type":"Answer","text":"Yes. Chat responses in Slack and Teams use credits from your workspace’s balance, including answers to questions from people who aren’t Dovetail users."}},{"@type":"Question","name":"What happens when we use all our contracted credits?","acceptedAnswer":{"@type":"Answer","text":"Credit overages are on by default, so your workspace keeps working and additional credits are billed monthly, with no overage penalty. Workspace admins can turn overages off in Settings, and then data processing, Chat, agents, and Digital Twins stop until more credits are available."}},{"@type":"Question","name":"Do unused credits roll over?","acceptedAnswer":{"@type":"Answer","text":"No. Credits are valid for the length of your contract, usually one year. Unused credits expire at the end of the contract and don’t roll over at renewal."}},{"@type":"Question","name":"Can we set credit budgets per user or feature?","acceptedAnswer":{"@type":"Answer","text":"No. Credits are a single balance shared by the whole workspace. Every user can use Chat, agents, Digital Twins, and Channels, and all usage draws from the same balance."}},{"@type":"Question","name":"Can we change our users or credits during the contract?","acceptedAnswer":{"@type":"Answer","text":"Bronze comes with a fixed number of users (5). On Silver and Gold, add users in the app whenever you need them, and they’re available immediately. Silver and Gold can also turn on user overages. On every plan, you can top up credits in the app at any time. You can’t reduce users or credits below your contracted amount until renewal. Admins count toward your number of users."}}],"@id":"https://dovetail.com/pricing/#faq","isPartOf":{"@id":"https://dovetail.com/pricing/#webpage"},"about":{"@id":"https://dovetail.com/pricing/#software"}}
